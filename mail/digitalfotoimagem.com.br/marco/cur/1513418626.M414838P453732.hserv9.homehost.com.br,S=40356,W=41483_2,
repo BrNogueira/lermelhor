@@ -1,0 +1,1127 @@
+Return-Path: <aresultado@gmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br with LMTP id 2OaRGILvNFpk7AYAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Sat, 16 Dec 2017 08:03:46 -0200
+Return-path: <aresultado@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sat, 16 Dec 2017 08:03:46 -0200
+Received: from mail-wr0-f194.google.com ([209.85.128.194]:36588)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89_1)
+	(envelope-from <aresultado@gmail.com>)
+	id 1eQ9Jq-001uFv-Ax
+	for marco@digitalfotoimagem.com.br; Sat, 16 Dec 2017 08:03:46 -0200
+Received: by mail-wr0-f194.google.com with SMTP id u19so3657614wrc.3
+        for <marco@digitalfotoimagem.com.br>; Sat, 16 Dec 2017 02:03:24 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc;
+        bh=vttGmwsb6K+EmhNQVdMq2kpMOvUmocHdrdF8ldR/uPs=;
+        b=ectygt4uSsovPlCbBZAGcoam5FBhGXc8k5W8Qy/VIP2zcA0w41xu8JFl8dYmnVpinZ
+         xB4zZwS3bNyinwn8jP9vWfwEh6Oisz24mvKodByPcj8E2PzjmKMXI8TZxAh5SBXXlqEh
+         l76DtDknWtuDrRus+EruTRb2Vayxf0rbKNavKNhLbCNXOESouNv7pqGO6gS4JioHz9fF
+         lX9XfpN5buctz4aah3Lslz0wVRH9JI1jovFNCIh1O7K+YEC4t9OUsn9lNJmtJbfq1NQE
+         XP1GV8KwD/Rb+dtaNH1+annOSe85nwujElKW78LuRwteoZ2SRJaW555fdhVHSYSSeT0x
+         IkQw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:cc;
+        bh=vttGmwsb6K+EmhNQVdMq2kpMOvUmocHdrdF8ldR/uPs=;
+        b=F6zyk5p8ApOKW9Z2vFcwt5D4k/8xTkpko+8tyoyXlcsODPpGTLJ8Zq1ev1A69A6aTw
+         Nh6EqyJ/oUCTqmrjiEd2wBfaRyQEUd9Dc2+zIXAdJuXatj/wSlTmTLkDbRDbFScHndfR
+         AVB8vLRAZMf9ntZ89RTxx0aoHGRbb1H4EOe4Z78CA0lnhYji6lyRA3KHzky4ttTzS6lM
+         mUj5T2KYr8Bbd05AlvJPLuNm+gAHgV2Nl13TFKWZBYFf+sS8DpZyZXBYzYYOAAShXErw
+         Sxonr43Q01Miy7tw07bdBpF3GFNEvXfVxUQE9B347XLVPDxcqC/012t5MWZpRNphNE0s
+         qCOQ==
+X-Gm-Message-State: AKGB3mINvov2YMo/x8Dg20FrVUBem9f6hydLrVj4Kk1MbpV8Y4Y7g/h0
+	FszqEdC46E+/IwogPjLHOI5XxToFME8PXGFD7CE=
+X-Google-Smtp-Source: ACJfBosvLRy2ZYuj4GMfKUiXepqJk999Xp+xj66QKhX9z6tDxF15fTeH0zwLHFKmwo9q7/MZbYLlew9xrYcfIENcw2o=
+X-Received: by 10.223.179.209 with SMTP id x17mr12257734wrd.145.1513418583604;
+ Sat, 16 Dec 2017 02:03:03 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.28.178.67 with HTTP; Sat, 16 Dec 2017 02:02:42 -0800 (PST)
+In-Reply-To: <010d01d375f1$4c13cad0$e43b6070$@com.br>
+References: <005501d30c0a$390dac40$ab2904c0$@com.br> <003501d375a7$494d5770$dbe80650$@com.br>
+ <010d01d375f1$4c13cad0$e43b6070$@com.br>
+From: Sergio Fosque <aresultado@gmail.com>
+Date: Sat, 16 Dec 2017 08:02:42 -0200
+Message-ID: <CAPudD=SjpLthEWdujQ6yhNdFzu6LUGSxQ-mQYTgJ0dozkSFjJA@mail.gmail.com>
+Subject: =?UTF-8?Q?Re=3A_Lista_de_Irm=C3=A3os_=26_Convidados_que_ir=C3=A3o_transfor?=
+	=?UTF-8?Q?mar_a_Confraterniza=C3=A7=C3=A3o_em_uma_Festa_de_Arromba_da_CTT3843?=
+To: Egoshi da CTT3843 <ctt3843@egoshi.com.br>
+Cc: Jair Airton Felix <j.felix10@bol.com.br>, 
+	Andre Luis Pereira de Godoi <andrelpgodoi@gmail.com>, Antonio Finardi <ma.finardi@hotmail.com>, 
+	Antonio Celso Tessari <celsotessari@gmail.com>, Antonio Kossei Takara <takar2@terra.com.br>, 
+	=?UTF-8?Q?Benedito_Carlos_Flam=C3=ADnio?= <carlos.flaminio@gmail.com>, 
+	Carlos Mave de Campos Assis <cmave96@gmail.com>, =?UTF-8?Q?Carlos_Rosseti_=28Kak=C3=A1=29?= <carlos.rossetti@uol.com.br>, 
+	=?UTF-8?Q?Dem=C3=A9trio_Muniz_Pendek?= <demetriopendek@hotmail.com>, 
+	Eduardo Camacho <eduardocamacho@uol.com.br>, Eduardo Lopes <ebernardinolopes@uol.com.br>, 
+	Ernani Flausino <ernani.flausino@terra.com.br>, 
+	Everth Alves Bonavolonta <everth@mixlav.com.br>, =?UTF-8?Q?F=C3=A1bio_Roberto_Faria?= <szfaria@gmail.com>, 
+	Fernando Ziesmann Fortes <fernandozf@hotmail.com>, Gilberto Campos <gdcampos@uol.com.br>, 
+	=?UTF-8?Q?H=C3=A9lio_Alvarez_Felix?= <helioamandara@uol.com.br>, 
+	Hideraldo Rodrigues Gomes <enghgomes@gmail.com>, 
+	Humberto de Oliveira Serrano <humberto.serrano@hotmail.com>, Johannes Kozlowski <jkozlowski@uol.com.br>, 
+	=?UTF-8?Q?Jos=C3=A9_Carlos_de_Lima?= <jcl@tech-air.com.br>, 
+	=?UTF-8?Q?J=C3=BAlio_Cesar_Mattos_de_Faria?= <mattosfaria@terra.com.br>, 
+	Marcelo Eloy Fernandes <marceloeloyfernandes@gmail.com>, 
+	Marcilio Marques Testa <mmtesta43@gmail.com>, Marco Antonio Patriniani <marckopat@live.com>, 
+	=?UTF-8?Q?Marco_Ant=C3=B4nio_Pedrosa_Parise?= <marco@digitalfotoimagem.com.br>, 
+	Marcus Welbi <marcuswelbi@crivodarazao.org.br>, Natanael Costa <ncosta@usa.com>, 
+	Nelson Pendek <nelpendek@hotmail.com>, 
+	"Ricardo C. A. Carvalho" <ricardocarvalho930@gmail.com>, 
+	=?UTF-8?Q?Sebasti=C3=A3o_Rubens_Costa?= <rubens@linart.com.br>, 
+	Silvio Verdiani <sverdiani@terra.com.br>, Sylvio Quintino Junior <squintinoj@gmail.com>, 
+	Wanderley Santana dos Santos <wanderleyssamtos@gmail.com>, 
+	Wellington Alfano Rodrigues Silva <alfanohi@gmail.com>, Wladimir Viveiro <wviveiro@live.com>, 
+	=?UTF-8?Q?S=C3=A9rgio_Fosque?= <sergio@aresultado.adm.br>, 
+	=?UTF-8?Q?Andr=C3=A9_Rivail_Medrado?= <professor@medrado.adv.br>, 
+	Alexandre Dellamura Sarmento <dellamura@uol.com.br>, Luiz Eduardo Cruz <luiz.cruz@teleperformance.com>
+Content-Type: multipart/alternative; boundary="f4030438956c12852f05607239f5"
+
+--f4030438956c12852f05607239f5
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Bom dia a todos.
+
+N=C3=A3o estarei presente, mas confesso que adoraria poder estar com os Irm=
+=C3=A3o em
+uni=C3=A3o.
+Desejo que todos se divirtam e confraternizem adequadamente. Que haja muita
+alegria e felicidade em nossa festa.
+Aproveito para enviar um forte abra=C3=A7o ao Ir.=C2=B4. Tessari pelo seu a=
+nivers=C3=A1rio.
+A todos um fraternal abra=C3=A7o.
+
+Sergio Foschi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Em 15 de dezembro de 2017 20:08, Egoshi da CTT3843 <ctt3843@egoshi.com.br>
+escreveu:
+
+> Segue vers=C3=A3o 3.0, considerando =C3=BAltimas exclus=C3=B5es e inclus=
+=C3=B5es.
+>
+>
+>
+> Egoshi
+>
+>
+>
+>
+>
+> De: Egoshi da CTT3843 [mailto:ctt3843@egoshi.com.br]
+> Enviada em: sexta-feira, 15 de dezembro de 2017 16:13
+> Para: 'Egoshi da CTT3843'; 'Jair Airton Felix'; 'Andre Luis Pereira de
+> Godoi'; 'Antonio Finardi'; 'Antonio Celso Tessari'; 'Antonio Kossei
+> Takara';
+> 'Benedito Carlos Flam=C3=ADnio'; 'Carlos Mave de Campos Assis'; 'Carlos R=
+osseti
+> (Kak=C3=A1)'; 'Dem=C3=A9trio Muniz Pendek'; 'Eduardo Camacho'; 'Eduardo L=
+opes';
+> 'Ernani Flausino'; 'Everth Alves Bonavolonta'; 'F=C3=A1bio Roberto Faria'=
+;
+> 'Fernando Ziesmann Fortes'; 'Gilberto Campos'; 'H=C3=A9lio Alvarez Felix'=
+;
+> 'Hideraldo Rodrigues Gomes'; 'Humberto de Oliveira Serrano'; 'Jair Airton
+> Felix'; 'Johannes Kozlowski'; 'Jos=C3=A9 Carlos de Lima'; 'J=C3=BAlio Ces=
+ar Mattos de
+> Faria'; 'Marcelo Eloy Fernandes'; 'Marcilio Marques Testa'; 'Marco Antoni=
+o
+> Patriniani'; 'Marco Ant=C3=B4nio Pedrosa Parise'; 'Marcus Welbi'; 'Natana=
+el
+> Costa'; 'Nelson Pendek'; 'Ricardo C. A. Carvalho'; 'Sebasti=C3=A3o Rubens
+> Costa';
+> 'Silvio Verdiani'; 'Sylvio Quintino Junior'; 'Wanderley Santana dos
+> Santos';
+> 'Wellington Alfano Rodrigues Silva'; 'Wladimir Viveiro'; 'S=C3=A9rgio Fos=
+que';
+> 'Andr=C3=A9 Rivail Medrado '; 'Alexandre Dellamura Sarmento '; 'Everth Al=
+ves
+> Bonavolonta'; 'Humberto de Oliveira Serrano'; 'Antonio Kossei Takara';
+> 'luiz.cruz@teleperformance.com'; 'Marcilio Marques Testa'; 'Luiz Eduardo
+> Cruz'
+> Assunto: RES: Lista de Irm=C3=A3os & Convidados que ir=C3=A3o transformar=
+ a
+> Confraterniza=C3=A7=C3=A3o em uma Festa de Arromba da CTT3843
+>
+>
+>
+> Segue vers=C3=A3o mais recente, considerando o adendo do Luiz Eduardo.
+>
+>
+>
+> Egoshi
+>
+>
+>
+> De: Egoshi da CTT3843 [mailto:ctt3843@egoshi.com.br]
+> Enviada em: sexta-feira, 15 de dezembro de 2017 15:44
+> Para: 'Egoshi da CTT3843'; 'Jair Airton Felix'; 'Andre Luis Pereira de
+> Godoi'; 'Antonio Finardi'; 'Antonio Celso Tessari'; 'Antonio Kossei
+> Takara';
+> 'Benedito Carlos Flam=C3=ADnio'; 'Carlos Mave de Campos Assis'; 'Carlos R=
+osseti
+> (Kak=C3=A1)'; 'Dem=C3=A9trio Muniz Pendek'; 'Eduardo Camacho'; 'Eduardo L=
+opes';
+> 'Ernani Flausino'; 'Everth Alves Bonavolonta'; 'F=C3=A1bio Roberto Faria'=
+;
+> 'Fernando Ziesmann Fortes'; 'Gilberto Campos'; 'H=C3=A9lio Alvarez Felix'=
+;
+> 'Hideraldo Rodrigues Gomes'; 'Humberto de Oliveira Serrano'; 'Jair Airton
+> Felix'; 'Johannes Kozlowski'; 'Jos=C3=A9 Carlos de Lima'; 'J=C3=BAlio Ces=
+ar Mattos de
+> Faria'; 'Marcelo Eloy Fernandes'; 'Marcilio Marques Testa'; 'Marco Antoni=
+o
+> Patriniani'; 'Marco Ant=C3=B4nio Pedrosa Parise'; 'Marcus Welbi'; 'Natana=
+el
+> Costa'; 'Nelson Pendek'; 'Ricardo C. A. Carvalho'; 'Sebasti=C3=A3o Rubens
+> Costa';
+> 'Silvio Verdiani'; 'Sylvio Quintino Junior'; 'Wanderley Santana dos
+> Santos';
+> 'Wellington Alfano Rodrigues Silva'; 'Wladimir Viveiro'; 'S=C3=A9rgio Fos=
+que';
+> 'Andr=C3=A9 Rivail Medrado '; 'Alexandre Dellamura Sarmento '; 'Everth Al=
+ves
+> Bonavolonta'; 'Humberto de Oliveira Serrano'; 'Antonio Kossei Takara';
+> 'luiz.cruz@teleperformance.com'; 'Marcilio Marques Testa'; 'Luiz Eduardo
+> Cruz'
+> Assunto: Lista de Irm=C3=A3os & Convidados que ir=C3=A3o transformar a
+> Confraterniza=C3=A7=C3=A3o em uma Festa de Arromba da CTT3843
+>
+>
+>
+> Por enquanto, s=C3=B3 62 (sessenta e dois).  At=C3=A9 =C3=A0 noite deve s=
+omar mais gente.
+>
+>
+>
+> Se forem mais uns 10 fora dessa lista, vai lotar o restaurante.
+>
+>
+>
+> Quem levar crian=C3=A7as at=C3=A9 10 anos, favor informar (crian=C3=A7as =
+at=C3=A9 5 anos n=C3=A3o
+> pagam e de 6 a 10, pagam 50%).
+>
+>
+>
+> Confira!
+>
+>
+>
+> Egoshi
+>
+>
+>
+>
+>
+> De: Egoshi da CTT3843 [mailto:ctt3843@egoshi.com.br]
+> Enviada em: sexta-feira, 15 de dezembro de 2017 11:19
+> Para: 'Egoshi da CTT3843'; 'Jair Airton Felix'; 'Andre Luis Pereira de
+> Godoi'; 'Antonio Finardi'; 'Antonio Celso Tessari'; 'Antonio Kossei
+> Takara';
+> 'Benedito Carlos Flam=C3=ADnio'; 'Carlos Mave de Campos Assis'; 'Carlos R=
+osseti
+> (Kak=C3=A1)'; 'Dem=C3=A9trio Muniz Pendek'; 'Eduardo Camacho'; 'Eduardo L=
+opes';
+> 'Ernani Flausino'; 'Everth Alves Bonavolonta'; 'F=C3=A1bio Roberto Faria'=
+;
+> 'Fernando Ziesmann Fortes'; 'Gilberto Campos'; 'H=C3=A9lio Alvarez Felix'=
+;
+> 'Hideraldo Rodrigues Gomes'; 'Humberto de Oliveira Serrano'; 'Jair Airton
+> Felix'; 'Johannes Kozlowski'; 'Jos=C3=A9 Carlos de Lima'; 'J=C3=BAlio Ces=
+ar Mattos de
+> Faria'; 'Marcelo Eloy Fernandes'; 'Marcilio Marques Testa'; 'Marco Antoni=
+o
+> Patriniani'; 'Marco Ant=C3=B4nio Pedrosa Parise'; 'Marcus Welbi'; 'Natana=
+el
+> Costa'; 'Nelson Pendek'; 'Ricardo C. A. Carvalho'; 'Sebasti=C3=A3o Rubens
+> Costa';
+> 'Silvio Verdiani'; 'Sylvio Quintino Junior'; 'Wanderley Santana dos
+> Santos';
+> 'Wellington Alfano Rodrigues Silva'; 'Wladimir Viveiro'; 'S=C3=A9rgio Fos=
+que';
+> Andr=C3=A9 Rivail Medrado ; 'Alexandre Dellamura Sarmento '; 'Everth Alve=
+s
+> Bonavolonta'; 'Humberto de Oliveira Serrano'; 'Antonio Kossei Takara';
+> luiz.cruz@teleperformance.com; 'Marcilio Marques Testa'; Luiz Eduardo Cru=
+z
+> Assunto: RES: Convite ao Almo=C3=A7o de Confraterniza=C3=A7=C3=A3o da CTT=
+3843 no
+> Restaurante Ed Carnes - Vers=C3=A3o em PowerPoint
+>
+>
+>
+> Vers=C3=A3o Original em PowerPoint, pra quem n=C3=A3o tem Leitor de PDF (=
+Acrobat
+> Reader) instalado.
+>
+>
+>
+> De: Egoshi da CTT3843 [mailto:ctt3843@egoshi.com.br]
+> Enviada em: sexta-feira, 15 de dezembro de 2017 09:54
+> Para: 'Egoshi da CTT3843'; 'Jair Airton Felix'; 'Andre Luis Pereira de
+> Godoi'; 'Antonio Finardi'; 'Antonio Celso Tessari'; 'Antonio Kossei
+> Takara';
+> 'Benedito Carlos Flam=C3=ADnio'; 'Carlos Mave de Campos Assis'; 'Carlos R=
+osseti
+> (Kak=C3=A1)'; 'Dem=C3=A9trio Muniz Pendek'; 'Eduardo Camacho'; 'Eduardo L=
+opes';
+> 'Ernani Flausino'; 'Everth Alves Bonavolonta'; 'F=C3=A1bio Roberto Faria'=
+;
+> 'Fernando Ziesmann Fortes'; 'Gilberto Campos'; 'H=C3=A9lio Alvarez Felix'=
+;
+> 'Hideraldo Rodrigues Gomes'; 'Humberto de Oliveira Serrano'; 'Jair Airton
+> Felix'; 'Johannes Kozlowski'; 'Jos=C3=A9 Carlos de Lima'; 'J=C3=BAlio Ces=
+ar Mattos de
+> Faria'; 'Marcelo Eloy Fernandes'; 'Marcilio Marques Testa'; 'Marco Antoni=
+o
+> Patriniani'; 'Marco Ant=C3=B4nio Pedrosa Parise'; 'Marcus Welbi'; 'Natana=
+el
+> Costa'; 'Nelson Pendek'; 'Ricardo C. A. Carvalho'; 'Sebasti=C3=A3o Rubens
+> Costa';
+> 'Silvio Verdiani'; 'Sylvio Quintino Junior'; 'Wanderley Santana dos
+> Santos';
+> 'Wellington Alfano Rodrigues Silva'; 'Wladimir Viveiro'; 'S=C3=A9rgio Fos=
+que';
+> Andr=C3=A9 Rivail Medrado ; 'Alexandre Dellamura Sarmento '; 'Everth Alve=
+s
+> Bonavolonta'; 'Humberto de Oliveira Serrano'; 'Antonio Kossei Takara';
+> 'luiz.cruz@teleperformance.com'; 'Marcilio Marques Testa'; Luiz Eduardo
+> Cruz
+> Assunto: Convite ao Almo=C3=A7o de Confraterniza=C3=A7=C3=A3o da CTT3843 =
+no Restaurante Ed
+> Carnes
+>
+>
+>
+> PPrez\ IIr\:
+>
+>
+>
+> Segue Convite com todas as principais informa=C3=A7=C3=B5es necess=C3=A1r=
+ias, para a nossa
+> grande confraterniza=C3=A7=C3=A3o de amanh=C3=A3, 16/12/2017, =C3=A0s 11:=
+30 horas.
+>
+>
+>
+> Fraternalmente
+>
+>
+>
+> Fernando & Egoshi
+>
+>
+>
+>
+>
+> De: Egoshi da CTT3843 [mailto:ctt3843@egoshi.com.br]
+> Enviada em: segunda-feira, 4 de dezembro de 2017 00:02
+> Para: 'Egoshi da CTT3843'; 'Jair Airton Felix'; 'Andre Luis Pereira de
+> Godoi'; 'Antonio Finardi'; 'Antonio Celso Tessari'; 'Antonio Kossei
+> Takara';
+> 'Benedito Carlos Flam=C3=ADnio'; 'Carlos Mave de Campos Assis'; 'Carlos R=
+osseti
+> (Kak=C3=A1)'; 'Dem=C3=A9trio Muniz Pendek'; 'Eduardo Camacho'; 'Eduardo L=
+opes';
+> 'Ernani Flausino'; 'Everth Alves Bonavolonta'; 'F=C3=A1bio Roberto Faria'=
+;
+> 'Fernando Ziesmann Fortes'; 'Gilberto Campos'; 'H=C3=A9lio Alvarez Felix'=
+;
+> 'Hideraldo Rodrigues Gomes'; 'Humberto de Oliveira Serrano'; 'Jair Airton
+> Felix'; 'Johannes Kozlowski'; 'Jos=C3=A9 Carlos de Lima'; 'J=C3=BAlio Ces=
+ar Mattos de
+> Faria'; 'Marcelo Eloy Fernandes'; 'Marcilio Marques Testa'; 'Marco Antoni=
+o
+> Patriniani'; 'Marco Ant=C3=B4nio Pedrosa Parise'; 'Marcus Welbi'; 'Natana=
+el
+> Costa'; 'Nelson Pendek'; 'Ricardo C. A. Carvalho'; 'Sebasti=C3=A3o Rubens
+> Costa';
+> 'Silvio Verdiani'; 'Sylvio Quintino Junior'; 'Wanderley Santana dos
+> Santos';
+> 'Wellington Alfano Rodrigues Silva'; 'Wladimir Viveiro'; 'S=C3=A9rgio Fos=
+que';
+> Andr=C3=A9 Rivail Medrado ; 'Alexandre Dellamura Sarmento '; 'Everth Alve=
+s
+> Bonavolonta'; 'Humberto de Oliveira Serrano'; 'Antonio Kossei Takara';
+> 'luiz.cruz@teleperformance.com'; 'Marcilio Marques Testa'; Luiz Eduardo
+> Cruz
+> Assunto: Festa de Arromba da CTT3843 no Restaurante Ed Carnes - 1
+>
+>
+>
+> PPrez\ IIr\:
+>
+>
+>
+> No dia 11/11/2017, n=C3=B3s da CTT3843 resolvemos nos confraternizar no
+> Restaurante Ed Carnes.
+>
+>
+>
+> Assim decidido, desde ent=C3=A3o estamos c=C3=A1 nos organizando e prepar=
+ando o
+> espa=C3=A7o
+> no restaurante, para curtirmos a nossa grande confraterniza=C3=A7=C3=A3o =
+no dia
+> 16/12/2017, das 11 =C3=A0s 16 horas, com nossas fam=C3=ADlias, parentes e=
+ amigos.
+>
+>
+>
+> Continuando essa organiza=C3=A7=C3=A3o para preparar o espa=C3=A7o no res=
+taurante, =C3=A9
+> necess=C3=A1rio que cada Ir\ nos preencha a ficha anexa e nos devolva
+> preenchida,
+> para previamente determinarmos a quantidade de lugares a serem confirmada=
+s.
+> Se o Ir\ preferir, pode preencher online a mesma ficha, no endere=C3=A7o
+> Internet
+> <https://docs.google.com/forms/d/e/1FAIpQLSfbqBS3P_
+> DIGQ-ffgeZZs3-O5HsqotUWZq
+> H3vwpUPaXPiWMAw/viewform>.
+>
+>
+>
+> Solicitamos que cada Ir\ nos preencha essa ficha o mais r=C3=A1pido poss=
+=C3=ADvel at=C3=A9
+> a pr=C3=B3xima 6=C2=AA-feira, dia 08/12/2017. Para que no s=C3=A1bado de =
+09/12/2017,
+> possamos confirmar ao restaurante a quantidade mais exata poss=C3=ADvel d=
+e
+> lugares a serem reservadas (e outras provid=C3=AAncias a serem tomadas).
+>
+>
+>
+> De antem=C3=A3o, informamos que os IIr\ Fernando e Egoshi estiveram no di=
+a
+> 25/11/2017 no Restaurante Ed Carnes, para antecipadamente reservar 40
+> lugares e tratar de detalhes do evento.
+>
+>
+>
+> Adicionalmente informamos:
+>
+>
+>
+> 1 - que o valor por pessoa =C3=A9 aquele mesmo proposto, de R$ 45,00, con=
+forme
+> anexo;
+>
+>
+>
+> 2 - que crian=C3=A7as at=C3=A9 5 anos n=C3=A3o pagam e de 6 a 10, pagam 5=
+0%;
+>
+>
+>
+> 3 - que  h=C3=A1 estacionamento no local - na pr=C3=B3xima mensagem infor=
+maremos
+> sobre
+> o mesmo, em detalhes.
+>
+>
+>
+> Demais informa=C3=A7=C3=B5es e detalhes prestaremos na pr=C3=B3xima mensa=
+gem. At=C3=A9 l=C3=A1, para
+> dirimir d=C3=BAvidas e prestar esclarecimentos, estaremos ao dispor dos I=
+Ir\,
+> por
+> este e-mail e grupo de Whatsapp "CTT chancelaria".
+>
+>
+>
+> RSVP
+>
+> (r=C3=A9pondez s'il vous pla=C3=AEt =3D responda por favor)
+>
+>
+>
+> Fraternalmente
+>
+>
+>
+> Fernando & Egoshi
+>
+>
+>
+>
+>
+> De: Egoshi da CTT3843 [mailto:ctt3843@egoshi.com.br]
+> Enviada em: sexta-feira, 10 de novembro de 2017 16:02
+> Para: 'Egoshi da CTT3843'; 'Jair Airton Felix'; 'Andre Luis Pereira de
+> Godoi'; 'Antonio Finardi'; 'Antonio Celso Tessari'; 'Antonio Kossei
+> Takara';
+> 'Benedito Carlos Flam=C3=ADnio'; 'Carlos Mave de Campos Assis'; 'Carlos R=
+osseti
+> (Kak=C3=A1)'; 'Dem=C3=A9trio Muniz Pendek'; 'Eduardo Camacho'; 'Eduardo L=
+opes';
+> 'Ernani Flausino'; 'Everth Alves Bonavolonta'; 'F=C3=A1bio Roberto Faria'=
+;
+> 'Fernando Ziesmann Fortes'; 'Gilberto Campos'; 'H=C3=A9lio Alvarez Felix'=
+;
+> 'Hideraldo Rodrigues Gomes'; 'Humberto de Oliveira Serrano'; 'Jair Airton
+> Felix'; 'Johannes Kozlowski'; 'Jos=C3=A9 Carlos de Lima'; 'J=C3=BAlio Ces=
+ar Mattos de
+> Faria'; 'Marcelo Eloy Fernandes'; 'Marcilio Marques Testa'; 'Marco Antoni=
+o
+> Patriniani'; 'Marco Ant=C3=B4nio Pedrosa Parise'; 'Marcus Welbi'; 'Natana=
+el
+> Costa'; 'Nelson Pendek'; 'Ricardo C. A. Carvalho'; 'Sebasti=C3=A3o Rubens
+> Costa';
+> 'Silvio Verdiani'; 'Sylvio Quintino Junior'; 'Wanderley Santana dos
+> Santos';
+> 'Wellington Alfano Rodrigues Silva'; 'Wladimir Viveiro'; 'S=C3=A9rgio Fos=
+que';
+> Andr=C3=A9 Rivail Medrado ; 'Alexandre Dellamura Sarmento '; 'Everth Alve=
+s
+> Bonavolonta'; 'Humberto de Oliveira Serrano'; 'Antonio Kossei Takara';
+> 'luiz.cruz@teleperformance.com'; 'Marcilio Marques Testa'
+> Assunto: Festa de Confraterniza=C3=A7=C3=A3o da CTT3843 no Ed Carlos
+>
+>
+>
+> Meus PPrez\ IIr\:
+>
+>
+>
+> Proponho um Almo=C3=A7o de Confraterniza=C3=A7=C3=A3o no S=C3=A1bado Dia =
+16/12/2017, entre n=C3=B3s,
+> nossos familiares e amigos, no Restaurante Ed Carnes do meu amigo Ed
+> Carlos,
+> cantor da Jovem Guarda.
+>
+>
+>
+> Dentre alguns atrativos do Ed Carnes, temos:
+>
+>
+>
+> 1 - Pre=C3=A7o bem em conta de R$ 45,00 por pessoa - incluindo almo=C3=A7=
+o =C3=A0 vontade
+> com =C3=A1gua e refrigerante, exceto bebidas alco=C3=B3licas e sucos;
+>
+>
+>
+> 2 - Card=C3=A1pio Bem Brasileiro (como Feijoada, Rabada, Bisteca e Churra=
+sco),
+> variado e extenso,  com 30 tipos de pratos quentes e 30 tipos de saladas,
+> folhas e legumes;
+>
+>
+>
+> 3 - M=C3=BAsica ao Vivo com  <https://www.youtube.com/watch?v=3D1kXU_jws7=
+nc>
+> Marquinhos Oi <clique aqui e curta Marquinhos Oi cantando Roberta
+> <https://www.youtube.com/watch?v=3D1kXU_jws7nc> >;
+>
+>
+>
+> 4 - Endere=C3=A7o F=C3=A1cil e Acess=C3=ADvel a Todos, l=C3=A1 no tradici=
+onal bairro do
+> Cambuci;
+>
+>
+>
+> 5 -Ambiente Bem Familiar e Aconchegante a Adultos e Crian=C3=A7as;
+>
+>
+>
+> 6 - O =C3=BAnico trabalho ser=C3=A1 o de ir l=C3=A1 passear e degustar um=
+a gostosa comida
+> tipicamente brasileira, e o que =C3=A9 ainda melhor, curtir o Mais Aconch=
+egante
+> =C3=81gape Fraternal, ao lado de IIr\, Familiares e Amigos!!!
+>
+>
+>
+> Fraternalmente por 3 Vezes
+>
+>
+>
+> RSVP
+>
+>
+>
+> IIr\ Koiti Egoshi
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+> ---
+> Este email foi escaneado pelo Avast antiv=C3=ADrus.
+> https://www.avast.com/antivirus
+>
+
+
+
+--=20
+Sergio Foschi
+(16) 3421 7648
+(11) 99481 3139
+(16) 98818 3139
+
+--f4030438956c12852f05607239f5
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-size:small">Bom=
+ dia a todos.</div><div class=3D"gmail_default" style=3D"font-size:small"><=
+br></div><div class=3D"gmail_default" style=3D"font-size:small">N=C3=A3o es=
+tarei presente, mas confesso que adoraria poder estar com os Irm=C3=A3o em =
+uni=C3=A3o.</div><div class=3D"gmail_default" style=3D"font-size:small">Des=
+ejo que todos se divirtam e confraternizem adequadamente. Que haja muita al=
+egria e felicidade em nossa festa.</div><div class=3D"gmail_default" style=
+=3D"font-size:small">Aproveito para enviar um forte abra=C3=A7o ao Ir.=C2=
+=B4. Tessari pelo seu anivers=C3=A1rio.</div><div class=3D"gmail_default" s=
+tyle=3D"font-size:small">A todos um fraternal abra=C3=A7o.</div><div class=
+=3D"gmail_default" style=3D"font-size:small"><br></div><div class=3D"gmail_=
+default" style=3D"font-size:small">Sergio Foschi</div><div class=3D"gmail_d=
+efault" style=3D"font-size:small"><br></div><div class=3D"gmail_default" st=
+yle=3D"font-size:small"><br></div><div class=3D"gmail_default" style=3D"fon=
+t-size:small"><br></div><div class=3D"gmail_default" style=3D"font-size:sma=
+ll"><br></div><div class=3D"gmail_default" style=3D"font-size:small"><br></=
+div><div class=3D"gmail_default" style=3D"font-size:small"><br></div><div c=
+lass=3D"gmail_default" style=3D"font-size:small"><br></div><div class=3D"gm=
+ail_default" style=3D"font-size:small"><br></div><div class=3D"gmail_defaul=
+t" style=3D"font-size:small"><br></div><div class=3D"gmail_default" style=
+=3D"font-size:small"><br></div><div class=3D"gmail_default" style=3D"font-s=
+ize:small"><br></div><div class=3D"gmail_default" style=3D"font-size:small"=
+><br></div><div class=3D"gmail_default" style=3D"font-size:small"><br></div=
+></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">Em 15 de d=
+ezembro de 2017 20:08, Egoshi da CTT3843 <span dir=3D"ltr">&lt;<a href=3D"m=
+ailto:ctt3843@egoshi.com.br" target=3D"_blank">ctt3843@egoshi.com.br</a>&gt=
+;</span> escreveu:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0=
+ 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">Segue vers=C3=A3o 3.0,=
+ considerando =C3=BAltimas exclus=C3=B5es e inclus=C3=B5es.<br>
+<br>
+<br>
+<br>
+Egoshi<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+De: Egoshi da CTT3843 [mailto:<a href=3D"mailto:ctt3843@egoshi.com.br">ctt3=
+843@egoshi.com.br</a>]<br>
+Enviada em: sexta-feira, 15 de dezembro de 2017 16:13<br>
+Para: &#39;Egoshi da CTT3843&#39;; &#39;Jair Airton Felix&#39;; &#39;Andre =
+Luis Pereira de<br>
+Godoi&#39;; &#39;Antonio Finardi&#39;; &#39;Antonio Celso Tessari&#39;; &#3=
+9;Antonio Kossei Takara&#39;;<br>
+&#39;Benedito Carlos Flam=C3=ADnio&#39;; &#39;Carlos Mave de Campos Assis&#=
+39;; &#39;Carlos Rosseti<br>
+(Kak=C3=A1)&#39;; &#39;Dem=C3=A9trio Muniz Pendek&#39;; &#39;Eduardo Camach=
+o&#39;; &#39;Eduardo Lopes&#39;;<br>
+&#39;Ernani Flausino&#39;; &#39;Everth Alves Bonavolonta&#39;; &#39;F=C3=A1=
+bio Roberto Faria&#39;;<br>
+&#39;Fernando Ziesmann Fortes&#39;; &#39;Gilberto Campos&#39;; &#39;H=C3=A9=
+lio Alvarez Felix&#39;;<br>
+&#39;Hideraldo Rodrigues Gomes&#39;; &#39;Humberto de Oliveira Serrano&#39;=
+; &#39;Jair Airton<br>
+Felix&#39;; &#39;Johannes Kozlowski&#39;; &#39;Jos=C3=A9 Carlos de Lima&#39=
+;; &#39;J=C3=BAlio Cesar Mattos de<br>
+Faria&#39;; &#39;Marcelo Eloy Fernandes&#39;; &#39;Marcilio Marques Testa&#=
+39;; &#39;Marco Antonio<br>
+Patriniani&#39;; &#39;Marco Ant=C3=B4nio Pedrosa Parise&#39;; &#39;Marcus W=
+elbi&#39;; &#39;Natanael<br>
+Costa&#39;; &#39;Nelson Pendek&#39;; &#39;Ricardo C. A. Carvalho&#39;; &#39=
+;Sebasti=C3=A3o Rubens Costa&#39;;<br>
+&#39;Silvio Verdiani&#39;; &#39;Sylvio Quintino Junior&#39;; &#39;Wanderley=
+ Santana dos Santos&#39;;<br>
+&#39;Wellington Alfano Rodrigues Silva&#39;; &#39;Wladimir Viveiro&#39;; &#=
+39;S=C3=A9rgio Fosque&#39;;<br>
+&#39;Andr=C3=A9 Rivail Medrado &#39;; &#39;Alexandre Dellamura Sarmento &#3=
+9;; &#39;Everth Alves<br>
+Bonavolonta&#39;; &#39;Humberto de Oliveira Serrano&#39;; &#39;Antonio Koss=
+ei Takara&#39;;<br>
+&#39;<a href=3D"mailto:luiz.cruz@teleperformance.com">luiz.cruz@teleperform=
+ance.com</a><wbr>&#39;; &#39;Marcilio Marques Testa&#39;; &#39;Luiz Eduardo=
+<br>
+Cruz&#39;<br>
+Assunto: RES: Lista de Irm=C3=A3os &amp; Convidados que ir=C3=A3o transform=
+ar a<br>
+Confraterniza=C3=A7=C3=A3o em uma Festa de Arromba da CTT3843<br>
+<br>
+<br>
+<br>
+Segue vers=C3=A3o mais recente, considerando o adendo do Luiz Eduardo.<br>
+<br>
+<br>
+<br>
+Egoshi<br>
+<br>
+<br>
+<br>
+De: Egoshi da CTT3843 [mailto:<a href=3D"mailto:ctt3843@egoshi.com.br">ctt3=
+843@egoshi.com.br</a>]<br>
+Enviada em: sexta-feira, 15 de dezembro de 2017 15:44<br>
+Para: &#39;Egoshi da CTT3843&#39;; &#39;Jair Airton Felix&#39;; &#39;Andre =
+Luis Pereira de<br>
+Godoi&#39;; &#39;Antonio Finardi&#39;; &#39;Antonio Celso Tessari&#39;; &#3=
+9;Antonio Kossei Takara&#39;;<br>
+&#39;Benedito Carlos Flam=C3=ADnio&#39;; &#39;Carlos Mave de Campos Assis&#=
+39;; &#39;Carlos Rosseti<br>
+(Kak=C3=A1)&#39;; &#39;Dem=C3=A9trio Muniz Pendek&#39;; &#39;Eduardo Camach=
+o&#39;; &#39;Eduardo Lopes&#39;;<br>
+&#39;Ernani Flausino&#39;; &#39;Everth Alves Bonavolonta&#39;; &#39;F=C3=A1=
+bio Roberto Faria&#39;;<br>
+&#39;Fernando Ziesmann Fortes&#39;; &#39;Gilberto Campos&#39;; &#39;H=C3=A9=
+lio Alvarez Felix&#39;;<br>
+&#39;Hideraldo Rodrigues Gomes&#39;; &#39;Humberto de Oliveira Serrano&#39;=
+; &#39;Jair Airton<br>
+Felix&#39;; &#39;Johannes Kozlowski&#39;; &#39;Jos=C3=A9 Carlos de Lima&#39=
+;; &#39;J=C3=BAlio Cesar Mattos de<br>
+Faria&#39;; &#39;Marcelo Eloy Fernandes&#39;; &#39;Marcilio Marques Testa&#=
+39;; &#39;Marco Antonio<br>
+Patriniani&#39;; &#39;Marco Ant=C3=B4nio Pedrosa Parise&#39;; &#39;Marcus W=
+elbi&#39;; &#39;Natanael<br>
+Costa&#39;; &#39;Nelson Pendek&#39;; &#39;Ricardo C. A. Carvalho&#39;; &#39=
+;Sebasti=C3=A3o Rubens Costa&#39;;<br>
+&#39;Silvio Verdiani&#39;; &#39;Sylvio Quintino Junior&#39;; &#39;Wanderley=
+ Santana dos Santos&#39;;<br>
+&#39;Wellington Alfano Rodrigues Silva&#39;; &#39;Wladimir Viveiro&#39;; &#=
+39;S=C3=A9rgio Fosque&#39;;<br>
+&#39;Andr=C3=A9 Rivail Medrado &#39;; &#39;Alexandre Dellamura Sarmento &#3=
+9;; &#39;Everth Alves<br>
+Bonavolonta&#39;; &#39;Humberto de Oliveira Serrano&#39;; &#39;Antonio Koss=
+ei Takara&#39;;<br>
+&#39;<a href=3D"mailto:luiz.cruz@teleperformance.com">luiz.cruz@teleperform=
+ance.com</a><wbr>&#39;; &#39;Marcilio Marques Testa&#39;; &#39;Luiz Eduardo=
+<br>
+Cruz&#39;<br>
+Assunto: Lista de Irm=C3=A3os &amp; Convidados que ir=C3=A3o transformar a<=
+br>
+Confraterniza=C3=A7=C3=A3o em uma Festa de Arromba da CTT3843<br>
+<br>
+<br>
+<br>
+Por enquanto, s=C3=B3 62 (sessenta e dois).=C2=A0 At=C3=A9 =C3=A0 noite dev=
+e somar mais gente.<br>
+<br>
+<br>
+<br>
+Se forem mais uns 10 fora dessa lista, vai lotar o restaurante.<br>
+<br>
+<br>
+<br>
+Quem levar crian=C3=A7as at=C3=A9 10 anos, favor informar (crian=C3=A7as at=
+=C3=A9 5 anos n=C3=A3o<br>
+pagam e de 6 a 10, pagam 50%).<br>
+<br>
+<br>
+<br>
+Confira!<br>
+<br>
+<br>
+<br>
+Egoshi<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+De: Egoshi da CTT3843 [mailto:<a href=3D"mailto:ctt3843@egoshi.com.br">ctt3=
+843@egoshi.com.br</a>]<br>
+Enviada em: sexta-feira, 15 de dezembro de 2017 11:19<br>
+Para: &#39;Egoshi da CTT3843&#39;; &#39;Jair Airton Felix&#39;; &#39;Andre =
+Luis Pereira de<br>
+Godoi&#39;; &#39;Antonio Finardi&#39;; &#39;Antonio Celso Tessari&#39;; &#3=
+9;Antonio Kossei Takara&#39;;<br>
+&#39;Benedito Carlos Flam=C3=ADnio&#39;; &#39;Carlos Mave de Campos Assis&#=
+39;; &#39;Carlos Rosseti<br>
+(Kak=C3=A1)&#39;; &#39;Dem=C3=A9trio Muniz Pendek&#39;; &#39;Eduardo Camach=
+o&#39;; &#39;Eduardo Lopes&#39;;<br>
+&#39;Ernani Flausino&#39;; &#39;Everth Alves Bonavolonta&#39;; &#39;F=C3=A1=
+bio Roberto Faria&#39;;<br>
+&#39;Fernando Ziesmann Fortes&#39;; &#39;Gilberto Campos&#39;; &#39;H=C3=A9=
+lio Alvarez Felix&#39;;<br>
+&#39;Hideraldo Rodrigues Gomes&#39;; &#39;Humberto de Oliveira Serrano&#39;=
+; &#39;Jair Airton<br>
+Felix&#39;; &#39;Johannes Kozlowski&#39;; &#39;Jos=C3=A9 Carlos de Lima&#39=
+;; &#39;J=C3=BAlio Cesar Mattos de<br>
+Faria&#39;; &#39;Marcelo Eloy Fernandes&#39;; &#39;Marcilio Marques Testa&#=
+39;; &#39;Marco Antonio<br>
+Patriniani&#39;; &#39;Marco Ant=C3=B4nio Pedrosa Parise&#39;; &#39;Marcus W=
+elbi&#39;; &#39;Natanael<br>
+Costa&#39;; &#39;Nelson Pendek&#39;; &#39;Ricardo C. A. Carvalho&#39;; &#39=
+;Sebasti=C3=A3o Rubens Costa&#39;;<br>
+&#39;Silvio Verdiani&#39;; &#39;Sylvio Quintino Junior&#39;; &#39;Wanderley=
+ Santana dos Santos&#39;;<br>
+&#39;Wellington Alfano Rodrigues Silva&#39;; &#39;Wladimir Viveiro&#39;; &#=
+39;S=C3=A9rgio Fosque&#39;;<br>
+Andr=C3=A9 Rivail Medrado ; &#39;Alexandre Dellamura Sarmento &#39;; &#39;E=
+verth Alves<br>
+Bonavolonta&#39;; &#39;Humberto de Oliveira Serrano&#39;; &#39;Antonio Koss=
+ei Takara&#39;;<br>
+<a href=3D"mailto:luiz.cruz@teleperformance.com">luiz.cruz@teleperformance.=
+com</a>; &#39;Marcilio Marques Testa&#39;; Luiz Eduardo Cruz<br>
+Assunto: RES: Convite ao Almo=C3=A7o de Confraterniza=C3=A7=C3=A3o da CTT38=
+43 no<br>
+Restaurante Ed Carnes - Vers=C3=A3o em PowerPoint<br>
+<br>
+<br>
+<br>
+Vers=C3=A3o Original em PowerPoint, pra quem n=C3=A3o tem Leitor de PDF (Ac=
+robat<br>
+Reader) instalado.<br>
+<br>
+<br>
+<br>
+De: Egoshi da CTT3843 [mailto:<a href=3D"mailto:ctt3843@egoshi.com.br">ctt3=
+843@egoshi.com.br</a>]<br>
+Enviada em: sexta-feira, 15 de dezembro de 2017 09:54<br>
+Para: &#39;Egoshi da CTT3843&#39;; &#39;Jair Airton Felix&#39;; &#39;Andre =
+Luis Pereira de<br>
+Godoi&#39;; &#39;Antonio Finardi&#39;; &#39;Antonio Celso Tessari&#39;; &#3=
+9;Antonio Kossei Takara&#39;;<br>
+&#39;Benedito Carlos Flam=C3=ADnio&#39;; &#39;Carlos Mave de Campos Assis&#=
+39;; &#39;Carlos Rosseti<br>
+(Kak=C3=A1)&#39;; &#39;Dem=C3=A9trio Muniz Pendek&#39;; &#39;Eduardo Camach=
+o&#39;; &#39;Eduardo Lopes&#39;;<br>
+&#39;Ernani Flausino&#39;; &#39;Everth Alves Bonavolonta&#39;; &#39;F=C3=A1=
+bio Roberto Faria&#39;;<br>
+&#39;Fernando Ziesmann Fortes&#39;; &#39;Gilberto Campos&#39;; &#39;H=C3=A9=
+lio Alvarez Felix&#39;;<br>
+&#39;Hideraldo Rodrigues Gomes&#39;; &#39;Humberto de Oliveira Serrano&#39;=
+; &#39;Jair Airton<br>
+Felix&#39;; &#39;Johannes Kozlowski&#39;; &#39;Jos=C3=A9 Carlos de Lima&#39=
+;; &#39;J=C3=BAlio Cesar Mattos de<br>
+Faria&#39;; &#39;Marcelo Eloy Fernandes&#39;; &#39;Marcilio Marques Testa&#=
+39;; &#39;Marco Antonio<br>
+Patriniani&#39;; &#39;Marco Ant=C3=B4nio Pedrosa Parise&#39;; &#39;Marcus W=
+elbi&#39;; &#39;Natanael<br>
+Costa&#39;; &#39;Nelson Pendek&#39;; &#39;Ricardo C. A. Carvalho&#39;; &#39=
+;Sebasti=C3=A3o Rubens Costa&#39;;<br>
+&#39;Silvio Verdiani&#39;; &#39;Sylvio Quintino Junior&#39;; &#39;Wanderley=
+ Santana dos Santos&#39;;<br>
+&#39;Wellington Alfano Rodrigues Silva&#39;; &#39;Wladimir Viveiro&#39;; &#=
+39;S=C3=A9rgio Fosque&#39;;<br>
+Andr=C3=A9 Rivail Medrado ; &#39;Alexandre Dellamura Sarmento &#39;; &#39;E=
+verth Alves<br>
+Bonavolonta&#39;; &#39;Humberto de Oliveira Serrano&#39;; &#39;Antonio Koss=
+ei Takara&#39;;<br>
+&#39;<a href=3D"mailto:luiz.cruz@teleperformance.com">luiz.cruz@teleperform=
+ance.com</a><wbr>&#39;; &#39;Marcilio Marques Testa&#39;; Luiz Eduardo Cruz=
+<br>
+Assunto: Convite ao Almo=C3=A7o de Confraterniza=C3=A7=C3=A3o da CTT3843 no=
+ Restaurante Ed<br>
+Carnes<br>
+<br>
+<br>
+<br>
+PPrez\ IIr\:<br>
+<br>
+<br>
+<br>
+Segue Convite com todas as principais informa=C3=A7=C3=B5es necess=C3=A1ria=
+s, para a nossa<br>
+grande confraterniza=C3=A7=C3=A3o de amanh=C3=A3, 16/12/2017, =C3=A0s 11:30=
+ horas.<br>
+<br>
+<br>
+<br>
+Fraternalmente<br>
+<br>
+<br>
+<br>
+Fernando &amp; Egoshi<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+De: Egoshi da CTT3843 [mailto:<a href=3D"mailto:ctt3843@egoshi.com.br">ctt3=
+843@egoshi.com.br</a>]<br>
+Enviada em: segunda-feira, 4 de dezembro de 2017 00:02<br>
+Para: &#39;Egoshi da CTT3843&#39;; &#39;Jair Airton Felix&#39;; &#39;Andre =
+Luis Pereira de<br>
+Godoi&#39;; &#39;Antonio Finardi&#39;; &#39;Antonio Celso Tessari&#39;; &#3=
+9;Antonio Kossei Takara&#39;;<br>
+&#39;Benedito Carlos Flam=C3=ADnio&#39;; &#39;Carlos Mave de Campos Assis&#=
+39;; &#39;Carlos Rosseti<br>
+(Kak=C3=A1)&#39;; &#39;Dem=C3=A9trio Muniz Pendek&#39;; &#39;Eduardo Camach=
+o&#39;; &#39;Eduardo Lopes&#39;;<br>
+&#39;Ernani Flausino&#39;; &#39;Everth Alves Bonavolonta&#39;; &#39;F=C3=A1=
+bio Roberto Faria&#39;;<br>
+&#39;Fernando Ziesmann Fortes&#39;; &#39;Gilberto Campos&#39;; &#39;H=C3=A9=
+lio Alvarez Felix&#39;;<br>
+&#39;Hideraldo Rodrigues Gomes&#39;; &#39;Humberto de Oliveira Serrano&#39;=
+; &#39;Jair Airton<br>
+Felix&#39;; &#39;Johannes Kozlowski&#39;; &#39;Jos=C3=A9 Carlos de Lima&#39=
+;; &#39;J=C3=BAlio Cesar Mattos de<br>
+Faria&#39;; &#39;Marcelo Eloy Fernandes&#39;; &#39;Marcilio Marques Testa&#=
+39;; &#39;Marco Antonio<br>
+Patriniani&#39;; &#39;Marco Ant=C3=B4nio Pedrosa Parise&#39;; &#39;Marcus W=
+elbi&#39;; &#39;Natanael<br>
+Costa&#39;; &#39;Nelson Pendek&#39;; &#39;Ricardo C. A. Carvalho&#39;; &#39=
+;Sebasti=C3=A3o Rubens Costa&#39;;<br>
+&#39;Silvio Verdiani&#39;; &#39;Sylvio Quintino Junior&#39;; &#39;Wanderley=
+ Santana dos Santos&#39;;<br>
+&#39;Wellington Alfano Rodrigues Silva&#39;; &#39;Wladimir Viveiro&#39;; &#=
+39;S=C3=A9rgio Fosque&#39;;<br>
+Andr=C3=A9 Rivail Medrado ; &#39;Alexandre Dellamura Sarmento &#39;; &#39;E=
+verth Alves<br>
+Bonavolonta&#39;; &#39;Humberto de Oliveira Serrano&#39;; &#39;Antonio Koss=
+ei Takara&#39;;<br>
+&#39;<a href=3D"mailto:luiz.cruz@teleperformance.com">luiz.cruz@teleperform=
+ance.com</a><wbr>&#39;; &#39;Marcilio Marques Testa&#39;; Luiz Eduardo Cruz=
+<br>
+Assunto: Festa de Arromba da CTT3843 no Restaurante Ed Carnes - 1<br>
+<br>
+<br>
+<br>
+PPrez\ IIr\:<br>
+<br>
+<br>
+<br>
+No dia 11/11/2017, n=C3=B3s da CTT3843 resolvemos nos confraternizar no<br>
+Restaurante Ed Carnes.<br>
+<br>
+<br>
+<br>
+Assim decidido, desde ent=C3=A3o estamos c=C3=A1 nos organizando e preparan=
+do o espa=C3=A7o<br>
+no restaurante, para curtirmos a nossa grande confraterniza=C3=A7=C3=A3o no=
+ dia<br>
+16/12/2017, das 11 =C3=A0s 16 horas, com nossas fam=C3=ADlias, parentes e a=
+migos.<br>
+<br>
+<br>
+<br>
+Continuando essa organiza=C3=A7=C3=A3o para preparar o espa=C3=A7o no resta=
+urante, =C3=A9<br>
+necess=C3=A1rio que cada Ir\ nos preencha a ficha anexa e nos devolva preen=
+chida,<br>
+para previamente determinarmos a quantidade de lugares a serem confirmadas.=
+<br>
+Se o Ir\ preferir, pode preencher online a mesma ficha, no endere=C3=A7o In=
+ternet<br>
+&lt;<a href=3D"https://docs.google.com/forms/d/e/1FAIpQLSfbqBS3P_DIGQ-ffgeZ=
+Zs3-O5HsqotUWZq
+H3vwpUPaXPiWMAw/viewform" rel=3D"noreferrer" target=3D"_blank">https://docs=
+.google.com/<wbr>forms/d/e/1FAIpQLSfbqBS3P_<wbr>DIGQ-ffgeZZs3-O5HsqotUWZq<b=
+r>
+H3vwpUPaXPiWMAw/viewform</a>&gt;.<br>
+<br>
+<br>
+<br>
+Solicitamos que cada Ir\ nos preencha essa ficha o mais r=C3=A1pido poss=C3=
+=ADvel at=C3=A9<br>
+a pr=C3=B3xima 6=C2=AA-feira, dia 08/12/2017. Para que no s=C3=A1bado de 09=
+/12/2017,<br>
+possamos confirmar ao restaurante a quantidade mais exata poss=C3=ADvel de<=
+br>
+lugares a serem reservadas (e outras provid=C3=AAncias a serem tomadas).<br=
+>
+<br>
+<br>
+<br>
+De antem=C3=A3o, informamos que os IIr\ Fernando e Egoshi estiveram no dia<=
+br>
+25/11/2017 no Restaurante Ed Carnes, para antecipadamente reservar 40<br>
+lugares e tratar de detalhes do evento.<br>
+<br>
+<br>
+<br>
+Adicionalmente informamos:<br>
+<br>
+<br>
+<br>
+1 - que o valor por pessoa =C3=A9 aquele mesmo proposto, de R$ 45,00, confo=
+rme<br>
+anexo;<br>
+<br>
+<br>
+<br>
+2 - que crian=C3=A7as at=C3=A9 5 anos n=C3=A3o pagam e de 6 a 10, pagam 50%=
+;<br>
+<br>
+<br>
+<br>
+3 - que=C2=A0 h=C3=A1 estacionamento no local - na pr=C3=B3xima mensagem in=
+formaremos sobre<br>
+o mesmo, em detalhes.<br>
+<br>
+<br>
+<br>
+Demais informa=C3=A7=C3=B5es e detalhes prestaremos na pr=C3=B3xima mensage=
+m. At=C3=A9 l=C3=A1, para<br>
+dirimir d=C3=BAvidas e prestar esclarecimentos, estaremos ao dispor dos IIr=
+\, por<br>
+este e-mail e grupo de Whatsapp &quot;CTT chancelaria&quot;.<br>
+<br>
+<br>
+<br>
+RSVP<br>
+<br>
+(r=C3=A9pondez s&#39;il vous pla=C3=AEt =3D responda por favor)<br>
+<br>
+<br>
+<br>
+Fraternalmente<br>
+<br>
+<br>
+<br>
+Fernando &amp; Egoshi<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+De: Egoshi da CTT3843 [mailto:<a href=3D"mailto:ctt3843@egoshi.com.br">ctt3=
+843@egoshi.com.br</a>]<br>
+Enviada em: sexta-feira, 10 de novembro de 2017 16:02<br>
+Para: &#39;Egoshi da CTT3843&#39;; &#39;Jair Airton Felix&#39;; &#39;Andre =
+Luis Pereira de<br>
+Godoi&#39;; &#39;Antonio Finardi&#39;; &#39;Antonio Celso Tessari&#39;; &#3=
+9;Antonio Kossei Takara&#39;;<br>
+&#39;Benedito Carlos Flam=C3=ADnio&#39;; &#39;Carlos Mave de Campos Assis&#=
+39;; &#39;Carlos Rosseti<br>
+(Kak=C3=A1)&#39;; &#39;Dem=C3=A9trio Muniz Pendek&#39;; &#39;Eduardo Camach=
+o&#39;; &#39;Eduardo Lopes&#39;;<br>
+&#39;Ernani Flausino&#39;; &#39;Everth Alves Bonavolonta&#39;; &#39;F=C3=A1=
+bio Roberto Faria&#39;;<br>
+&#39;Fernando Ziesmann Fortes&#39;; &#39;Gilberto Campos&#39;; &#39;H=C3=A9=
+lio Alvarez Felix&#39;;<br>
+&#39;Hideraldo Rodrigues Gomes&#39;; &#39;Humberto de Oliveira Serrano&#39;=
+; &#39;Jair Airton<br>
+Felix&#39;; &#39;Johannes Kozlowski&#39;; &#39;Jos=C3=A9 Carlos de Lima&#39=
+;; &#39;J=C3=BAlio Cesar Mattos de<br>
+Faria&#39;; &#39;Marcelo Eloy Fernandes&#39;; &#39;Marcilio Marques Testa&#=
+39;; &#39;Marco Antonio<br>
+Patriniani&#39;; &#39;Marco Ant=C3=B4nio Pedrosa Parise&#39;; &#39;Marcus W=
+elbi&#39;; &#39;Natanael<br>
+Costa&#39;; &#39;Nelson Pendek&#39;; &#39;Ricardo C. A. Carvalho&#39;; &#39=
+;Sebasti=C3=A3o Rubens Costa&#39;;<br>
+&#39;Silvio Verdiani&#39;; &#39;Sylvio Quintino Junior&#39;; &#39;Wanderley=
+ Santana dos Santos&#39;;<br>
+&#39;Wellington Alfano Rodrigues Silva&#39;; &#39;Wladimir Viveiro&#39;; &#=
+39;S=C3=A9rgio Fosque&#39;;<br>
+Andr=C3=A9 Rivail Medrado ; &#39;Alexandre Dellamura Sarmento &#39;; &#39;E=
+verth Alves<br>
+Bonavolonta&#39;; &#39;Humberto de Oliveira Serrano&#39;; &#39;Antonio Koss=
+ei Takara&#39;;<br>
+&#39;<a href=3D"mailto:luiz.cruz@teleperformance.com">luiz.cruz@teleperform=
+ance.com</a><wbr>&#39;; &#39;Marcilio Marques Testa&#39;<br>
+Assunto: Festa de Confraterniza=C3=A7=C3=A3o da CTT3843 no Ed Carlos<br>
+<br>
+<br>
+<br>
+Meus PPrez\ IIr\:<br>
+<br>
+<br>
+<br>
+Proponho um Almo=C3=A7o de Confraterniza=C3=A7=C3=A3o no S=C3=A1bado Dia 16=
+/12/2017, entre n=C3=B3s,<br>
+nossos familiares e amigos, no Restaurante Ed Carnes do meu amigo Ed Carlos=
+,<br>
+cantor da Jovem Guarda.<br>
+<br>
+<br>
+<br>
+Dentre alguns atrativos do Ed Carnes, temos:<br>
+<br>
+<br>
+<br>
+1 - Pre=C3=A7o bem em conta de R$ 45,00 por pessoa - incluindo almo=C3=A7o =
+=C3=A0 vontade<br>
+com =C3=A1gua e refrigerante, exceto bebidas alco=C3=B3licas e sucos;<br>
+<br>
+<br>
+<br>
+2 - Card=C3=A1pio Bem Brasileiro (como Feijoada, Rabada, Bisteca e Churrasc=
+o),<br>
+variado e extenso,=C2=A0 com 30 tipos de pratos quentes e 30 tipos de salad=
+as,<br>
+folhas e legumes;<br>
+<br>
+<br>
+<br>
+3 - M=C3=BAsica ao Vivo com=C2=A0 &lt;<a href=3D"https://www.youtube.com/wa=
+tch?v=3D1kXU_jws7nc" rel=3D"noreferrer" target=3D"_blank">https://www.youtu=
+be.com/<wbr>watch?v=3D1kXU_jws7nc</a>&gt;<br>
+Marquinhos Oi &lt;clique aqui e curta Marquinhos Oi cantando Roberta<br>
+&lt;<a href=3D"https://www.youtube.com/watch?v=3D1kXU_jws7nc" rel=3D"norefe=
+rrer" target=3D"_blank">https://www.youtube.com/<wbr>watch?v=3D1kXU_jws7nc<=
+/a>&gt; &gt;;<br>
+<br>
+<br>
+<br>
+4 - Endere=C3=A7o F=C3=A1cil e Acess=C3=ADvel a Todos, l=C3=A1 no tradicion=
+al bairro do Cambuci;<br>
+<br>
+<br>
+<br>
+5 -Ambiente Bem Familiar e Aconchegante a Adultos e Crian=C3=A7as;<br>
+<br>
+<br>
+<br>
+6 - O =C3=BAnico trabalho ser=C3=A1 o de ir l=C3=A1 passear e degustar uma =
+gostosa comida<br>
+tipicamente brasileira, e o que =C3=A9 ainda melhor, curtir o Mais Aconcheg=
+ante<br>
+=C3=81gape Fraternal, ao lado de IIr\, Familiares e Amigos!!!<br>
+<br>
+<br>
+<br>
+Fraternalmente por 3 Vezes<br>
+<br>
+<br>
+<br>
+RSVP<br>
+<br>
+<br>
+<br>
+IIr\ Koiti Egoshi<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+---<br>
+Este email foi escaneado pelo Avast antiv=C3=ADrus.<br>
+<a href=3D"https://www.avast.com/antivirus" rel=3D"noreferrer" target=3D"_b=
+lank">https://www.avast.com/<wbr>antivirus</a><br>
+</blockquote></div><br><br clear=3D"all"><div><br></div>-- <br><div class=
+=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div dir=3D"ltr"><d=
+iv><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div d=
+ir=3D"ltr"><div><font size=3D"2">Sergio Foschi<br></font></div><div><font s=
+ize=3D"2">(16) 3421 7648</font></div><div><font size=3D"2">(11) 99481 3139<=
+/font></div><div><font size=3D"2">(16) 98818 3139</font></div><div><br></di=
+v></div></div></div></div></div></div></div></div></div></div>
+</div>
+
+--f4030438956c12852f05607239f5--

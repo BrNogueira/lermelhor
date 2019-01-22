@@ -1,0 +1,126 @@
+Return-Path: <msprvs1=17215U5LN6sUt=bounces-104971@bounces.videohero.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id 2clLISYjn1jXNAcAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Sat, 11 Feb 2017 12:43:50 -0200
+Return-path: <msprvs1=17215U5LN6sUt=bounces-104971@bounces.videohero.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sat, 11 Feb 2017 12:43:50 -0200
+Received: from mta212.spmta.com ([35.163.184.65]:33930)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <msprvs1=17215U5LN6sUt=bounces-104971@bounces.videohero.com.br>)
+	id 1ccYty-001ymo-5C
+	for marco@digitalfotoimagem.com.br; Sat, 11 Feb 2017 12:43:50 -0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=videohero.com.br;
+	s=scph1216; t=1486824185; i=@videohero.com.br;
+	bh=Mt1S7md+Y99tTt5P0uXi/0o9wG8foNRkxzgeonMbjgs=;
+	h=Date:Subject:From:Reply-To:To:List-Unsubscribe:List-Id;
+	b=oBmfB/e8+p6/bNR/wu+akhOju5DCQIRgGx2CyqCfcWgwG0KB7okxvWvGQSEQXAbD9
+	 KRAtbdfLQMdA8xrReau+a3pS4LCskxnEkZnmnT14ZwgOvQTrmpwGYfEWcjNUDYlMh6
+	 eTtmLAMpFEl0vcxOC+XMO7KNIaQ5KVWou+hvOyts=
+X-MSFBL: nPI2h8LsvPcPnd/ciqQQjeD+Wk0fc2ZAFEYCf+qaY8w=|eyJpcF9wb29sX3JhdyI
+	6ImdlbmVyYWxfMiIsInRlbXBsYXRlX2lkIjoic210cF8xMjQ3MTE3MTI3NjkwMjE
+	0OCIsInIiOiJtYXJjb0BkaWdpdGFsZm90b2ltYWdlbS5jb20uYnIiLCJtZXNzYWd
+	lX2lkIjoiMDAwMGY4MjI5ZjU4MmQxZjcwOGEiLCJpcF9wb29sIjoic2hhcmVkIiw
+	ic2VuZGluZ19pcCI6IjM1LjE2My4xODQuNjUiLCJiIjoiaXBfMzUuMTYzLjE4NC4
+	2NSIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIiwidHJhbnNtaXNzaW9uX2lkIjoiMTI
+	0NzExNzEyNzY5MDIxNDgiLCJjdXN0b21lcl9pZCI6IjEwNDk3MSIsInN1YmFjY29
+	1bnRfaWQiOiIwIiwicmNwdF9tZXRhIjp7IH0sInJjcHRfdGFncyI6WyBdLCJ0ZW5
+	hbnRfaWQiOiJzcGMiLCJmcmllbmRseV9mcm9tIjoidmlkZW9oZXJvQHZpZGVvaGV
+	yby5jb20uYnIiLCJnIjoiYmdfZ2VuZXJhbF8yIn0=
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+Authentication-Results:  a.mta1vsmtp.cc.aws-usw2a.prd.sparkpost smtp.user=smtp_injection; auth=pass (LOGIN)
+Received: from [104.130.229.92] ([104.130.229.92:43794] helo=[127.0.0.1])
+	by a.mta1vsmtp.cc.aws-usw2a.prd.sparkpost (envelope-from <videohero@videohero.com.br>)
+	(ecelerity 4.2.29.58867 r(Core:4.2.29.5)) with ESMTPSA (cipher=ECDHE-RSA-AES128-SHA) 
+	id 07/A8-07981-8F22F985; Sat, 11 Feb 2017 14:43:05 +0000
+Message-ID: <28eda52304a0b0699b6186b2ab6ef4be@swift.generated>
+Date: Sat, 11 Feb 2017 14:43:03 +0000
+Subject: [Alerta de =?utf-8?Q?Webin=C3=A1rio=5D?= Estamos
+ =?utf-8?Q?come=C3=A7ando!?=
+From: Ivan Oliveira <videohero@videohero.com.br>
+Reply-To: Ivan Oliveira <videohero@videohero.com.br>
+To: marco@digitalfotoimagem.com.br
+MIME-Version: 1.0
+List-Unsubscribe: <mailto:unsubscribe@unsub.spmta.com?subject=unsubscribe:ULXuWM2rBikaQzKjB9_AzziK3d5A_Ej2lOjgBvgyohk~|eyAicmNwdF90byI6ICJtYXJjb0BkaWdpdGFsZm90b2ltYWdlbS5jb20uYnIiLCAicmNwdF9tZXRhIjogInt9IiwgInJjcHRfdGFncyI6ICJbIF0iLCAiZnJpZW5kbHlfZnJvbSI6ICJ2aWRlb2hlcm9AdmlkZW9oZXJvLmNvbS5iciIsICJ0ZW1wbGF0ZV9pZCI6ICJzbXRwXzEyNDcxMTcxMjc2OTAyMTQ4IiwgInRyYW5zbWlzc2lvbl9pZCI6ICIxMjQ3MTE3MTI3NjkwMjE0OCIsICJzZW5kaW5nX2lwIjogIjM1LjE2My4xODQuNjUiLCAidGVtcGxhdGVfdmVyc2lvbiI6ICIwIiwgIm1haWxmcm9tIjogInZpZGVvaGVyb0B2aWRlb2hlcm8uY29tLmJyIiwgImlwX3Bvb2wiOiAic2hhcmVkIiwgImlwX3Bvb2xfcmF3IjogImdlbmVyYWxfMiIsICJjdXN0b21lcl9pZCI6ICIxMDQ5NzEiLCAidGVuYW50X2lkIjogInNwYyIsICJzdWJhY2NvdW50X2lkIjogIjAiLCAibWVzc2FnZV9pZCI6ICIwMDAwZjgyMjlmNTgyZDFmNzA4YSIgfQ~~>
+List-Id: <spc-104971-0>
+
+<header></header>=0D=0A<div style=3D"margin: 20px auto 20px auto; font-fami=
+ly: roboto; font-weight: 300;">=0D=0A<div style=3D"padding-top: 20px;">=0D=
+=0A<div style=3D"padding-left: 20px; float: right;"><img title=3D"Ivan Oliv=
+eira" data-toggle=3D"tooltip" data-placement=3D"bottom" alt=3D"Ivan Oliveir=
+a" src=3D"https://s3.amazonaws.com/webinarjam/images-users/presenters/Q5c2y=
+GPuAeuGdz7a69CX.jpg" data-original-title=3D"Ivan Oliveira" style=3D"border-=
+radius: 50%;display: inline-block;height: 50px;vertical-align: top;width: 5=
+0px; margin-left:10px;"><img title=3D"Rafael Perez" data-toggle=3D"tooltip"=
+ data-placement=3D"bottom" alt=3D"Rafael Perez" src=3D"https://s3.amazonaws=
+.com/webinarjam/images-users/presenters/WsN4412VaOlDS8bQMQNp.jpg" data-ori=
+ginal-title=3D"Rafael Perez" style=3D"border-radius: 50%;display: inline-bl=
+ock;height: 50px;vertical-align: top;width: 50px; margin-left:10px;"></div>=
+=0D=0A<div style=3D"font-size: 18px; font-weight: 300; line-height: 140%; c=
+olor: #000; padding-bottom: 10px;">Os Mitos do Video</div>=0D=0A<div style=
+=3D"font-size: 14px; font-weight: 300; line-height: 140%; color: #999;">Des=
+cubra os medos que te impedem de fazer um bom v=C3=ADdeo e as t=C3=A9cnicas=
+ para derrubar estes medos e come=C3=A7ar a fazer os seus pr=C3=B3prios v=
+=C3=ADdeos.</div>=0D=0A</div>=0D=0A<div style=3D"clear: both;">&nbsp;</div>=
+=0D=0A</div>=0D=0A<div>&nbsp;</div>=0D=0A<div style=3D"border: 1px solid #c=
+cc; vertical-align: middle; padding-bottom: 10px; padding: 5px 10px 5px 10p=
+x; background-color: #fbfbfb; border-radius: 4px;">=0D=0A<div style=3D"floa=
+t: left; vertical-align: middle;">=0D=0A<div style=3D"color: #000; font-siz=
+e: 14px; padding-bottom: 5px; font-weight: 300;">S=C3=A1bado, 11 Fevereiro =
+2017</div>=0D=0A<div style=3D"color: #000; font-size: 14px; font-weight: 30=
+0;">01:00 pm Rio de Janeiro, Sao Paulo, GMT -2</div>=0D=0A</div>=0D=0A<div =
+style=3D"float: right; vertical-align: middle; background-color: #97ce68; c=
+olor: #fff; text-align: center; padding: 5px 15px; border: 1px solid #7cb84=
+9; border-bottom: 3px solid #7cb849; border-radius: 4px; font-weight: 300; =
+margin-top: 7px;"><a style=3D"color: #fff; text-decoration: none;" href=3D"=
+https://app.webinarjam.net/r/1/0/live/4872/ce892628ee/jot/94261955">Entrar&=
+nbsp;no webin&aacute;</a>rio</div>=0D=0A<div style=3D"clear: both; height: =
+0px;">&nbsp;</div>=0D=0A</div>=0D=0A<div>&nbsp;</div>=0D=0A<div style=3D"bo=
+rder-bottom: 1px solid #ccc; vertical-align: top; padding-bottom: 10px; pad=
+ding-top: 10px; line-height: 140%; font-size: 14px; color: #000; text-align=
+: left;">=0D=0A<p style=3D"font-weight: bold;">J&aacute; vamos come&ccedil;=
+ar!</p>=0D=0A<p>Em menos de 15&nbsp;minutos o webin&aacute;rio para o qual =
+voc&ecirc; se registrou vai come&ccedil;ar. Por favor, clique no link para =
+acessar a sala do webin&aacute;rio.</p>=0D=0A<div style=3D"padding: 0px 0px=
+ 5px 0px;">=0D=0A<p style=3D"padding-left: 10px; border-left: 2px solid #5b=
+c0de;"><span style=3D"font-weight: bold;">Link:</span> <a href=3D"https://a=
+pp.webinarjam.net/r/1/0/live/4872/ce892628ee/jot/94261955">https://app.webi=
+narjam.net/r/1/0/live/4872/ce892628ee/jot/94261955</a></p>=0D=0A<p style=3D=
+"padding-left: 10px; border-left: 2px solid #5bc0de;"><span style=3D"font-w=
+eight: bold;">Assunto:</span> Os Mitos do Video <br /> <span style=3D"font-=
+weight: bold;">Descri&ccedil;&atilde;o:</span> Descubra os medos que te imp=
+edem de fazer um bom v=C3=ADdeo e as t=C3=A9cnicas para derrubar estes medo=
+s e come=C3=A7ar a fazer os seus pr=C3=B3prios v=C3=ADdeos.</p>=0D=0A<p sty=
+le=3D"padding-left: 10px; border-left: 2px solid #5bc0de;"><span style=3D"f=
+ont-weight: bold;">Apresentador:</span> Ivan Oliveira, Rafael Perez</p>=0D=
+=0A<p style=3D"padding-left: 10px; border-left: 2px solid #5bc0de;"><span s=
+tyle=3D"font-weight: bold;">Data:</span> S=C3=A1bado, 11 Fevereiro 2017 <br=
+ /><span style=3D"font-weight: bold;">Hor&aacute;rio:</span> 01:00 pm Rio d=
+e Janeiro, Sao Paulo, GMT -2</p>=0D=0A</div>=0D=0A<p>Corre l&aacute;! Estam=
+os te esperando!</p>=0D=0A<p>ps: Se ainda n&atilde;o baixou o PDF, segue o =
+link novamente:&nbsp;<a href=3D"http://videoherocdn.s3.amazonaws.com/videoh=
+ero/Lista_de_Equipamentos_para_Video.pdf">Lista de Equipamentos para seu Pr=
+imeiro Est&uacute;dio</a></p>=0D=0A</div>=0D=0A<div>&nbsp;</div><img src=3D=
+https://app.webinarjam.net/r/1/0/open/4872/ce892628ee/jot/94261955 width=3D=
+"0" height=3D"0" border=3D"0" style=3D"visibility:hidden; display:none; hei=
+ght:0px!important; width:0px!important; border:none;"><!-- START FOOTER -->=
+=0D=0A<div style=3D"margin: 10px auto 20px auto; font-family: roboto; font-=
+weight: 300;">=0D=0A<div style=3D"float: left; vertical-align: middle;">=0D=
+=0A<div style=3D"color: #000; font-size: 12px;">You are receiving this emai=
+l because you registered for this webinar. <br /> <a style=3D"color: #00f; =
+font-weight: 500; text-decoration: underline;" href=3D"https://app.webinarj=
+am.net/unsubscribe=3Fm=3DNDg3Mg=3D=3D&w=3DY2U4OTI2MjhlZQ=3D=3D&e=3DbWFyY29A=
+ZGlnaXRhbGZvdG9pbWFnZW0uY29tLmJy">Unsubscribe</a> to stop receiving notific=
+ations about this webinar.</div>=0D=0A<div style=3D"padding-top: 15px; colo=
+r: #999; font-size: 12px;">WebinarJam LLC<br />7660 Fay Ave Ste H184<br />L=
+a Jolla, CA 92037<br />USA</div>=0D=0A</div>=0D=0A<div style=3D"float: righ=
+t; vertical-align: top; text-align: center;">=0D=0A<div style=3D"color: #99=
+9; font-size: 12px; padding-bottom: 5px;">POWERED BY...</div>=0D=0A<a style=
+=3D"border: 0px;" href=3D"http://webinarjam.com" target=3D"_blank"><img src=
+=3D"https://s3.amazonaws.com/webinarjam/images/logo3.png" alt=3D"" width=3D=
+"130" height=3D"20" /></a></div>=0D=0A<div style=3D"clear: both;">&nbsp;</d=
+iv>=0D=0A</div>=0D=0A<!-- END FOOTER -->
+

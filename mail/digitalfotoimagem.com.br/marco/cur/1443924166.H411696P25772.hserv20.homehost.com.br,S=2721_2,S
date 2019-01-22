@@ -1,0 +1,68 @@
+Return-path: <>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sat, 03 Oct 2015 23:02:46 -0300
+Received: from mailnull by hserv20.homehost.com.br with local (Exim 4.86)
+	id 1ZiYdS-0006hb-1m
+	for marco@digitalfotoimagem.com.br; Sat, 03 Oct 2015 23:02:46 -0300
+X-Failed-Recipients: contato@saladereunioes.com.br
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@hserv20.homehost.com.br>
+To: marco@digitalfotoimagem.com.br
+Content-Type: multipart/report; report-type=delivery-status; boundary=1443924166-eximdsn-1286468578
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ZiYdS-0006hb-1m@hserv20.homehost.com.br>
+Date: Sat, 03 Oct 2015 23:02:46 -0300
+
+--1443924166-eximdsn-1286468578
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  contato@saladereunioes.com.br
+    The mail server could not deliver mail to contato@saladereunioes.com.br.  The account or domain may not exist, they may be blacklisted, or missing the proper dns entries.
+
+--1443924166-eximdsn-1286468578
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; hserv20.homehost.com.br
+
+Action: failed
+Final-Recipient: rfc822;contato@saladereunioes.com.br
+Status: 5.0.0
+
+--1443924166-eximdsn-1286468578
+Content-type: message/rfc822
+
+Return-path: <marco@digitalfotoimagem.com.br>
+Received: from hserv20h by hserv20.homehost.com.br with local (Exim 4.86)
+	(envelope-from <marco@digitalfotoimagem.com.br>)
+	id 1ZiYdR-0006hW-7H
+	for contato@saladereunioes.com.br; Sat, 03 Oct 2015 23:02:45 -0300
+To: <contato@saladereunioes.com.br>
+Subject: =?UTF-8?Q?Loca=C3=A7=C3=A3o=20de=20sala?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+Date: Sat, 03 Oct 2015 23:02:45 -0300
+From: marco@digitalfotoimagem.com.br
+Message-ID: <b5c1befa5d6c75a2567e67db9e92bfc5@digitalfotoimagem.com.br>
+X-Sender: marco@digitalfotoimagem.com.br
+User-Agent: Roundcube Webmail/0.5.4
+
+Ola, já aluguei 3 vezes as salas de vocês estou fazendo um projeto para 
+o ano que vem para ministrar um curso com 40 alunos entre 13 e 18 anos, 
+a ideia sera para fazer sempre não posso dizer quantos porque vai 
+depender da aceitação do projeto nas escolas.
+tenho realizado dentro das escolas, mas os coordenadores estão pedindo 
+que seja fora da escola. Por favor me passe a cotação para um período e 
+para os dois períodos, e também para mais de um dia na semana ou no mês
+
+Agradeço pela atenção:
+Marco Parise
+
+--1443924166-eximdsn-1286468578--

@@ -1,0 +1,251 @@
+Return-path: <marcuswelbi@crivodarazao.org.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sun, 09 Aug 2015 11:44:20 -0300
+Received: from mcegress-30-lw-155.correio.biz ([191.252.30.155]:52444 helo=mcrelay.correio.biz)
+	by hserv20.homehost.com.br with esmtp (Exim 4.85)
+	(envelope-from <marcuswelbi@crivodarazao.org.br>)
+	id 1ZORpj-00006a-Df
+	for marco@digitalfotoimagem.com.br; Sun, 09 Aug 2015 11:44:20 -0300
+X-Sender-Id: x-authuser|2129878237
+Received: from mcbain0007.correio.biz (mcingress0005.correio.biz [10.30.225.40])
+	by mcrelay.correio.biz (Postfix) with ESMTP id 6A069A174F;
+	Sun,  9 Aug 2015 11:44:13 -0300 (BRT)
+X-Sender-Id: x-authuser|2129878237
+Received: from mcbain0007.correio.biz (mcbain0007.email.locaweb.com.br [10.30.224.225])
+	by 0.0.0.0:2500 (trex/5.4.7);
+	Sun, 09 Aug 2015 11:44:13 -0300
+X-LW-Relay: SlowBad
+X-LW-SenderId: x-authuser|2129878237
+Received: from mcbain0007.correio.biz (localhost [127.0.0.1])
+	by mcbain0007.correio.biz (Postfix) with ESMTP id 2AD965C023F;
+	Sun,  9 Aug 2015 11:44:13 -0300 (BRT)
+Received: from bart0070.correio.pw (unknown [186.202.140.217])
+	by mcbain0007.correio.biz (Postfix) with ESMTP id F003C28003B;
+	Sun,  9 Aug 2015 11:44:12 -0300 (BRT)
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-AuthUser: marcuswelbi@crivodarazao.org.br
+X-LocaWeb-COR: locaweb_2009_x-mail
+Received: from NTBDIR01 (unknown [177.33.6.121])
+	(Authenticated sender: marcuswelbi@crivodarazao.org.br)
+	by bart0070.correio.pw (Postfix) with ESMTPA id E2A2616C3CB;
+	Sun,  9 Aug 2015 11:44:11 -0300 (BRT)
+From: "Marcus Welbi" <marcuswelbi@crivodarazao.org.br>
+To: =?UTF-8?Q?CR_-_Vener=C3=A1vel_Mestre?= <crivodarazao@crivodarazao.org.br>,
+	"CR-Alexandre dias de Castro" <xandedias.castro@gmail.com>,
+	"CR-Antoinio Carlos Rossetti" <carlos.rossetti@uol.com.br>,
+	"CR-Antonio Carlos Kreme" <kreme1969@gmail.com>,
+	"CR-Antonio Finardi" <ma.finardi@hotmail.com>,
+	"CR-Arsenio de Paiva Lopes" <arsenio.p.lopes@gmail.com>,
+	"CR-Benedito Carlos Flaminio" <benedito.flaminio@claro.com.br>,
+	"CR-Claudio Auricchio Turi" <ttturi@terra.com.br>,
+	"CR-Enedino Alves Barbosa Filho" <enedino@crivodarazao.org.br>,
+	"CR-Fabricio Murakami" <fabricio@crivodarazao.org.br>,
+	"CR-Flavio Luis Picollo Ferrer" <flavio@crivodarazao.org.br>,
+	"CR-Gilberto Antonio Dante" <gilbertodante@hotmail.com>,
+	"CR-Jairo Dias" <Jairo@rooftec.com.br>,
+	=?UTF-8?Q?CR-Jo=C3=A3o_Gambetti_Neto?= <gambetti@gambetti.com.br>,
+	"CR-Jose Doniseti Luiz" <josedonisetiluiz@yahoo.com.br>,
+	"CR-Luiz Carlos Bueno" <fallcar@hotmail.com>,
+	"CR-Luiz Mauricio Rodrigues" <luiz_ma@hotmail.com>,
+	"CR-Marcilio Marchi Testa" <mmtesta@uol.com.br>,
+	"CR-Marco Antonio Perosa Parise" <marco@digitalfotoimagem.com.br>,
+	"CR-Marcos Tulio de Mello" <tmello@demello.net.br>,
+	"CR-Marcus Welbi Monte Verde" <marcuswelbi@crivodarazao.org.br>,
+	"CR-Ordalino de Souza e Silva" <titoss@ig.com.br>,
+	"CR-Oswaldo Santos Junior" <oswaldosantosjunior@gmail.com>,
+	=?UTF-8?Q?CR-Ricardo_de_M=C3=A9o_Fernandes?= <valdes@uol.com.br>,
+	"CR-Wanderley Caldana" <w.caldana@uol.com.br>
+Subject: =?UTF-8?Q?Pr=C3=B3xima_Sess=C3=A3o_de_AM?=
+Date: Sun, 9 Aug 2015 11:44:11 -0300
+Message-ID: <007d01d0d2b1$db97fe00$92c7fa00$@org.br>
+MIME-Version: 1.0
+Content-Type: text/calendar; method=REQUEST;
+	charset="UTF-8"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdDSsdpGYKFviYrBRHOLgar7MUcZMgAAAACw
+Content-Language: pt-br
+X-CMAE-Verdict: spam
+X-CMAE-Score: 100
+X-CMAE-Analysis: v=2.1 cv=TOzLSjVa c=1 sm=1 tr=0 p=_oKmtukGAAAA:8
+	a=3g7l2aptsWL0RVGHWKsMhQ==:117 a=+EjDavIjhPAdEsJhgKZLCg==:17
+	a=73n8slRhAAAA:8 a=VM7MXBOAAAAA:8 a=jvOBPNRSAAAA:8 a=jPJDawAOAc8A:10
+	a=IkcTkHD0fZMA:10 a=uRRa74qj2VoA:10 a=pGLkceISAAAA:8 a=IFcqsc4JAAAA:8
+	a=69EAbJreAAAA:8 a=QDQBPQgDAAAA:8 a=BXSHXhn5AAAA:8 a=kpEvCLlvAAAA:8
+	a=msrpG-90AAAA:8 a=bLXi9qx2AAAA:8 a=ZyurR0c_AAAA:8 a=NBUmCc2OAAAA:8
+	a=tF0GPNsNAAAA:8 a=dd4kb6VMs0h9l6l-BFEA:9 a=p178WeiYsD-zDqg6:21
+	a=QEXdDO2ut3YA:10
+X-MC: yes
+Content-Transfer-Encoding: quoted-printable
+
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 12.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VEVENT
+ATTENDEE;CN=3D"CR - Vener=C3=A1vel Mestre (crivodarazao@crivodarazao.org.=
+br)";RSV
+	P=3DTRUE:mailto:crivodarazao@crivodarazao.org.br
+ATTENDEE;CN=3D"CR-Alexandre dias de Castro (xandedias.castro@gmail.com)";=
+RSVP
+	=3DTRUE:mailto:xandedias.castro@gmail.com
+ATTENDEE;CN=3D"CR-Antoinio Carlos Rossetti (carlos.rossetti@uol.com.br)";=
+RSVP
+	=3DTRUE:mailto:carlos.rossetti@uol.com.br
+ATTENDEE;CN=3D"CR-Antonio Carlos Kreme (kreme1969@gmail.com)";RSVP=3DTRUE=
+:mailt
+	o:kreme1969@gmail.com
+ATTENDEE;CN=3D"CR-Antonio Finardi (ma.finardi@hotmail.com)";RSVP=3DTRUE:m=
+ailto:
+	ma.finardi@hotmail.com
+ATTENDEE;CN=3D"CR-Arsenio de Paiva Lopes (arsenio.p.lopes@gmail.com)";RSV=
+P=3DTR
+	UE:mailto:arsenio.p.lopes@gmail.com
+ATTENDEE;CN=3D"CR-Benedito Carlos Flaminio (benedito.flaminio@claro.com.b=
+r)";
+	RSVP=3DTRUE:mailto:benedito.flaminio@claro.com.br
+ATTENDEE;CN=3D"CR-Claudio Auricchio Turi (ttturi@terra.com.br)";RSVP=3DTR=
+UE:mai
+	lto:ttturi@terra.com.br
+ATTENDEE;CN=3D"CR-Enedino Alves Barbosa Filho (enedino@crivodarazao.org.b=
+r)";
+	RSVP=3DTRUE:mailto:enedino@crivodarazao.org.br
+ATTENDEE;CN=3D"CR-Fabricio Murakami (fabricio@crivodarazao.org.br)";RSVP=3D=
+TRUE
+	:mailto:fabricio@crivodarazao.org.br
+ATTENDEE;CN=3D"CR-Flavio Luis Picollo Ferrer (flavio@crivodarazao.org.br)=
+";RS
+	VP=3DTRUE:mailto:flavio@crivodarazao.org.br
+ATTENDEE;CN=3D"CR-Gilberto Antonio Dante (gilbertodante@hotmail.com)";RSV=
+P=3DTR
+	UE:mailto:gilbertodante@hotmail.com
+ATTENDEE;CN=3D"CR-Jairo Dias (Jairo@rooftec.com.br)";RSVP=3DTRUE:mailto:J=
+airo@r
+	ooftec.com.br
+ATTENDEE;CN=3D"CR-Jo=C3=A3o Gambetti Neto (gambetti@gambetti.com.br)";RSV=
+P=3DTRUE:m
+	ailto:gambetti@gambetti.com.br
+ATTENDEE;CN=3D"CR-Jose Doniseti Luiz (josedonisetiluiz@yahoo.com.br)";RSV=
+P=3DTR
+	UE:mailto:josedonisetiluiz@yahoo.com.br
+ATTENDEE;CN=3D"CR-Luiz Carlos Bueno (fallcar@hotmail.com)";RSVP=3DTRUE:ma=
+ilto:f
+	allcar@hotmail.com
+ATTENDEE;CN=3D"CR-Luiz Mauricio Rodrigues (luiz_ma@hotmail.com)";RSVP=3DT=
+RUE:ma
+	ilto:luiz_ma@hotmail.com
+ATTENDEE;CN=3D"CR-Marcilio Marchi Testa (mmtesta@uol.com.br)";RSVP=3DTRUE=
+:mailt
+	o:mmtesta@uol.com.br
+ATTENDEE;CN=3D"CR-Marco Antonio Perosa Parise (marco@digitalfotoimagem.co=
+m.br
+	)";RSVP=3DTRUE:mailto:marco@digitalfotoimagem.com.br
+ATTENDEE;CN=3D"CR-Marcos Tulio de Mello (tmello@demello.net.br)";RSVP=3DT=
+RUE:ma
+	ilto:tmello@demello.net.br
+ATTENDEE;CN=3D"CR-Marcus Welbi Monte Verde (marcuswelbi@crivodarazao.org.=
+br)"
+	;RSVP=3DTRUE:mailto:marcuswelbi@crivodarazao.org.br
+ATTENDEE;CN=3D"CR-Ordalino de Souza e Silva (titoss@ig.com.br)";RSVP=3DTR=
+UE:mai
+	lto:titoss@ig.com.br
+ATTENDEE;CN=3D"CR-Oswaldo Santos Junior (oswaldosantosjunior@gmail.com)";=
+RSVP
+	=3DTRUE:mailto:oswaldosantosjunior@gmail.com
+ATTENDEE;CN=3D"CR-Ricardo de M=C3=A9o Fernandes (valdes@uol.com.br)";RSVP=
+=3DTRUE:ma
+	ilto:valdes@uol.com.br
+ATTENDEE;CN=3D"CR-Wanderley Caldana (w.caldana@uol.com.br)";RSVP=3DTRUE:m=
+ailto:
+	w.caldana@uol.com.br
+CLASS:PUBLIC
+CREATED:20150809T144410Z
+DESCRIPTION:Quando: quarta-feira\, 12 de agosto de 2015 20:00-20:30 (UTC-=
+03
+	:00) Bras=C3=ADlia.\nOnde: Templo da Loja\n\nObserva=C3=A7=C3=A3o: A dif=
+eren=C3=A7a de hor
+	as para o GMT acima n=C3=A3o reflete os ajustes de hor=C3=A1rio de ver=C3=
+=A3o.\n\n*~*~
+	*~*~*~*~*~*~*~*\n\nTeste:\n\nAgenda da pr=C3=B3xima sess=C3=A3o.\n\nTFA\=
+n\n \n
+DTEND:20150812T233000Z
+DTSTAMP:20150809T144410Z
+DTSTART:20150812T230000Z
+LAST-MODIFIED:20150809T144410Z
+LOCATION:Templo da Loja
+ORGANIZER;CN=3D"Marcus Welbi":mailto:marcuswelbi@crivodarazao.org.br
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=3Dpt-br:Pr=C3=B3xima Sess=C3=A3o de AM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000A09EF1B498D2D0010000000000000=
+00
+	010000000772E758BFE05D74C8E1F6DC7766EE428
+X-ALT-DESC;FMTTYPE=3Dtext/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.=
+2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME=3D"Generator" CONTENT=3D"MS Exchange Ser=
+ver ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted=
+ f
+	rom text/rtf format -->\n\n<P DIR=3DLTR><SPAN LANG=3D"pt-br"><FONT FACE=3D=
+"Calib
+	ri">Quando: quarta-feira\, 12 de agosto de 2015 20:00-20:30 (UTC-03:00) =
+Br
+	as=C3=ADlia.</FONT></SPAN></P>\n\n<P DIR=3DLTR><SPAN LANG=3D"pt-br"><FON=
+T FACE=3D"Ca
+	libri">Onde: Templo da Loja</FONT></SPAN></P>\n\n<P DIR=3DLTR><SPAN LANG=
+=3D"pt
+	-br"><FONT FACE=3D"Calibri">Observa=C3=A7=C3=A3o: A diferen=C3=A7a de ho=
+ras para o GMT a
+	cima n=C3=A3o reflete os ajustes de hor=C3=A1rio de ver=C3=A3o.</FONT></=
+SPAN></P>\n\n<
+	P DIR=3DLTR><SPAN LANG=3D"pt-br"><FONT FACE=3D"Calibri">*~*~*~*~*~*~*~*~=
+*~*</FON
+	T></SPAN></P>\n\n<P DIR=3DLTR><SPAN LANG=3D"pt-br"><FONT FACE=3D"Calibri=
+">Teste:
+	</FONT></SPAN></P>\n\n<P DIR=3DLTR><SPAN LANG=3D"pt-br"><FONT FACE=3D"Ca=
+libri">A
+	genda da pr=C3=B3xima sess=C3=A3o.</FONT></SPAN></P>\n\n<P DIR=3DLTR><SP=
+AN LANG=3D"pt-
+	br"><FONT FACE=3D"Calibri">TFA</FONT></SPAN></P>\n\n<P DIR=3DLTR><SPAN L=
+ANG=3D"p
+	t-br"></SPAN><SPAN LANG=3D"pt-br"><FONT FACE=3D"Calibri"></FONT></SPAN><=
+SPAN L
+	ANG=3D"pt-br"></SPAN><SPAN LANG=3D"pt-br">&nbsp\;</SPAN></P>\n\n</BODY>\=
+n</HTM
+	L>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+X-MS-OLK-SENDER;CN=3D"Marcus Welbi":mailto:marcuswelbi@crivodarazao.org.b=
+r
+END:VEVENT
+END:VCALENDAR
+

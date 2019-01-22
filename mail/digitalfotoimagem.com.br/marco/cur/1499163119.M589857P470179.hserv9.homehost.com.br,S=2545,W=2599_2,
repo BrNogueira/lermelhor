@@ -1,0 +1,54 @@
+Return-Path: <cobranca@homehost.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id Oc6hIO9pW1mjLAcAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Tue, 04 Jul 2017 07:11:59 -0300
+Return-path: <cobranca@homehost.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 04 Jul 2017 07:11:59 -0300
+Received: from mailalt.homehost.com.br ([177.85.98.241]:39506)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <cobranca@homehost.com.br>)
+	id 1dSKoJ-001z6h-FM
+	for marco@digitalfotoimagem.com.br; Tue, 04 Jul 2017 07:11:59 -0300
+Received: from teste.homehost.com.br (www.homehost.com.br [177.184.2.204])
+	(using TLSv1.2 with cipher DHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by mailalt.homehost.com.br (Postfix) with ESMTPS id 7C34F5442198
+	for <marco@digitalfotoimagem.com.br>; Tue,  4 Jul 2017 07:07:59 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=homehost.com.br;
+	s=defaultkey; t=1499162880;
+	bh=5BY9VxwgIKB77ABud1/KTuOhbYG18kHhNruMPi6pW4g=;
+	h=Date:To:From:Subject;
+	b=Dm3tEX2j3WKCM3yEYFcmU1PEWu6idXhyCO+P1jiAxHkxt1K/usSYkvwr16rteg7+Q
+	 b6+Y5iQxyvPhI1eQZqj8xkOLfj2x52TSRopTcfkcrYxweeaENu7mATXwSHX61p6B3Z
+	 6L4G9f8CwBpaDG61BvhjlvxfbVL9PruVuSeNxcIg=
+Date: Tue, 4 Jul 2017 07:11:54 -0300
+To: marco@digitalfotoimagem.com.br
+From: Homehost <cobranca@homehost.com.br>
+Subject: Renovacao anual do dominio: WWW.DIGITALFOTOIMAGEM.COM.BR
+Message-ID: <45d3bfa1d475011b780baa169c186550@teste.homehost.com.br>
+X-Mailer: PHPMailer 5.2.15 (https://github.com/PHPMailer/PHPMailer)
+Feedback-ID: indefinido:16744:Homehost
+MIME-Version: 1.0
+Content-Type: text/plain; charset=windows-1250
+Content-Transfer-Encoding: 8bit
+
+Marco,
+			
+			Segue sua fatura referente a renovação anual do registro do domínio WWW.DIGITALFOTOIMAGEM.COM.BR , com expiração em 08/2017.
+			
+		    ATENÇÃO: Recomendamos máxima urgência para o pagamento desta fatura. Segundo resolução da Internic e Fapesp, entidades reguladoras de registro de domínios, caso esta fatura não seja paga dentro do vencimento, este dominio ficará sujeito a remoção definitiva.
+	
+			Para gerar o boleto bancário, acesse o link abaixo:
+
+http://www.homehost.com.br/boleto/b_mail_renovacao.php?userid=16744&p=68101576
+
+Obs: caso você não consiga visualizar a fatura, copie e cole a linha a cima em seu navegador.
+
+Atenciosamente,
+Homehost - Departamento Financeiro
+http://www.homehost.com.br
+
+

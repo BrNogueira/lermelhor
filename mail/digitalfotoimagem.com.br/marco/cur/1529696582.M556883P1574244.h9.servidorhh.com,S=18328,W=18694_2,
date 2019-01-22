@@ -1,0 +1,366 @@
+Return-Path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from h9.servidorhh.com
+	by h9.servidorhh.com with LMTP id UGWdIEZRLVtkBRgArjWGVg
+	for <marco@digitalfotoimagem.com.br>; Fri, 22 Jun 2018 16:43:02 -0300
+Return-path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Fri, 22 Jun 2018 16:43:02 -0300
+Received: from e.gospmail.org.br ([177.139.181.238]:52770 helo=gospmail.org.br)
+	by h9.servidorhh.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>)
+	id 1fWRxV-006cFc-VI
+	for marco@digitalfotoimagem.com.br; Fri, 22 Jun 2018 16:43:02 -0300
+Received: from localhost (e [127.0.0.1])
+	by gospmail.org.br (Postfix) with ESMTP id A6BE62C4CD7F
+	for <marco@digitalfotoimagem.com.br>; Fri, 22 Jun 2018 16:42:14 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at gospmail.org.br
+X-Amavis-Alert: BAD HEADER SECTION, Non-encoded 8-bit data (char E7 hex):
+	List-ID: Comunica\347\343o e Imprensa
+Received: from gospmail.org.br ([127.0.0.1])
+	by localhost (gospmail.org.br [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id S3VUYoy68tRa; Fri, 22 Jun 2018 16:42:04 -0300 (BRT)
+Received: from o3.jiveon.jivesoftware.com (o3.jiveon.jivesoftware.com [167.89.36.126])
+	by gospmail.org.br (Postfix) with ESMTPS id DFF4E2C4CD74
+	for <288380@gospmail.org.br>; Fri, 22 Jun 2018 16:26:14 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=jiveon.jivesoftware.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-id; 
+	s=smtpapi; bh=APGRXQmELnI98cgjo11sN+HrxOA=; b=KlanBkVNS8CUsx3oLB
+	37H0nNXGesTpbpSRH2wcFU2PBrl9HIQLBJphQ/WSEczL4c5fDG0lWQB205ehDI0/
+	P05Q80x7XrwxAS14woFEZadnrunOkfZB9tn0NAGR1gli0GXcVwSqm7i+5qT+Uee3
+	VAS4vJc3P2y9EDhq8vFfjG6oE=
+Received: by filter0476p1iad2.sendgrid.net with SMTP id filter0476p1iad2-12829-5B2D4CF4-1
+        2018-06-22 19:24:36.094832141 +0000 UTC
+Received: from jiveon-mx3-out.phx1.jivehosted.com (jiveon-mail.phx1.jivehosted.com [204.93.64.13])
+	by ismtpd0008p1sjc2.sendgrid.net (SG) with ESMTP id -eKZSj5uR66py7lyU3ALvQ
+	for <288380@gospmail.org.br>; Fri, 22 Jun 2018 19:24:35.952 +0000 (UTC)
+Received: from gosp-x-jc-t-wa02.dynphx1.jivehosted.com (ip53-vlb1-services.phx1.jivehosted.com [10.160.25.53])
+	by jiveon-mx3-out.phx1.jivehosted.com (Postfix) with ESMTP id C480024C3F
+	for <288380@gospmail.org.br>; Fri, 22 Jun 2018 19:24:35 +0000 (GMT)
+Date: Fri, 22 Jun 2018 19:24:36 +0000 (UTC)
+From: 258150 <gosp-x@jiveon.com>
+Reply-To: jive-101297124-7qj-12-342@mail.gosp-x.jiveon.com
+To: Marco Parise <288380@gospmail.org.br>
+Message-ID: <38-4034-3-6509-1529694915330.jive.jivemailuser@https://gosp-x.jiveon.com>
+Subject: =?UTF-8?Q?[Comunica=C3=A7=C3=A3o_e_Imprensa]_-_Diretoria_eleita_con?=
+ =?UTF-8?Q?duzir=C3=A1_os_destinos_da_Oficina_na_pr=C3=B3xima_gest=C3=A3o?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_169506_1206879295.1529695475716"
+Auto-Submitted: auto-replied
+X-Auto-Response-Suppress: OOF
+List-ID: Comunicação e Imprensa
+Content-Disposition: inline
+X-Jive-Office: jive-101297124-7qj-12-342@mail.gosp-x.jiveon.com
+X-SG-EID: MC+mAxPPER372lmDFdFHyMxARzYmaHZCEvHbMx1UJ2g06ATsEkqsOQvIdx1IZvQGA1Fu7s4bicOyL4
+ iuLmryrff/nphlre6M9TfdrSKvhN0+Nf91J44yqQXmAwVtMxmLTwgZ9xtd27v2g/q6wO64jszPJY9p
+ YzhND/iGcsWwn1tBUNNsG6uimXSzktk+YEza5npHMzEeQC+vPzrjdBoG0Q==
+X-SG-ID: 6Iv2lwEhBxW0L1FeqtuSgBOmISLrKUu9Fa/YMNgnbEH7q/ej1uAa0ra5fG4wBOwChhZ/Vr8IkdnZdE
+ 02uG/BZtsAjM1UFsYdAxoDs7l3rl8=
+
+------=_Part_169506_1206879295.1529695475716
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_169505_1742212525.1529695475716"
+
+------=_Part_169505_1742212525.1529695475716
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+VALDERI ROSADO [https://gosp-x.jiveon.com/people/258150?et=3Dwatches.email.=
+blog] criou a postagem de blog:
+"Diretoria eleita conduzir=C3=A1 os destinos da Oficina na pr=C3=B3xima ges=
+t=C3=A3o"=20
+
+Para visualizar a postagem do blog, visite: https://gosp-x.jiveon.com/commu=
+nity/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog=
+/2018/06/22/diretoria-eleita-conduzir%C3%A1-os-destinos-da-oficina-na-pr%C3=
+%B3xima-gest%C3%A3o?et=3Dwatches.email.blog
+
+--------------------------------------------------------------
+h1. ARLS TRABALHO PROMOVE SESS=C3=83O MAGNA DE INSTALA=C3=87=C3=83O E POSSE=
+ EM AMPARO =E2=80=93 SP
+
+Diretoria eleita conduzir=C3=A1 os destinos da Oficina na pr=C3=B3xima gest=
+=C3=A3o.
+=C2=A0
+Na =C3=BAltima ter=C3=A7a-feira, 19 de junho, foi realizada Na ARLS. Trabal=
+ho n=C2=BA 238, (REAA), oriente de Amparo - SP, Sess=C3=A3o Magna de Instal=
+a=C3=A7=C3=A3o e Posse de Vener=C3=A1vel Mestre e posse da Diretoria eleita=
+ para o per=C3=ADodo 2018/2019.
+A nominata da Administra=C3=A7=C3=A3o eleita ficou assim composta: Vener=C3=
+=A1vel Mestre: Ailton Luiz Paschoal Tortella; 1=C2=BA Vigilante: Antonio Au=
+gusto Spinelli; 2=C2=BA Vigilante: Dirceu Rosa Moreira; Orador: Rodrigo Bar=
+azza de Paula; Secret=C3=A1rio: Evandro Barazza de Paula; Tesoureiro: Franc=
+isco de Assis Godoy Moreira Young; Chanceler: Fabr=C3=ADcio Alexandre de Al=
+meida.
+A Comiss=C3=A3o Instaladora foi presidida pelo Irm=C3=A3o Presidente, S=C3=
+=A9rgio Ayres da Silva Filho, e auxiliados pelos Irm=C3=A3os Vigilantes, 1=
+=C2=BA Vigilante =C2=A0Daniel =C2=A0Ferrareze e 2=C2=BA Vigilante, Benedito=
+ Virgilio Codo .
+Prestigiaram a cerim=C3=B4nia 27 irm=C3=A3os do quadro e 02 visitantes, com=
+ destaque para os Ilustres Irm=C3=A3os, Ademir Vicente Martins (Coordenador=
+ Regional de RI da 4=C2=AA Macrorregi=C3=A3o - Gosp), Valderi Rosado (Secre=
+t=C3=A1rio Adjunto de Comunica=C3=A7=C3=A3o e Imprensa da 4=C2=AA Macrorreg=
+i=C3=A3o - Gosp),=20
+Ao final dos trabalhos, todos foram recepcionados no Sal=C3=A3o de Banquete=
+s da Oficina, para um magn=C3=ADfico =C3=A1gape.
+=C2=A0
+=C2=A0
+Secretaria Estadual de Comunica=C3=A7=C3=A3o e Imprensa =E2=80=93 GOSP
+Irm=C3=A3o: Nilson dos Santos
+Coordenador Estadual de Comunica=C3=A7=C3=A3o e Imprensa da 4=C2=AA Macrorr=
+egi=C3=A3o
+ https://gosp-x.jiveon.com/servlet/JiveServlet/downloadImage/38-4034-110476=
+/483-362/IMG-20180620-WA0020.jpg  (https://gosp-x.jiveon.com/servlet/JiveSe=
+rvlet/showImage/38-4034-110476/IMG-20180620-WA0020.jpg)
+ https://gosp-x.jiveon.com/servlet/JiveServlet/downloadImage/38-4034-110480=
+/474-356/IMG-20180620-WA0027.jpg  (https://gosp-x.jiveon.com/servlet/JiveSe=
+rvlet/showImage/38-4034-110480/IMG-20180620-WA0027.jpg)
+ https://gosp-x.jiveon.com/servlet/JiveServlet/downloadImage/38-4034-110481=
+/477-358/IMG-20180620-WA0010.jpg  (https://gosp-x.jiveon.com/servlet/JiveSe=
+rvlet/showImage/38-4034-110481/IMG-20180620-WA0010.jpg)
+ https://gosp-x.jiveon.com/servlet/JiveServlet/downloadImage/38-4034-110482=
+/472-354/IMG-20180620-WA0006.jpg  (https://gosp-x.jiveon.com/servlet/JiveSe=
+rvlet/showImage/38-4034-110482/IMG-20180620-WA0006.jpg)
+--------------------------------------------------------------
+
+Comente respondendo a este e-mail ou v=C3=A1 para a postagem do blog em RED=
+E SOCIAL DO GOSP
+[https://gosp-x.jiveon.com/community/secretarias/grande-secretaria-de-comun=
+ica%C3%A7%C3%A3o-e-imprensa/blog/2018/06/22/diretoria-eleita-conduzir%C3%A1=
+-os-destinos-da-oficina-na-pr%C3%B3xima-gest%C3%A3o]
+
+
+Este e-mail foi enviado pela REDE SOCIAL DO GOSP porque voc=C3=AA =C3=A9 um=
+ usu=C3=A1rio registrado.
+Voc=C3=AA pode cancelar a assinatura agora mesmo em https://gosp-x.jiveon.c=
+om/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0=
+ee232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c ou ajustar a frequ=C3=AA=
+ncia de e-mail nas prefer=C3=AAncias do seu e-mail (https://gosp-x.jiveon.c=
+om/user-preferences!input.jspa).
+
+------=_Part_169505_1742212525.1529695475716
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+=09
+	<title></title>
+	<style type=3D"text/css">
+    * {
+		margin: 0;
+		padding: 0;
+	}
+	a {
+		color: #3778C7 !important;
+	}
+	body {
+		font-family: Helvetica, Arial, sans-serif;
+		-webkit-text-size-adjust: 100%;
+	}
+	/* Webkit */
+	h1, h2, h3, h4, h5, h6, p, hr {
+		-webkit-margin-before: 0;
+		-webkit-margin-after: 0;
+		-webkit-margin-start: 0;
+		-webkit-margin-end: 0;
+	}
+	.button td {
+		background-image: -moz-linear-gradient(top, #75B7E3 0%, #5498D6 50%, #408=
+BD0 51%, #387AC8 100%) !important;
+		background-image: -webkit-gradient(linear, left top, left bottom, color-s=
+top(0%,#75B7E3), color-stop(50%,#5498D6), color-stop(51%,#408BD0), color-st=
+op(100%,#387AC8)) !important;
+		-webkit-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !impo=
+rtant;
+		-moz-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !importa=
+nt;
+	}
+	</style>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+</head>
+<body style=3D"width:100% !important; -webkit-font-smoothing: antialiased; =
+-webkit-text-size-adjust: 100%;">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff=
+" width=3D"100%" style=3D"background-color: #ffffff; margin: 0; padding: 0;=
+">
+		<tbody>
+			<tr>
+				<td style=3D"padding: 20px 20px 20px 20px;">
+<table class=3D"header" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wi=
+dth=3D"100%">
+	<tbody>
+		<tr>
+			<td valign=3D"top" align=3D"left">
+				<h1 style=3D"color: #333333; margin: 0 0 20px 0; font-weight: normal; f=
+ont-size: 24px; font-family: Helvetica, Arial, sans-serif; text-shadow: rgb=
+a(255,255,255,.9) 0 1px 0;">
+					<!-- To have a header image/logo replace the name below with your img =
+tag -->
+					<!-- Email clients will render the images when the message is read so =
+any image -->
+					<!-- must be made available on a public server, so that all recipients=
+ can load the image. -->
+					<a href=3D"https://gosp-x.jiveon.com/?et=3Dwatches.email.blog" style=
+=3D"color:#333333 !important; text-decoration: none;">
+							<font color=3D"#333333" style=3D"color:#333333;">REDE SOCIAL DO GOSP=
+</font>
+					</a>
+				</h1>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class=3D"content" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ff=
+ffff" border=3D"0" width=3D"100%" style=3D"width: 100%; -moz-border-radius:=
+ 8px; -webkit-border-radius: 8px; border-radius: 8px;">
+	<tbody>
+		<tr>
+			<td valign=3D"middle" style=3D"padding-top: 10px; padding-right: 0px; pa=
+dding-bottom: 20px; padding-left: 0px;"><h2 style=3D'color: #666666; margin=
+: 0 0 0 0; font-weight: normal; font-size: 24px; font-family: Helvetica, Ar=
+ial, sans-serif;'>
+    Diretoria eleita conduzir=C3=A1 os destinos da Oficina na pr=C3=B3xima =
+gest=C3=A3o
+</h2>
+
+<p style=3D'color: #999999; margin-bottom: 20px; font-size: 12px; line-heig=
+ht: 18px; font-family: Helvetica, Arial, sans-serif;'>
+criado por <a href=3D"https://gosp-x.jiveon.com/people/258150?et=3Dwatches.=
+email.blog" style=3D'color: #3778C7; text-decoration: none;'>VALDERI ROSADO=
+</a> em <i>Comunica=C3=A7=C3=A3o e Imprensa</i> - <a href=3D"https://gosp-x=
+.jiveon.com/community/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3=
+o-e-imprensa/blog/2018/06/22/diretoria-eleita-conduzir%C3%A1-os-destinos-da=
+-oficina-na-pr%C3%B3xima-gest%C3%A3o?et=3Dwatches.email.blog" style=3D'colo=
+r: #3778C7; text-decoration: none;'>Visualize a postagem de blog completa</=
+a></p>
+
+<hr style=3D'background-color: #cccccc; height: 1px; margin-bottom: 20px; b=
+order: none;'>
+
+<div style=3D'color: #666666; margin-bottom: 20px; font-size: 14px; line-he=
+ight: 20px; font-family: Helvetica, Arial, sans-serif;'>
+<div class=3D"jive-rendered-content"><h1 style=3D"text-align: center;"><spa=
+n style=3D"color: windowtext;">ARLS TRABALHO PROMOVE SESS&#195;O MAGNA DE I=
+NSTALA&#199;&#195;O E POSSE EM AMPARO &#8211; SP</span></h1><p>&#160;</p><p=
+><span style=3D"font-size: 14.0pt;">Diretoria eleita conduzir&aacute; os de=
+stinos da Oficina na pr&oacute;xima gest&atilde;o.</span></p><p><span style=
+=3D"font-size: 14.0pt;">&#160;</span></p><p><span style=3D"font-size: 14.0p=
+t;">Na &uacute;ltima ter&#231;a-feira, 19 de junho, foi realizada Na ARLS. =
+Trabalho n&#186; 238, (REAA), oriente de Amparo - SP, Sess&atilde;o Magna d=
+e Instala&#231;&atilde;o e Posse de Vener&aacute;vel Mestre e posse da Dire=
+toria eleita para o per&#237;odo 2018/2019.</span></p><p><span style=3D"fon=
+t-size: 14.0pt;">A nominata da Administra&#231;&atilde;o eleita ficou assim=
+ composta: Vener&aacute;vel Mestre: Ailton Luiz Paschoal Tortella; 1&#186; =
+Vigilante: Antonio Augusto Spinelli; 2&#186; Vigilante: Dirceu Rosa Moreira=
+; Orador: Rodrigo Barazza de Paula; Secret&aacute;rio: Evandro Barazza de P=
+aula; Tesoureiro: Francisco de Assis Godoy Moreira Young; Chanceler: Fabr&#=
+237;cio Alexandre de Almeida.</span></p><p><span style=3D"font-size: 14.0pt=
+;">A Comiss&atilde;o Instaladora foi presidida pelo Irm&atilde;o Presidente=
+, S&eacute;rgio Ayres da Silva Filho, e auxiliados pelos Irm&atilde;os Vigi=
+lantes, 1&#186; Vigilante &#160;Daniel &#160;Ferrareze e 2&#186; Vigilante,=
+ Benedito Virgilio Codo .</span></p><p><span style=3D"font-size: 14.0pt;">P=
+restigiaram a cerim&ocirc;nia 27 irm&atilde;os do quadro e 02 visitantes, c=
+om destaque para os Ilustres Irm&atilde;os, Ademir Vicente Martins (Coorden=
+ador Regional de RI da 4&#170; Macrorregi&atilde;o - Gosp), Valderi Rosado =
+(Secret&aacute;rio Adjunto de Comunica&#231;&atilde;o e Imprensa da 4&#170;=
+ Macrorregi&atilde;o - Gosp), </span></p><p><span style=3D"font-size: 14.0p=
+t;">Ao final dos trabalhos, todos foram recepcionados no Sal&atilde;o de Ba=
+nquetes da Oficina, para um magn&#237;fico &aacute;gape.</span></p><p><span=
+ style=3D"font-size: 14.0pt;">&#160;</span></p><p><span style=3D"font-size:=
+ 14.0pt;">&#160;</span></p><p><span style=3D"font-size: 14.0pt;">Secretaria=
+ Estadual de Comunica&#231;&atilde;o e Imprensa &#8211; GOSP</span></p><p><=
+span style=3D"font-size: 14.0pt;">Irm&atilde;o: Nilson dos Santos</span></p=
+><p><span style=3D"font-size: 14.0pt;">Coordenador Estadual de Comunica&#23=
+1;&atilde;o e Imprensa da 4&#170; Macrorregi&atilde;o</span></p><p><span st=
+yle=3D"font-size: 14.0pt;"><a href=3D"https://gosp-x.jiveon.com/servlet/Jiv=
+eServlet/showImage/38-4034-110476/IMG-20180620-WA0020.jpg"><span> https://g=
+osp-x.jiveon.com/servlet/JiveServlet/downloadImage/38-4034-110476/483-362/I=
+MG-20180620-WA0020.jpg </span></a></span></p><p><span style=3D"font-size: 1=
+4.0pt;"><a href=3D"https://gosp-x.jiveon.com/servlet/JiveServlet/showImage/=
+38-4034-110480/IMG-20180620-WA0027.jpg"><span> https://gosp-x.jiveon.com/se=
+rvlet/JiveServlet/downloadImage/38-4034-110480/474-356/IMG-20180620-WA0027.=
+jpg </span></a></span></p><p><span style=3D"font-size: 14.0pt;"><a href=3D"=
+https://gosp-x.jiveon.com/servlet/JiveServlet/showImage/38-4034-110481/IMG-=
+20180620-WA0010.jpg"><span> https://gosp-x.jiveon.com/servlet/JiveServlet/d=
+ownloadImage/38-4034-110481/477-358/IMG-20180620-WA0010.jpg </span></a></sp=
+an></p><p><span style=3D"font-size: 14.0pt;"><a href=3D"https://gosp-x.jive=
+on.com/servlet/JiveServlet/showImage/38-4034-110482/IMG-20180620-WA0006.jpg=
+"><span> https://gosp-x.jiveon.com/servlet/JiveServlet/downloadImage/38-403=
+4-110482/472-354/IMG-20180620-WA0006.jpg </span></a></span></p></div>
+</div>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" bgco=
+lor=3D"#f5f5f5" style=3D'padding: 10px; margin-top: 40px;'>
+<tbody>
+	<tr>
+    <td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-heigh=
+t: 20px; font-family: Helvetica, Arial, sans-serif;'>
+	Comente respondendo a este e-mail ou <a href=3D"https://gosp-x.jiveon.com/=
+community/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa=
+/blog/2018/06/22/diretoria-eleita-conduzir%C3%A1-os-destinos-da-oficina-na-=
+pr%C3%B3xima-gest%C3%A3o?et=3Dwatches.email.blog" style=3D'color: #3778C7; =
+text-decoration: none;'>v=C3=A1 para a postagem do blog em REDE SOCIAL DO G=
+OSP</a>
+    </td>
+    </tr>
+
+
+    <tr>
+    <td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-heigh=
+t: 20px; font-family: Helvetica, Arial, sans-serif;'>
+		Seguindo <a href=3D"https://gosp-x.jiveon.com/community/secretarias/grand=
+e-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog?et=3Dwatches.email.bl=
+og" style=3D'color: #3778C7; text-decoration: none;'>Comunica=C3=A7=C3=A3o =
+e Imprensa</a> nestes fluxos:
+     Comunica=C3=A7=C3=A3o e Imprensa
+    </td>
+    </tr>
+</tbody>
+</table>
+<br><br>
+                    <p style=3D'color: #666666; margin-top: 20px; font-size=
+: 14px; line-height: 20px; font-family: Helvetica, Arial, sans-serif;'>
+                        Este e-mail foi enviado pela Rede Social do GOSP po=
+rque voc=C3=AA =C3=A9 um usu=C3=A1rio registrado.
+	                        Voc=C3=AA pode <a href=3D"https://gosp-x.jiveon.co=
+m/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0e=
+e232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c">cancelar a assinatura</a=
+> agora mesmo ou ajustar a frequ=C3=AAncia de e-mail nas <a href=3D"https:/=
+/gosp-x.jiveon.com/user-preferences!input.jspa">prefer=C3=AAncias do seu e-=
+mail</a>
+                    </p>
+            </td>
+		</tr>
+	</tbody>
+</table>
+			    </td>
+			</tr>
+		</tbody>
+	</table>
+
+<img src=3D"http://jiveon.jivesoftware.com/wf/open?upn=3DlkDbH7-2FnFH7oeBGC=
+GoMHz9T22eb3DvjuBfkB1ASadAwAtbqNYYkVs4MwAGOqDuR5N49BZM9PLfhYH64a-2FtseS4DVe=
+2KYtEKG1jtQxJcampyuh390rm93yAv-2B-2FvA8KU-2FotFETS-2BniGqT7Ts0IWUUg-2BU-2Bx=
+6vLbfqzJfOUaFKSpIODo004uXXVxYUFCiDNO922m106vDVP8egoXDLFIYeQQhCp8pT2bi4eLJVn=
+U0QUsovYmJ-2BwtQNPKAE-2F1mIGHqcZjjq4aJbRf4D-2Ffa2YW8fnRcBd0qoMp78Drjpc8c5hK=
+W2gxNwcKmruwBxMrcnpGpVoO-2FJYc2Iux-2F9FSSjngaMCpVg-3D-3D" alt=3D"" width=3D=
+"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !imp=
+ortant;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !i=
+mportant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !=
+important;padding-bottom:0 !important;padding-right:0 !important;padding-le=
+ft:0 !important;"/>
+</body>
+</html>
+
+------=_Part_169505_1742212525.1529695475716--
+
+------=_Part_169506_1206879295.1529695475716--
+

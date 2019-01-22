@@ -1,0 +1,396 @@
+Return-Path: <mailer@infusionmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id Qc17OjNroVkR+g0AY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Sat, 26 Aug 2017 09:36:04 -0300
+Return-path: <mailer@infusionmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sat, 26 Aug 2017 09:36:04 -0300
+Received: from mta-c-24-170.infusionmail.com ([208.76.24.170]:46467)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <mailer@infusionmail.com>)
+	id 1dlaJn-003qUe-LD
+	for marco@digitalfotoimagem.com.br; Sat, 26 Aug 2017 09:36:03 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=superandoseuslimites.com.br;
+	s=33409a7a-342e-424e-88bb-80f252c491ca; t=1503750907;
+	i=@superandoseuslimites.com.br; bh=nRTOnsb8TmNH46wARS3KMa9eJ0k=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	b=tlvBDrTJBEpjcuvefYYfQ9PCZNurmLRcwv1fbPFSe+LJHOAsUR0evX3dHn5Awpd55
+	 +KL9PLtvHt6he37WPcVGchSNS/TXQY9T/DEF70iPrjS117T4Uqs0ES0FqFPgkQxQou
+	 2kVatO9PP4O7lQvpQlFsJvvTiMwNRnWIgZPS/TzI=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=infusionmail.com;
+	s=dkim1024; t=1503750907; i=@infusionmail.com;
+	bh=nRTOnsb8TmNH46wARS3KMa9eJ0k=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	b=cqHyX3boiIGAPk+6qaP1zqZaXxNGBQOBesg+9kNmpHehunH3c6Y3VoFI3/VaKei7E
+	 ykYwpa7FB0vuDK0cDSrEGt6BjG4uSrPkYNx7gdQpW5dmRohLukpIAAdguc0cmW4X5Q
+	 zw6u5JI5sIW6jtoNSs7aluopbio/9gSrRbio1wN8=
+Received: from [10.0.0.222] ([10.0.0.222:56302] helo=superion)
+	by phxme4 (envelope-from <mailer@infusionmail.com>)
+	(ecelerity 3.6.12.50134 r(Core:3.6.12.0)) with ESMTP
+	id 90/29-31875-BFA61A95; Sat, 26 Aug 2017 08:35:07 -0400
+Date: Sat, 26 Aug 2017 08:35:05 -0400 (EDT)
+From: =?utf-8?Q?Andr=C3=A9_Sampaio?= <andre@superandoseuslimites.com.br>
+To: marco@digitalfotoimagem.com.br
+Message-ID: <840233460.8979921503750905739.JavaMail.tomcat@localhost>
+Subject: =?utf-8?Q?[Treinamento_Gratuito]_Voc=C3=AA_vai_ficar_de_fora=3F?=
+Errors-To: mailer@infusionmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_897197_1144594784.1503750905731"
+X-MailSentId: 629888
+X-campaignid: infusion_dk283629888
+Feedback-ID: dk283:dk283_8894:primer
+X-BatchId: 8894
+X-InfApp: dk283
+X-InfContact: 333540
+X-InfSent: 44139788
+X-inf-QETT: 0
+X-inf-package: primer
+X-inf-uflags: UE
+X-inf-iflags: UE
+X-inf-BlockName: mn149
+List-Unsubscribe: <https://dk283.infusionsoft.com/app/optOut/noConfirm/44139788/c1be12eb4313cf33>
+X-inf-dkimSelector: 33409a7a-342e-424e-88bb-80f252c491ca
+X-inf-dkimDomain: superandoseuslimites.com.br
+X-Message-Id: 90/29-31875-BFA61A95
+
+------=_Part_897197_1144594784.1503750905731
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+This email was sent as HTML-only. To view it, please visit:
+https://dk283.infusionsoft.com/app/hostedEmail/44139788/c1be12eb4313cf33
+------=_Part_897197_1144594784.1503750905731
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title></title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700italic,700|Open+Sans:400,400italic,700,700italic|Lato:400,400italic,700,700italic);
+</style>
+<style type="text/css">
+#outlook a {padding: 0;}
+.ReadMsgBody, .ExternalClass {width: 100%;}
+.ExternalClass * {line-height: 100%;}
+body { background-color: #ffffff; margin: 0; padding: 0;
+-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+table, td { border-collapse:collapse;
+mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+img { border: 0; height: auto; line-height: 100%;
+outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; }
+.column {display: inline-block; width: 100%;
+text-align: left; vertical-align: top; }
+@media only screen and (min-width:480px) {
+.column-100, * [aria-labelledby='column-100'] {
+width: 100% !important; display: inline-block;
+text-align: left; vertical-align: top; }
+.column-50, * [aria-labelledby='column-50'] {
+width: 50% !important; display: inline-block;
+text-align: left; vertical-align: top; }
+.column-33, * [aria-labelledby='column-33'] {
+width: 33% !important; display: inline-block;
+text-align: left; vertical-align: top; }}
+@media only screen and (max-width:479px) {
+.socialBlock, td.imageBlock, .buttonBlock,
+.alignmentContainer { text-align: center !important }
+.alignmentContainer table { margin-right: auto;
+margin-left: auto;}}
+</style>
+</head><body style="background:#ffffff">
+<!--[if gte mso 9]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml>
+<![endif]-->
+<div style="background:#ffffff">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255);">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]-->
+<!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="style-scope bard-text-block" style="text-align: left; color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+<span class="bard-text-block style-scope" style="">
+<span class="bard-text-block style-scope" style="">
+<span style="color: rgb(94, 94, 94);" class="bard-text-block style-scope">O nosso treinamento gratuito será terça-feira, dia 29/08 às 20h30 BRT, mas 
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">até agora você ainda não fez a sua inscrição gratuita. </b>
+<br />
+<br />
+A boa notícia é que 
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">ainda dá tempo… </b></span></span></span> 
+</p>
+<p class="style-scope bard-text-block" style="text-align: left; color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px 0px; line-height: 1.6;">
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">
+<a href="https://dk283.infusionsoft.com/app/linkClick/18654/454e7dbfe5ac95d7/44139788/c1be12eb4313cf33" class="bard-text-block style-scope" target="_blank" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;">http://superandoseuslimites.com.br/power-up-webinar</a></b>
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+<![endif]-->
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255);">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]-->
+<!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="alignmentContainer" style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: center;">
+<table border="0" cellspacing="0" cellpadding="0" style="border-radius: 4px; border: none; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td align="center" valign="middle" bgcolor="#3A7522" style="background: rgb(58, 117, 34); border-radius: 4px; color: rgb(255, 255, 255); cursor: auto;">
+<a href="https://dk283.infusionsoft.com/app/linkClick/18652/62152b93be286654/44139788/c1be12eb4313cf33" target="_blank" style="background: rgb(58, 117, 34); border: 1px solid rgb(58, 117, 34); border-radius: 4px; color: rgb(255, 255, 255); display: inline-block; font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 16px; font-weight: bold; text-decoration: none; text-size-adjust: none; width: 241px;">FAÇA SUA INSCRIÇÃO AGORA</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+<![endif]-->
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255);">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]-->
+<!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="style-scope bard-text-block" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+Se você quer 
+<span style="color: rgb(94, 94, 94);" class="bard-text-block style-scope">
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">se Condicionar para o Sucesso e </b></span>
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">Melhorar seus Resultados em Qualquer Área da Sua Vida</b>, como por exemplo
+</p>
+<ul class="bard-text-block style-scope" style="padding: 0px 0px 0px 40px; margin-top: 16px; margin-right: 0px; margin-bottom: 16px; margin-left: initial; line-height: 1.6; font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: rgb(52, 52, 52);">
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+a Danielle B., mãe e empresária, que 
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">dobrou o faturamento da sua empresa</b> em 3 meses;
+</li>
+<li class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">
+a Olivia T., terapeuta, que saiu de um salário de 2 mil reais para ganhar mais de 
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">30 mil reais por mês</b> em menos de um ano;
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+a Karla K., executiva, que 
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">conseguiu um emprego</b> melhor em uma multinacional;
+<br />
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+ou até eu mesmo, que saí do zero, 
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">passei em dois concursos públicos</b> dos mais concorridos do país e em pouco tempo criei uma empresa que fatura mais de 
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">1 milhão de reais por ano</b>;
+<br />
+</li>
+</ul>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+...essa é sua chance de ter acesso a informações exclusivas e práticas para já iniciar seu processo de mudança… 
+</p>
+<p class="style-scope bard-text-block" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+Mas você precisa agir rápido. 
+<br />
+<br />
+Então, aproveite enquanto você está lendo este email e já faça seu cadastro gratuito agora mesmo. 
+<br />
+<br />
+Aqui está o link para o seu cadatro gratuito: 
+<br />
+<a href="https://dk283.infusionsoft.com/app/linkClick/18650/9395afeab36d18d7/44139788/c1be12eb4313cf33" class="bard-text-block style-scope" target="_blank" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;">http://superandoseuslimites.com.br/power-up-webinar</a>
+</p>
+<p class="style-scope bard-text-block" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+</p>
+<p class="style-scope bard-text-block" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Espero que você não perca essa oportunidade.
+<br />
+<br />
+Forte abraço
+<br />
+André Sampaio
+<br />
+</p>
+<p class="style-scope bard-text-block" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+</p>
+<p class="style-scope bard-text-block" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+</p>
+<p class="style-scope bard-text-block" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px 0px; line-height: 1.6;">
+<br />
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+<![endif]-->
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255);">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]-->
+<!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="alignmentContainer" style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div style="margin-left: auto; margin-right: auto;">
+<p style="font-family: Helvetica, Arial, sans-serif; padding: 0px; margin: 0px 0px 13px; line-height: 1.6; color: rgb(153, 153, 153); font-size: 11px;">
+<a href="https://dk283.infusionsoft.com/app/linkClick/18648/98042af9ceda9a65/44139788/c1be12eb4313cf33" target="_blank" style="text-decoration: underline; padding: 0px; margin: 0px; line-height: 1.6; color: rgb(153, 153, 153);">Unsubscribe</a>
+</p>
+<p style="font-family: Helvetica, Arial, sans-serif; padding: 0px; margin: 13px 0px 0px; line-height: 1.6; color: rgb(153, 153, 153); font-size: 11px;">
+Superando seus Limites Av Queiroz Filho, 1.700 São Paulo, São Paulo 05319-000 Brazil
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+<![endif]-->
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</div>
+<img height="1" width="1" style="display: block;" alt="" src="https://dk283.infusionsoft.com/app/emailOpened/44139788/8894"></body>
+</html>
+------=_Part_897197_1144594784.1503750905731--
+

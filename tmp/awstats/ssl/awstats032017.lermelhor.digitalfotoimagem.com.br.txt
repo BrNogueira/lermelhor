@@ -1,0 +1,707 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201703 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/ssl/awstats.lermelhor.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2034                
+POS_TIME 2709                
+POS_VISITOR 12500               
+POS_DAY 15560               
+POS_DOMAIN 3587                
+POS_LOGIN 3896                
+POS_ROBOT 4051                
+POS_WORMS 4493                
+POS_EMAILSENDER 4624                
+POS_EMAILRECEIVER 4767                
+POS_SESSION 16121               
+POS_SIDER 16330               
+POS_FILETYPES 4902                
+POS_DOWNLOADS 5229                
+POS_OS 5317                
+POS_BROWSER 5520                
+POS_SCREENSIZE 6064                
+POS_UNKNOWNREFERER 6138                
+POS_UNKNOWNREFERERBROWSER 6731                
+POS_ORIGIN 7177                
+POS_SEREFERRALS 7319                
+POS_PAGEREFS 7474                
+POS_SEARCHWORDS 9231                
+POS_KEYWORDS 9383                
+POS_MISC 2371                
+POS_ERRORS 9442                
+POS_CLUSTER 3752                
+POS_SIDER_404 9611                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170401000703 1542 382538 16997384429297
+FirstTime 0
+LastTime 20170331233628
+LastUpdate 20170401092901 1542 0 1541 0 0
+TotalVisits 111                 
+TotalUnique 41                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 95                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 108 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 157 626 15080493 30 44 222658
+1 242 488 18226001 63 102 527400
+2 0 0 0 12 37 469544
+3 63 111 3595174 16 38 236494
+4 128 265 4442319 15 90 787464
+5 1 1 14853 10 14 89285
+6 4 28 434147 19 34 150491
+7 14 15 171990 18 28 382447
+8 30 43 1368650 9 26 361764
+9 188 451 12968178 101 158 1178577
+10 473 1135 40374820 58 127 485678
+11 510 1161 32216236 106 271 1137493
+12 369 797 23198339 65 125 533940
+13 254 507 9707149 19 97 1101935
+14 195 371 11596683 25 75 433853
+15 231 518 15696657 29 90 626293
+16 105 289 6717297 25 56 108644
+17 247 490 16070774 27 62 233274
+18 264 495 17696280 69 159 1447800
+19 143 358 8183467 83 125 1347710
+20 104 241 1806743 8 18 341233
+21 52 106 2723110 20 57 263387
+22 36 45 97247 11 39 556601
+23 138 344 12972001 49 99 332428
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+br 3850 8665 251501277
+de 67 67 428621
+ru 14 96 1305124
+us 14 54 2084128
+se 2 2 34606
+ua 1 1 4852
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+googlebot 368 4325883 20170331234008 4
+bot[\s_+:,\.\;\/\\-] 166 2865158 20170331184401 3
+no_user_agent 146 1242520 20170331103123 0
+bingpreview 48 320482 20170325142005 0
+netcraft 19 492776 20170323005026 0
+php 18 1467101 20170331220154 0
+slurp 13 220277 20170327191241 0
+msnbot\-media 1 5307 20170323125301 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+Unknown 14 9002 0 0
+js 1345 23703683 0 0
+jpeg 67 1209415 0 0
+gif 158 389171 0 0
+png 249 27274327 0 0
+php 3157 111169756 0 0
+html 647 23984211 0 0
+jpg 1317 55989105 0 0
+svg 23 34859 0 0
+woff2 1 66624 0 0
+css 1778 10424115 0 0
+woff 96 892312 0 0
+eot 33 212028 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/documents/ProjetoLeitura.doc 2 0 90112
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+ios_iphone 92 5
+linuxandroid 514 58
+winlong 4 4
+winnt 65 6
+winxp 1915 1061
+Unknown 80 80
+linux 121 18
+win8 2 2
+macosx 5 5
+win7 6087 2709
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 24
+chrome57.0.2987.110 54 7
+chrome38.0.1025.166 40 0
+chrome55.0.2883.95 5 5
+chrome44.0.2403.133 6 6
+msie8.0 51 4
+firefox34.0 4 4
+android 61 11
+safari10.0 92 5
+netscape5.0 3 3
+opera12.17 2 2
+chrome57.0.2987.98 120 15
+chrome57.0.2987.132 1 1
+Unknown 68 68
+firefox52.0 3101 1441
+opera18.0.1284.63 37 2
+chrome57.0.2987.108 10 1
+chrome58.0.2988.0 78 14
+firefox3.5.6 1 1
+mozilla 9 9
+chrome49.0.2623.112 1863 1056
+chrome43.0.2357.93 16 0
+msie11.0 977 576
+firefox51.0 921 375
+chrome56.0.2924.87 1365 342
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+WordPress/4.7.3;_https://lermelhor.com.br/nivel3 20170327181530
+WhatsApp/2.17.107_A 20170325201352
+Mozilla/5.0_(compatible;_ips-agent) 20170322215238
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com;_webmaster@moreover.com) 20170319133129
+WordPress/4.7.3;_https://lermelhor.com.br 20170331232426
+Softaculous 20170331103110
+WordPress/4.7.3;_https://lermelhor.com.br/2 20170326012852
+WordPress/4.7.3;_https://lermelhor.com.br/Curso 20170331171313
+WordPress/4.7.3;_https://lermelhor.com.br/1 20170327001407
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+WordPress/4.7.3;_https://lermelhor.com.br 20170331232426
+WordPress/4.7.3;_https://lermelhor.com.br/1 20170327001407
+WordPress/4.7.3;_https://lermelhor.com.br/2 20170326012852
+WhatsApp/2.17.107_A 20170325201352
+WordPress/4.7.3;_https://lermelhor.com.br/nivel3 20170327181530
+WordPress/4.7.3;_https://lermelhor.com.br/Curso 20170331171313
+Softaculous 20170331103110
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 230 255
+From1 0 0
+From2 1 1
+From3 38 38
+From4 3679 8591
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 19
+https://hserv9.homehost.com.br:2083/cpsess0703755533/frontend/x3/softaculous/index.live.php 4 4
+https://hserv9.homehost.com.br:2083/cpsess4003637410/3rdparty/rvsitebuilder/index.php 4 4
+https://www.homehost.com.br/chat/operador/operador.php 4 4
+https://hserv9.homehost.com.br:2083/cpsess8972122252/frontend/x3/softaculous/index.live.php 4 4
+http://m.facebook.com 3 3
+https://hserv9.homehost.com.br:2083/cpsess1025689733/frontend/x3/softaculous/index.live.php 2 2
+https://hserv9.homehost.com.br:2083/cpsess0755760676/3rdparty/rvsitebuilder/index.php 2 2
+https://hserv9.homehost.com.br:2083/cpsess0964626321/3rdparty/rvsitebuilder/index.php 2 2
+https://hserv9.homehost.com.br:2083/cpsess2733137966/frontend/x3/softaculous/index.live.php 2 2
+https://hserv9.homehost.com.br:2083/cpsess7963098697/3rdparty/rvsitebuilder/index.php 2 2
+https://hserv9.homehost.com.br:2083/cpsess2421601541/3rdparty/rvsitebuilder/index.php 1 1
+https://hserv9.homehost.com.br:2083/cpsess1321645763/3rdparty/rvsitebuilder/index.php 1 1
+https://hserv9.homehost.com.br:2083/cpsess5405373306/frontend/x3/softaculous/index.live.php 1 1
+https://www.facebook.com 1 1
+https://hserv9.homehost.com.br:2083/cpsess7046034307/3rdparty/rvsitebuilder/index.php 1 1
+https://hserv9.homehost.com.br:2083/cpsess7504753316/frontend/x3/softaculous/index.live.php 1 1
+https://hserv9.homehost.com.br:2083/cpsess1092664106/frontend/x3/softaculous/index.live.php 1 1
+https://hserv9.homehost.com.br:2083/cpsess1321645763/frontend/x3/softaculous/index.live.php 1 1
+https://hserv9.homehost.com.br:2083/cpsess1200165809/frontend/x3/softaculous/index.live.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+302 466 904255
+406 3 77934
+206 35 820459
+403 3 10829
+500 18 27836
+404 440 540273
+301 46 9325
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 56
+/Teste/wp-includes/js/imagesloaded.min.js 11 https://lermelhor.com.br/Curso/
+/images/2/jejacomoadquirir.jpg 3 -
+/Curso/wp-content/themes/educate/css/bootstrap.css.map 2 -
+/images/2/12516850_1054248367966191_1231618284_o1.jpg 1 -
+/Teste/wp-login.php 19 -
+/Teste/wp-content/themes/educate/css/bootstrap.css 11 https://lermelhor.com.br/Curso/
+/images/spacer.gif 2 -
+/Videos 1 -
+/.well-known/apple-app-site-association 9 -
+/Teste/wp-includes/js/jquery/jquery.js 11 https://lermelhor.com.br/Curso/
+/Teste/wp-content/themes/educate/style.css 11 https://lermelhor.com.br/Curso/
+/videos/optimizer.php 5 https://lermelhor.com.br/videos/rvsindex.php
+/Teste/wp-includes/js/jquery/jquery.masonry.min.js 13 https://lermelhor.com.br/Curso/
+/Teste/wp-content/uploads/2017/03/cropped-LOGO-1-32x32.jpg 5 -
+/images/MetodoCoaching.jpg 3 -
+/Teste/wp-content/themes/educate/js/bootstrap.js 11 https://lermelhor.com.br/Curso/
+/optimizer.php 4 https://lermelhor.com.br/rvsindex.php
+/images/2/3.jpg 3 -
+/images/2/2.jpg 3 -
+/Teste/wp-admin/load-styles.php 2 https://lermelhor.com.br/Curso/wp-login.php
+/1/ 2 -
+/Teste/wp-cron.php 3 https://lermelhor.com.br/Teste/wp-cron.php
+/images/BOTONINICIO.png 1 -
+/2 1 -
+/Teste/ 5 -
+/Teste/wp-admin/ 1 -
+/robots.txt 73 -
+/images/2.jpg 3 -
+/LOGO.jpg 3 -
+/Curso/ 11 -
+/images/Gab.Ver.Ari.jpeg 1 -
+/1/wp-login.php 5 -
+/1/trackback/ 1 https://lermelhor.com.br/1/
+/Teste/wp-includes/js/masonry.min.js 12 https://lermelhor.com.br/Curso/
+/images/img_02.jpg 1 -
+/1/author/Ler%20Melhor/ 1 https://lermelhor.com.br/1/category/uncategorized/
+/images/fotoDiadema.jpg 1 -
+/images/livro800x800.jpg 2 -
+/1/0mbbaga0xssormb1x28v8wgn9cudia9h.php 1 https://lermelhor.com.br/1/wp-login.php
+/images/empoderamento.jpg 1 -
+/images/2/Comproveoteste.jpg 3 -
+/images/2/Fun%C3%A7%C3%A3odosolhos.jpg 3 -
+/images/pag1teste.jpg 2 -
+/images/2/DEMONSTRA%C3%87%C3%83O.jpg 3 -
+/Teste/wp-content/themes/educate/css/font-awesome.css 11 https://lermelhor.com.br/Curso/
+/images/img_03.jpg 1 -
+/Teste/wp-includes/js/wp-embed.min.js 13 https://lermelhor.com.br/Curso/
+/Teste/wp-includes/js/wp-emoji-release.min.js 11 https://lermelhor.com.br/Curso/
+/Curso/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js 96 https://lermelhor.com.br/Curso/
+/images/2/curso.jpg 1 -
+/Teste/wp-content/themes/educate/js/default.js 11 https://lermelhor.com.br/Curso/
+/Teste/wp-includes/js/jquery/jquery-migrate.min.js 12 https://lermelhor.com.br/Curso/
+/images/curso2016.jpg 3 -
+/curso/wp-admin/ 2 -
+/Teste/wp-content/uploads/2017/03/cropped-LOGO-1-192x192.jpg 5 -
+/images/%C3%81readoalunook.jpg 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 95
+201.6.230.172 1681 3322 100246674 20170329153114
+201.6.228.44 1153 2373 59299636 20170331233628
+201.55.31.210 897 1820 56189420 20170327184931
+93.104.215.69 67 67 428621 20170331232426
+201.6.228.162 40 403 11559004 20170317095806
+177.207.204.67 18 121 4301447 20170331104545
+177.102.95.4 11 61 2243559 20170314132344
+69.58.178.58 9 9 173560 20170322215238
+201.1.186.65 8 58 2183809 20170313122019
+201.55.31.83 7 54 1969729 20170312145032
+201.95.179.139 6 64 838042 20170312191722
+186.203.223.20 5 63 3034178 20170328235118
+80.87.194.38 4 4 19311 20170327223915
+70.39.246.37 3 3 18269 20170319133129
+201.42.36.240 3 32 415617 20170328122145
+187.57.248.54 3 17 607943 20170331215655
+177.46.140.47 3 37 440595 20170313110443
+46.29.254.186 2 2 34606 20170321042540
+191.188.8.134 2 49 1881088 20170317112058
+177.102.107.180 2 2 10562 20170329091913
+177.189.3.84 2 37 435938 20170314150641
+5.167.115.38 2 37 435938 20170314161511
+177.102.90.105 2 2 10561 20170322123555
+5.164.235.4 1 1 9917 20170314061928
+78.85.164.60 1 1 14853 20170321055733
+37.204.156.184 0 1 4129 
+37.144.52.74 0 1 206731 
+176.193.106.195 0 1 2991 
+87.228.66.224 1 1 29475 20170314061923
+95.28.174.218 0 1 3894 
+37.204.43.99 0 1 1300 
+109.173.52.218 0 1 1086 
+66.249.83.157 0 16 537809 
+198.204.231.74 1 1 14853 20170320065620
+176.15.21.11 0 1 386 
+66.249.83.158 0 10 427722 
+46.147.215.70 0 1 1177 
+46.211.144.101 1 1 4852 20170315104050
+188.32.225.193 0 1 94840 
+177.58.182.6 0 29 1189731 
+95.28.160.102 0 1 3894 
+176.193.106.36 0 1 1347 
+79.165.102.188 0 1 4946 
+66.249.83.159 0 14 849822 
+52.87.86.158 1 1 62093 20170331113102
+46.188.49.214 0 1 4946 
+46.242.91.219 0 1 1 
+189.19.133.240 1 1 62503 20170331225607
+37.147.107.81 0 1 1164 
+176.195.112.2 0 1 206731 
+201.92.109.94 0 40 1815353 
+95.28.185.134 0 1 386 
+77.41.92.169 0 1 1164 
+109.173.32.125 0 1 438 
+176.195.114.158 0 1 18121 
+178.140.197.174 0 1 438 
+188.92.241.40 1 1 4852 20170315125741
+189.97.88.31 1 10 53644 20170326174012
+177.80.101.244 1 1 62503 20170331200412
+176.14.221.167 0 1 2336 
+179.110.212.159 1 1 5282 20170331085733
+90.154.76.107 0 1 4129 
+177.95.237.146 1 1 62697 20170331194619
+179.111.41.126 0 16 348827 
+109.63.135.23 0 1 1086 
+46.42.130.86 0 1 94840 
+37.144.56.130 0 1 250 
+46.42.178.154 0 1 10619 
+188.255.21.104 0 1 1356 
+95.28.163.128 0 1 250 
+128.68.52.36 0 1 1402 
+178.140.235.245 0 1 49 
+176.195.113.222 0 1 1240 
+109.63.181.201 0 1 1347 
+176.14.41.252 0 1 1978 
+46.147.243.7 0 2 20099 
+176.195.99.101 0 1 2991 
+195.91.159.75 1 1 4851 20170315103452
+176.195.98.91 0 1 1 
+177.139.72.107 1 1 5281 20170318173817
+93.80.229.249 0 1 18121 
+178.140.87.77 0 1 49 
+5.18.201.143 1 1 4852 20170315104735
+5.228.65.43 0 1 10619 
+93.80.63.183 0 1 2336 
+176.193.104.59 0 1 1300 
+176.15.89.38 1 1 9917 20170313173325
+176.195.109.219 0 1 1177 
+46.42.168.45 0 1 1356 
+37.204.34.146 0 1 1402 
+187.10.205.155 1 9 412301 20170325172707
+95.27.138.205 0 1 1240 
+200.193.173.2 0 1 0 
+176.14.37.74 1 1 29475 20170313173312
+189.100.135.147 0 40 1815353 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20170312 114 636 15810452 5
+20170313 17 131 3048492 6
+20170314 17 167 3552715 5
+20170315 17 67 2176798 5
+20170316 5 139 5596950 2
+20170317 3 139 5582961 2
+20170318 1 41 1820634 1
+20170319 704 1299 38396560 4
+20170320 44 146 4676694 3
+20170321 95 186 6966300 4
+20170322 11 16 202064 2
+20170323 2 7 9656 1
+20170325 356 690 23878955 8
+20170326 514 774 16640060 9
+20170327 242 443 20165991 6
+20170328 388 1185 38723597 9
+20170329 229 349 5897777 10
+20170330 353 774 15601045 12
+20170331 836 1696 46610907 17
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 7
+5mn-15mn 11
+15mn-30mn 11
+30s-2mn 4
+1h+ 16
+0s-30s 56
+2mn-5mn 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 208
+/Curso/wp-admin/admin-ajax.php 615 1995546 1 6
+/1/wp-admin/admin-ajax.php 540 2703412 3 5
+/wp-admin/admin-ajax.php 378 867029 3 2
+/Curso/ 225 6701985 4 2
+/videos/optimizer.php 129 4474237 7 12
+/ 107 5312900 11 9
+/Curso/wp-admin/load-scripts.php 89 6973995 0 0
+/1/ 69 1924612 5 2
+/1/wp-admin/load-scripts.php 63 4644989 0 0
+/videos/rvsindex.php 56 259845 13 5
+/nivel3/wp-admin/admin-ajax.php 53 881057 0 0
+/1/wp-login.php 49 136392 3 2
+/wp-admin/nav-menus.php 46 6895094 0 0
+/Curso/wp-admin/themes.php 46 2620273 1 0
+/wp-admin/post.php 41 5296794 0 0
+/Curso/wp-admin/customize.php 37 9569422 0 0
+/nivel3/wp-admin/load-scripts.php 37 3609849 0 1
+/2/wp-admin/admin-ajax.php 32 59903 0 0
+/wp-admin/edit.php 32 2000289 0 0
+/1/wp-admin/themes.php 31 1773318 1 0
+/Curso/wp-admin/load-styles.php 31 2929642 0 1
+/Curso/wp-admin/nav-menus.php 31 2977512 0 0
+/Curso/wp-admin/post.php 30 3945055 0 0
+/optimizer.php 28 551488 0 0
+/1/sample-page/ 27 645535 1 1
+/wp-admin/plugin-install.php 1 68330 0 0
+/curso/index.html/index.html/index.html/index.html/index.html/index.html/ 1 3671 0 0
+/1/wp-admin/load-styles.php 21 1764554 0 0
+/video-demonstrativo/ 6 357985 0 0
+/principios/ 7 427267 0 1
+/Curso/wp-admin/widgets.php 6 578113 0 0
+/Copied-Avalia%C3%A7%C3%A3o-do-tempo-adequado.php 1 38405 0 0
+/copia/rvssetup.php 2 111590 1 0
+/Curso/wp-admin/about.php 1 39944 0 0
+/index.php 1 16593 0 0
+/wp-admin/widgets.php 6 399684 0 0
+/wp-includes/fonts/dashicons.eot 1 22449 0 0
+/Curso/wp-admin/edit-comments.php 1 49408 0 0
+/wp-admin/update-core.php 2 60198 0 0
+/nivel3/ 4 89465 0 0
+/nivel3/wp-admin/plugins.php 5 173587 0 0
+/Curso/wp-content/themes/educate/fonts/opensans-bold-webfont.eot 1 21803 0 0
+/themes/default/css/installer.php 6 52854 0 0
+/nivel3/wp-admin/nav-menus.php 5 575588 0 0
+/1/wp-admin/options-reading.php 7 281043 0 0
+/2/wp-admin/load-scripts.php 17 1343034 0 0
+/Curso/wp-admin/tools.php 2 68294 0 0
+/1/wp-content/themes/educate/fonts/opensans-bold-webfont.eot 10 21803 0 0
+/2/wp-admin/load-styles.php 7 805123 0 0
+/2/wp-admin/nav-menus.php 3 136164 0 0
+/wp-admin/customize.php 8 1950889 0 0
+/wp-admin/load-scripts.php 20 1642076 0 0
+/Curso/loja/ 5 184480 0 0
+/Curso/wp-includes/js/tinymce/wp-tinymce.php 9 1546731 0 0
+/wp-admin/admin.php 8 522782 0 0
+/Copied-contato.php 2 42340 0 0
+/Curso/wp-includes/fonts/dashicons.eot 4 44898 0 0
+/Curso/wp-admin/update-core.php 1 32211 0 0
+/copia/ 3 78955 0 0
+/Copied-Suporte.php 2 54284 0 0
+/teste2/optimizer.php 18 354528 0 0
+/nivel3/wp-admin/themes.php 5 466213 0 0
+/1/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.eot 1 17292 0 0
+/videos/Fase-3.php 15 412212 0 3
+/nossos-servicos/ 6 354861 0 0
+/sample-page/ 3 190639 0 0
+/wp-admin/index.php 2 105300 0 0
+/Curso/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 16 85056 0 0
+/1/wp-content/themes/educate/fonts/raleway-bold-webfont.woff 17 126840 0 0
+/fale-conosco/ 5 306194 0 0
+/uma-seccao-da-pagina-inicial/ 1 66119 0 0
+/Curso/wp-admin/post-new.php 5 687427 0 0
+/copia/rvsindex.php 10 46866 1 1
+/Curso/2017/03/19/hello-world/ 2 42770 0 0
+/1/wp-includes/js/tinymce/wp-tinymce.php 2 343718 0 0
+/Curso/wp-admin/plugins.php 25 1263035 0 0
+/wp-cron.php 5 0 2 4
+/2/wp-content/themes/educate/fonts/raleway-bold-webfont.woff 3 50736 0 0
+/1/wp-admin/plugins.php 13 580147 0 0
+/1/wp-admin/options-discussion.php 1 35811 0 0
+/1/2017/03/19/hello-world/ 7 186649 0 1
+/2/wp-admin/theme-install.php 1 42116 0 0
+/Processo-de-cria%C3%A7%C3%A3o.php 1 18119 0 0
+/email 14 9002 3 6
+/Curso/wp-login.php 6 16097 0 0
+/2/wp-content/themes/educate/fonts/OpenSans-Regular-webfont.woff 3 45320 0 0
+/1/wp-admin/export.php 2 59224 0 0
+/teste2/ 1 26244 0 0
+/2/wp-login.php 7 18418 1 1
+/blog/ 1 65373 0 0
+/nivel3/wp-admin/ 9 660379 0 0
+/nivel3/wp-cron.php 6 0 1 1
+/1/wp-content/themes/educate/fonts/raleway-bold-webfont.eot 10 22021 0 0
+/1/wp-admin/index.php 8 416118 0 0
+/1/2017/03/ 1 23148 0 0
+/nivel3/wp-admin/options-general.php 13 888855 0 0
+/1/wp-admin/nav-menus.php 23 1953020 0 0
+/1/wp-admin/ 7 379942 0 0
+/nivel3/wp-login.php 15 77937 2 1
+/nivel3/wp-admin/customize.php 2 553175 0 0
+/2/wp-content/themes/educate/fonts/opensans-bold-webfont.woff 3 51072 0 0
+/nivel3/wp-admin/admin.php 6 407476 0 0
+/Curso/wp-admin/options-writing.php 1 29363 0 0
+/nivel3/wp-admin/post.php 4 548787 0 0
+/2/ 23 553286 1 1
+/1/wp-content/themes/educate/fonts/opensans-bold-webfont.woff 17 127680 0 0
+/Curso/wp-admin/plugin-editor.php 7 281617 0 0
+/copia/optimizer.php 4 78784 0 0
+/Curso/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.eot 1 17292 0 0
+/1/wp-admin/upload.php 1 80182 0 0
+/1/wp-admin/admin.php 10 541803 0 0
+/Curso/sample-page/ 22 570114 0 0
+/Curso/wp-cron.php 25 0 18 19
+/wp-admin/plugins.php 2 84171 0 0
+/1/wp-admin/edit.php 14 740106 0 0
+/wp-admin/ 10 527692 0 0
+/videos/rvthankform_551ce939e1833fadd37e7d85800d0b40.php 1 14869 0 0
+/1/wp-admin/theme-install.php 1 42534 0 0
+/nivel3/wp-admin/tools.php 1 34712 0 0
+/1/category/uncategorized/ 3 96647 0 0
+/1/wp-admin/import.php 3 111225 0 0
+/teste/ 8 205744 0 1
+/1/feed/ 2 3416 0 1
+/Teste.php 1 13150 0 0
+/1/wp-includes/fonts/dashicons.eot 4 22449 0 1
+/2/wp-admin/customize.php 5 1107868 0 0
+/Copied-M%C3%B3dulo---2.php 1 21732 1 0
+/2/2017/03/25/hello-world/ 1 17959 1 1
+/wp-admin/theme-editor.php 9 533744 0 0
+/Curso/wp-admin/admin.php 9 721410 0 0
+/nivel3/inicio/ 1 24449 0 0
+/rvsindex.php 24 124692 8 8
+/copia/themes/default/css/installer.php 2 17630 0 0
+/nivel3/wp-admin/users.php 2 114533 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 1 171859 0 0
+/teste2/rvsindex.php 9 43223 0 0
+/nivel3/wp-admin/edit.php 2 153939 0 0
+/contacto/ 2 133456 0 0
+/nivel3/wp-content/themes/pixel-linear/fonts/fontawesome-webfont.woff 1 65452 0 0
+/Curso/wp-admin/options-permalink.php 3 85709 0 0
+/videos/rvssetup.php 1 55801 0 0
+/Curso/wp-admin/revision.php 1 32657 0 0
+/1/wp-admin/options-permalink.php 4 119448 0 0
+/sobre/ 12 728778 0 0
+/2/wp-cron.php 3 0 1 1
+/Curso/wp-admin/index.php 13 463797 0 0
+/2/wp-admin/themes.php 5 240930 0 0
+/teste2/themes/default/css/installer.php 1 8816 0 0
+/1/wp-cron.php 11 0 6 6
+/1/wp-admin/options-media.php 1 26616 0 0
+/nivel3/wp-admin/load-styles.php 12 1100604 0 0
+/Curso/wp-content/themes/educate/fonts/opensans-bold-webfont.woff 2 51072 0 0
+/teste2/rvssetup.php 1 55801 0 0
+/compras/ 1 16777 0 0
+/Curso/wp-admin/upload.php 1 16877 0 0
+/1/wp-admin/profile.php 4 115942 0 0
+/Curso/wp-content/themes/educate/fonts/OpenSans-Regular-webfont.woff 3 67980 0 0
+/Noticias.php 3 46897 0 1
+/wp-admin/load-styles.php 7 866470 0 0
+/In%C3%ADcio.php 13 336980 0 1
+/Sobre-n%C3%B3s.php 8 106663 2 0
+/wp-content/themes/writee/assets/fonts/fontawesome-webfont.woff2 1 66624 0 0
+/Curso/wp-admin/edit.php 15 972027 0 0
+/1/wp-admin/edit-comments.php 3 152035 0 0
+/1/hello-world/ 3 98225 0 0
+/Curso/wp-admin/ 23 1426615 3 0
+/nivel3/wp-admin/post-new.php 2 269882 0 0
+/Curso/wp-admin/users.php 2 84921 0 0
+/contato.php 5 101206 3 2
+/Curso/httplermelhor-com-br/ 2 66457 1 0
+/wp-admin/async-upload.php 2 3139 0 0
+/1/wp-admin/customize.php 16 3531445 0 0
+/wp-admin/themes.php 13 525766 0 0
+/Curso/wp-admin/async-upload.php 4 5729 0 0
+/1/wp-admin/plugin-install.php 4 282058 0 0
+/Curso/wp-content/themes/educate/fonts/raleway-bold-webfont.eot 1 22021 0 0
+/rvssetup.php 6 334554 1 0
+/1/wp-admin/users.php 6 248601 0 0
+/nivel3/wp-admin/plugin-install.php 3 212997 0 0
+/Curso/fale-conosco/ 4 131471 0 0
+/Curso/wp-admin/theme-editor.php 16 935538 0 0
+/Curso/wp-content/themes/educate/fonts/raleway-bold-webfont.woff 2 50736 0 0
+/Curso.php 3 43226 1 0
+/Curso/wp-admin/edit-tags.php 1 41775 0 0
+/1/wp-admin/tools.php 8 270444 0 0
+/processo-de-criacao/ 2 127930 0 0
+/1/wp-content/themes/educate/fonts/OpenSans-Regular-webfont.woff 27 135960 0 0
+/Curso/wp-admin/options-general.php 2 129314 0 0
+/videos/themes/default/css/installer.php 1 8816 0 0
+/nivel3/wp-admin/options-reading.php 4 117186 0 0
+/nivel3/wp-admin/options-permalink.php 2 59380 0 0
+/wp-admin/post-new.php 6 738212 0 0
+/1/wp-admin/theme-editor.php 6 399534 0 0
+/Curso/sobre-nos/ 22 690631 0 0
+/category/uncategorized/ 3 182542 0 0
+/1/wp-admin/post.php 27 3577333 0 0
+/2/wp-admin/ 2 106045 0 0
+/1/wp-admin/async-upload.php 4 5776 0 0
+/1/wp-admin/post-new.php 3 388347 0 0
+/Curso/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 17204 0 0
+/nivel3/wp-includes/js/tinymce/wp-tinymce.php 1 171859 0 0
+/Curso/wp-admin/plugin-install.php 5 530998 0 0
+/Curso/wp-admin/theme-install.php 4 174864 0 0
+/1/wp-admin/options-general.php 19 1286876 0 0
+/2/wp-admin/async-upload.php 1 1610 0 0
+/nivel3/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 17204 0 0
+/wp-login.php 3 7595 0 1
+/demonstracao/ 4 246804 0 0
+END_SIDER

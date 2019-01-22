@@ -1,0 +1,193 @@
+Return-Path: <aresultado@gmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id AaFSG8+0mVmq1w4AY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Sun, 20 Aug 2017 13:11:59 -0300
+Return-path: <aresultado@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sun, 20 Aug 2017 13:11:59 -0300
+Received: from mail-wr0-f170.google.com ([209.85.128.170]:36972)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <aresultado@gmail.com>)
+	id 1djSpT-0045GO-7k
+	for marco@digitalfotoimagem.com.br; Sun, 20 Aug 2017 13:11:59 -0300
+Received: by mail-wr0-f170.google.com with SMTP id z91so78695661wrc.4
+        for <marco@digitalfotoimagem.com.br>; Sun, 20 Aug 2017 09:11:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc;
+        bh=B6gtkdpi9Nq6p2D8z92PRjMVpB0vhyI7tFSuABuhPK4=;
+        b=l1CsZk/Vvo2NpIx8AQetrIdAGWDX7GXLiGPJSIwiezFiX2EC464CqSCcQ4Cgd3uNW8
+         LC7DV922OIA0GgliABHy8wsvWwLJAl+zq2zlwuWGvWPbsX3Hn1yB7tgLV9ECreI0huiK
+         qjt5mHs/8FAyr4T4tpxHiosQH0tBnoYuUNd02HQs6mDq4NHGGecGTzR1roDZKyq7O6SI
+         GtZkoyokZe53/5f3kPj0LJDwINAssgMiJYJ5/5muDnmlP35eSc+yfyd5zRDD8XYkgv63
+         JFkBy3sGbrJ38jaonVQR4HP1E/NUiTvaqIZVQ/yebcuNarAlNuHSf00z7pik7ydodtFY
+         qKpQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:cc;
+        bh=B6gtkdpi9Nq6p2D8z92PRjMVpB0vhyI7tFSuABuhPK4=;
+        b=dFDFnw9YeBVQuQYJXi3PmVWhczlcxuzk3EjTueydCl/80xN9YsofoDtOKQLQnMRuR7
+         QIZ3FcyIJhUibTuPweXZiYyJjHfgeNAOlYWtm6kVvYw7xnigl5AQvDcSRdoBh50YdAMP
+         Y7IVCkKgDTPxjIKq6/Md4KajGdI/fx+6+OJVuNTwQSk++PDKTJxT8OBq6MG1pFtcVyao
+         fKaNU3W3pvQdGOWxXF+tuGQT1DvWS4g2LeAEfgb0VpT0/0IJYzrDqVi/o6QD001TXl+Q
+         UMzvg280F9JDnh6MW9hMx7Lci4Ta45dTuvb0lYaf35/zVcECtshjj7ZNKgx7JCrmILcg
+         3HPA==
+X-Gm-Message-State: AHYfb5g2T7/IJsOj6vu7M7IQFt30BVhiEYTY9SyqMw+pb/sdT4JvC/r9
+	fe9FHYU9acK4kMajxr4lN9MylLnATQ==
+X-Received: by 10.28.137.19 with SMTP id l19mr2885585wmd.12.1503245474877;
+ Sun, 20 Aug 2017 09:11:14 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.28.92.147 with HTTP; Sun, 20 Aug 2017 09:10:54 -0700 (PDT)
+In-Reply-To: <038901d31966$998c3e60$cca4bb20$@com.br>
+References: <005501d30c0a$390dac40$ab2904c0$@com.br> <038901d31966$998c3e60$cca4bb20$@com.br>
+From: Sergio Fosque <aresultado@gmail.com>
+Date: Sun, 20 Aug 2017 13:10:54 -0300
+Message-ID: <CAPudD=TbnMttTi7Bh-6amSeGYYcD=YEjXYtbAtoCPfPHPtmXuw@mail.gmail.com>
+Subject: =?UTF-8?B?UmU6IFBhcmFiw6lucyDDoCBDYW1pbGEsIE5vc3NhIEFuaXZlcnNhcmlhbnRlIGRlIEhvag==?=
+	=?UTF-8?B?ZSwgMjAvMDgvMjAxNyEhIQ==?=
+To: Egoshi da CTT3843 <ctt3843@egoshi.com.br>
+Cc: =?UTF-8?Q?S=C3=A9rgio_Fosque?= <sergio@aresultado.adm.br>, 
+	Andre Luis Pereira de Godoi <andrelpgodoi@gmail.com>, Antonio Finardi <ma.finardi@hotmail.com>, 
+	Antonio Celso Tessari <celsotessari@gmail.com>, Antonio Kossei Takara <takar2@terra.com.br>, 
+	=?UTF-8?Q?Benedito_Carlos_Flam=C3=ADnio?= <carlos.flaminio@gmail.com>, 
+	Carlos Mave de Campos Assis <cmave96@gmail.com>, =?UTF-8?Q?Carlos_Rosseti_=28Kak=C3=A1=29?= <carlos.rossetti@uol.com.br>, 
+	=?UTF-8?Q?Dem=C3=A9trio_Muniz_Pendek?= <demetriopendek@hotmail.com>, 
+	Eduardo Camacho <eduardocamacho@uol.com.br>, Eduardo Lopes <ebernardinolopes@uol.com.br>, 
+	Ernani Flausino <ernani.flausino@terra.com.br>, 
+	Everth Alves Bonavolonta <everth@mixlav.com.br>, =?UTF-8?Q?F=C3=A1bio_Roberto_Faria?= <szfaria@gmail.com>, 
+	Fernando Ziesmann Fortes <fernandozf@hotmail.com>, Gilberto Campos <gdcampos@uol.com.br>, 
+	=?UTF-8?Q?H=C3=A9lio_Alvarez_Felix?= <helioamandara@uol.com.br>, 
+	Hideraldo Rodrigues Gomes <enghgomes@gmail.com>, 
+	Humberto de Oliveira Serrano <humberto.serrano@hotmail.com>, Jair Airton Felix <j.felix10@bol.com.br>, 
+	Johannes Kozlowski <jkozlowski@uol.com.br>, =?UTF-8?Q?Jos=C3=A9_Carlos_de_Lima?= <jcl@tech-air.com.br>, 
+	=?UTF-8?Q?J=C3=BAlio_Cesar_Mattos_de_Faria?= <mattosfaria@terra.com.br>, 
+	Marcelo Eloy Fernandes <marceloeloyfernandes@gmail.com>, 
+	Marcilio Marques Testa <mmtesta43@gmail.com>, Marco Antonio Patriniani <marckopat@live.com>, 
+	=?UTF-8?Q?Marco_Ant=C3=B4nio_Pedrosa_Parise?= <marco@digitalfotoimagem.com.br>, 
+	Marcus Welbi <marcuswelbi@crivodarazao.org.br>, Natanael Costa <ncosta@usa.com>, 
+	Nelson Pendek <nelpendek@hotmail.com>, 
+	"Ricardo C. A. Carvalho" <ricardocarvalho930@gmail.com>, 
+	=?UTF-8?Q?Sebasti=C3=A3o_Rubens_Costa?= <rubens@linart.com.br>, 
+	Silvio Verdiani <sverdiani@terra.com.br>, Sylvio Quintino Junior <squintinoj@gmail.com>, 
+	Wanderley Santana dos Santos <wanderleyssamtos@gmail.com>, 
+	Wellington Alfano Rodrigues Silva <alfanohi@gmail.com>, Wladimir Viveiro <wviveiro@live.com>
+Content-Type: multipart/alternative; boundary="001a11442bae8a57ad0557319c0c"
+
+--001a11442bae8a57ad0557319c0c
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Obrigado meus queridos Irm=C3=A3os.
+
+Esta lembran=C3=A7a aquece meu cora=C3=A7=C3=A3o, principalmente neste mome=
+nto em que
+minha filha est=C3=A1 um pouquinho longe, esta em Mantova na It=C3=A1lia cu=
+idando do
+processo de cidadania.
+=C3=89 o primeiro anivers=C3=A1rio dela que n=C3=A3o estamos juntos.
+Obrigado meus Irm=C3=A3os.
+
+TFA
+Sergio
+
+Em 20 de agosto de 2017 00:44, Egoshi da CTT3843 <ctt3843@egoshi.com.br>
+escreveu:
+
+> Parab=C3=A9ns =C3=A0 nossa querida sobrinha Camila que est=C3=A1 aniversa=
+riando hoje!!!
+>
+>
+>
+> Camila =C3=A9 filha do nosso querido Ir\ Fosque.
+>
+>
+>
+> =C3=80 Camila, ao Ir\ Fosque e a Toda a Sua Fam=C3=ADlia, ensejamos nosso=
+s mais
+> sinceros votos de felicidade e sucesso na vida!!!
+>
+>
+>
+> Fraternalmente
+>
+>
+>
+>
+>
+>
+>
+> ---
+> Este email foi escaneado pelo Avast antiv=C3=ADrus.
+> https://www.avast.com/antivirus
+>
+
+
+
+--=20
+Sergio Foschi
+(11) 3125 5502
+(16) 3421 7648
+(11) 99481 3139
+(16) 98818 3139
+
+--001a11442bae8a57ad0557319c0c
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-size:small">Obr=
+igado meus queridos Irm=C3=A3os.</div><div class=3D"gmail_default" style=3D=
+"font-size:small"><br></div><div class=3D"gmail_default" style=3D"font-size=
+:small">Esta lembran=C3=A7a aquece meu cora=C3=A7=C3=A3o, principalmente ne=
+ste momento em que minha filha est=C3=A1 um pouquinho longe, esta em Mantov=
+a na It=C3=A1lia cuidando do processo de cidadania.</div><div class=3D"gmai=
+l_default" style=3D"font-size:small">=C3=89 o primeiro anivers=C3=A1rio del=
+a que n=C3=A3o estamos juntos.</div><div class=3D"gmail_default" style=3D"f=
+ont-size:small">Obrigado meus Irm=C3=A3os.</div><div class=3D"gmail_default=
+" style=3D"font-size:small"><br></div><div class=3D"gmail_default" style=3D=
+"font-size:small">TFA</div><div class=3D"gmail_default" style=3D"font-size:=
+small">Sergio</div></div><div class=3D"gmail_extra"><br><div class=3D"gmail=
+_quote">Em 20 de agosto de 2017 00:44, Egoshi da CTT3843 <span dir=3D"ltr">=
+&lt;<a href=3D"mailto:ctt3843@egoshi.com.br" target=3D"_blank">ctt3843@egos=
+hi.com.br</a>&gt;</span> escreveu:<br><blockquote class=3D"gmail_quote" sty=
+le=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">Parab=
+=C3=A9ns =C3=A0 nossa querida sobrinha Camila que est=C3=A1 aniversariando =
+hoje!!!<br>
+<br>
+<br>
+<br>
+Camila =C3=A9 filha do nosso querido Ir\ Fosque.<br>
+<br>
+<br>
+<br>
+=C3=80 Camila, ao Ir\ Fosque e a Toda a Sua Fam=C3=ADlia, ensejamos nossos =
+mais<br>
+sinceros votos de felicidade e sucesso na vida!!!<br>
+<br>
+<br>
+<br>
+Fraternalmente<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+---<br>
+Este email foi escaneado pelo Avast antiv=C3=ADrus.<br>
+<a href=3D"https://www.avast.com/antivirus" rel=3D"noreferrer" target=3D"_b=
+lank">https://www.avast.com/<wbr>antivirus</a><br>
+</blockquote></div><br><br clear=3D"all"><div><br></div>-- <br><div class=
+=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div dir=3D"ltr"><d=
+iv><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><font =
+size=3D"2">Sergio Foschi<br>(11) 3125 5502<br></font></div><div><font size=
+=3D"2">(16) 3421 7648</font></div><div><font size=3D"2">(11) 99481 3139</fo=
+nt></div><div><font size=3D"2">(16) 98818 3139</font></div><div><br></div><=
+/div></div></div></div></div></div></div></div>
+</div>
+
+--001a11442bae8a57ad0557319c0c--

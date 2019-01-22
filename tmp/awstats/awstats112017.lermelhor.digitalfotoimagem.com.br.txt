@@ -1,0 +1,390 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201711 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.lermelhor.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2030                
+POS_TIME 2709                
+POS_VISITOR 7394                
+POS_DAY 8984                
+POS_DOMAIN 3486                
+POS_LOGIN 3816                
+POS_ROBOT 3971                
+POS_WORMS 4372                
+POS_EMAILSENDER 4503                
+POS_EMAILRECEIVER 4646                
+POS_SESSION 9673                
+POS_SIDER 9880                
+POS_FILETYPES 4781                
+POS_DOWNLOADS 4976                
+POS_OS 5024                
+POS_BROWSER 5232                
+POS_SCREENSIZE 5782                
+POS_UNKNOWNREFERER 5856                
+POS_UNKNOWNREFERERBROWSER 6091                
+POS_ORIGIN 6321                
+POS_SEREFERRALS 6460                
+POS_PAGEREFS 6617                
+POS_SEARCHWORDS 6765                
+POS_KEYWORDS 6917                
+POS_MISC 2371                
+POS_ERRORS 6976                
+POS_CLUSTER 3672                
+POS_SIDER_404 7085                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171201003110 20 3624 8694565995949
+FirstTime 20171101000933
+LastTime 20171130171956
+LastUpdate 20171201103714 20 0 19 0 0
+TotalVisits 164                 
+TotalUnique 37                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 40                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 173 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 16 23728 31 70 213940
+1 5 5 3215 31 63 209346
+2 6 41 452443 16 38 156166
+3 4 4 1879 17 83 202695
+4 3 3 110668 28 70 124389
+5 1 1 5078 21 45 430111
+6 1 1 412 27 44 343607
+7 11 11 3165 72 93 130763
+8 14 14 17391 34 111 113090
+9 9 69 654865 29 123 778626
+10 8 8 17141 16 45 54906
+11 7 7 643 20 76 161433
+12 10 10 3627 16 72 214454
+13 9 46 453608 29 78 386791
+14 12 12 114144 24 72 119535
+15 15 15 16729 31 94 403555
+16 14 91 930199 18 54 236215
+17 11 11 5506 31 91 150503
+18 9 46 542360 28 91 334487
+19 26 32 3513506 78 134 134661
+20 21 59 2653511 40 116 365866
+21 14 14 736736 40 85 121637
+22 10 50 1238062 43 94 173000
+23 14 14 5094 25 42 279334
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+br 142 435 10704254
+de 41 41 151509
+pl 36 36 14832
+us 20 57 523060
+ru 5 5 109643
+fr 2 2 0
+rs 2 2 0
+cn 1 1 412
+it 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 474 2138149 20171129121029 0
+bot[\s_+:,\.\;\/\\-] 114 2051212 20171130054539 0
+googlebot\-image 30 60848 20171118112813 0
+no_user_agent 10 1304336 20171123090822 0
+slurp 5 141582 20171128043908 0
+spider 3 89112 20171109032914 0
+robot 2 45270 20171128144440 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+js 52 2755553 0 0
+Unknown 86 55298 0 0
+jpg 91 302363 0 0
+gif 25 1659 0 0
+css 162 489033 0 0
+html 62 7247673 0 0
+php 102 652131 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+win8 33 33
+winnt 79 2
+win7 174 104
+linux 17 17
+linuxandroid 112 3
+winxp 10 10
+macosx7 1 1
+win8.1 42 5
+macosx6 37 37
+macosx 38 1
+Unknown 37 37
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 24
+chrome27.0.1453.93 1 1
+chrome49.0.2623.75 17 17
+chrome32.0.1700.76 1 1
+firefox56.0 4 3
+chrome50.0.2661.75 5 5
+msie11.0 37 10
+chrome61.0.3163.100 23 19
+safari11.0.1 38 1
+firefox19.0 1 1
+chrome49.0.2623.112 3 3
+firefox53.0 41 4
+firefox50.0 5 5
+chrome51.0.2704.84 36 32
+chrome58.0.2988.0 4 4
+Unknown 37 37
+chrome46.0.2490.76 36 1
+firefox47.0 4 4
+chrome62.0.3202.94 123 49
+chrome62.0.3202.89 48 11
+chrome27.0.1453.94 1 1
+firefox3.6.8 37 37
+chrome26.0.1410.65 1 1
+firefox21.0 1 1
+chrome62.0.3202.84 76 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+WordPress/4.7.7;_https://lermelhor.com.br 20171129153353
+WordPress/4.7.8;_https://lermelhor.com.br 20171130154931
+Go-http-client/1.1 20171105045434
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Go-http-client/1.1 20171105045434
+WordPress/4.7.7;_https://lermelhor.com.br 20171129153353
+WordPress/4.7.8;_https://lermelhor.com.br 20171130154931
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 172 172
+From1 5 5
+From2 10 13
+From3 0 0
+From4 63 390
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 10 13
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+301 1022 8350
+302 42 0
+500 9 251
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 40
+201.55.31.212 54 63 7033066 20171124210916
+195.22.126.221 36 36 14832 20171120165748
+93.104.215.69 36 36 0 20171130154931
+201.6.229.220 32 32 20576 20171117173903
+201.6.143.99 19 19 12217 20171130171956
+187.14.168.49 13 13 16748 20171121080723
+201.55.31.210 11 12 152772 20171121184253
+66.249.83.135 6 6 3858 20171127235755
+146.185.223.150 5 5 109643 20171106142343
+66.249.83.133 5 5 3215 20171130074323
+187.183.32.172 4 41 539145 20171106182740
+66.249.83.31 2 2 1286 20171116144709
+66.249.83.1 2 2 1286 20171118092353
+82.117.194.229 2 2 0 20171123071756
+66.249.83.131 1 1 643 20171122005536
+5.9.106.81 1 1 13333 20171125153129
+176.31.191.186 1 1 0 20171123071501
+95.110.200.241 1 1 0 20171123071804
+179.124.240.153 1 38 450655 20171127165231
+66.249.85.2 1 9 250589 20171122222335
+66.249.83.29 1 1 643 20171117135430
+5.135.138.188 1 1 0 20171123071658
+5.9.145.132 1 1 53863 20171120220706
+144.76.71.83 1 1 13333 20171119101546
+54.204.240.92 1 1 5078 20171105051357
+66.249.85.30 0 12 40542 
+187.48.63.154 0 3 24587 
+174.129.86.130 1 1 56393 20171105045434
+187.21.254.109 1 38 450674 20171114132708
+42.159.237.189 1 1 412 20171128172134
+179.207.214.172 1 1 643 20171119011229
+78.46.156.169 1 1 53863 20171120045523
+189.14.83.40 1 24 200784 20171109095828
+179.189.239.171 1 38 450685 20171113090354
+5.9.17.118 1 1 17117 20171111004830
+189.40.100.3 1 38 450682 20171123205548
+177.97.125.125 1 38 450687 20171124161042
+189.40.88.29 1 36 449690 20171104022846
+66.249.85.31 0 17 159527 
+201.55.31.215 1 1 643 20171116202805
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20171101 12 12 5968 9
+20171102 4 4 1467 4
+20171103 4 4 824 4
+20171104 4 39 451388 3
+20171105 8 8 62295 8
+20171106 16 53 651541 7
+20171107 4 4 2110 3
+20171108 4 4 1467 4
+20171109 9 32 202894 9
+20171110 3 3 1055 3
+20171111 7 7 19870 6
+20171112 5 5 2110 4
+20171113 21 64 1946280 10
+20171114 24 62 2357869 12
+20171115 2 2 412 2
+20171116 11 12 442668 8
+20171117 9 10 151024 7
+20171118 2 2 1055 2
+20171119 5 5 14800 5
+20171120 5 5 108550 5
+20171121 26 28 607162 7
+20171122 4 41 452587 4
+20171123 9 46 451968 8
+20171124 28 67 3093587 8
+20171125 4 4 13976 4
+20171127 6 43 453227 6
+20171128 2 2 412 2
+20171129 6 6 2572 5
+20171130 6 6 2572 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 7
+5mn-15mn 7
+0s-30s 138
+1h+ 2
+2mn-5mn 5
+30s-2mn 3
+15mn-30mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 29
+/email 86 55298 62 62
+/fernandes/ 49 7174872 7 7
+/xmlrpc.php 37 15244 37 37
+/wp-cron.php 36 0 36 36
+/2%C2%BA---Modelo-coaching-Perdas-e-Ganhos.php 9 266686 7 7
+/Modulo-2/rvsindex.php 5 109643 1 1
+/wp-content/index.php 2 0 2 2
+/wysiwyg/fckeditor/editor/filemanager/browser/ 2 742 0 0
+/Portf%C3%B3lio.php 2 107726 2 2
+/Sobre-n%C3%B3s.php 2 26666 2 2
+/wysiwyg/fckeditor/editor/filemanager/ 2 782 0 0
+/wp-content/themes/index.php 1 0 1 0
+/wp-content/themes/twentyseventeen/inc/color-patterns.php 1 0 0 1
+/Copied-Fechamento-do-1%C2%BA-Modelo-coaching.php 1 29164 0 0
+/wysiwyg/fckeditor/ 1 826 0 0
+/m%C3%B3dulo-2/rvsindex.php 1 5078 1 1
+/wysiwyg/fckeditor/editor/filemanager/connectors/uploadtest.html 1 5388 0 0
+/wysiwyg/fckeditor/editor/ 1 848 0 0
+/wysiwyg/fckeditor/editor/filemanager/browser/default/ 1 899 1 0
+/wysiwyg/fckeditor/editor/filemanager/connectors/php/upload.php 1 340 0 0
+/videos/Portf%C3%B3lio.php 1 53144 1 1
+/wp-content/plugins/index.php 1 0 1 1
+/wysiwyg/fckeditor/editor/filemanager/connectors/test.html 1 5462 0 0
+/wysiwyg/fckeditor/editor/filemanager/connectors/ 1 469 0 0
+/Not%C3%ADcias--and--Eventos.php 1 17117 1 1
+/wysiwyg/ 1 264 0 1
+/wysiwyg/fckeditor/editor/filemanager/connectors/php/ 1 728 0 0
+/copia/Copied-contato.php 1 21323 1 1
+/neuroci%c3%aancias/promocional/ 1 56393 1 1
+END_SIDER

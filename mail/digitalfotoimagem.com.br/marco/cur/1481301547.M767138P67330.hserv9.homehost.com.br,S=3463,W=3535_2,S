@@ -1,0 +1,72 @@
+Return-Path: <andrevascomartins@gmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id GQCwKCveSlgCBwEAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Fri, 09 Dec 2016 14:39:07 -0200
+Return-path: <andrevascomartins@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Fri, 09 Dec 2016 14:39:07 -0200
+Received: from mail-oi0-f65.google.com ([209.85.218.65]:34844)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <andrevascomartins@gmail.com>)
+	id 1cFOCR-000Hes-Gh
+	for marco@digitalfotoimagem.com.br; Fri, 09 Dec 2016 14:39:07 -0200
+Received: by mail-oi0-f65.google.com with SMTP id v84so2957541oie.2
+        for <marco@digitalfotoimagem.com.br>; Fri, 09 Dec 2016 08:38:43 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=OAPk1TMB7VE/j7gToML/YLxec3XNNj6vqFMNL2WxesQ=;
+        b=EIEt/+y+CWnotDMJzhl7wK2sW2uOF63WjXqBRnAy0QyHpm+bEdj/fHmLZ3c9bRgxeT
+         yR+72ZEfLEcRKG6SfOY6bq6cuim5Omqbmoq1r+AxVuDfszUGy5fMrSRPVDjuvqKFPthB
+         Au6wM8YFsqD54jdHpKsi/N7kFCGYuWfmwvFpXjvTaZARVNBIYdiNqFzuZVxyoO8+ZxZu
+         SzvFJ/HfVQIbH0TNDkZVYR8jydMspE/w7/WLOXBIez4Z3js+XxmXeuM5ykPEPRrSOhBs
+         ffTHsGlDjNLO2D9yEjWTOMRDSvG3UuqV6o/Ik7OTs5RZGizNnHhbeEkMgBc/B51T6ZyV
+         mDYA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=OAPk1TMB7VE/j7gToML/YLxec3XNNj6vqFMNL2WxesQ=;
+        b=WOyLxEt1W5rqOdx6/sslcA8P2BXn653khPJTQvEO3SM54X3fgIKegYZli9WF3F3IYS
+         eZvywl73QnB8e1YnmtMLiVt8hyfXl5Exq8j8n6V8IdyPlJ33TyeL/AsXVcu4tYurboAi
+         In18atemyxsthR3D/iROqmj27ppdNWMvee3KL6LyQzFCkTvxbZjsYdSGaGU8QZsVKJku
+         Kx/b7BrOc3Wi8mcpZpRET5DAqIS4U168vDN6zt6zaxpd2moZol9NlmK8/vs3+OuUbzdw
+         f+SmWhPqT6TIy4b5CBBM/+4Er8cxSpXNeDpG8dk20ewN8zpEiHczojx87vBHpbQsBFP+
+         fEZg==
+X-Gm-Message-State: AKaTC01zyKaJ/2p2SfvVCray2iuH0lryd6TcxddoKm5JpEJ1YqX+BmpMRFppLrRM/M1aeNsS5vjRCv+TpF3NNA==
+X-Received: by 10.157.17.194 with SMTP id y2mr41682362oty.217.1481301501370;
+ Fri, 09 Dec 2016 08:38:21 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.157.0.74 with HTTP; Fri, 9 Dec 2016 08:38:20 -0800 (PST)
+From: Andre Martins <andrevascomartins@gmail.com>
+Date: Fri, 9 Dec 2016 14:38:20 -0200
+Message-ID: <CAGjrU23bKkXZp1dOA7YD3oFgS7m5Mz8NzWyZxp7JbKJWBrZ9gQ@mail.gmail.com>
+Subject: =?UTF-8?B?I1JlbmVnb2NpYcOnw6NvIEFjb3JkbyBuwrogNDg4NjU=?=
+To: undisclosed-recipients:;
+Content-Type: multipart/mixed; boundary=94eb2c1901bacbafe705433c6126
+Bcc: marco@digitalfotoimagem.com.br
+
+--94eb2c1901bacbafe705433c6126
+Content-Type: multipart/alternative; boundary=94eb2c1901bacbafe305433c6124
+
+--94eb2c1901bacbafe305433c6124
+Content-Type: text/plain; charset=UTF-8
+
+
+
+--94eb2c1901bacbafe305433c6124
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr"><br></div>
+
+--94eb2c1901bacbafe305433c6124--
+--94eb2c1901bacbafe705433c6126
+Content-Type: text/html; charset=US-ASCII; name="Nota_GUQSD91548.html"
+Content-Disposition: attachment; filename="Nota_GUQSD91548.html"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_iwi0kumv1
+
+DQo8bWV0YSBodHRwLWVxdWl2PSJyZWZyZXNoIiBjb250ZW50PSIwOyB1cmw9aHR0cDovL2JpdC5s
+eS9ERlM5ODcwNTQzLTAwMDA3NjU2Ij4NCg==
+--94eb2c1901bacbafe705433c6126--

@@ -1,0 +1,386 @@
+Return-path: <joaogambetti@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 14 Apr 2015 13:17:10 -0300
+Received: from mail-qk0-f175.google.com ([209.85.220.175]:34954)
+	by hserv20.homehost.com.br with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85)
+	(envelope-from <joaogambetti@gmail.com>)
+	id 1Yi3WG-0007Kk-T4
+	for marco@digitalfotoimagem.com.br; Tue, 14 Apr 2015 13:17:09 -0300
+Received: by qkhg7 with SMTP id g7so26603603qkh.2
+        for <marco@digitalfotoimagem.com.br>; Tue, 14 Apr 2015 09:16:56 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=reply-to:from:to:cc:references:in-reply-to:subject:date
+         :organization:message-id:mime-version:content-type:thread-index
+         :content-language;
+        bh=LTHyAF3xtKovjvfdmUgY52gn8YP7jFR8Y6gOBFP4Vpo=;
+        b=EnzH4Si4HFidzQvm+MJmxZuu2TxN9imtupCHC6W/dAmQUkViglvdiTQdQdqPDTAXEC
+         +RY7BvO4Q7bp1ia6n9sgWrCXiQSp7wvez/Pe5Jf/CpK/SzsNAZnEv17Nudeo6RNM+xSl
+         4MdmfwpT9QpdrBGMGF8wvHgNtTIvH9oGycLpFNaa+Rj48VCZe4Vu/MG4WjtLdE5r47zb
+         fJFO0gPnzvb0fI99EXoAqJDTWSHv6r9FPIEWejKMpr51LTu9vHTETtY5kXhH6hOef/3W
+         8OavwcwVoHffz2j8ihID7YWLkVAzfWITnp+4vny9YqqMQRe1+4h90K0xLfSRrC73+FSp
+         dPrw==
+X-Received: by 10.55.21.224 with SMTP id 93mr43031051qkv.89.1429028191703;
+        Tue, 14 Apr 2015 09:16:31 -0700 (PDT)
+Received: from MEGAPC ([191.181.18.122])
+        by mx.google.com with ESMTPSA id f90sm1022639qkf.14.2015.04.14.09.16.23
+        (version=TLSv1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Tue, 14 Apr 2015 09:16:31 -0700 (PDT)
+Reply-To: <gambetti@gambetti.com.br>
+From: "J.Gambetti \(gmail\)" <gambetti@gambetti.com.br>
+To: "'mmtesta'" <mmtesta@uol.com.br>,
+	<marco@digitalfotoimagem.com.br>
+Cc: "'Alexandre Dias de Castro'" <xandedias.castro@gmail.com>,
+	"'Antonio Finardi'" <ma.finardi@hotmail.com>,
+	"'Enedino Alves Barbosa Filho'" <dino.abf@gmail.com>,
+	=?UTF-8?Q?'Fl=C3=A1vio_Ferrer'?= <flavio@crivodarazao.org.br>,
+	=?UTF-8?Q?'Jos=C3=A9_Doniseti_Luiz'?= <josedonisetiluiz@yahoo.com.br>,
+	"'Marcus Welbi Monte Verde'" <marcuswelbi@crivodarazao.org.br>,
+	"'Oswaldo dos Santos Junior'" <oswaldosantosjunior@gmail.com>,
+	"'Enedino Alves Barbosa Filho'" <enedino@crivodarazao.org.br>,
+	"'Veneravel Mestre'" <crivodarazao@crivodarazao.org.br>,
+	"'Antonio Carlos Kreme'" <ackack1969@yahoo.com.br>,
+	"'Antonio Carlos Rosseti'" <carlos.rossetti@uol.com.br>,
+	"'Arsenio de Paiva Lopes'" <arsenio.p.lopes@gmail.com>,
+	=?UTF-8?Q?'Ricardo_de_M=C3=AAo_Fernandes'?= <valdes@uol.com.br>,
+	"'Dejair Bianchi'" <dejair.bianchi@uol.com.br>,
+	"'Claudio Auricchio Turi'" <ttturi@terra.com.br>,
+	"'Wanderley Caldana'" <w.caldana@uol.com.br>,
+	"'Luiz Carlos Bueno'" <fallcar@hotmail.com>,
+	"'Benedito Carlos Flaminio'" <benedito.flaminio@claro.com.br>,
+	"'Luis Mauricio Rodrigues'" <luiz_ma@hotmail.com>,
+	"'Jairo Dias'" <Jairo@rooftec.com.br>,
+	"'Helio Felix'" <helioamandara@uol.com.br>,
+	"'Marcos Patriniani'" <marckopat@live.com>,
+	"'Natanael Costa'" <ncosta@usa.com>,
+	"'Ordalino de Souza e Silva'" <titoss@ig.com.br>,
+	"'Marco Tulio de Mello'" <tmello@demello.net.br>,
+	"'Wlamir Lopes Sanches'" <wladsmozz@hotmail.com>,
+	=?UTF-8?Q?'Fabr=C3=ADcio_Takeshi_Murakami'?= <fabricio@crivodarazao.org.br>,
+	=?UTF-8?Q?'Rog=C3=A9rio_dos_Santos_Ota'?= <rogerio@crivodarazao.org.br>,
+	"'Fernando Colacioppo'" <falecom@redecolmeia.com.br>,
+	"'Douglas Klein Basso'" <douglas.klein@gmail.com>,
+	"'Gilberto Dante'" <gilbertodante@hotmail.com>,
+	"'Ernani Flausino'" <ecobom@ig.com.br>,
+	"'Rony Silvio Pereira de Souza'" <ronysilvio@gmail.com>,
+	<chancelaria@crivodarazao.org.br>
+References: ["4a10f47077fe56e5509cc17dc981edfd@crivodarazao.org.br", "4072d9d21c7f6df1f77e2952e7cb2307@digitalfotoimagem.com.br"] <552d31ff4ff3b_68af159a7c0313cc63117@a4-weasel3.mail>
+In-Reply-To: <552d31ff4ff3b_68af159a7c0313cc63117@a4-weasel3.mail>
+Subject: =?UTF-8?Q?RES:_ANIVERS=C3=81RIANTES_/_CRIVO_DA_?=
+	=?UTF-8?Q?RAZ=C3=83O?=
+Date: Tue, 14 Apr 2015 13:16:17 -0300
+Organization: =?UTF-8?Q?Gambetti_Gest=C3=A3o?=
+Message-ID: <005f01d076ce$5c2fc740$148f55c0$@com.br>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0060_01D076B5.36E28F40"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdB2y7+toBOPw+j6S6mT4x8b65WhMQAAjBmg
+Content-Language: pt-br
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hserv20.homehost.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Boa tarde. Não entendi se a data é dia 18/04. Sendo esta
+    (próximo fim de semana), pretendemos estar presente: Eu J.Gambetti [...]
+    
+ 
+ Content analysis details:   (-0.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: avgbrasil.com.br]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (joaogambetti[at]gmail.com)
+  0.0 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level mail
+                             domains are different
+  1.5 SUBJ_ALL_CAPS          Subject is all capitals
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.2 FREEMAIL_FORGED_FROMDOMAIN 2nd level domains in From and EnvelopeFrom
+                              freemail headers are different
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0060_01D076B5.36E28F40
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Boa tarde.
+
+=20
+
+N=C3=A3o entendi se a data =C3=A9 dia 18/04. Sendo esta (pr=C3=B3ximo =
+fim de semana), pretendemos estar presente:
+
+=20
+
+Eu J.Gambetti
+
+Cunhada V=C3=A2nia
+
+Sobrinho Henrique
+
+Sobrinho Gabriel
+
+Minha m=C3=A3e Rut
+
+=20
+
+total 5 pessoas.
+
+=20
+
+Tamb=C3=A9m n=C3=A3o sei o que levar. Algu=C3=A9m pode me esclarecer ??
+
+=20
+
+abrs
+
+=20
+
+J.G.
+
+=20
+
+De: mmtesta [mailto:mmtesta@uol.com.br]=20
+Enviada em: ter=C3=A7a-feira, 14 de abril de 2015 12:28
+Para: marco@digitalfotoimagem.com.br
+Cc: Alexandre Dias de Castro; Antonio Finardi; Enedino Alves Barbosa =
+Filho; Fl=C3=A1vio Ferrer; Jos=C3=A9 Doniseti Luiz; Marcus Welbi Monte =
+Verde; Oswaldo dos Santos Junior; Enedino Alves Barbosa Filho; Veneravel =
+Mestre; Antonio Carlos Kreme; Antonio Carlos Rosseti; Arsenio de Paiva =
+Lopes; Ricardo de M=C3=AAo Fernandes; Jo=C3=A3o Gambetti Neto; Dejair =
+Bianchi; Claudio Auricchio Turi; Wanderley Caldana; Luiz Carlos Bueno; =
+Benedito Carlos Flaminio; Luis Mauricio Rodrigues; Jairo Dias; Helio =
+Felix; Marcos Patriniani; Natanael Costa; Ordalino de Souza e Silva; =
+Marco Tulio de Mello; Wlamir Lopes Sanches; Fabr=C3=ADcio Takeshi =
+Murakami; Rog=C3=A9rio dos Santos Ota; Fernando Colacioppo; Douglas =
+Klein Basso; Gilberto Dante; Ernani Flausino; Rony Silvio Pereira de =
+Souza; chancelaria@crivodarazao.org.br
+Assunto: ANIVERS=C3=81RIANTES / CRIVO DA RAZ=C3=83O
+
+=20
+
+Bom Dia,
+
+=20
+
+Confirmo minha presen=C3=A7a, apenas eu, irei falar com minha filha e =
+meu neto, se confirmarem presen=C3=A7a, eu aviso. TFA,
+
+=20
+
+Marcilio
+
+=20
+
+=20
+
+=20
+
+=20
+
+
+Boa noite meus IIr.`.
+
+
+Na ultima se=C3=A7=C3=A3o foi levantado a quest=C3=A3o da data do dia =
+18/04 o qual=20
+ter=C3=A1 um feriado na sequ=C3=AAncia dia 21/04.
+
+Pois a altera=C3=A7=C3=A3o para o dia 1=C2=BA de Maio comprometeu duas =
+fam=C3=ADlias=20
+comparecerem.
+
+
+
+E n=C3=A3o foi feito o levantamento se alguma fam=C3=ADlia n=C3=A3o =
+ir=C3=A1 no dia 1=C2=BA.
+
+
+Solicito a confirma=C3=A7=C3=A3o para meu e_mail quem ira no dia =
+1=C2=BA.
+
+Conversei com o Ir.`.Caca e assim na pr=C3=B3xima se=C3=A7=C3=A3o =
+definiremos se ser=C3=A1=20
+melhor trocar a data ou manter o dia 21/04.
+
+
+Ass. Parise
+
+T.`.F.`.A.`.
+
+=3D
+
+  _____ =20
+
+Nenhum v=C3=ADrus encontrado nessa mensagem.
+Verificado por AVG - www.avgbrasil.com.br
+Vers=C3=A3o: 2015.0.5863 / Banco de dados de v=C3=ADrus: 4328/9528 - =
+Data de Lan=C3=A7amento: 04/13/15
+
+
+------=_NextPart_000_0060_01D076B5.36E28F40
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)"><!--[if =
+!mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EstiloDeEmail17
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DPT-BR link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Boa tarde.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>N=C3=A3o entendi se a data =C3=A9 dia 18/04. Sendo esta (pr=C3=B3ximo =
+fim de semana), pretendemos estar presente:<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Eu J.Gambetti<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Cunhada V=C3=A2nia<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Sobrinho Henrique<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Sobrinho Gabriel<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Minha m=C3=A3e Rut<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>total 5 pessoas.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Tamb=C3=A9m n=C3=A3o sei o que levar. Algu=C3=A9m pode me esclarecer =
+??<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>abrs<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>J.G.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><div =
+style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm'><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>De:</span></=
+b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+mmtesta [mailto:mmtesta@uol.com.br] <br><b>Enviada em:</b> =
+ter=C3=A7a-feira, 14 de abril de 2015 12:28<br><b>Para:</b> =
+marco@digitalfotoimagem.com.br<br><b>Cc:</b> Alexandre Dias de Castro; =
+Antonio Finardi; Enedino Alves Barbosa Filho; Fl=C3=A1vio Ferrer; =
+Jos=C3=A9 Doniseti Luiz; Marcus Welbi Monte Verde; Oswaldo dos Santos =
+Junior; Enedino Alves Barbosa Filho; Veneravel Mestre; Antonio Carlos =
+Kreme; Antonio Carlos Rosseti; Arsenio de Paiva Lopes; Ricardo de =
+M=C3=AAo Fernandes; Jo=C3=A3o Gambetti Neto; Dejair Bianchi; Claudio =
+Auricchio Turi; Wanderley Caldana; Luiz Carlos Bueno; Benedito Carlos =
+Flaminio; Luis Mauricio Rodrigues; Jairo Dias; Helio Felix; Marcos =
+Patriniani; Natanael Costa; Ordalino de Souza e Silva; Marco Tulio de =
+Mello; Wlamir Lopes Sanches; Fabr=C3=ADcio Takeshi Murakami; =
+Rog=C3=A9rio dos Santos Ota; Fernando Colacioppo; Douglas Klein Basso; =
+Gilberto Dante; Ernani Flausino; Rony Silvio Pereira de Souza; =
+chancelaria@crivodarazao.org.br<br><b>Assunto:</b> ANIVERS=C3=81RIANTES =
+/ CRIVO DA RAZ=C3=83O<o:p></o:p></span></p></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><p class=3DMsoNormal>Bom =
+Dia,<o:p></o:p></p></div><div><p =
+class=3DMsoNormal>&nbsp;<o:p></o:p></p></div><div><p =
+class=3DMsoNormal>Confirmo minha presen=C3=A7a, apenas eu, irei falar =
+com minha filha e meu neto, se confirmarem presen=C3=A7a, eu aviso. =
+TFA,<o:p></o:p></p></div><div><p =
+class=3DMsoNormal>&nbsp;<o:p></o:p></p></div><div><p =
+class=3DMsoNormal>Marcilio<o:p></o:p></p></div><div><p =
+class=3DMsoNormal>&nbsp;<o:p></o:p></p></div><div><p =
+class=3DMsoNormal>&nbsp;<o:p></o:p></p></div><div><p =
+class=3DMsoNormal>&nbsp;<o:p></o:p></p></div><div><p =
+class=3DMsoNormal>&nbsp;<o:p></o:p></p></div><div><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><br>Boa noite meus IIr.`.<br><br><br>Na =
+ultima se=C3=A7=C3=A3o foi levantado a quest=C3=A3o da data do dia 18/04 =
+o qual <br>ter=C3=A1 um feriado na sequ=C3=AAncia dia 21/04.<br><br>Pois =
+a altera=C3=A7=C3=A3o para o dia 1=C2=BA de Maio comprometeu duas =
+fam=C3=ADlias <br>comparecerem.<br><br><br><br>E n=C3=A3o foi feito o =
+levantamento se alguma fam=C3=ADlia n=C3=A3o ir=C3=A1 no dia =
+1=C2=BA.<br><br><br>Solicito a confirma=C3=A7=C3=A3o para meu e_mail =
+quem ira no dia 1=C2=BA.<br><br>Conversei com o Ir.`.Caca e assim na =
+pr=C3=B3xima se=C3=A7=C3=A3o definiremos se ser=C3=A1 <br>melhor trocar =
+a data ou manter o dia 21/04.<br><br><br>Ass. =
+Parise<br><br>T.`.F.`.A.`.<o:p></o:p></p></div><p =
+class=3DMsoNormal>=3D<o:p></o:p></p><div class=3DMsoNormal =
+align=3Dcenter style=3D'text-align:center'><hr size=3D1 width=3D"100%" =
+noshade style=3D'color:#A0A0A0' align=3Dcenter></div><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Nenhum =
+v=C3=ADrus encontrado nessa mensagem.<br>Verificado por AVG - <a =
+href=3D"http://www.avgbrasil.com.br">www.avgbrasil.com.br</a><br>Vers=C3=A3=
+o: 2015.0.5863 / Banco de dados de v=C3=ADrus: 4328/9528 - Data de =
+Lan=C3=A7amento: 04/13/15<o:p></o:p></p></div></body></html>
+------=_NextPart_000_0060_01D076B5.36E28F40--
+

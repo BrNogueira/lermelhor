@@ -1,0 +1,432 @@
+Return-Path: <585-GGD-959.0.35355.0.0.12093.9.5170223@em-sj-77.mktomail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from h9.servidorhh.com
+	by h9.servidorhh.com with LMTP id oAkFKdka6loOGw0ArjWGVg
+	for <marco@digitalfotoimagem.com.br>; Wed, 02 May 2018 17:08:57 -0300
+Return-path: <585-GGD-959.0.35355.0.0.12093.9.5170223@em-sj-77.mktomail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Wed, 02 May 2018 17:08:57 -0300
+Received: from delapparentia.mktdns.com ([192.28.146.180]:40532)
+	by h9.servidorhh.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89_1)
+	(envelope-from <585-GGD-959.0.35355.0.0.12093.9.5170223@em-sj-77.mktomail.com>)
+	id 1fDy3c-003c8y-Vs
+	for marco@digitalfotoimagem.com.br; Wed, 02 May 2018 17:08:57 -0300
+X-MSFBL: bWFyY29AZGlnaXRhbGZvdG9pbWFnZW0uY29tLmJyQGR2cC0xOTItMjgtMTQ2LTE4
+	MEBiZy1zamQtMjg5QDU4NS1HR0QtOTU5Ojk3NDM6MTE2NDA6NDYxNjc6MDoxMjA5
+	Mzo5OjM1MzU1OjUxNzAyMjM=
+Received: from [10.0.87.249] ([10.0.87.249:49865] helo=sjmas03.marketo.org)
+	by sjmta14.marketo.org (envelope-from <service@magento.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTP
+	id 06/FF-26732-8AA1AEA5; Wed, 02 May 2018 15:08:08 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1525291688;
+	s=m1; d=magento.com; i=@magento.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=rS3558PkFxtiH/jrT1aCmEe5/cHT9tM13SgWiEXukSw=;
+	b=j/r0hbzK2lRYR1IgaWtFN32UAFoODcSsWrWi9+4JIkIjwXES3n8gO8KHIUQB+m+9
+	TeRBWuM9/lVPz51ut3ARz2How1ZAfI0D2UyCVfqJkk/qDt3c99azRp0kxA4ELi4IYUI
+	RekyjHgtnh86MKefU+Sk7ud0xddo5orzGse0i/ks=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1525291688;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=rS3558PkFxtiH/jrT1aCmEe5/cHT9tM13SgWiEXukSw=;
+	b=ZWNIGG8pynumwR+sS05wAnCczcb5tpJQtNgopJbv4TpWoIShhgCynpH6EIOVJMdU
+	OGEwBI9vOZjfcGj2FCa311gG5aavYCZERRYsdv9GLvWsveEjVMJSVv1jMjoLsJkvqop
+	1BLzHXhuL1TkpUNrjahMgbrthdds1liNJn1zkSgE=
+Date: Wed, 2 May 2018 15:08:08 -0500 (CDT)
+From: Magento <service@magento.com>
+Reply-To: service@magento.com
+To: marco@digitalfotoimagem.com.br
+Message-ID: <1338682713.1670600920.1525291688054.JavaMail.root@sjmas03.marketo.org>
+Subject: Create Better Shopping Experiences with the Latest Version of
+ Magento Open Source
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1670600919_751769202.1525291688054"
+X-PVIQ: mkto-585GGD959-000001-000000-035355
+X-Binding: bg-sjd-289
+X-MarketoID: 585-GGD-959:9743:11640:46167:0:12093:9:35355:5170223
+X-MktArchive: false
+List-Unsubscribe: <mailto:GFLESNCONZZGOWKPGY3U43TDGRUWUTTTG5AT2PI.35355.12093.9@unsub-sj.mktomail.com>
+X-Mailfrom: 585-GGD-959.0.35355.0.0.12093.9.5170223@em-sj-77.mktomail.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+
+------=_Part_1670600919_751769202.1525291688054
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+New Release Reduces Cart Abandonment
+Creating exceptional shopping experiences is easier than ever with the late=
+st release of Magento Open Source (2.2.4). Available today, this new releas=
+e offers tools to reduce cart abandonment and increase average order value,=
+ while also simplifying operations. Highlights include:=20
+ =09- Quicker checkouts and flexible payment options with Amazon Pay and Kl=
+arna, available out-of-the-box =09- Fast, accurate tax calculations and ret=
+urns generation with an integrated tax solution from Vertex =09- Streamline=
+d fulfillment with access to carriers, rates, and returns processing right =
+from the Magento Admin with Magento Shipping=20
+=09- Optimized performance delivering faster image loading and search resul=
+ts, plus over 300 product quality enhancements
+
+=20
+ Review our blog post <http://email2.magento.com/O050HlHD0200qGXT0N0sg0G> a=
+nd release notes <http://email2.magento.com/rl0U0D250GOX0qGgH00H0s0> to rea=
+d more about the latest enhancements. And join us for a special webinar <ht=
+tp://email2.magento.com/ZGqlH0gPs0000H00V20XDG5> on May 15 to learn how Mag=
+ento Open Source can help significantly reduce cart abandonment.=20
+=20
+ Now is the time to take the next step in transforming your shopping experi=
+ence and simplifying your operations. Check out the latest version of Magen=
+to Open Source today.=20
+=20
+Best regards,=20
+The Magento Team
+This email was sent to you because you have agreed to receive information a=
+bout our services. We will only use your information in accordance with our=
+ privacy policy. To unsubscribe from our commercial mailing list, please cl=
+ick here <http://email2.magento.com/P000q0sGXG0HWl0500QDgH2>.
+ Copyright=C2=A9 2018 Magento, Inc. All rights reserved. Magento, Inc. is l=
+ocated at 54 N Central Ave, Ste 200 Campbell, CA 95008.
+
+-
+
+------=_Part_1670600919_751769202.1525291688054
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>=20
+<title>Magento</title>=20
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+=20
+<meta name=3D"viewport" content=3D"width=3Ddevice-width; initial-scale=3D1.=
+0; maximum-scale=3D1.0;">=20
+<style type=3D"text/css">
+/* ********** webfont ********** */
+@font-face {
+=09font-family: 'Graphik';
+=09src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Regula=
+r.eot');
+=09src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Regula=
+r.eot?#iefix') format('embedded-opentype'),
+=09=09url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Regular.=
+woff2') format('woff2'),
+=09=09url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Regular.=
+woff') format('woff'),
+=09=09url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Regular.=
+ttf') format('truetype'),
+=09=09url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Regular.=
+svg#Graphik-Regular') format('svg');
+=09font-weight: normal;
+=09font-style: normal;
+}
+
+@font-face {
+=09font-family: 'Graphik';
+=09src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Bold.e=
+ot');
+=09src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Bold.e=
+ot?#iefix') format('embedded-opentype'),
+=09=09url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Bold.wof=
+f2') format('woff2'),
+=09=09url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Bold.wof=
+f') format('woff'),
+=09=09url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Bold.ttf=
+') format('truetype'),
+=09=09url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Bold.svg=
+#Graphik-Bold') format('svg');
+=09font-weight: bold;
+=09font-style: normal;
+}
+
+@font-face {
+=09font-family: 'Graphik';
+=09src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Light.=
+eot');
+=09src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Light.=
+eot?#iefix') format('embedded-opentype'),
+=09=09url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Light.wo=
+ff2') format('woff2'),
+=09=09url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Light.wo=
+ff') format('woff'),
+=09=09url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Light.tt=
+f') format('truetype'),
+=09=09url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Light.sv=
+g#Graphik-Light') format('svg');
+=09font-weight: 300;
+=09font-style: normal;
+}
+@media {
+body {font-family: 'Graphik', sans-serif !important; font-weight:300 !impor=
+tant;}=09
+* {font-family: 'Graphik', sans-serif !important;}
+}
+/* ********** webfont end ********** */
+
+body {
+=09text-align: left;
+=09font-family:  Arial, Helvetica, sans-serif;
+=09-webkit-text-size-adjust: none;
+=09font-size:16px;
+=09line-height:22px;
+=09color:#626366;
+}
+* {
+=09font-family:  Arial, Helvetica, sans-serif;
+}
+img {
+=09border: none;
+}
+
+@media only screen and (max-width: 480px) {
+  .table100 {width: 100% !important;float: none !important;}
+  .respPad {padding:0 20px !important;}
+  #altViewContainer { padding:17px 0 !important;}
+  #logoContainer { padding:13px 0 !important;}
+  #logo { text-align:center !important;}
+  #headline { font-size:28px !important; line-height:34px !important;}
+  #ctaContainer { padding-top:22px !important;}
+  #cta_leftColPad { padding:0 !important;}
+  #CTA_copy { font-size:24px !important; line-height:30px !important;}
+  #cta_button { width:100% !important;}
+  #cta_graphic_container { display:none !important;}
+  #ctaBTN { padding:16px 33px !important;}
+  #footerContainer { padding:17px 0 !important;}
+}
+</style>=20
+<style>=20
+@media (max-width:599px) {=20
+.hide-md {display: none !important;}=20
+}=20
+</style>=20
+</head>=20
+<body bgcolor=3D"#ffffff" style=3D"margin:0px;padding:0px;">=20
+<div align=3D"center">=20
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"background:#fff;" class=3D"table100">=20
+<!-- alternate view -->=20
+<tbody>=20
+<tr>=20
+<td id=3D"altViewContainer" valign=3D"top" style=3D"padding:23px 0;">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 20px;" class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td id=3D"altViewCopy" class=3D"mktEditable" style=3D"text-align:center; fo=
+nt-size:13px; line-height:17px;color:#26a2aa;">
+<div>=20
+<br>=20
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!-- alternate view end -->=20
+<!-- logo -->=20
+<tr>=20
+<td id=3D"logoContainer" valign=3D"top" style=3D"padding:28px 0; border-top=
+:solid 1px #d8d9da; border-left:solid 1px #d8d9da; border-right:solid 1px #=
+d8d9da;">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 34px;" class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td style=3D"text-align:left;" id=3D"logo" class=3D"mktEditable"><img src=
+=3D"https://info2.magento.com/rs/585-GGD-959/images/MGO-999R-email-logo.png=
+" height=3D"42" width=3D"152" alt=3D""></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!-- logo end -->=20
+<!-- hero -->=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 0; height:25px; background:#ffffff;">=
+<img src=3D"https://info2.magento.com/rs/585-GGD-959/images/8962_Magento_2.=
+2.4_Launch_Graphics_Email_R2V2.jpg" width=3D"600" style=3D"width:600px; max=
+-width: 100%;" alt=3D""></td>=20
+</tr>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 0; height:25px; background:#f16323;">=
+ </td>=20
+</tr>=20
+<!-- hero end -->=20
+<!-- CTA -->=20
+<tr>=20
+<td id=3D"ctaContainer" valign=3D"top" style=3D"padding:0 0; border-left:so=
+lid 1px #d8d9da; border-right:solid 1px #d8d9da;">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 0;" class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top">=20
+<!-- column 1 (left) -->=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" widt=
+h=3D"520" class=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:30px 0 0 30px;" id=3D"cta_leftColPad">=
+=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td id=3D"CTA_copy" class=3D"mktEditable" style=3D"font-size:28px; line-hei=
+ght:34px; font-weight:normal; color:#626366; ">
+<div>
+ New Release Reduces Cart Abandonment=20
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!-- column 2 (right) --> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+<!-- CTA end -->=20
+<!-- main body -->=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:35px 0;border-left:solid 1px #d8d9da; b=
+order-right:solid 1px #d8d9da; border-bottom:solid 1px #d8d9da;">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 30px;" class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top">=20
+<!-- column 1 (left) -->=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" widt=
+h=3D"510" class=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td id=3D"bodyCopy" class=3D"mktEditable" style=3D"padding:0 0 20px; font-s=
+ize:16px; line-height:22px; color:#626366; font-weight:300;">
+<div>
+ Creating exceptional shopping experiences is easier than ever with the lat=
+est release of Magento Open Source (2.2.4). Available today, this new relea=
+se offers tools to reduce cart abandonment and increase average order value=
+, while also simplifying operations. Highlights include:=20
+<ul>=20
+<li><span style=3D"font-weight: bold;">Quicker checkouts and flexible payme=
+nt options</span> with Amazon Pay and Klarna, available out-of-the-box</li>=
+=20
+<li><span style=3D"font-weight: bold;">Fast, accurate tax calculations and =
+returns generation</span> with an integrated tax solution from Vertex</li>=
+=20
+<li><span style=3D"font-weight: bold;">Streamlined fulfillment</span> with =
+access to carriers, rates, and returns processing right from the Magento Ad=
+min with Magento Shipping</li>=20
+<li><span style=3D"font-weight: bold;">Optimized performance</span> deliver=
+ing faster image loading and search results, plus over 300 product quality =
+enhancements<br><br></li>=20
+</ul> Review our=20
+<a href=3D
+"http://email2.magento.com/O050HlHD0200qGXT0N0sg0G" target=3D"_blank" title=
+=3D"blog post" id=3D"" style=3D"color: #26a2aa;"
+>blog post</a> and=20
+<a href=3D
+"http://email2.magento.com/rl0U0D250GOX0qGgH00H0s0" target=3D"_blank" title=
+=3D"release notes" id=3D"" style=3D"color: #26a2aa;"
+>release notes</a> to read more about the latest enhancements. And join us =
+for a=20
+<span style=3D"font-weight: bold;">special <a href=3D
+"http://email2.magento.com/ZGqlH0gPs0000H00V20XDG5" target=3D"_blank" title=
+=3D"webinar" id=3D"" style=3D"color: #26a2aa;"
+>webinar</a> on May 15</span> to learn how Magento Open Source can help sig=
+nificantly reduce cart abandonment.=20
+<br>=20
+<br> Now is the time to take the next step in transforming your shopping ex=
+perience and simplifying your operations. Check out the latest version of M=
+agento Open Source today.=20
+<br>=20
+<br>Best regards,=20
+<br>The Magento Team=20
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+<!-- main body end -->=20
+<!-- footer -->=20
+<tr>=20
+<td id=3D"footerContainer" valign=3D"top" style=3D"padding:25px 0;">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 20px;" class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td id=3D"footer" class=3D"mktEditable" style=3D"text-align:center; font-si=
+ze:9px; color:#aeafb1; line-height:12px; "><p style=3D"mso-table-lspace: 0;=
+ mso-table-rspace: 0; margin: 0;">This email was sent to you because you ha=
+ve agreed to receive information about our services. We will only use your =
+information in accordance with our privacy policy. To unsubscribe from our =
+commercial mailing list, please click <a style=3D"text-decoration: none; fo=
+nt-weight: bold; color: #ef672f;" href=3D
+"http://email2.magento.com/P000q0sGXG0HWl0500QDgH2"
+>here</a>.<br> Copyright=C2=A9 2018 Magento, Inc. All rights reserved. Mage=
+nto, Inc. is located at <span class=3D"appleLinksGrey"><span class=3D"st"><=
+em>54</em> N Central Ave, Ste 200 <em>Campbell</em>, CA 95008.</span></span=
+></p></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!-- footer end -->=20
+</tbody>=20
+</table>=20
+</div> =20
+<a href=3D
+"http://email2.magento.com/TRqG50H0g0000GX20XlHsD0"
+></a>
+<img src=3D"http://email2.magento.com/trk?t=3D1&mid=3DNTg1LUdHRC05NTk6OTc0M=
+zoxMTY0MDo0NjE2NzowOjEyMDkzOjk6MzUzNTU6NTE3MDIyMzptYXJjb0BkaWdpdGFsZm90b2lt=
+YWdlbS5jb20uYnI%3D" width=3D"1" height=3D"1" style=3D"display:none !importa=
+nt;" alt=3D"" />
+
+<br>
+</body>
+</html>
+------=_Part_1670600919_751769202.1525291688054--

@@ -1,0 +1,103 @@
+Return-path: <_www@mini.comdyn.cn>
+Envelope-to: parise@digitalfotoimagem.com.br
+Delivery-date: Tue, 10 Nov 2015 16:54:44 -0200
+Received: from [101.6.32.201] (port=65328 helo=mini.comdyn.cn)
+	by hserv20.homehost.com.br with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.86)
+	(envelope-from <_www@mini.comdyn.cn>)
+	id 1ZwE43-0004kI-6d
+	for parise@digitalfotoimagem.com.br; Tue, 10 Nov 2015 16:54:43 -0200
+Received: from localhost (localhost [127.0.0.1])
+	by mini.comdyn.cn (Postfix) with ESMTP id 9A5911165B2E
+	for <parise@digitalfotoimagem.com.br>; Wed, 11 Nov 2015 02:53:42 +0800 (CST)
+X-Virus-Scanned: amavisd-new at comdyn.cn
+X-Amavis-Alert: BAD HEADER SECTION, Duplicate header field: "Content-Type"
+Received: from mini.comdyn.cn ([127.0.0.1])
+	by localhost (mini.comdyn.cn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 3Ud-Jvd-dIA6 for <parise@digitalfotoimagem.com.br>;
+	Wed, 11 Nov 2015 02:53:42 +0800 (CST)
+Received: by mini.comdyn.cn (Postfix, from userid 70)
+	id 67575116401C; Wed, 11 Nov 2015 02:51:41 +0800 (CST)
+To: parise@digitalfotoimagem.com.br
+Subject: Pedido esperando retirada.
+X-PHP-Originating-Script: 70:errorfound.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+content-type: text/html
+X-priority: 1
+From: <Correios@mini.comdyn.cn>
+Message-Id: <20151110185141.67575116401C@mini.comdyn.cn>
+Date: Wed, 11 Nov 2015 02:51:41 +0800 (CST)
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <title>Untitled Document</title>
+
+
+</head>
+<body>
+
+<p><img src="http://www2.correios.com.br/home2014/img/layout/logo.png" alt="Ir para a p&aacute;gina inicial" title="Ir para a p&aacute;gina incial"></p>
+
+<p><strong> <a href="https://drive.google.com/uc?export=download&id=0Bz1aXVmtC2f3SDF3ZXVub21ENFU">RASTREAR</a> - Hist&oacute;rico do Objeto</strong> <br>
+O hor&aacute;rio n&atilde;o indica quando a situa&ccedil;&atilde;o
+ocorreu, mas sim quando os dados foram recebidos pelo sistema, exceto
+no caso do <strong>SEDEX 10 e do SEDEX Hoje, </strong>em que ele representa o hor&aacute;rio real da entrega. </p>
+
+<p><img src="http://www2.correios.com.br/home2014/img/SRO/entrega.gif" alt="Objeto entregue ao destinat&aacute;rio"></p>
+
+<table border="1" cellpadding="1" hspace="10">
+
+  <colgroup valign="top"></colgroup>
+  <colgroup></colgroup>
+  <colgroup></colgroup>
+  <tbody>
+
+    <tr>
+
+      <td width="111"><strong>Data</strong></td>
+
+      <td width="178"><strong>Local</strong></td>
+
+      <td width="207"><strong>Situa&ccedil;&atilde;o</strong></td>
+
+    </tr>
+
+    <tr>
+
+      <td rowspan="1">09/11/2015 15:08</td>
+
+      <td>CDD AGENCIA CENTRO </td>
+
+      <td><a href="https://drive.google.com/uc?export=download&id=0Bz1aXVmtC2f3SDF3ZXVub21ENFU">AGUARDANDO RETIRADA </a></td>
+
+    </tr>
+
+    <tr>
+
+      <td rowspan="1">10/11/2015 13:02</td>
+
+      <td>
+      <p>CDD CORREIOS POSTAL</p>
+
+      <p>ENCOMENDA SEDEX. </p>
+      </td>
+
+      <td>Encaminhado. Postado </td>
+
+    </tr>
+
+  </tbody>
+</table>
+
+<p></p>
+<div> <span style="color: rgb(0, 0, 128);"><strong>Baixe o formulario para retirada do pedido.O mesmo se encontrará disponivel até dia 19/11/2015</strong></span></div>
+<div> &nbsp;</div>
+
+
+</body>
+</html>
+

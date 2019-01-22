@@ -1,0 +1,151 @@
+Return-Path: <>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id oVioHcJ8blk8NgYAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Tue, 18 Jul 2017 18:25:22 -0300
+Return-path: <>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 18 Jul 2017 18:25:22 -0300
+Received: from e.gospmail.org.br ([177.139.181.238]:43570 helo=gospmail.org.br)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	id 1dXZze-001is6-7R
+	for marco@digitalfotoimagem.com.br; Tue, 18 Jul 2017 18:25:22 -0300
+Received: by gospmail.org.br (Postfix)
+	id 4782E2A417DB; Tue, 18 Jul 2017 18:24:35 -0300 (BRT)
+Date: Tue, 18 Jul 2017 18:24:35 -0300 (BRT)
+From: MAILER-DAEMON@gospmail.org.br (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: marco@digitalfotoimagem.com.br
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="340C32A417DA.1500413075/gospmail.org.br"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20170718212435.4782E2A417DB@gospmail.org.br>
+
+This is a MIME-encapsulated message.
+
+--340C32A417DA.1500413075/gospmail.org.br
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host gospmail.org.br.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<ney.carlos@gosp.org.br>: host mx.core.locaweb.com.br[177.153.23.241] said: 550
+    5.1.1 <ney.carlos@gosp.org.br>: Recipient address rejected: User unknown in
+    virtual mailbox table (in reply to RCPT TO command)
+
+--340C32A417DA.1500413075/gospmail.org.br
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gospmail.org.br
+X-Postfix-Queue-ID: 340C32A417DA
+X-Postfix-Sender: rfc822; marco@digitalfotoimagem.com.br
+Arrival-Date: Tue, 18 Jul 2017 18:24:32 -0300 (BRT)
+
+Final-Recipient: rfc822; ney.carlos@gosp.org.br
+Original-Recipient: rfc822;ballouk@gospmail.org.br
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; mx.core.locaweb.com.br
+Diagnostic-Code: smtp; 550 5.1.1 <ney.carlos@gosp.org.br>: Recipient address
+    rejected: User unknown in virtual mailbox table
+
+--340C32A417DA.1500413075/gospmail.org.br
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <marco@digitalfotoimagem.com.br>
+Received: from localhost (e [127.0.0.1])
+	by gospmail.org.br (Postfix) with ESMTP id 340C32A417DA;
+	Tue, 18 Jul 2017 18:24:32 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at gospmail.org.br
+Received: from gospmail.org.br ([127.0.0.1])
+	by localhost (gospmail.org.br [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id o88xAH-gW4uO; Tue, 18 Jul 2017 18:24:29 -0300 (BRT)
+Received: from mail-alt4.hserv9.homehost.com.br (mail-alt4.hserv9.homehost.com.br [177.85.103.107])
+	by gospmail.org.br (Postfix) with ESMTPS id C71E22A417D9
+	for <ballouk@gospmail.org.br>; Tue, 18 Jul 2017 18:24:28 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=digitalfotoimagem.com.br; s=default; h=Message-ID:References:In-Reply-To:
+	From:Date:Content-Transfer-Encoding:Content-Type:MIME-Version:Subject:To:
+	Sender:Reply-To:Cc:Content-ID:Content-Description:Resent-Date:Resent-From:
+	Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:List-Id:List-Help:
+	List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=0jVq5+9ACq1ORBATFd/9Yfr5rc1a6ud4BNEsVkwz1o0=; b=w8wCyhGfYQv7OtdwxZqVGx80la
+	KL6OQ6YayOVj+zGd6pYe76WzS94sSNOi2L4Vy+vjoRH+KQD8DxPM2A/LTyz3iOkFgjTagrm5BdZrj
+	0BEG8mzlPhQMMd4tejhAxzKUhPAEX+pglzcGA8Mey5m2LMdy+G0Epm+rSRExiq8Byxa9W8UYQh8+Q
+	tR5P4reKKVJiwZ2qGJJGa7DfHX+Tal15fLRLJEyGuX/Od143pmCx38A14+PSM88NuyeWwvQuoN63F
+	6PBDY8iQwqbUHMkUCHGAtwaKWDPCpRwmX+oGcioHFjb9CPytN/WAB/LZoyDd+GB7nQVBwAlq6XU3J
+	zXfBVrqg==;
+Received: from hserv9homemailco by hserv9.homehost.com.br with local (Exim 4.89)
+	(envelope-from <marco@digitalfotoimagem.com.br>)
+	id 1dXZyn-001ilU-0y
+	for ballouk@gospmail.org.br; Tue, 18 Jul 2017 18:24:29 -0300
+To: ballouk@gospmail.org.br
+Subject: FELIZ =?UTF-8?Q?ANIVERS=C3=81RIO=20-=20GOSP?=
+X-PHP-Script: hserv9.homemail.com.br/index.php for 201.6.231.52
+X-PHP-Filename: /home/hserv9homemailco/public_html/index.php REMOTE_ADDR: 201.6.231.52
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+Date: Tue, 18 Jul 2017 18:24:28 -0300
+From: marco@digitalfotoimagem.com.br
+In-Reply-To: <20170712100001.C56E63202AA@proxy.email-ssl.com.br>
+References: <20170712100001.C56E63202AA@proxy.email-ssl.com.br>
+Message-ID: <dd44b07b937c47d4f41f90deef45ee38@digitalfotoimagem.com.br>
+X-Sender: marco@digitalfotoimagem.com.br
+User-Agent: Roundcube Webmail/1.0.1
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - hserv9.homehost.com.br
+X-AntiAbuse: Original Domain - gospmail.org.br
+X-AntiAbuse: Originator/Caller UID/GID - [505 514] / [47 12]
+X-AntiAbuse: Sender Address Domain - digitalfotoimagem.com.br
+X-Get-Message-Sender-Via: hserv9.homehost.com.br: authenticated_id: hserv9homemailco/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: hserv9.homehost.com.br: hserv9homemailco
+
+Querido Irmão Eminente G.M. Ballouk é com grande satisfação que recebo 
+sua mensagem  T.F.A.
+Ir. Parise
+
+
+Em 2017-07-12 07:00, Ballouk - gosp escreveu:
+> Meu querido Ir .'.
+> 
+> No transcurso de mais uma passagem tão importante na vida do Irmão,
+> não me furto em deixar de estender meus votos de felicitações. Que
+> o Grande Arquiteto do Universo (GADU) possa iluminar cada instante de
+> sua jornada e abençoá-lo abundantemente no seio da sua família..
+> 
+> Que a dádiva da vida seja celebrada com plenitude e que mais um ano
+> lhe traga realizações, saúde, sabedoria, fé, esperança e
+> caridade. Que essa data se repita por muitos anos e que estes sejam
+> preenchidos de felicidade, amor e paz.
+> 
+> Feliz aniversário querido e amado Irmão.
+> 
+> 'Nenhum de nós é tão bom quanto todos nós juntos'
+> 
+> Fraternalmente,
+> 
+> BENEDITO MARQUES BALLOUK FILHO
+> Grão-Mestre Estadual do Grande Oriente de São Paulo (GOSP)
+> KAMEL AREF SAAB
+> Grão-Mestre Estadual Adjunto do Grande Oriente de São Paulo (GOSP)
+> -------------------------
+
+--340C32A417DA.1500413075/gospmail.org.br--

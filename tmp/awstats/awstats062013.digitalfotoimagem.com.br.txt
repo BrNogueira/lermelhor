@@ -1,0 +1,401 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201306 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2017                
+POS_TIME 2682                
+POS_VISITOR 6874                
+POS_DAY 7753                
+POS_DOMAIN 3397                
+POS_LOGIN 3699                
+POS_ROBOT 3854                
+POS_WORMS 4254                
+POS_EMAILSENDER 4385                
+POS_EMAILRECEIVER 4528                
+POS_SESSION 8427                
+POS_SIDER 8633                
+POS_FILETYPES 4663                
+POS_DOWNLOADS 4834                
+POS_OS 4882                
+POS_BROWSER 4980                
+POS_SCREENSIZE 5229                
+POS_UNKNOWNREFERER 5303                
+POS_UNKNOWNREFERERBROWSER 5510                
+POS_ORIGIN 5625                
+POS_SEREFERRALS 5763                
+POS_PAGEREFS 5927                
+POS_SEARCHWORDS 6075                
+POS_KEYWORDS 6256                
+POS_MISC 2346                
+POS_ERRORS 6352                
+POS_CLUSTER 3555                
+POS_SIDER_404 6448                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130701075053 94 16648 9186484922637
+FirstTime 0
+LastTime 20130630230710
+LastUpdate 20130702113501 94 0 93 0 0
+TotalVisits 112                 
+TotalUnique 20                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 20                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 4 2462 5 44 142308
+1 4 4 10403 12 65 89621
+2 0 0 0 6 25 128095
+3 2 2 2227 5 13 133409
+4 0 0 0 7 20 93547
+5 1 1 8474 8 19 176691
+6 140 140 51111 9 22 64286
+7 4 4 10403 12 23 54535
+8 5 5 3215 6 19 143373
+9 2 2 1287 6 17 78430
+10 19 42 328053 2 19 47883
+11 8 8 5145 11 71 97679
+12 9 9 5787 5 77 125247
+13 206 206 100668 8 104 37717
+14 8 8 5144 4 67 42594
+15 5 5 3216 4 61 12656
+16 145 145 54324 7 40 341478
+17 8 8 5144 7 89 13269
+18 14 86 1221883 10 90 3801
+19 14 14 9008 7 104 34779
+20 16 16 10528 10 46 47886
+21 5 5 3215 5 33 45110
+22 25 25 12571 3 53 65893
+23 15 40 402207 4 85 36953
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+us 459 459 191872
+br 131 226 1620553
+cn 61 61 46344
+ro 6 6 18690
+es 1 26 378372
+ru 1 1 644
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+bot[\s_+:,\.\;\/\\-] 77 140201 20130630154918 0
+googlebot 59 235655 20130630163036 0
+msnbot\-media 51 1598424 20130628114418 0
+[\s_+:,\.\;\/\\-]bot 15 32116 20130629214057 0
+robot 5 25422 20130622140133 0
+netcraft 1 8474 20130607210823 0
+crawl 1 8474 20130621144025 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 4 16668 0 0
+html 527 300849 0 0
+jpg 112 1856507 0 0
+cgi 6 1248 0 0
+Unknown 126 81031 0 0
+gif 4 172 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 6
+winlong 9
+winxp 195
+win2003 63
+j2me 26
+Unknown 41
+win7 445
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 12
+msie8.0 41
+chrome27.0.1453.94 13
+msie6.0 68
+chrome13.0.782.107 414
+mozilla 40
+chrome26.0.1410.64 48
+msie7.0 21
+chrome27.0.1453.110 40
+chrome21.0.1192 1
+chrome27.0.1453.116 66
+Unknown 1
+opera9.80 26
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Python-urllib/2.6 20130619055204
+Mozilla/5.0_(compatible;_SiteExplorer/1.0b;__http://siteexplorer.info/) 20130623201420
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Python-urllib/2.6 20130619055204
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 451 451
+From1 0 0
+From2 2 2
+From3 0 0
+From4 206 326
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 1 1
+bing 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+mail+image%2dcm+com+loc+br 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 5
+br 1
+loc 1
+mail 1
+image%2dcm 1
+com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 1 8474
+404 169 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 7
+/index.swf 4 -
+/awstats/awstats.pl 1 -
+/%23 1 -
+/webalizer 1 -
+/robots.txt 159 -
+/escola/final 2 -
+/estatisticas 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 20
+54.226.139.13 138 138 49823 20130617134849
+174.129.134.203 138 138 49823 20130628063004
+54.243.15.246 138 138 49823 20130603163701
+187.38.242.77 90 90 57879 20130630065917
+36.248.163.9 60 60 45701 20130624134104
+173.192.235.226 40 40 22695 20130623201420
+201.55.31.107 18 45 390601 20130629152255
+187.9.235.165 13 27 134146 20130628110152
+93.115.83.252 6 6 18690 20130616230952
+187.9.235.166 6 15 193669 20130629094900
+189.78.112.180 3 48 835784 20130611184428
+183.13.247.190 1 1 643 20130621145152
+37.228.106.135 1 26 378372 20130618230243
+131.253.26.252 1 1 1584 20130622031758
+65.55.213.57 1 1 643 20130611032318
+192.95.47.180 1 1 8474 20130623011812
+187.1.141.29 1 1 8474 20130629070946
+199.80.54.252 1 1 8474 20130619055204
+131.253.24.135 1 1 533 20130604003322
+179.208.193.156 1 1 644 20130630230710
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20130601 4 4 2572 3
+20130602 2 2 1286 2
+20130603 160 160 60464 4
+20130604 5 5 3105 3
+20130606 2 2 1286 2
+20130607 4 4 2572 3
+20130608 16 16 10528 6
+20130609 1 1 643 1
+20130610 9 9 5787 4
+20130611 15 83 1159096 9
+20130612 4 4 2572 3
+20130613 4 4 2572 4
+20130614 1 1 643 1
+20130615 4 4 2572 4
+20130616 9 9 20619 4
+20130617 142 142 52395 4
+20130618 8 33 382873 5
+20130619 6 6 11689 6
+20130620 4 4 2572 4
+20130621 12 39 386742 8
+20130622 3 3 2870 2
+20130623 13 13 16430 4
+20130624 63 63 47630 4
+20130625 6 6 3858 5
+20130626 6 6 3858 4
+20130627 4 4 2572 4
+20130628 140 140 51111 3
+20130629 9 9 13626 4
+20130630 3 3 1932 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+5mn-15mn 9
+30s-2mn 6
+2mn-5mn 1
+0s-30s 85
+15mn-30mn 5
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 71
+/email 126 81031 95 95
+/ 15 101688 10 4
+/casamento/paginafoto88.html 9 2700 0 0
+/aniversario/aniversario.html 9 9504 1 1
+/casamento/paginacasamento.html 9 12288 0 0
+/escola/mae.html 9 9870 0 0
+/casamento/paginafotolembranca3.html 9 2610 2 0
+/casamento/paginafotolembranca2.html 9 2976 0 0
+/casamento/paginafotoalbum.html 9 2694 0 0
+/casamento/paginafoto7.html 9 4638 1 1
+/casamento/paginafoto9.html 9 2694 0 0
+/casamento/paginafoto8.html 9 2640 0 2
+/escola/pai.html 9 8124 0 0
+/casamento/paginafotolembranca.html 9 2700 0 0
+/escola/1.html 8 3635 0 0
+/casamento/paginafoto14.html 8 2190 0 0
+/aniversario/paginafoto19.html 8 2215 0 0
+/aniversario/paginafoto7.html 8 2245 0 0
+/casamento/paginafoto1.html 8 2245 0 0
+/casamento/paginafoto5.html 8 2985 0 0
+/casamento/paginafoto6.html 8 2180 0 0
+/igreja/2.html 8 2510 0 0
+/aniversario/paginafoto1.html 8 2215 0 1
+/casamento/paginafoto3.html 8 2210 0 0
+/igreja/1.html 8 2830 0 0
+/escola/paginafoto16.html 6 1305 0 0
+/escola/paginafoto4.html 7 1736 0 0
+/escola/paginafoto22a.html 7 1736 0 0
+/escola/paginafoto20.html 6 1350 0 0
+/escola/paginafoto13.html 7 1740 0 0
+/escola/paginafoto5.html 7 1736 0 0
+/cgi-sys/FormMail.cgi 6 1248 0 0
+/escola/paginafoto2b.html 7 1736 0 0
+/escola/paginafoto8.html 7 1736 0 0
+/igreja/3ok.html 7 2132 1 1
+/escola/paginafoto7.html 7 1736 0 0
+/aniversario/paginafoto4.html 8 2215 0 0
+/escola/paginafoto17.html 6 1305 0 0
+/escola/paginafoto18.html 6 1350 0 0
+/aniversario/paginafoto2.html 8 2215 0 0
+/escola/paginafoto24a.html 7 1740 0 0
+/escola/paginafoto26a.html 7 1740 0 0
+/casamento/paginafoto3a.html 8 2215 0 0
+/escola/paginafoto19.html 7 1740 0 0
+/escola/paginafoto23a.html 7 1740 0 0
+/escola/paginafoto3.html 7 1736 0 0
+/escola/paginafoto14.html 7 1800 0 0
+/casamento/paginafoto2a.html 8 2180 0 0
+/escola/paginafoto2.html 7 1736 0 0
+/casamento/paginafoto1a.html 8 2245 0 0
+/casamento/paginafoto11.html 8 2250 0 0
+/escola/paginafoto6.html 7 1736 0 0
+/escola/final%20de%20ano.html 7 3996 0 0
+/aniversario/paginafoto5.html 8 2215 0 0
+/escola/paginafoto9.html 7 1736 0 0
+/email/ 2 1286 2 2
+/escola/paginafoto15.html 7 1740 0 0
+/escola/paginafoto12.html 7 1740 0 0
+/escola/paginafoto22.html 7 1740 0 0
+/email.html 8 26455 0 2
+/escola/paginafoto11.html 6 1305 0 0
+/aniversario/paginafoto22.html 8 2215 0 0
+/aniversario/paginafoto3.html 8 2210 0 0
+/escola/paginafoto27.html 7 1800 0 0
+/escola/paginafoto1.html 7 1796 0 0
+/escola/paginafoto14b.html 7 1800 0 0
+/escola/paginafoto25a.html 7 1740 0 0
+/escola/paginafoto21.html 7 1740 0 0
+/igreja/5.html 6 1398 0 3
+/casamento/paginafoto12.html 8 2250 0 0
+/aniversario/paginafoto18.html 8 2215 0 0
+END_SIDER

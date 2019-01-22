@@ -1,0 +1,234 @@
+.container-descriptions {
+  display: inline-block;
+  width: 100%;
+}
+
+.container-descriptions ul {
+text-decoration: underline;
+    margin-bottom: .3rem;
+    font-family: inherit;
+    font-size: 16px;
+    font-weight: 600;
+    padding-top: 0;
+    line-height: 1;
+    color: #000;
+	}
+
+.container-descriptions li {
+  margin-bottom: 10px;
+}
+.box-descriptions1{
+  background-color: #ffff00;
+  text-align: center;
+  width: calc(50% - 20px);
+  border: 1px solid rgba(0,0, 0.1, 0.1);
+  border-radius: 25px;
+  float: left;
+  margin-bottom: 15px;
+}
+
+.box-descriptions1 li input {
+  background-color: yellow;
+  border: none;
+  text-align: center;
+  padding: 5px;
+  border-bottom: 1px solid #000;
+  margin-left: 10px;
+}
+
+.box-descriptions2{
+  background-color: #09b809;
+  text-align: center;
+  width: calc(50% - 20px);
+  border: 1px solid rgba(0,0, 0.1, 0.1);
+  border-radius: 25px;
+  float: right;
+  margin-bottom: 20px;
+}
+
+.box-descriptions2 li input {
+  background-color: #09b809;
+  border: none;
+  text-align: center;
+  padding: 5px;
+  border-bottom: 1px solid #000;
+  margin-left: 10px;
+}
+
+.box-descriptions3{
+  background-color: #ff0000;
+  text-align: center;
+  width: calc(50% - 20px);
+  border: 1px solid rgba(0,0, 0.1, 0.1);
+  border-radius: 25px;
+  float: left;
+}
+
+li {
+  list-style: none;
+}
+
+.box-descriptions3 li input {
+  background-color: #ff0000;
+  border: none;
+  text-align: center;
+  padding: 5px;
+  border-bottom: 1px solid #000;
+  margin-left: 10px;
+}
+
+.box-descriptions4{
+  background-color: #3e3ef3;
+  text-align: center;
+  width: calc(50% - 20px);
+  border: 1px solid rgba(0,0, 0.1, 0.1);
+  border-radius: 25px;
+  float: right;
+}
+
+.box-descriptions4 li input {
+  background-color: #3e3ef3;
+  border: none;
+  text-align: center;
+  padding: 5px;
+  border-bottom: 1px solid #000;
+  margin-left: 10px;
+}
+
+.roadmap{
+  display: inline-block;
+  position: absolute;
+}
+.roadmap .img {
+  display: inherit;
+  text-align: center;
+}
+.first-box-text {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    width: 150px;
+    color: #000;
+    left: 340px;
+    font-size: 14px;
+    border: 1px solid #8d9aa6;
+}
+
+ .sec-box-text {
+	display: inline-block;
+    position: absolute;
+    top: 70px;
+    color: #000;
+    left: 200px;
+    width: 150px;
+    font-size: 14px;
+    border: 1px solid #8d9aa6;
+}
+
+.tr-box-text {
+	display: inline-block;
+    position: absolute;
+    top: 170px;
+    width: 150px;
+	color: #000;
+	left: 340px;
+  font-size: 14px;
+  border: 1px solid #8d9aa6;
+}
+
+.fort-box-text {
+	display: inline-block;
+    position: absolute;
+    width: 150px;
+	top: 195px;
+    color: #000;
+    left: 100px;
+  font-size: 14px;
+  border: 1px solid #8d9aa6;
+}
+
+.fiv-box-text {
+	display: inline-block;
+    width: 150px;
+  position: absolute;
+    top: 240px;
+    color: #000;
+    left: 280px;
+  font-size: 14px;
+  border: 1px solid #8d9aa6;
+}
+
+ .six-box-text {
+	display: inline-block;
+    width: 150px;
+  position: absolute;
+    top: 290px;
+    color: #000;
+    left: 30px;
+  font-size: 14px;
+  border: 1px solid #8d9aa6;
+}
+
+ .sev-box-text {
+	display: inline-block;
+    width: 150px;
+  position: absolute;
+    top: 360px;
+    color: #000;
+    left: 200px;
+  font-size: 14px;
+  border: 1px solid #8d9aa6;
+}
+
+.eig-box-text {
+    display: inline-block;
+    width: 140px;
+    position: absolute;
+    top: 470px;
+    color: #000;
+    left: 160px;
+    font-size: 14px;
+    border: 1px solid #8d9aa6;
+}
+.button-col {
+	
+    justify-content: center;
+    position: relative;
+    display: flex;
+    padding: 30px;
+    width: 100%;
+    padding-left: 60px;
+}
+
+.button-col .print-btn {
+	display: inline;
+    padding: 10px 25px;
+    border: 3px solid #f16c20;
+    border-color: #f16c20;
+    border-radius: 30px;
+    color: #f16c20;
+    background: rgba(241,108,32,0.4);
+    font-size: 20px;
+    white-space: initial;
+    text-decoration: none;
+}
+.print-btn:hover {
+  border-color: #f16c20;
+  color: #fff;
+  background: #f16c20;
+  text-decoration: none;
+}
+
+.roda-vida {
+  display: inline !important;
+}
+.roda-vida, .h2 {
+  display: inline !important;
+  justify-content: center;
+  text-align: center;
+}
+
+.roda-vida, a{
+  display: block;
+  justify-content: center;
+} 

@@ -1,0 +1,87 @@
+.company{
+	font-family: verdana,arial,helvetica;
+	FONT-SIZE: 15px;
+	 color: #FFFFFF;
+	 font-weight:bold;
+}
+.slogan {
+	font-family: verdana,arial,helvetica;
+	FONT-SIZE: 11px;
+	 color: #FFFFFF;
+	 font-weight:bold;
+}
+.magin {
+	padding:5px;
+}
+
+table { font-size:100%;} body { font-size:76%;
+	margin:0;
+	padding:0;
+	background-image:url(images/bgindex.jpg);
+}
+a:active {color: #112DFE; text-decoration: underline;}
+a:link {color: #00B3FE; text-decoration: underline;}
+a:visited {color: #00B3FE; text-decoration: underline;}
+a:hover {color: #112DFE; text-decoration: underline;}
+
+a.hostlink:active {color: #000000; text-decoration:underline;font-size:9px;font-weight: bold;}
+a.hostlink:link {color: #000000; text-decoration:none;font-size:9px;font-weight: bold;}
+a.hostlink:visited {color: #000000; text-decoration:none;font-size:9px;font-weight: bold;}
+a.hostlink:hover {color: #000000; text-decoration:underline;font-size:9px;font-weight: bold;}
+
+.bgtop {
+	background-image:url(images/bgtop.jpg);
+}
+.line01 {
+	background-color:#8A8A8A;
+}
+.line02 {
+	background-color:#C0C0C0;
+}
+.line03 {
+	background-color:#8D8D8D;
+}
+.bg_expand {
+	background-image:url(images/bg_expand.jpg);
+}
+bgwhite {
+	background-color:#FFFFFF;
+}
+.bdrtable {
+	border-right:1px solid #C0C0C0;
+	border-left:1px solid #C0C0C0;
+}
+.bdrwhite {
+	border-right:1px solid #FFFFFF;
+	border-left:1px solid #FFFFFF;
+	border-bottom:1px solid #FFFFFF;
+}
+.bgshade {
+	background-image:url(images/shade.jpg);
+	border-right:1px solid #FFFFFF;
+	border-left:1px solid #FFFFFF;
+}
+.bgmenu {
+	background-color:#03BAFF;
+}
+
+.bgpowered {
+	background-image:url(images/bgpowered.jpg);
+	font-size:9px;
+	color:#000000;
+}
+.bgpowered2 {
+	background-image:url(images/bgpowered2.gif);
+	border:1px solid #000000;
+	font-weight:bold;
+	padding-left:2px;
+	padding-right:2px;
+}
+.marginpw {
+	padding-top:2px;
+	padding-bottom:2px;
+}
+.marginpw2 {
+	padding-left:2px;
+	padding-right:2px;
+}

@@ -1,0 +1,240 @@
+Return-path: <valdes@uol.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 14 Apr 2015 09:53:50 -0300
+Received: from a2-socom5-2.uol.com.br ([200.147.34.47]:59269 helo=smtps.uol.com.br)
+	by hserv20.homehost.com.br with esmtp (Exim 4.85)
+	(envelope-from <valdes@uol.com.br>)
+	id 1Yi0LR-0005UW-Fc
+	for marco@digitalfotoimagem.com.br; Tue, 14 Apr 2015 09:53:50 -0300
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by a2-socom7.uol.com.br (Postfix) with ESMTP id C8CECE00008A;
+	Tue, 14 Apr 2015 09:53:33 -0300 (BRT)
+X-UOL-SMTP: SMTPS587
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=uol.com.br; s=ubz;
+	t=1429016013; bh=T59KneUIEaa1ySDvv+Wi6Mnu6jU7OofjWOCiIkqCCz4=;
+	h=From:To:Cc:References:In-Reply-To:Subject:Date;
+	b=gGX7Zk3R/QejVq+mRwzWSHYDZ9yMoPvJtCmxdzBNQ9jxVABLYN54Cn0HAoCQ2b8Bw
+	 aGvJEzQx9TPQxlgHmSRMmZ2imbtRHRIXLorifTAzv/RCMILJDoB8Pt96tbQyl9Jp48
+	 qbGuCDVEt0cWsN3V3WjKLBib59phEXgRqg8n2TTo=
+Received: from WO (unknown [191.181.168.39])
+	(Authenticated sender: valdes@uol.com.br)
+	by a2-socom7.uol.com.br (Postfix) with ESMTPA id DBB57E000087;
+	Tue, 14 Apr 2015 09:52:54 -0300 (BRT)
+From: "valdes" <valdes@uol.com.br>
+To: "'Benedito Carlos Flaminio - Claro SP -'" <benedito.flaminio@claro.com.br>,
+	<marco@digitalfotoimagem.com.br>,
+	<chancelaria@crivodarazao.org.br>
+Cc: "'Alexandre Dias de Castro'" <xandedias.castro@gmail.com>,
+	"'Antonio Finardi'" <ma.finardi@hotmail.com>,
+	"'Enedino Alves Barbosa Filho'" <dino.abf@gmail.com>,
+	=?UTF-8?Q?'Fl=C3=A1vio_Ferrer'?= <flavio@crivodarazao.org.br>,
+	=?UTF-8?Q?'Jos=C3=A9_Doniseti_Luiz'?= <josedonisetiluiz@yahoo.com.br>,
+	"'Marcus Welbi Monte Verde'" <marcuswelbi@crivodarazao.org.br>,
+	"'Oswaldo dos Santos Junior'" <oswaldosantosjunior@gmail.com>,
+	"'Enedino Alves Barbosa Filho'" <enedino@crivodarazao.org.br>,
+	"'Veneravel Mestre'" <crivodarazao@crivodarazao.org.br>,
+	"'Antonio Carlos Kreme'" <ackack1969@yahoo.com.br>,
+	"'Antonio Carlos Rosseti'" <carlos.rossetti@uol.com.br>,
+	"'Arsenio de Paiva Lopes'" <arsenio.p.lopes@gmail.com>,
+	=?UTF-8?Q?'Jo=C3=A3o_Gambetti_Neto'?= <gambetti@gambetti.com.br>,
+	"'Marcilio MarchiTesta'" <mmtesta@uol.com.br>,
+	"'Dejair Bianchi'" <dejair.bianchi@uol.com.br>,
+	"'Claudio Auricchio Turi'" <ttturi@terra.com.br>,
+	"'Wanderley Caldana'" <w.caldana@uol.com.br>,
+	"'Luiz Carlos Bueno'" <fallcar@hotmail.com>,
+	"'Luis Mauricio Rodrigues'" <luiz_ma@hotmail.com>,
+	"'Jairo Dias'" <Jairo@rooftec.com.br>,
+	"'Helio Felix'" <helioamandara@uol.com.br>,
+	"'Marcos Patriniani'" <marckopat@live.com>,
+	"'Natanael Costa'" <ncosta@usa.com>,
+	"'Ordalino de Souza e Silva'" <titoss@ig.com.br>,
+	"'Marco Tulio de Mello'" <tmello@demello.net.br>,
+	"'Wlamir Lopes Sanches'" <wladsmozz@hotmail.com>,
+	=?UTF-8?Q?'Fabr=C3=ADcio_Takeshi_Murakami'?= <fabricio@crivodarazao.org.br>,
+	=?UTF-8?Q?'Rog=C3=A9rio_dos_Santos_Ota'?= <rogerio@crivodarazao.org.br>,
+	"'Fernando Colacioppo'" <falecom@redecolmeia.com.br>,
+	"'Douglas Klein Basso'" <douglas.klein@gmail.com>,
+	"'Gilberto Dante'" <gilbertodante@hotmail.com>,
+	"'Ernani Flausino'" <ecobom@ig.com.br>,
+	"'Rony Silvio Pereira de Souza'" <ronysilvio@gmail.com>
+References: <4a10f47077fe56e5509cc17dc981edfd@crivodarazao.org.br> <4072d9d21c7f6df1f77e2952e7cb2307@digitalfotoimagem.com.br> <89AD786C323CB940AF23DDCA30A8E2772B1D874D@camapua.claro.com.br>
+In-Reply-To: <89AD786C323CB940AF23DDCA30A8E2772B1D874D@camapua.claro.com.br>
+Subject: =?UTF-8?Q?RES:_=5BSPF_Softfail=5D_ANIVERS=C3=81RIAN?=
+	=?UTF-8?Q?TES_/_CRIVO_DA_RAZ=C3=83O?=
+Date: Tue, 14 Apr 2015 09:52:54 -0300
+Message-ID: <005701d076b2$03cf2df0$0b6d89d0$@uol.com.br>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQF5OUiiFLjBLWb6PDNlgTaCFp8WpgF0h8MsAu22C3Sd198ycA==
+Content-Language: pt-br
+X-SIG5: d83d9d98b7809cb009ffcd862a3233ba
+X-Spam-Status: No, score=-2.0
+X-Spam-Score: -19
+X-Spam-Bar: --
+X-Ham-Report: Spam detection software, running on the system "hserv20.homehost.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Não confirmo pois estarei viajando neste dia. Boa comemoração
+    a todos. TFA Ricardo de Méo -----Mensagem original----- De: Benedito Carlos
+    Flaminio - Claro SP - [mailto:benedito.flaminio@claro.com.br] Enviada em:
+    terça-feira, 14 de abril de 2015 09:14 Para: marco@digitalfotoimagem.com.br;
+    Alexandre Dias de Castro; Antonio Finardi; Enedino Alves Barbosa Filho; Flávio
+    Ferrer; José Doniseti Luiz; Marcus Welbi Monte Verde; Oswaldo dos Santos
+    Junior; Enedino Alves Barbosa Filho; Veneravel Mestre; Antonio Carlos Kreme;
+    Antonio Carlos Rosseti; Arsenio de Paiva Lopes; Ricardo de Mêo Fernandes;
+    João Gambetti Neto; Marcilio MarchiTesta; Dejair Bianchi; Claudio Auricchio
+    Turi; Wanderley Caldana; Luiz Carlos Bueno; Luis Mauricio Rodrigues; Jairo
+    Dias; Helio Felix; Marcos Patriniani; Natanael Costa; Ordalino de Souza e
+    Silva; Marco Tulio de Mello; Wlamir Lopes Sanches; Fabrício Takeshi Murakami;
+    Rogério dos Santos Ota; Fernando Colacioppo; Douglas Klein Basso; Gilberto
+    Dante; Ernani Flausino; Rony Silvio Pereira de Souza Assunto: RES: [SPF Softfail]
+    ANIVERSÁRIANTES / CRIVO DA RAZÃO [...] 
+ 
+ Content analysis details:   (-2.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: avgbrasil.com.br]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (valdes[at]uol.com.br)
+ -0.0 T_RP_MATCHES_RCVD      Envelope sender domain matches handover relay
+                             domain
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+N=C3=A3o confirmo pois estarei viajando neste dia.
+Boa comemora=C3=A7=C3=A3o a todos.
+TFA
+Ricardo de M=C3=A9o
+
+-----Mensagem original-----
+De: Benedito Carlos Flaminio - Claro SP - =
+[mailto:benedito.flaminio@claro.com.br]=20
+Enviada em: ter=C3=A7a-feira, 14 de abril de 2015 09:14
+Para: marco@digitalfotoimagem.com.br; chancelaria@crivodarazao.org.br
+Cc: Alexandre Dias de Castro; Antonio Finardi; Enedino Alves Barbosa =
+Filho; Fl=C3=A1vio Ferrer; Jos=C3=A9 Doniseti Luiz; Marcus Welbi Monte =
+Verde; Oswaldo dos Santos Junior; Enedino Alves Barbosa Filho; Veneravel =
+Mestre; Antonio Carlos Kreme; Antonio Carlos Rosseti; Arsenio de Paiva =
+Lopes; Ricardo de M=C3=AAo Fernandes; Jo=C3=A3o Gambetti Neto; Marcilio =
+MarchiTesta; Dejair Bianchi; Claudio Auricchio Turi; Wanderley Caldana; =
+Luiz Carlos Bueno; Luis Mauricio Rodrigues; Jairo Dias; Helio Felix; =
+Marcos Patriniani; Natanael Costa; Ordalino de Souza e Silva; Marco =
+Tulio de Mello; Wlamir Lopes Sanches; Fabr=C3=ADcio Takeshi Murakami; =
+Rog=C3=A9rio dos Santos Ota; Fernando Colacioppo; Douglas Klein Basso; =
+Gilberto Dante; Ernani Flausino; Rony Silvio Pereira de Souza
+Assunto: RES: [SPF Softfail] ANIVERS=C3=81RIANTES / CRIVO DA RAZ=C3=83O
+
+CONFIRMO MINHA PRESEN=C3=87A, 4 PESSOAS E DUAS CRIAN=C3=87AS.
+
+-----Mensagem original-----
+De: marco@digitalfotoimagem.com.br =
+[mailto:marco@digitalfotoimagem.com.br]
+Enviada em: segunda-feira, 13 de abril de 2015 20:11
+Para: chancelaria@crivodarazao.org.br
+Cc: Alexandre Dias de Castro; Antonio Finardi; Enedino Alves Barbosa =
+Filho; Fl=C3=A1vio Ferrer; Jos=C3=A9 Doniseti Luiz; Marcus Welbi Monte =
+Verde; Oswaldo dos Santos Junior; Enedino Alves Barbosa Filho; Veneravel =
+Mestre; Antonio Carlos Kreme; Antonio Carlos Rosseti; Arsenio de Paiva =
+Lopes; Ricardo de M=C3=AAo Fernandes; Jo=C3=A3o Gambetti Neto; Marcilio =
+MarchiTesta; Dejair Bianchi; Claudio Auricchio Turi; Wanderley Caldana; =
+Luiz Carlos Bueno; Benedito Carlos Flaminio - Claro SP -; Luis Mauricio =
+Rodrigues; Jairo Dias; Helio Felix; Marcos Patriniani; Natanael Costa; =
+Ordalino de Souza e Silva; Marco Tulio de Mello; Wlamir Lopes Sanches; =
+Fabr=C3=ADcio Takeshi Murakami; Rog=C3=A9rio dos Santos Ota; Fernando =
+Colacioppo; Douglas Klein Basso; Gilberto Dante; Ernani Flausino; Rony =
+Silvio Pereira de Souza
+Assunto: [SPF Softfail] ANIVERS=C3=81RIANTES / CRIVO DA RAZ=C3=83O
+
+Boa noite meus IIr.`.
+
+
+Na ultima se=C3=A7=C3=A3o foi levantado a quest=C3=A3o da data do dia =
+18/04 o qual ter=C3=A1 um feriado na sequ=C3=AAncia dia 21/04.
+
+Pois a altera=C3=A7=C3=A3o para o dia 1=C2=BA de Maio comprometeu duas =
+fam=C3=ADlias comparecerem.
+
+
+
+E n=C3=A3o foi feito o levantamento se alguma fam=C3=ADlia  n=C3=A3o =
+ir=C3=A1 no dia 1=C2=BA.
+
+
+Solicito a confirma=C3=A7=C3=A3o para meu e_mail quem ira no dia =
+1=C2=BA.
+
+Conversei com o Ir.`.Caca e assim na pr=C3=B3xima se=C3=A7=C3=A3o =
+definiremos se ser=C3=A1 melhor trocar a data ou manter o dia 21/04.
+
+
+Ass. Parise
+
+T.`.F.`.A.`.
+
+________________________________
+
+Esta mensagem, incluindo seus eventuais anexos, pode conter =
+informa=C3=A7=C3=B5es confidenciais, de uso restrito e/ou legalmente =
+protegidas. Se voc=C3=AA recebeu esta mensagem por engano, n=C3=A3o deve =
+usar, copiar, divulgar, distribuir ou tomar qualquer atitude com base =
+nestas informa=C3=A7=C3=B5es. Solicitamos que voc=C3=AA elimine a =
+mensagem imediatamente de seu sistema e avise-nos, enviando uma mensagem =
+diretamente para o remetente e para postmaster@claro.com.br. Todas as =
+opini=C3=B5es, conclus=C3=B5es ou informa=C3=A7=C3=B5es contidas nesta =
+mensagem somente ser=C3=A3o consideradas como provenientes da Claro ou =
+de suas subsidi=C3=A1rias quando efetivamente confirmadas, formalmente, =
+por um de seus representantes legais, devidamente autorizados para =
+tanto.
+-------------------------------------------------------------------------=
+-----
+Este mensaje, incluyendo sus eventuales archivos adjuntos, puede =
+contener informaciones confidenciales, de uso restringido y/o legalmente =
+protegidas. Si usted ha recibido este mensaje por error, no debe =
+utilizar, copiar, divulgar, distribuir o tomar cualquier actitud basada =
+en estas informaciones. Solicitamos la inmediata eliminaci=C3=B3n del =
+mensaje de su sistema y el env=C3=ADo de un informe en forma directa al =
+remitente y a postmaster@claro.com.br. Todas las opiniones, conclusiones =
+o informaciones contenidas en este mensaje solamente ser=C3=A1n =
+consideradas como provenientes de Claro o de sus subsidiarias cuando =
+sean efectivamente confirmadas, formalmente, a trav=C3=A9s de uno de sus =
+representantes legales debidamente autorizados a tal fin.
+-------------------------------------------------------------------------=
+-----
+This message, including all attachments transmitted with it may include =
+restricted, legally privileged, and/or confidential information. If you =
+received this message by mistake or in error you are hereby notified =
+that you must not use, publicize, copy, distribute, resend, or take any =
+action based on the information contained in the message. We ask you to =
+delete the message immediately from your system and advise us by sending =
+a message directly
+
+
+-----
+Nenhum v=C3=ADrus encontrado nessa mensagem.
+Verificado por AVG - www.avgbrasil.com.br
+Vers=C3=A3o: 2015.0.5863 / Banco de dados de v=C3=ADrus: 4331/9535 - =
+Data de Lan=C3=A7amento: 04/14/15
+
+-----
+Nenhum v=C3=ADrus encontrado nessa mensagem.
+Verificado por AVG - www.avgbrasil.com.br
+Vers=C3=A3o: 2015.0.5863 / Banco de dados de v=C3=ADrus: 4331/9535 - =
+Data de Lan=C3=A7amento: 04/14/15
+

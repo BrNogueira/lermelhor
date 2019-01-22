@@ -1,0 +1,86 @@
+Return-path: <n.f.e@dxcmg.com.br>
+Envelope-to: parise@digitalfotoimagem.com.br
+Delivery-date: Thu, 07 Jan 2016 11:40:36 -0200
+Received: from gpw2.dxcmg.com.br ([136.243.142.150]:50593)
+	by hserv20.homehost.com.br with esmtp (Exim 4.86)
+	(envelope-from <n.f.e@dxcmg.com.br>)
+	id 1aHAns-0007NO-By
+	for parise@digitalfotoimagem.com.br; Thu, 07 Jan 2016 11:40:36 -0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=adk1; d=dxcmg.com.br;
+ h=Date:To:From:Subject:Message-ID:Sender:MIME-Version:Content-Type; i=n.f.e@dxcmg.com.br;
+ bh=RxWfok49cSyhjEHm3IGl2AJ3OpQ=;
+ b=HXsllPzsAzKVivqjWAmahcYqg5+8Qmn1VeHCigTTzB0DmsaZuzGBHEAQFxN1hTSl3BO+SYCpSTeD
+   vdFdlzzO7jQUfgxm7h0OMi2x6Oy1sYRyGLUEZ25/4A6h8KUZJBt4SlLm/YqZBSyrb5ReEA84A2Cg
+   fAw+G8PfarrZnIDcwo4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=adk1; d=dxcmg.com.br;
+ b=F5+D3MHyrq4w0viRstAVuYRh4gIX7DjYtfYte/pT5M9Ez+o5l2GXkjRk2tW9kKG0GRleLdrwptCR
+   BBJMGKcGMg/TpDBrKlaSUMyHnUGjOjb1Knvyv6tzdvE+oN9Jv8dRDN8Nme/taIxOUKOg1EndvtK3
+   hOFeVegQaoXP41fbR+A=;
+Date: Thu, 7 Jan 2016 11:37:58 -0200
+To: parise@digitalfotoimagem.com.br
+From: Nota Fiscal <n.f.e@dxcmg.com.br>
+Subject: =?UTF-8?Q?Segue a nota fiscal.?=
+Message-ID: <6037223058f9df6b269c21f149912c85@dxcmg.com.br>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.9 (https://github.com/PHPMailer/PHPMailer/)
+Hash: 4bqx25ltmv1g35lhnf5gc6dgn85g95lnmftwk6j4mnxw5ltc43
+Sender: n.f.e@dxcmg.com.br
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_35980d6abcae391545520ff3061dabcd"
+
+This is a multi-part message in MIME format.
+
+--b1_35980d6abcae391545520ff3061dabcd
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Secretaria Municipal de Finan=C3=A7as de Campinas=0A=0AA FRASE DE SEGURAN=
+=C3=87A escolhida por voc=C3=AA para garantir a autenticidade deste e-mail =
+foi:=0AEVENTO: Emiss=C3=A3o de NFS-e=0AEsta mensagem refere-se =C3=A0 Nota =
+Fiscal Eletr=C3=B4nica de Servi=C3=A7os N=C2=BA.: 00445990, do prestador de=
+ servi=C3=A7os:=0ARAZ=C3=83O SOCIAL: SERASA S/A=0ACNPJ: 6373620001313=0APar=
+a o tomador de servi=C3=A7os:=0ANOME / RAZ=C3=83O SOCIAL: MERCATTO CASA COM=
+ERCIO DE ARTIGOS DE DECORACAO LTDA EPP=0ACNPJ/CPF: 05037282000115=0APara vi=
+sualiz=C3=A1-la acesse o link a seguir:=0A[http://nfse.campinas.sp.gov.br/N=
+otaFiscal/visualizar_nota_fiscal](https://bitly.com/22MA8If)=0A=0AAlternati=
+vamente, acesse o portal [http://nfse.campinas.sp.gov.br](https://bitly.com=
+/22MA8If) e verifique a autenticidade desta NFS-e informando os dados a seg=
+uir:=0ACNPJ do prestador: 62173620001313=0AN=C3=BAmero da NFS-e: 00545903=
+=0AC=C3=B3digo de Verifica=C3=A7=C3=A3o: dca467b5=0AInscri=C3=A7=C3=A3o Mun=
+icipal: 000465733=0AE-mail do Prestador:=0A=0A******Este e-mail foi enviado=
+ automaticamente pelo Sistema de Nota Fiscal de Servi=C3=A7os Eletr=C3=
+=B4nica (NFS-e) do munic=C3=ADpio de Campinas. Por Favor, n=C3=A3o responde=
+r.******=0A=0A=0AAtenciosamente,=0A=0A=0APrefeitura Municipal de Campinas=
+=0ASecretaria Municipal de Finan=C3=A7as de Campinas
+
+--b1_35980d6abcae391545520ff3061dabcd
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<pre>Secretaria Municipal de Finan=E7as de Campinas<br>=09=09<br>A FRASE DE=
+ SEGURAN=C7A escolhida por voc=EA para garantir a autenticidade deste e-mai=
+l foi: <br>EVENTO: Emiss=E3o de NFS-e <br>Esta mensagem refere-se =E0 Nota =
+Fiscal Eletr=F4nica de Servi=E7os N=BA.: 00445990, do prestador de servi=
+=E7os:<br>RAZ=C3O SOCIAL: SERASA S/A<br>CNPJ: 6373620001313<br>Para o tomad=
+or de servi=E7os:<br>NOME / RAZ=C3O SOCIAL: MERCATTO CASA COMERCIO DE ARTIG=
+OS DE DECORACAO LTDA EPP<br>CNPJ/CPF: 05037282000115<br>Para visualiz=
+=E1-la acesse o link a seguir:<br><a href=3D"https://bitly.com/22MA8If" tar=
+get=3D"_blank">http://nfse.campinas.sp.gov.br/NotaFiscal/visualizar_nota_fi=
+scal</a><br> <br>Alternativamente, acesse o portal  <a href=3D"https://bitl=
+y.com/22MA8If" target=3D"_blank">http://nfse.campinas.sp.gov.br</a> e verif=
+ique a autenticidade desta NFS-e informando os dados a seguir:<br>CNPJ do p=
+restador: 62173620001313<br>N=FAmero da NFS-e: 00545903<br>C=F3digo de Veri=
+fica=E7=E3o: dca467b5<br>Inscri=E7=E3o Municipal: 000465733<br>E-mail do Pr=
+estador: <br> <br>******Este e-mail foi enviado automaticamente pelo Sistem=
+a de Nota Fiscal de Servi=E7os Eletr=F4nica (NFS-e) do munic=EDpio de Campi=
+nas. Por Favor, n=E3o responder.******<br> <br> <br>   Atenciosamente,<br> =
+<br> <br>   Prefeitura Municipal de Campinas<br>   Secretaria Municipal de =
+Finan=E7as de Campinas<br> <br></pre><img src=3D"http://srv-img.dxcmg.com.b=
+r/pas-2372769845?99111869-4bqx25ltmv1g35lhnf5gc6dgn85g95lnmftwk6j4mnxw5ltc4=
+3" height=3D"1" width=3D"1" alt=3D"e0c0a7a0448f28fc60831169ab230843" border=
+=3D"0" />
+
+
+--b1_35980d6abcae391545520ff3061dabcd--
+

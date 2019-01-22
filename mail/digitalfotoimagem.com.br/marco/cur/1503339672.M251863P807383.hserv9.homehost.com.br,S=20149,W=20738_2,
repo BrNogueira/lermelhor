@@ -1,0 +1,589 @@
+Return-Path: <585-GGD-959.0.15420.0.0.9054.9.5170223@em-sj-77.mktomail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id ecfYCpgkm1nXUQwAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Mon, 21 Aug 2017 15:21:12 -0300
+Return-path: <585-GGD-959.0.15420.0.0.9054.9.5170223@em-sj-77.mktomail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Mon, 21 Aug 2017 15:21:12 -0300
+Received: from delapparentia.mktdns.com ([192.28.146.180]:32956)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <585-GGD-959.0.15420.0.0.9054.9.5170223@em-sj-77.mktomail.com>)
+	id 1djrK3-003Pax-IV
+	for marco@digitalfotoimagem.com.br; Mon, 21 Aug 2017 15:21:12 -0300
+X-MSFBL: bWFyY29AZGlnaXRhbGZvdG9pbWFnZW0uY29tLmJyQGR2cC0xOTItMjgtMTQ2LTE4
+	MEBiZy1zamQtMjg5QDU4NS1HR0QtOTU5OjU4MTA6ODAwNTozMTA1MDowOjkwNTQ6
+	OToxNTQyMDo1MTcwMjIz
+Received: from [10.0.87.249] ([10.0.87.249:57817] helo=sjmas03.marketo.org)
+	by sjmta01.marketo.org (envelope-from <info@magento.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTP
+	id 18/4A-21314-9642B995; Mon, 21 Aug 2017 13:20:25 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1503339625;
+	s=m1; d=magento.com; i=@magento.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=mKCoh1QxaaZbH9+fKdA6faUzp4d0axhSmQ5QBia0gLg=;
+	b=nvu8zHXfRG2lc5Pw676zWaPpOrHMINEROlFavkXV1COmuvF8L4wmSB5GoG37bJda
+	iMlKosHwwGKpBw3mHsHhkSVynK/Ja71gzNL8dKeMQbVphbGbVL5L/sh35gXxnrACHWv
+	IbQKFzeTxVA+J0MWApBZWYBokFv8C6vvpkfSuC4E=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1503339625;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=mKCoh1QxaaZbH9+fKdA6faUzp4d0axhSmQ5QBia0gLg=;
+	b=ZPd9Th/bbUsxiZjCBfylQJxYq0OOJH0iHhIDE/xTTmz0NH1Q9vKT66oQZkPfWe2d
+	eQbEy/owkteiLQPG7Vm5xgbjIXnSOx4AGJi1NAy5m0SEtlJCKG4Sd0GRGHG0jBXFFKT
+	jNZOgvFcJGvyH2ZWAP4bGQEr8GhjDFzdwWUbpJkY=
+Date: Mon, 21 Aug 2017 13:20:25 -0500 (CDT)
+From: Magento <info@magento.com>
+Reply-To: info@magento.com
+To: marco@digitalfotoimagem.com.br
+Message-ID: <2077215973.-1490754354.1503339625938.JavaMail.root@sjmas03.marketo.org>
+Subject: Magento - Connect Update & Marketplace Extensions of the Month
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_-1490754355_440461093.1503339625937"
+X-Binding: bg-sjd-289
+X-MarketoID: 585-GGD-959:5810:8005:31050:0:9054:9:15420:5170223
+X-MktArchive: false
+List-Unsubscribe: <mailto:GFLESNCONZZGOWKPGY3U43TDGRUWUTTTG5AT2PI.15420.9054.9@unsub-sj.mktomail.com>
+X-Mailfrom: 585-GGD-959.0.15420.0.0.9054.9.5170223@em-sj-77.mktomail.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+
+------=_Part_-1490754355_440461093.1503339625937
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Check out=C2=A0these 5 awesome=C2=A0extensions=C2=A0for the month of August=
+!
+
+Dear Marco,=20
+=20
+
+We built Marketplace <http://email2.magento.com/wG0DqlsGX0000H9B00H2e0F> to=
+ deliver better experiences for our merchants, partners, and developers. On=
+ly extensions that have been carefully vetted are available, and this helps=
+ us ensure that Marketplace represents the best that our community has to o=
+ffer. It=E2=80=99s been just over a year since we launched Marketplace and =
+it now has over 1,500 extensions, posted by 450 developers and partners, wi=
+th over 100K transactions to date.
+=20
+With continued growth and adoption of Marketplace, we are closing Connect o=
+n September 15, 2017. Going forward, all web traffic to Connect will be red=
+irected to Marketplace.
+
+
+
+
+As you're developing and enhancing your eCommerce experience, we'd like to =
+highlight some new and noteworthy extensions every month. Check out these a=
+nd many more on Marketplace!
+
+
+
+
+SMTP Email Settings by Amasty
+Test=C2=A0your SMTP settings before sending emails - M2 <http://email2.mage=
+nto.com/tsDH2H0FG00XC00qGl0009f>
+=20
+Nosto by Nosto Solutions Ltd.
+Powerful personalization made easy - M1 <http://email2.magento.com/s0gF0X90=
+0GqD0G0HlH20s0D>, M2 <http://email2.magento.com/K00HlGG00XFh2Es0H09q0D0>
+=20
+Connect Xero by Fooman
+Quickly and easily link with Xero - M2 <http://email2.magento.com/ds0XH9iqF=
+H0D000GlF020G0>
+=20
+NetSuite SmartConnector by Celigo
+Streamline back office operations with=20
+prebuilt NetSuite ERP - M1 <http://email2.magento.com/lFGHG000X90H0D2sl0q0j=
+0G>, M2 <http://email2.magento.com/m000qH20l0Hs9XH0GFk0GD0>
+=20
+Store Locator by Krish TechnoLabs
+Locate your physical stores on Google Maps - M2 <http://email2.magento.com/=
+Mq0D0H00GFl9s00IX0HG0l2>
+=20
+
+
+
+Need something else for your site? Visit Magento Marketplace=C2=A0and searc=
+h for what you need!=20
+=20
+
+
+
+
+Explore the Marketplace <http://email2.magento.com/SG0D2s00X0l0qGH0900FHJm>
+
+
+
+
+
+
+
+
+Thank you,=20
+The Magento Team
+<p style=3D"mso-table-lspace: 0; mso-table-rspace: 0; margin: 0;">This emai=
+l was sent to you because you have agreed to receive information about our =
+services. We will only use your information in accordance with our privacy =
+policy. To unsubscribe from our commercial mailing list, please click <a st=
+yle=3D"text-decoration: none; font-weight: bold; color: #ef672f;" href=3D "=
+http://email2.magento.com/iNFG0qG9HqX00s0000H2D0l" >here</a>.<br /> Copyrig=
+ht&copy; 2017 Magento, Inc. All rights reserved. Magento, Inc. is located a=
+t <span class=3D"appleLinksGrey">10451 Jefferson Blvd., Culver City, CA 902=
+32</span></p>
+
+-
+
+------=_Part_-1490754355_440461093.1503339625937
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>=20
+<title>Magento</title>=20
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+=20
+<meta name=3D"viewport" content=3D"width=3Ddevice-width; initial-scale=3D1.=
+0; maximum-scale=3D1.0;">=20
+<style type=3D"text/css">
+/* ********** webfont ********** */
+@font-face {
+        font-family: 'Graphik';
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-R=
+egular.eot');
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-R=
+egular.eot?#iefix') format('embedded-opentype'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Regular.woff2') format('woff2'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Regular.woff') format('woff'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Regular.ttf') format('truetype'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Regular.svg#Graphik-Regular') format('svg');
+        font-weight: normal;
+        font-style: normal;
+}
+
+@font-face {
+        font-family: 'Graphik';
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-B=
+old.eot');
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-B=
+old.eot?#iefix') format('embedded-opentype'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Bold.woff2') format('woff2'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Bold.woff') format('woff'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Bold.ttf') format('truetype'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Bold.svg#Graphik-Bold') format('svg');
+        font-weight: bold;
+        font-style: normal;
+}
+
+@font-face {
+        font-family: 'Graphik';
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-L=
+ight.eot');
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-L=
+ight.eot?#iefix') format('embedded-opentype'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Light.woff2') format('woff2'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Light.woff') format('woff'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Light.ttf') format('truetype'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Light.svg#Graphik-Light') format('svg');
+        font-weight: 300;
+        font-style: normal;
+}
+@media {
+body {font-family: 'Graphik', sans-serif !important; font-weight:300 !impor=
+tant;}      =20
+* {font-family: 'Graphik', sans-serif !important;}
+}
+/* ********** webfont end ********** */
+
+body {
+        text-align: left;
+        font-family:  Arial, Helvetica, sans-serif;
+        -webkit-text-size-adjust: none;
+        font-size:16px;
+        line-height:22px;
+        color:#626366;
+}
+* {
+        font-family:  Arial, Helvetica, sans-serif;
+}
+img {
+        border: none;
+}
+
+@media only screen and (max-width: 480px) {
+  .table100 {width: 100% !important;float: none !important;}
+  .respPad {padding:0 20px !important;}
+  #altViewContainer { padding:17px 0 !important;}
+  #logoContainer { padding:13px 0 !important;}
+  #logo { text-align:center !important;}
+  #headline { font-size:28px !important; line-height:34px !important;}
+  #ctaContainer { padding-top:22px !important;}
+  #cta_leftColPad { padding:0 !important;}
+  #CTA_copy { font-size:24px !important; line-height:30px !important;}
+  #cta_button { width:100% !important;}
+  #cta_graphic_container { display:none !important;}
+  #ctaBTN { padding:16px 33px !important;}
+  #footerContainer { padding:17px 0 !important;}
+}
+</style>=20
+<style type=3D"text/css">
+=20
+@media (max-width:599px) {=20
+.hide-md {display: none !important;}=20
+}=20
+</style>=20
+</head>=20
+<body bgcolor=3D"#FFFFFF" style=3D"margin:0px; padding:0px; "><style type=
+=3D"text/css">div#emailPreHeader{ display: none !important; }</style><div i=
+d=3D"emailPreHeader" style=3D"mso-hide:all; visibility:hidden; opacity:0; c=
+olor:transparent; mso-line-height-rule:exactly; line-height:0; font-size:0p=
+x; overflow:hidden; border-width:0; display:none !important;">[Thursday, No=
+v 17, 2016]=C2=A0between=C2=A0[4pm and 5pm PST]</div>=20
+<div align=3D"center" style=3D"">=20
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"background:#fff; " class=3D"table100">=20
+<!-- alternate view -->=20
+<tbody>=20
+<tr style=3D"">=20
+<td id=3D"altViewContainer" valign=3D"top" style=3D"padding:23px 0; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"padding:0 20px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td id=3D"altViewCopy" class=3D"mktEditable" style=3D"text-align:center; fo=
+nt-size:13px; line-height:17px; color:#26a2aa; ">
+<div>=20
+<br>=20
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+<!-- alternate view end -->=20
+<!-- logo -->=20
+<tr style=3D"">=20
+<td id=3D"logoContainer" valign=3D"top" style=3D"padding:28px 0; border-top=
+:solid 1px #d8d9da; border-left:solid 1px #d8d9da; border-right:solid 1px #=
+d8d9da; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"padding:0 34px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td style=3D"text-align:left; " id=3D"logo" class=3D"mktEditable"><img src=
+=3D"https://info2.magento.com/rs/585-GGD-959/images/MGO-999R-email-logo.png=
+" height=3D"42" width=3D"152" alt=3D""></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+<!-- logo end -->=20
+<!-- hero -->=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 0; height:25px; background:#f16323;">=
+</td>=20
+</tr>=20
+<!-- hero end -->=20
+<!-- CTA -->=20
+<tr style=3D"">=20
+<td id=3D"ctaContainer" valign=3D"top" style=3D"padding:0 0; border-left:so=
+lid 1px #d8d9da; border-right:solid 1px #d8d9da; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" styl=
+e=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"padding:0 0; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" styl=
+e=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"">=20
+<!-- column 1 (left) -->=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" widt=
+h=3D"340" class=3D"table100" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"padding:30px 0 0 30px; " id=3D"cta_leftColPad">=
+=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td id=3D"CTA_copy" class=3D"mktEditable" style=3D"font-size:28px; line-hei=
+ght:34px; font-weight:normal; color:#626366; padding-bottom:15px; ">
+<div>
+Check out&nbsp;these 5 awesome&nbsp;extensions&nbsp;for the month of August=
+!
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!-- column 2 (right) -->=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"right" wid=
+th=3D"200" class=3D"table100" id=3D"cta_graphic_container" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"padding:0 17px 0 0; ">=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td id=3D"CTA_graphic" class=3D"mktEditable" valign=3D"top" style=3D""><img=
+ src=3D"https://info2.magento.com/rs/585-GGD-959/images/MGO-999R-email-CTA_=
+graphic.png" height=3D"146" width=3D"200" alt=3D""></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+<!-- CTA end -->=20
+<!-- main body -->=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"padding:35px 0; border-left:solid 1px #d8d9da; =
+border-right:solid 1px #d8d9da; border-bottom:solid 1px #d8d9da; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" styl=
+e=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"padding:0 30px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" styl=
+e=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"">=20
+<!-- column 1 (left) -->=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" widt=
+h=3D"510" class=3D"table100" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td id=3D"bodyCopy" class=3D"mktEditable" style=3D"padding:0 0 20px; font-s=
+ize:16px; line-height:22px; color:#626366; font-weight:300; ">=20
+<div>
+Dear Marco,=20
+<br>=20
+<br>
+</div>=20
+<div>
+We built=20
+<a href=3D
+"http://email2.magento.com/wG0DqlsGX0000H9B00H2e0F" target=3D"_blank" id=3D=
+""
+>Marketplace</a> to deliver better experiences for our merchants, partners,=
+ and developers. Only extensions that have been carefully vetted are availa=
+ble, and this helps us ensure that Marketplace represents the best that our=
+ community has to offer. It=E2=80=99s been just over a year since we launch=
+ed Marketplace and it now has over 1,500 extensions, posted by 450 develope=
+rs and partners, with over 100K transactions to date.
+<br>=20
+<br>With continued growth and adoption of Marketplace, we are closing Conne=
+ct on September 15, 2017. Going forward, all web traffic to Connect will be=
+ redirected to Marketplace.
+</div>=20
+<div>
+<br>
+</div>=20
+<div>
+<br>
+</div>=20
+<div>
+As you're developing and enhancing your eCommerce experience, we'd like to =
+highlight some new and noteworthy extensions every month. Check out these a=
+nd many more on Marketplace!
+</div>=20
+<div>
+<br>
+</div>=20
+<div>
+<strong></strong>
+<br>
+</div>=20
+<div>
+<strong>SMTP Email Settings</strong> by Amasty
+<br>Test&nbsp;your SMTP settings before sending emails -=20
+<a href=3D
+"http://email2.magento.com/tsDH2H0FG00XC00qGl0009f" target=3D"_blank" id=3D=
+""
+>M2</a>
+<br>=20
+<br>
+<strong>Nosto</strong> by Nosto Solutions Ltd.
+<br>Powerful personalization made easy -=20
+<a href=3D
+"http://email2.magento.com/s0gF0X900GqD0G0HlH20s0D" target=3D"_blank" id=3D=
+""
+>M1</a>,=20
+<a href=3D
+"http://email2.magento.com/K00HlGG00XFh2Es0H09q0D0" target=3D"_blank" id=3D=
+""
+>M2</a>
+<br>=20
+<br>
+<strong>Connect Xero</strong> by Fooman
+<br>Quickly and easily link with Xero -=20
+<a href=3D
+"http://email2.magento.com/ds0XH9iqFH0D000GlF020G0" target=3D"_blank" id=3D=
+""
+>M2</a>
+<br>=20
+<br>
+<strong>NetSuite SmartConnector</strong> by Celigo
+<br>Streamline back office operations with prebuilt NetSuite ERP -=20
+<a href=3D
+"http://email2.magento.com/lFGHG000X90H0D2sl0q0j0G" target=3D"_blank" id=3D=
+""
+>M1</a>,=20
+<a href=3D
+"http://email2.magento.com/m000qH20l0Hs9XH0GFk0GD0" target=3D"_blank" id=3D=
+""
+>M2</a>
+<br>=20
+<br>
+<strong>Store Locator</strong> by Krish TechnoLabs
+<br>Locate your physical stores on Google Maps -=20
+<a href=3D
+"http://email2.magento.com/Mq0D0H00GFl9s00IX0HG0l2" target=3D"_blank" id=3D=
+""
+>M2</a>
+</div>=20
+<div>
+<strong></strong>=20
+<br>
+</div>=20
+<div>
+<br>
+</div>=20
+<div>
+Need something else for your site? Visit Magento Marketplace&nbsp;and searc=
+h for what you need!=20
+<br>=20
+<br>=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" id=3D"cta_button">=
+=20
+<tbody>=20
+<tr>=20
+<td id=3D"ctaBTN" style=3D"text-align: center; font-size: 14px; line-height=
+: 18px; font-weight: normal; color: #ffffff; background: #26a2aa; padding: =
+14px 33px;" mktoname=3D"ctaBTN"><a href=3D
+"http://email2.magento.com/SG0D2s00X0l0qGH0900FHJm" style=3D"color: #ffffff=
+; text-decoration: none;"
+>Explore the Marketplace</a></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<div>
+<br>
+</div>=20
+</div>=20
+<div>
+<br>
+</div>=20
+<div>
+Thank you,=20
+<br>The Magento Team
+</div>=20
+<div>
+<br>
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!-- column 2 (right) --> </td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+<!-- main body end -->=20
+<!-- footer -->=20
+<tr style=3D"">=20
+<td id=3D"footerContainer" valign=3D"top" style=3D"padding:25px 0; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"padding:0 20px; " class=3D"respPad">=20
+<div>
+ =C2=A9 Magento 2017=20
+</div>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td id=3D"footer" class=3D"mktEditable" style=3D"text-align:center; font-si=
+ze:13px; color:#aeafb1; "><p style=3D"mso-table-lspace: 0; mso-table-rspace=
+: 0; margin: 0;">This email was sent to you because you have agreed to rece=
+ive information about our services. We will only use your information in ac=
+cordance with our privacy policy. To unsubscribe from our commercial mailin=
+g list, please click <a style=3D"text-decoration: none; font-weight: bold; =
+color: #ef672f;" href=3D "http://email2.magento.com/iNFG0qG9HqX00s0000H2D0l=
+" >here</a>.<br /> Copyright&copy; 2017 Magento, Inc. All rights reserved. =
+Magento, Inc. is located at <span class=3D"appleLinksGrey">10451 Jefferson =
+Blvd., Culver City, CA 90232</span></p></td> =20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+<!-- footer end -->=20
+</tbody>=20
+</table>=20
+</div>=20
+<img src=3D"http://info.spearmarketing.com/rs/902-DBM-891/images/spacer.png=
+" class=3D"hide-md" border=3D"0" alt=3D"" width=3D"600" height=3D"1" hspace=
+=3D"0" vspace=3D"0" style=3D"width:600px;min-width:600px"> =20
+<a href=3D
+"http://email2.magento.com/AF0K0lGG20qs9HH00X0n00D"
+></a>
+<img src=3D"http://email2.magento.com/trk?t=3D1&mid=3DNTg1LUdHRC05NTk6NTgxM=
+Do4MDA1OjMxMDUwOjA6OTA1NDo5OjE1NDIwOjUxNzAyMjM6bWFyY29AZGlnaXRhbGZvdG9pbWFn=
+ZW0uY29tLmJy" width=3D"1" height=3D"1" style=3D"display:none !important;" a=
+lt=3D"" />
+
+<br>
+</body>
+</html>
+------=_Part_-1490754355_440461093.1503339625937--

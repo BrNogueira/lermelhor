@@ -1,0 +1,1397 @@
+Return-Path: <585-GGD-959.0.6314.0.0.6801.7.5170223@em-sj-77.mktomail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id wSA0OzQELliJ7AgAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Thu, 17 Nov 2016 17:25:41 -0200
+Return-path: <585-GGD-959.0.6314.0.0.6801.7.5170223@em-sj-77.mktomail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 17 Nov 2016 17:25:41 -0200
+Received: from delapparentia.mktdns.com ([192.28.146.180]:33557)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <585-GGD-959.0.6314.0.0.6801.7.5170223@em-sj-77.mktomail.com>)
+	id 1c7SJU-002TyA-QS
+	for marco@digitalfotoimagem.com.br; Thu, 17 Nov 2016 17:25:40 -0200
+X-MSFBL: bWFyY29AZGlnaXRhbGZvdG9pbWFnZW0uY29tLmJyQGR2cC0xOTItMjgtMTQ2LTE4
+	MEBiZy1zamQtMjg5QDU4NS1HR0QtOTU5OjIyMjY6NjMxNDoyMzY5NzowOjY4MDE6
+	Nzo1MTcwMjIz
+Received: from [10.0.87.249] ([10.0.87.249:51667] helo=sjmas03.marketo.org)
+	by sjmta05.marketo.org (envelope-from <events@magento.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTP
+	id 57/44-07165-0040E285; Thu, 17 Nov 2016 13:24:48 -0600
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1479410688;
+	s=m1; d=magento.com; i=@magento.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=M/S2bLIU9AEmJze5R9II2wE4D8R1sZDp4KJ8d7esizk=;
+	b=GMty9ZRyRydpiB+50BCD0tsCxl379pjRr1vY1jomedmz2/keoaYSwXKdVoCifZOF
+	c5t1sSniCVm7rhRdlIGQFNicKQ4AC9Me3sCK1RfLjGTgwUzIS+RljBNues5D07syd92
+	UdG5TuHIl0Z94qiCJCm+HXvTJ1GngZSD6dF9jues=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1479410688;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=M/S2bLIU9AEmJze5R9II2wE4D8R1sZDp4KJ8d7esizk=;
+	b=T4+G4JTeHbdW6AhB8CJ72JxdHrzD+M+xIbzyA5MLnDeN3cVYE3eWFSHuhXx4J7KK
+	0RfxkTwq+0MXuEWiKY5a/n/1PuzJSP/4TZsY1qdlREuWUnS4rJ11PtMdHf9T+QQfPh4
+	7BpWYzCmL1L83uh9cuSGsFWNQbhjHYcaEOKxfmpM=
+Date: Thu, 17 Nov 2016 13:24:48 -0600 (CST)
+From: Magento Events <events@magento.com>
+Reply-To: events@magento.com
+To: marco@digitalfotoimagem.com.br
+Message-ID: <1824447490.155059745.1479410688830.JavaMail.root@sjmas03.marketo.org>
+Subject: Monthly Magento Events & Education Newsletter
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_155059741_777294462.1479410688829"
+X-Binding: bg-sjd-289
+X-MarketoID: 585-GGD-959:2226:6314:23697:0:6801:7:5170223
+X-MktArchive: false
+List-Unsubscribe: <mailto:GFLESNCONZZGOWKPGY3U43TDGRUWUTTTG5AT2PI.6314.6801.7@unsub-sj.mktomail.com>
+X-Mailfrom: 585-GGD-959.0.6314.0.0.6801.7.5170223@em-sj-77.mktomail.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+
+------=_Part_155059741_777294462.1479410688829
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Magento Events, Community Events, Magento U Courses, and More.
+
+=C2=A0     =C2=A0    <http://email2.magento.com/Y0sld08qH00H0002XGG0iD4>   =
+<http://email2.magento.com/o02jq009d004HG0l0DGsHX0>    <http://email2.magen=
+to.com/Mq0D0H00Gdl4s00aX0HG0k2>    <http://email2.magento.com/a0200X04HG000=
+0bDlGqdlHs>      =C2=A0
+=C2=A0     =C2=A0   Events <http://email2.magento.com/TcqGd0H040000Gm20XlHs=
+D0>=C2=A0=E2=80=A2=C2=A0Webinars <http://email2.magento.com/E0s0G0HdGn00q0H=
+D2d0lX04>=C2=A0=E2=80=A2=C2=A0Magento U <http://email2.magento.com/Y0sld0eq=
+H00H0002XGG0oD4> November=C2=A02016   =C2=A0     =C2=A0
+Imagine 2017 Las Vegas, Nevada=C2=A0|=C2=A0April 3-5 =C2=A0 Save $200 on ti=
+ckets before the price increases on December 17.=C2=A0Watch the Imagine 201=
+7 trailer <http://email2.magento.com/SG0D2s00X0l0qGH0400dHfp> to learn more=
+ about the largest Magento gathering in the world.
+Register Now <http://email2.magento.com/y4dG0HHq0s0XDGq0lg00020>
+MagentoLive France 2017
+=20
+Paris, France | February 6-7=20
+
+=20
+Purchase your ticket before prices increase on December 1. Sponsorship oppo=
+rtunities are still available. Contact us <http://email2.magento.com/v0l00q=
+dr0sXDGHh4G02H000> today.
+Register Now <http://email2.magento.com/G4G0Dd200ilsG0sX0000HqH>
+Industry Events
+NRF Retail's Big Show 2017
+Learn More
+PARTNER & COMMUNITY EVENTS
+A Concrete Vision of Magento 2 Projects
+Learn More
+Real Shopping Experiences
+Learn More
+The Digital Future for B2B: Models, Best Practices and Solutions for B2B Co=
+mpanies
+Learn More
+Meet Magento Japan
+Learn More
+Magento Meetup Stammtisch Aachen
+Learn More
+Acumatica Summit
+Learn More
+MAGENTO U
+Requirements Discovery for Successful Magento 2 Implementations=20
+London=C2=A0|=C2=A0November 18
+Magento 2 Developer Boot Camp=20
+Berlin=C2=A0|=C2=A0November 21-24
+Core Principles for Theming in Magento 2=20
+Online=C2=A0|=C2=A0December 5-7
+Managing your Magento 2 Store=20
+Online=C2=A0|=C2=A0December 5-9 & 12-15
+Visit Magento U <http://email2.magento.com/XsX0HpG0q000Ddl0H024Gz0>
+<http://email2.magento.com/Y0sld08qH00H0002XGG0iD4>    <http://email2.magen=
+to.com/o02jq009d004HG0l0DGsHX0> =C2=A0  <http://email2.magento.com/Mq0D0H00=
+Gdl4s00aX0HG0k2> =C2=A0  <http://email2.magento.com/a0200X04HG0000bDlGqdlHs=
+> =C2=A0  <http://email2.magento.com/o02Dq00td004HG0l0DGsHX0>
+
+-
+
+------=_Part_155059741_777294462.1479410688829
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>=20
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+=20
+<meta name=3D"viewport" content=3D"width=3Ddevice-width; initial-scale=3D1;=
+ maximum-scale=3D1.0">=20
+<style type=3D"text/css">
+@import url(http://fonts.googleapis.com/css?family=3DOpen+Sans:400,700);
+body {
+        width: 100%;
+        background-color: #ffffff;
+        margin: 0;
+        padding: 0;
+        -webkit-font-smoothing: antialiased;
+}
+table {
+        border-collapse: collapse;
+}
+* {
+        -webkit-text-size-adjust: none;
+}
+@media only screen and (max-width: 601px) {
+.deviceWidth {
+        width: 100% !important;
+}
+#banner img {
+        width: 100% !important;
+}
+.content-padding {
+        padding: 0 7px !important;
+}
+table[class=3D"body"] img {
+        width: auto !important;
+        height: auto !important;
+}
+table[class=3D"body"] center {
+        min-width: 0 !important;
+}
+table[class=3D"body"] .container {
+        width: 95% !important;
+}
+table[class=3D"body"] .row {
+        width: 100% !important;
+        display: block !important;
+}
+table[class=3D"body"] .wrapper {
+        display: block !important;
+        padding-right: 0 !important;
+}
+table[class=3D"body"] .columns {
+        table-layout: fixed !important;
+        float: none !important;
+        width: 100% !important;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+        display: block !important;
+}
+table[class=3D"body"] .columns td.three {
+        width: 10% !important;
+        padding-left: 30px !important;
+}
+*[class].right-pad {
+        padding-right: 30px !important;
+        padding-left: 30px !important;
+}
+*[class].left-pad {
+        padding-left: 30px !important;
+}
+}
+@media only screen and (max-width: 300px) {
+.button {
+        padding: 8px !important;
+        font-size: 13px !important;
+}
+.bullet {
+        display: none !important;      =20
+}
+}
+.appleLinksWhite a {
+        color: #ffffff !important;
+        text-decoration: none;
+}
+.appleLinksBlack a {
+        color: #32302b;
+!important;
+        text-decoration: none;
+}
+.appleLinksGrey a {
+        color: #989287 !important;
+        text-decoration: none;
+}
+span.preheader {
+        display: none !important;
+}
+</style>=20
+<title></title>=20
+</head>=20
+<body style=3D""><span id=3D"emailPreHeader" style=3D"mso-hide:all; visibil=
+ity:hidden; opacity:0; color:transparent; mso-line-height-rule:exactly; lin=
+e-height:0; font-size:0; overflow:hidden; border-width:0; display:none !imp=
+ortant;">Magento Events, Community Events, Magento U Courses, and More.</sp=
+an>=20
+<span class=3D"preheader" style=3D"color: #ffffff">Grab your tickets for Ma=
+gentoLive Australia 2016.</span>=20
+<table bgcolor=3D"#555555" width=3D"100%" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"center" style=3D"">=20
+<tbody style=3D"">=20
+<tr style=3D"">=20
+<td width=3D"100%" valign=3D"top" style=3D"">=20
+<table bgcolor=3D"#FFFFFF" width=3D"600" class=3D"deviceWidth" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"">=20
+<tbody style=3D"">=20
+<!--ABOVE IS BEGINNING CODE FOR WRAPPER-->=20
+<!--BEGIN HEAD-->=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"">=20
+<div class=3D"mktEditable" id=3D"Header" style=3D"">
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" bgcolor=3D"#555555">=20
+<tbody>=20
+<tr>=20
+<td class=3D"content-padding" style=3D"padding:0 5px;">&nbsp;</td>=20
+<td>=20
+<table bgcolor=3D"#555555" width=3D"100%" class=3D"deviceWidth" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td height=3D"19" width=3D"552" style=3D"border-collapse:collapse; margin:0=
+; padding:0; line-height:1px;">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td valign=3D"top" alight=3D"left" bgcolor=3D"#555555"><a href=3D
+"http://email2.magento.com/Y0sld08qH00H0002XGG0iD4"
+><img src=3D"http://info2.magento.com/rs/magentosoftware/images/Magento-Log=
+o-Email-300.png" width=3D"150" alt=3D"Magento Logo" style=3D"display:inline=
+-block" border=3D"0"></a></td>=20
+<td align=3D"right"> <p style=3D"mso-table-lspace:0;mso-table-rspace:0; mar=
+gin:0;"><a href=3D
+"http://email2.magento.com/o02jq009d004HG0l0DGsHX0"
+><img src=3D"http://info2.magento.com/rs/magentosoftware/images/2014-social=
+footer-fb-white.png" alt=3D"Fb" width=3D"25" height=3D"25" border=3D"0"></a=
+></p> </td>=20
+<td align=3D"right" style=3D"padding-left:13px;"> <p style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0; margin:0;"><a href=3D
+"http://email2.magento.com/Mq0D0H00Gdl4s00aX0HG0k2"
+><img src=3D"http://info2.magento.com/rs/magentosoftware/images/2014-social=
+footer-tw-white.png" alt=3D"Tw" width=3D"25" height=3D"25" border=3D"0"></a=
+></p> </td>=20
+<td align=3D"right" style=3D"padding-left:13px;"> <p style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0; margin:0;"><a href=3D
+"http://email2.magento.com/a0200X04HG0000bDlGqdlHs"
+><img src=3D"http://info2.magento.com/rs/magentosoftware/images/2014-social=
+footer-yt-white.png" alt=3D"Yt" width=3D"25" height=3D"25" border=3D"0"></a=
+></p> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"content-padding" style=3D"padding:0 5px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table>
+</div> </td>=20
+</tr>=20
+<!--END HEAD-->=20
+<!--BEGIN NAV-->=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"">=20
+<div class=3D"mktEditable" style=3D"" id=3D"mkto_autogen_id_0">
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" bgcolor=3D"#555555">=20
+<tbody>=20
+<tr>=20
+<td class=3D"content-padding" style=3D"padding: 0 5px;">&nbsp;</td>=20
+<td>=20
+<table bgcolor=3D"#555555" width=3D"100%" class=3D"deviceWidth" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td height=3D"8" width=3D"552" style=3D"border-collapse: collapse; margin: =
+0; padding: 0; line-height: 1px;">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td valign=3D"top" alight=3D"left" style=3D"color: #ffffff;"><a href=3D
+"http://email2.magento.com/TcqGd0H040000Gm20XlHsD0" style=3D"text-align: le=
+ft; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #fff=
+fff; text-decoration: none;"
+>Events</a>&nbsp;=E2=80=A2&nbsp;<a href=3D
+"http://email2.magento.com/E0s0G0HdGn00q0HD2d0lX04" style=3D"text-align: le=
+ft; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #fff=
+fff; text-decoration: none;"
+>Webinars</a>&nbsp;=E2=80=A2&nbsp;<a href=3D
+"http://email2.magento.com/Y0sld0eqH00H0002XGG0oD4" style=3D"text-align: le=
+ft; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #fff=
+fff; text-decoration: none;" target=3D"_blank"
+>Magento U</a></td>=20
+<td valign=3D"top" alight=3D"right" style=3D"width: 150px; color: #ffffff; =
+text-align: right; font-family: Arial, Helvetica, sans-serif; font-size: 14=
+px; text-decoration: none; white-space: nowrap;">November&nbsp;2016</td>=20
+</tr>=20
+<tr>=20
+<td height=3D"8" width=3D"552" style=3D"border-collapse: collapse; margin: =
+0; padding: 0; line-height: 1px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"content-padding" style=3D"padding: 0 5px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table>
+</div> </td>=20
+</tr>=20
+<!--END NAV-->=20
+<!--Imagine 2017-->=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"">=20
+<tbody style=3D"">=20
+<tr style=3D"">=20
+<td class=3D"deviceWidth mktEditable" id=3D"Banner1" valign=3D"top" style=
+=3D""><p style=3D"mso-table-lspace: 0; mso-table-rspace: 0; margin: 0;"><im=
+g class=3D"deviceWidth" src=3D"https://info2.magento.com/rs/585-GGD-959/ima=
+ges/Imagine16v2.jpg" alt=3D"banner" style=3D"display: block;" width=3D"100%=
+" border=3D"0" constrain=3D"true" imagepreview=3D"false"></p></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Helvetica, sans-serif; font-size:14p=
+x; color:#858585; ">=20
+<tbody style=3D"">=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" align=3D"center" style=3D"text-align:center; font-family:Arial, Helvetic=
+a, sans-serif; font-size:14px; color:#858585; max-width:600px; ">=20
+<tbody style=3D"">=20
+<tr>=20
+<td height=3D"20">&nbsp;</td>=20
+</tr>=20
+<tr style=3D"">=20
+<td class=3D"content-padding" style=3D"padding:0 10px;">&nbsp;</td>=20
+<td style=3D"">=20
+<table width=3D"100%" align=3D"center" class=3D"deviceWidth" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:14px/16px 'Open San=
+s',sans-serif; color:#32302b; ">=20
+<tbody>=20
+<tr style=3D"">=20
+<td valign=3D"top" class=3D"mktEditable" id=3D"Body1" style=3D"text-align:l=
+eft; font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:=
+22px; color:#32302b; "><p style=3D"margin: 0; font-size: 18px;"><strong>Ima=
+gine 2017</strong></p> <p class=3D"appleLinksBlack" style=3D"margin: 0; fon=
+t-size: 16px;">Las Vegas, Nevada&nbsp;|&nbsp;April 3-5</p> <p style=3D"marg=
+in: 0;">&nbsp;</p> <p style=3D"margin: 0;">Save $200 on tickets before the =
+price increases on December 17.&nbsp;Watch the <a href=3D
+"http://email2.magento.com/SG0D2s00X0l0qGH0400dHfp" target=3D"_blank" style=
+=3D"color: #ef672f; text-decoration: none; font-weight: bold;"
+>Imagine 2017 trailer</a> to learn more about the largest Magento gathering=
+ in the world.</p></td>=20
+</tr>=20
+<tr align=3D"center" style=3D"">=20
+<td style=3D"">=20
+<table border=3D"0" cellspacing=3D"0" width=3D"200" cellpadding=3D"0" style=
+=3D"font-family:'Helvetica', 'Arial', sans-serif; font-size:16px; margin:0;=
+ color:#fff; ">=20
+<tbody>=20
+<tr>=20
+<td height=3D"20">&nbsp;</td>=20
+</tr>=20
+<tr align=3D"center" style=3D"">=20
+<td style=3D"">=20
+<table border=3D"0" cellspacing=3D"0" width=3D"200" cellpadding=3D"0" style=
+=3D"font-family:'Helvetica', 'Arial', sans-serif; font-size:16px; margin:0;=
+ color:#fff; ">=20
+<tbody>=20
+<tr style=3D"">=20
+<td bgcolor=3D"#EF672F" width=3D"200" style=3D"display:block; border-radius=
+:4px; font-family:'Helvetica', 'Arial', sans-serif; font-size:16px; margin:=
+0; padding:15px 20px; " class=3D"mktEditable" valign=3D"top" align=3D"cente=
+r" id=3D"mkto_autogen_id_1">
+<div>=20
+<a href=3D
+"http://email2.magento.com/y4dG0HHq0s0XDGq0lg00020" class=3D"button" style=
+=3D"text-decoration: none; color: #fff; padding: 0; margin: 0;" target=3D"_=
+blank"
+>Register Now</a>=20
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr>=20
+<td height=3D"20">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"content-padding" style=3D"padding:0 10px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--MagentoLive France 2017-->=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table class=3D"body" style=3D"border-spacing:0; border-collapse:collapse; =
+vertical-align:top; text-align:left; height:100%; width:100%; font-family:'=
+Helvetica', 'Arial', sans-serif; font-weight:normal; line-height:19px; font=
+-size:14px; margin:0; padding:0; ">=20
+<tbody>=20
+<tr>=20
+<td height=3D"5"></td>=20
+</tr>=20
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t">=20
+<td class=3D"center" align=3D"center" valign=3D"top" style=3D"word-break:br=
+eak-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-col=
+lapse:collapse !important; vertical-align:top; text-align:center; font-fami=
+ly:'Helvetica', 'Arial', sans-serif; font-weight:normal; line-height:19px;=
+=20
+font-size:14px; margin:0; padding:0; ">=20
+<center style=3D"width:100%; min-width:580px; ">=20
+<table class=3D"container" style=3D"border-spacing:0; border-collapse:colla=
+pse; vertical-align:top; text-align:inherit; width:580px; background:#fffff=
+f; padding:0; " bgcolor=3D"#FFFFFF">=20
+<!---->=20
+<tbody>=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table class=3D"row" style=3D"border-spacing:0; border-collapse:collapse; v=
+ertical-align:top; width:100%; position:relative; display:block; padding:0p=
+x; ">=20
+<tbody>=20
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t">=20
+<td class=3D"wrapper" align=3D"left" valign=3D"top" style=3D"">=20
+<table class=3D"five columns" style=3D"">=20
+<tbody>=20
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t">=20
+<td style=3D"vertical-align:top; margin:0; padding:25px 0px 0px 20px; " ali=
+gn=3D"center" valign=3D"top">=20
+<div class=3D"mktEditable" id=3D"graphic" style=3D"">
+<img src=3D"https://info2.magento.com/rs/585-GGD-959/images/MLFR_135x83.png=
+" alt=3D"graphic" border=3D"0">
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"wrapper last" style=3D"padding:5px 0px 0px; " align=3D"left" v=
+align=3D"top">=20
+<table class=3D"seven columns" style=3D"border-spacing:0; border-collapse:c=
+ollapse; vertical-align:top; text-align:left; width:100%; margin:0 auto; pa=
+dding:0; ">=20
+<tbody>=20
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t">=20
+<td align=3D"left" valign=3D"top" style=3D"">=20
+<table cellpadding=3D"0" cellspacing=3D"0" style=3D"">=20
+<tbody>=20
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t">=20
+<td colspan=3D"3" style=3D"font-family:Arial, Helvetica, sans-serif; font-s=
+ize:16px; color:#24292f; vertical-align:top; text-align:left; font-weight:n=
+ormal; line-height:19px; margin:0; padding:0px 20px; " align=3D"left" valig=
+n=3D"top">=20
+<div class=3D"mktEditable" id=3D"text4" style=3D"">
+<p style=3D"margin: 0;"><strong>MagentoLive France 2017</strong><br></p>=20
+<p style=3D"margin: 0; font-size: 14px;">Paris, France | February 6-7</p>=
+=20
+<p style=3D"margin: 0; font-size: 14px;"><br></p>=20
+<p style=3D"margin: 0; font-size: 14px;">Purchase your ticket before prices=
+ increase on December 1. Sponsorship opportunities are still available. <a =
+href=3D
+"http://email2.magento.com/v0l00qdr0sXDGHh4G02H000" target=3D"_blank" style=
+=3D"color: #ef672f; text-decoration: none; font-weight: bold;"
+>Contact us</a> today.</p>
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr>=20
+<td height=3D"5"></td>=20
+</tr>=20
+<tr align=3D"left" style=3D"">=20
+<td style=3D"">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-famil=
+y:'Helvetica', 'Arial', sans-serif; font-size:16px; margin:10px 20px; paddi=
+ng:20px; color:#fff; ">=20
+<tbody>=20
+<tr style=3D"">=20
+<td bgcolor=3D"#EF672F" style=3D"display:block; border-radius:4px; font-fam=
+ily:'Helvetica', 'Arial', sans-serif; font-size:16px; margin:0; padding:10p=
+x 15px; " class=3D"mktEditable" valign=3D"top" align=3D"left" id=3D"mkto_au=
+togen_id_2">
+<div>=20
+<a href=3D
+"http://email2.magento.com/G4G0Dd200ilsG0sX0000HqH" class=3D"button" style=
+=3D"text-decoration: none; color: #fff; padding: 0; margin: 0;" target=3D"_=
+blank"
+>Register Now</a>=20
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr>=20
+<td height=3D"5">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!---->=20
+</tbody>=20
+</table>=20
+</center></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--MagentoLive UK 2016-->=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table class=3D"body" style=3D"border-spacing:0; border-collapse:collapse; =
+vertical-align:top; text-align:left; height:100%; width:100%; font-family:'=
+Helvetica', 'Arial', sans-serif; font-weight:normal; line-height:19px; font=
+-size:14px; margin:0; padding:0; ">=20
+<tbody>=20
+<tr>=20
+<td height=3D"5"></td>=20
+</tr>=20
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t">=20
+<td class=3D"center" align=3D"center" valign=3D"top" style=3D"word-break:br=
+eak-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-col=
+lapse:collapse !important; vertical-align:top; text-align:center; font-fami=
+ly:'Helvetica', 'Arial', sans-serif; font-weight:normal; line-height:19px;=
+=20
+font-size:14px; margin:0; padding:0; ">=20
+<center style=3D"width:100%; min-width:580px; ">=20
+<table class=3D"container" style=3D"border-spacing:0; border-collapse:colla=
+pse; vertical-align:top; text-align:inherit; width:580px; background:#fffff=
+f; padding:0; " bgcolor=3D"#FFFFFF">=20
+<!---->=20
+<tbody>=20
+<tr>=20
+<td height=3D"5"></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</center></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--Industry Events-->=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Helvetica, sans-serif; font-size:14p=
+x; color:#fff; " bgcolor=3D"#555555">=20
+<tbody style=3D"">=20
+<tr style=3D"">=20
+<td class=3D"content-padding" style=3D"padding:0 5px;">&nbsp;</td>=20
+<td style=3D"">=20
+<table align=3D"center" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" style=3D"text-align:center; font-family:Arial, Helvetic=
+a, sans-serif; font-size:14px; ">=20
+<tbody style=3D"">=20
+<tr>=20
+<td height=3D"10">&nbsp;</td>=20
+</tr>=20
+<tr align=3D"center" style=3D"">=20
+<td width=3D"100%" valign=3D"center" align=3D"center" class=3D"mktEditable"=
+ id=3D"Header2" style=3D"text-align:center; font-family:Arial, Helvetica, s=
+ans-serif; font-size:16px; color:#ffffff; "><strong style=3D"mso-table-lspa=
+ce:0;mso-table-rspace:0; margin:0; display:block;=20
+text-transform:uppercase;">Industry Events</strong></td>=20
+</tr>=20
+<tr>=20
+<td height=3D"10">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"content-padding" style=3D"padding:0 5px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--NRF Retail's Big Show 2017-->=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Helvetica, sans-serif; font-size:14p=
+x; color:#858585; ">=20
+<tbody style=3D"">=20
+<tr bgcolor=3D"#FFFFFF" style=3D"">=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+<td style=3D"">=20
+<table width=3D"100%" border=3D"0" class=3D"deviceWidth" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"">=20
+<tbody style=3D"">=20
+<tr>=20
+<td colspan=3D"2" height=3D"32">&nbsp;</td>=20
+</tr>=20
+<tr style=3D"">=20
+<!--EVENT IMAGE-->=20
+<td valign=3D"top" align=3D"left" width=3D"30%" class=3D"mktEditable" style=
+=3D"" id=3D"mkto_autogen_id_48">
+<div>=20
+<img src=3D"https://info2.magento.com/rs/585-GGD-959/images/NRF.jpg" alt=3D=
+"Logo" width=3D"135" height=3D"83" constrain=3D"true" imagepreview=3D"false=
+">=20
+</div></td>=20
+<!--EVENT TEXT-->=20
+<td valign=3D"top" width=3D"70%" style=3D"text-align:left; font-family:Aria=
+l, Helvetica, sans-serif; font-size:14px; line-height:22px; color:#31302b; =
+padding-left:5px; "><strong class=3D"mktEditable" style=3D"font-size:15px; =
+padding:0px; display:block; " id=3D"mkto_autogen_id_49">NRF Retail's Big Sh=
+ow 2017</strong> <p class=3D"appleLinksBlack" style=3D"margin:5px 0px;">New=
+ York City, New York | January 15-17</p> <p class=3D"appleLinksBlack" style=
+=3D"margin:5px 0px;">Visit us at Booth 3755</p> <p class=3D"mktEditable" st=
+yle=3D"margin:5px 0px; " id=3D"mkto_autogen_id_50"></p> <strong style=3D"">=
+<a class=3D"mktEditable" href=3D
+"http://email2.magento.com/ds0XH4tqdH0D000Glj020G0" style=3D"color:#ef672f;=
+ text-decoration:none; " id=3D"mkto_autogen_id_51"
+><u>Learn More</u></a></strong></td>=20
+</tr>=20
+<tr>=20
+<td colspan=3D"2" height=3D"32">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--PARTNERS & COMMUNITY EVENTS-->=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Helvetica, sans-serif; font-size:14p=
+x; color:#fff; " bgcolor=3D"#555555">=20
+<tbody style=3D"">=20
+<tr style=3D"">=20
+<td class=3D"content-padding" style=3D"padding:0 5px;">&nbsp;</td>=20
+<td style=3D"">=20
+<table align=3D"center" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" style=3D"text-align:center; font-family:Arial, Helvetic=
+a, sans-serif; font-size:14px; ">=20
+<tbody style=3D"">=20
+<tr>=20
+<td height=3D"10">&nbsp;</td>=20
+</tr>=20
+<tr align=3D"center" style=3D"">=20
+<td width=3D"100%" valign=3D"center" align=3D"center" class=3D"mktEditable"=
+ style=3D"text-align:center; font-family:Arial, Helvetica, sans-serif; font=
+-size:16px; color:#ffffff; " id=3D"mkto_autogen_id_47"><strong style=3D"mso=
+-table-lspace:0;mso-table-rspace:0; margin:0; display:block;=20
+text-transform:uppercase;">PARTNER &amp; COMMUNITY EVENTS</strong></td>=20
+</tr>=20
+<tr>=20
+<td height=3D"10">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"content-padding" style=3D"padding:0 5px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--A Concrete Vision-->=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Helvetica, sans-serif; font-size:14p=
+x; color:#858585; ">=20
+<tbody style=3D"">=20
+<tr bgcolor=3D"#FFFFFF" style=3D"">=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+<td style=3D"">=20
+<table width=3D"100%" border=3D"0" class=3D"deviceWidth" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"">=20
+<tbody style=3D"">=20
+<tr>=20
+<td colspan=3D"2" height=3D"32">&nbsp;</td>=20
+</tr>=20
+<tr style=3D"">=20
+<!--EVENT IMAGE-->=20
+<td valign=3D"top" align=3D"left" width=3D"30%" class=3D"mktEditable" style=
+=3D"" id=3D"mkto_autogen_id_52">
+<div>=20
+<img src=3D"https://info2.magento.com/rs/585-GGD-959/images/x2i expert mage=
+nto.png" alt=3D"Logo" width=3D"135" height=3D"94" constrain=3D"true" imagep=
+review=3D"false">=20
+</div></td>=20
+<!--EVENT TEXT-->=20
+<td valign=3D"top" width=3D"70%" style=3D"text-align:left; font-family:Aria=
+l, Helvetica, sans-serif; font-size:14px; line-height:22px; color:#31302b; =
+padding-left:5px; "><strong class=3D"mktEditable" style=3D"font-size:15px; =
+padding:0px; display:block; " id=3D"mkto_autogen_id_53">A Concrete Vision o=
+f Magento 2 Projects</strong> <p class=3D"appleLinksBlack" style=3D"margin:=
+5px 0px;"><em>Presented by X2i</em></p> <p class=3D"appleLinksBlack" style=
+=3D"margin:5px 0px;">France and Switzerland | November 17 - December 15</p>=
+ <p class=3D"mktEditable" style=3D"margin:5px 0px; " id=3D"mkto_autogen_id_=
+54"></p> <strong style=3D""><a class=3D"mktEditable" href=3D
+"http://email2.magento.com/v0l00qdu0sXDGHk4G02H000" style=3D"color:#ef672f;=
+ text-decoration:none; " id=3D"mkto_autogen_id_55"
+><u>Learn More</u></a></strong></td>=20
+</tr>=20
+<tr>=20
+<td colspan=3D"2" height=3D"32">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--Real Shopping-->=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Helvetica, sans-serif; font-size:14p=
+x; color:#858585; ">=20
+<tbody style=3D"">=20
+<tr bgcolor=3D"#E7E6E6" style=3D"">=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+<td style=3D"">=20
+<table width=3D"100%" border=3D"0" class=3D"deviceWidth" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"">=20
+<tbody style=3D"">=20
+<tr>=20
+<td colspan=3D"2" height=3D"32">&nbsp;</td>=20
+</tr>=20
+<tr style=3D"">=20
+<!--EVENT IMAGE-->=20
+<td valign=3D"top" align=3D"left" width=3D"30%" class=3D"mktEditable" style=
+=3D"" id=3D"mkto_autogen_id_19">
+<div>=20
+<img src=3D"https://info2.magento.com/rs/585-GGD-959/images/journalarticolo=
+_FILOBLUALONDRA.jpg  1440%C3%97449 .png" alt=3D"Logo" width=3D"135" height=
+=3D"83" constrain=3D"true" imagepreview=3D"false">=20
+</div></td>=20
+<!--EVENT TEXT-->=20
+<td valign=3D"top" width=3D"70%" style=3D"text-align:left; font-family:Aria=
+l, Helvetica, sans-serif; font-size:14px; line-height:22px; color:#31302b; =
+padding-left:5px; "><strong class=3D"mktEditable" style=3D"font-size:15px; =
+padding:0px; display:block; " id=3D"mkto_autogen_id_20">Real Shopping Exper=
+iences</strong> <p class=3D"appleLinksBlack" style=3D"margin:5px 0px;"><em>=
+Presented by Filoblu</em></p> <p class=3D"appleLinksBlack" style=3D"margin:=
+5px 0px;">Milan, Italy | November 22</p> <p class=3D"mktEditable" style=3D"=
+margin:5px 0px; " id=3D"mkto_autogen_id_21"></p> <strong style=3D""><a clas=
+s=3D"mktEditable" href=3D
+"http://email2.magento.com/ds0XH4vqdH0D000Gll020G0" style=3D"color:#ef672f;=
+ text-decoration:none; " id=3D"mkto_autogen_id_22"
+><u>Learn More</u></a></strong></td>=20
+</tr>=20
+<tr>=20
+<td colspan=3D"2" height=3D"32">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--The Digital Future-->=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Helvetica, sans-serif; font-size:14p=
+x; color:#858585; ">=20
+<tbody style=3D"">=20
+<tr bgcolor=3D"#FFFFFF" style=3D"">=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+<td style=3D"">=20
+<table width=3D"100%" border=3D"0" class=3D"deviceWidth" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"">=20
+<tbody style=3D"">=20
+<tr>=20
+<td colspan=3D"2" height=3D"32">&nbsp;</td>=20
+</tr>=20
+<tr style=3D"">=20
+<!--EVENT IMAGE-->=20
+<td valign=3D"top" align=3D"left" width=3D"30%" class=3D"mktEditable" style=
+=3D"" id=3D"mkto_autogen_id_23">
+<div>=20
+<img src=3D"https://info2.magento.com/rs/585-GGD-959/images/alpenite-logo-2=
+016-180x451.png" alt=3D"Logo" width=3D"135" height=3D"34" constrain=3D"true=
+" imagepreview=3D"false">=20
+</div></td>=20
+<!--EVENT TEXT-->=20
+<td valign=3D"top" width=3D"70%" style=3D"text-align:left; font-family:Aria=
+l, Helvetica, sans-serif; font-size:14px; line-height:22px; color:#31302b; =
+padding-left:5px; "><strong class=3D"mktEditable" style=3D"font-size:15px; =
+padding:0px; display:block; " id=3D"mkto_autogen_id_24">The Digital Future =
+for B2B: Models, Best Practices and Solutions for B2B Companies</strong> <p=
+ class=3D"appleLinksBlack" style=3D"margin:5px 0px;"><em>Presented by Alpen=
+ite</em></p> <p class=3D"appleLinksBlack" style=3D"margin:5px 0px;">Milan, =
+Italy | November 22</p> <p class=3D"mktEditable" style=3D"margin:5px 0px; "=
+ id=3D"mkto_autogen_id_25"></p> <strong style=3D""><a class=3D"mktEditable"=
+ href=3D
+"http://email2.magento.com/q4DG0s00Xm0qld02G0Hw00H" style=3D"color:#ef672f;=
+ text-decoration:none; " id=3D"mkto_autogen_id_26"
+><u>Learn More</u></a></strong></td>=20
+</tr>=20
+<tr>=20
+<td colspan=3D"2" height=3D"32">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--Meet Magento Japan-->=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Helvetica, sans-serif; font-size:14p=
+x; color:#858585; ">=20
+<tbody style=3D"">=20
+<tr bgcolor=3D"#E7E6E6" style=3D"">=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+<td style=3D"">=20
+<table width=3D"100%" border=3D"0" class=3D"deviceWidth" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"">=20
+<tbody style=3D"">=20
+<tr>=20
+<td colspan=3D"2" height=3D"32">&nbsp;</td>=20
+</tr>=20
+<tr style=3D"">=20
+<!--EVENT IMAGE-->=20
+<td valign=3D"top" align=3D"left" width=3D"30%" class=3D"mktEditable" style=
+=3D"" id=3D"mkto_autogen_id_28">
+<div>=20
+<img src=3D"https://info2.magento.com/rs/585-GGD-959/images/092014_meet_mag=
+ento.jpg" alt=3D"Logo" width=3D"135" height=3D"83" constrain=3D"true" image=
+preview=3D"false">=20
+</div></td>=20
+<!--EVENT TEXT-->=20
+<td valign=3D"top" width=3D"70%" style=3D"text-align:left; font-family:Aria=
+l, Helvetica, sans-serif; font-size:14px; line-height:22px; color:#31302b; =
+padding-left:5px; "><strong class=3D"mktEditable" style=3D"font-size:15px; =
+padding:0px; display:block; " id=3D"mkto_autogen_id_29">Meet Magento Japan<=
+/strong> <p class=3D"appleLinksBlack" style=3D"margin:5px 0px;"><em>Present=
+ed by Veriteworks</em></p> <p class=3D"appleLinksBlack" style=3D"margin:5px=
+ 0px;">Tokyo, Japan | November 22</p> <p class=3D"mktEditable" style=3D"mar=
+gin:5px 0px; " id=3D"mkto_autogen_id_30"></p> <strong style=3D""><a class=
+=3D"mktEditable" href=3D
+"http://email2.magento.com/v0l00qdx0sXDGHn4G02H000" style=3D"color:#ef672f;=
+ text-decoration:none; " id=3D"mkto_autogen_id_31"
+><u>Learn More</u></a></strong></td>=20
+</tr>=20
+<tr>=20
+<td colspan=3D"2" height=3D"32">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--Magento Meetup Stammtisch Aachen-->=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Helvetica, sans-serif; font-size:14p=
+x; color:#858585; ">=20
+<tbody style=3D"">=20
+<tr bgcolor=3D"#FFFFFF" style=3D"">=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+<td style=3D"">=20
+<table width=3D"100%" border=3D"0" class=3D"deviceWidth" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"">=20
+<tbody style=3D"">=20
+<tr>=20
+<td colspan=3D"2" height=3D"32">&nbsp;</td>=20
+</tr>=20
+<tr style=3D"">=20
+<!--EVENT IMAGE-->=20
+<td valign=3D"top" align=3D"left" width=3D"30%" class=3D"mktEditable" style=
+=3D"" id=3D"mkto_autogen_id_32">
+<div>=20
+<img src=3D"https://info2.magento.com/rs/585-GGD-959/images/MagentoStammtis=
+ch.jpeg" alt=3D"Logo" width=3D"135" height=3D"135" constrain=3D"true" image=
+preview=3D"false">=20
+</div></td>=20
+<!--EVENT TEXT-->=20
+<td valign=3D"top" width=3D"70%" style=3D"text-align:left; font-family:Aria=
+l, Helvetica, sans-serif; font-size:14px; line-height:22px; color:#31302b; =
+padding-left:5px; "><strong class=3D"mktEditable" style=3D"font-size:15px; =
+padding:0px; display:block; " id=3D"mkto_autogen_id_33">Magento Meetup Stam=
+mtisch Aachen</strong> <p class=3D"appleLinksBlack" style=3D"margin:5px 0px=
+;">Aachen, Germany | December 5</p> <p class=3D"mktEditable" style=3D"margi=
+n:5px 0px; " id=3D"mkto_autogen_id_34"></p> <strong style=3D""><a class=3D"=
+mktEditable" href=3D" https://www.meetup.com/Magento-Stammtisch-Aachen/even=
+ts/235075317/" style=3D"color:#ef672f; text-decoration:none; " id=3D"mkto_a=
+utogen_id_35"><u>Learn More</u></a></strong></td>=20
+</tr>=20
+<tr>=20
+<td colspan=3D"2" height=3D"32">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--Acumatica Summit-->=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Helvetica, sans-serif; font-size:14p=
+x; color:#858585; ">=20
+<tbody style=3D"">=20
+<tr bgcolor=3D"#E7E6E6" style=3D"">=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+<td style=3D"">=20
+<table width=3D"100%" border=3D"0" class=3D"deviceWidth" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"">=20
+<tbody style=3D"">=20
+<tr>=20
+<td colspan=3D"2" height=3D"32">&nbsp;</td>=20
+</tr>=20
+<tr style=3D"">=20
+<!--EVENT IMAGE-->=20
+<td valign=3D"top" align=3D"left" width=3D"30%" class=3D"mktEditable" style=
+=3D"" id=3D"mkto_autogen_id_36">
+<div>=20
+<img src=3D"https://info2.magento.com/rs/585-GGD-959/images/503103-acumatic=
+a-logo %281%29.jpg" alt=3D"Acumatica" width=3D"135" height=3D"99" constrain=
+=3D"true" imagepreview=3D"false">=20
+</div></td>=20
+<!--EVENT TEXT-->=20
+<td valign=3D"top" width=3D"70%" style=3D"text-align:left; font-family:Aria=
+l, Helvetica, sans-serif; font-size:14px; line-height:22px; color:#31302b; =
+padding-left:5px; "><strong class=3D"mktEditable" style=3D"font-size:15px; =
+padding:0px; display:block; " id=3D"mkto_autogen_id_37">Acumatica Summit</s=
+trong> <p class=3D"appleLinksBlack" style=3D"margin:5px 0px;"><em>Presented=
+ by Acumatica</em></p> <p class=3D"appleLinksBlack" style=3D"margin:5px 0px=
+;">San Diego | January 29 - February 3</p> <p class=3D"mktEditable" style=
+=3D"margin:5px 0px; " id=3D"mkto_autogen_id_38"></p> <strong style=3D""><a =
+class=3D"mktEditable" href=3D
+"http://email2.magento.com/UHoH0lD0XG0Gsd024q000y0" style=3D"color:#ef672f;=
+ text-decoration:none; " id=3D"mkto_autogen_id_39"
+><u>Learn More</u></a></strong></td>=20
+</tr>=20
+<tr>=20
+<td colspan=3D"2" height=3D"32">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--MAGENTO U-->=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Helvetica, sans-serif; font-size:14p=
+x; color:#fff; " bgcolor=3D"#555555">=20
+<tbody style=3D"">=20
+<tr style=3D"">=20
+<td class=3D"content-padding" style=3D"padding:0 5px;">&nbsp;</td>=20
+<td style=3D"">=20
+<table align=3D"center" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" style=3D"text-align:center; font-family:Arial, Helvetic=
+a, sans-serif; font-size:14px; ">=20
+<tbody style=3D"">=20
+<tr>=20
+<td height=3D"10">&nbsp;</td>=20
+</tr>=20
+<tr align=3D"center" style=3D"">=20
+<td width=3D"100%" valign=3D"center" align=3D"center" class=3D"mktEditable"=
+ style=3D"text-align:center; font-family:Arial, Helvetica, sans-serif; font=
+-size:16px; color:#ffffff; " id=3D"mkto_autogen_id_40"><strong style=3D"mso=
+-table-lspace:0;mso-table-rspace:0; margin:0; display:block;=20
+text-transform:uppercase;">MAGENTO U</strong></td>=20
+</tr>=20
+<tr>=20
+<td height=3D"10">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"content-padding" style=3D"padding:0 5px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--Discover MagentoU-->=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Helvetica, sans-serif; font-size:14p=
+x; color:#858585; ">=20
+<tbody style=3D"">=20
+<tr bgcolor=3D"#FFFFFF" style=3D"">=20
+<td style=3D"">=20
+<table class=3D"body" style=3D"border-spacing:0; border-collapse:collapse; =
+vertical-align:top; text-align:left; height:100%; width:100%; color:#333333=
+; font-family:'Helvetica', 'Arial', sans-serif; font-weight:normal; line-he=
+ight:19px; font-size:14px; margin:0; padding:0; " width=3D"100%" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody style=3D"">=20
+<tr>=20
+<td height=3D"32">&nbsp;</td>=20
+</tr>=20
+<tr align=3D"center" style=3D"">=20
+<td style=3D"">=20
+<table class=3D"container" style=3D"border-spacing:0; border-collapse:colla=
+pse; vertical-align:top; text-align:inherit; max-width:600px; margin:0 auto=
+; padding:0; background-color:#ffffff; ">=20
+<tbody>=20
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t">=20
+<td style=3D"word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:auto=
+; hyphens:auto; border-collapse:collapse !important; vertical-align:top; te=
+xt-align:left; color:#333333; font-family:'Helvetica', 'Arial', sans-serif;=
+ font-weight:normal; line-height:19px; font-size:14px; margin:0; padding:0;=
+=20
+" align=3D"left" valign=3D"top">=20
+<table class=3D"twelve columns" style=3D"border-spacing:0; border-collapse:=
+collapse; vertical-align:top; text-align:left; max-width:600px; margin:0 au=
+to; padding:0; ">=20
+<tbody>=20
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t">=20
+<td style=3D"">=20
+<table class=3D"row" style=3D"border-spacing:0; border-collapse:collapse; v=
+ertical-align:top; text-align:left; width:100%; position:relative; display:=
+table; padding:0px; ">=20
+<tbody>=20
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t">=20
+<td class=3D"wrapper" style=3D"text-align:left; position:relative; color:#6=
+66666; font-family:'Helvetica', 'Arial', sans-serif; line-height:19px; font=
+-size:14px; margin:0; padding:0 5px 0 10px; " align=3D"left" valign=3D"top"=
+>=20
+<table class=3D"six columns" style=3D"border-spacing:0; border-collapse:col=
+lapse; vertical-align:top; text-align:left; width:280px; margin:0 auto; pad=
+ding:0; ">=20
+<tbody>=20
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t">=20
+<td colspan=3D"2" style=3D"font-size:14px; line-height:22px; font-family:Ar=
+ial, Helvetica, sans-serif; text-align:left; color:#666666; vertical-align:=
+top; margin:0; padding:0; white-space:normal; " align=3D"left" valign=3D"to=
+p">=20
+<div class=3D"mktEditable" style=3D"" id=3D"mkto_autogen_id_41">
+<p style=3D"margin: 0px;"><strong>Requirements Discovery for Successful Mag=
+ento 2 Implementations</strong></p>=20
+<p class=3D"appleLinksBlack" style=3D"margin: 0px;">London&nbsp;|&nbsp;Nove=
+mber 18</p>
+</div> </td>=20
+</tr>=20
+<tr style=3D"vertical-align: top; text-align: left; padding: 0;" align=3D"l=
+eft">=20
+<td height=3D"20" colspan=3D"2" style=3D"line-height: 1px; font-size: 1px; =
+word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens:=
+ auto; border-collapse: collapse !important; vertical-align: top; text-alig=
+n: left; color: #333333; font-family: 'Helvetica', 'Arial', sans-serif;=20
+font-weight: normal; margin: 0; padding: 0;" align=3D"left" valign=3D"top">=
+</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"wrapper last" style=3D"vertical-align:top; text-align:left; po=
+sition:relative; color:#333333; font-family:'Helvetica', 'Arial', sans-seri=
+f; line-height:19px; font-size:14px; margin:0; padding:0 5px 0 10px; " alig=
+n=3D"right" valign=3D"top">=20
+<table class=3D"six columns" align=3D"right" style=3D"border-spacing:0; bor=
+der-collapse:collapse; vertical-align:top; text-align:left; width:280px; ma=
+rgin:0 auto; padding:0; ">=20
+<tbody>=20
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t">=20
+<td colspan=3D"2" style=3D"font-size:14px; line-height:22px; font-family:Ar=
+ial, Helvetica, sans-serif; text-align:left; color:#666666; word-break:brea=
+k-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-colla=
+pse:collapse !important; vertical-align:top; font-weight:normal; margin:0;=
+=20
+padding:0; " align=3D"left" valign=3D"top">=20
+<div class=3D"mktEditable" style=3D"" id=3D"mkto_autogen_id_42">
+<p class=3D"appleLinksBlack" style=3D"margin: 0px;"><strong>Magento 2 Devel=
+oper Boot Camp</strong></p>=20
+<p style=3D"margin: 0px;">Berlin&nbsp;|&nbsp;November 21-24</p>
+</div> </td>=20
+</tr>=20
+<tr style=3D"vertical-align: top; text-align: left; padding: 0;" align=3D"l=
+eft">=20
+<td colspan=3D"2" height=3D"20" style=3D"line-height: 1px; font-size: 1px; =
+word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens:=
+ auto; border-collapse: collapse !important; vertical-align: top; text-alig=
+n: left; color: #333333; font-family: 'Helvetica', 'Arial', sans-serif;=20
+font-weight: normal; margin: 0; padding: 0;" align=3D"left" valign=3D"top">=
+</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t">=20
+<td style=3D"word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:auto=
+; hyphens:auto; border-collapse:collapse !important; vertical-align:top; te=
+xt-align:left; color:#333333; font-family:'Helvetica', 'Arial', sans-serif;=
+ font-weight:normal; line-height:19px; font-size:14px; margin:0; padding:0;=
+=20
+" align=3D"left" valign=3D"top">=20
+<table class=3D"row" style=3D"border-spacing:0; border-collapse:collapse; v=
+ertical-align:top; text-align:left; width:100%; position:relative; display:=
+table; padding:0px; ">=20
+<tbody>=20
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t">=20
+<td class=3D"wrapper" style=3D"text-align:left; position:relative; color:#6=
+66666; font-family:'Helvetica', 'Arial', sans-serif; line-height:19px; font=
+-size:14px; margin:0; padding:0 5px 0 10px; " align=3D"left" valign=3D"top"=
+>=20
+<table class=3D"six columns" style=3D"border-spacing:0; border-collapse:col=
+lapse; vertical-align:top; text-align:left; width:280px; margin:0 auto; pad=
+ding:0; ">=20
+<tbody>=20
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t">=20
+<td colspan=3D"2" style=3D"font-size:14px; line-height:22px; font-family:Ar=
+ial, Helvetica, sans-serif; text-align:left; color:#666666; vertical-align:=
+top; margin:0; padding:0; white-space:normal; " align=3D"left" valign=3D"to=
+p">=20
+<div class=3D"mktEditable" style=3D"" id=3D"mkto_autogen_id_43">
+<p class=3D"appleLinksBlack" style=3D"margin: 0px;"><strong>Core Principles=
+ for Theming in Magento 2</strong></p>=20
+<p style=3D"margin: 0px;">Online&nbsp;|&nbsp;December 5-7</p>
+</div> </td>=20
+</tr>=20
+<tr style=3D"vertical-align: top; text-align: left; padding: 0;" align=3D"l=
+eft">=20
+<td height=3D"20" colspan=3D"2" style=3D"line-height: 1px; font-size: 1px; =
+word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens:=
+ auto; border-collapse: collapse !important; vertical-align: top; text-alig=
+n: left; color: #333333; font-family: 'Helvetica', 'Arial', sans-serif;=20
+font-weight: normal; margin: 0; padding: 0;" align=3D"left" valign=3D"top">=
+</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"wrapper last" style=3D"vertical-align:top; text-align:left; po=
+sition:relative; color:#333333; font-family:'Helvetica', 'Arial', sans-seri=
+f; line-height:19px; font-size:14px; margin:0; padding:0 5px 0 10px; " alig=
+n=3D"right" valign=3D"top">=20
+<table class=3D"six columns" align=3D"right" style=3D"border-spacing:0; bor=
+der-collapse:collapse; vertical-align:top; text-align:left; width:280px; ma=
+rgin:0 auto; padding:0; ">=20
+<tbody>=20
+<tr style=3D"vertical-align:top; text-align:left; padding:0; " align=3D"lef=
+t">=20
+<td colspan=3D"2" style=3D"font-size:14px; line-height:22px; font-family:Ar=
+ial, Helvetica, sans-serif; text-align:left; color:#666666; word-break:brea=
+k-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-colla=
+pse:collapse !important; vertical-align:top; font-weight:normal; margin:0;=
+=20
+padding:0; " align=3D"left" valign=3D"top">=20
+<div class=3D"mktEditable" style=3D"" id=3D"mkto_autogen_id_44">
+<p class=3D"appleLinksBlack" style=3D"margin: 0px;"><strong>Managing your M=
+agento 2 Store</strong></p>=20
+<p style=3D"margin: 0px;">Online&nbsp;|&nbsp;December 5-9 &amp; 12-15</p>
+</div> </td>=20
+</tr>=20
+<tr style=3D"vertical-align: top; text-align: left; padding: 0;" align=3D"l=
+eft">=20
+<td colspan=3D"2" height=3D"20" style=3D"line-height: 1px; font-size: 1px; =
+word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens:=
+ auto; border-collapse: collapse !important; vertical-align: top; text-alig=
+n: left; color: #333333; font-family: 'Helvetica', 'Arial', sans-serif;=20
+font-weight: normal; margin: 0; padding: 0;" align=3D"left" valign=3D"top">=
+</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--Discover MagentoU-->=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Helvetica, sans-serif; font-size:14p=
+x; color:#858585; ">=20
+<tbody style=3D"">=20
+<tr bgcolor=3D"#FFFFFF" style=3D"">=20
+<td style=3D"">=20
+<table width=3D"100%" border=3D"0" class=3D"deviceWidth" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"">=20
+<tbody style=3D"">=20
+<tr align=3D"center" style=3D"">=20
+<td style=3D"">=20
+<table border=3D"0" cellspacing=3D"0" width=3D"200" cellpadding=3D"0" style=
+=3D"font-family:'Helvetica', 'Arial', sans-serif; font-size:16px; margin:0;=
+ color:#fff; ">=20
+<tbody>=20
+<tr style=3D"">=20
+<td bgcolor=3D"#EF672F" width=3D"200" style=3D"display:block; border-radius=
+:4px; font-family:'Helvetica', 'Arial', sans-serif; font-size:16px; margin:=
+0; padding:15px 15px; " class=3D"mktEditable" valign=3D"top" align=3D"cente=
+r" id=3D"mkto_autogen_id_45">
+<div>=20
+<a href=3D
+"http://email2.magento.com/XsX0HpG0q000Ddl0H024Gz0" class=3D"button" style=
+=3D"text-decoration: none; color: #fff; padding: 0; margin: 0;" target=3D"_=
+blank"
+>Visit Magento U</a>=20
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr>=20
+<td height=3D"32">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--BEGIN FOOTER-->=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<div class=3D"mktEditable" id=3D"Footer" style=3D""></div>=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"background-color:#555555; ">=20
+<tbody style=3D"">=20
+<tr style=3D"">=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+<td style=3D"">=20
+<table class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"">=20
+<tbody style=3D"">=20
+<tr>=20
+<td height=3D"32">&nbsp;</td>=20
+</tr>=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Arial, Helvetica, sans-serif; font-s=
+ize:14px; color:#32302b; ">=20
+<tbody style=3D"">=20
+<tr style=3D"">=20
+<td valign=3D"top" class=3D"mktEditable" style=3D"text-align:left; font-fam=
+ily:Arial, Helvetica, sans-serif; font-size:14px; line-height:22px; color:#=
+32302b; " id=3D"mkto_autogen_id_46">
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=20
+<tbody>=20
+<tr>=20
+<td align=3D"left" valign=3D"bottom" style=3D"font-weight:bold; font-family=
+:Arial, Helvetica, sans-serif;letter-spacing:-1px; font-size:10px; line-hei=
+ght:12px; color:#7f7c6f;">=20
+<div>=20
+<a href=3D
+"http://email2.magento.com/Y0sld08qH00H0002XGG0iD4"
+><img src=3D"http://info2.magento.com/rs/magentosoftware/images/Magento-Log=
+o-Email-280.png" alt=3D"Magento Logo" width=3D"140" border=3D"0" style=3D"d=
+isplay:block;"></a>=20
+</div> </td>=20
+<td width=3D"20" align=3D"right"><a href=3D
+"http://email2.magento.com/o02jq009d004HG0l0DGsHX0"
+><img src=3D"http://info2.magento.com/rs/magentosoftware/images/2013-social=
+footer-fb.png" alt=3D"Fb" width=3D"20" height=3D"20" border=3D"0" style=3D"=
+display:block;"></a></td>=20
+<td width=3D"10" align=3D"right">&nbsp;</td>=20
+<td width=3D"20" align=3D"right"><a href=3D
+"http://email2.magento.com/Mq0D0H00Gdl4s00aX0HG0k2"
+><img src=3D"http://info2.magento.com/rs/magentosoftware/images/2013-social=
+footer-tw.png" alt=3D"Tw" width=3D"20" height=3D"20" border=3D"0" style=3D"=
+display:block;"></a></td>=20
+<td width=3D"10" align=3D"right">&nbsp;</td>=20
+<td width=3D"20" align=3D"right"><a href=3D
+"http://email2.magento.com/a0200X04HG0000bDlGqdlHs"
+><img src=3D"http://info2.magento.com/rs/magentosoftware/images/2013-social=
+footer-yt.png" alt=3D"Yt" width=3D"20" height=3D"20" border=3D"0" style=3D"=
+display:block;"></a></td>=20
+<td width=3D"10" align=3D"right">&nbsp;</td>=20
+<td width=3D"20" align=3D"right"><a href=3D
+"http://email2.magento.com/q4DG0s00Xq0qld02G0HA00H"
+><img src=3D"http://info2.magento.com/rs/magentosoftware/images/2013-social=
+footer-li.png" alt=3D"Li" width=3D"20" height=3D"20" border=3D"0" style=3D"=
+display:block;"></a></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr>=20
+<td height=3D"25" style=3D"padding:0;">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td height=3D"24" style=3D"border-top:1px solid #ffffff;padding:0;"></td>=
+=20
+</tr>=20
+<tr>=20
+<td height=3D"50" style=3D"font-family: Arial, Helvetica, sans-serif; font-=
+size:9px; line-height:12px; color:#ffffff;"> <p style=3D"mso-table-lspace:0=
+;mso-table-rspace:0; margin: 0;">This email was sent to you because you hav=
+e agreed to receive information about our services. We will only use your i=
+nformation in accordance with our privacy policy. To unsubscribe from our c=
+ommercial mailing list, please click <a style=3D"text-decoration:none;font-=
+weight:bold;color:#ef672f;" href=3D
+"http://email2.magento.com/I040BG00XlHrqs2H0d0GD00"
+>here</a>.<br> Copyright=C2=A9 2016 Magento, Inc. All rights reserved. Mage=
+nto, Inc. is located at <span class=3D"appleLinksGrey">10441 Jefferson Blvd=
+., Suite 200, Culver City, CA 90232</span></p> </td>=20
+</tr>=20
+<tr>=20
+<td height=3D"37">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!--END FOOTER-->=20
+<!--END WRAPPER CODE-->=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> =20
+<a href=3D
+"http://email2.magento.com/x0G0000d2C40XqG0sslH0DH"
+></a>
+<img src=3D"http://email2.magento.com/trk?t=3D1&mid=3DNTg1LUdHRC05NTk6MjIyN=
+jo2MzE0OjIzNjk3OjA6NjgwMTo3OjUxNzAyMjM6bWFyY29AZGlnaXRhbGZvdG9pbWFnZW0uY29t=
+LmJy" width=3D"1" height=3D"1" style=3D"display:none !important;" alt=3D"" =
+/>
+
+<br>
+</body>
+</html>
+------=_Part_155059741_777294462.1479410688829--

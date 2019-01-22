@@ -1,0 +1,70 @@
+Return-path: <carlos.rossetti@uol.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Wed, 06 May 2015 12:31:35 -0300
+Received: from a4-shark4.uol.com.br ([200.147.97.211]:49212)
+	by hserv20.homehost.com.br with esmtp (Exim 4.85)
+	(envelope-from <carlos.rossetti@uol.com.br>)
+	id 1Yq1IL-0001Fb-M1
+	for marco@digitalfotoimagem.com.br; Wed, 06 May 2015 12:31:35 -0300
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by a4-shark4.uol.com.br (Postfix) with ESMTP id E911B3800083
+	for <marco@digitalfotoimagem.com.br>; Wed,  6 May 2015 12:31:29 -0300 (BRT)
+Received: from a4-shark4.host.intranet (localhost.localdomain [127.0.0.1])
+	by a4-shark4.uol.com.br (Postfix) with ESMTP id A587E380008B
+	for <marco@digitalfotoimagem.com.br>; Wed,  6 May 2015 12:31:27 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=uol.com.br; s=ubz;
+	t=1430926289; bh=zSxSogfkhPpH8dUQXUGJSHgsg0ALQxd1wye+ZOIwlao=;
+	h=Date:From:To:In-Reply-To:References:Subject;
+	b=ZMMknEh1SpmW4Opx5xjVbphvADN8RmpVI27XZ3ox2VnXPUle5hcfbprUvGn77C7Zd
+	 7gZx0zUd9/Mr4rkVxMM+gl3f9mygvGAGmKJT7AHLm4u0N41DoNEKLvN2caAj9ZiL1B
+	 hLMc8hZshv+cfdDa0uRhDZWJHUMneJxFoqsDQyaM=
+Received: from uol.com.br (a4-weasel9.host.intranet [10.131.133.72])
+	by a4-shark4.host.intranet (Postfix) with ESMTP id 563513800082
+	for <marco@digitalfotoimagem.com.br>; Wed,  6 May 2015 12:31:27 -0300 (BRT)
+Date: Wed, 06 May 2015 12:31:27 -0300
+From: "carlos.rossetti" <carlos.rossetti@uol.com.br>
+To: "marco@digitalfotoimagem.com.br" <marco@digitalfotoimagem.com.br>
+Message-ID: <554a33cf5072a_203b157fc01f73e0186c8@a4-weasel9.mail>
+In-Reply-To: 
+References: 
+Subject: teste
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-SenderIP: 177.45.124.61
+X-SIG5: a8424962b5557eac68acad9874467c6f
+X-Spam-Status: No, score=1.0
+X-Spam-Score: 10
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "hserv20.homehost.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  chegou ??? [...] 
+ 
+ Content analysis details:   (1.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_MSPIKE_H2      RBL: Average reputation (+2)
+                             [200.147.97.211 listed in wl.mailspike.net]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (carlos.rossetti[at]uol.com.br)
+ -0.0 T_RP_MATCHES_RCVD      Envelope sender domain matches handover relay
+                             domain
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 BAYES_40               BODY: Bayes spam probability is 20 to 40%
+                             [score: 0.3773]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.7 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.4 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+X-Spam-Flag: NO
+
+<div>chegou ???</div>

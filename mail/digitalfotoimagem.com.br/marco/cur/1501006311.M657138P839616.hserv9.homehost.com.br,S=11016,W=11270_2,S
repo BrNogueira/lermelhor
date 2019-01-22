@@ -1,0 +1,254 @@
+Return-Path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id GfARJ+eJd1nAzwwAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Tue, 25 Jul 2017 15:11:51 -0300
+Return-path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 25 Jul 2017 15:11:51 -0300
+Received: from e.gospmail.org.br ([177.139.181.238]:13224 helo=gospmail.org.br)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>)
+	id 1da4JD-003WX7-4T
+	for marco@digitalfotoimagem.com.br; Tue, 25 Jul 2017 15:11:51 -0300
+Received: from localhost (e [127.0.0.1])
+	by gospmail.org.br (Postfix) with ESMTP id 062CC1D27E82
+	for <marco@digitalfotoimagem.com.br>; Tue, 25 Jul 2017 15:11:05 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at gospmail.org.br
+Received: from gospmail.org.br ([127.0.0.1])
+	by localhost (gospmail.org.br [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id g9bLyAvKL6dc; Tue, 25 Jul 2017 15:11:03 -0300 (BRT)
+Received: from o3.jiveon.jivesoftware.com (o3.jiveon.jivesoftware.com [167.89.36.126])
+	by gospmail.org.br (Postfix) with ESMTPS id AB5AA1D27E84
+	for <288380@gospmail.org.br>; Tue, 25 Jul 2017 15:10:59 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=jiveon.jivesoftware.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-id; 
+	s=smtpapi; bh=UkAqdzp/ndemaedhwfwLOhLaPXU=; b=IBHxG/oVilef2pV7vX
+	4jVoLkAWU62DT39po2UhTN74gZPz4x8AaLWOGqsu05sM/KoO04Si9AFBk1dyGrB4
+	V4KPWSWm/rh6JB2hTSg7is5R2dYJFsolErfdmj+hqd0975KvVCbVZn52MAybpzXH
+	oZGgWL53D+xXveDKJ8OMqPg5Q=
+Received: by filter0095p1las1.sendgrid.net with SMTP id filter0095p1las1-21011-597789B1-3C
+        2017-07-25 18:10:57.673761903 +0000 UTC
+Received: from jiveon-mx3-out.phx1.jivehosted.com (jiveon-mail.phx1.jivehosted.com [204.93.64.13])
+	by ismtpd0016p1las1.sendgrid.net (SG) with ESMTP id -mfBQOmSRAeW2etUqMJ-Yw
+	for <288380@gospmail.org.br>; Tue, 25 Jul 2017 18:10:57.630 +0000 (UTC)
+Received: from gosp-x-jc-t-wa02.dynphx1.jivehosted.com (ip51-vlb1-services.phx1.jivehosted.com [10.160.25.51])
+	by jiveon-mx3-out.phx1.jivehosted.com (Postfix) with ESMTP id 6618421099
+	for <288380@gospmail.org.br>; Tue, 25 Jul 2017 18:10:57 +0000 (GMT)
+Date: Tue, 25 Jul 2017 18:10:57 +0000 (UTC)
+From: rony <gosp-x@jiveon.com>
+Reply-To: jive-1820190799-7qj-2x-1927@mail.gosp-x.jiveon.com
+To: Marco Parise <288380@gospmail.org.br>
+Message-ID: <105-58399-3-8957-1501006192183.jive.jivemailuser@https://gosp-x.jiveon.com>
+Subject: =?UTF-8?Q?Re:_[Mural_da_Rede_Social_do_GOSP]_-_"O_IRM=C3=83O"?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_67188_1116009883.1501006257414"
+Auto-Submitted: auto-replied
+X-Auto-Response-Suppress: OOF
+List-ID: Mural da Rede Social do GOSP
+Content-Disposition: inline
+X-Jive-Office: jive-1820190799-7qj-2x-1927@mail.gosp-x.jiveon.com
+X-SG-EID: MC+mAxPPER372lmDFdFHyMxARzYmaHZCEvHbMx1UJ2iByZ3hc8u9kDX/haAEmgnh3M4tZVcw0gcnLy
+ 06z3vWqQ6ylrfs14AiBVdecItBzqAkkULDjwVf7IJ/sNUSD/FPjpaqqah3uGBaM9mRVVoqRMzkBspV
+ j40U3hZlkJRju6d7MfUzF6OlqcKPvPZxKUvmQvE2LsgD0QYdBoV422cNDw==
+X-SG-ID: 6Iv2lwEhBxW0L1FeqtuSgBOmISLrKUu9Fa/YMNgnbEH0+CaDljWXnwj2MSTUp7lFXOjhNI/o60IYia
+ 7IKxt2G7jvlMwv21jWQePwS8tjMfsFjMrxqZrIPtaj0YJe3BXJ1jAK5x1ALn7Z+OisvNq3qg==
+
+------=_Part_67188_1116009883.1501006257414
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_67187_616047179.1501006257414"
+
+------=_Part_67187_616047179.1501006257414
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+Rony Silvio Pereira de Souza [https://gosp-x.jiveon.com/people/rony?et=3Dwa=
+tches.email.document_comment] comentou sobre o documento
+""O IRM=C3=83O""=20
+
+Para visualizar todos os coment=C3=A1rios sobre este documento, visite: htt=
+ps://gosp-x.jiveon.com/docs/DOC-11491-o-irm=C3=A3o?commentID=3D58399&et=3Dw=
+atches.email.document_comment#comment-58399
+
+--------------------------------------------------
+TFA=C2=A0
+--------------------------------------------------
+
+Responda a este e-mail para responder ao coment=C3=A1rio de Rony Silvio Per=
+eira de Souza.
+
+Este e-mail foi enviado pela REDE SOCIAL DO GOSP porque voc=C3=AA =C3=A9 um=
+ usu=C3=A1rio registrado.
+Voc=C3=AA pode cancelar a assinatura agora mesmo em https://gosp-x.jiveon.c=
+om/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0=
+ee232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c ou ajustar a frequ=C3=AA=
+ncia de e-mail nas prefer=C3=AAncias do seu e-mail (https://gosp-x.jiveon.c=
+om/user-preferences!input.jspa).
+
+------=_Part_67187_616047179.1501006257414
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+=09
+	<title></title>
+	<style type=3D"text/css">
+    * {
+		margin: 0;
+		padding: 0;
+	}
+	a {
+		color: #3778C7 !important;
+	}
+	body {
+		font-family: Helvetica, Arial, sans-serif;
+		-webkit-text-size-adjust: 100%;
+	}
+	/* Webkit */
+	h1, h2, h3, h4, h5, h6, p, hr {
+		-webkit-margin-before: 0;
+		-webkit-margin-after: 0;
+		-webkit-margin-start: 0;
+		-webkit-margin-end: 0;
+	}
+	.button td {
+		background-image: -moz-linear-gradient(top, #75B7E3 0%, #5498D6 50%, #408=
+BD0 51%, #387AC8 100%) !important;
+		background-image: -webkit-gradient(linear, left top, left bottom, color-s=
+top(0%,#75B7E3), color-stop(50%,#5498D6), color-stop(51%,#408BD0), color-st=
+op(100%,#387AC8)) !important;
+		-webkit-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !impo=
+rtant;
+		-moz-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !importa=
+nt;
+	}
+	</style>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+</head>
+<body style=3D"width:100% !important; -webkit-font-smoothing: antialiased; =
+-webkit-text-size-adjust: 100%;">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff=
+" width=3D"100%" style=3D"background-color: #ffffff; margin: 0; padding: 0;=
+">
+		<tbody>
+			<tr>
+				<td style=3D"padding: 20px 20px 20px 20px;">
+<table class=3D"header" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wi=
+dth=3D"100%">
+	<tbody>
+		<tr>
+			<td valign=3D"top" align=3D"left">
+				<h1 style=3D"color: #333333; margin: 0 0 20px 0; font-weight: normal; f=
+ont-size: 24px; font-family: Helvetica, Arial, sans-serif; text-shadow: rgb=
+a(255,255,255,.9) 0 1px 0;">
+					<!-- To have a header image/logo replace the name below with your img =
+tag -->
+					<!-- Email clients will render the images when the message is read so =
+any image -->
+					<!-- must be made available on a public server, so that all recipients=
+ can load the image. -->
+					<a href=3D"https://gosp-x.jiveon.com/?et=3Dwatches.email.document_comm=
+ent" style=3D"color:#333333 !important; text-decoration: none;">
+							<font color=3D"#333333" style=3D"color:#333333;">REDE SOCIAL DO GOSP=
+</font>
+					</a>
+				</h1>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class=3D"content" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ff=
+ffff" border=3D"0" width=3D"100%" style=3D"width: 100%; -moz-border-radius:=
+ 8px; -webkit-border-radius: 8px; border-radius: 8px;">
+	<tbody>
+		<tr>
+			<td valign=3D"middle" style=3D"padding-top: 10px; padding-right: 0px; pa=
+dding-bottom: 20px; padding-left: 0px;"><h2 style=3D"color: #666666; margin=
+: 0; font-weight: normal; font-size: 24px; font-family: Helvetica, Arial, s=
+ans-serif;">
+    "O IRM=C3=83O"
+</h2>
+<p style=3D'color: #999999; margin-bottom: 20px; font-size: 12px; line-heig=
+ht: 18px; font-family: Helvetica, Arial, sans-serif;'>
+novo coment=C3=A1rio de <a href=3D"https://gosp-x.jiveon.com/people/rony?et=
+=3Dwatches.email.document_comment">Rony Silvio Pereira de Souza</a> <a href=
+=3D"https://gosp-x.jiveon.com/docs/DOC-11491-o-irm=C3=A3o?commentID=3D58399=
+&et=3Dwatches.email.document_comment#comment-58399">Visualize todos os come=
+nt=C3=A1rios sobre este documento</a></p>
+
+<hr style=3D'background-color: #cccccc; height: 1px; margin-bottom: 20px; b=
+order: none;'>
+
+<div style=3D'color: #666666; margin-bottom: 20px; font-size: 14px; line-he=
+ight: 20px; font-family: Helvetica, Arial, sans-serif;'>
+<div class=3D"jive-rendered-content"><p>TFA&#160;</p></div>
+</div>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" bgco=
+lor=3D"#f5f5f5" style=3D'padding: 10px; margin-top: 40px;'>
+<tbody>
+ <tr>
+    <td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-heigh=
+t: 20px; font-family: Helvetica, Arial, sans-serif;'>
+    Responda a este e-mail para responder ao coment=C3=A1rio de Rony Silvio=
+ Pereira de Souza.
+    </td>
+</tr>
+
+    <tr>
+<td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-height: 2=
+0px; font-family: Helvetica, Arial, sans-serif;'>
+		Seguindo <a href=3D"https://gosp-x.jiveon.com/docs/DOC-11491-o-irm=C3=A3o=
+?commentID=3D58399&et=3Dwatches.email.document_comment#comment-58399"><span=
+ style=3D"color: #3778C7;">"O IRM=C3=83O"</span></a> nestes fluxos:
+     Caixa de Entrada
+    </td>
+</tr>
+</tbody>
+</table>
+                    <p style=3D'color: #666666; margin-top: 20px; font-size=
+: 14px; line-height: 20px; font-family: Helvetica, Arial, sans-serif;'>
+                        Este e-mail foi enviado pela Rede Social do GOSP po=
+rque voc=C3=AA =C3=A9 um usu=C3=A1rio registrado.
+	                        Voc=C3=AA pode <a href=3D"https://gosp-x.jiveon.co=
+m/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0e=
+e232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c">cancelar a assinatura</a=
+> agora mesmo ou ajustar a frequ=C3=AAncia de e-mail nas <a href=3D"https:/=
+/gosp-x.jiveon.com/user-preferences!input.jspa">prefer=C3=AAncias do seu e-=
+mail</a>
+                    </p>
+            </td>
+		</tr>
+	</tbody>
+</table>
+			    </td>
+			</tr>
+		</tbody>
+	</table>
+
+<img src=3D"http://jiveon.jivesoftware.com/wf/open?upn=3DlkDbH7-2FnFH7oeBGC=
+GoMHz9T22eb3DvjuBfkB1ASadAwAtbqNYYkVs4MwAGOqDuR5N49BZM9PLfhYH64a-2FtseS-2B2=
+0VClIh2pSJu7hrlYHJwjo4G-2B5nBVh-2B6K5hLH73iAdFAwj9VboiHBsyvujMNwEn4wC-2FHSw=
+dtlSwOVj1m-2FYMHtebMBhGuEF6LW332ly-2BwERLS-2BYq78V646xzmrGHo33YC0NIDf8Eklhu=
+TX9mAy7MKa-2F5BtmjRXVCjkWF-2FSYwQ7xkV4taaFp9XTzlGfgRnEN7Ar7jlLMd9-2Bzb2Y2WX=
+YZMO6kkgixEfpBbOB9IzeFUl-2B16eeIkFoaZIOhPsOHz7g2ANOSrp4CfsjGCxhUZGm28ys-3D"=
+ alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !import=
+ant;width:1px !important;border-width:0 !important;margin-top:0 !important;=
+margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !importa=
+nt;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !im=
+portant;padding-left:0 !important;"/>
+</body>
+</html>
+
+------=_Part_67187_616047179.1501006257414--
+
+------=_Part_67188_1116009883.1501006257414--
+

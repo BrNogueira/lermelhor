@@ -1,0 +1,163 @@
+Return-path: <ronysilvio@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 16 Apr 2015 17:08:24 -0300
+Received: from mail-qc0-f177.google.com ([209.85.216.177]:33510)
+	by hserv20.homehost.com.br with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85)
+	(envelope-from <ronysilvio@gmail.com>)
+	id 1Yiq5B-0006tA-0k
+	for marco@digitalfotoimagem.com.br; Thu, 16 Apr 2015 17:08:24 -0300
+Received: by qcrf4 with SMTP id f4so12950440qcr.0
+        for <marco@digitalfotoimagem.com.br>; Thu, 16 Apr 2015 13:08:06 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=subject:references:from:content-type:in-reply-to:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=yfPRpSAAPaFJKxZbD4v9ypwHuqT1Pi0BOO7Y1BlPnFY=;
+        b=Xr1lwIVyRsba7WPS7+Ls4np2K6Jn9B1hmM/m8ashkM1bhYsYAxq1/RAltCVkoZR6Br
+         WwOTlHHkVu7/GOPsFd5rmtXbSgMktcG+fhk7zlwAeo5pLLHOFzGNtIA6Cga6443+cMDM
+         MLhgwAa3z9P6s2fCR8HI0Kh/WSf+i/YJEuIusbt8ZwPBkoungjVX7YvOuKFnk8+IR/a4
+         a9KuzWEeQm0SKvDcW8ROq1hKadiJJYwmJy3oqAgtzd7sh6L23y3yd7NMQWl+4Prv/WeI
+         y5agtvScg6NGW08zgOGbvDj3l8b3VzggNrgATedv9J4el9u0lqerxtq150UhSyAYeKor
+         AhBA==
+X-Received: by 10.140.232.197 with SMTP id d188mr42343014qhc.80.1429214886390;
+        Thu, 16 Apr 2015 13:08:06 -0700 (PDT)
+Received: from [192.168.0.5] (201-13-47-76.dsl.telesp.net.br. [201.13.47.76])
+        by mx.google.com with ESMTPSA id d36sm6332251qkh.45.2015.04.16.13.08.04
+        for <marco@digitalfotoimagem.com.br>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 16 Apr 2015 13:08:05 -0700 (PDT)
+Subject: Re: Aniversariantes
+References: <4a10f47077fe56e5509cc17dc981edfd@crivodarazao.org.br> <0de8df9ab3df4ed44ac4b0f716f56331@digitalfotoimagem.com.br>
+From: Rony <ronysilvio@gmail.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-D02073FA-EE9C-47CD-901E-19AECD9BF3CB
+X-Mailer: iPad Mail (12F69)
+In-Reply-To: <0de8df9ab3df4ed44ac4b0f716f56331@digitalfotoimagem.com.br>
+Message-Id: <3154ADFA-B858-4BDD-BFE2-9EEBA71EDA29@gmail.com>
+Date: Thu, 16 Apr 2015 17:08:02 -0300
+To: "marco@digitalfotoimagem.com.br" <marco@digitalfotoimagem.com.br>
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+X-Spam-Status: No, score=-2.0
+X-Spam-Score: -19
+X-Spam-Bar: --
+X-Ham-Report: Spam detection software, running on the system "hserv20.homehost.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Ok, confirmado TFA, Rony Gatti 11 9.7632-5453 Enviado via
+   iPad Ir.'. > > > > > > Em 16/04/2015, � s 14:10, > > Boa noite meus IIr.`.
+    > > Segue em anexo o convite da confraternização dos aniversariantes. >
+    > > Solicito a confirmação para o meu e_mail da quantidade de pessoas que
+    cada irmão levará, pois sera elaborada uma feijoada e assim fica melhor
+    para saber a quantidade dos ingredientes. > > > Quem quiser ir no dia 1º
+    poderá ir, apenas me avise com antecedência. > > A feijoada será servida
+    no dia 2. > > > Ass. Parise > > T.`.F.`.A.`. > <Convite aniversário.jpg>
+    [...] 
+ 
+ Content analysis details:   (-2.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: digitalfotoimagem.com.br]
+ -0.0 RCVD_IN_MSPIKE_H3      RBL: Good reputation (+3)
+                             [209.85.216.177 listed in wl.mailspike.net]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (ronysilvio[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 MIME_QP_LONG_LINE      RAW: Quoted-printable line longer than 76 chars
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.0 RCVD_IN_MSPIKE_WL      Mailspike good senders
+X-Spam-Flag: NO
+
+
+--Apple-Mail-D02073FA-EE9C-47CD-901E-19AECD9BF3CB
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Ok, confirmado
+TFA,
+
+Rony Gatti 11 9.7632-5453
+Enviado via iPad Ir.'.
+>=20
+>=20
+>=20
+>=20
+>=20
+
+
+> Em 16/04/2015, =C3=A0s 14:10, marco@digitalfotoimagem.com.br escreveu:
+>=20
+> Boa noite meus IIr.`.
+>=20
+> Segue em anexo o convite da confraterniza=C3=A7=C3=A3o dos aniversariantes=
+.
+>=20
+>=20
+> Solicito a confirma=C3=A7=C3=A3o para o meu e_mail da quantidade de pessoa=
+s que cada irm=C3=A3o  levar=C3=A1, pois sera elaborada uma feijoada e assim=
+ fica melhor para saber a quantidade dos ingredientes.
+>=20
+>=20
+> Quem quiser ir no dia 1=C2=BA poder=C3=A1 ir, apenas me avise com anteced=C3=
+=AAncia.
+>=20
+> A feijoada ser=C3=A1 servida no dia 2.
+>=20
+>=20
+> Ass. Parise
+>=20
+> T.`.F.`.A.`.
+> <Convite anivers=C3=A1rio.jpg>
+
+--Apple-Mail-D02073FA-EE9C-47CD-901E-19AECD9BF3CB
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div>Ok, confirmado</div><div>TFA,<br><br><=
+span style=3D"background-color: rgba(255, 255, 255, 0);">Rony Gatti 11 9.763=
+2-5453</span><div><span style=3D"background-color: rgba(255, 255, 255, 0);">=
+Enviado via iPad Ir.'.</span></div><blockquote type=3D"cite"><div class=3D"S=
+ection1" style=3D"page: Section1;"><br></div></blockquote><blockquote type=3D=
+"cite"><div class=3D"Section1" style=3D"page: Section1;"><table class=3D"Mso=
+NormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"546" s=
+tyle=3D"width: 409.5pt;"><tbody><tr><td width=3D"89" rowspan=3D"3" style=3D"=
+width: 66.75pt; padding: 0cm;"><p class=3D"MsoNormal" style=3D"margin: 0cm 0=
+cm 0.0001pt;"><br></p></td><td colspan=3D"2" style=3D"padding: 0cm;"><p clas=
+s=3D"MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt;"><span style=3D"backgroun=
+d-color: rgba(255, 255, 255, 0);"><br></span></p></td><td width=3D"108" rows=
+pan=3D"3" style=3D"width: 81pt; padding: 0cm;"><p class=3D"MsoNormal" align=3D=
+"center" style=3D"margin: 0cm 0cm 0.0001pt; text-align: center;"><br></p></t=
+d></tr></tbody></table></div></blockquote></div><div><br>Em 16/04/2015, =C3=A0=
+s 14:10, <a href=3D"mailto:marco@digitalfotoimagem.com.br">marco@digitalfoto=
+imagem.com.br</a> escreveu:<br><br></div><blockquote type=3D"cite"><div><spa=
+n>Boa noite meus IIr.`.</span><br><span></span><br><span>Segue em anexo o co=
+nvite da confraterniza=C3=A7=C3=A3o dos aniversariantes.</span><br><span></s=
+pan><br><span></span><br><span>Solicito a confirma=C3=A7=C3=A3o para o meu e=
+_mail da quantidade de pessoas que cada irm=C3=A3o &nbsp;levar=C3=A1, pois s=
+era elaborada uma feijoada e assim fica melhor para saber a quantidade dos i=
+ngredientes.</span><br><span></span><br><span></span><br><span>Quem quiser i=
+r no dia 1=C2=BA poder=C3=A1 ir, apenas me avise com anteced=C3=AAncia.</spa=
+n><br><span></span><br><span>A feijoada ser=C3=A1 servida no dia 2.</span><b=
+r><span></span><br><span></span><br><span>Ass. Parise</span><br><span></span=
+><br><span>T.`.F.`.A.`.</span></div></blockquote><blockquote type=3D"cite"><=
+div>&lt;Convite anivers=C3=A1rio.jpg&gt;</div></blockquote></body></html>=
+
+--Apple-Mail-D02073FA-EE9C-47CD-901E-19AECD9BF3CB--

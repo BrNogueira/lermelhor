@@ -1,0 +1,517 @@
+Return-Path: <mailer@infusionmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id CQfYJyt+oFkvtAwAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Fri, 25 Aug 2017 16:44:43 -0300
+Return-path: <mailer@infusionmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Fri, 25 Aug 2017 16:44:43 -0300
+Received: from mta-c-24-59.infusionmail.com ([208.76.24.59]:41832)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <mailer@infusionmail.com>)
+	id 1dlKX5-003Vd9-AQ
+	for marco@digitalfotoimagem.com.br; Fri, 25 Aug 2017 16:44:43 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=superandoseuslimites.com.br;
+	s=33409a7a-342e-424e-88bb-80f252c491ca; t=1503690225;
+	i=@superandoseuslimites.com.br; bh=tGdHfK+ga8R/kxsIINGnZsjNnhE=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	b=L19UbE5CM08ZCKs6uuwkdgoI39bEXbGrystq3HygjI1fYz2e/CYzvt+dupeJJfEUl
+	 g8hnhXsXzI0naawHeJxtyQnB9Dqgja3+pzn4BqEwRim38ItiJe4wuTvLm7AQP6X5ar
+	 F4qTvaw+yn3W1mNYSV1Bw7Q7KqZ80rYOjSFRB9bg=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=infusionmail.com;
+	s=dkim1024; t=1503690225; i=@infusionmail.com;
+	bh=tGdHfK+ga8R/kxsIINGnZsjNnhE=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	b=FUPLcUq0k6er6zUaG8oIiBMd0Sm2GXa2HN6Gg7Tlga/dDYd+blOg0BQIcyjIaojyA
+	 TEM/xW8BRao77Jrl0zbYQgZiq05X9CHfTUP/4827xrBanlsgSjZlUaZSDzq1m0SYQX
+	 NN7P7yQaQCR0Lk8/s95AY85Y1XJlQumHEiaH5af8=
+Received: from [10.0.0.222] ([10.0.0.222:51814] helo=superion)
+	by phxme1 (envelope-from <mailer@infusionmail.com>)
+	(ecelerity 3.6.12.50134 r(Core:3.6.12.0)) with ESMTP
+	id 45/E5-22894-1FD70A95; Fri, 25 Aug 2017 15:43:45 -0400
+Date: Fri, 25 Aug 2017 15:43:42 -0400 (EDT)
+From: =?utf-8?Q?Andr=C3=A9_Sampaio?= <andre@superandoseuslimites.com.br>
+To: marco@digitalfotoimagem.com.br
+Message-ID: <2058057998.6298141503690222237.JavaMail.tomcat@localhost>
+Subject: =?utf-8?Q?[Nova_Aula_GRATUITA]_Fa=C3=A7a_seu_cadastro_agora...?=
+Errors-To: mailer@infusionmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_629447_1042193522.1503690222184"
+X-MailSentId: 629608
+X-campaignid: infusion_dk283629608
+Feedback-ID: dk283:dk283_8854:primer
+X-BatchId: 8854
+X-InfApp: dk283
+X-InfContact: 333540
+X-InfSent: 43888778
+X-inf-QETT: 0
+X-inf-package: primer
+X-inf-uflags: UE
+X-inf-iflags: UE
+X-inf-BlockName: mn149
+List-Unsubscribe: <https://dk283.infusionsoft.com/app/optOut/noConfirm/43888778/0063b4cfeff35f7e>
+X-inf-dkimSelector: 33409a7a-342e-424e-88bb-80f252c491ca
+X-inf-dkimDomain: superandoseuslimites.com.br
+X-Message-Id: 45/E5-22894-1FD70A95
+
+------=_Part_629447_1042193522.1503690222184
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+This email was sent as HTML-only. To view it, please visit:
+https://dk283.infusionsoft.com/app/hostedEmail/43888778/0063b4cfeff35f7e
+------=_Part_629447_1042193522.1503690222184
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title></title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700italic,700|Open+Sans:400,400italic,700,700italic|Lato:400,400italic,700,700italic);
+</style>
+<style type="text/css">
+#outlook a {padding: 0;}
+.ReadMsgBody, .ExternalClass {width: 100%;}
+.ExternalClass * {line-height: 100%;}
+body { background-color: #ffffff; margin: 0; padding: 0;
+-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+table, td { border-collapse:collapse;
+mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+img { border: 0; height: auto; line-height: 100%;
+outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; }
+.column {display: inline-block; width: 100%;
+text-align: left; vertical-align: top; }
+@media only screen and (min-width:480px) {
+.column-100, * [aria-labelledby='column-100'] {
+width: 100% !important; display: inline-block;
+text-align: left; vertical-align: top; }
+.column-50, * [aria-labelledby='column-50'] {
+width: 50% !important; display: inline-block;
+text-align: left; vertical-align: top; }
+.column-33, * [aria-labelledby='column-33'] {
+width: 33% !important; display: inline-block;
+text-align: left; vertical-align: top; }}
+@media only screen and (max-width:479px) {
+.socialBlock, td.imageBlock, .buttonBlock,
+.alignmentContainer { text-align: center !important }
+.alignmentContainer table { margin-right: auto;
+margin-left: auto;}}
+</style>
+</head><body style="background:#ffffff">
+<!--[if gte mso 9]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml>
+<![endif]-->
+<div style="background:#ffffff">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255);">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]-->
+<!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="style-scope bard-text-block" style="text-align: left; color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+Esse é um convite especial para você assistir a nova aula INÉDITA: 
+</p>
+<p class="style-scope bard-text-block" style="text-align: center; color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">
+<i class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">&quot;Como Melhorar Significativamente Qualquer Área da Sua Vida, 
+<br />
+se Condicionar para o Sucesso e Criar os Resultados 
+<br />
+e a Qualidade de Vida que Você Deseja&quot;</i>
+<br />
+</b>
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">- 
+<em>Mesmo que você já tenha tentado de tudo e nada tenha dado certo -</em></b>
+</p>
+<p class="style-scope bard-text-block" style="text-align: left; color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px 0px; line-height: 1.6;">
+<br />
+...e você pode fazer sua inscrição gratuita agora mesmo: 
+<br />
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">
+<a href="https://dk283.infusionsoft.com/app/linkClick/18628/0de684b7eafe9027/43888778/0063b4cfeff35f7e" class="bard-text-block style-scope" target="_blank" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;">http://superandoseuslimites.com.br/power-up-webinar</a></b>
+<br />
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+<![endif]-->
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255);">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]-->
+<!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="alignmentContainer" style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: center;">
+<table border="0" cellspacing="0" cellpadding="0" style="border-radius: 4px; border: none; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td align="center" valign="middle" bgcolor="#3A7522" style="background: rgb(58, 117, 34); border-radius: 4px; color: rgb(255, 255, 255); cursor: auto;">
+<a href="https://dk283.infusionsoft.com/app/linkClick/18626/8c49144381ace88c/43888778/0063b4cfeff35f7e" target="_blank" style="background: rgb(58, 117, 34); border: 1px solid rgb(58, 117, 34); border-radius: 4px; color: rgb(255, 255, 255); display: inline-block; font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 16px; font-weight: bold; text-decoration: none; text-size-adjust: none; width: 258px;">CLIQUE AQUI para assistir AGORA</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+<![endif]-->
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255);">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]-->
+<!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+Todas 
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">as pessoas </b>
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">querem alguma coisa melhor para as suas vidas</b>. E mesmo se a carreira estiver bem por exemplo, elas querem melhorar suas vidas pessoais, melhorar seus relacionamentos, ou melhorar sua saúde. Ou então se o relacionamento estiver bom elas querem conquistar algo melhor financeiramente, ou querem ter um emprego melhor. 
+<br />
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">Mas,</b> apesar das pessoas quererem algo melhor e terem potencial para conseguir isso, 
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">a grande maioria está vivendo muito abaixo das suas possibilidades</b>... param no meio do caminho, batem na trave na hora de realizar seus objetivos mais simples, se sentem constantemente frustradas e até deprimidas, e o pior, acabam desistindo dos seus sonhos.
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+O que cria uma vida extraordinária é um 
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">mindset extraordinário</b>, uma psicologia extraordinária, onde você simplesmente não se conforma. 
+<br />
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+É exatamente isso que eu vou te ensinar na minha 
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">NOVA AULA gratuita</b>.
+<br />
+<br />
+Esse treinamento será gratuito e você pode fazer sua inscrição agora: 
+<br />
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px 0px; line-height: 1.6;">
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">
+<a href="https://dk283.infusionsoft.com/app/linkClick/18624/aac149620a2f79ff/43888778/0063b4cfeff35f7e" class="bard-text-block style-scope" target="_blank" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;">=&gt; &quot;Como Melhorar Significativamente Qualquer Área da Sua Vida, se Condicionar para o Sucesso e Criar os Resultados e a Qualidade de Vida que Você Deseja&quot;</a></b>
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+<![endif]-->
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255);">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]-->
+<!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="alignmentContainer" style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: center;">
+<table border="0" cellspacing="0" cellpadding="0" style="border-radius: 4px; border: none; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td align="center" valign="middle" bgcolor="#3A7522" style="background: rgb(58, 117, 34); border-radius: 4px; color: rgb(255, 255, 255); cursor: auto;">
+<a href="https://dk283.infusionsoft.com/app/linkClick/18622/c6c7f7d33278a18d/43888778/0063b4cfeff35f7e" target="_blank" style="background: rgb(58, 117, 34); border: 1px solid rgb(58, 117, 34); border-radius: 4px; color: rgb(255, 255, 255); display: inline-block; font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 16px; font-weight: bold; text-decoration: none; text-size-adjust: none; width: 185px;">Clique aqui para assistir</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+<![endif]-->
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255);">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]-->
+<!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+Aqui está o que 
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">você irá aprender durante essa aula:</b>
+</p>
+<ol class="bard-text-block style-scope" style="padding: 0px 0px 0px 40px; margin-top: 16px; margin-right: 0px; margin-bottom: 16px; margin-left: initial; line-height: 1.6; font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: rgb(52, 52, 52);">
+<li class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">
+Como atingir os Resultados que você deseja e mudar sua Vida em 3 Passos Simples;
+</li>
+<li class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">
+As 3 Armadilhas devastadoras da Mentalidade que impede as pessoas de conseguirem o que elas querem;
+</li>
+<li class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">
+O Tipo de Mentalidade ideal para realmente mudar sua vida e viver uma vida extraordinária;
+</li>
+</ol>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+e muito, muito mais... 
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Aqui está o link para a sua inscrição gratuita: 
+<br />
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">
+<a href="https://dk283.infusionsoft.com/app/linkClick/18620/ede071bf92bdb454/43888778/0063b4cfeff35f7e" class="bard-text-block style-scope" target="_blank" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;">=&gt; Clique aqui para assistir a palestra</a></b>
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+Forte abraço
+<br />
+André Sampaio
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px 0px; line-height: 1.6;">
+<br />
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+<![endif]-->
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255);">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]-->
+<!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="alignmentContainer" style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div style="margin-left: auto; margin-right: auto;">
+<p style="font-family: Helvetica, Arial, sans-serif; padding: 0px; margin: 0px 0px 13px; line-height: 1.6; color: rgb(153, 153, 153); font-size: 11px;">
+<a href="https://dk283.infusionsoft.com/app/linkClick/18618/6c90c8b39643b1f6/43888778/0063b4cfeff35f7e" target="_blank" style="text-decoration: underline; padding: 0px; margin: 0px; line-height: 1.6; color: rgb(153, 153, 153);">Unsubscribe</a>
+</p>
+<p style="font-family: Helvetica, Arial, sans-serif; padding: 0px; margin: 13px 0px 0px; line-height: 1.6; color: rgb(153, 153, 153); font-size: 11px;">
+Superando seus Limites Av Queiroz Filho, 1.700 São Paulo, São Paulo 05319-000 Brazil
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+<![endif]-->
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</div>
+<img height="1" width="1" style="display: block;" alt="" src="https://dk283.infusionsoft.com/app/emailOpened/43888778/8854"></body>
+</html>
+------=_Part_629447_1042193522.1503690222184--
+

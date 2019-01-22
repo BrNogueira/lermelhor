@@ -1,0 +1,922 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201809 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/ssl/awstats.lermelhor.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2034                
+POS_TIME 2706                
+POS_VISITOR 17236               
+POS_DAY 32843               
+POS_DOMAIN 3482                
+POS_LOGIN 3943                
+POS_ROBOT 4098                
+POS_WORMS 4588                
+POS_EMAILSENDER 4719                
+POS_EMAILRECEIVER 4862                
+POS_SESSION 33337               
+POS_SIDER 33547               
+POS_FILETYPES 4997                
+POS_DOWNLOADS 5243                
+POS_OS 5291                
+POS_BROWSER 5476                
+POS_SCREENSIZE 5787                
+POS_UNKNOWNREFERER 5861                
+POS_UNKNOWNREFERERBROWSER 6091                
+POS_ORIGIN 6382                
+POS_SEREFERRALS 6519                
+POS_PAGEREFS 6694                
+POS_SEARCHWORDS 6868                
+POS_KEYWORDS 7020                
+POS_MISC 2369                
+POS_ERRORS 7079                
+POS_CLUSTER 3799                
+POS_SIDER_404 7240                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181001193929 1 0 9592229852726
+FirstTime 20180901011341
+LastTime 20180928144530
+LastUpdate 20181002092051 1 0 0 0 0
+TotalVisits 411                 
+TotalUnique 396                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 407                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 13 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 11 38 1134986 75 111 1776493
+1 3 3 3293 47 71 738792
+2 1 1 412 83 136 1718043
+3 3 41 1341493 60 83 1386493
+4 1 1 2469 67 181 2489714
+5 4 4 7819 58 87 1516848
+6 1 1 412 56 106 1873678
+7 215 216 706103 89 133 1391386
+8 568 569 1600311 55 95 1162988
+9 13 39 1163544 56 133 2033920
+10 1 1 0 2 9 80097
+11 2 2 412 17 57 785041
+12 1 1 412 16 31 337327
+13 2 63 2518959 16 56 1046044
+14 6 9 532294 24 41 423953
+15 2 2 2469 24 32 730756
+16 2 2 2881 28 42 430530
+17 4 4 32545 38 46 479855
+18 2 3 179764 29 41 448342
+19 1 18 700235 23 46 681185
+20 0 0 0 48 99 1441412
+21 1 22 455070 105 156 2406148
+22 2 74 2124610 55 76 889783
+23 8 29 1341404 63 124 1857820
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 19
+br 730 947 10406037
+us 48 92 1889086
+de 19 19 412
+fr 11 37 1109150
+kr 8 8 19752
+ca 7 7 15226
+nz 6 6 14814
+cn 4 4 9876
+ma 4 4 9876
+ua 3 3 3324
+jp 3 3 7407
+za 3 4 178530
+be 2 2 4938
+cl 2 2 2881
+ro 1 1 412
+ru 1 1 1
+hu 1 1 2469
+bg 1 1 412
+ch 0 1 177294
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+Googlebot/ 483 5153537 20180929091002 142
+MJ12bot/ 195 2910825 20180929090357 39
+bingbot/ 150 4601979 20180929075906 35
+feed 101 361075 20180929073755 0
+YandexBot/ 44 6585 20180928112151 43
+DotBot/ 40 248140 20180929091356 27
+facebookexternalhit/ 35 1482258 20180927212816 0
+AhrefsBot/ 25 445033 20180929022248 10
+Googlebot\-Image/ 8 632796 20180922081516 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+jpeg 11 564279 0 0
+png 4 152320 0 0
+gif 6 1618 0 0
+html 19 541087 0 0
+Unknown 4 8812 0 0
+css 139 2495655 0 0
+js 83 2808692 0 0
+jpg 46 5317712 0 0
+php 829 1959632 0 0
+xml 2 2090 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+win7 6 4
+linuxandroid 119 5
+win10 86 3
+ios_iphone 8 8
+winxp 13 13
+win8 39 1
+Unknown 796 796
+win8.1 71 19
+winunknown 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 14
+chrome68.0.3440.91 37 0
+chrome68.0.3440.106 21 1
+firefox29.0 13 13
+android 5 5
+edge17 1 0
+firefox59.0 1 1
+Unknown 801 801
+chrome69.0.3497.100 140 3
+firefox34.0 1 1
+chrome67.0.3396.99 88 19
+chrome40.0.2214.85 2 2
+msie11.0 2 0
+chrome67.0.3396.87 23 0
+iphone 8 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Poster 20180925193340
+python-requests/2.18.4 20180904085021
+WordPress 20180926143844
+WordPress/4.7.11;_https://lermelhor.com.br 20180928144530
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+python-requests/2.18.4 20180904085021
+Windows_Live_Writer 20180926091029
+Poster 20180925193340
+WordPress/4.7.11;_https://lermelhor.com.br 20180928144530
+wp-windowsphone 20180924213702
+WordPress 20180926143844
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 813 813
+From1 0 0
+From2 0 7
+From3 5 5
+From4 36 318
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+bing 0 3
+www_google_com_br 0 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://m.facebook.com 5 5
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+404 421 7827339
+301 206 3446
+500 177 4329713
+405 2 84
+206 2 123838
+302 80 0
+400 10 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 174
+/wp-content/plugins/all-in-one-wp-security-and-firewall/lib/whois/whois.nu-core.php 3 http://site.ru
+/wp-includes/random_compat/.control.php 1 http://site.ru
+/this_page_does_not_exist/wp-login.php 1 -
+/videos/Tire-suas-d%C3%83%C2%BAvidas.php 5 -
+/about.php 3 http://site.ru
+/wp-content/gallery/permanent-lips/dynamic/yundr.php 1 http://site.ru
+/old/wp-admin/install.php 1 -
+/console 3 -
+/wp-content/plugins/ultimate-member/assets/js/um-scripts.js 5 http://lermelhor.com.br/wp-content/plugins/ultimate-member/assets/js/um-scripts.js
+/painel/wp-login.php 1 -
+/videos/images/2/DiarioRegional.png 1 http://lermelhor.com.br/videos/Portf%C3%B3lio.php
+/wp-content/plugins/cronblocks/Marvins.php 1 http://site.ru
+/license.php 1 -
+/wawa.php 2 http://site.ru
+/login/wp-login.php 1 -
+/conf.ini.php 1 http://site.ru
+/wp-includes/modules.php 1 -
+/promocional/Para%20come%C3%A7ar%20%22click%20aqui%22%20para%20fazer%20a%20sess%C3%A3o%20do%20modelo%20de%20coaching. 3 -
+/M%C3%83%C2%B3dulo-3/rvsindex.php 8 -
+/dama.php 1 http://site.ru
+/videos/images/depoimento2013-20104.jpg 1 -
+/wordpress/wp-admin/install.php 1 -
+/coaching/images/headerbanner/header_eefaf277e481110115a32d0adf87d8ef.jpg 2 -
+/wp-content/themes/twentysixteen/genericons/Marvins.php 3 http://site.ru
+/M%C3%B3dulo-3/customcss/cssProjectefd5c7b6a0a61a174df37cdfd2c3037e.css 2 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/blog/wp-admin/install.php 1 -
+/wp-includes/js/tinymce/global.php 1 -
+/M%C3%B3dulo-3/js/jquery-ui/ui/minified/jquery-ui.min.js 3 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/novo/wp-login.php 1 -
+/wp/wp-login.php 1 -
+/wp-content/themes/deCente-child/Marvins.php 2 http://site.ru
+/ads.txt 40 -
+/wp-includes/js/tinymce/plugins/wordpress/ortdg.php 1 http://site.ru
+/videos/images/FlavioAugusto.jpg 1 http://lermelhor.com.br/videos/Portf%C3%B3lio.php
+/author/LerMelhor/ 3 -
+/coaching/images/headerbanner/header_banner.jpg 1 http://lermelhor.com.br/coaching/
+/copia/images/%C3%81readoalunook.jpg 1 -
+/portal/wp-login.php 1 -
+/promocional/Para%20come%C3%83%C2%A7ar%20\"click%20aqui\"%20para%20fazer%20a%20sess%C3%83%C2%A3o%20do%20modelo%20de%20coaching. 1 -
+/.well-known/assetlinks.json 5 -
+/Modulo-3/Para%20come%C3%A7ar%20%22click%20aqui%22%20para%20fazer%20a%20sess%C3%A3o%20do%20modelo%20de%20coaching. 9 -
+/wordpress/wp-login.php 1 -
+/wp-content/plugins/js_composer/config/grids/wp-search.php 2 http://site.ru
+/wp-content/uploads/wp-crawl.php 1 lermelhor.com.br
+/wp-content/plugins/404-plugin/wj.php 4 http://site.ru
+/neuroci%C3%83%C2%AAncias/promocional/O-que-voc%C3%83%C2%AA-sabe-.php 3 -
+/wp-content/themes/Avada/tribe-events/day/.wplogins.php 1 http://site.ru
+/wp/wp-admin/install.php 1 -
+/admin/wp-login.php 1 -
+/wp-content/plugins/master-popups/libs/integrations/MailgunAPI1/vendor/php-http/message/src/Stream/wp-rewrite.php 1 http://site.ru
+/wp-config.php~ 4 http://lermelhor.com.br/wp-config.php~
+/matriz/documents/ProjetoLeitura.doc 1 -
+/wp-content/plugins/wp-db-ajax-made/wp-ajax.php 1 -
+/searchreplacedb2.php 5 http://lermelhor.com.br/searchreplacedb2.php
+/videos/images/fotoDiadema.jpg 1 http://lermelhor.com.br/videos/Portf%C3%B3lio.php
+/old/wp-login.php 1 -
+/videos/images/Jo%C3%A3emenina.jpg 1 http://lermelhor.com.br/videos/Portf%C3%B3lio.php
+/installer-backup.php 21 lermelhor.com.br/wp-admin/admin-ajax.php
+/wp-admin/includes/menustype.php 1 -
+/fossil/popup-pomo.php 2 http://site.ru
+/php.php 1 http://site.ru
+/content-post.php 1 -
+/coaching/images/headerbanner/header_f9cd8c8807c6b6a95fa34e23cbf848c6.jpg 2 -
+/wp-content/uploads/2018/2018.php 1 lermelhor.com.br
+/wp-content/themes/maxbusiness/baer.php 1 -
+/scripts/setup.php 8 -
+/M%C3%B3dulo-3/js/jquery-ui/jquery.min.js 3 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/coaching/images/headerbanner/new_interview_fmt.jpeg 2 -
+/coaching/images/headerbanner/header_f89a807186936f5312ff167a0169cdfa.jpg 2 -
+/images/06793a7843e2ff15dfd6817f495c91c9.jpg 1 -
+/wp-content/themes/kurtthomas/404.php 3 http://site.ru
+/M%C3%B3dulo-3/css/rvwysiwyg-ui.css 3 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/phpmyadmin/ 2 -
+/backup/wp-login.php 1 -
+/media/palavras.flv 1 -
+/steadf/popup-pomo.php 2 http://site.ru
+/wp-includes/pomo/404.php 2 http://site.ru
+/phpmyadmin/scripts/setup.php 3 -
+/M%C3%B3dulo-3/js/jquery-ui/external/responsivecarousel/autoinit.js 2 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/neurociencias/promocional/Para%20come%C3%A7ar%20%22click%20aqui%22%20para%20fazer%20a%20sess%C3%A3o%20do%20modelo%20de%20coaching. 3 -
+/r.php 2 http://site.ru
+/404.php 2 http://site.ru
+/sfn.php 1 -
+/wp-content/themes/odin-master/core/.type_relatie_select.php 1 http://site.ru
+/videos/images/FernandesSoares.jpg 1 http://lermelhor.com.br/videos/Portf%C3%B3lio.php
+/coaching/images/headerbanner/header_ab243f410213147176fbd82a6ac2a9fe.jpg 2 -
+/wp-includes/SimplePie/Parser-helper.php 1 http://site.ru
+/so.php 2 http://site.ru
+/new/wp-login.php 1 -
+/M%C3%B3dulo-3/js/jquery-ui/external/responsivecarousel/responsiveslides.css 3 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/surly/popup-pomo.php 2 http://site.ru
+/wp-content/plugins/arforms/js/filedrag/filedrag.js 1 lermelhor.com.br
+/peridot/popup-pomo.php 2 http://site.ru
+/ 17 -
+/m%C3%83%C2%B3dulo-2/rvsindex.php 8 -
+/M%C3%B3dulo-3/js/jquery-ui/themes/base/ui.all.css 2 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/wp-content/plugins/aksimet/ahmed/k.php 3 http://site.ru
+/wdb.php 1 -
+/M%C3%B3dulo-3/js/jquery-ui/external/responsivecarousel/responsiveslides.min.js 2 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/wp-content/plugins/all-in-one-seo/all-in-one-seo.php 1 -
+/wp-content/plugins/easyrotator-for-wordpress/wj.php 1 http://site.ru
+/M%C3%B3dulo-3/js/jquery-ui/external/responsivecarousel/themes/themes.css 3 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/wp-config.php.backup 1 https://lermelhor.com.br/wp-config.php.backup
+/wp-content/plugins/wpml-translation-management/vendor/twig/twig/lib/macedes.php 3 http://site.ru
+/wp-content/content-footer.php.suspected 4 http://site.ru
+/M%C3%B3dulo-3/js/publishNavigator/ddsmoothmenu-v.css 2 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/wp-content/plugins/wordtwit/include/extensions/.editor.php 1 http://site.ru
+/wp-includes/images/hon2our.php 1 -
+/wp-content/plugins/custom_login/Marvins.php 2 http://site.ru
+/videos/images/2/12516850_1054248367966191_1231618284_o1.jpg 1 http://lermelhor.com.br/videos/Portf%C3%B3lio.php
+/teste/wp-login.php 1 -
+/wp-content/plugins/wp-file-manager/lib/php/plugins/AutoRotate/roots.php 1 http://site.ru
+/wp-content/plugins/akismet/views/strict.php 1 http://site.ru
+/wp-content/plugins/jurig/idx.php 2 http://site.ru
+/post-a-job/ 4 http://lermelhor.com.br/post-a-job/
+/videos/images/Epitacio.jpg 2 -
+/coachingpravoce/media/video.flv 1 -
+/Modulo-3/optimizer.php 2 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/scripts/popup-pomo.php 2 http://site.ru
+/options.php 1 -
+/wp-check.php 1 -
+/m.php 1 http://site.ru
+/installer.php 11 lermelhor.com.br
+/phpMyAdmin/scripts/setup.php 8 -
+/documents/ProjetoLeitura.doc 2 -
+/tbl_status.php 1 lermelhor.com.br
+/wp-content/plugins/custom-facebook-feed/k.php 2 http://site.ru
+/wp-content/plugins/smart-google-code-inserter/screenshot1.jpg 5 http://lermelhor.com.br/wp-content/plugins/smart-google-code-inserter/screenshot1.jpg
+/matriz/images/Gab.Ver.Ari.jpeg 1 https://www.google.com.br/
+/wp-content/plugins/easyrotator-for-wordpress/indox.php 2 http://site.ru
+/baer.php 1 -
+/phqmv.php 1 -
+/M%C3%B3dulo-3/rvsincludefile/rvsheadpage.js 3 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/wp-includes/SimplePie/Canonical.php 1 lermelhor.com.br
+/wp-content/plugins/fac/idx.php 1 http://site.ru
+/wp-content/plugins/mojo-marketplace-wp-plugin/inc/mojo-themes-riff.php 3 http://site.ru
+/wp-content/plugins/wp-ceo/sh.php 1 lermelhor.com.br
+/wp-content/uploads/2017/03/Pensamento-elevado-2.jpg 2 -
+/demonstracao/ 1 -
+/M%C3%B3dulo-3/customcss/cssProjectPage8456e88a19aadc17610b509d0b80265e.css 5 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/w.php 1 http://site.ru
+/site/wp-login.php 1 -
+/coaching/images/headerbanner/header_788623b32d424edc9404c051c8a30954.jpg 2 -
+/copia/js/jquery-ui/ui/minified/jquery-ui.min.js 2 http://lermelhor.com.br/copia/contato.php
+/new/wp-admin/install.php 1 -
+/wp-upload-class.php 1 lermelhor.com.br
+/pma/scripts/setup.php 5 -
+/imprima.php 1 -
+/wp-includes/js/tinymce/plugins/tabfocus/server.php 1 http://site.ru
+/wp-admin/home.bak.php 1 -
+/wp-content/plugins/types/application/.sort-cb.php 1 http://site.ru
+/wp-admin/logs.php 2 http://site.ru
+/wp-content/themes/twentyfourteen/genericons/mavevasd.php 1 http://site.ru
+/oldsite/wp-admin/install.php 1 -
+/wp-admin/theme-uploader.php 1 -
+/entrar/wp-login.php 1 -
+/wp-content/uploads/2018/08/tbl_status.php 1 lermelhor.com.br
+/permalink/popup-pomo.php 3 http://site.ru
+/blog/wp-login.php 1 -
+/M%C3%B3dulo-3/rvsincludefile/rvscustomopenwindow.js 2 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/STRUTS_STRU 2 -
+/js.php 7 http://site.ru
+/wp-content/themes/twentyseventeen/template-parts/footer/.framework.php 2 http://site.ru
+/wp-admin/includes/mide.php 1 http://site.ru
+/M%C3%B3dulo-3/js/publishNavigator/ddsmoothmenu.css 2 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/videos/Comprove-o-teste.php 1 -
+/wp-config.backup 1 https://lermelhor.com.br/wp-config.backup
+/wp-crawl.php 1 lermelhor.com.br
+/coachingpravoce/documents/ProjetodoSite.doc 1 -
+/neuroci%C3%AAncias/promocional/images/headerbanner/header_banner.jpg 1 -
+/wp-content/plugins/contact-form-7/includes/admin.php 1 http://site.ru
+/Esjfglis.php 2 http://site.ru
+/coachingpravoce/media/palavras.flv 2 -
+/wp-content/plugins/apikey/tbl_status.php 1 lermelhor.com.br
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 407
+93.104.215.69 16 16 0 20180928144530
+195.154.50.91 10 36 1108738 20180913000238
+192.3.105.198 9 35 1081535 20180924091221
+187.35.125.235 8 8 19752 20180904081559
+152.241.147.131 8 8 19752 20180904081307
+179.162.33.198 7 7 17283 20180904083818
+131.0.132.207 6 6 14814 20180904084800
+179.157.224.80 6 6 14814 20180904082335
+177.74.209.45 6 6 14814 20180904075402
+201.65.9.18 6 6 14814 20180904083935
+45.65.221.85 6 6 14814 20180904083911
+181.213.100.48 4 4 9876 20180904082553
+200.131.5.200 4 4 9876 20180904084215
+177.45.222.140 4 4 9876 20180904084413
+177.154.249.195 4 4 9876 20180904084817
+179.185.244.194 4 4 9876 20180904082220
+177.67.41.14 4 4 9876 20180904084958
+200.19.220.173 4 4 9876 20180904084022
+177.73.173.170 4 4 9876 20180904083714
+177.8.63.244 4 4 9876 20180904081708
+177.73.1.153 4 4 9876 20180904083918
+177.50.144.65 4 4 9876 20180904084943
+138.219.181.48 4 4 9876 20180904082337
+177.143.187.81 4 4 9876 20180904084457
+179.187.114.41 4 4 9876 20180904084835
+107.180.109.8 1 1 412 20180901061803
+138.121.131.202 2 2 4938 20180904074424
+1.214.196.154 1 1 2469 20180925170616
+187.113.104.32 2 2 4938 20180904081530
+170.79.170.82 2 2 4938 20180904082431
+179.185.94.251 2 2 4938 20180904081206
+200.206.155.73 2 2 4938 20180904082011
+191.35.197.191 2 2 4938 20180904074506
+201.55.193.200 2 2 4938 20180904080707
+177.207.68.194 2 2 4938 20180904084004
+187.255.195.106 2 2 4938 20180904074937
+201.9.234.231 1 1 2469 20180904084830
+138.97.117.233 2 2 4938 20180904081415
+179.180.2.118 2 2 4938 20180904080448
+177.68.231.169 2 2 4938 20180904075842
+179.210.248.191 2 2 4938 20180904084636
+187.2.19.236 2 2 4938 20180904074900
+187.101.89.156 2 2 4938 20180904082549
+181.220.180.22 1 1 2469 20180904084242
+187.60.117.79 2 2 4938 20180904082151
+45.5.200.4 1 1 2469 20180904084228
+177.203.17.133 2 2 4938 20180904075738
+179.236.135.136 2 2 4938 20180904073748
+187.62.45.10 2 2 4938 20180904084800
+179.97.200.10 2 2 4938 20180904081826
+189.33.55.149 2 2 4938 20180904082033
+191.33.178.26 2 2 4938 20180904082215
+186.206.34.83 2 2 4938 20180904081738
+168.195.163.47 2 2 4938 20180904084031
+187.87.37.31 2 2 4938 20180904073955
+189.79.105.63 2 2 4938 20180904082416
+191.188.83.111 0 37 1294171 
+177.66.119.79 2 2 4938 20180904083634
+201.23.159.16 2 2 4938 20180904084243
+168.195.182.22 2 2 4938 20180904074735
+187.113.168.81 2 2 4938 20180904080240
+177.11.150.34 2 2 4938 20180904084712
+179.127.205.136 2 2 4938 20180904080223
+189.4.169.81 2 2 4938 20180904075413
+177.66.73.28 2 2 4938 20180904082527
+191.19.120.133 2 2 4938 20180904084024
+186.244.145.199 2 2 4938 20180904084111
+201.88.190.89 1 1 2469 20180904083819
+189.100.0.197 2 2 4938 20180904080758
+177.47.27.226 1 1 2469 20180904082403
+179.55.136.154 2 2 4938 20180904081427
+94.130.163.55 1 1 412 20180926005854
+64.111.111.8 1 1 412 20180911035628
+201.27.223.170 2 2 4938 20180904075732
+189.24.78.59 1 1 2469 20180904084216
+196.41.130.154 1 1 412 20180913072934
+177.19.60.221 1 1 2469 20180904083617
+177.37.179.31 2 2 4938 20180904080121
+187.37.107.112 2 2 4938 20180904082042
+187.40.78.200 1 1 2469 20180904083911
+191.243.229.183 2 2 4938 20180904075106
+187.180.122.66 2 2 4938 20180904075800
+177.69.95.225 2 2 4938 20180904074754
+138.185.9.75 2 2 4938 20180904084644
+200.146.77.131 2 2 4938 20180904083936
+189.108.253.138 2 2 4938 20180904080753
+114.30.203.34 1 1 2469 20180925185116
+41.185.8.52 1 1 412 20180925193340
+168.0.99.26 2 2 4938 20180904080314
+159.168.141.250 0 1 177294 
+201.55.196.21 2 2 4938 20180904084335
+177.204.26.145 2 2 4938 20180904083936
+201.18.153.188 2 2 4938 20180904080843
+191.39.25.161 0 54 1988358 
+189.90.244.110 2 2 4938 20180904075014
+187.45.113.13 2 2 4938 20180904081558
+177.130.193.110 1 1 2469 20180904082402
+187.123.74.11 2 2 4938 20180904084446
+177.183.215.50 2 2 4938 20180904075359
+200.167.152.25 2 2 4938 20180904080327
+177.102.18.247 2 2 4938 20180904084722
+50.28.56.17 1 1 412 20180913015620
+187.2.84.214 2 2 4938 20180904080113
+200.158.210.48 2 2 4938 20180904075915
+179.211.238.2 2 2 4938 20180904084031
+201.21.38.12 2 2 4938 20180904073958
+216.138.226.240 1 1 412 20180912175542
+186.195.88.191 2 2 4938 20180904084359
+201.3.158.171 2 2 4938 20180904084633
+201.13.5.161 2 2 4938 20180904073617
+179.209.152.226 2 2 4938 20180904074740
+189.58.73.88 2 2 4938 20180904081503
+177.96.181.198 2 2 4938 20180904082555
+179.110.236.177 2 2 4938 20180904074704
+170.83.183.65 2 2 4938 20180904080631
+189.124.82.147 1 1 2469 20180904083735
+191.54.3.112 2 2 4938 20180904075154
+128.201.181.26 0 1 25836 
+189.111.68.70 2 2 4938 20180904082402
+187.84.154.138 0 1 177294 
+179.146.156.13 2 2 4938 20180904080926
+177.154.83.8 2 2 4938 20180904082554
+189.30.239.148 1 1 2469 20180904084831
+200.133.33.116 2 2 4938 20180904084545
+181.222.28.193 2 2 4938 20180904084914
+191.19.102.191 2 2 4938 20180904084620
+175.203.210.130 1 1 2469 20180921154152
+189.124.183.82 2 2 4938 20180904082121
+177.190.200.162 2 2 4938 20180904084321
+189.6.153.20 2 2 4938 20180904081531
+61.74.40.39 1 1 2469 20180903230514
+201.82.189.76 1 1 27198 20180913090616
+187.65.221.66 2 2 4938 20180904074426
+170.82.194.2 2 2 4938 20180904081958
+177.202.33.25 2 2 4938 20180904081714
+200.252.60.186 3 3 7407 20180904082500
+189.74.160.85 2 2 4938 20180904075432
+201.17.202.69 2 2 4938 20180904080526
+179.221.22.82 2 2 4938 20180904083714
+179.159.56.92 2 2 4938 20180904074749
+154.0.164.224 1 1 412 20180912125004
+200.101.181.100 2 2 4938 20180904082521
+191.39.12.245 1 1 27195 20180925175604
+191.210.87.85 2 2 4938 20180904081714
+177.159.28.246 2 2 4938 20180904081851
+177.183.247.53 1 1 2469 20180904083617
+177.124.184.116 1 1 2469 20180904083822
+187.84.205.122 2 2 4938 20180904081827
+191.37.20.10 2 2 4938 20180904084408
+168.197.92.200 0 17 699823 
+164.163.37.3 1 1 2469 20180904072131
+177.63.248.57 2 2 4938 20180904080115
+152.237.217.250 2 2 4938 20180904082021
+177.41.132.28 2 2 4938 20180904075732
+187.16.136.36 3 3 7407 20180904082610
+187.37.169.147 4 4 9876 20180904084753
+138.59.121.140 2 2 4938 20180904080758
+168.197.77.85 2 2 4938 20180904084815
+177.97.73.77 2 2 4938 20180904081706
+177.83.219.48 1 1 2469 20180904084145
+187.21.242.52 4 4 9876 20180904075628
+187.72.243.239 0 1 177294 
+61.134.52.164 1 1 2469 20180925170546
+187.18.220.102 2 2 4938 20180904082432
+191.7.50.187 3 3 7407 20180904084901
+177.39.56.70 2 2 4938 20180904080515
+82.196.25.71 1 1 412 20180924024155
+201.22.152.131 2 2 4938 20180904081509
+201.92.79.96 2 2 4938 20180904081922
+201.8.65.94 2 2 4938 20180904073559
+191.178.56.15 3 3 7407 20180904082554
+189.13.225.4 2 2 4938 20180904081812
+186.220.252.4 2 2 4938 20180904083735
+179.209.73.229 2 2 4938 20180904081833
+201.17.158.98 2 2 4938 20180904080620
+189.18.205.145 2 2 4938 20180904080832
+189.26.194.200 3 3 7407 20180904083848
+187.19.213.197 2 2 4938 20180904075626
+118.62.9.2 1 1 2469 20180918050105
+187.60.38.225 2 2 4938 20180904084036
+187.113.13.135 2 2 4938 20180904084153
+187.116.102.220 2 2 4938 20180904082307
+201.8.10.173 2 2 4938 20180904081637
+59.51.167.238 1 1 2469 20180918050040
+177.204.215.159 2 2 4938 20180904073614
+187.66.162.156 2 2 4938 20180904084636
+177.141.28.190 2 2 4938 20180904073548
+177.12.176.10 1 1 2469 20180904084908
+179.108.66.68 2 2 4938 20180904084203
+186.195.61.43 2 2 4938 20180904083654
+177.92.7.222 2 2 4938 20180904075030
+45.230.30.73 2 2 4938 20180904084430
+168.181.51.53 2 2 4938 20180904081059
+200.236.247.215 2 2 4938 20180904084727
+177.74.121.193 2 2 4938 20180904081711
+189.27.113.21 2 2 4938 20180904081730
+186.241.19.194 2 2 4938 20180904082321
+179.184.112.26 2 2 4938 20180904081527
+138.246.253.5 2 2 0 20180928035951
+177.133.124.122 2 2 4938 20180904080032
+200.160.28.66 0 1 177294 
+85.13.139.234 1 1 412 20180925055325
+189.45.89.5 2 2 4938 20180904081353
+200.192.114.21 2 2 4938 20180904081011
+201.34.250.93 2 2 4938 20180904081639
+201.21.37.74 2 2 4938 20180904074628
+200.216.209.199 2 2 4938 20180904081926
+187.102.2.75 2 2 4938 20180904081757
+177.85.254.0 2 2 4938 20180904081025
+177.70.69.55 2 2 4938 20180904084340
+179.162.103.194 2 2 4938 20180904075017
+181.191.49.43 1 1 2469 20180904084116
+177.27.246.5 2 2 4938 20180904081951
+201.37.160.86 1 1 2469 20180904084231
+189.92.120.61 0 23 635674 
+179.222.130.105 4 4 9876 20180904080844
+187.103.124.22 2 2 4938 20180904074653
+177.148.146.114 4 4 9876 20180904081646
+45.231.21.124 2 2 4938 20180904074946
+179.35.104.58 1 1 2469 20180904085009
+177.41.250.112 2 2 4938 20180904081911
+189.83.21.112 2 2 4938 20180904084601
+179.98.45.108 2 2 4938 20180904075643
+200.19.252.2 2 2 4938 20180904081247
+177.41.181.247 2 2 4938 20180904084204
+181.223.193.174 4 4 9876 20180904080454
+187.102.173.34 2 2 4938 20180904075229
+201.43.15.234 2 2 4938 20180904073947
+186.206.231.136 2 2 4938 20180904075956
+201.6.230.190 2 2 4938 20180904080412
+187.54.172.224 2 2 4938 20180904075103
+177.40.63.237 2 2 4938 20180904074354
+177.138.103.43 2 2 4938 20180904080404
+179.113.74.168 2 2 4938 20180904074118
+187.16.156.22 2 2 4938 20180904082401
+110.10.130.19 1 1 2469 20180907080939
+189.114.143.168 2 2 4938 20180904084557
+143.137.186.56 2 2 4938 20180904080535
+177.82.204.151 2 2 4938 20180904080258
+187.60.79.101 4 4 9876 20180904083646
+89.33.25.114 1 1 412 20180926143844
+201.94.239.29 2 2 4938 20180904083956
+189.6.235.88 2 2 4938 20180904075648
+177.157.177.16 4 4 9876 20180904075550
+179.185.137.205 2 2 4938 20180904083720
+191.35.242.238 1 1 2469 20180904083819
+201.22.103.187 2 2 4938 20180904080058
+179.156.103.214 2 2 4938 20180904075355
+179.108.200.185 3 3 7407 20180904082542
+72.167.190.61 1 1 412 20180924161626
+143.0.21.129 2 2 4938 20180904080900
+187.60.219.196 4 4 9876 20180904073758
+187.56.53.245 2 2 4938 20180904082353
+191.37.179.160 4 4 9876 20180904080735
+179.252.168.82 1 1 2469 20180904083728
+168.194.161.90 2 2 4938 20180904081931
+152.235.200.14 2 2 4938 20180904082351
+179.234.49.110 1 1 2469 20180904085021
+189.10.48.85 2 2 4938 20180904082415
+189.124.134.166 2 2 4938 20180904075833
+200.150.87.115 2 2 4938 20180904084441
+187.10.31.90 2 2 4938 20180904080331
+186.223.76.162 1 1 2469 20180904083906
+190.107.177.60 1 1 412 20180926091029
+189.48.148.222 2 2 4938 20180904084606
+179.221.85.246 2 2 4938 20180904080712
+186.223.98.145 2 2 4938 20180904081725
+186.224.91.189 0 1 177294 
+200.97.30.208 2 2 4938 20180904080648
+189.25.100.215 2 2 4938 20180904084234
+177.130.93.124 2 2 4938 20180904082136
+191.242.189.167 2 2 4938 20180904080338
+191.186.20.141 2 2 4938 20180904084723
+201.77.125.21 1 1 2469 20180904082431
+170.82.80.147 1 1 2469 20180904084147
+177.149.189.196 2 2 4938 20180904084446
+177.5.21.191 2 2 4938 20180904073559
+186.220.33.80 1 1 2469 20180904083848
+186.216.243.154 2 2 4938 20180904080138
+186.215.148.173 2 2 4938 20180904074915
+177.136.146.160 2 2 4938 20180904080725
+179.198.81.22 2 2 4938 20180904075929
+186.235.50.166 2 2 4938 20180904084818
+175.205.158.238 1 1 2469 20180907080414
+189.59.22.61 2 2 4938 20180904081001
+177.156.70.108 2 2 4938 20180904074058
+189.111.58.25 2 2 4938 20180904081741
+132.255.216.52 2 2 4938 20180904075159
+191.177.186.10 2 2 4938 20180904074008
+186.215.86.250 2 2 4938 20180904082005
+179.106.24.93 2 2 4938 20180904075834
+179.182.126.220 2 2 4938 20180904082253
+186.242.241.218 2 2 4938 20180904075039
+91.82.50.8 1 1 2469 20180921162651
+201.53.150.202 2 2 4938 20180904084337
+170.233.43.51 2 2 4938 20180904082209
+132.255.31.59 1 1 2469 20180904084108
+177.135.250.206 1 1 2469 20180904084831
+201.6.131.186 1 1 2469 20180904083815
+131.0.227.138 1 1 2469 20180904081147
+177.82.156.146 2 2 4938 20180904073557
+177.0.42.199 1 1 2469 20180904084213
+60.212.42.56 1 1 2469 20180922012556
+179.184.156.194 1 1 2469 20180904085024
+191.242.240.76 2 2 4938 20180904075736
+187.95.126.44 2 2 4938 20180904083945
+181.220.114.68 4 4 9876 20180904084056
+177.206.254.190 2 2 4938 20180904082506
+200.187.180.234 1 1 2469 20180904084241
+179.96.253.179 2 2 4938 20180904073608
+179.212.198.2 2 2 4938 20180904080631
+91.134.248.211 1 1 412 20180901011341
+124.193.199.202 1 1 2469 20180904053501
+187.180.182.196 2 2 4938 20180904075032
+187.180.183.22 2 2 4938 20180904081941
+191.55.12.224 2 2 4938 20180904084624
+189.27.249.21 2 2 4938 20180904080551
+179.108.237.204 2 2 4938 20180904080508
+177.200.80.134 2 2 4938 20180904075910
+148.66.146.16 1 1 412 20180924080837
+186.213.63.244 2 2 4938 20180904081919
+191.32.73.172 2 2 4938 20180904075204
+201.74.170.99 4 4 9876 20180904081231
+201.54.206.114 1 1 2469 20180904084114
+187.9.143.34 2 2 4938 20180904081935
+201.6.235.200 2 2 4938 20180904082153
+177.159.47.127 2 2 4938 20180904081140
+177.37.202.186 4 4 9876 20180904082006
+177.66.173.36 2 2 4938 20180904080532
+187.32.237.33 2 2 4938 20180904075240
+31.177.95.233 1 1 1 20180912181723
+201.140.231.114 4 4 9876 20180904081455
+177.33.130.218 2 2 4938 20180904082515
+189.78.35.43 2 2 4938 20180904084441
+177.79.102.81 1 1 27208 20180913085750
+177.103.49.241 2 2 4938 20180904084116
+177.84.146.20 3 3 7407 20180904084704
+187.109.233.94 2 2 4938 20180904081412
+131.196.170.28 2 2 4938 20180904084529
+186.216.138.120 2 2 4938 20180904080022
+64.20.55.186 1 1 412 20180901081647
+186.204.196.175 2 2 4938 20180904081751
+186.192.180.187 2 2 4938 20180904084225
+197.101.48.125 0 1 177294 
+177.94.6.161 2 2 4938 20180904073515
+199.188.200.133 1 1 412 20180925111840
+177.72.59.59 3 3 7407 20180904085010
+187.106.150.127 3 3 7407 20180904084303
+45.7.167.8 2 2 4938 20180904081422
+200.252.7.194 3 3 7407 20180904083646
+187.255.195.87 2 2 4938 20180904085020
+177.133.212.240 2 2 4938 20180904080612
+138.204.235.169 2 2 4938 20180904080422
+177.143.105.171 1 1 27207 20180913091921
+189.25.8.236 4 4 9876 20180904082346
+179.158.101.247 2 2 4938 20180904073815
+200.155.168.54 2 2 4938 20180904074454
+187.95.106.70 2 2 4938 20180904081536
+201.81.161.207 1 39 1341081 20180922031829
+177.134.251.201 2 2 4938 20180904081655
+201.8.159.67 2 2 4938 20180904084953
+143.208.78.10 2 2 4938 20180904074943
+186.248.159.84 1 1 2469 20180904083849
+191.35.61.143 2 2 4938 20180904080937
+177.53.85.117 4 4 9876 20180904084815
+186.214.11.201 1 1 2469 20180904084235
+189.13.161.217 1 1 2469 20180904085023
+170.245.123.225 2 2 4938 20180904081817
+177.155.39.255 2 2 4938 20180904084738
+179.177.162.69 2 2 4938 20180904084738
+177.133.7.199 2 2 4938 20180904075817
+177.184.200.146 2 2 4938 20180904080908
+179.232.154.168 2 2 4938 20180904074509
+177.206.162.88 2 2 4938 20180904084827
+177.154.74.136 2 2 4938 20180904083917
+201.81.160.182 2 2 4938 20180904074031
+179.190.17.60 2 2 4938 20180904080743
+179.127.177.21 2 2 4938 20180904084359
+187.111.144.94 2 2 4938 20180904084104
+168.194.136.3 2 2 4938 20180904084944
+49.246.3.246 1 1 2469 20180918044237
+177.135.174.102 2 2 4938 20180904084633
+179.219.89.75 2 2 4938 20180904081605
+201.55.31.73 2 63 2518959 20180921134919
+193.106.30.98 1 1 2500 20180906075520
+187.18.215.110 1 1 2469 20180904084840
+187.113.95.102 2 2 4938 20180904074002
+177.42.133.162 2 2 4938 20180904074958
+177.200.194.234 2 2 4938 20180904081503
+187.15.213.19 2 2 4938 20180904080732
+200.166.199.98 2 2 4938 20180904075335
+201.25.172.216 2 2 4938 20180904074405
+201.49.87.6 4 4 9876 20180904081304
+201.95.96.23 2 2 4938 20180904074931
+189.124.178.88 2 2 4938 20180904084712
+177.140.58.13 1 1 27192 20180913092352
+186.226.55.254 2 2 4938 20180904080344
+179.124.18.1 2 2 4938 20180904084954
+177.43.142.7 2 2 4938 20180904084621
+201.17.16.142 4 4 9876 20180904083943
+201.41.119.15 2 2 4938 20180904083826
+187.34.144.2 2 2 4938 20180904083817
+200.129.176.4 2 2 4938 20180904084655
+186.247.199.42 2 2 4938 20180904082108
+94.130.129.47 1 1 412 20180924213702
+186.214.36.3 2 2 4938 20180904075422
+200.138.221.46 3 3 7407 20180904084324
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 20
+20180901 3 3 1236 3
+20180903 3 22 1056880 2
+20180904 777 794 2618236 353
+20180905 1 1 0 1
+20180906 2 2 2500 2
+20180907 2 2 4938 2
+20180911 1 1 412 1
+20180912 5 6 178119 5
+20180913 16 42 1218367 7
+20180917 0 23 635674 0
+20180918 5 96 3289936 5
+20180920 1 2 177294 1
+20180921 7 51 1824074 6
+20180922 2 40 1343550 2
+20180923 1 1 0 1
+20180924 13 39 1083183 5
+20180925 8 9 213132 8
+20180926 3 4 178530 3
+20180927 1 1 0 1
+20180928 3 4 25836 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 19
+0s-30s 353
+5mn-15mn 8
+1h+ 1
+30s-2mn 11
+15mn-30mn 18
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 16
+/wp-login.php 790 1950541 366 366
+/xmlrpc.php 20 9088 20 18
+/wp-cron.php 16 0 15 15
+/neuroci%C3%AAncias/promocional/ 5 136000 5 5
+/wp-json/oembed/1.0/embed 4 8812 0 0
+/wp-admin/admin-ajax.php 3 3 1 1
+/wp-includes/wlwmanifest.xml 2 2090 0 0
+/wp-json/ 2 115452 0 0
+/ 2 0 2 2
+/feed/ 2 7150 0 0
+/inicio/feed/ 2 1492 0 0
+/comments/feed/ 2 4200 0 1
+/Modulo%203/ 1 220 1 0
+/Modulo-3/ 1 202551 0 1
+/coaching1/ 1 46819 1 1
+/neuroci%c3%aancias/promocional/ 1 27203 0 1
+END_SIDER

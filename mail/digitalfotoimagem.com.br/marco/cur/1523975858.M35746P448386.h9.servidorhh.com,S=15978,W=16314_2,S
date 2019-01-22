@@ -1,0 +1,336 @@
+Return-Path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from h9.servidorhh.com
+	by h9.servidorhh.com with LMTP id WIgYNLEG1lqC1wYArjWGVg
+	for <marco@digitalfotoimagem.com.br>; Tue, 17 Apr 2018 11:37:38 -0300
+Return-path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 17 Apr 2018 11:37:38 -0300
+Received: from e.gospmail.org.br ([177.139.181.238]:41957 helo=gospmail.org.br)
+	by h9.servidorhh.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89_1)
+	(envelope-from <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>)
+	id 1f8Rjl-001stD-Bl
+	for marco@digitalfotoimagem.com.br; Tue, 17 Apr 2018 11:37:37 -0300
+Received: from localhost (e [127.0.0.1])
+	by gospmail.org.br (Postfix) with ESMTP id 54BFF2D20FCE
+	for <marco@digitalfotoimagem.com.br>; Tue, 17 Apr 2018 11:36:52 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at gospmail.org.br
+X-Amavis-Alert: BAD HEADER SECTION, Non-encoded 8-bit data (char E7 hex):
+	List-ID: Comunica\347\343o e Imprensa
+Received: from gospmail.org.br ([127.0.0.1])
+	by localhost (gospmail.org.br [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ofgFRnjvvBMh; Tue, 17 Apr 2018 11:36:50 -0300 (BRT)
+Received: from o3.jiveon.jivesoftware.com (o3.jiveon.jivesoftware.com [167.89.36.126])
+	by gospmail.org.br (Postfix) with ESMTPS id DCDBD2D211C8
+	for <288380@gospmail.org.br>; Tue, 17 Apr 2018 11:32:24 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=jiveon.jivesoftware.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-id; 
+	s=smtpapi; bh=9LvbCFFgTfhb7uLfeQIAR3mSsgM=; b=CW0fdGVU/FyE5+jHtZ
+	kkF2qXzo4MxQaJedKBQ9AsK3n4w0Kjc2GElJT2xqzp0hmsF4w6hH3Ozt0R6sTj7O
+	D9OrnDIQOr0cuWTh+L0pMPx47Jg/0fwMEjZEp2Hh1x/DC5InwDzIRs5kQdR0nbsy
+	lnfY2SOxvpTmqHoBjanzT5Rz0=
+Received: by filter0538p1las1.sendgrid.net with SMTP id filter0538p1las1-9315-5AD60576-2F
+        2018-04-17 14:32:22.678128011 +0000 UTC
+Received: from jiveon-mx3-out.phx1.jivehosted.com (jiveon-mail.phx1.jivehosted.com [204.93.64.13])
+	by ismtpd0018p1las1.sendgrid.net (SG) with ESMTP id bMMVQ6RCStWmkFoSsaayiw
+	for <288380@gospmail.org.br>; Tue, 17 Apr 2018 14:32:22.557 +0000 (UTC)
+Received: from gosp-x-jc-t-wa02.dynphx1.jivehosted.com (ip49-vlb1-services.phx1.jivehosted.com [10.160.25.49])
+	by jiveon-mx3-out.phx1.jivehosted.com (Postfix) with ESMTP id 747F824679
+	for <288380@gospmail.org.br>; Tue, 17 Apr 2018 14:32:22 +0000 (GMT)
+Date: Tue, 17 Apr 2018 14:32:22 +0000 (UTC)
+From: 268366 <gosp-x@jiveon.com>
+Reply-To: jive-1156616132-7qj-12-2yk@mail.gosp-x.jiveon.com
+To: Marco Parise <288380@gospmail.org.br>
+Message-ID: <38-3836-3-2319-1523974539809.jive.jivemailuser@https://gosp-x.jiveon.com>
+Subject: =?UTF-8?Q?[Comunica=C3=A7=C3=A3o_e_Imprensa]_-_ORIENTE_DE_SOROCABA?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_34305_385053722.1523975542471"
+Auto-Submitted: auto-replied
+X-Auto-Response-Suppress: OOF
+List-ID: Comunicação e Imprensa
+Content-Disposition: inline
+X-Jive-Office: jive-1156616132-7qj-12-2yk@mail.gosp-x.jiveon.com
+X-CSA-Complaints: whitelist-complaints@eco.de
+X-SG-EID: MC+mAxPPER372lmDFdFHyMxARzYmaHZCEvHbMx1UJ2jYQ+dPWpMwIxqh/GYbPvhBIxhrj4wu6tLHs6
+ MVlf21Ct3blMXoj33cDA7zz0G/Qzge1kWK2InYeixTQSif02vZxUFbYakMqG3XqaUQPIjeISV4rUtI
+ B3DJp+kDZc/ciQyT9dhjw/B17Y9AIP4b6qxkVoAINp+bAeMOMpY+79HNyQ==
+X-SG-ID: 6Iv2lwEhBxW0L1FeqtuSgBOmISLrKUu9Fa/YMNgnbEH7q/ej1uAa0ra5fG4wBOwChhZ/Vr8IkdnZdE
+ 02uG/BZtsAjM1UFsYdAxoDs7l3rl8=
+
+------=_Part_34305_385053722.1523975542471
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_34304_209819384.1523975542471"
+
+------=_Part_34304_209819384.1523975542471
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+Carlos Pinto Neto [https://gosp-x.jiveon.com/people/268366?et=3Dwatches.ema=
+il.blog] criou a postagem de blog:
+"ORIENTE DE SOROCABA"=20
+
+Para visualizar a postagem do blog, visite: https://gosp-x.jiveon.com/commu=
+nity/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog=
+/2018/04/17/oriente-de-sorocaba?et=3Dwatches.email.blog
+
+--------------------------------------------------------------
+*Oriente de Sorocaba recebe funcion=C3=A1rios do GOB para orienta=C3=A7=C3=
+=A3o sobre o GOBCARD.*
+*=C2=A0*
+Ontem (16), equipe do GOB, composta pelos profanos *Wellington Prazeres,* a=
+nalista de neg=C3=B3cios ligado a Secretaria de Planejamento e *Jimy Correi=
+a Guimar=C3=A3es*, web designer e inspetor de qualidade do GOB estiveram em=
+ Sorocaba fazendo o atendimento aos irm=C3=A3os das Lojas.
+*=C2=A0*
+A finalidade foi a de instruir, orientar os Irm=C3=A3os de como funciona a =
+identifica=C3=A7=C3=A3o ma=C3=A7=C3=B4nica (GOBCARD) bem como sanaram casos=
+ que apresentaram problemas.
+
+=20
+Contra relevo ressaltar a iniciativa e esp=C3=ADrito fraterno do Vener=C3=
+=A1vel Mestre da ARLS Uni=C3=A3o Sorocabana Independente n=C2=BA 1595, (REA=
+A), Irm=C3=A3o *Jo=C3=A3o Lu=C3=ADs Italiano,* que cedeu o espa=C3=A7o e a =
+estrutura da Loja para o evento.
+=C2=A0
+Esta a=C3=A7=C3=A3o aconteceu nos orientes de Campinas, Santos e Sorocaba, =
+com hor=C3=A1rio de atendimento das 8:00 ao 12:00 e das 13:00 as 18:00.
+=C2=A0
+Autoridade que recepcionou os funcion=C3=A1rios do GOB foi o Vener=C3=A1vel=
+ Irm=C3=A3o=C2=A0=C2=A0*Francisco Paolillo Neto* (Secret=C3=A1rio Estadual =
+de Rela=C3=A7=C3=B5es Internas Ajunto pela 5=C2=AA Macrorregi=C3=A3o do GOS=
+P).
+=20
+=20
+*SECRETARIA ESTADUAL DE COMUNICA=C3=87=C3=83O E IMPRENSA =E2=80=93 GOSP*
+Irm=C3=A3o=C2=A0*Heitor Camargo Dini*
+Oficial de Comunica=C3=A7=C3=A3o e Imprensa da 5=C2=BA Macrorregi=C3=A3o - =
+=C3=81rea 1
+--------------------------------------------------------------
+
+Comente respondendo a este e-mail ou v=C3=A1 para a postagem do blog em RED=
+E SOCIAL DO GOSP
+[https://gosp-x.jiveon.com/community/secretarias/grande-secretaria-de-comun=
+ica%C3%A7%C3%A3o-e-imprensa/blog/2018/04/17/oriente-de-sorocaba]
+
+
+Este e-mail foi enviado pela REDE SOCIAL DO GOSP porque voc=C3=AA =C3=A9 um=
+ usu=C3=A1rio registrado.
+Voc=C3=AA pode cancelar a assinatura agora mesmo em https://gosp-x.jiveon.c=
+om/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0=
+ee232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c ou ajustar a frequ=C3=AA=
+ncia de e-mail nas prefer=C3=AAncias do seu e-mail (https://gosp-x.jiveon.c=
+om/user-preferences!input.jspa).
+
+------=_Part_34304_209819384.1523975542471
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+=09
+	<title></title>
+	<style type=3D"text/css">
+    * {
+		margin: 0;
+		padding: 0;
+	}
+	a {
+		color: #3778C7 !important;
+	}
+	body {
+		font-family: Helvetica, Arial, sans-serif;
+		-webkit-text-size-adjust: 100%;
+	}
+	/* Webkit */
+	h1, h2, h3, h4, h5, h6, p, hr {
+		-webkit-margin-before: 0;
+		-webkit-margin-after: 0;
+		-webkit-margin-start: 0;
+		-webkit-margin-end: 0;
+	}
+	.button td {
+		background-image: -moz-linear-gradient(top, #75B7E3 0%, #5498D6 50%, #408=
+BD0 51%, #387AC8 100%) !important;
+		background-image: -webkit-gradient(linear, left top, left bottom, color-s=
+top(0%,#75B7E3), color-stop(50%,#5498D6), color-stop(51%,#408BD0), color-st=
+op(100%,#387AC8)) !important;
+		-webkit-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !impo=
+rtant;
+		-moz-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !importa=
+nt;
+	}
+	</style>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+</head>
+<body style=3D"width:100% !important; -webkit-font-smoothing: antialiased; =
+-webkit-text-size-adjust: 100%;">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff=
+" width=3D"100%" style=3D"background-color: #ffffff; margin: 0; padding: 0;=
+">
+		<tbody>
+			<tr>
+				<td style=3D"padding: 20px 20px 20px 20px;">
+<table class=3D"header" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wi=
+dth=3D"100%">
+	<tbody>
+		<tr>
+			<td valign=3D"top" align=3D"left">
+				<h1 style=3D"color: #333333; margin: 0 0 20px 0; font-weight: normal; f=
+ont-size: 24px; font-family: Helvetica, Arial, sans-serif; text-shadow: rgb=
+a(255,255,255,.9) 0 1px 0;">
+					<!-- To have a header image/logo replace the name below with your img =
+tag -->
+					<!-- Email clients will render the images when the message is read so =
+any image -->
+					<!-- must be made available on a public server, so that all recipients=
+ can load the image. -->
+					<a href=3D"https://gosp-x.jiveon.com/?et=3Dwatches.email.blog" style=
+=3D"color:#333333 !important; text-decoration: none;">
+							<font color=3D"#333333" style=3D"color:#333333;">REDE SOCIAL DO GOSP=
+</font>
+					</a>
+				</h1>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class=3D"content" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ff=
+ffff" border=3D"0" width=3D"100%" style=3D"width: 100%; -moz-border-radius:=
+ 8px; -webkit-border-radius: 8px; border-radius: 8px;">
+	<tbody>
+		<tr>
+			<td valign=3D"middle" style=3D"padding-top: 10px; padding-right: 0px; pa=
+dding-bottom: 20px; padding-left: 0px;"><h2 style=3D'color: #666666; margin=
+: 0 0 0 0; font-weight: normal; font-size: 24px; font-family: Helvetica, Ar=
+ial, sans-serif;'>
+    ORIENTE DE SOROCABA
+</h2>
+
+<p style=3D'color: #999999; margin-bottom: 20px; font-size: 12px; line-heig=
+ht: 18px; font-family: Helvetica, Arial, sans-serif;'>
+criado por <a href=3D"https://gosp-x.jiveon.com/people/268366?et=3Dwatches.=
+email.blog" style=3D'color: #3778C7; text-decoration: none;'>Carlos Pinto N=
+eto</a> em <i>Comunica=C3=A7=C3=A3o e Imprensa</i> - <a href=3D"https://gos=
+p-x.jiveon.com/community/secretarias/grande-secretaria-de-comunica%C3%A7%C3=
+%A3o-e-imprensa/blog/2018/04/17/oriente-de-sorocaba?et=3Dwatches.email.blog=
+" style=3D'color: #3778C7; text-decoration: none;'>Visualize a postagem de =
+blog completa</a></p>
+
+<hr style=3D'background-color: #cccccc; height: 1px; margin-bottom: 20px; b=
+order: none;'>
+
+<div style=3D'color: #666666; margin-bottom: 20px; font-size: 14px; line-he=
+ight: 20px; font-family: Helvetica, Arial, sans-serif;'>
+<div class=3D"jive-rendered-content"><p style=3D"min-height: 8pt; padding: =
+0px;">&#160;</p><p><strong style=3D": ; text-decoration: underline; font-si=
+ze: 12.0pt;">Oriente de Sorocaba recebe funcion&aacute;rios do GOB para ori=
+enta&#231;&atilde;o sobre o GOBCARD.</strong></p><p style=3D"text-indent: 4=
+.0cm;"><strong style=3D"font-size: 12.0pt;">&#160;</strong></p><p style=3D"=
+text-indent: 4cm; text-align: justify;"><span style=3D"font-size: 12.0pt;">=
+Ontem (16), equipe do GOB, composta pelos profanos <strong>Wellington Praze=
+res,</strong> analista de neg&oacute;cios ligado a Secretaria de Planejamen=
+to e <strong>Jimy Correia Guimar&atilde;es</strong>, web designer e inspeto=
+r de qualidade do GOB estiveram em Sorocaba fazendo o atendimento aos irm&a=
+tilde;os das Lojas.</span></p><p style=3D"text-indent: 4cm; text-align: jus=
+tify;"><strong><span>&#160;</span></strong></p><p style=3D"text-indent: 4cm=
+; text-align: justify;"><span style=3D"font-size: 12.0pt;">A finalidade foi=
+ a de instruir, orientar os Irm&atilde;os de como funciona a identifica&#23=
+1;&atilde;o ma&#231;&ocirc;nica (GOBCARD) bem como sanaram casos que aprese=
+ntaram problemas.</span></p><p style=3D"text-indent: 4cm; text-align: justi=
+fy;"><span style=3D"font-size: 12.0pt;"><br/> </span></p><p style=3D"text-i=
+ndent: 4cm; text-align: justify;"><span style=3D"font-size: 12.0pt;">Contra=
+ relevo ressaltar a iniciativa e esp&#237;rito fraterno do Vener&aacute;vel=
+ Mestre da ARLS Uni&atilde;o Sorocabana Independente n&#186; 1595, (REAA), =
+Irm&atilde;o <strong>Jo&atilde;o Lu&#237;s Italiano,</strong> que cedeu o e=
+spa&#231;o e a estrutura da Loja para o evento.</span></p><p style=3D"text-=
+indent: 4cm; text-align: justify;"><span style=3D"font-size: 12.0pt;">&#160=
+;</span></p><p style=3D"text-indent: 4cm; text-align: justify;"><span style=
+=3D"font-size: 12.0pt;">Esta a&#231;&atilde;o aconteceu nos orientes de Cam=
+pinas, Santos e Sorocaba, com hor&aacute;rio de atendimento das 8:00 ao 12:=
+00 e das 13:00 as 18:00.</span></p><p style=3D"text-indent: 4cm; text-align=
+: justify;"><span style=3D"font-size: 12.0pt;">&#160;</span></p><p style=3D=
+"text-indent: 4cm; text-align: justify;"><span style=3D"font-size: 12.0pt;"=
+>Autoridade que recepcionou os funcion&aacute;rios do GOB foi o Vener&aacut=
+e;vel Irm&atilde;o&#160;&#160;<strong>Francisco Paolillo Neto</strong> (Sec=
+ret&aacute;rio Estadual de Rela&#231;&otilde;es Internas Ajunto pela 5&#170=
+; Macrorregi&atilde;o do GOSP).<br/> <br/> </span></p><p><strong style=3D"f=
+ont-size: 16.0pt;">SECRETARIA ESTADUAL DE COMUNICA&#199;&#195;O E IMPRENSA =
+&#8211; GOSP</strong></p><p><span style=3D"font-size: 12.0pt;">Irm&atilde;o=
+&#160;<strong>Heitor Camargo Dini</strong></span></p><p><span style=3D"font=
+-size: 9.0pt;">Oficial de Comunica&#231;&atilde;o e Imprensa da 5&#186; Mac=
+rorregi&atilde;o - &#193;rea 1</span></p></div>
+</div>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" bgco=
+lor=3D"#f5f5f5" style=3D'padding: 10px; margin-top: 40px;'>
+<tbody>
+	<tr>
+    <td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-heigh=
+t: 20px; font-family: Helvetica, Arial, sans-serif;'>
+	Comente respondendo a este e-mail ou <a href=3D"https://gosp-x.jiveon.com/=
+community/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa=
+/blog/2018/04/17/oriente-de-sorocaba?et=3Dwatches.email.blog" style=3D'colo=
+r: #3778C7; text-decoration: none;'>v=C3=A1 para a postagem do blog em REDE=
+ SOCIAL DO GOSP</a>
+    </td>
+    </tr>
+
+
+    <tr>
+    <td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-heigh=
+t: 20px; font-family: Helvetica, Arial, sans-serif;'>
+		Seguindo <a href=3D"https://gosp-x.jiveon.com/community/secretarias/grand=
+e-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog?et=3Dwatches.email.bl=
+og" style=3D'color: #3778C7; text-decoration: none;'>Comunica=C3=A7=C3=A3o =
+e Imprensa</a> nestes fluxos:
+     Comunica=C3=A7=C3=A3o e Imprensa
+    </td>
+    </tr>
+</tbody>
+</table>
+<br><br>
+                    <p style=3D'color: #666666; margin-top: 20px; font-size=
+: 14px; line-height: 20px; font-family: Helvetica, Arial, sans-serif;'>
+                        Este e-mail foi enviado pela Rede Social do GOSP po=
+rque voc=C3=AA =C3=A9 um usu=C3=A1rio registrado.
+	                        Voc=C3=AA pode <a href=3D"https://gosp-x.jiveon.co=
+m/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0e=
+e232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c">cancelar a assinatura</a=
+> agora mesmo ou ajustar a frequ=C3=AAncia de e-mail nas <a href=3D"https:/=
+/gosp-x.jiveon.com/user-preferences!input.jspa">prefer=C3=AAncias do seu e-=
+mail</a>
+                    </p>
+            </td>
+		</tr>
+	</tbody>
+</table>
+			    </td>
+			</tr>
+		</tbody>
+	</table>
+
+<img src=3D"http://jiveon.jivesoftware.com/wf/open?upn=3DlkDbH7-2FnFH7oeBGC=
+GoMHz9T22eb3DvjuBfkB1ASadAwAtbqNYYkVs4MwAGOqDuR5N49BZM9PLfhYH64a-2FtseS4DVe=
+2KYtEKG1jtQxJcampzsK9YC1Ox0pp6jcEG4l-2FKHM3iSYPgUo0lk5abidbiXX-2FG6PeGcUebN=
+0-2BawL7VNjl78-2F12BVek43rlWbGr9-2B-2FMgT28jKgnRJBGgKvGVLkFeyt0YFNXSCScdt-2=
+BmgQFHb7VYhkIFfDaUyo-2BGLdcTfBhOniJJIg5r53DX7mc5uW9kqV4XzFMWxlVCZ317gvBg-2B=
+avuxNCpEt4hgli3JYTuylNHUn1W1H-2BNmQC8gx0CwCn5H4w-3D-3D" alt=3D"" width=3D"1=
+" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !impor=
+tant;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !imp=
+ortant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !im=
+portant;padding-bottom:0 !important;padding-right:0 !important;padding-left=
+:0 !important;"/>
+</body>
+</html>
+
+------=_Part_34304_209819384.1523975542471--
+
+------=_Part_34305_385053722.1523975542471--
+

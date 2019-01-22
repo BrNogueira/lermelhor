@@ -1,0 +1,130 @@
+Return-Path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id ffmyCCZrdlgTSQQAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Wed, 11 Jan 2017 15:28:06 -0200
+Return-path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Wed, 11 Jan 2017 15:28:06 -0200
+Received: from o9.mailsg.leadlovers.com ([167.89.30.234]:12029)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>)
+	id 1cRMgw-001DQU-1N
+	for marco@digitalfotoimagem.com.br; Wed, 11 Jan 2017 15:28:06 -0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=leadlovers.com.br; 
+	h=content-type:from:mime-version:subject:to:list-unsubscribe; 
+	s=m1; bh=srQyCKIvv3FfuEkoiMgoBKwn2do=; b=vUpOFk+BYZzPBuTc6H/ttNR
+	DVi+l7GAt6sI55PZFjlMvHZYL/JvMFLxperX9KECEeHN+XvQeoWc0xgg4bsYbJpm
+	5zVpnkPmdAFB1cmdFYI09B6DNeRYpu1ZVyE8Vtnez/7/ZDOQ2V2mLHT/R3vp1SFI
+	2EFksJnW6UFdlprHnYJU=
+Received: by filter1087p1mdw1.sendgrid.net with SMTP id filter1087p1mdw1-29606-58766ADB-25
+        2017-01-11 17:26:51.700473897 +0000 UTC
+Received: from MjM4NDgwOQ (m3640.contabo.host [5.189.178.140])
+	by ismtpd0001p1lon1.sendgrid.net (SG) with HTTP id ptEVc0E5TqyMXJm4FbwaYw
+	Wed, 11 Jan 2017 17:26:51.291 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=6a6231bb9d6de5cfb0645980edc9d4dd63e8617ef29e08a77d350cf1c25c
+Date: Wed, 11 Jan 2017 17:26:51 +0000
+From: "Paulo Gerhardt" <paulo.gerhardt@solbiz.com.br>
+Mime-Version: 1.0
+Subject: =?UTF-8?B?W0FydGlnb10gRXN0YSBtYWlzIGRpZsOtY2lsIGZlY2hhciB1bWEgdmVuZGE/IER1YXMgZXN0cmF0w6lnaWFzIHBhcmEgc3VwZXI=?=
+ =?UTF-8?B?YXIgaXN0byE=?=
+To: <marco@digitalfotoimagem.com.br>
+Message-ID: <ptEVc0E5TqyMXJm4FbwaYw@ismtpd0001p1lon1.sendgrid.net>
+List-Unsubscribe: <https://u2384809.ct.sendgrid.net/wf/unsubscribe?upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiWoKQFOF-2FXBopiL-2BYaC-2B-2BVinTCcIX5vCGIo9oIN1qChWouo0ri-2BmfrR0xDf98TLe6-2FqrEii-2FCYuaM1qLYRrbdwoc7ZUv0HyWB0wED8TFIItPhBtQSHdqK5RGlYhwzHrN4P00riOJtMr37wmzUA1w2IJFBDjE0yHFSORyN0mIjmVcXJX5hoiUiocch61iMMcNUfUEeKtKNzrGCAWWetLWrCel5y6UEGxv75We-2B7u2tAFk-3D>, <mailto:unsubscribe@mailsg.leadlovers.com.br?subject=https://u2384809.ct.sendgrid.net/wf/unsubscribe*q*upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiWoKQFOF-2FXBopiL-2BYaC-2B-2BVinTCcIX5vCGIo9oIN1qChWouo0ri-2BmfrR0xDf98TLe6-2FqrEii-2FCYuaM1qLYRrbdwoc7ZUv0HyWB0wED8TFIItPhBtQSHdqK5RGlYhwzHrN4P00riOJtMr37wmzUA1w2IJFBDjE0yHFSORyN0mIjmVcXJX5hoiUiocch61iMMcNUfUEeKtKNzrGCAWWetLWrCel5y6UEGxv75We-2B7u2tAFk-3D>
+X-SG-EID: Hch+2AQw5UfQtHqV+P/3h94kWa/z3uc7aT9t1ffNJX6ejfdpfjs1c7IIdtNthFh9JqRBXXqOgQVQe2
+ AJyqpiqwI19GaqlbVvvGNuI35YuNR0qJMv5QCTt3taCutPrJCPEaBZqOk1VAuorRqEYFa2aoGrzh12
+ /Zu5aGm4p8iqxjp3mMTjVVHnDGCqsLBbvyQU21ZgS788yZwRIu3vAQQZaHuFsZPP5GM417uXEXroUy
+ sy0fYrePXsT+P4/fkMknM9
+X-SG-ID: YDTqBOjidbCUo/ar1oAtZqriRIR/uuYapJL3kHcrFDFwoM1s81b2JCMRaAx7wox7
+
+--6a6231bb9d6de5cfb0645980edc9d4dd63e8617ef29e08a77d350cf1c25c
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+=0D=0DOl=C3=A1! Tudo bem? Uma das maiores reclama=C3=A7=C3=B5es dos vendedo=
+res est=C3=A1 relacionada ao fechamento da venda. Por que isto ocorre? Exis=
+te alguma forma de tornar mais f=C3=A1cil o fechamento da venda?  =0D=0D Co=
+nfira meu artigo e descubra.   =0D=0DO maior n=C3=BAmero de obje=C3=A7=C3=
+=B5es apresentado pelos clientes no momento da tomada de decis=C3=A3o de fe=
+char uma venda est=C3=A1 ligado ao medo de comprar.  =0D=0D Entenda o que s=
+=C3=A3o estes medos e como super=C3=A1-los. Veja aqui no meu artigo.   =0D=
+=0DMuitos vendedores reclamam que suas vendas baixaram em fun=C3=A7=C3=A3o =
+da crise financeira. Pergunto: Voc=C3=AA vai ficar esperando a crise passar=
+, para voltar a vender como antes? Se respondeu n=C3=A3o, voc=C3=AA precisa=
+ encontrar alternativas para superar as desafios do atual cen=C3=A1rio. Que=
+ro te ajudar!  =0D=0D Leia o meu artigo e conhe=C3=A7a duas estrat=C3=A9gia=
+s que v=C3=A3o mudar suas vendas.   =0D=0DAbra=C3=A7os  =0D=0DPaulo Gerhard=
+t  =0D=0DCriador da Metodologia do Coaching de Vendas  Clique aqui para n=
+=C3=A3o receber mais e-mails dessa lista (Unsubscribe).
+
+--6a6231bb9d6de5cfb0645980edc9d4dd63e8617ef29e08a77d350cf1c25c
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE><table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" id=3D=
+"LLCenteredColumn" style=3D"border:none;"><tbody><tr><td style=3D"border:me=
+dium none;"><table class=3D"table01 k-table" style=3D"background-color:#fff=
+fff;margin:auto;width:650px;"><tbody><tr><td id=3D"LLCenteredColumn01" styl=
+e=3D"border:medium none;margin:0px;padding:20px;text-align:left;white-space=
+:normal;"><p style=3D"margin-bottom:0cm;text-align:justify;"><span style=3D=
+"font-size:14.0pt;font-family:'Arial','sans-serif';">Ol&aacute;!
+<br />Tudo bem? Uma das maiores reclama&ccedil;&otilde;es dos vendedores es=
+t&aacute; relacionada ao fechamento da venda. Por que isto ocorre? Existe a=
+lguma forma de tornar mais f&aacute;cil o fechamento da venda?
+</span>
+</p><p style=3D"margin-bottom:0cm;text-align:justify;"><span style=3D"font-=
+size:14.0pt;font-family:'Arial','sans-serif';color:red;">
+<a href=3D"http://leadloversclick06.com/redirect/redirect.aspx?A=3DR&l=3D43=
+F2C307-8136-4357-9633-4EA5CF84AA3A&u=3D20c36c0a-ff63-4a35-9c94-39c8d74d31ea=
+">Confira meu artigo e descubra.
+</a>
+</span>
+</p><p style=3D"margin-bottom:0cm;text-align:justify;"><span style=3D"font-=
+size:14.0pt;font-family:'Arial','sans-serif';">O maior n&uacute;mero de obj=
+e&ccedil;&otilde;es apresentado pelos clientes no momento da tomada de deci=
+s&atilde;o de fechar uma venda est&aacute; ligado ao medo de comprar.
+</span>
+</p><p style=3D"margin-bottom:0cm;text-align:justify;"><span style=3D"font-=
+size:14.0pt;font-family:'Arial','sans-serif';color:red;">
+<a href=3D"http://leadloversclick06.com/redirect/redirect.aspx?A=3DR&l=3D43=
+F2C307-8136-4357-9633-4EA5CF84AA3A&u=3D20c36c0a-ff63-4a35-9c94-39c8d74d31ea=
+">Entenda o que s&atilde;o estes medos e como super&aacute;-los. Veja aqui =
+no meu artigo.
+</a>
+</span>
+</p><p style=3D"margin-bottom:0cm;text-align:justify;"><span style=3D"font-=
+size:14.0pt;font-family:'Arial','sans-serif';">Muitos vendedores reclamam q=
+ue suas vendas baixaram em fun&ccedil;&atilde;o da crise financeira. Pergun=
+to: Voc&ecirc; vai ficar esperando a crise passar, para voltar a vender com=
+o antes? Se respondeu &ldquo;n&atilde;o&rdquo;, voc&ecirc; precisa encontra=
+r alternativas para superar as desafios do atual cen&aacute;rio. Quero te a=
+judar!
+</span>
+</p><p style=3D"margin-bottom:0cm;text-align:justify;"><span style=3D"font-=
+size:14.0pt;font-family:'Arial','sans-serif';color:red;">
+<a href=3D"http://leadloversclick06.com/redirect/redirect.aspx?A=3DR&l=3D43=
+F2C307-8136-4357-9633-4EA5CF84AA3A&u=3D20c36c0a-ff63-4a35-9c94-39c8d74d31ea=
+">Leia o meu artigo e conhe&ccedil;a duas estrat&eacute;gias que v&atilde;o=
+ mudar suas vendas.
+</a>
+</span>
+</p><p style=3D"margin-bottom:0cm;"><span style=3D"font-size:14.0pt;font-fa=
+mily:'Arial','sans-serif';">Abra&ccedil;os
+</span>
+</p><p style=3D"margin-bottom:0cm;"><span style=3D"font-size:14.0pt;font-fa=
+mily:'Arial','sans-serif';">Paulo Gerhardt
+</span>
+</p><p style=3D"margin-bottom:0cm;"><span style=3D"font-size:14.0pt;font-fa=
+mily:'Arial','sans-serif';">Criador da Metodologia do Coaching de Vendas
+</span>
+</p></td></tr></tbody></table></td></tr></tbody></table><a href=3D"http://l=
+eadloversclick06.com/redirect/redirect.aspx?A=3DU&u=3D20c36c0a-ff63-4a35-9c=
+94-39c8d74d31ea" target=3D"_blank">Clique aqui para n&atilde;o receber mais=
+ e-mails dessa lista (Unsubscribe).</a><br /><img alt=3D"" src=3D"http://le=
+adloversclick06.com/redirect/redirect.aspx?A=3DV&u=3D20c36c0a-ff63-4a35-9c9=
+4-39c8d74d31ea&IMG=3Dhttps://leadlovers.com/content/images/1px.png" />
+
+--6a6231bb9d6de5cfb0645980edc9d4dd63e8617ef29e08a77d350cf1c25c--

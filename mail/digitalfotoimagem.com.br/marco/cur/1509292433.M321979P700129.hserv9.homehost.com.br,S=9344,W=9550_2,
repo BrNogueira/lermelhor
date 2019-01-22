@@ -1,0 +1,206 @@
+Return-Path: <mmtesta43@gmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br with LMTP id YDP3EJH59VnhrgoAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Sun, 29 Oct 2017 13:53:53 -0200
+Return-path: <mmtesta43@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sun, 29 Oct 2017 13:53:53 -0200
+Received: from mail-qk0-f169.google.com ([209.85.220.169]:49072)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <mmtesta43@gmail.com>)
+	id 1e8puL-002w2i-3B
+	for marco@digitalfotoimagem.com.br; Sun, 29 Oct 2017 13:53:53 -0200
+Received: by mail-qk0-f169.google.com with SMTP id d67so13440079qkg.5
+        for <marco@digitalfotoimagem.com.br>; Sun, 29 Oct 2017 08:53:29 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc;
+        bh=3PNRKR9eUHXJlnvo97y4F4hrIZgauksAjOcVWf2L+9g=;
+        b=kLY6eKQNGTKQng4PSyNvAlQ2MoygYvKcGqHeNKRo9SgN3DEPvZEikKcb5ficZ3Ee3n
+         f6euJvytZPi28CvRikEsPuEGM5B5RIh7EPXmpX+fU40Kz1opfM6/evh547//FV7zF2Gi
+         eDeOQ6t0IKgikd0j+jpSoVex5Ac2qcoyR0Z9M1+G9JJWHw9GwN4tikrBrfShQ+cv2LaU
+         QMhKosS8bSh9fkQvw15zeaclCyjCxa3T2/SO18aayWUk/Si5Khlaf+GMC1hmzlh2CCBy
+         5xF0UOBd7+BmClTx8soua+bg7mydX6PZkMcwtMU4yl+TcF9inHIygFGIH3B4QSzNH2Qq
+         0DLQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:cc;
+        bh=3PNRKR9eUHXJlnvo97y4F4hrIZgauksAjOcVWf2L+9g=;
+        b=bnW8pEWQtYCGssVE5E4CeSYTQrqwUBA4jd+iPP1xYsgAvwKG4VL5xvwfp5IsqVeE2h
+         rRHNSZoMBw2F8yWK+dEqBxiqp1/J9aBdXjJrk/M+a2I8qdlLXLvrOmUf143BKI5X/7Si
+         TcG0JxYRga6FD4dwtaIJqz6249wWQNYlbmioPxaVOex3HX6y3bjbH4g9HrurToLVyFhO
+         ilkHzCDsHFrrHeSxhi5hrv+cwCpnTFjtanIgmGGaf1QT+nDRg4IRKyC1c2ucTbmLz3zK
+         LscMabd9elfQCkQ3jHylYOX0VJq4hRy7PRfha0sOSdzLwEoLkp36VE4GSJtg+low3uud
+         ZYLw==
+X-Gm-Message-State: AMCzsaVHv/oPzp3daeFroYk3Jn2KW6sEmaU+jRJy5SWBpRaJhY2pQWVL
+	UAwW2IXL3j3iJLd1ycj0r1iTNxIO6PE7g/u5aTs=
+X-Google-Smtp-Source: ABhQp+RMX3zEDRjesTe7E1hBe7AGpWqqoe97RNk6vO1IS1vgoVkncxDhUO7Lc8evwGH1iiQxVwX4TTQM2Jhr5WiU/c0=
+X-Received: by 10.55.97.202 with SMTP id v193mr9111819qkb.165.1509292388691;
+ Sun, 29 Oct 2017 08:53:08 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.200.9.61 with HTTP; Sun, 29 Oct 2017 08:53:08 -0700 (PDT)
+In-Reply-To: <05d701d35052$de8a9200$9b9fb600$@com.br>
+References: <005501d30c0a$390dac40$ab2904c0$@com.br> <05d701d35052$de8a9200$9b9fb600$@com.br>
+From: Marcilio Testa <mmtesta43@gmail.com>
+Date: Sun, 29 Oct 2017 13:53:08 -0200
+Message-ID: <CAL+nqQqeUbDEXxFm1PUVSNJQpR5VHn=TJPYk0ksngPJ6rwiUKw@mail.gmail.com>
+Subject: =?UTF-8?B?UmU6IFBhcmFiw6lucyDDoCBGYW3DrWxpYSBkbyBJcm3Do28gVGVzdGEgbmEgZGF0YSBkZQ==?=
+	=?UTF-8?B?IGhvamUsIDI4LzEwLzIwMTchISE=?=
+To: Egoshi da CTT3843 <ctt3843@egoshi.com.br>
+Cc: Andre Luis Pereira de Godoi <andrelpgodoi@gmail.com>, Antonio Finardi <ma.finardi@hotmail.com>, 
+	Antonio Celso Tessari <celsotessari@gmail.com>, Antonio Kossei Takara <takar2@terra.com.br>, 
+	=?UTF-8?Q?Benedito_Carlos_Flam=C3=ADnio?= <carlos.flaminio@gmail.com>, 
+	Carlos Mave de Campos Assis <cmave96@gmail.com>, =?UTF-8?Q?Carlos_Rosseti_=28Kak=C3=A1=29?= <carlos.rossetti@uol.com.br>, 
+	=?UTF-8?Q?Dem=C3=A9trio_Muniz_Pendek?= <demetriopendek@hotmail.com>, 
+	Eduardo Camacho <eduardocamacho@uol.com.br>, Eduardo Lopes <ebernardinolopes@uol.com.br>, 
+	Ernani Flausino <ernani.flausino@terra.com.br>, 
+	Everth Alves Bonavolonta <everth@mixlav.com.br>, =?UTF-8?Q?F=C3=A1bio_Roberto_Faria?= <szfaria@gmail.com>, 
+	Fernando Ziesmann Fortes <fernandozf@hotmail.com>, Gilberto Campos <gdcampos@uol.com.br>, 
+	=?UTF-8?Q?H=C3=A9lio_Alvarez_Felix?= <helioamandara@uol.com.br>, 
+	Hideraldo Rodrigues Gomes <enghgomes@gmail.com>, 
+	Humberto de Oliveira Serrano <humberto.serrano@hotmail.com>, Jair Airton Felix <j.felix10@bol.com.br>, 
+	Johannes Kozlowski <jkozlowski@uol.com.br>, =?UTF-8?Q?Jos=C3=A9_Carlos_de_Lima?= <jcl@tech-air.com.br>, 
+	=?UTF-8?Q?J=C3=BAlio_Cesar_Mattos_de_Faria?= <mattosfaria@terra.com.br>, 
+	Marcelo Eloy Fernandes <marceloeloyfernandes@gmail.com>, 
+	Marco Antonio Patriniani <marckopat@live.com>, 
+	=?UTF-8?Q?Marco_Ant=C3=B4nio_Pedrosa_Parise?= <marco@digitalfotoimagem.com.br>, 
+	Marcus Welbi <marcuswelbi@crivodarazao.org.br>, Natanael Costa <ncosta@usa.com>, 
+	Nelson Pendek <nelpendek@hotmail.com>, 
+	"Ricardo C. A. Carvalho" <ricardocarvalho930@gmail.com>, 
+	=?UTF-8?Q?Sebasti=C3=A3o_Rubens_Costa?= <rubens@linart.com.br>, 
+	Silvio Verdiani <sverdiani@terra.com.br>, Sylvio Quintino Junior <squintinoj@gmail.com>, 
+	Wanderley Santana dos Santos <wanderleyssamtos@gmail.com>, 
+	Wellington Alfano Rodrigues Silva <alfanohi@gmail.com>, Wladimir Viveiro <wviveiro@live.com>, 
+	=?UTF-8?Q?S=C3=A9rgio_Fosque?= <sergio@aresultado.adm.br>, 
+	=?UTF-8?Q?Andr=C3=A9_Rivail_Medrado?= <professor@medrado.adv.br>, 
+	Alexandre Dellamura Sarmento <dellamura@uol.com.br>, luiz.cruz@teleperformance.com
+Content-Type: multipart/alternative; boundary="94eb2c05b7d8b0b91b055cb18453"
+
+--94eb2c05b7d8b0b91b055cb18453
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Queridos IIr.'. da CTT Ir.'. Egoshi,
+
+Muito obrigado pela defer=C3=AAncia, como Membro da fam=C3=ADlia Testa, agr=
+ade=C3=A7o
+muito o carinho a n=C3=B3s dirigido e
+retribuo as felicita=C3=A7=C3=B5es aos IIr.'. da CTT que os tenho em elevad=
+a estima e
+considere=C3=A7=C3=A3o,
+Um TFA,
+
+Marcilio Testa
+
+<https://www.avast.com/sig-email?utm_medium=3Demail&utm_source=3Dlink&utm_c=
+ampaign=3Dsig-email&utm_content=3Dwebmail>
+Livre
+de v=C3=ADrus. www.avast.com
+<https://www.avast.com/sig-email?utm_medium=3Demail&utm_source=3Dlink&utm_c=
+ampaign=3Dsig-email&utm_content=3Dwebmail>.
+<#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>
+
+No dia 28 de outubro de 2017 =C3=A0s 23:11, Egoshi da CTT3843 <
+ctt3843@egoshi.com.br> escreveu:
+
+> Parab=C3=A9ns ao nosso querido Ir\  Marc=C3=ADlio, que est=C3=A1 aniversa=
+riando hoje!!!
+>
+>
+>
+> Parab=C3=A9ns tamb=C3=A9m aos sobrinhos Fabiano e Eduardo que  tamb=C3=A9=
+m est=C3=A3o
+> aniversariando hoje, por uma feliz sincronicidade!!!
+>
+>
+>
+> Aos sobrinhos Fabiano e Eduardo, ao Ir\ Marc=C3=ADlio & cunhada Fel=C3=AD=
+cia e a Toda
+> a Sua Fam=C3=ADlia, ensejamos nossos mais sinceros votos de felicidade e =
+sucesso
+> na vida!!!
+>
+>
+>
+> Fraternalmente
+>
+>
+>
+>
+>
+>
+>
+> ---
+> Este email foi escaneado pelo Avast antiv=C3=ADrus.
+> https://www.avast.com/antivirus
+>
+
+--94eb2c05b7d8b0b91b055cb18453
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Queridos IIr.&#39;. da CTT Ir.&#39;. Egoshi,<div><br></div=
+><div>Muito obrigado pela defer=C3=AAncia, como Membro da fam=C3=ADlia Test=
+a, agrade=C3=A7o muito o carinho a n=C3=B3s dirigido e</div><div>retribuo a=
+s felicita=C3=A7=C3=B5es aos IIr.&#39;. da CTT que os tenho em elevada esti=
+ma e considere=C3=A7=C3=A3o,</div><div>Um TFA,</div><div><br></div><div>Mar=
+cilio Testa</div></div><div id=3D"DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2"><br=
+> <table style=3D"border-top:1px solid #d3d4de">
+	<tr>
+      <td style=3D"width:55px;padding-top:18px"><a href=3D"https://www.avas=
+t.com/sig-email?utm_medium=3Demail&amp;utm_source=3Dlink&amp;utm_campaign=
+=3Dsig-email&amp;utm_content=3Dwebmail" target=3D"_blank"><img src=3D"https=
+://ipmcdn.avast.com/images/icons/icon-envelope-tick-round-orange-animated-n=
+o-repeat-v1.gif" alt=3D"" width=3D"46" height=3D"29" style=3D"width: 46px; =
+height: 29px;"></a></td>
+		<td style=3D"width:470px;padding-top:17px;color:#41424e;font-size:13px;fo=
+nt-family:Arial,Helvetica,sans-serif;line-height:18px">Livre de v=C3=ADrus.=
+ <a href=3D"https://www.avast.com/sig-email?utm_medium=3Demail&amp;utm_sour=
+ce=3Dlink&amp;utm_campaign=3Dsig-email&amp;utm_content=3Dwebmail" target=3D=
+"_blank" style=3D"color:#4453ea">www.avast.com</a>. 		</td>
+	</tr>
+</table>
+<a href=3D"#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2" width=3D"1" height=3D"1">=
+</a></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">No dia =
+28 de outubro de 2017 =C3=A0s 23:11, Egoshi da CTT3843 <span dir=3D"ltr">&l=
+t;<a href=3D"mailto:ctt3843@egoshi.com.br" target=3D"_blank">ctt3843@egoshi=
+.com.br</a>&gt;</span> escreveu:<br><blockquote class=3D"gmail_quote" style=
+=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">Parab=C3=
+=A9ns ao nosso querido Ir\=C2=A0 Marc=C3=ADlio, que est=C3=A1 aniversariand=
+o hoje!!!<br>
+<br>
+<br>
+<br>
+Parab=C3=A9ns tamb=C3=A9m aos sobrinhos Fabiano e Eduardo que=C2=A0 tamb=C3=
+=A9m est=C3=A3o<br>
+aniversariando hoje, por uma feliz sincronicidade!!!<br>
+<br>
+<br>
+<br>
+Aos sobrinhos Fabiano e Eduardo, ao Ir\ Marc=C3=ADlio &amp; cunhada Fel=C3=
+=ADcia e a Toda<br>
+a Sua Fam=C3=ADlia, ensejamos nossos mais sinceros votos de felicidade e su=
+cesso<br>
+na vida!!!<br>
+<br>
+<br>
+<br>
+Fraternalmente<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+---<br>
+Este email foi escaneado pelo Avast antiv=C3=ADrus.<br>
+<a href=3D"https://www.avast.com/antivirus" rel=3D"noreferrer" target=3D"_b=
+lank">https://www.avast.com/<wbr>antivirus</a><br>
+</blockquote></div><br></div>
+
+--94eb2c05b7d8b0b91b055cb18453--

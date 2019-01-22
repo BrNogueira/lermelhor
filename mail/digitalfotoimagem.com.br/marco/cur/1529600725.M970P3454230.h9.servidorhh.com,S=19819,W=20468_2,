@@ -1,0 +1,649 @@
+Return-Path: <sentto-13186415-7040-1529600674-@returns.groups.yahoo.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from h9.servidorhh.com
+	by h9.servidorhh.com with LMTP id OBdiOtTaK1sWtTQArjWGVg
+	for <marco@digitalfotoimagem.com.br>; Thu, 21 Jun 2018 14:05:25 -0300
+Return-path: <sentto-13186415-7040-1529600674-@returns.groups.yahoo.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 21 Jun 2018 14:05:25 -0300
+Received: from sonic320-30.consmr.mail.ne1.yahoo.com ([66.163.191.92]:45379)
+	by h9.servidorhh.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <sentto-13186415-7040-1529600674-@returns.groups.yahoo.com>)
+	id 1fW31Q-00EXLl-KX
+	for marco@digitalfotoimagem.com.br; Thu, 21 Jun 2018 14:05:24 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogrupos.com.br; s=indiai; t=1529600675; bh=3rBQHNNeCXwTQex0x05oC6z3H6xjMmD+FJTXAe29pkQ=; h=To:From:List-Id:List-Unsubscribe:Date:Subject:Reply-To:From:Subject; b=rb6c/PafMVfoHjMSGvHms7lAAKTFEw9k/bwMBZgatUF4WkmoCBT7Gzbs6I96fQwxFUJNT5MCK9RPWlkvgcVVtNJje85F/KPtB5WiL7PaSNMeQuPVII8zPeIf1V+eoWbOyFQRwXdF17ARa5uVddeJIVZIHGirHf12rLwDGo+6piw=
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic320.consmr.mail.ne1.yahoo.com with HTTP; Thu, 21 Jun 2018 17:04:35 +0000
+X-Yahoo-Newman-Id: 13186415-m7040
+X-Sender: redecolmeia@gmail.com
+X-Apparently-To: redecolmeiacidadedesaopaulo@yahoogrupos.com.br
+X-Received: (qmail 62795 invoked by uid 102); 21 Jun 2018 17:04:32 -0000
+X-Received: from unknown (HELO mtaq3.grp.bf1.yahoo.com) (10.196.204.226)
+  by m13.grp.bf1.yahoo.com with SMTP; 21 Jun 2018 17:04:32 -0000
+X-Received: (qmail 28923 invoked from network); 21 Jun 2018 17:04:32 -0000
+X-Received: from unknown (HELO mta4002.groups.mail.bf1.yahoo.com) (10.201.195.45)
+  by mtaq3.grp.bf1.yahoo.com with SMTP; 21 Jun 2018 17:04:32 -0000
+X-Received-SPF: pass (domain of gmail.com designates 209.85.215.67 as permitted sender)
+X-YMailISG: Cz_XNeEWLDuwQvarK0iNjQRJRT6jl8naHkWq9UtfYrpBmi2B
+ K0s6svCOumbS2z.HItB2BsRHFHzkmrPlW7PcjL.bum6RSdaqSvxoggbsoXrh
+ bLgpvSKDZmZ5HwaWHIQT1L9VV5nFIpwmrwPS19HJ1GF.NHhRVHorSc1sI2A3
+ 4LPPr6EgSa5Qan9zDgzT2ZAyHNGH7VQkbdWJb8S8ikz01DNtFERAgS1Gi2dZ
+ XPMbTo9r_PjqrwY_HazPedqupwlzZu_2a7HwRl7mY_T1KtUlsAngAx9WDhZ2
+ EB22o3dXK1nkvif2PdkmFAn.MJ7KjT8FnkdQoUL488.0LD1DNYfi23xTTHJa
+ SrHDx7YxbJ2d.ZFtnbLyQpvthJY4Bh9BPYwvF9.cMJc4k8tgId8Dt4fgHIeT
+ 3wIznBJvwC3631rElBv8culFE7xORNU6AvbGGxNzRthz5iemLwzcXUGQ5xjq
+ 1RqMDyX_Ie1I7mg7Z26trrdrKromALjUL6H_hECqF5d0yfzoSqmXgcWbjquH
+ 2Co1fjUUisL.N5hvqix_St5MmJxgfc5ikV_lErDH_dM_n4yrvnnWFuwiJ.6Q
+ E0CI7TksFre0hJR_CE4fwQulnjpSYnYQk5zWkLqmwLB38XEw4oVJgM8Kol5J
+ 1SkkGxK416KIW6QkHAwCds7nHZy8V.6rifAcgGUhrdDDz5QpPhWlM8adp_XE
+ 42cIakhLv.Og4MtIyVsBm4eviPAz3pwoNRLY4JKoVP2e76jLymn3veRtQLJ_
+ RFlN6yklr0wB7gHvrKIan6hMWA09BPUMkZyBsqG7Z37JWpV3cNQdRLlygmXo
+ OdF2HsqoR4gDeYln483TqC8.G6Z1snfi40DQr2r5MCM0IDTRbCUE6LtFJ.FM
+ lhDNDHwvqN3fQaY2JMKYbplBTciPvEKTzaf1fkM_80_7ZJg1lbCh.kQzsYWN
+ ZXoZmbOM6la0FQlECsvZXg0FAHwHivjjQyN4TO5X3lpKemR1WKJZbpsUcj6s
+ q47G7n43CqmAtqTmmacDyJN5IfgUmMXFHIFjcjx7h1pnkdRjxcxy4GzX9JCR
+ _pCR0PmqiHuMQJC5d2vOOL1XtKSKeQ6YcV9ye6mMdjQeau1Z64GxE87dWXdh
+ 4QgycG44Ghvx2_CrCOIugorUSzx_Skfd98gj0OVFtFOTJhNwu3tqiMiY5WQT
+ nK9EhzdMzEU.A3L8Yg3DXyQ_Y_MINyVWhWf5KfUiRN69hG1sgIsxW8o._YFg
+ .83_zlt9vhu0qx2EGJKxI6anckPmmGPvgrmnOQCCcyTEUHs-
+Authentication-Results: mta4002.groups.mail.bf1.yahoo.com  from=gmail.com; domainkeys=neutral (no sig);  from=gmail.com; dkim=pass (ok)
+X-Received: from 127.0.0.1  (EHLO mail-lf0-f67.google.com) (209.85.215.67)
+  by mta4002.groups.mail.bf1.yahoo.com with SMTPS; Thu, 21 Jun 2018 17:04:31 +0000
+X-Received: by mail-lf0-f67.google.com with SMTP id t2-v6so5367406lfd.6;
+        Thu, 21 Jun 2018 10:04:30 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=37KiGv/EznFz2rsmdR2vyshTTd7UtuhlRct42RvcYYg=;
+        b=oQ7CcyV0Zcs5k8H4mtA90gN1ZB5/htqXntR9v/4HtzZBqtkXEtOdgF9AzlH2CjsqDh
+         hplf34n3yvdSAiX1sPoct8IKyLBo4vjyPDB2HGv1wsFrjDT/ISEfTsp+5GVrDbProv0I
+         IW1QC3lI2XZ0lBrPD76piebB8PnXPpXjzClxFLtBTp8m/hsOdUc61Vz2cvT6pIUua19s
+         q8NS0TMUMJGLWZdm7Uep3eQRBZQZ3e0s/WTJuDbfkaLxObnARleVK4gbyxAAOtU4PP88
+         vuXegiLtprQrlF+i+KWGGEOjo75mShckGGi1en7Wo0wnFgNdgwIroiXuRB3Mpi1YVsBq
+         OwOg==
+X-Gm-Message-State: APt69E2ZbMUL3AhpD1d8oV8jNsFS5cw0722eIoMP+/3q3MKlL/2Pisr6
+	t1P/+U6M10emuFp/35+prNKgLg88zHpWbl7qqiQ=
+X-Google-Smtp-Source: ADUXVKIH8ANmeBvHR6ez3E6nDOGjPw2gP80Q4iQjYUCz/0EtxGVuu/bxISa0c42qSiqt3vad5PeB49wJ1k1/7AgI4PY=
+X-Received: by 2002:a2e:9cd8:: with SMTP id g24-v6mr18414715ljj.141.1529600668750;
+ Thu, 21 Jun 2018 10:04:28 -0700 (PDT)
+X-Received: by 2002:a2e:3c16:0:0:0:0:0 with HTTP; Thu, 21 Jun 2018 10:04:26
+ -0700 (PDT)
+Message-ID: <CAByahv_qMODApzxashF0kc600uhDuu0P6HbM6JXU6SbrX=Npyg@mail.gmail.com>
+To: redecolmeiarclaro@yahoogrupos.com.br, 
+	redecolmeiasorocaba@yahoogrupos.com.br, 
+	redecolmeiazonasulsp@yahoogrupos.com.br, 
+	redecolmeiacidadedesaopaulo@yahoogrupos.com.br, 
+	redecolmeiazonasulsp@googlegroups.com
+X-Originating-IP: 10.201.195.45
+X-Original-From: Fernando Rede Colmeia <redecolmeia@gmail.com>
+From: "Fernando Rede Colmeia redecolmeia@gmail.com [redecolmeiacidadedesaopaulo]" <redecolmeiacidadedesaopaulo-noreply@yahoogrupos.com.br>
+X-Yahoo-Profile: fcolacioppo
+Sender: redecolmeiacidadedesaopaulo@yahoogrupos.com.br
+MIME-Version: 1.0
+Mailing-List: list redecolmeiacidadedesaopaulo@yahoogrupos.com.br; contact redecolmeiacidadedesaopaulo-owner@yahoogrupos.com.br
+Delivered-To: mailing list redecolmeiacidadedesaopaulo@yahoogrupos.com.br
+List-Id: <redecolmeiacidadedesaopaulo.yahoogrupos.com.br>
+Precedence: bulk
+List-Unsubscribe: <mailto:redecolmeiacidadedesaopaulo-unsubscribe@yahoogrupos.com.br>
+Date: Thu, 21 Jun 2018 14:04:26 -0300
+Subject: [redecolmeiacidadedesaopaulo] Informativo Rede Colmeia 21 06 2018 [1 Anexo]
+Reply-To: Fernando Rede Colmeia <redecolmeia@gmail.com>
+X-Yahoo-Newman-Property: groups-email-ff-m
+Content-Type: multipart/alternative;
+ boundary="000000000000829829056f29e820"
+
+--000000000000829829056f29e820
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Um tr=C3=ADplice fraternal abra=C3=A7o,
+Ir.'. Fernando Colacioppo
+e-mail  redecolmeia@gmail.com / site www.redecolmeia.com.br
+
+--000000000000829829056f29e820
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/htm=
+l4/strict.dtd">
+<html>
+<head>
+</head>
+
+
+
+
+
+
+=20
+<body style=3D"background-color: #fff;">
+<span style=3D"display:none">&nbsp;</span>
+
+<!--~-|**|PrettyHtmlStartT|**|-~-->
+<div id=3D"ygrp-mlmsg" style=3D"position:relative;">
+  <div id=3D"ygrp-msg" style=3D"z-index: 1;">
+<!--~-|**|PrettyHtmlEndT|**|-~-->
+
+    <div id=3D"ygrp-text" >
+=20=20=20=20=20=20
+              <!--~-|**|PrettyHtmlStart|**|-~-->
+        <span style=3D"font-weight: 700; font-size: 12px; display: block; m=
+argin-bottom: 20px;">[<a style=3D"text-decoration: none;" href=3D"#TopText"=
+>Anexos</a> de Fernando Rede Colmeia inclu=C3=ADdos abaixo]</span>
+        <!--~-|**|PrettyHtmlEnd|**|-~-->
+=20=20=20=20=20=20
+      <p><div dir=3D"ltr"><div class=3D"gmail_signature" data=3D"gmail_sign=
+ature">Um tr=C3=ADplice fraternal abra=C3=A7o,<br>Ir.&#39;. Fernando Colaci=
+oppo <br>e-mail=C2=A0 <a href=3D"mailto:redecolmeia@gmail.com" target=3D"_b=
+lank">redecolmeia@gmail.com</a> / site <a href=3D"http://www.redecolmeia.co=
+m.br" target=3D"_blank">www.redecolmeia.com.br</a></div>
+</div>
+</p>
+
+    </div>
+=20=20=20=20=20
+
+    <!--~-|**|PrettyHtmlStart|**|-~-->
+    <div style=3D"color: #fff; height: 0;">__._,_.___</div>
+
+            <p style=3D"clear: both; margin: 0 0; padding: 0 0 3px 0;"><spa=
+n style=3D"color: #628C2A; font-weight: 700; font-size: 13px;">Anexo(s) de =
+Fernando Rede Colmeia</span> | <span style=3D"font-size: 13px;"><a style=3D=
+"text-decoration:none;" href=3D"https://br.groups.yahoo.com/neo/groups/rede=
+colmeiacidadedesaopaulo/attachments/1613745303;_ylc=3DX3oDMTJycmVnZmp0BF9TA=
+zk3NDkwNDM3BGdycElkAzEzMTg2NDE1BGdycHNwSWQDMjEzNzExNDcxNARzZWMDYXR0YWNobWVu=
+dARzbGsDdmlld09uV2ViBHN0aW1lAzE1Mjk2MDA2NzQ-">Exibir anexos na web </a></sp=
+an></p>
+=20=20=20=20
+=20=20
+=20
+
+        <p id=3D"attach-count" style=3D"margin: 0 0 2px 0; padding: 10px 0 =
+0 0;"><span style=3D"color: #628C2A; font-weight: 700;"> 1 de 1 arquivo(s) =
+</span>
+          </p>
+        <div class=3D"attach-table">
+                <div class=3D"file-row" style=3D"clear: both; margin: 2px 0=
+; white-space: nowrap; float: left; margin: 2px 0;">
+    <div class=3D"ygrp-file-title"> <img src=3D"http://l.yimg.com/kq/static=
+/images/yg/img/doc/generic16x16.gif" style=3D"margin-right: 5px; vertical-a=
+lign: middle;"> <a style=3D"text-decoration: none;" href=3D"https://xa.yimg=
+..com/kq/groups/13186415/896870501/name/Informativo%20Rede%20Colmeia%2021%20=
+06%202018%2Edocx" title=3D"Informativo Rede Colmeia 21 06 2018.docx">Inform=
+ativo Rede Colmeia 21 06 2018.docx</a></div>
+  </div>
+          </div>
+=20=20=20=20
+    <div style=3D"clear:both"> </div>
+
+    <div id=3D"fromDMARC" style=3D"margin-top: 10px;">
+        <hr style=3D"height:2px ; border-width:0; color:#E3E3E3; background=
+-color:#E3E3E3;">
+        Enviado por: Fernando Rede Colmeia &lt;redecolmeia@gmail.com&gt;   =
+     <hr style=3D"height:2px ; border-width:0; color:#E3E3E3; background-co=
+lor:#E3E3E3;">
+     </div>
+    <div style=3D"clear:both"> </div>
+
+    <table cellspacing=3D4px style=3D"margin-top: 10px; margin-bottom: 10px=
+; color: #2D50FD;">
+      <tbody>
+        <tr>
+          <td style=3D"font-size: 12px; font-family: arial; font-weight: bo=
+ld; padding: 7px 5px 5px;"  >
+                          <a style=3D"text-decoration: none; color: #2D50FD=
+" href=3D"https://br.groups.yahoo.com/neo/groups/redecolmeiacidadedesaopaul=
+o/conversations/messages/7040;_ylc=3DX3oDMTJxYnAzbm9sBF9TAzk3NDkwNDM3BGdycE=
+lkAzEzMTg2NDE1BGdycHNwSWQDMjEzNzExNDcxNARtc2dJZAM3MDQwBHNlYwNmdHIEc2xrA3Jwb=
+HkEc3RpbWUDMTUyOTYwMDY3NA--?act=3Dreply&messageNum=3D7040">Responder atrav=
+=C3=A9s da web</a>
+                      </td>
+          <td>&bull;</td>
+          <td style=3D"font-size: 12px; font-family: arial; padding: 7px 5p=
+x 5px;" >
+            <a href=3D"mailto:redecolmeia@gmail.com?subject=3DRes%3A%20Info=
+rmativo%20Rede%20Colmeia%2021%2006%202018" style=3D"text-decoration: none; =
+color: #2D50FD;">
+                            </a>
+          </td>
+          <td>&bull;</td>
+          <td style=3D"font-size: 12px; font-family: arial; padding: 7px 5p=
+x 5px;">
+            <a href=3D"mailto:redecolmeiacidadedesaopaulo@yahoogrupos.com.b=
+r?subject=3DRes%3A%20Informativo%20Rede%20Colmeia%2021%2006%202018" style=
+=3D"text-decoration: none; color: #2D50FD">
+               atrav=C3=A9s de email            </a>
+          </td>
+          <td>&bull;</td>
+          <td style=3D"font-size: 12px; font-family: arial; padding: 7px 5p=
+x 5px;" >
+            <a href=3D"https://br.groups.yahoo.com/neo/groups/redecolmeiaci=
+dadedesaopaulo/conversations/newtopic;_ylc=3DX3oDMTJmaDdkODBtBF9TAzk3NDkwND=
+M3BGdycElkAzEzMTg2NDE1BGdycHNwSWQDMjEzNzExNDcxNARzZWMDZnRyBHNsawNudHBjBHN0a=
+W1lAzE1Mjk2MDA2NzQ-" style=3D"text-decoration: none; color: #2D50FD">Adicio=
+nar um novo t=C3=B3pico</a>
+          </td>
+          <td>&bull;</td>
+          <td style=3D"font-size: 12px; font-family: arial; padding: 7px 5p=
+x 5px;color: #2D50FD;" >
+                            <a href=3D"https://br.groups.yahoo.com/neo/grou=
+ps/redecolmeiacidadedesaopaulo/conversations/topics/7040;_ylc=3DX3oDMTM1ZmV=
+mMzEyBF9TAzk3NDkwNDM3BGdycElkAzEzMTg2NDE1BGdycHNwSWQDMjEzNzExNDcxNARtc2dJZA=
+M3MDQwBHNlYwNmdHIEc2xrA3Z0cGMEc3RpbWUDMTUyOTYwMDY3NAR0cGNJZAM3MDQw" style=
+=3D"text-decoration: none; color: #2D50FD;">Mensagens neste t=C3=B3pico</a>
+                (1)
+                      </td>
+        </tr>
+      </tbody>
+    </table>
+
+=20=20=20=20=20=20=20=20
+
+<!------- Start Nav Bar ------>
+<!-- |**|begin egp html banner|**| -->
+<!-- |**|end egp html banner|**| -->
+
+
+    <div id=3D"ygrp-grfd" style=3D"font-family: Verdana; font-size: 12px; p=
+adding: 15px 0;">
+=20=20=20=20=20=20
+<!-- |**|begin egp html banner|**| -->
+
+      ----------<BR>
+Veja nossos apoidadores<BR>
+<a href=3D"http://www.redecolmeia.com.br/apoio/links.htm">http://www.redeco=
+lmeia.com.br/apoio/links.htm</a>&nbsp; <BR>
+----------<BR>
+Seja nosso apoiador coloque seu link aqui<BR>
+<a href=3D"http://www.redecolmeia.com.br/mason/cadastroemail.htm">http://ww=
+w.redecolmeia.com.br/mason/cadastroemail.htm</a>&nbsp; <BR>
+----------=20=20=20=20=20=20
+<!-- |**|end egp html banner|**| -->
+
+    </div>
+=20=20
+
+=20
+
+<!-- |**|begin egp html banner|**| -->
+<div id=3D"ygrp-vital" style=3D"background-color: #f2f2f2; font-family: Ver=
+dana; font-size: 10px; margin-bottom: 10px; padding: 10px;">
+
+    <span id=3D"vithd" style=3D"font-weight: bold; color: #333; text-transf=
+orm: uppercase; "><a href=3D"https://br.groups.yahoo.com/neo/groups/redecol=
+meiacidadedesaopaulo/info;_ylc=3DX3oDMTJmc3VlZGZ1BF9TAzk3NDkwNDM3BGdycElkAz=
+EzMTg2NDE1BGdycHNwSWQDMjEzNzExNDcxNARzZWMDdnRsBHNsawN2Z2hwBHN0aW1lAzE1Mjk2M=
+DA2NzQ-" style=3D"text-decoration: none;">Visite seu Grupo</a></span>
+
+     <ul style=3D"list-style-type: none; margin: 0; padding: 0; display: in=
+line;">
+                                                    </ul>
+  </div>
+
+
+<div id=3D"ft" style=3D"font-family: Arial; font-size: 11px; margin-top: 5p=
+x; padding: 0 2px 0 0; clear: both;">
+  <a href=3D"https://br.groups.yahoo.com/neo;_ylc=3DX3oDMTJlaWNyNGNuBF9TAzk=
+3NDkwNDM1BGdycElkAzEzMTg2NDE1BGdycHNwSWQDMjEzNzExNDcxNARzZWMDZnRyBHNsawNnZn=
+AEc3RpbWUDMTUyOTYwMDY3NA--" style=3D"float: left;"><img src=3D"http://l.yim=
+g.com/ru/static/images/yg/img/email/new_logo/yahoo_groups_pt-BR_141x19.png"=
+ height=3D"19" width=3D"141" alt=3D"Yahoo! Grupos" style=3D"border: 0;"/></=
+a>
+  <div style=3D"color: #747575; float: right;"> &bull; <a href=3D"https://i=
+nfo.yahoo.com/privacy/br/yahoo/groups/details.html" style=3D"text-decoratio=
+n: none;">Privacidade</a> &bull; <a href=3D"mailto:redecolmeiacidadedesaopa=
+ulo-unsubscribe@yahoogrupos.com.br?subject=3DSair do grupo" style=3D"text-d=
+ecoration: none;">Sair do grupo</a> &bull; <a href=3D"https://info.yahoo.co=
+m/legal/br/yahoo/utos/terms/" style=3D"text-decoration: none;">Termos de us=
+o</a> </div>
+</div>
+<br>
+
+<!-- |**|end egp html banner|**| -->
+
+  </div> <!-- ygrp-msg -->
+
+=20
+  <!-- Sponsor -->
+  <!-- |**|begin egp html banner|**| -->
+  <div id=3D"ygrp-sponsor" style=3D"width:160px; float:right; clear:none; m=
+argin:0 0 25px 0; background: #fff;">
+
+<!-- Start Recommendations -->
+<div id=3D"ygrp-reco">
+     </div>
+<!-- End Recommendations -->
+
+
+
+  </div>   <!-- |**|end egp html banner|**| -->
+
+  <div style=3D"clear:both; color: #FFF; font-size:1px;">.</div>
+</div>
+
+  <img src=3D"http://geo.yahoo.com/serv?s=3D97490437/grpId=3D13186415/grpsp=
+Id=3D2137114714/msgId=3D7040/stime=3D1529600674" width=3D"1" height=3D"1"> =
+<br>
+
+<img src=3D"http://y.analytics.yahoo.com/fpc.pl?ywarid=3D515FB27823A7407E&a=
+=3D10001310322279&js=3Dno&resp=3Dimg" width=3D"1" height=3D"1">=20
+
+<div style=3D"color: #fff; height: 0;">__,_._,___</div>
+<!--~-|**|PrettyHtmlEnd|**|-~-->
+
+</body>
+
+<!--~-|**|PrettyHtmlStart|**|-~-->
+<head>
+  <style type=3D"text/css">
+  <!--
+  #ygrp-mkp {
+  border: 1px solid #d8d8d8;
+  font-family: Arial;
+  margin: 10px 0;
+  padding: 0 10px;
+}
+
+#ygrp-mkp hr {
+  border: 1px solid #d8d8d8;
+}
+
+#ygrp-mkp #hd {
+  color: #628c2a;
+  font-size: 85%;
+  font-weight: 700;
+  line-height: 122%;
+  margin: 10px 0;
+}
+
+#ygrp-mkp #ads {
+  margin-bottom: 10px;
+}
+
+#ygrp-mkp .ad {
+  padding: 0 0;
+}
+
+#ygrp-mkp .ad p {
+  margin: 0;
+}
+
+#ygrp-mkp .ad a {
+  color: #0000ff;
+  text-decoration: none;
+}
+  #ygrp-sponsor #ygrp-lc {
+  font-family: Arial;
+}
+
+#ygrp-sponsor #ygrp-lc #hd {
+  margin: 10px 0px;
+  font-weight: 700;
+  font-size: 78%;
+  line-height: 122%;
+}
+
+#ygrp-sponsor #ygrp-lc .ad {
+  margin-bottom: 10px;
+  padding: 0 0;
+}
+
+  #actions {
+    font-family: Verdana;
+    font-size: 11px;
+    padding: 10px 0;
+  }
+
+  #activity {
+    background-color: #e0ecee;
+    float: left;
+    font-family: Verdana;
+    font-size: 10px;
+    padding: 10px;
+  }
+
+  #activity span {
+    font-weight: 700;
+  }
+
+  #activity span:first-child {
+    text-transform: uppercase;
+  }
+
+  #activity span a {
+    color: #5085b6;
+    text-decoration: none;
+  }
+
+  #activity span span {
+    color: #ff7900;
+  }
+
+  #activity span .underline {
+    text-decoration: underline;
+  }
+
+  .attach {
+    clear: both;
+    display: table;
+    font-family: Arial;
+    font-size: 12px;
+    padding: 10px 0;
+    width: 400px;
+  }
+
+  .attach div a {
+    text-decoration: none;
+  }
+
+  .attach img {
+    border: none;
+    padding-right: 5px;
+  }
+
+  .attach label {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  .attach label a {
+    text-decoration: none;
+  }
+=20=20
+  blockquote {
+    margin: 0 0 0 4px;
+  }
+
+  .bold {
+    font-family: Arial;
+    font-size: 13px;
+    font-weight: 700;
+  }
+
+  .bold a {
+    text-decoration: none;
+  }
+
+  dd.last p a {
+    font-family: Verdana;
+    font-weight: 700;
+  }
+
+  dd.last p span {
+    margin-right: 10px;
+    font-family: Verdana;
+    font-weight: 700;
+  }
+
+  dd.last p span.yshortcuts {
+    margin-right: 0;
+  }
+
+  div.attach-table div div a {
+    text-decoration: none;
+  }
+
+  div.attach-table {
+    width: 400px;
+  }
+
+  div.file-title a, div.file-title a:active, div.file-title a:hover, div.fi=
+le-title a:visited {
+    text-decoration: none;
+  }
+
+  div.photo-title a, div.photo-title a:active, div.photo-title a:hover, div=
+..photo-title a:visited {
+    text-decoration: none;
+  }
+
+  div#ygrp-mlmsg #ygrp-msg p a span.yshortcuts {
+    font-family: Verdana;
+    font-size: 10px;
+    font-weight: normal;
+  }
+
+  .green {
+    color: #628c2a;
+  }
+
+  .MsoNormal {
+    margin: 0 0 0 0;
+  }
+
+  o {
+    font-size: 0;
+  }
+
+  #photos div {
+    float: left;
+    width: 72px;
+  }
+
+  #photos div div {
+    border: 1px solid #666666;
+    height: 62px;
+    overflow: hidden;
+    width: 62px;
+  }
+
+  #photos div label {
+    color: #666666;
+    font-size: 10px;
+    overflow: hidden;
+    text-align: center;
+    white-space: nowrap;
+    width: 64px;
+  }
+
+  #reco-category {
+    font-size: 77%;
+  }
+
+  #reco-desc {
+    font-size: 77%;
+  }
+
+  .replbq {
+    margin: 4px;
+  }
+
+  #ygrp-actbar div a:first-child {
+   /* border-right: 0px solid #000;*/
+    margin-right: 2px;
+    padding-right: 5px;
+  }
+
+  #ygrp-mlmsg {
+    font-size: 13px;
+    font-family: Arial, helvetica,clean, sans-serif;
+    *font-size: small;
+    *font: x-small;
+  }
+
+  #ygrp-mlmsg table {
+    font-size: inherit;
+    font: 100%;
+  }
+
+  #ygrp-mlmsg select, input, textarea {
+    font: 99% Arial, Helvetica, clean, sans-serif;
+  }
+
+  #ygrp-mlmsg pre, code {
+    font:115% monospace;
+    *font-size:100%;
+  }
+
+  #ygrp-mlmsg * {
+    line-height: 1.22em;
+  }
+
+  #ygrp-mlmsg #logo {
+    padding-bottom: 10px;
+  }
+
+
+  #ygrp-msg p a {
+    font-family: Verdana;
+  }
+
+  #ygrp-msg p#attach-count span {
+    color: #1E66AE;
+    font-weight: 700;
+  }
+
+  #ygrp-reco #reco-head {
+    color: #ff7900;
+    font-weight: 700;
+  }
+
+  #ygrp-reco {
+    margin-bottom: 20px;
+    padding: 0px;
+  }
+
+  #ygrp-sponsor #ov li a {
+    font-size: 130%;
+    text-decoration: none;
+  }
+
+  #ygrp-sponsor #ov li {
+    font-size: 77%;
+    list-style-type: square;
+    padding: 6px 0;
+  }=20
+
+  #ygrp-sponsor #ov ul {
+    margin: 0;
+    padding: 0 0 0 8px;
+  }
+
+  #ygrp-text {
+    font-family: Georgia;
+  }
+
+  #ygrp-text p {
+    margin: 0 0 1em 0;
+  }
+
+  #ygrp-text tt {
+    font-size: 120%;
+  }
+
+  #ygrp-vital ul li:last-child {
+    border-right: none !important;=20
+  }=20
+  -->
+  </style>
+</head>
+
+<!--~-|**|PrettyHtmlEnd|**|-~-->
+</html>
+<!-- end group email -->
+
+
+--000000000000829829056f29e820--

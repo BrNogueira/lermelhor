@@ -1,0 +1,749 @@
+Return-Path: <bounces+2861358-cb25-marco=digitalfotoimagem.com.br@mailsg.coachsemlimites.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id obZiLa90TlhKlw4AY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Mon, 12 Dec 2016 07:58:07 -0200
+Return-path: <bounces+2861358-cb25-marco=digitalfotoimagem.com.br@mailsg.coachsemlimites.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Mon, 12 Dec 2016 07:58:07 -0200
+Received: from o1.mailsg.leadlovers.com ([167.89.83.148]:13827)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2861358-cb25-marco=digitalfotoimagem.com.br@mailsg.coachsemlimites.com.br>)
+	id 1cGNN1-0040pN-AQ
+	for marco@digitalfotoimagem.com.br; Mon, 12 Dec 2016 07:58:07 -0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=coachsemlimites.com.br; 
+	h=content-type:from:mime-version:subject:to:list-unsubscribe; 
+	s=m1; bh=smb+UoWdnX2XKnue1MtDSrtljho=; b=OcRmylQfPoKXG88wWnaWc4q
+	/kb8r8++FncIqCfpLBI6j5W5QBHwd5dfjjAI1vAXK7djpmYrikjK6oo2FC0pCQtC
+	N3XfC4RpOumJsyPaamA9XznbfSr31w61RaQZ9kJWoq/o94nrgAAFl1HwtpPx7bHC
+	vd9YY6jaZuQub5LEUK10=
+Received: by filter0050p1las1.sendgrid.net with SMTP id filter0050p1las1-16724-584E7478-28
+        2016-12-12 09:57:13.23757331 +0000 UTC
+Received: from Mjg2MTM1OA (m3640.contabo.host [5.189.178.140])
+	by ismtpd0004p1lon1.sendgrid.net (SG) with HTTP id TJjD9aOaRFSiHJUDtXO7aw
+	Mon, 12 Dec 2016 09:57:12.333 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=c663a078b54e0f88d848c55cdfb706cf3accdf9f6e5be21a3c8c8d6055ca
+Date: Mon, 12 Dec 2016 09:57:12 +0000
+From: "Otavio Castanho" <contato@coachsemlimites.com.br>
+Mime-Version: 1.0
+Subject: As 05 Regras de Ouro do Coach de Sucesso
+To: <marco@digitalfotoimagem.com.br>
+Message-ID: <TJjD9aOaRFSiHJUDtXO7aw@ismtpd0004p1lon1.sendgrid.net>
+List-Unsubscribe: <https://u2861358.ct.sendgrid.net/wf/unsubscribe?upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiWoKQFOF-2FXBopiL-2BYaC-2B-2BVp5psJLn6vF-2FJPEMrp2ZPfIMsZGr7n7N-2FiZV2nhXB6mz5jvF1WESC-2BiwzHGGBeocjPgER23oHAjoD4eEeXTNKhbOLM-2FVkBxSJJfvrwVDJzQ9n5H5wDcqzfWfb9UK2pgm3Nphrtl3fNe7OsQnpxsUI6CQwYOfxXKxFzms0F9eR4dnFiD2ptcA-2F53QfKcRHAKiwgOYzJ9IsEi9X7sQ4Byz5qA-3D>, <mailto:unsubscribe@mailsg.coachsemlimites.com.br?subject=https://u2861358.ct.sendgrid.net/wf/unsubscribe*q*upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiWoKQFOF-2FXBopiL-2BYaC-2B-2BVp5psJLn6vF-2FJPEMrp2ZPfIMsZGr7n7N-2FiZV2nhXB6mz5jvF1WESC-2BiwzHGGBeocjPgER23oHAjoD4eEeXTNKhbOLM-2FVkBxSJJfvrwVDJzQ9n5H5wDcqzfWfb9UK2pgm3Nphrtl3fNe7OsQnpxsUI6CQwYOfxXKxFzms0F9eR4dnFiD2ptcA-2F53QfKcRHAKiwgOYzJ9IsEi9X7sQ4Byz5qA-3D>
+X-SG-EID: Hch+2AQw5UfQtHqV+P/3h94kWa/z3uc7aT9t1ffNJX6ejfdpfjs1c7IIdtNthFh9vdG2xY8I2d8JIr
+ dkl0Sf9C9g+D/aeer0F/4A9OKWq1EtqLL0uYJ73P390dVihj7ga9Dgylx467Fq2l96dDewKybOnYuf
+ Eyw4KBwJPRPBF8xJhwAQrjjtDwKWzN489GNubZQ5V4IKhPXs+rEOgYr1Ko9UyB3IcPBxcZtEcKSE84
+ wc+zuzla9zGWGvOgWbGhCnFI9JSXArh1CjsI1aLEu7yA==
+X-SG-ID: YDTqBOjidbCUo/ar1oAtZkdKFa4fbhiiBFn7rbTW0weZu5KK3NQdkt/qjDIjdPTT
+
+--c663a078b54e0f88d848c55cdfb706cf3accdf9f6e5be21a3c8c8d6055ca
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+Opaa...Hoje, dia 12, teremos uma Aula Online Ao Vivo as 20hno hor=C3=A1rio =
+de Bras=C3=ADlia para falar das05 Regras de Ouro do Coach de Sucesso e para=
+ encerraras inscri=C3=A7=C3=B5es no Programa Coach Sem Limites.Que regras s=
+=C3=A3o essas Otavio?S=C3=A3o as 05 coisas que se voc=C3=AA n=C3=A3o seguir=
+, n=C3=A3o deslanchar=C3=A1 nacarreira de coaching e se voc=C3=AA seguir, t=
+er=C3=A1 uma ascens=C3=A3o maisr=C3=A1pida do que a maioria gigantesca dos =
+outros Coaches.Se voc=C3=AA tem um desses problemas abaixo a aula =C3=A9 pr=
+a voc=C3=AA:- Dificuldade para captar clientes- Dificuldade para fechar cli=
+entes pagantes- Falta de confian=C3=A7a e seguran=C3=A7a para atender- N=C3=
+=A3o sabe cobrar nem falar de dinheiro com o cliente- Tem d=C3=BAvida de co=
+mo estruturar o processo- Dificuldade com clientes que tem demandas subjeti=
+vas ou que travam muito e n=C3=A3o saem do lugar.Se tem algum desses proble=
+minhas inscreva-se agora nolink abaixo:LINK  AULA AO VIVO  05 REGRAS DE OUR=
+OComo sabe, no final de toda a aula, al=C3=A9m do pr=C3=B3prio conte=C3=BAd=
+oda aula eu tamb=C3=A9m ensino uma t=C3=A9cnica bacana, divertida er=C3=A1p=
+ida e dessa vez voc=C3=AA vai votar entre:- T=C3=A9cnica para tirar dor de =
+cabe=C3=A7a conversando em 5 minutos- T=C3=A9cnica para esquecer algu=C3=A9=
+m que te traz m=C3=A1s sensa=C3=A7=C3=B5esVou tamb=C3=A9m tirar d=C3=BAvida=
+s sobre o Programa Coach Sem Limites,mas caso voc=C3=AA n=C3=A3o tenha mais=
+ d=C3=BAvidas ou queira san=C3=A1-lasrapidamente, pode mandar no Whatsapp 1=
+1.98399.5088 ouse inscrever no link abaixo.LINK PARA INSCRI=C3=A7=C3=A3O E =
+PARA GANHAR OS BONUS ABAIXO#1  Curso das M=C3=BAltiplas Intelig=C3=AAncias =
+   Coach Amar=C3=ADlio Silva#2  Curso de Coaching em Vendas    Master Coach=
+ Wagner Campos#3  Mini Curso 7 Passos Para Ter Mais Foco    Coach Evandro M=
+azuco#4  S=C3=A9rie  O Melhor Ano Da Minha Vida    Coach T=C3=AAneli Mller#=
+5  Curso Personal L=C3=ADder  DISC    Coach Priscilla Belletate#6  Ferramen=
+ta do Campo de For=C3=A7a    Coach Ger=C3=B4nimo Theml#7  Curso Primeira Se=
+ss=C3=A3o Matadora (Complet=C3=ADssimo)    Coach Otavio Castanho (eu mesmo.=
+ rs)#8  Congresso Nacional de Coaching Online    CONACON 2016  38 palestras=
+Espero sua presen=C3=A7a, ao vivo hoje as 20h!LINK  AULA AO VIVO  05 REGRAS=
+ DE OUROAbra=C3=A7o grandeOtavio CastanhoCoach Sem LimitesRua Ambrosina de =
+Macedo, 123 - S=C3=A3o Paulo - SP - 04013030Caso n=C3=A3o queira mais receb=
+er meus e-mails, acesse esse link. (Unsubscribe).Enviado com amor por Lead =
+Lovers
+
+--c663a078b54e0f88d848c55cdfb706cf3accdf9f6e5be21a3c8c8d6055ca
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<span style=3D"color:#333333;font-family:'Helvetica Neue', Helvetica, Arial=
+, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal=
+;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphans:=
+2;text-align:start;text-indent:0px;text-transform:none;white-space:normal;w=
+idows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:#ff=
+ffff;display:inline !important;float:none;">Opaa...</span><br style=3D"box-=
+sizing:border-box;color:#333333;font-family:'Helvetica Neue', Helvetica, Ar=
+ial, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:nor=
+mal;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;orpha=
+ns:2;text-align:start;text-indent:0px;text-transform:none;white-space:norma=
+l;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><br style=3D"=
+box-sizing:border-box;color:#333333;font-family:'Helvetica Neue', Helvetica=
+, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures=
+:normal;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;o=
+rphans:2;text-align:start;text-indent:0px;text-transform:none;white-space:n=
+ormal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><span sty=
+le=3D"color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-se=
+rif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-var=
+iant-caps:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-al=
+ign:start;text-indent:0px;text-transform:none;white-space:normal;widows:2;w=
+ord-spacing:0px;-webkit-text-stroke-width:0px;background-color:#ffffff;disp=
+lay:inline !important;float:none;">Hoje, dia 12, teremos uma <strong>Aula O=
+nline Ao Vivo as 20h</strong></span><br style=3D"box-sizing:border-box;colo=
+r:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-s=
+ize:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:=
+normal;font-weight:normal;letter-spacing:normal;orphans:2;text-align:start;=
+text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacin=
+g:0px;-webkit-text-stroke-width:0px;" /><span style=3D"color:#333333;font-f=
+amily:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-st=
+yle:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weig=
+ht:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;=
+text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-te=
+xt-stroke-width:0px;background-color:#ffffff;display:inline !important;floa=
+t:none;">no hor&aacute;rio de Bras&iacute;lia para falar das</span><br styl=
+e=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica Neue', Helv=
+etica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-liga=
+tures:normal;font-variant-caps:normal;font-weight:normal;letter-spacing:nor=
+mal;orphans:2;text-align:start;text-indent:0px;text-transform:none;white-sp=
+ace:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><spa=
+n style=3D"color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sa=
+ns-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;fon=
+t-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphans:2;te=
+xt-align:start;text-indent:0px;text-transform:none;white-space:normal;widow=
+s:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:#ffffff=
+;display:inline !important;float:none;"><strong>05 Regras de Ouro do Coach =
+de Sucesso</strong> e para encerrar</span><br style=3D"box-sizing:border-bo=
+x;color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;=
+font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant=
+-caps:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-align:=
+start;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-=
+spacing:0px;-webkit-text-stroke-width:0px;" /><span style=3D"color:#333333;=
+font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;f=
+ont-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;fon=
+t-weight:normal;letter-spacing:normal;orphans:2;text-align:start;text-inden=
+t:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-web=
+kit-text-stroke-width:0px;background-color:#ffffff;display:inline !importan=
+t;float:none;">as inscri&ccedil;&otilde;es no <strong>Programa Coach Sem Li=
+mites</strong>.</span><br style=3D"box-sizing:border-box;color:#333333;font=
+-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-=
+style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-we=
+ight:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0p=
+x;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-=
+text-stroke-width:0px;" /><br style=3D"box-sizing:border-box;color:#333333;=
+font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;f=
+ont-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;fon=
+t-weight:normal;letter-spacing:normal;orphans:2;text-align:start;text-inden=
+t:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-web=
+kit-text-stroke-width:0px;" /><span style=3D"color:#333333;font-family:'Hel=
+vetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal=
+;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:normal;=
+letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-trans=
+form:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-=
+width:0px;background-color:#ffffff;display:inline !important;float:none;"><=
+em>Que regras s&atilde;o essas Otavio?</em></span><br style=3D"box-sizing:b=
+order-box;color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, san=
+s-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font=
+-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphans:2;tex=
+t-align:start;text-indent:0px;text-transform:none;white-space:normal;widows=
+:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><br style=3D"box-sizi=
+ng:border-box;color:#333333;font-family:'Helvetica Neue', Helvetica, Arial,=
+ sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;=
+font-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphans:2=
+;text-align:start;text-indent:0px;text-transform:none;white-space:normal;wi=
+dows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><span style=3D"co=
+lor:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font=
+-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-cap=
+s:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-align:star=
+t;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spac=
+ing:0px;-webkit-text-stroke-width:0px;background-color:#ffffff;display:inli=
+ne !important;float:none;">S&atilde;o as 05 coisas que se voc&ecirc; n&atil=
+de;o seguir, n&atilde;o deslanchar&aacute; na</span><br style=3D"box-sizing=
+:border-box;color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, s=
+ans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;fo=
+nt-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphans:2;t=
+ext-align:start;text-indent:0px;text-transform:none;white-space:normal;wido=
+ws:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><span style=3D"colo=
+r:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-s=
+ize:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:=
+normal;font-weight:normal;letter-spacing:normal;orphans:2;text-align:start;=
+text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacin=
+g:0px;-webkit-text-stroke-width:0px;background-color:#ffffff;display:inline=
+ !important;float:none;">carreira de coaching e se voc&ecirc; seguir, ter&a=
+acute; uma <strong>ascens&atilde;o</strong> mais</span><br style=3D"box-siz=
+ing:border-box;color:#333333;font-family:'Helvetica Neue', Helvetica, Arial=
+, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal=
+;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphans:=
+2;text-align:start;text-indent:0px;text-transform:none;white-space:normal;w=
+idows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><span style=3D"c=
+olor:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;fon=
+t-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-ca=
+ps:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-align:sta=
+rt;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spa=
+cing:0px;-webkit-text-stroke-width:0px;background-color:#ffffff;display:inl=
+ine !important;float:none;"><strong>r&aacute;pida</strong> do que a maioria=
+ gigantesca dos outros Coaches.</span><br style=3D"box-sizing:border-box;co=
+lor:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font=
+-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-cap=
+s:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-align:star=
+t;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spac=
+ing:0px;-webkit-text-stroke-width:0px;" /><br style=3D"box-sizing:border-bo=
+x;color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;=
+font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant=
+-caps:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-align:=
+start;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-=
+spacing:0px;-webkit-text-stroke-width:0px;" /><span style=3D"color:#333333;=
+font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;f=
+ont-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;fon=
+t-weight:normal;letter-spacing:normal;orphans:2;text-align:start;text-inden=
+t:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-web=
+kit-text-stroke-width:0px;background-color:#ffffff;display:inline !importan=
+t;float:none;"><strong>Se voc&ecirc; tem um desses problemas abaixo a aula =
+&eacute; pra voc&ecirc;:</strong></span><br style=3D"box-sizing:border-box;=
+color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;fo=
+nt-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-c=
+aps:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-align:st=
+art;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-sp=
+acing:0px;-webkit-text-stroke-width:0px;" /><span style=3D"color:#333333;fo=
+nt-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;fon=
+t-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-=
+weight:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:=
+0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webki=
+t-text-stroke-width:0px;background-color:#ffffff;display:inline !important;=
+float:none;">- Dificuldade para captar clientes</span><br style=3D"box-sizi=
+ng:border-box;color:#333333;font-family:'Helvetica Neue', Helvetica, Arial,=
+ sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;=
+font-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphans:2=
+;text-align:start;text-indent:0px;text-transform:none;white-space:normal;wi=
+dows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><span style=3D"co=
+lor:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font=
+-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-cap=
+s:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-align:star=
+t;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spac=
+ing:0px;-webkit-text-stroke-width:0px;background-color:#ffffff;display:inli=
+ne !important;float:none;">- Dificuldade para fechar clientes pagantes</spa=
+n><br style=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica N=
+eue', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-va=
+riant-ligatures:normal;font-variant-caps:normal;font-weight:normal;letter-s=
+pacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:non=
+e;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0p=
+x;" /><span style=3D"color:#333333;font-family:'Helvetica Neue', Helvetica,=
+ Arial, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:=
+normal;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;or=
+phans:2;text-align:start;text-indent:0px;text-transform:none;white-space:no=
+rmal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-col=
+or:#ffffff;display:inline !important;float:none;">- Falta de confian&ccedil=
+;a e seguran&ccedil;a para atender</span><br style=3D"box-sizing:border-box=
+;color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;f=
+ont-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-=
+caps:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-align:s=
+tart;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-s=
+pacing:0px;-webkit-text-stroke-width:0px;" /><span style=3D"color:#333333;f=
+ont-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;fo=
+nt-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font=
+-weight:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent=
+:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webk=
+it-text-stroke-width:0px;background-color:#ffffff;display:inline !important=
+;float:none;">- N&atilde;o sabe cobrar nem falar de dinheiro com o cliente<=
+/span><br style=3D"box-sizing:border-box;color:#333333;font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;fon=
+t-variant-ligatures:normal;font-variant-caps:normal;font-weight:normal;lett=
+er-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform=
+:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-widt=
+h:0px;" /><span style=3D"color:#333333;font-family:'Helvetica Neue', Helvet=
+ica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-ligatu=
+res:normal;font-variant-caps:normal;font-weight:normal;letter-spacing:norma=
+l;orphans:2;text-align:start;text-indent:0px;text-transform:none;white-spac=
+e:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background=
+-color:#ffffff;display:inline !important;float:none;">- Tem d&uacute;vida d=
+e como estruturar o processo</span><br style=3D"box-sizing:border-box;color=
+:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-si=
+ze:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:n=
+ormal;font-weight:normal;letter-spacing:normal;orphans:2;text-align:start;t=
+ext-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing=
+:0px;-webkit-text-stroke-width:0px;" /><span style=3D"color:#333333;font-fa=
+mily:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-sty=
+le:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weigh=
+t:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;t=
+ext-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-tex=
+t-stroke-width:0px;background-color:#ffffff;display:inline !important;float=
+:none;">- Dificuldade com clientes que tem demandas subjetivas ou</span><br=
+ style=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica Neue',=
+ Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant=
+-ligatures:normal;font-variant-caps:normal;font-weight:normal;letter-spacin=
+g:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;whi=
+te-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /=
+><span style=3D"color:#333333;font-family:'Helvetica Neue', Helvetica, Aria=
+l, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:norma=
+l;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphans=
+:2;text-align:start;text-indent:0px;text-transform:none;white-space:normal;=
+widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:#f=
+fffff;display:inline !important;float:none;">&nbsp; que travam muito e n&at=
+ilde;o saem do lugar.</span><br style=3D"box-sizing:border-box;color:#33333=
+3;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px=
+;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;f=
+ont-weight:normal;letter-spacing:normal;orphans:2;text-align:start;text-ind=
+ent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-w=
+ebkit-text-stroke-width:0px;" /><br style=3D"box-sizing:border-box;color:#3=
+33333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:=
+14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:norm=
+al;font-weight:normal;letter-spacing:normal;orphans:2;text-align:start;text=
+-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0p=
+x;-webkit-text-stroke-width:0px;" /><span style=3D"color:#333333;font-famil=
+y:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:=
+normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:n=
+ormal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text=
+-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-s=
+troke-width:0px;background-color:#ffffff;display:inline !important;float:no=
+ne;">Se tem algum desses probleminhas <strong>inscreva-se agora</strong> no=
+</span><br style=3D"box-sizing:border-box;color:#333333;font-family:'Helvet=
+ica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;fo=
+nt-variant-ligatures:normal;font-variant-caps:normal;font-weight:normal;let=
+ter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transfor=
+m:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-wid=
+th:0px;" /><span style=3D"color:#333333;font-family:'Helvetica Neue', Helve=
+tica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-ligat=
+ures:normal;font-variant-caps:normal;font-weight:normal;letter-spacing:norm=
+al;orphans:2;text-align:start;text-indent:0px;text-transform:none;white-spa=
+ce:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;backgroun=
+d-color:#ffffff;display:inline !important;float:none;">link abaixo:</span><=
+br style=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica Neue=
+', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-varia=
+nt-ligatures:normal;font-variant-caps:normal;font-weight:normal;letter-spac=
+ing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;w=
+hite-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;"=
+ /><br style=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica =
+Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-v=
+ariant-ligatures:normal;font-variant-caps:normal;font-weight:normal;letter-=
+spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:no=
+ne;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0=
+px;" /><span style=3D"color:#333333;font-family:'Helvetica Neue', Helvetica=
+, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures=
+:normal;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;o=
+rphans:2;text-align:start;text-indent:0px;text-transform:none;white-space:n=
+ormal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-co=
+lor:#ffffff;display:inline !important;float:none;"><strong><a href=3D"http:=
+//leadloversclick09.com/redirect/redirect.aspx?A=3DR&l=3DE33C449A-E295-469E=
+-8F52-BC75706C9DC7&u=3Dee15b833-e110-492a-8a09-cad6462fef4b" target=3D"_bla=
+nk">LINK &ndash; AULA AO VIVO &ndash; 05 REGRAS DE OURO</a></strong></span>=
+<br style=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica Neu=
+e', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-vari=
+ant-ligatures:normal;font-variant-caps:normal;font-weight:normal;letter-spa=
+cing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;=
+white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;=
+" /><br style=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica=
+ Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-=
+variant-ligatures:normal;font-variant-caps:normal;font-weight:normal;letter=
+-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:n=
+one;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:=
+0px;" /><span style=3D"color:#333333;font-family:'Helvetica Neue', Helvetic=
+a, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-ligature=
+s:normal;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;=
+orphans:2;text-align:start;text-indent:0px;text-transform:none;white-space:=
+normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-c=
+olor:#ffffff;display:inline !important;float:none;">Como sabe, no final de =
+toda a aula, al&eacute;m do pr&oacute;prio conte&uacute;do</span><br style=
+=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica Neue', Helve=
+tica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-ligat=
+ures:normal;font-variant-caps:normal;font-weight:normal;letter-spacing:norm=
+al;orphans:2;text-align:start;text-indent:0px;text-transform:none;white-spa=
+ce:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><span=
+ style=3D"color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, san=
+s-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font=
+-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphans:2;tex=
+t-align:start;text-indent:0px;text-transform:none;white-space:normal;widows=
+:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:#ffffff;=
+display:inline !important;float:none;">da aula eu tamb&eacute;m ensino uma =
+<strong>t&eacute;cnica bacana</strong>, <strong>divertida e</strong></span>=
+<br style=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica Neu=
+e', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-vari=
+ant-ligatures:normal;font-variant-caps:normal;font-weight:normal;letter-spa=
+cing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;=
+white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;=
+" /><span style=3D"color:#333333;font-family:'Helvetica Neue', Helvetica, A=
+rial, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:no=
+rmal;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;orph=
+ans:2;text-align:start;text-indent:0px;text-transform:none;white-space:norm=
+al;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color=
+:#ffffff;display:inline !important;float:none;"><strong>r&aacute;pida</stro=
+ng> e dessa vez voc&ecirc; vai votar entre:<br /><br /></span><br style=3D"=
+box-sizing:border-box;color:#333333;font-family:'Helvetica Neue', Helvetica=
+, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures=
+:normal;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;o=
+rphans:2;text-align:start;text-indent:0px;text-transform:none;white-space:n=
+ormal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><span sty=
+le=3D"color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-se=
+rif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-var=
+iant-caps:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-al=
+ign:start;text-indent:0px;text-transform:none;white-space:normal;widows:2;w=
+ord-spacing:0px;-webkit-text-stroke-width:0px;background-color:#ffffff;disp=
+lay:inline !important;float:none;"><strong>- T&eacute;cnica para tirar dor =
+de cabe&ccedil;a conversando em 5 minutos</strong></span><br style=3D"box-s=
+izing:border-box;color:#333333;font-family:'Helvetica Neue', Helvetica, Ari=
+al, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:norm=
+al;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphan=
+s:2;text-align:start;text-indent:0px;text-transform:none;white-space:normal=
+;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><span style=3D=
+"color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;f=
+ont-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-=
+caps:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-align:s=
+tart;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-s=
+pacing:0px;-webkit-text-stroke-width:0px;background-color:#ffffff;display:i=
+nline !important;float:none;"><strong>- T&eacute;cnica para esquecer algu&e=
+acute;m que te traz m&aacute;s sensa&ccedil;&otilde;es</strong></span><br s=
+tyle=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica Neue', H=
+elvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-l=
+igatures:normal;font-variant-caps:normal;font-weight:normal;letter-spacing:=
+normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;white=
+-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><=
+br style=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica Neue=
+', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-varia=
+nt-ligatures:normal;font-variant-caps:normal;font-weight:normal;letter-spac=
+ing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;w=
+hite-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;"=
+ /><span style=3D"color:#333333;font-family:'Helvetica Neue', Helvetica, Ar=
+ial, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:nor=
+mal;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;orpha=
+ns:2;text-align:start;text-indent:0px;text-transform:none;white-space:norma=
+l;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:=
+#ffffff;display:inline !important;float:none;">Vou tamb&eacute;m tirar d&ua=
+cute;vidas sobre o <strong>Programa Coach Sem Limites</strong>,</span><br s=
+tyle=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica Neue', H=
+elvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-l=
+igatures:normal;font-variant-caps:normal;font-weight:normal;letter-spacing:=
+normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;white=
+-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><=
+span style=3D"color:#333333;font-family:'Helvetica Neue', Helvetica, Arial,=
+ sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;=
+font-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphans:2=
+;text-align:start;text-indent:0px;text-transform:none;white-space:normal;wi=
+dows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:#fff=
+fff;display:inline !important;float:none;">mas caso voc&ecirc; n&atilde;o t=
+enha mais d&uacute;vidas ou queira san&aacute;-las</span><br style=3D"box-s=
+izing:border-box;color:#333333;font-family:'Helvetica Neue', Helvetica, Ari=
+al, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:norm=
+al;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphan=
+s:2;text-align:start;text-indent:0px;text-transform:none;white-space:normal=
+;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><span style=3D=
+"color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;f=
+ont-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-=
+caps:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-align:s=
+tart;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-s=
+pacing:0px;-webkit-text-stroke-width:0px;background-color:#ffffff;display:i=
+nline !important;float:none;">rapidamente, pode mandar no <strong>Whatsapp =
+11.98399.5088</strong> ou</span><br style=3D"box-sizing:border-box;color:#3=
+33333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:=
+14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:norm=
+al;font-weight:normal;letter-spacing:normal;orphans:2;text-align:start;text=
+-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0p=
+x;-webkit-text-stroke-width:0px;" /><span style=3D"color:#333333;font-famil=
+y:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:=
+normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:n=
+ormal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text=
+-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-s=
+troke-width:0px;background-color:#ffffff;display:inline !important;float:no=
+ne;">se inscrever no link abaixo.</span><br style=3D"box-sizing:border-box;=
+color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;fo=
+nt-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-c=
+aps:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-align:st=
+art;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-sp=
+acing:0px;-webkit-text-stroke-width:0px;" /><br style=3D"box-sizing:border-=
+box;color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-seri=
+f;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-varia=
+nt-caps:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-alig=
+n:start;text-indent:0px;text-transform:none;white-space:normal;widows:2;wor=
+d-spacing:0px;-webkit-text-stroke-width:0px;" /><span style=3D"color:#33333=
+3;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px=
+;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;f=
+ont-weight:normal;letter-spacing:normal;orphans:2;text-align:start;text-ind=
+ent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-w=
+ebkit-text-stroke-width:0px;background-color:#ffffff;display:inline !import=
+ant;float:none;"><strong><a href=3D"http://leadloversclick09.com/redirect/r=
+edirect.aspx?A=3DR&l=3D4B23EC4A-6DDA-4153-A45E-EE63B12876BD&u=3Dee15b833-e1=
+10-492a-8a09-cad6462fef4b" target=3D"_blank">LINK PARA INSCRI&Ccedil;&Atild=
+e;O E PARA GANHAR OS BONUS ABAIXO</a></strong></span><br style=3D"box-sizin=
+g:border-box;color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, =
+sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;f=
+ont-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphans:2;=
+text-align:start;text-indent:0px;text-transform:none;white-space:normal;wid=
+ows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><br style=3D"box-s=
+izing:border-box;color:#333333;font-family:'Helvetica Neue', Helvetica, Ari=
+al, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:norm=
+al;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphan=
+s:2;text-align:start;text-indent:0px;text-transform:none;white-space:normal=
+;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><span style=3D=
+"color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;f=
+ont-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-=
+caps:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-align:s=
+tart;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-s=
+pacing:0px;-webkit-text-stroke-width:0px;background-color:#ffffff;display:i=
+nline !important;float:none;"><strong>#1 &ndash; Curso das M&uacute;ltiplas=
+ Intelig&ecirc;ncias</strong></span><br style=3D"box-sizing:border-box;colo=
+r:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-s=
+ize:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:=
+normal;font-weight:normal;letter-spacing:normal;orphans:2;text-align:start;=
+text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacin=
+g:0px;-webkit-text-stroke-width:0px;" /><span style=3D"color:#333333;font-f=
+amily:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-st=
+yle:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weig=
+ht:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;=
+text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-te=
+xt-stroke-width:0px;background-color:#ffffff;display:inline !important;floa=
+t:none;">&nbsp; &nbsp; &nbsp; &nbsp; Coach Amar&iacute;lio Silva</span><br =
+style=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica Neue', =
+Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-=
+ligatures:normal;font-variant-caps:normal;font-weight:normal;letter-spacing=
+:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;whit=
+e-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" />=
+<span style=3D"color:#333333;font-family:'Helvetica Neue', Helvetica, Arial=
+, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal=
+;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphans:=
+2;text-align:start;text-indent:0px;text-transform:none;white-space:normal;w=
+idows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:#ff=
+ffff;display:inline !important;float:none;"><strong>#2 &ndash; Curso de Coa=
+ching em Vendas</strong></span><br style=3D"box-sizing:border-box;color:#33=
+3333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:1=
+4px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:norma=
+l;font-weight:normal;letter-spacing:normal;orphans:2;text-align:start;text-=
+indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px=
+;-webkit-text-stroke-width:0px;" /><span style=3D"color:#333333;font-family=
+:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:n=
+ormal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:no=
+rmal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-=
+transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-st=
+roke-width:0px;background-color:#ffffff;display:inline !important;float:non=
+e;">&nbsp; &nbsp; &nbsp; &nbsp; Master Coach Wagner Campos</span><br style=
+=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica Neue', Helve=
+tica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-ligat=
+ures:normal;font-variant-caps:normal;font-weight:normal;letter-spacing:norm=
+al;orphans:2;text-align:start;text-indent:0px;text-transform:none;white-spa=
+ce:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><span=
+ style=3D"color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, san=
+s-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font=
+-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphans:2;tex=
+t-align:start;text-indent:0px;text-transform:none;white-space:normal;widows=
+:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:#ffffff;=
+display:inline !important;float:none;"><strong>#3 &ndash; Mini Curso 7 Pass=
+os Para Ter Mais Foco</strong></span><br style=3D"box-sizing:border-box;col=
+or:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-=
+size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps=
+:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-align:start=
+;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spaci=
+ng:0px;-webkit-text-stroke-width:0px;" /><span style=3D"color:#333333;font-=
+family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-s=
+tyle:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-wei=
+ght:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px=
+;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-t=
+ext-stroke-width:0px;background-color:#ffffff;display:inline !important;flo=
+at:none;">&nbsp; &nbsp; &nbsp; &nbsp; Coach Evandro Mazuco</span><br style=
+=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica Neue', Helve=
+tica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-ligat=
+ures:normal;font-variant-caps:normal;font-weight:normal;letter-spacing:norm=
+al;orphans:2;text-align:start;text-indent:0px;text-transform:none;white-spa=
+ce:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><span=
+ style=3D"color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, san=
+s-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font=
+-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphans:2;tex=
+t-align:start;text-indent:0px;text-transform:none;white-space:normal;widows=
+:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:#ffffff;=
+display:inline !important;float:none;"><strong>#4 &ndash; S&eacute;rie &nda=
+sh; O Melhor Ano Da Minha Vida</strong></span><br style=3D"box-sizing:borde=
+r-box;color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-se=
+rif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-var=
+iant-caps:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-al=
+ign:start;text-indent:0px;text-transform:none;white-space:normal;widows:2;w=
+ord-spacing:0px;-webkit-text-stroke-width:0px;" /><span style=3D"color:#333=
+333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14=
+px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal=
+;font-weight:normal;letter-spacing:normal;orphans:2;text-align:start;text-i=
+ndent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;=
+-webkit-text-stroke-width:0px;background-color:#ffffff;display:inline !impo=
+rtant;float:none;">&nbsp; &nbsp; &nbsp; &nbsp; Coach T&ecirc;neli M&uuml;ll=
+er</span><br style=3D"box-sizing:border-box;color:#333333;font-family:'Helv=
+etica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;=
+font-variant-ligatures:normal;font-variant-caps:normal;font-weight:normal;l=
+etter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transf=
+orm:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-w=
+idth:0px;" /><span style=3D"color:#333333;font-family:'Helvetica Neue', Hel=
+vetica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-lig=
+atures:normal;font-variant-caps:normal;font-weight:normal;letter-spacing:no=
+rmal;orphans:2;text-align:start;text-indent:0px;text-transform:none;white-s=
+pace:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;backgro=
+und-color:#ffffff;display:inline !important;float:none;"><strong>#5 &ndash;=
+ Curso Personal L&iacute;der &ndash; DISC</strong></span><br style=3D"box-s=
+izing:border-box;color:#333333;font-family:'Helvetica Neue', Helvetica, Ari=
+al, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:norm=
+al;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphan=
+s:2;text-align:start;text-indent:0px;text-transform:none;white-space:normal=
+;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><span style=3D=
+"color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;f=
+ont-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-=
+caps:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-align:s=
+tart;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-s=
+pacing:0px;-webkit-text-stroke-width:0px;background-color:#ffffff;display:i=
+nline !important;float:none;">&nbsp; &nbsp; &nbsp; &nbsp; Coach Priscilla B=
+elletate</span><br style=3D"box-sizing:border-box;color:#333333;font-family=
+:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:n=
+ormal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:no=
+rmal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-=
+transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-st=
+roke-width:0px;" /><span style=3D"color:#333333;font-family:'Helvetica Neue=
+', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-varia=
+nt-ligatures:normal;font-variant-caps:normal;font-weight:normal;letter-spac=
+ing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;w=
+hite-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;b=
+ackground-color:#ffffff;display:inline !important;float:none;"><strong>#6 &=
+ndash; Ferramenta do Campo de For&ccedil;a</strong></span><br style=3D"box-=
+sizing:border-box;color:#333333;font-family:'Helvetica Neue', Helvetica, Ar=
+ial, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:nor=
+mal;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;orpha=
+ns:2;text-align:start;text-indent:0px;text-transform:none;white-space:norma=
+l;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><span style=
+=3D"color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-seri=
+f;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-varia=
+nt-caps:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-alig=
+n:start;text-indent:0px;text-transform:none;white-space:normal;widows:2;wor=
+d-spacing:0px;-webkit-text-stroke-width:0px;background-color:#ffffff;displa=
+y:inline !important;float:none;">&nbsp; &nbsp; &nbsp; &nbsp; Coach Ger&ocir=
+c;nimo Theml</span><br style=3D"box-sizing:border-box;color:#333333;font-fa=
+mily:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-sty=
+le:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weigh=
+t:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;t=
+ext-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-tex=
+t-stroke-width:0px;" /><span style=3D"color:#333333;font-family:'Helvetica =
+Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-v=
+ariant-ligatures:normal;font-variant-caps:normal;font-weight:normal;letter-=
+spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:no=
+ne;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0=
+px;background-color:#ffffff;display:inline !important;float:none;"><strong>=
+#7 &ndash; Curso Primeira Sess&atilde;o Matadora (Complet&iacute;ssimo)</st=
+rong></span><br style=3D"box-sizing:border-box;color:#333333;font-family:'H=
+elvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:norm=
+al;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:norma=
+l;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-tra=
+nsform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-strok=
+e-width:0px;" /><span style=3D"color:#333333;font-family:'Helvetica Neue', =
+Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-=
+ligatures:normal;font-variant-caps:normal;font-weight:normal;letter-spacing=
+:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;whit=
+e-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;back=
+ground-color:#ffffff;display:inline !important;float:none;">&nbsp; &nbsp; &=
+nbsp; &nbsp; Coach Otavio Castanho (eu mesmo. rs)</span><br style=3D"box-si=
+zing:border-box;color:#333333;font-family:'Helvetica Neue', Helvetica, Aria=
+l, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:norma=
+l;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphans=
+:2;text-align:start;text-indent:0px;text-transform:none;white-space:normal;=
+widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><span style=3D"=
+color:#333333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;fo=
+nt-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-c=
+aps:normal;font-weight:normal;letter-spacing:normal;orphans:2;text-align:st=
+art;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-sp=
+acing:0px;-webkit-text-stroke-width:0px;background-color:#ffffff;display:in=
+line !important;float:none;"><strong>#8 &ndash; Congresso Nacional de Coach=
+ing Online</strong></span><br style=3D"box-sizing:border-box;color:#333333;=
+font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;f=
+ont-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;fon=
+t-weight:normal;letter-spacing:normal;orphans:2;text-align:start;text-inden=
+t:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-web=
+kit-text-stroke-width:0px;" /><span style=3D"color:#333333;font-family:'Hel=
+vetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal=
+;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:normal;=
+letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-trans=
+form:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-=
+width:0px;background-color:#ffffff;display:inline !important;float:none;">&=
+nbsp; &nbsp; &nbsp; &nbsp; CONACON 2016 &ndash; 38 palestras</span><br styl=
+e=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica Neue', Helv=
+etica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-liga=
+tures:normal;font-variant-caps:normal;font-weight:normal;letter-spacing:nor=
+mal;orphans:2;text-align:start;text-indent:0px;text-transform:none;white-sp=
+ace:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" /><br =
+style=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica Neue', =
+Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-=
+ligatures:normal;font-variant-caps:normal;font-weight:normal;letter-spacing=
+:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;whit=
+e-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" />=
+<span style=3D"color:#333333;font-family:'Helvetica Neue', Helvetica, Arial=
+, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal=
+;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphans:=
+2;text-align:start;text-indent:0px;text-transform:none;white-space:normal;w=
+idows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:#ff=
+ffff;display:inline !important;float:none;">Espero sua presen&ccedil;a, ao =
+vivo hoje as 20h!<br /></span><br style=3D"box-sizing:border-box;color:#333=
+333;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14=
+px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal=
+;font-weight:normal;letter-spacing:normal;orphans:2;text-align:start;text-i=
+ndent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;=
+-webkit-text-stroke-width:0px;" /><span style=3D"color:#333333;font-family:=
+'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:no=
+rmal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:nor=
+mal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-t=
+ransform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-str=
+oke-width:0px;background-color:#ffffff;display:inline !important;float:none=
+;"><strong><a href=3D"http://leadloversclick09.com/redirect/redirect.aspx?A=
+=3DR&l=3DE33C449A-E295-469E-8F52-BC75706C9DC7&u=3Dee15b833-e110-492a-8a09-c=
+ad6462fef4b" target=3D"_blank">LINK &ndash; AULA AO VIVO &ndash; 05 REGRAS =
+DE OURO</a></strong></span><span style=3D"color:#333333;font-family:'Helvet=
+ica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;fo=
+nt-variant-ligatures:normal;font-variant-caps:normal;font-weight:normal;let=
+ter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transfor=
+m:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-wid=
+th:0px;background-color:#ffffff;display:inline !important;float:none;"></sp=
+an><br style=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica =
+Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-v=
+ariant-ligatures:normal;font-variant-caps:normal;font-weight:normal;letter-=
+spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:no=
+ne;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0=
+px;" /><span style=3D"color:#333333;font-family:'Helvetica Neue', Helvetica=
+, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures=
+:normal;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;o=
+rphans:2;text-align:start;text-indent:0px;text-transform:none;white-space:n=
+ormal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-co=
+lor:#ffffff;display:inline !important;float:none;">Abra&ccedil;o grande</sp=
+an><br style=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica =
+Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-v=
+ariant-ligatures:normal;font-variant-caps:normal;font-weight:normal;letter-=
+spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:no=
+ne;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0=
+px;" /><span style=3D"color:#333333;font-family:'Helvetica Neue', Helvetica=
+, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures=
+:normal;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;o=
+rphans:2;text-align:start;text-indent:0px;text-transform:none;white-space:n=
+ormal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-co=
+lor:#ffffff;display:inline !important;float:none;">Otavio Castanho</span><b=
+r style=3D"box-sizing:border-box;color:#333333;font-family:'Helvetica Neue'=
+, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-varian=
+t-ligatures:normal;font-variant-caps:normal;font-weight:normal;letter-spaci=
+ng:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;wh=
+ite-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;" =
+/><span style=3D"color:#333333;font-family:'Helvetica Neue', Helvetica, Ari=
+al, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:norm=
+al;font-variant-caps:normal;font-weight:normal;letter-spacing:normal;orphan=
+s:2;text-align:start;text-indent:0px;text-transform:none;white-space:normal=
+;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:#=
+ffffff;display:inline !important;float:none;">Coach Sem Limites</span><br /=
+><br /><hr /><br /><br />Rua Ambrosina de Macedo, 123 - S=C3=A3o Paulo - SP=
+ - 04013030<br />Caso n&atilde;o queira mais receber meus e-mails, <a href=
+=3D"http://leadloversclick09.com/redirect/redirect.aspx?A=3DU&u=3Dee15b833-=
+e110-492a-8a09-cad6462fef4b" target=3D"_blank">acesse esse link. (Unsubscri=
+be)</a>.<br /><br /><img alt=3D"" src=3D"http://leadloversclick09.com/redir=
+ect/redirect.aspx?A=3DV&u=3Dee15b833-e110-492a-8a09-cad6462fef4b&IMG=3Dee15=
+b833-e110-492a-8a09-cad6462fef4b.png" style=3D"width:100%;height:5px;max-he=
+ight:5px;"><br />Enviado com amor por <a href=3D"http://leadloversclick09.c=
+om/redirect/redirect.aspx?A=3DR&l=3DB9EDEE87-9DC2-4A78-BA6E-312914E3F90C&u=
+=3Dee15b833-e110-492a-8a09-cad6462fef4b" >Lead Lovers</a>
+
+--c663a078b54e0f88d848c55cdfb706cf3accdf9f6e5be21a3c8c8d6055ca--

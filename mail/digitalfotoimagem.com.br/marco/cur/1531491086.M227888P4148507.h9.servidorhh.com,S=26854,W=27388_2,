@@ -1,0 +1,534 @@
+Return-Path: <bounces+7901309-0ae3-marco=digitalfotoimagem.com.br@mailsg.joaopaulopereira.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from h9.servidorhh.com
+	by h9.servidorhh.com with LMTP id OJHHCg6zSFsbTT8ArjWGVg
+	for <marco@digitalfotoimagem.com.br>; Fri, 13 Jul 2018 11:11:26 -0300
+Return-path: <bounces+7901309-0ae3-marco=digitalfotoimagem.com.br@mailsg.joaopaulopereira.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Fri, 13 Jul 2018 11:11:26 -0300
+Received: from o122.mailsg.leadlovers.com ([167.89.105.255]:4025)
+	by h9.servidorhh.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <bounces+7901309-0ae3-marco=digitalfotoimagem.com.br@mailsg.joaopaulopereira.com.br>)
+	id 1fdyn7-00HRl3-Ro
+	for marco@digitalfotoimagem.com.br; Fri, 13 Jul 2018 11:11:26 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=joaopaulopereira.com.br; 
+	h=content-type:from:mime-version:subject:to:list-unsubscribe; 
+	s=m1; bh=tkHIQYSbs4xWCrXcuyu/+Wahqyc=; b=itBixb0nhy/ajRZdbMNV7IW
+	BBt3o7SenXCXt0cCSq/0+hP/yOaYQIQ9jIkFNf+y0ky+CivwzY8ER4JQKOY6TgbY
+	ZA8EDIqbHrEd4pTzhUm+BK17h37uahUvxOOw7CNh+aS4rkr/QrbwN3oBrRPJhvIJ
+	XM6h0ybq7iK6+m45zsWQ=
+Received: by filter1125p1las1.sendgrid.net with SMTP id filter1125p1las1-26477-5B48B2DC-3D
+        2018-07-13 14:10:37.332987634 +0000 UTC m=+63051.542565987
+Received: from NzkwMTMwOQ (m3640.contabo.host [5.189.178.140])
+	by ismtpd0002p1lon1.sendgrid.net (SG) with HTTP id QvlCPi1WTjSLtFyk_k7TCg
+	Fri, 13 Jul 2018 14:10:36.417 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=ccb549aff9e822cc8256696ffb42fdcbe1f598337c9fca8387783818ca8a
+Date: Fri, 13 Jul 2018 14:10:39 +0000 (UTC)
+From: =?UTF-8?Q?Jo=C3=A3o_Paulo?= <joaopaulo@joaopaulopereira.com.br>
+Mime-Version: 1.0
+Subject: =?UTF-8?B?Q3Jvbm9ncmFtYSBkbyBUcmVpbmFtZW50byBQYWxlc3RyYXMgTWlsaW9uw6FyaWFz?=
+To: <marco@digitalfotoimagem.com.br>
+Message-ID: <QvlCPi1WTjSLtFyk_k7TCg@ismtpd0002p1lon1.sendgrid.net>
+List-Unsubscribe: <mailto:unsubscribe@mailsg.joaopaulopereira.com.br?subject=https://u7901309.ct.sendgrid.net/wf/unsubscribe*q*upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiNL5UQMZXcoi6mKHrHRQ0FMz8LtjdZXe10h9D6F9nSB-2FN976qsQm-2Fe6heToficae6RHV-2Bi-2BelB3Cdmd1gUQVrlWYqwR0ecng0KzgvgkqEGBMcDSC3oKP5aYJHaOzokacHogUInJiS-2B8eEPz5KZNrNerjqDUkp-2BlXZrgcKG1PAwrzUdxItgk5kZVIQkpzqiJfP5pSQYbMb1VnvFYKm4aXYFPNJun3r-2BtLBauAZymaXMeQaQpWmBbV4itfTcmQQN7xJ6suqP4JC-2BIkk5NME-2F6ev96AZhnL777vYLbXwpOxWazyf3qtY8jKf-2BJQ9IM5ZKC44a7V8kyyExJZxt-2BPyfVNj3Jq2En0hzExShRTQKOnS4EdKl-2FZ7S30botG1fpY0q5zY>
+X-SG-EID: Hch+2AQw5UfQtHqV+P/3h94kWa/z3uc7aT9t1ffNJX6ejfdpfjs1c7IIdtNthFh9fYYHu9KBsblidA
+ 5+iCUGVsuqtv7QCjZc0d7+t/pHqBnv9JVhLB9siEpqU4J9nGAkFAsGzzp2dm2Aou2gmAHn6mq687Qx
+ G10iI7Yws8AAFsEGVu1lLvQZExCnpuQ/iANUYjbkXQZ9MCa2DeOSEuOWytLWMnA5TOT+9r8NHpiKgQ
+ HMU1VaUoTFxWCrMFM8XIuB
+X-SG-ID: lkbpAUns11GO9BdGkh+MdAj9XRfhrTMuu2GWF6w58UCokHn5p3gsrGasnGdFXFRV30PXbjPsmpf/7b
+ h2iorRs+EL+Hcg9xG748B7JSLisA+c8Wl8V/lUTzTkVGYai/9dN34/NupwqYdyVhUZ+D4DXM0523+h
+ Q2rBVtmgNS7z4gTKn2Xh6qcIDHRG6w2dKl5EpUrywU7H5jNdaxwrsAcahwJlq8qDR1vySOsBFQiFyv
+ 4=
+
+--ccb549aff9e822cc8256696ffb42fdcbe1f598337c9fca8387783818ca8a
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+   =0D=0D=0DOpa, tudo bem com voc=C3=AA?=0D=0D=0DO Palestras Milion=C3=A1ri=
+as finalmente come=C3=A7ou!=0D=0D=0DOs acessos aos cursos b=C3=B4nus j=C3=
+=A1 come=C3=A7aram a ser liberados.=0D=0D=0DAcesse aqui para garantir sua v=
+aga enquanto ainda d=C3=A1 tempo=0D=0D=0DOs primeiros membros j=C3=A1 est=
+=C3=A3o com avaga garantida na aula de orienta=C3=A7=C3=A3o estrat=C3=A9gic=
+a.=0D=0D=0DNa pr=C3=B3xima semana irei liberar om=C3=B3dulo Funil para Webi=
+n=C3=A1rios, exclusivo para os alunos.=0D=0D=0DEsse =C3=A9 o pontap=C3=A9 i=
+nicial do nosso Treinamento Palestras Milion=C3=A1rias, e se voc=C3=AA agir=
+ r=C3=A1pido, conseguir=C3=A1 garantir uma das 50 vagas.=0D=0D=0DDeixa eu f=
+azer um resumo:=0D=0D=0DM=C3=B3dulo 1 - Introdu=C3=A7=C3=A3o:Aqui quero que=
+ voc=C3=AA aprenda todos os lados dessa estrat=C3=A9gia, assim voc=C3=AA va=
+i conseguir entender O QUE, E PORQUE fazer cada passo.=0D=0D=0DEu entendo q=
+ue quando voc=C3=AA tem um desenho claro do processo na mente, voc=C3=AA va=
+i encontrar com mais facilidade o caminho para realizar todos os passos.=0D=
+=0D=0DM=C3=B3dulo 2 - Conceitos das palestras Milion=C3=A1rias:Com toda a c=
+lareza do m=C3=B3dulo 1, agora n=C3=B3s vamos entrar na parte conceitual do=
+ M=C3=A9todo Palestras Milion=C3=A1rias. Vou te passar cada detalhe deste c=
+onceito, e porque essa estrat=C3=A9gia =C3=A9 t=C3=A3o eficiente.=0D=0D=0DE=
+ste m=C3=B3dulo =C3=A9 importante para voc=C3=AA criar um novo conceito na =
+sua cabe=C3=A7a, e entender como e quando usar as suas Palestras.=0D=0D=0DM=
+=C3=B3dulo 3 - Campanha de Palestras Milion=C3=A1rias:Neste m=C3=B3dulo eu =
+mostro em detalhes como executar cada uma delas. A Palestra gravada =C3=A9 =
+a que eu mais uso e gosto, pois eu posso simplesmente gravar a palestra ant=
+es e passar a noite por exemplo, e o melhor, sem eu precisar estar ali na h=
+ora.(liberdade total, legal n=C3=A9.)=0D=0D=0DM=C3=B3dulo 4 - Estrat=C3=A9g=
+ia de Tr=C3=A1fego (Publicidade Online):Neste m=C3=B3dulo eu vou te mostrar=
+ como eu trago uma avalanche de leads para assistir minhas palestras, e =C3=
+=A9 aqui que eu vou te mostrar como eu coloco mais de 900 pessoas por dia a=
+ssistindo minhas palestras!=0D=0D=0DM=C3=B3dulo 5 - Ferramentas que vai pre=
+cisar:Tutorial de todas as ferramentas que voc=C3=AA vai precisar usar, na =
+verdade voc=C3=AA s=C3=B3 precisar=C3=A1 de 2. Lembra do que falei, =C3=A9 =
+uma estrat=C3=A9gia extremamente simples!=0D=0D=0DM=C3=B3dulo 6 - Estrutura=
+ da Palestra Milion=C3=A1ria:Voc=C3=AA ter=C3=A1 a oportunidade de ver o de=
+talhamento de cada etapa, e aprender como usar isso no seu neg=C3=B3cio, n=
+=C3=A3o importa se voc=C3=AA vende produto ou servi=C3=A7o.=0D=0D=0DEnt=C3=
+=A3o =C3=A9 isso, acesse aqui para garantir sua vaga enquanto ainda d=C3=A1=
+ tempo.=0D=0D=0D=0Dgrande abra=C3=A7o,=0D=0D=0DJo=C3=A3o Paulo Pereira=0D=
+=0DRua Padre Zanor - Minhas - Par=C3=A1 de Minas - 35661266Caso n=C3=A3o qu=
+eira mais receber meus e-mails, acesse esse link. (Unsubscribe).E-mail envi=
+ado com amor por leadlovers
+
+--ccb549aff9e822cc8256696ffb42fdcbe1f598337c9fca8387783818ca8a
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE><!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "=
+http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"htt=
+p://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:=
+o=3D"urn:schemas-microsoft-com:office:office"><head>
+    <!--[if gte mso 9]><xml>
+     <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+     </o:OfficeDocumentSettings>
+    </xml><![endif]-->
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width" />
+    <!--[if !mso]><!--><meta http-equiv=3D"X-UA-Compatible" content=3D"IE=
+=3Dedge" /><!--<![endif]-->
+    <title></title>
+=20=20=20=20
+=20=20=20=20
+    <style type=3D"text/css" id=3D"media-query">
+      body {
+  margin: 0;
+  padding: 0; }
+
+table, tr, td {
+  vertical-align: top;
+  border-collapse: collapse; }
+
+.ie-browser table, .mso-container table {
+  table-layout: fixed; }
+
+* {
+  line-height: inherit; }
+
+a[x-apple-data-detectors=3Dtrue] {
+  color: inherit !important;
+  text-decoration: none !important; }
+
+[owa] .img-container div, [owa] .img-container button {
+  display: block !important; }
+
+[owa] .fullwidth button {
+  width: 100% !important; }
+
+[owa] .block-grid .col {
+  display: table-cell;
+  float: none !important;
+  vertical-align: top; }
+
+.ie-browser .num12, .ie-browser .block-grid, [owa] .num12, [owa] .block-gri=
+d {
+  width: 500px !important; }
+
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div {
+  line-height: 100%; }
+
+.ie-browser .mixed-two-up .num4, [owa] .mixed-two-up .num4 {
+  width: 164px !important; }
+
+.ie-browser .mixed-two-up .num8, [owa] .mixed-two-up .num8 {
+  width: 328px !important; }
+
+.ie-browser .block-grid.two-up .col, [owa] .block-grid.two-up .col {
+  width: 250px !important; }
+
+.ie-browser .block-grid.three-up .col, [owa] .block-grid.three-up .col {
+  width: 166px !important; }
+
+.ie-browser .block-grid.four-up .col, [owa] .block-grid.four-up .col {
+  width: 125px !important; }
+
+.ie-browser .block-grid.five-up .col, [owa] .block-grid.five-up .col {
+  width: 100px !important; }
+
+.ie-browser .block-grid.six-up .col, [owa] .block-grid.six-up .col {
+  width: 83px !important; }
+
+.ie-browser .block-grid.seven-up .col, [owa] .block-grid.seven-up .col {
+  width: 71px !important; }
+
+.ie-browser .block-grid.eight-up .col, [owa] .block-grid.eight-up .col {
+  width: 62px !important; }
+
+.ie-browser .block-grid.nine-up .col, [owa] .block-grid.nine-up .col {
+  width: 55px !important; }
+
+.ie-browser .block-grid.ten-up .col, [owa] .block-grid.ten-up .col {
+  width: 50px !important; }
+
+.ie-browser .block-grid.eleven-up .col, [owa] .block-grid.eleven-up .col {
+  width: 45px !important; }
+
+.ie-browser .block-grid.twelve-up .col, [owa] .block-grid.twelve-up .col {
+  width: 41px !important; }
+
+@media only screen and (min-width: 520px) {
+  .block-grid {
+    width: 500px !important; }
+  .block-grid .col {
+    vertical-align: top; }
+    .block-grid .col.num12 {
+      width: 500px !important; }
+  .block-grid.mixed-two-up .col.num4 {
+    width: 164px !important; }
+  .block-grid.mixed-two-up .col.num8 {
+    width: 328px !important; }
+  .block-grid.two-up .col {
+    width: 250px !important; }
+  .block-grid.three-up .col {
+    width: 166px !important; }
+  .block-grid.four-up .col {
+    width: 125px !important; }
+  .block-grid.five-up .col {
+    width: 100px !important; }
+  .block-grid.six-up .col {
+    width: 83px !important; }
+  .block-grid.seven-up .col {
+    width: 71px !important; }
+  .block-grid.eight-up .col {
+    width: 62px !important; }
+  .block-grid.nine-up .col {
+    width: 55px !important; }
+  .block-grid.ten-up .col {
+    width: 50px !important; }
+  .block-grid.eleven-up .col {
+    width: 45px !important; }
+  .block-grid.twelve-up .col {
+    width: 41px !important; } }
+
+@media (max-width: 520px) {
+  .block-grid, .col {
+    min-width: 320px !important;
+    max-width: 100% !important;
+    display: block !important; }
+  .block-grid {
+    width: calc(100% - 40px) !important; }
+  .col {
+    width: 100% !important; }
+    .col > div {
+      margin: 0 auto; }
+  img.fullwidth, img.fullwidthOnMobile {
+    max-width: 100% !important; }
+  .no-stack .col {
+    min-width: 0 !important;
+    display: table-cell !important; }
+  .no-stack.two-up .col {
+    width: 50% !important; }
+  .no-stack.mixed-two-up .col.num4 {
+    width: 33% !important; }
+  .no-stack.mixed-two-up .col.num8 {
+    width: 66% !important; }
+  .no-stack.three-up .col.num4 {
+    width: 33% !important; }
+  .no-stack.four-up .col.num3 {
+    width: 25% !important; }
+  .mobile_hide {
+    min-height: 0px;
+    max-height: 0px;
+    max-width: 0px;
+    display: none;
+    overflow: hidden;
+    font-size: 0px; } }
+
+    </style>
+</head>
+<body class=3D"clean-body" style=3D"margin: 0;padding: 0;-webkit-text-size-=
+adjust: 100%;background-color: #FFFFFF">
+  <style type=3D"text/css" id=3D"media-query-bodytag">
+    @media (max-width: 520px) {
+      .block-grid {
+        min-width: 320px!important;
+        max-width: 100%!important;
+        width: 100%!important;
+        display: block!important;
+      }
+
+      .col {
+        min-width: 320px!important;
+        max-width: 100%!important;
+        width: 100%!important;
+        display: block!important;
+      }
+
+        .col > div {
+          margin: 0 auto;
+        }
+
+      img.fullwidth {
+        max-width: 100%!important;
+      }
+			img.fullwidthOnMobile {
+        max-width: 100%!important;
+      }
+      .no-stack .col {
+				min-width: 0!important;
+				display: table-cell!important;
+			}
+			.no-stack.two-up .col {
+				width: 50%!important;
+			}
+			.no-stack.mixed-two-up .col.num4 {
+				width: 33%!important;
+			}
+			.no-stack.mixed-two-up .col.num8 {
+				width: 66%!important;
+			}
+			.no-stack.three-up .col.num4 {
+				width: 33%!important;
+			}
+			.no-stack.four-up .col.num3 {
+				width: 25%!important;
+			}
+      .mobile_hide {
+        min-height: 0px!important;
+        max-height: 0px!important;
+        max-width: 0px!important;
+        display: none!important;
+        overflow: hidden!important;
+        font-size: 0px!important;
+      }
+    }
+  </style>
+  <!--[if IE]><div class=3D"ie-browser"><![endif]-->
+  <!--[if mso]><div class=3D"mso-container"><![endif]-->
+  <table class=3D"nl-container" style=3D"border-collapse: collapse;table-la=
+yout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;v=
+ertical-align: top;min-width: 320px;Margin: 0 auto;background-color: #FFFFF=
+F;width: 100%" cellpadding=3D"0" cellspacing=3D"0">
+	<tbody>
+	<tr style=3D"vertical-align: top">
+		<td style=3D"word-break: break-word;border-collapse: collapse !important;=
+vertical-align: top">
+    <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"><tr><td align=3D"center" style=3D"background-color: #FF=
+FFFF;"><![endif]-->
+
+    <div style=3D"background-color:transparent;">
+      <div style=3D"Margin: 0 auto;min-width: 320px;max-width: 500px;overfl=
+ow-wrap: break-word;word-wrap: break-word;word-break: break-word;background=
+-color: transparent;" class=3D"block-grid ">
+        <div style=3D"border-collapse: collapse;display: table;width: 100%;=
+background-color:transparent;">
+          <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0"><tr><td style=3D"background-color:transparent;" a=
+lign=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" sty=
+le=3D"width: 500px;"><tr class=3D"layout-full-width" style=3D"background-co=
+lor:transparent;"><![endif]-->
+
+              <!--[if (mso)|(IE)]><td align=3D"center" width=3D"500" style=
+=3D" width:500px; padding-right: 0px; padding-left: 0px; padding-top:5px; p=
+adding-bottom:5px; border-top: 0px dotted transparent; border-left: 0px dot=
+ted transparent; border-bottom: 0px dotted transparent; border-right: 0px d=
+otted transparent;" valign=3D"top"><![endif]-->
+            <div class=3D"col num12" style=3D"min-width: 320px;max-width: 5=
+00px;display: table-cell;vertical-align: top;">
+              <div style=3D"background-color: transparent; width: 100% !imp=
+ortant;">
+              <!--[if (!mso)&(!IE)]><!--><div style=3D"border-top: 0px dott=
+ed transparent; border-left: 0px dotted transparent; border-bottom: 0px dot=
+ted transparent; border-right: 0px dotted transparent; padding-top:5px; pad=
+ding-bottom:5px; padding-right: 0px; padding-left: 0px;"><!--<![endif]-->
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    <div class=3D"">
+	<!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0"><tr><td style=3D"padding-right: 10px; padding-left: 10px; padding=
+-top: 10px; padding-bottom: 10px;"><![endif]-->
+	<div style=3D"color:#555555;font-family:Arial, 'Helvetica Neue', Helvetica=
+, sans-serif;line-height:150%; padding-right: 10px; padding-left: 10px; pad=
+ding-top: 10px; padding-bottom: 10px;">=09
+		<div style=3D"font-size:12px;line-height:18px;color:#555555;font-family:A=
+rial, 'Helvetica Neue', Helvetica, sans-serif;text-align:left;"><p style=3D=
+"margin: 0;font-size: 12px;line-height: 18px"><span style=3D"font-size: 15p=
+x; line-height: 22px;">Opa, tudo bem com voc=C3=AA?</span></p><p style=3D"m=
+argin: 0;font-size: 12px;line-height: 18px"><span style=3D"font-size: 15px;=
+ line-height: 22px;"><br data-mce-bogus=3D"1" /></span></p><p style=3D"marg=
+in: 0;font-size: 12px;line-height: 18px"><span style=3D"font-size: 15px; li=
+ne-height: 22px;">O Palestras Milion=C3=A1rias finalmente come=C3=A7ou!</sp=
+an></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><span style=
+=3D"font-size: 15px; line-height: 22px;"><br data-mce-bogus=3D"1" /></span>=
+</p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><span style=3D=
+"font-size: 15px; line-height: 22px;">Os acessos aos cursos b=C3=B4nus j=C3=
+=A1 come=C3=A7aram a ser liberados.</span></p><p style=3D"margin: 0;font-si=
+ze: 12px;line-height: 18px"><span style=3D"font-size: 15px; line-height: 22=
+px;"><br data-mce-bogus=3D"1" /></span></p><p style=3D"margin: 0;font-size:=
+ 15px;line-height: 22px"><a style=3D"color:#0068A5;color:#0068A5;color:#006=
+8A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;text-decoration=
+: underline;" href=3D"http://click.contato.website/redirect/redirect.aspx?A=
+=3DR&l=3D61308E20-CA57-410C-9D99-853D64F3D0C2&u=3DEE6C9E24-9EA2-4A1A-B096-7=
+A2F0BB2B95C" target=3D"_blank" rel=3D"noopener">Acesse aqui para garantir s=
+ua vaga enquanto ainda d=C3=A1 tempo</a></p><p style=3D"margin: 0;font-size=
+: 12px;line-height: 18px"><span style=3D"font-size: 15px; line-height: 22px=
+;"><br data-mce-bogus=3D"1" /></span></p><p style=3D"margin: 0;font-size: 1=
+2px;line-height: 18px"><span style=3D"font-size: 15px; line-height: 22px;">=
+Os primeiros membros j=C3=A1 est=C3=A3o com <strong>a&#160;vaga garantida n=
+a aula de orienta=C3=A7=C3=A3o estrat=C3=A9gica.</strong></span></p><p styl=
+e=3D"margin: 0;font-size: 12px;line-height: 18px"><span style=3D"font-size:=
+ 15px; line-height: 22px;"><br data-mce-bogus=3D"1" /></span></p><p style=
+=3D"margin: 0;font-size: 12px;line-height: 18px"><span style=3D"font-size: =
+15px; line-height: 22px;">Na pr=C3=B3xima semana irei liberar o&#160;<stron=
+g>m=C3=B3dulo Funil para Webin=C3=A1rios, exclusivo para os alunos.</strong=
+></span></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><span =
+style=3D"font-size: 15px; line-height: 22px;"><br data-mce-bogus=3D"1" /></=
+span></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><span sty=
+le=3D"font-size: 15px; line-height: 22px;">Esse =C3=A9 o pontap=C3=A9 inici=
+al do nosso Treinamento Palestras Milion=C3=A1rias, e se voc=C3=AA agir r=
+=C3=A1pido, conseguir=C3=A1 garantir uma das 50 vagas.</span></p><p style=
+=3D"margin: 0;font-size: 12px;line-height: 18px"><span style=3D"font-size: =
+15px; line-height: 22px;">&#160;</span></p><p style=3D"margin: 0;font-size:=
+ 12px;line-height: 18px"><br /><strong><span style=3D"font-size: 15px; line=
+-height: 22px;">Deixa eu fazer um resumo:</span></strong></p><p style=3D"ma=
+rgin: 0;font-size: 12px;line-height: 18px"><span style=3D"font-size: 15px; =
+line-height: 22px;"><br data-mce-bogus=3D"1" /></span></p><p style=3D"margi=
+n: 0;font-size: 12px;line-height: 18px"><em><span style=3D"font-size: 15px;=
+ line-height: 22px;"><strong>M=C3=B3dulo 1 - Introdu=C3=A7=C3=A3o:&#160;</s=
+trong>Aqui quero que voc=C3=AA aprenda todos os lados dessa estrat=C3=A9gia=
+, assim voc=C3=AA vai conseguir entender O QUE, E PORQUE fazer cada passo.<=
+/span></em></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><sp=
+an style=3D"font-size: 15px; line-height: 22px;"><br data-mce-bogus=3D"1" /=
+></span></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><em><s=
+pan style=3D"font-size: 15px; line-height: 22px;">Eu entendo que quando voc=
+=C3=AA tem um desenho claro do processo na mente, voc=C3=AA vai encontrar c=
+om mais facilidade o caminho para realizar todos os passos.</span></em></p>=
+<p style=3D"margin: 0;font-size: 12px;line-height: 18px"><em><span style=3D=
+"font-size: 15px; line-height: 22px;"><br data-mce-bogus=3D"1" /></span></e=
+m></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><em><span st=
+yle=3D"font-size: 15px; line-height: 22px;"><strong>M=C3=B3dulo 2 - Conceit=
+os das palestras Milion=C3=A1rias:</strong>&#160;Com toda a clareza do m=C3=
+=B3dulo 1, agora n=C3=B3s vamos entrar na parte conceitual do M=C3=A9todo P=
+alestras Milion=C3=A1rias. Vou te passar cada detalhe deste conceito, e por=
+que essa estrat=C3=A9gia =C3=A9 t=C3=A3o eficiente.</span></em></p><p style=
+=3D"margin: 0;font-size: 12px;line-height: 18px"><em><span style=3D"font-si=
+ze: 15px; line-height: 22px;"><br data-mce-bogus=3D"1" /></span></em></p><p=
+ style=3D"margin: 0;font-size: 12px;line-height: 18px"><em><span style=3D"f=
+ont-size: 15px; line-height: 22px;">Este m=C3=B3dulo =C3=A9 importante para=
+ voc=C3=AA criar um novo conceito na sua cabe=C3=A7a, e entender como e qua=
+ndo usar as suas Palestras.</span></em></p><p style=3D"margin: 0;font-size:=
+ 12px;line-height: 18px"><em><span style=3D"font-size: 15px; line-height: 2=
+2px;"><br data-mce-bogus=3D"1" /></span></em></p><p style=3D"margin: 0;font=
+-size: 12px;line-height: 18px"><em><span style=3D"font-size: 15px; line-hei=
+ght: 22px;"><strong>M=C3=B3dulo 3 - Campanha de Palestras Milion=C3=A1rias:=
+</strong>&#160;Neste m=C3=B3dulo eu mostro em detalhes como executar cada u=
+ma delas. A Palestra gravada =C3=A9 a que eu mais uso e gosto, pois eu poss=
+o simplesmente gravar a palestra antes e passar a noite por exemplo, e o me=
+lhor, sem eu precisar estar ali na hora.(liberdade total, legal n=C3=A9.)</=
+span></em></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><em>=
+<span style=3D"font-size: 15px; line-height: 22px;"><br data-mce-bogus=3D"1=
+" /></span></em></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px=
+"><em><span style=3D"font-size: 15px; line-height: 22px;"><strong>M=C3=B3du=
+lo 4 - Estrat=C3=A9gia de Tr=C3=A1fego (Publicidade Online):&#160;</strong>=
+Neste m=C3=B3dulo eu vou te mostrar como eu trago uma avalanche de leads pa=
+ra assistir minhas palestras, e =C3=A9 aqui que eu vou te mostrar como eu c=
+oloco mais de 900 pessoas por dia assistindo minhas palestras!</span></em><=
+/p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><em><span style=
+=3D"font-size: 15px; line-height: 22px;"><br data-mce-bogus=3D"1" /></span>=
+</em></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><em><span=
+ style=3D"font-size: 15px; line-height: 22px;"><strong>M=C3=B3dulo 5 - Ferr=
+amentas que vai precisar:</strong>&#160;Tutorial de todas as ferramentas qu=
+e voc=C3=AA vai precisar usar, na verdade voc=C3=AA s=C3=B3 precisar=C3=A1 =
+de 2. Lembra do que falei, =C3=A9 uma estrat=C3=A9gia extremamente simples!=
+</span></em></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><e=
+m><span style=3D"font-size: 15px; line-height: 22px;"><br data-mce-bogus=3D=
+"1" /></span></em></p><p style=3D"margin: 0;font-size: 12px;line-height: 18=
+px"><em><span style=3D"font-size: 15px; line-height: 22px;"><strong>M=C3=B3=
+dulo 6 - Estrutura da Palestra Milion=C3=A1ria:</strong>&#160;Voc=C3=AA ter=
+=C3=A1 a oportunidade de ver o detalhamento de cada etapa, e aprender como =
+usar isso no seu neg=C3=B3cio, n=C3=A3o importa se voc=C3=AA vende produto =
+ou servi=C3=A7o.</span></em></p><p style=3D"margin: 0;font-size: 12px;line-=
+height: 18px"><span style=3D"font-size: 15px; line-height: 22px;">&#160;</s=
+pan></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><br /><spa=
+n style=3D"font-size: 15px; line-height: 22px;">Ent=C3=A3o =C3=A9 isso, <a =
+style=3D"color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#006=
+8A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;c=
+olor:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:=
+#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068=
+A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;co=
+lor:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#=
+0068A5;color:#0068A5;text-decoration: underline;" href=3D"http://click.cont=
+ato.website/redirect/redirect.aspx?A=3DR&l=3D61308E20-CA57-410C-9D99-853D64=
+F3D0C2&u=3DEE6C9E24-9EA2-4A1A-B096-7A2F0BB2B95C" target=3D"_blank" rel=3D"n=
+oopener">acesse aqui para garantir sua vaga</a> enquanto ainda d=C3=A1 temp=
+o.</span></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><span=
+ style=3D"font-size: 15px; line-height: 22px;"><br data-mce-bogus=3D"1" /><=
+/span></p></div>=09
+	</div>
+	<!--[if mso]></td></tr></table><![endif]-->
+</div>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    <div class=3D"">
+	<!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0"><tr><td style=3D"padding-right: 10px; padding-left: 10px; padding=
+-top: 10px; padding-bottom: 10px;"><![endif]-->
+	<div style=3D"color:#555555;font-family:Arial, 'Helvetica Neue', Helvetica=
+, sans-serif;line-height:120%; padding-right: 10px; padding-left: 10px; pad=
+ding-top: 10px; padding-bottom: 10px;">=09
+		<div style=3D"font-size:12px;line-height:14px;color:#555555;font-family:A=
+rial, 'Helvetica Neue', Helvetica, sans-serif;text-align:left;"><p style=3D=
+"margin: 0;font-size: 14px;line-height: 17px"><span style=3D"font-size: 15p=
+x; line-height: 18px;">grande abra=C3=A7o,</span></p><p style=3D"margin: 0;=
+font-size: 14px;line-height: 17px"><br data-mce-bogus=3D"1" /></p><p style=
+=3D"margin: 0;font-size: 14px;line-height: 17px"><span style=3D"font-size: =
+15px; line-height: 18px;">Jo=C3=A3o Paulo Pereira</span></p><p style=3D"mar=
+gin: 0;font-size: 14px;line-height: 17px"><br data-mce-bogus=3D"1" /></p><p=
+ style=3D"margin: 0;font-size: 14px;line-height: 17px"><br data-mce-bogus=
+=3D"1" /></p></div>=09
+	</div>
+	<!--[if mso]></td></tr></table><![endif]-->
+</div>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+              <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+              </div>
+            </div>
+          <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]=
+-->
+        </div>
+      </div>
+    </div>   <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+		</td>
+  </tr>
+  </tbody>
+  </table>
+  <!--[if (mso)|(IE)]></div><![endif]-->
+
+
+
+
+</body></html><div style=3D"width: 100%; clear:left;"><br /><hr /><br /><br=
+ />Rua Padre Zanor - Minhas - Par=C3=A1 de Minas - 35661266<br />Caso n&ati=
+lde;o queira mais receber meus e-mails, <a href=3D"http://click.contato.web=
+site/redirect/redirect.aspx?A=3DU&u=3DEE6C9E24-9EA2-4A1A-B096-7A2F0BB2B95C"=
+ target=3D"_blank">acesse esse link. (Unsubscribe)</a>.<br /><br /><img alt=
+=3D"" src=3D"http://click.contato.website/redirect/redirect.aspx?A=3DV&u=3D=
+EE6C9E24-9EA2-4A1A-B096-7A2F0BB2B95C&IMG=3DEE6C9E24-9EA2-4A1A-B096-7A2F0BB2=
+B95C.png" style=3D"width:100%;height:5px;max-height:5px;"></div><br />E-mai=
+l enviado com amor por <a href=3D"http://click.contato.website/redirect/red=
+irect.aspx?A=3DR&l=3D421EC94D-5C51-4512-8672-D21F691433E2&u=3DEE6C9E24-9EA2=
+-4A1A-B096-7A2F0BB2B95C" >leadlovers</a>
+
+--ccb549aff9e822cc8256696ffb42fdcbe1f598337c9fca8387783818ca8a--

@@ -1,0 +1,121 @@
+Return-Path: <>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv6.homehost.com.br
+	by hserv6.homehost.com.br (Dovecot) with LMTP id vQAQD3VJ0VelNwwANprIEw
+	for <marco@digitalfotoimagem.com.br>; Thu, 08 Sep 2016 08:20:21 -0300
+Return-path: <>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 08 Sep 2016 08:20:21 -0300
+Received: from mailnull by hserv6.homehost.com.br with local (Exim 4.87)
+	id 1bhxNV-003MO8-GK
+	for marco@digitalfotoimagem.com.br; Thu, 08 Sep 2016 08:20:21 -0300
+X-Failed-Recipients: titoss@ig.com.br,
+  ncosta@usa.com,
+  fabricio@gdr7.com.br
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@hserv6.homehost.com.br>
+To: marco@digitalfotoimagem.com.br
+Content-Type: multipart/report; report-type=delivery-status; boundary=1473333621-eximdsn-264490587
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1bhxNV-003MO8-GK@hserv6.homehost.com.br>
+Date: Thu, 08 Sep 2016 08:20:21 -0300
+
+--1473333621-eximdsn-264490587
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  titoss@ig.com.br
+    host mx1.ig.correio.biz [177.153.23.241]
+    SMTP error from remote mail server after RCPT TO:<titoss@ig.com.br>:
+    550 5.1.1 <titoss@ig.com.br>: Recipient address rejected:
+    User unknown in virtual mailbox table
+  ncosta@usa.com
+    host mx01.mail.com [74.208.5.22]
+    SMTP error from remote mail server after initial connection:
+    554-mail.com (mxgmxus006) Nemesis ESMTP Service not available
+    554-No SMTP service
+    554-IP address is black listed.
+    554 For explanation visit http://postmaster.gmx.com/en/error-messages?ip=177.85.103.66&c=bip
+  fabricio@gdr7.com.br
+    host mx.core.locaweb.com.br [177.153.23.241]
+    SMTP error from remote mail server after RCPT TO:<fabricio@gdr7.com.br>:
+    550 5.1.1 <fabricio@gdr7.com.br>: Recipient address rejected:
+    User unknown in virtual mailbox table
+
+--1473333621-eximdsn-264490587
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; hserv6.homehost.com.br
+
+Action: failed
+Final-Recipient: rfc822;fabricio@gdr7.com.br
+Status: 5.0.0
+Remote-MTA: dns; mx.core.locaweb.com.br
+Diagnostic-Code: smtp; 550 5.1.1 <fabricio@gdr7.com.br>: Recipient address rejected: User unknown in virtual mailbox table
+
+Action: failed
+Final-Recipient: rfc822;ncosta@usa.com
+Status: 5.0.0
+Remote-MTA: dns; mx01.mail.com
+Diagnostic-Code: smtp; 554-mail.com (mxgmxus006) Nemesis ESMTP Service not available
+ 554-No SMTP service
+ 554-IP address is black listed.
+ 554 For explanation visit http://postmaster.gmx.com/en/error-messages?ip=177.85.103.66&c=bip
+
+Action: failed
+Final-Recipient: rfc822;titoss@ig.com.br
+Status: 5.0.0
+Remote-MTA: dns; mx1.ig.correio.biz
+Diagnostic-Code: smtp; 550 5.1.1 <titoss@ig.com.br>: Recipient address rejected: User unknown in virtual mailbox table
+
+--1473333621-eximdsn-264490587
+Content-type: text/rfc822-headers
+
+Return-path: <marco@digitalfotoimagem.com.br>
+Received: from hserv6ho by hserv6.homehost.com.br with local (Exim 4.87)
+	(envelope-from <marco@digitalfotoimagem.com.br>)
+	id 1bhoiY-003vPO-5g; Wed, 07 Sep 2016 23:05:30 -0300
+To: "xandedias.castro" <xandedias.castro@gmail.com>
+Subject: I ERAC DA I e II MACRO  01-10-2016
+X-PHP-Script: hserv6.homemail.com.br/index.php for 201.6.228.171, 201.6.228.171
+X-PHP-Filename: /home/hserv6ho/public_html/index.php
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="=_fb26c7c081a8433ced915692654a8ef9"
+Date: Wed, 07 Sep 2016 23:05:30 -0300
+From: marco@digitalfotoimagem.com.br
+Cc: Arsenio de Paiva Lopes <arseniop.lopes@gmail.com>, =?UTF-8?Q?Benedito?=
+ =?UTF-8?Q?_Carlos_Flam=C3=ADnio?= <benedito.flaminio@claro.com.br>, Claudio
+ Auricchio Turi <ttturi@terra.com.br>, Dejair Bianchi
+ <dejair.bianchi@uol.com.br>, Enedino Alves Barbosa Filho
+ <enedino@crivodarazao.com.br>, =?UTF-8?Q?Fabr=C3=ADcio_Takeshi_Murakam?=
+ =?UTF-8?Q?i?= <fabricio@gdr7.com.br>, Flavio Luis Piccolo Ferrer
+ <flavio@crivodarazao.com.br>, Gilberto Antonio Dante
+ <gilberto@neodobrasil.com>, Jairo Dias <jairo@rooftec.com.br>,
+ =?UTF-8?Q?Jo=C3=A3o_Gambetti_Neto?= <jgambetti@gambetti.com.br>,
+ =?UTF-8?Q?Jos=C3=A9_Doniseti_Luiz?= <josedonisetiluiz@yahoo.com.br>, Luis
+ Carlos Bueno <fallcar@hotmail.com>, Luiz Mauricio Rodrigues
+ <luiz_ma@hotmail.com>, =?UTF-8?Q?Marc=C3=ADlio_Marchi_Testa?=
+ <mmtesta43@gmail.com>, Marco Antonio Patriniani <marckopat@live.com>, Marco
+ Tulio de Mello <tmello@demello.net.br>, Marcus Welbi Monte Verde
+ <marcuswelbi@crivodarazao.com.br>, Natanael Costa <ncosta@usa.com>, Ordalino
+ de Souza e Silva Tito <titoss@ig.com.br>, Oswaldo dos Santos Junior
+ <oswaldosantosjunior@gmail.com>, =?UTF-8?Q?Ricardo_de_M=C3=A9o_Fernand?=
+ =?UTF-8?Q?es?= <valdes@uol.com.br>, Wanderley Caldana
+ <w.caldana@uol.com.br>, "Rony Silvio .'." <ronysilvio@gmail.com>, Rodrigo de
+ Oliveira e Silva <rdsilva@tome.com.br>
+In-Reply-To: <2E5EED50-51AE-4C4D-90D3-AACC238B0021@gmail.com>
+References: <4fa49fa8fb1c958d677b1b066d5183a1@gosp.org.br>
+ <2E5EED50-51AE-4C4D-90D3-AACC238B0021@gmail.com>
+Message-ID: <9bda69a0109bac3af43905d0cee64990@digitalfotoimagem.com.br>
+X-Sender: marco@digitalfotoimagem.com.br
+User-Agent: Roundcube Webmail/1.0.1
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1473333621-eximdsn-264490587--

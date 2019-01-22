@@ -1,0 +1,533 @@
+Return-Path: <mailer@infusionmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id +UjoF/9H/1je5AUAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Tue, 25 Apr 2017 09:58:39 -0300
+Return-path: <mailer@infusionmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 25 Apr 2017 09:58:39 -0300
+Received: from mta-c-24-64.infusionmail.com ([208.76.24.64]:38312)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <mailer@infusionmail.com>)
+	id 1d303C-001gHd-Rz
+	for marco@digitalfotoimagem.com.br; Tue, 25 Apr 2017 09:58:39 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=infusionmail.com;
+	s=dkim1024; t=1493125074; i=@infusionmail.com;
+	bh=6d0rvH1NZvVepalmp+jZM3EfyW4=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	b=T/p5oWzolLdyfm7r0ytgM15LG3P/3AMl8kZYlTx6KWNEhb4fdk3gcyaTjenFl7ycw
+	 rVaHeMbbtksnayCdGiX0i36J2I0G8luMGA5yd6jgG0rGisQIECp+gKsxdY/KCbzPsO
+	 pkGy03DsIaRtEUDbVyf6XiITrobLNgtRQMucW3oY=
+Received: from [10.0.0.222] ([10.0.0.222:38184] helo=superion)
+	by phxme4 (envelope-from <mailer@infusionmail.com>)
+	(ecelerity 3.6.12.50134 r(Core:3.6.12.0)) with ESMTP
+	id AB/BB-56469-2D74FF85; Tue, 25 Apr 2017 08:57:54 -0400
+Date: Tue, 25 Apr 2017 08:57:53 -0400 (EDT)
+From: =?utf-8?Q?Andr=C3=A9_Sampaio?= <andre@superandoseuslimites.com.br>
+To: marco@digitalfotoimagem.com.br
+Message-ID: <2002018225.1700061493125073178.JavaMail.tomcat@superion>
+Subject: [HOJE] Aula ao Vivo sobre PNL
+Errors-To: mailer@infusionmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_170059_580669494.1493125073176"
+X-MailSentId: 564400
+X-campaignid: infusion_dk283564400
+Feedback-ID: dk283:dk283_5822:primer
+X-BatchId: 5822
+X-InfApp: dk283
+X-InfContact: 333540
+X-InfSent: 31966204
+X-inf-QETT: 0
+X-inf-package: primer
+X-inf-uflags: UE
+X-inf-iflags: UE
+List-Unsubscribe: <https://dk283.infusionsoft.com/app/optOut/noConfirm/31966204/918d423a364d7b06>
+X-infEng: 236
+Pool-Version: 2
+Pool-Name: default_primer
+X-Message-Id: AB/BB-56469-2D74FF85
+
+------=_Part_170059_580669494.1493125073176
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+This email was sent as HTML-only. To view it, please visit:
+https://dk283.infusionsoft.com/app/hostedEmail/31966204/918d423a364d7b06
+------=_Part_170059_580669494.1493125073176
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--><title></title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700italic,700|Open+Sans:400,400italic,700,700italic|Lato:400,400italic,700,700italic);
+</style>
+<style type="text/css">
+#outlook a {padding: 0;}
+.ReadMsgBody, .ExternalClass {width: 100%;}
+.ExternalClass * {line-height: 100%;}
+body { background-color: #1A3861; margin: 0; padding: 0;
+-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+table, td { border-collapse:collapse;
+mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+img { border: 0; height: auto; line-height: 100%;
+outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; }
+.column {display: inline-block; width: 100%;
+text-align: left; vertical-align: top; }
+@media only screen and (min-width:480px) {
+.column-100, * [aria-labelledby='column-100'] {
+width: 100% !important; display: inline-block;
+text-align: left; vertical-align: top; }
+.column-50, * [aria-labelledby='column-50'] {
+width: 50% !important; display: inline-block;
+text-align: left; vertical-align: top; }
+.column-33, * [aria-labelledby='column-33'] {
+width: 33% !important; display: inline-block;
+text-align: left; vertical-align: top; }}
+@media only screen and (max-width:479px) {
+.socialBlock, td.imageBlock, .buttonBlock,
+.alignmentContainer { text-align: center !important }
+.alignmentContainer table { margin-right: auto;
+margin-left: auto;}}
+</style>
+</head>
+<body style="background:#1A3861">
+<div style="background:#1A3861">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]--><div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; margin: 0px auto;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" align="center" border="0">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]--><div class="column column-100" aria-labelledby="column-100">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="style-scope bard-text-block" style="color: rgb(52,
+ 52, 52); font-family: Helvetica,Arial,sans-serif; font-size: 18px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+Opa!
+</p>
+<p class="style-scope bard-text-block" style="color: rgb(52, 52, 52); font-family: Helvetica,Arial,sans-serif; font-size: 18px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Hoje à noite vou dar uma <a href="https://dk283.infusionsoft.com/app/linkClick/14386/88c82e088d12e359/31966204/918d423a364d7b06" class="bard-text-block style-scope" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;" target="_blank">Aula Online, Ao Vivo e Gratuita</a> sobre Introdução à PNL.
+</p>
+<p class="style-scope bard-text-block" style="color: rgb(52, 52, 52); font-family: Helvetica,Arial,sans-serif; font-size: 18px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+</p>
+<h2 class="bard-text-block style-scope" style="text-align: center; color: rgb(56, 56, 56); font-family: Helvetica,Arial,sans-serif; font-size: 22px; padding: 0px; margin: 15px 0px; line-height: 1.6; font-weight: bold;">
+Tema: 5 Chaves da PNL para Explorar o
+ seu Potencial e Alavancar seus Resultados mais Rapidamente Reprogramando a sua Mente
+</h2>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica,Arial,sans-serif; font-size: 18px; padding: 0px; margin: 13px 0px 0px; line-height: 1.6;">
+<br />
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]--><div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; margin: 0px auto;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" align="center" border="0">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0"
+ cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]--><div class="column column-100" aria-labelledby="column-100">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 15px; text-align: center;" class="alignmentContainer">
+<table style="border-radius: 4px; border: medium none; margin-left: auto; margin-right: auto;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="background: rgb(240, 192, 67) none repeat scroll 0% 0%; border-radius: 4px; color: rgb(255, 255, 255); cursor: auto;" valign="middle" bgcolor="#F0C043" align="center">
+<a href="https://dk283.infusionsoft.com/app/linkClick/14384/fff6d5466a2d5567/31966204/918d423a364d7b06" target="_blank" style="background: rgb(240, 192, 67) none repeat scroll 0% 0%; border: 1px solid rgb(240, 192, 67); border-radius: 4px; color: rgb(255, 255, 255); display: inline-block; font-family: Helvetica,Arial,sans-serif; font-size: 24px; padding: 24px; font-weight: bold; text-decoration: none;
+ -moz-text-size-adjust: none; width: 242px;">Clique aqui para se Inscrever!</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]--><div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; margin: 0px auto;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" align="center" border="0">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]--><div class="column column-100" aria-labelledby="column-100">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="bard-text-block style-scope" style="text-align: justify; color: rgb(52, 52, 52); font-family: Helvetica,Arial,sans-serif; font-size: 18px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+<span class="bard-text-block style-scope" style="">
+<br />
+</span>
+</p>
+<p class="bard-text-block style-scope" style="text-align: justify; color: rgb(52, 52, 52); font-family: Helvetica,Arial,sans-serif; font-size: 18px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<span class="bard-text-block style-scope" style="">Nessa aula eu vou mostrar como você pode Conquistar a Vida que Você Quer e Mudar a sua Realidade usando a PNL para Reprogramar a sua Mente.</span><b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">
+<br />
+</b>
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica,Arial,sans-serif; font-size: 18px;
+ padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">
+<br />
+</b>
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica,Arial,sans-serif; font-size: 18px; padding: 0px; margin: 13px 0px 0px; line-height: 1.6;">
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">Será hoje (terça, 25/4) às 20h30.</b>
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]--><div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; margin: 0px auto;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" align="center" border="0">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]--><div class="column column-100" aria-labelledby="column-100">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 15px; text-align: center;" class="alignmentContainer">
+<div>
+<!--[if mso]>
+<hr xmlns="http://www.w3.org/1999/xhtml" style="width: 98%; border-color: rgb(0, 0, 0); background-color: rgb(0, 0, 0); color: rgb(0, 0, 0); border-width: 1px 0px 0px; height: 1px;" align="center" />
+<![endif]-->
+<div style="width: 98%; border-color: rgb(0, 0, 0); background-color: rgb(0, 0, 0); color: rgb(0, 0, 0); height: 1px; margin: 0px auto; mso-hide:all;" xmlns="http://www.w3.org/1999/xhtml">
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if
+ mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]--><div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; margin: 0px auto;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" align="center" border="0">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]--><div class="column column-100" aria-labelledby="column-100">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="bard-text-block
+ style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica,Arial,sans-serif; font-size: 18px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica,Arial,sans-serif; font-size: 18px; padding: 0px; margin: 13px 0px 0px; line-height: 1.6;">
+Nos vemos à noite!
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]--><div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; margin: 0px auto;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" align="center" border="0">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top;
+ font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]--><div class="column column-100" aria-labelledby="column-100">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 0px; text-align: left;" class="alignmentContainer">
+<img src="https://d1yoaun8syyxxt.cloudfront.net/dk283-5105fbcc-63c4-45cf-b9c4-0fe7373d4d3c-v2" alt="image" style="font-family: 'Helvetica','Arial','sans-serif'; font-size: 20px; width: 21%; margin-right: auto;" width="126" />
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]--><div style="max-width: 600px; background: rgb(255, 255, 255) none repeat
+ scroll 0% 0%; margin: 0px auto;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" align="center" border="0">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]--><div class="column column-100" aria-labelledby="column-100">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica,Arial,sans-serif; font-size: 18px; padding: 0px; margin: 0px; line-height: 1.6;">
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">André Sampaio
+<br />
+Coach de Intervenção Estratégia &amp; Trainer de
+ PNL</b>
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]--><div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; margin: 0px auto;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" align="center" border="0">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]--><div class="column column-100" aria-labelledby="column-100">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 15px;
+ text-align: left;">
+<div>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica,Arial,sans-serif; font-size: 18px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">
+<br />
+</b>
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica,Arial,sans-serif; font-size: 18px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">
+<br />
+</b>
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica,Arial,sans-serif; font-size: 18px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">PS: </b>Nessa Aula Online Você Também vai Aprender: 
+</p><ul class="bard-text-block style-scope" style="padding: 0px 0px 0px
+ 40px; margin-top: 16px; margin-right: 0px; margin-bottom: 16px; margin-left: initial; line-height: 1.6; font-family: Helvetica,Arial,sans-serif; font-size: 18px; color: rgb(52, 52, 52);">
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Como Criamos nossa Própria Realidade
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Os 3 Filtros que Moldam a Realidade e Como Podemos Controlá-los
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+O Maior Erro das Pessoas que Não Conseguem Mudar e Como Evitar essa Armadilha
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+A Diferença entre as Pessoas Bem-Sucedidas e Realizadas e as Pessoas Medianas
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Como Reprogramar sua Mente para Conquistar a Vida que Você Quer
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+5 Chaves da PNL para Mudar a sua Realidade
+</li>
+</ul>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52);
+ font-family: Helvetica,Arial,sans-serif; font-size: 18px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">
+<br />
+</b> 
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica,Arial,sans-serif; font-size: 18px; padding: 0px; margin: 13px 0px 0px; line-height: 1.6;">
+<b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;"><span class="bard-text-block style-scope" style="">Link para inscrição: <a href="https://dk283.infusionsoft.com/app/linkClick/14382/1a6e746c7d6edf03/31966204/918d423a364d7b06" class="bard-text-block style-scope" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;" target="_blank">https://app.webinarjam.net/register/1947/aa75a11b49</a></span></b>
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0"
+ cellspacing="0" width="600" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]--><div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; margin: 0px auto;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" align="center" border="0">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]--><div class="column column-100" aria-labelledby="column-100">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 15px; text-align: left;" class="alignmentContainer">
+<div style="margin-left: auto; margin-right: auto;">
+<p style="font-family: Helvetica,Arial,sans-serif; padding: 0px; margin: 0px 0px 13px; line-height: 1.6; color: rgb(153, 153, 153);
+ font-size: 11px;">
+<a href="https://dk283.infusionsoft.com/app/linkClick/14380/c78e255c0f67310e/31966204/918d423a364d7b06" target="_blank" style="text-decoration: underline; padding: 0px; margin: 0px; line-height: 1.6; color: rgb(153, 153, 153);">Unsubscribe</a>
+</p>
+<p style="font-family: Helvetica,Arial,sans-serif; padding: 0px; margin: 13px 0px 0px; line-height: 1.6; color: rgb(153, 153, 153); font-size: 11px;">
+Superando seus Limites Av Queiroz Filho, 1.700 São Paulo, São Paulo 05319-000 Brazil
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]-->
+</div>
+<img height="1" width="1" style="display: block;" src="https://dk283.infusionsoft.com/app/emailOpened/31966204/5822"></body>
+</html>
+------=_Part_170059_580669494.1493125073176--
+

@@ -1,0 +1,259 @@
+Return-Path: <squintinoj@gmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id qY/lHlOpkVlUuQQAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Mon, 14 Aug 2017 10:44:51 -0300
+Return-path: <squintinoj@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Mon, 14 Aug 2017 10:44:51 -0300
+Received: from mail-yw0-f176.google.com ([209.85.161.176]:34895)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <squintinoj@gmail.com>)
+	id 1dhFfn-001JG1-95
+	for marco@digitalfotoimagem.com.br; Mon, 14 Aug 2017 10:44:51 -0300
+Received: by mail-yw0-f176.google.com with SMTP id l82so54758827ywc.2
+        for <marco@digitalfotoimagem.com.br>; Mon, 14 Aug 2017 06:44:28 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc;
+        bh=/y7Kl5DqkybQ5TVhhZMye4ZslXDT4W8VzcnTbwWocE4=;
+        b=YmfezOgbwPYLZYEkGYWWdHfBZrvnj0L4l7ddLb3/Zbjf1ra4LaF6O4i0yJvUTekbP5
+         ntdUPm/Vqo5eDvPMnjfHuk2ClXYsYI2BjhLQpSNJ3dsF8mUuKdiaNq4kWmH+gYcASuGf
+         lTH4Azl+RbDg1qFjm0NtnGIsq/b2QQ3Pp08rWKxSSqvzkTgbX2o5WTlHcvYBfcU4WSOx
+         bQJYPxPgNF+6Yu1X9388k7BWvbpgHZ+MwB8h0BEYV2RvpbCoKwlp/91zMbS0Fmwau4A4
+         8h0loKiOZfOyZA55imbBaxCGqSMf3HpKwUFPQzecHU+dg/RIkQ69nAJySFchtglO/OhZ
+         luVg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:cc;
+        bh=/y7Kl5DqkybQ5TVhhZMye4ZslXDT4W8VzcnTbwWocE4=;
+        b=uGi/KwDPZr3P5JWAGvNTU/gNLrgTBnZiKtRxJfvk+54xUksxtit4zhLHfXFGsPW5aJ
+         LnMsZ/gX+bqyeoPXEhtkgLt4YC5niKiyGUbawBRKQUoX5/kCmoZVdK9+qafqXgKaNcgR
+         7V3dGU709FT+e3PXjOwRqM9KT8265TzSfzw3Es91VTxqUXazIah9KfYO8Cduy8WfoGy2
+         9tybYl6B+5UIINhaAtJWi6QX3b6e7Is817HYPXIAULS5CC9JdFSMSNbQH6w+CdsIH+cJ
+         dEf8a3wUoD8aQsONPFYHCRIW/imJQ4+3S7dcAxzmnROKt4+N05aD3snIQge/TBto1omW
+         /wkg==
+X-Gm-Message-State: AHYfb5i5wjy0EzulZ91DndTQO77RLixaG4+gjiQuS3xKA3Xr3MIRCNcD
+	cn7I0hRuuPfHHScG0aRf2/3ECjSQAQ==
+X-Received: by 10.13.255.195 with SMTP id p186mr19620051ywf.140.1502718246729;
+ Mon, 14 Aug 2017 06:44:06 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.13.206.196 with HTTP; Mon, 14 Aug 2017 06:44:06 -0700 (PDT)
+In-Reply-To: <CAD5DfqDoVdrm=Ur7gpv=ZB6VgXac-SsbT3FN9VaXFscYk+yUvQ@mail.gmail.com>
+References: <005501d30c0a$390dac40$ab2904c0$@com.br> <048901d31449$8cf3ea80$a6dbbf80$@com.br>
+ <CAD5DfqDoVdrm=Ur7gpv=ZB6VgXac-SsbT3FN9VaXFscYk+yUvQ@mail.gmail.com>
+From: "Prof. Sylvio Quintino Jr." <squintinoj@gmail.com>
+Date: Mon, 14 Aug 2017 10:44:06 -0300
+Message-ID: <CAPRHRPMynnBbVEU2FAdHEf6vL0c5eCUXwdMNi+rrV-mCF4GCUw@mail.gmail.com>
+Subject: =?UTF-8?B?UmU6IFBhcmFiw6lucyDDoCBWb2PDqiwgV2VsbGluZ3RvbiEhIQ==?=
+To: "Wanderley Samtos .'." <wanderleyssamtos@gmail.com>
+Cc: Egoshi da CTT3843 <ctt3843@egoshi.com.br>, 
+	Wellington Alfano Rodrigues Silva <alfanohi@gmail.com>, Andre Luis Pereira de Godoi <andrelpgodoi@gmail.com>, 
+	Antonio Finardi <ma.finardi@hotmail.com>, Antonio Celso Tessari <celsotessari@gmail.com>, 
+	Antonio Kossei Takara <takar2@terra.com.br>, 
+	=?UTF-8?Q?Benedito_Carlos_Flam=C3=ADnio?= <carlos.flaminio@gmail.com>, 
+	Carlos Mave de Campos Assis <cmave96@gmail.com>, =?UTF-8?Q?Carlos_Rosseti_=28Kak=C3=A1=29?= <carlos.rossetti@uol.com.br>, 
+	=?UTF-8?Q?Dem=C3=A9trio_Muniz_Pendek?= <demetriopendek@hotmail.com>, 
+	Eduardo Camacho <eduardocamacho@uol.com.br>, Eduardo Lopes <ebernardinolopes@uol.com.br>, 
+	Ernani Flausino <ernani.flausino@terra.com.br>, 
+	Everth Alves Bonavolonta <everth@mixlav.com.br>, =?UTF-8?Q?F=C3=A1bio_Roberto_Faria?= <szfaria@gmail.com>, 
+	Fernando Ziesmann Fortes <fernandozf@hotmail.com>, Gilberto Campos <gdcampos@uol.com.br>, 
+	=?UTF-8?Q?H=C3=A9lio_Alvarez_Felix?= <helioamandara@uol.com.br>, 
+	Hideraldo Rodrigues Gomes <enghgomes@gmail.com>, 
+	Humberto de Oliveira Serrano <humberto.serrano@hotmail.com>, Jair Airton Felix <j.felix10@bol.com.br>, 
+	Johannes Kozlowski <jkozlowski@uol.com.br>, =?UTF-8?Q?Jos=C3=A9_Carlos_de_Lima?= <jcl@tech-air.com.br>, 
+	=?UTF-8?Q?J=C3=BAlio_Cesar_Mattos_de_Faria?= <mattosfaria@terra.com.br>, 
+	Marcelo Eloy Fernandes <marceloeloyfernandes@gmail.com>, 
+	Marcilio Marques Testa <mmtesta43@gmail.com>, Marco Antonio Patriniani <marckopat@live.com>, 
+	=?UTF-8?Q?Marco_Ant=C3=B4nio_Pedrosa_Parise?= <marco@digitalfotoimagem.com.br>, 
+	Marcus Welbi <marcuswelbi@crivodarazao.org.br>, Natanael Costa <ncosta@usa.com>, 
+	Nelson Pendek <nelpendek@hotmail.com>, 
+	"Ricardo C. A. Carvalho" <ricardocarvalho930@gmail.com>, 
+	=?UTF-8?Q?Sebasti=C3=A3o_Rubens_Costa?= <rubens@linart.com.br>, 
+	=?UTF-8?Q?S=C3=A9rgio_Fosque?= <sergio@aresultado.adm.br>, 
+	Silvio Verdiani <sverdiani@terra.com.br>, Wladimir Viveiro <wviveiro@live.com>
+Content-Type: multipart/alternative; boundary="94eb2c0889724b40920556b6dbd2"
+
+--94eb2c0889724b40920556b6dbd2
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+TFA ao Ir.'. Alfano!!!
+
+
+Em 13 de agosto de 2017 21:14, Wanderley Samtos .'. <
+wanderleyssamtos@gmail.com> escreveu:
+
+> Meu Ir.'. Wellington que o GADU, continue sempre aben=C3=A7oando a sua vi=
+da,
+> com muita sa=C3=BAde, muita  paz, muitas alegrias e muitas felicidades FE=
+LIZ
+> ANIVERS=C3=81RIO PARABENS
+>
+> *Wanderley dos Samtos .'.*
+> *accounting expertise*
+> *wanderleyssamtos@gmail.com <wanderleyssamtos@gmail.com>*
+>
+>
+>
+> *wanderleysamtos.blogspot.com.br
+> <http://wanderleysamtos.blogspot.com.br>011-96323.11.10O homem de bem exi=
+ge
+> tudo de si pr=C3=B3prio, omed=C3=ADocre espera tudo dos outros(Conf=C3=BA=
+cio)*
+>
+> Em 13 de agosto de 2017 12:33, Egoshi da CTT3843 <ctt3843@egoshi.com.br>
+> escreveu:
+>
+>> Parab=C3=A9ns por Tr=C3=AAs Vezes pelo seu anivers=C3=A1rio, Querido Ir\=
+Wellington!!!
+>>
+>>
+>>
+>> =C3=80 voc=C3=AA Querido Ir\ Wellington e a Toda a Sua Fam=C3=ADlia, ens=
+ejamos nossos
+>> mais
+>> sinceros votos de felicidade e sucesso na vida em fam=C3=ADlia!!!
+>>
+>>
+>>
+>> Neste reluzente domingo, at=C3=A9 o Sol est=C3=A1 se resplandecendo, em =
+homenagem ao
+>> Ir\Wellington!!!
+>>
+>>
+>>
+>> Fraternalmente
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>> ---
+>> Este email foi escaneado pelo Avast antiv=C3=ADrus.
+>> https://www.avast.com/antivirus
+>>
+>
+>
+
+
+--=20
+
+
+*Prof. Sylvio Quintino JuniorAdvogado e EconomistaSHIGUEMORI Advogados
+Associados *
+
+*www.shiguemoriadvogados.com.br <http://www.shiguemoriadvogados.com.br>(11)
+3331-4140*
+
+*"N=C3=A3o h=C3=A1 Justi=C3=A7a onde n=C3=A3o haja Deus" (Ruy Barbosa)*
+
+ANTES DE IMPRIMIR, pense em sua responsabilidade e compromisso com o MEIO
+AMBIENTE
+---------------------------------------------------------------------------=
+-------------------------------
+"As informa=C3=A7=C3=B5es contidas nesta mensagem e os arquivos anexos s=C3=
+=A3o
+confidenciais e devem ser lidos =C3=BAnica e exclusivamente pelo destinat=
+=C3=A1rio.
+Se voc=C3=AA a recebeu indevidamente, por favor informe ao remetente
+imediatamente e apague toda a mensagem e anexos, sem ler, copiar, gravar,
+distribuir, divulgar ou fazer qualquer uso de  qualquer informa=C3=A7=C3=A3=
+o contida
+nesta mensagem sem o expl=C3=ADcito consentimento do Remetente."
+
+--94eb2c0889724b40920556b6dbd2
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">TFA ao Ir.&#39;. Alfano!!!<br><br></div><div class=3D"gmai=
+l_extra"><br><div class=3D"gmail_quote">Em 13 de agosto de 2017 21:14, Wand=
+erley Samtos .&#39;. <span dir=3D"ltr">&lt;<a href=3D"mailto:wanderleyssamt=
+os@gmail.com" target=3D"_blank">wanderleyssamtos@gmail.com</a>&gt;</span> e=
+screveu:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;bo=
+rder-left:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr">Meu Ir.&#39;. W=
+ellington que o GADU, continue sempre aben=C3=A7oando a sua vida, com muita=
+ sa=C3=BAde, muita =C2=A0paz, muitas alegrias e muitas felicidades FELIZ AN=
+IVERS=C3=81RIO PARABENS=C2=A0</div><div class=3D"gmail_extra"><br clear=3D"=
+all"><div><div class=3D"m_5607420393781937428gmail_signature" data-smartmai=
+l=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><div style=3D"=
+color:rgb(51,51,51);font-family:sans-serif,Arial,Verdana,&quot;Trebuchet MS=
+&quot;;font-size:13px;line-height:20.8px"><em><span style=3D"font-family:&q=
+uot;courier new&quot;,courier"><strong>Wanderley dos Samtos .&#39;.</strong=
+></span></em></div><div style=3D"color:rgb(51,51,51);font-family:sans-serif=
+,Arial,Verdana,&quot;Trebuchet MS&quot;;font-size:13px;line-height:20.8px">=
+<em><span style=3D"font-family:&quot;courier new&quot;,courier"><strong>acc=
+ounting expertise</strong></span></em></div><font face=3D"courier new, cour=
+ier"><span style=3D"font-size:13px;line-height:20.8px"><b><i><a href=3D"mai=
+lto:wanderleyssamtos@gmail.com" target=3D"_blank">wanderleyssamtos@gmail.co=
+m</a></i></b></span></font><br><div style=3D"color:rgb(51,51,51);font-famil=
+y:sans-serif,Arial,Verdana,&quot;Trebuchet MS&quot;;font-size:13px;line-hei=
+ght:20.8px"><em><span style=3D"font-family:&quot;courier new&quot;,courier"=
+><a href=3D"http://wanderleysamtos.blogspot.com.br" target=3D"_blank">wande=
+rleysamtos.blogspot.com.<wbr>br</a><br><strong>011-96323.11.10<br>O homem d=
+e bem exige tudo de si pr=C3=B3prio,=C2=A0o<br>med=C3=ADocre espera tudo do=
+s outros(Conf=C3=BAcio)</strong></span></em></div></div></div></div></div><=
+/div><div><div class=3D"h5">
+<br><div class=3D"gmail_quote">Em 13 de agosto de 2017 12:33, Egoshi da CTT=
+3843 <span dir=3D"ltr">&lt;<a href=3D"mailto:ctt3843@egoshi.com.br" target=
+=3D"_blank">ctt3843@egoshi.com.br</a>&gt;</span> escreveu:<br><blockquote c=
+lass=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;=
+padding-left:1ex">Parab=C3=A9ns por Tr=C3=AAs Vezes pelo seu anivers=C3=A1r=
+io, Querido Ir\Wellington!!!<br>
+<br>
+<br>
+<br>
+=C3=80 voc=C3=AA Querido Ir\ Wellington e a Toda a Sua Fam=C3=ADlia, enseja=
+mos nossos mais<br>
+sinceros votos de felicidade e sucesso na vida em fam=C3=ADlia!!!<br>
+<br>
+<br>
+<br>
+Neste reluzente domingo, at=C3=A9 o Sol est=C3=A1 se resplandecendo, em hom=
+enagem ao<br>
+Ir\Wellington!!!<br>
+<br>
+<br>
+<br>
+Fraternalmente<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+---<br>
+Este email foi escaneado pelo Avast antiv=C3=ADrus.<br>
+<a href=3D"https://www.avast.com/antivirus" rel=3D"noreferrer" target=3D"_b=
+lank">https://www.avast.com/antiviru<wbr>s</a><br>
+</blockquote></div><br></div></div></div>
+</blockquote></div><br><br clear=3D"all"><br>-- <br><div class=3D"gmail_sig=
+nature" data-smartmail=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=
+=3D"ltr"><div><div dir=3D"ltr"><i><b><font color=3D"#000000">Prof. Sylvio Q=
+uintino Junior</font><br><font color=3D"#ff0000">Advogado e Economista</fon=
+t><br><font color=3D"#000000">SHIGUEMORI Advogados Associados=C2=A0</font><=
+/b></i></div><div dir=3D"ltr"><i><b><font color=3D"#000000"><a href=3D"http=
+://www.shiguemoriadvogados.com.br" target=3D"_blank">www.shiguemoriadvogado=
+s.com.br</a><br></font><font color=3D"#ff0000">(11) 3331-4140</font></b></i=
+></div><div dir=3D"ltr"><font color=3D"#ff0000"><b><i><br></i></b></font><d=
+iv><i><font color=3D"#0000ff">&quot;N=C3=A3o h=C3=A1 Justi=C3=A7a onde n=C3=
+=A3o haja Deus&quot; </font>(Ruy Barbosa)</i><br><br>ANTES DE IMPRIMIR, pen=
+se em sua responsabilidade e compromisso com o MEIO AMBIENTE<br>-----------=
+---------------------------------------------------------------------------=
+--------------------<br>&quot;As informa=C3=A7=C3=B5es contidas nesta mensa=
+gem e os arquivos anexos s=C3=A3o confidenciais e devem ser lidos =C3=BAnic=
+a e exclusivamente pelo destinat=C3=A1rio. Se voc=C3=AA a recebeu indevidam=
+ente, por favor informe ao remetente imediatamente e apague toda a mensagem=
+ e anexos, sem ler, copiar, gravar, distribuir, divulgar ou fazer qualquer =
+uso de=C2=A0 qualquer informa=C3=A7=C3=A3o contida nesta mensagem sem o exp=
+l=C3=ADcito consentimento do Remetente.&quot;</div></div></div></div></div>=
+</div></div>
+</div>
+
+--94eb2c0889724b40920556b6dbd2--

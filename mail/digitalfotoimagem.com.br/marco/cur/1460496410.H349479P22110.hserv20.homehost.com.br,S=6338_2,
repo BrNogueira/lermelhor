@@ -1,0 +1,101 @@
+Return-path: <mail-noreply@google.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 12 Apr 2016 18:26:50 -0300
+Received: from mail-qg0-f73.google.com ([209.85.192.73]:33754)
+	by hserv20.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <mail-noreply@google.com>)
+	id 1aq5ph-0005a6-Ug
+	for marco@digitalfotoimagem.com.br; Tue, 12 Apr 2016 18:26:50 -0300
+Received: by mail-qg0-f73.google.com with SMTP id v14so1294253qge.0
+        for <marco@digitalfotoimagem.com.br>; Tue, 12 Apr 2016 14:26:20 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=date:from:to:message-id:subject:mime-version;
+        bh=7FXGubrg8WUCvSMQl4ImtjQELlgPI65Youd+EUE/QOQ=;
+        b=NFxH7ChPi0VR2a5uXzdQtY+u3eYaDZ18xVW8e7XTgJmEjNz37GhfqsTt7uoF1tbt4/
+         7Ob0Sg8GckwbCU1C89P+nvdIf0DtHXHI2pxqX60O5B9bN7a3c6jx/Y8RITZiC6wxf13e
+         4UkoUWCLrZVqIZHKmFMg17VrFSZqytBMaX7UC0iGmbhorSWMN3xZNEtAAFhN8LymTtcK
+         lJ4GyRSdPLThqfHoJEgBT4kMUf2Fvk5AILDUOlFMUBzI7CH/4hdQzDtaUNkTJhRoFeAj
+         6L7TGiKzaynQzgRcyQFxHjDP+QxAl2btax3PYvgf55LQkzl0Nxvy2sxj4qkNWFWZwjIE
+         7Y7g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:date:from:to:message-id:subject:mime-version;
+        bh=7FXGubrg8WUCvSMQl4ImtjQELlgPI65Youd+EUE/QOQ=;
+        b=LcTypaxWOESYKtIBxTlCIsUq3QqOvnFFGvHjHUTdYHEj02FhiTGQ3jOmfbAR3/Jlj9
+         Cba9jsI/h4ZyNHeEMaFjEJRjZ/shq2qodPiAcYyKVsezOr35ltsxwQk9NuCKMK2RNdyN
+         Sy7Tzhj7s6ts48tx1CYQio4zkF7HhVTX/sYJoJZobP2drlbVfuPcc5nyFZxC61GRXecD
+         8ry8RmlFeSQXFjFe0YKGZWZPEB5kgjy0n/iREOd6dQuSY6tCaGOBMrkiQObHqWdH9FrV
+         lmjN0/DDZ2soRfmbPymmixeq8G8JW802nrYeHRgM34oCqnQvApnehLa40kQY2L3GQgP3
+         2Zlg==
+X-Gm-Message-State: AOPr4FU1dUwKmx/aAOaMd7QWhGSMC+90ocCfTzyA8U5oWKfxZeUAv17UrObDf4+5zBy/5XL35BoE6A1K4LvUJKjmH0YAf3Z2scM=
+X-Received: by 10.55.50.136 with SMTP id y130mr6408857qky.79.1460496358945;
+        Tue, 12 Apr 2016 14:25:58 -0700 (PDT)
+Date: Tue, 12 Apr 2016 14:25:58 -0700
+From: "Gmail Equipe" <mail-noreply@google.com>
+To: "Marco Pedrosa Parise Parise" <marco@digitalfotoimagem.com.br>
+Message-ID: <CAAqWGsVzK7D7c0K25ap-3zoOZrAYgz7dqmuC1on=650uzNgsKQ@mail.gmail.com>
+Subject: =?UTF-8?Q?Seu_endere=C3=A7o_do_Gmail,_gestaojoa?= =?UTF-8?Q?quimeugenio@gmail.com,_foi_criado?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_40_435838202.1460496358941"
+
+------=_Part_40_435838202.1460496358941
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+KkJlbS12aW5kbyBhbyBHbWFpbCEqIFZvY8OqIHBvZGUgZmF6ZXIgbyBsb2dpbiBuYSBzdWEgY29u
+dGEgZW0NCmh0dHA6Ly9tYWlsLmdvb2dsZS5jb20vLg0KDQpFc3RhcyBzw6NvIGFsZ3VtYXMgZGlj
+YXMgcGFyYSBhanVkYXIgdm9jw6ogYSBjb21lw6dhcjoNCg0KICAgLSAqVXNlIGFzIGZlcnJhbWVu
+dGFzIGRlIGltcG9ydGHDp8OjbyBkbyBHbWFpbCogcGFyYSBtb3ZlciBlLW1haWxzIGUNCiAgIGNv
+bnRhdG9zDQogICA8aHR0cDovL3N1cHBvcnQuZ29vZ2xlLmNvbS9tYWlsL2Jpbi9hbnN3ZXIucHk/
+aGw9ZW4mYW5zd2VyPTU2MjgzPiBkZQ0KICAgb3V0cmFzIGNvbnRhcyBkZSBlLW1haWwgcGFyYSBz
+ZXUgbm92byBlbmRlcmXDp28gZG8gR21haWwuDQogICAtICpGYcOnYSBvIGRvd25sb2FkIGRvIGFw
+bGljYXRpdm8gcGFyYSBkaXNwb3NpdGl2b3MgbcOzdmVpcyogcGFyYSBBbmRyb2lkDQogICA8aHR0
+cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPWNvbS5nb29nbGUuYW5k
+cm9pZC5nbSZobD1wdF9CUj4NCiAgIG91IGlQaG9uZSBlIGlQYWQNCiAgIDxodHRwczovL2l0dW5l
+cy5hcHBsZS5jb20vdXMvYXBwL2dtYWlsLWVtYWlsLWZyb20tZ29vZ2xlL2lkNDIyNjg5NDgwP210
+PTg+DQogICBlIGZpcXVlIGNvbmVjdGFkbyBlbSBxdWFscXVlciBsdWdhci4NCg0KRW50cmFyZW1v
+cyBlbSBjb250YXRvIHBvciBlc3RlIGVuZGVyZcOnbyBkZSBlLW1haWwgc2Ugdm9jw6ogdGl2ZXIg
+cHJvYmxlbWFzDQpjb20gYSBjb250YSBvdSBlc3F1ZWNlciBzdWEgc2VuaGEuDQoNCkFwcm92ZWl0
+ZSENCg0KRXF1aXBlIGRvIEdtYWlsDQoNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQ0K
+U2Ugdm9jw6ogbsOjbyBjcmlvdSBlc3RlIGVuZGVyZcOnbyBkbyBHbWFpbCBlIG7Do28gcmVjb25o
+ZWNlIGVzdGUgZS1tYWlsLA0KdmlzaXRlDQpodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20vQWNj
+b3VudERpc2F2b3c/YWR0PUFPWDhraXBaQTNadm1BaGMzeTNaTTg3WFF5aFN0YUNxR19HZFZGUG5V
+SzNvUzhnRUdySFJFSHg1bmNSaXJVbFN4cktDRWV0T3hQUVk4M1kNCnBhcmEgZGVzdmluY3VsYXIg
+ZXN0YSBjb250YS4NCg==
+------=_Part_40_435838202.1460496358941
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+PGRpdiBkaXI9Imx0ciI+DQo8cCBzdHlsZT0ibWFyZ2luOjFlbSAwIj4NCjxiPkJlbS12aW5kbyBh
+byBHbWFpbCE8L2I+IFZvY8OqIHBvZGUgZmF6ZXIgbyBsb2dpbiBuYSBzdWEgY29udGEgZW0gPHNw
+YW4gZGlyPSJsdHIiPjxhIGhyZWY9Imh0dHA6Ly9tYWlsLmdvb2dsZS5jb20vIj5odHRwOi8vbWFp
+bC5nb29nbGUuY29tLzwvYT48L3NwYW4+Lg0KPC9wPg0KPHAgc3R5bGU9Im1hcmdpbjoxZW0gMCI+
+DQpFc3RhcyBzw6NvIGFsZ3VtYXMgZGljYXMgcGFyYSBhanVkYXIgdm9jw6ogYSBjb21lw6dhcjoN
+CjwvcD4NCjx1bD4NCjxsaT48Yj5Vc2UgYXMgZmVycmFtZW50YXMgZGUgaW1wb3J0YcOnw6NvIGRv
+IEdtYWlsPC9iPiBwYXJhIDxhIGhyZWY9Imh0dHA6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vbWFpbC9i
+aW4vYW5zd2VyLnB5P2hsPWVuJmFtcDthbnN3ZXI9NTYyODMiPm1vdmVyIGUtbWFpbHMgZSBjb250
+YXRvczwvYT4gZGUgb3V0cmFzIGNvbnRhcyBkZSBlLW1haWwgcGFyYSBzZXUgbm92byBlbmRlcmXD
+p28gZG8gR21haWwuDQo8bGk+PGI+RmHDp2EgbyBkb3dubG9hZCBkbyBhcGxpY2F0aXZvIHBhcmEg
+ZGlzcG9zaXRpdm9zIG3Ds3ZlaXM8L2I+IHBhcmEgPGEgaHJlZj0iaHR0cHM6Ly9wbGF5Lmdvb2ds
+ZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPWNvbS5nb29nbGUuYW5kcm9pZC5nbSZhbXA7aGw9
+cHRfQlIiPkFuZHJvaWQ8L2E+IG91IDxhIGhyZWY9Imh0dHBzOi8vaXR1bmVzLmFwcGxlLmNvbS91
+cy9hcHAvZ21haWwtZW1haWwtZnJvbS1nb29nbGUvaWQ0MjI2ODk0ODA/bXQ9OCI+aVBob25lIGUg
+aVBhZDwvYT4gZSBmaXF1ZSBjb25lY3RhZG8gZW0gcXVhbHF1ZXIgbHVnYXIuDQo8L2xpPjwvbGk+
+PC91bD4NCjxwIHN0eWxlPSJtYXJnaW46MWVtIDAiPg0KRW50cmFyZW1vcyBlbSBjb250YXRvIHBv
+ciBlc3RlIGVuZGVyZcOnbyBkZSBlLW1haWwgc2Ugdm9jw6ogdGl2ZXIgcHJvYmxlbWFzIGNvbSBh
+IGNvbnRhIG91IGVzcXVlY2VyIHN1YSBzZW5oYS4NCjwvcD4NCjxwIHN0eWxlPSJtYXJnaW46MWVt
+IDAiPg0KQXByb3ZlaXRlIQ0KPC9wPg0KPHAgc3R5bGU9Im1hcmdpbjoxZW0gMCI+DQpFcXVpcGUg
+ZG8gR21haWwNCjwvcD4NCjxicj4NCjxocj4NClNlIHZvY8OqIG7Do28gY3Jpb3UgZXN0ZSBlbmRl
+cmXDp28gZG8gR21haWwgZSBuw6NvIHJlY29uaGVjZSBlc3RlIGUtbWFpbCwgdmlzaXRlIDxhIGhy
+ZWY9Imh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNvbS9BY2NvdW50RGlzYXZvdz9hZHQ9QU9YOGtp
+cFpBM1p2bUFoYzN5M1pNODdYUXloU3RhQ3FHX0dkVkZQblVLM29TOGdFR3JIUkVIeDVuY1JpclVs
+U3hyS0NFZXRPeFBRWTgzWSI+aHR0cHM6Ly9hY2NvdW50cy5nb29nbGUuY29tL0FjY291bnREaXNh
+dm93P2FkdD1BT1g4a2lwWkEzWnZtQWhjM3kzWk04N1hReWhTdGFDcUdfR2RWRlBuVUszb1M4Z0VH
+ckhSRUh4NW5jUmlyVWxTeHJLQ0VldE94UFFZODNZPC9hPiBwYXJhIGRlc3ZpbmN1bGFyIGVzdGEg
+Y29udGEuDQo8L2Rpdj4NCg==
+------=_Part_40_435838202.1460496358941--

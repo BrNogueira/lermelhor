@@ -1,0 +1,566 @@
+Return-Path: <cadastro@pagseguro.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id 8Z6cH5ozDljKmwEAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Mon, 24 Oct 2016 14:15:22 -0200
+Return-path: <cadastro@pagseguro.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Mon, 24 Oct 2016 14:15:22 -0200
+Received: from a2-seldon1-2.uol.com.br ([200.147.34.235]:53648 helo=smtp.uol.com.br)
+	by hserv9.homehost.com.br with esmtp (Exim 4.87)
+	(envelope-from <cadastro@pagseguro.com.br>)
+	id 1byhuD-000RqX-9E
+	for marco@digitalfotoimagem.com.br; Mon, 24 Oct 2016 14:15:22 -0200
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by a2-seldon1-2.uol.com.br (Postfix) with ESMTP id 1C58A1C0089B
+	for <marco@digitalfotoimagem.com.br>; Mon, 24 Oct 2016 14:14:36 -0200 (BRST)
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+Received: from a6-jaiminho1 (a6-jaiminho1.host.intranet [10.135.16.16])
+	by a2-seldon1-2.uol.com.br (Postfix) with ESMTP id 0D9101C00893
+	for <marco@digitalfotoimagem.com.br>; Mon, 24 Oct 2016 14:14:35 -0200 (BRST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=pagseguro.com.br;
+	s=uolrp; t=1477325676;
+	bh=W9RUoMWqgSnXP4y+W6mpSsr0/MLRTS7wVtMhQt/gvu0=; h=From:To:Subject;
+	b=YXAQ2aVcHiYQ8We6rWANZBtlYIl8ot9ATv9bwxoit90tl7PL+76dFIVzM/w0T4zxG
+	 KO3K0aRTCnBv7hGlEtmbnidMKspyq1TcmcqrXcoZZdAH4VOVj1L8+4tCOM80Lo+seA
+	 I/tqQMSWQg5lfUOcSSkqGhuzbZVmbOEkaH/fW2E8=
+Message-ID: <7094938.1477325675799.JavaMail.no-reply@uol.com.br>
+From: PagSeguro <cadastro@pagseguro.com.br>
+To: marco@digitalfotoimagem.com.br
+Subject: Bem-vindo ao PagSeguro
+Mime-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_18424833_7630876.1477325675798"
+X-SIG5: c606ba8c926c0b3d1ba53ef46c2a4a10
+Date: Mon, 24 Oct 2016 14:14:36 -0200 (BRST)
+
+------=_Part_18424833_7630876.1477325675798
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+=09<head>
+=09=09<meta http-equiv=3D"Content-type" content=3D"text/html; charset=3Diso=
+-8859-1">
+=09=09<meta name=3D"viewport" content=3D"width=3Ddevice-width">
+=09=09=09=09=09=09<title>PagSeguro UOL</title>
+=09</head>
+=09<body style=3D"background-color: #F4F4F4;">
+=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%=
+" bgcolor=3D"#F4F4F4">
+=09=09=09<tr>
+=09=09=09=09<td valign=3D"top" width=3D"100%">
+=09=09=09=09=09<table id=3D"main" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" align=3D"center" style=3D"border:2px solid #E5E5E5; min-width: 300p=
+x; max-width: 600px;" bgcolor=3D"#FFFFFF">
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td valign=3D"top" height=3D"70">
+=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0">
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" width=3D"216"><img style=
+=3D"display:block" alt=3D"PagSeguro UOL" width=3D"216" height=3D"70" src=3D=
+"https://stc.pagseguro.uol.com.br/public/img/email/logo-pagseguro.gif" ></t=
+d>
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td valign=3D"top" bgcolor=3D"#7FC342" height=3D"5"></=
+td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td valign=3D"top">
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09<tr>
+=09=09<td height=3D"34"></td>
+=09</tr>
+=09<tr>
+=09=09<td width=3D"24"></td>
+=09=09<td align=3D"center">
+=09=09=09<font face=3D"Arial, Helvetica, sans-serif" size=3D"6" color=3D"#3=
+33333" style=3D"font-size: 28px;">
+=09=09=09=09<b>Bem vindo ao PagSeguro</b>
+=09=09=09</font>
+=09=09</td>
+=09=09<td width=3D"24"></td>
+=09</tr>
+=09<tr>
+=09=09<td height=3D"16"></td>
+=09</tr>
+=09<tr>
+=09=09<td width=3D"24"></td>
+=09=09<td align=3D"center">
+=09=09=09<font face=3D"Arial, Helvetica, sans-serif" size=3D"3" color=3D"#6=
+66666" style=3D"font-size: 16px; line-height: 22px;">
+=09=09=09=09Seja qual for o seu neg&oacute;cio, o PagSeguro tem a solu&cced=
+il;&atilde;o ideal para voc&ecirc;.<br> <a href=3D"https://pagseguro.uol.co=
+m.br/acesso.jhtml" target=3D"_blank">Acesse sua conta</a>
+=09=09=09</font>
+=09=09</td>
+=09=09<td width=3D"24"></td>
+=09</tr>
+=09<tr>
+=09=09<td height=3D"40"></td>
+=09</tr>
+</table>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09<tr>
+=09=09<td width=3D"12"></td>
+=09=09<td align=3D"center">
+=09=09=09<img src=3D"https://stc.pagseguro.uol.com.br/publisher/online/imag=
+es/95/2016/08/23/email-line-1471972289416_530x11.png" alt=3D"" width=3D"100=
+%" style=3D"min-width: 240px; max-width: 530px;">
+=09=09</td>
+=09=09<td width=3D"12"></td>
+=09</tr>
+</table>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09<tr>
+=09=09<td height=3D"24"></td>
+=09</tr>
+=09<tr>
+=09=09<td width=3D"30"></td>
+=09=09<td align=3D"center">
+=09=09=09<img src=3D"https://stc.pagseguro.uol.com.br/publisher/online/imag=
+es/72/2016/10/05/email-solucoes-1475695728953_409x243.jpg" alt=3D"Todas as =
+solu&ccedil;&atilde;es do PagSeguro" width=3D"100%" style=3D"min-width: 240=
+px; max-width: 409px;">
+=09=09</td>
+=09=09<td width=3D"30"></td>
+=09</tr>
+=09<tr>
+=09=09<td height=3D"24"></td>
+=09</tr>
+</table>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09<tr>
+=09=09<td height=3D"24"></td>
+=09</tr>
+=09<tr>
+=09=09<td align=3D"center" valign=3D"top">
+=09=09=09<style>
+=09=09=09=09@media screen and (max-width: 400px) {
+=09=09=09=09=09td[class=3D"solutions-content"] {width: 220px !important;}
+=09=09=09=09}
+=09=09=09</style>
+=09=09=09=09=09=09<div style=3D"display: inline-block; vertical-align: top;=
+">
+=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td width=3D"16"></td>
+=09=09=09=09=09=09<td width=3D"163" class=3D"solutions-content">
+=09=09=09=09=09=09=09<table align=3D"left" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0">
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td height=3D"12" valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"30" height=3D"2" bgcolor=3D"#73B743">
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" height=3D"2">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<img src=3D"https://stc.pagseguro.uo=
+l.com.br/public/img/email/px.gif" alt=3D"" width=3D"30" height=3D"2" style=
+=3D"display: block">
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td valign=3D"middle" width=3D"128" bgcolor=3D"#=
+FFFFFF">
+=09=09=09=09=09=09=09=09=09=09<font face=3D"Arial, Helvetica, sans-serif" s=
+ize=3D"3" color=3D"#666666" style=3D"font-size: 16px;">
+=09=09=09=09=09=09=09=09=09=09=09<b>Venda presencial</b>
+=09=09=09=09=09=09=09=09=09=09</font>
+=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09<font face=3D"Arial, Helvetica, sans-serif" s=
+ize=3D"3" color=3D"#999999" style=3D"font-size: 14px;">
+=09=09=09=09=09=09=09=09=09=09=09Para todo tipo de neg&oacute;cio, tendo lo=
+ja ou n&atilde;o
+=09=09=09=09=09=09=09=09=09=09</font>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td height=3D"16"></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td>
+=09=09=09=09=09=09=09=09=09=09<font face=3D"Arial, Helvetica, sans-serif" s=
+ize=3D"3" color=3D"#666666" style=3D"font-size: 16px;">
+=09=09=09=09=09=09=09=09=09=09=09Moderninha Wifi e Leitores para celular
+=09=09=09=09=09=09=09=09=09=09</font>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td height=3D"36"></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09<td width=3D"16"></td>
+=09=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09</div>
+=09=09=09=09=09=09<div style=3D"display: inline-block; vertical-align: top;=
+">
+=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td width=3D"16"></td>
+=09=09=09=09=09=09<td width=3D"163" class=3D"solutions-content">
+=09=09=09=09=09=09=09<table align=3D"left" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0">
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td height=3D"12" valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"30" height=3D"2" bgcolor=3D"#73B743">
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" height=3D"2">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<img src=3D"https://stc.pagseguro.uo=
+l.com.br/public/img/email/px.gif" alt=3D"" width=3D"30" height=3D"2" style=
+=3D"display: block">
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td valign=3D"middle" width=3D"128" bgcolor=3D"#=
+FFFFFF">
+=09=09=09=09=09=09=09=09=09=09<font face=3D"Arial, Helvetica, sans-serif" s=
+ize=3D"3" color=3D"#666666" style=3D"font-size: 16px;">
+=09=09=09=09=09=09=09=09=09=09=09<b>Venda pela internet</b>
+=09=09=09=09=09=09=09=09=09=09</font>
+=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09<font face=3D"Arial, Helvetica, sans-serif" s=
+ize=3D"3" color=3D"#999999" style=3D"font-size: 14px;">
+=09=09=09=09=09=09=09=09=09=09=09Para seu blog, site ou loja virtual
+=09=09=09=09=09=09=09=09=09=09</font>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td height=3D"16"></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td>
+=09=09=09=09=09=09=09=09=09=09<font face=3D"Arial, Helvetica, sans-serif" s=
+ize=3D"3" color=3D"#666666" style=3D"font-size: 16px;">
+=09=09=09=09=09=09=09=09=09=09=09Checkout, Split Payment, Envio F&aacute;ci=
+l entre outros.
+=09=09=09=09=09=09=09=09=09=09</font>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td height=3D"36"></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09<td width=3D"16"></td>
+=09=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09</div>
+=09=09=09=09=09=09<div style=3D"display: inline-block; vertical-align: top;=
+">
+=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td width=3D"16"></td>
+=09=09=09=09=09=09<td width=3D"163" class=3D"solutions-content">
+=09=09=09=09=09=09=09<table align=3D"left" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0">
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td height=3D"12" valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"30" height=3D"2" bgcolor=3D"#73B743">
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" height=3D"2">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<img src=3D"https://stc.pagseguro.uo=
+l.com.br/public/img/email/px.gif" alt=3D"" width=3D"30" height=3D"2" style=
+=3D"display: block">
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td valign=3D"middle" width=3D"128" bgcolor=3D"#=
+FFFFFF">
+=09=09=09=09=09=09=09=09=09=09<font face=3D"Arial, Helvetica, sans-serif" s=
+ize=3D"3" color=3D"#666666" style=3D"font-size: 16px;">
+=09=09=09=09=09=09=09=09=09=09=09<b>Cart&atilde;o Pr&eacute;-Pago</b>
+=09=09=09=09=09=09=09=09=09=09</font>
+=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09<font face=3D"Arial, Helvetica, sans-serif" s=
+ize=3D"3" color=3D"#999999" style=3D"font-size: 14px;">
+=09=09=09=09=09=09=09=09=09=09=09Use o seu dinheiro sem precisar de conta b=
+anc&aacute;ria
+=09=09=09=09=09=09=09=09=09=09</font>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td height=3D"16"></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td>
+=09=09=09=09=09=09=09=09=09=09<font face=3D"Arial, Helvetica, sans-serif" s=
+ize=3D"3" color=3D"#666666" style=3D"font-size: 16px;">
+=09=09=09=09=09=09=09=09=09=09=09Sem mensalidade ou anuidade
+=09=09=09=09=09=09=09=09=09=09</font>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td height=3D"36"></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09<td width=3D"16"></td>
+=09=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09</div>
+=09=09</td>
+=09</tr>
+</table>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09<tr>
+=09=09<td width=3D"12"></td>
+=09=09<td align=3D"center">
+=09=09=09<img src=3D"https://stc.pagseguro.uol.com.br/publisher/online/imag=
+es/95/2016/08/23/email-line-1471972289416_530x11.png" alt=3D"" width=3D"100=
+%" style=3D"min-width: 240px; max-width: 530px;">
+=09=09</td>
+=09=09<td width=3D"12"></td>
+=09</tr>
+</table>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09<tr>
+=09=09<td height=3D"32"></td>
+=09</tr>
+=09<tr>
+=09=09<td align=3D"center">
+=09=09=09<font face=3D"Arial, Helvetica, sans-serif" size=3D"3" color=3D"#6=
+66666" style=3D"font-size: 18px;">
+=09=09=09=09<b>Conhe&ccedil;a todas as nossas solu&ccedil;&otilde;es</b>
+=09=09=09</font>
+=09=09</td>
+=09</tr>
+=09<tr>
+=09=09<td height=3D"16"></td>
+=09</tr>
+=09<tr>
+=09=09<td align=3D"center">
+=09=09=09<a href=3D"https://pagseguro.uol.com.br/acesso.jhtml" target=3D"_b=
+lank">
+=09=09=09=09<img src=3D"https://stc.pagseguro.uol.com.br/publisher/online/i=
+mages/60/2016/08/23/bt-acesse-sua-conta-1471972218878_232x50.png" alt=3D"Ac=
+esse sua conta" border=3D"0" style=3D"border: 0;">
+=09=09=09</a>
+=09=09</td>
+=09</tr>
+=09<tr>
+=09=09<td height=3D"32"></td>
+=09</tr>
+</table>
+
+<table border=3D"0" cellpadding=3D"10" cellspacing=3D"0">
+=09<tr>
+=09=09<td valign=3D"top">
+=09=09=09<table border=3D"0" cellpadding=3D"12" cellspacing=3D"0" width=3D"=
+100%" bgcolor=3D"#F2F2F2">
+=09=09=09=09<tr>
+=09=09=09=09=09<td valign=3D"top">
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%">
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09<td valign=3D"top" width=3D"38">
+=09=09=09=09=09=09=09=09=09<img style=3D"display:block" alt=3D"" width=3D"3=
+1" height=3D"28" src=3D"https://stc.pagseguro.uol.com.br/public/img/email/i=
+co_info.png">
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09<td valign=3D"top">
+=09=09=09=09=09=09=09=09=09<font face=3D"Arial, Helvetica, sans-serif" size=
+=3D"2" color=3D"#484848">
+=09=09=09=09=09=09=09=09=09=09<b>Lembre-se</b><br><br>
+=09=09=09=09=09=09=09=09=09</font>
+=09=09=09=09=09=09=09=09=09<font face=3D"Arial, Helvetica, sans-serif" size=
+=3D"2" color=3D"#484848">
+=09=09=09=09=09=09=09=09=09=09Para acompanhar as suas transa&ccedil;&otilde=
+;es ou alterar os dados da sua conta, <a href=3D"https://pagseguro.uol.com.=
+br/acesso.jhtml" target=3D"_blank">acesse sua conta</a> no site do PagSegur=
+o e vejo tudo isso e muito mais em uma &aacute;rea exclusiva para voc&ecirc=
+;.
+=09=09=09=09=09=09=09=09=09</font>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</table>
+=09=09</td>
+=09</tr>
+</table>
+
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td valign=3D"top">
+=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" width=3D"10"></td>
+=09=09=09=09=09=09=09=09=09=09<td align=3D"left">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<font =
+color=3D"#4f4f4f" face=3D"Arial" size=3D"-1">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09Para acompanhar as suas transa=E7=F5=
+es ou alterar os dados da sua conta, acesse <a href=3D"http://www.pagseguro=
+.com.br/" title=3D"PagSeguro UOL" target=3D"_blank">http://www.pagseguro.co=
+m.br</a>
+=09=09=09=09=09=09=09=09=09=09=09=09</font>
+=09=09=09=09=09=09=09=09=09=09=09=09<br><br>
+=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09<font color=3D"#4f4f4f" face=3D"Arial" siz=
+e=3D"2">
+=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09Atenciosamente,
+=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09Equipe PagSeguro
+=09=09=09=09=09=09=09=09=09=09=09</font>
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" width=3D"10"></td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td valign=3D"top" height=3D"20"></td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td>
+=09=09=09=09=09=09=09=09
+=09<table border=3D"0" cellpadding=3D"16" cellspacing=3D"0" width=3D"100%">
+=09=09<tr>
+=09=09=09<td>
+=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"border-top: 1px solid #DDDDDD">
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td height=3D"16"></td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center">
+=09=09=09=09=09=09=09<font face=3D"Arial, Helvetica, sans-serif" size=3D"2"=
+ color=3D"#999999">
+=09=09=09=09=09=09=09=09<font color=3D"#414141">Controle antifraude:</font>=
+ Sua frase de seguran&ccedil;a &eacute; <font color=3D"#57AB2B">familia</fo=
+nt><br><br>
+=09=09=09=09=09=09=09=09O controle antifraude garante a confiabilidade do r=
+emetente. Caso esta informa&ccedil;&atilde;o n&atilde;o apare&ccedil;a ou e=
+steja errada, denuncie! Algu&eacute;m pode estar usando o nome do UOL para =
+enviar e-mails maliciosos.
+=09=09=09=09=09=09=09</font>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</table>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td valign=3D"top" height=3D"36">
+=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" align=3D"center" width=3D"100%">
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" width=3D"8" height=3D"36">=
+</td>
+=09=09=09=09=09=09=09=09=09=09<td valign=3D"middle" height=3D"36" bgcolor=
+=3D"#f2f2f2" align=3D"center">
+=09=09=09=09=09=09=09=09=09=09=09<font color=3D"#4f4f4f" face=3D"Arial" siz=
+e=3D"2">
+=09=09=09=09=09=09=09=09=09=09=09=09D&uacute;vidas?
+=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https://pagseguro.uol.com.br=
+/atendimento/perguntas_frequentes.jhtml" title=3D"Saiba mais" style=3D"text=
+-decoration: none;" target=3D"_blank">Saiba mais</a>
+=09=09=09=09=09=09=09=09=09=09=09</font>
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" width=3D"8" height=3D"36">=
+</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td valign=3D"top" height=3D"2"></td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td valign=3D"top" height=3D"36">
+=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" align=3D"center" width=3D"100%">
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" width=3D"8" height=3D"36">=
+</td>
+=09=09=09=09=09=09=09=09=09=09<td valign=3D"middle" height=3D"36" bgcolor=
+=3D"#f2f2f2" align=3D"center">
+=09=09=09=09=09=09=09=09=09=09=09<font color=3D"#4f4f4f" face=3D"Arial" siz=
+e=3D"2">
+=09=09=09=09=09=09=09=09=09=09=09=09<img src=3D"https://stc.pagseguro.uol.c=
+om.br/public/img/email/lock.png" alt=3D"" width=3D"9" height=3D"11">&nbsp;
+=09=09=09=09=09=09=09=09=09=09=09=09<strong>PagSeguro.</strong> Sua compra =
+protegida.
+=09=09=09=09=09=09=09=09=09=09=09</font>
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" width=3D"8" height=3D"36">=
+</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td valign=3D"top" height=3D"5"></td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" align=3D"center" width=3D"100%">
+=09<tr>
+=09=09<td width=3D"20"></td>
+=09=09<td align=3D"center" valign=3D"middle" height=3D"80" bgcolor=3D"#f4f4=
+f4">
+=09=09=09<font color=3D"#4f4f4f" face=3D"Arial" size=3D"1">
+=09=09=09=09Essa &eacute; uma mensagem autom&aacute;tica. Por favor, n&atil=
+de;o responda a esse e-mail.
+=09=09=09=09<br><br>
+=09=09=09=09&#169;  1996-2016  UOL - O melhor conte&uacute;do. Todos os dir=
+eitos reservados.
+=09=09=09</font>
+=09=09</td>
+=09=09<td width=3D"20"></td>
+=09</tr>
+=09<tr>
+=09=09<td width=3D"20"></td>
+=09=09<td align=3D"center" valign=3D"top" height=3D"60">
+=09=09=09<img src=3D"https://stc.pagseguro.uol.com.br/publisher/online/imag=
+es/eb/2016/08/23/email-logo-uol-1471972531571_97x39.gif" alt=3D"UOL" width=
+=3D"97" height=3D"39" border=3D"0" align=3D"top" style=3D"display:block">
+=09=09</td>
+=09=09<td width=3D"20"></td>
+=09</tr>
+</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09</tr>
+=09=09</table>
+
+=09</body>
+</html>
+
+------=_Part_18424833_7630876.1477325675798--
+

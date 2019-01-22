@@ -1,0 +1,32 @@
+<?php
+$aLang['The form was not submitted for the following reasons:'] = 'Borang yang tidak diserahkan mengikut sebab-sebab:';
+$aLang['Please click'] = 'Sila Klik';
+$aLang['here'] = 'sini';
+$aLang['to return to the form and try again.'] = 'untuk pulang ke borang dan cuba lagi.';
+$aLang['Missing:'] = 'Hilang:';
+$aLang['Could not find online form configuration file ID='] = 'Tidak dapat mencari borang dalam talian fail tatarajah ID=';
+$aLang[' for RV SiteBuilder formmail.'] = ' untuk RV SiteBuilder formmail.';
+$aLang['I NEED VALID RECIPIENT EMAIL ADDRESS'] = 'SAYA MEMERLUKAN PENERIMA SAHIH ALAMAT EMAIL';
+$aLang['TO CONTINUE</b>'] = 'BERSAMBUNG</b>';
+$aLang['your <b>email address'] = 'anda punya <b>alamat emel';
+$aLang['</b> is invalid.'] = '</b> tidak sah.';
+$aLang['your <b>zip/postal code</b> is invalid'] = 'anda punya <b>zip/poskod</b> tidak sah';
+$aLang['your <b>phone number</b> is invalid'] = 'anda punya<b>nombor telefon</b> tidak sah';
+$aLang['your <b>fax number</b> is invalid'] = 'anda punya  <b>nombor fax</b>tidak sah';
+$aLang['Thank you for submitting your enquiry'] = 'Terima kasih kerana menyerahkan pertanyaan anda, kami akan menghubungi anda secepat mungkin.';
+$aLang['This form is powered by '] = 'Bentuk ini dijanakan oleh';
+$aLang['Please use your browser back button to return to the form and try again.'] = 'Sila gunakan pelayar anda menngunakan butang kembali untuk pulang ke borang dan cuba lagi.';
+$aLang['This form is powered by'] = 'Bentuk ini dijanakan oleh';
+$aLang['You are using from a <b>banned email address.</b>'] = 'Anda menggunakan daripada satu <b>alamat email disekat.</b>';
+$aLang['You are coming from an'] = 'Anda datang daripada';
+$aLang['You are coming from an <b>unauthorized domain.</b>'] = 'Anda datang daripada <b>domain tidak sah.</b>';
+$aLang['Spam mail detected.'] = 'Spam mel dikesan.';
+$aLang['Your message never be sent.'] = 'Mesej anda tidak pernah dihantar.';
+$aLang['If you accidentally get this error, please contact us for the resolution.'] = 'Jika anda dengan tidak sengaja mendapat ralat ini, sila hubungi kami untuk resolusi.';
+$aLang['This was an INVALID submission. You have acted like a spambot!'] = 'Ini adalah satu penyerahan INVALID. Anda pernah melakonkan seperti satu spambot!';
+$aLang['Cannot connect to sendmail server'] = 'Tidak boleh disambungkan kepada sendmail pelayan.';
+$aLang['Sending email from'] = 'Menghantar emel daripada';
+$aLang['to'] = 'kepada';
+$aLang['failed'] = 'gagal';
+$aLang['Thank you for your submission'] = 'Thank you for your submission';
+?>

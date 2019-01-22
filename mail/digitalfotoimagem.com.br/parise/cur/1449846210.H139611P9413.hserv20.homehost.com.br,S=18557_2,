@@ -1,0 +1,503 @@
+Return-path: <delivery@mx.sailthru.com>
+Envelope-to: parise@digitalfotoimagem.com.br
+Delivery-date: Fri, 11 Dec 2015 13:03:30 -0200
+Received: from pmta3.sailthru.com ([192.64.237.241]:15542)
+	by hserv20.homehost.com.br with esmtp (Exim 4.86)
+	(envelope-from <delivery@mx.sailthru.com>)
+	id 1a7PEH-0002In-OB
+	for parise@digitalfotoimagem.com.br; Fri, 11 Dec 2015 13:03:30 -0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=pmta.sailthru.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+ bh=DUAwseDnbQpemMkvESK0c7W5op0=;
+ b=KOqN8zkaOFolkCDZwFQHeU4L9jFM61S6bSYoN7T4H5u5l+ba9K7KV1fqG6VxTAS5U7sc7D8kX5HU
+   EqZkjsAACXaaLDezqjKLGRa2mAErY5OrjZsSJ/c4AB0vjkPTFbjrbkwn0bV2bgvJKkJkGxTOBnoc
+   NvzgZlgW0vHPHxoswXM=
+Received: from njmta-149.sailthru.com (173.228.155.149) by pmta3.sailthru.com id hdbiru1qqbsm for <parise@digitalfotoimagem.com.br>; Fri, 11 Dec 2015 10:02:14 -0500 (envelope-from <delivery@mx.sailthru.com>)
+Received: from nj1-tancanary.flt (172.18.20.9) by njmta-149.sailthru.com id hdbinc1qqbs8 for <parise@digitalfotoimagem.com.br>; Fri, 11 Dec 2015 10:01:49 -0500 (envelope-from <delivery@mx.sailthru.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1449846109;
+	s=sailthru; d=e.pond5.com;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+	bh=D0aAOnMjPKR9FePmECI0nX0lkvAiELTnHxELx+bf7vM=;
+	b=q+f2lzNifMpu6mdP137Ld3mSNpdfTUKov2CbkEFXkeZtBAk3KSCTiJgbqAdrWoVE
+	fMZc2dwDtYFy4R4FQZVj7a0h+VZ9K3IXyEhSGQ88pSdxA72tzxkNpcsl8kSqCYFcAUi
+	0Si14ujxxADpnGbOj6hW0AzfEsEJ+YqBOFUWQvXI=
+Date: Fri, 11 Dec 2015 10:01:49 -0500 (EST)
+From: Pond5 <hello@e.pond5.com>
+Reply-To: promotions@pond5.com
+To: parise@digitalfotoimagem.com.br
+Message-ID: <20151211100149.5656834.203419@sailthru.com>
+Subject: =?utf-8?B?WW914oCZcmUgaW52aXRlZCB0byBiZWNv?=
+ =?utf-8?B?bWUgYSBQb25kNSBBbWJhc3NhZG9yIQ==?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_26651756_585855842.1449846109890"
+Precedence: bulk
+X-TM-ID: 20151211100149.5656834.203419
+X-Info: Message sent by sailthru.com customer Pond5
+X-Info: We do not permit unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: abuse@sailthru.com
+X-Mailer: sailthru.com
+X-Unsubscribe-Web: http://link.pond5.com/oc/56181c9d3b35d0081e8b48d63d8ua.4cyj/9bac8fc3
+List-Unsubscribe: <http://link.pond5.com/oc/56181c9d3b35d0081e8b48d63d8ua.4cyj/9bac8fc3>, <mailto:unsubscribe_20151211100149.5656834.203419@mx.sailthru.com>
+X-rpcampaign: stjsd5656834
+
+------=_Part_26651756_585855842.1449846109890
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"en" lang=3D"en">
+<head>
+<title>You=E2=80=99re invited to become a Pond5 Ambassador!</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"/>
+<meta name=3D"description" content=3D"Insider-only perks await you in the P=
+ond5 Beta Ambassador Program!"/>
+<style type=3D"text/css">
+@import url(https://fonts.googleapis.com/css?family=3DOpen+Sans:400,300,300=
+italic,600,700&subset=3Dlatin,cyrillic);
+[style*=3D"Open Sans"] {
+font-family: 'Open Sans', Helvetica, Arial !important;
+}
+body {
+font-family: Helvetica, Arial, 'Open Sans';
+background: #364249;
+font-size: 14px;
+font-weight: 300;
+color: #6b6b6b;
+}
+p {
+font-size: 18px;
+font-weight: 300;
+color: #6b6b6b;
+}
+a {
+color: #247cc9;
+text-decoration: underline;
+}
+li {
+font-size:16px;
+}
+#background-area {
+min-width: 620px;
+border-collapse: collapse;
+padding: 10px;
+background: #364249;
+table-layout: fixed;
+text-align: center;
+}
+#message-container {
+background: #ffffff;
+width: 600px;
+margin: auto;
+}
+#header {
+background: #3283d4;
+font-size: 12px;
+font-weight: 600;
+color: #ffffff;
+text-align: center;
+-webkit-text-size-adjust: none;
+}
+.receiptblock {
+background: #e1e1e1;
+font-size: 15px;
+font-weight: 300;
+color: #6b6b6b;
+text-align: left;
+}
+#dark-footer {
+background: #222931;
+font-size: 15px;
+font-weight: 200;
+color: #c4c4c4;
+text-align: center;
+}
+#help {
+font-size: 15px;
+font-weight: 200;
+color: #4d4d4d;
+text-align: center;
+}
+#footer {
+font-size: 9px;
+color: rgb(102, 102, 102);
+text-align: center;
+-webkit-text-size-adjust: none;
+}
+.headerlinks {
+font-size: 12px;
+font-weight: 300;
+text-decoration: none;
+text-align: center;
+color: #ffffff;
+}
+.newslettertitle {
+font-size: 32px;
+font-weight: 300;
+text-align: left;
+color: #ababab;
+}
+.newslettermonth {
+font-size: 19px;
+font-weight: 300;
+text-align: right;
+color: #ababab;
+}
+.headline {
+font-size: 26px;
+font-weight: 300;
+text-align: center;
+color: #6b6b6b;
+}
+.videodescription {
+font-size: 16px;
+font-weight: 300;
+text-align: center;
+color: #6b6b6b;
+}
+.buttonbackground {
+background: #f9a51b;
+vertical-align: middle;
+text-align: center;
+}
+.buttontext {
+font-size: 18px;
+color: #ffffff;
+}
+.footerlinks {
+font-size: 9px;
+color: #3f98e4;
+text-decoration: underline;
+}
+</style>
+</head>
+<body style=3D"font-family:Helvetica, Arial, 'Open Sans';background-color:#=
+364249;background-image:none;background-repeat:repeat;background-position:t=
+op left;background-attachment:scroll;font-size:14px;font-weight:300;color:#=
+6b6b6b;" >
+<div style=3D"display:none;font-size:1px;color:#333333;line-height:1px;max-=
+height:0px;max-width:0px;opacity:0;overflow:hidden;" >
+Insider-only perks await you in the Pond5 Beta Ambassador Program!
+</div>
+<table id=3D"background-area" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" style=3D"min-width:620px;border-collapse:collapse;padding-top:10px;pa=
+dding-bottom:10px;padding-right:10px;padding-left:10px;background-color:#36=
+4249;background-image:none;background-repeat:repeat;background-position:top=
+ left;background-attachment:scroll;table-layout:fixed;text-align:center;" >
+<tbody>
+<tr>
+<td>
+<center>
+<br />
+<table id=3D"message-container" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"background-color:#ffffff;background-image:none;background-repeat:repeat=
+;background-position:top left;background-attachment:scroll;width:600px;marg=
+in-top:auto;margin-bottom:auto;margin-right:auto;margin-left:auto;" >
+<tbody>
+<tr>
+<td>
+<table id=3D"header" width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" sty=
+le=3D"background-color:#3283d4;background-image:none;background-repeat:repe=
+at;background-position:top left;background-attachment:scroll;font-size:12px=
+;font-weight:300;color:#ffffff;text-align:center;-webkit-text-size-adjust:n=
+one;">
+<tbody>
+<tr style=3D"height:56px;">
+<td style=3D"width:26.666%;">
+<a href=3D"http://link.pond5.com/click/5656834.203419/aHR0cDovL3d3dy5lLnBvb=
+mQ1LmNvbT91dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1icmFuZGFtYmFzc2Fkb3JpbnZp=
+dGF0aW9uJnV0bV9zb3VyY2U9c2FpbHRocnU/56181c9d3b35d0081e8b48d6B7ebb1574"><img=
+ src=3D"http://link.pond5.com/img/56181c9d3b35d0081e8b48d63d8ua.4cyj/de9897=
+4b.gif" alt=3D"" border=3D"0" /></a><a href=3D"http://link.pond5.com/click/=
+5656834.203419/aHR0cHM6Ly93d3cucG9uZDUuY29tLz91dG1fc291cmNlPXNhaWx0aHJ1JnV0=
+bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9aGVhZGVyJnV0bV9jYW1wYWlnbj1icmFuZGFtYmF=
+zc2Fkb3JpbnZpdGF0aW9u/56181c9d3b35d0081e8b48d6Ba230a394" style=3D"color:#24=
+7cc9;text-decoration:none;"><img alt=3D"logo" src=3D"http://media.sailthru.=
+com/52q/1jz/a/8/56161318cc012.png"></a>
+</td>
+<td style=3D"width:3.333%;">&nbsp;</td>
+<td style=3D"width:9%;">
+<a class=3D"headerlinks" href=3D"http://link.pond5.com/click/5656834.203419=
+/aHR0cDovL3d3dy5wb25kNS5jb20vc3RvY2stdmlkZW8tZm9vdGFnZS8_dXRtX3NvdXJjZT1zYW=
+lsdGhydSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PWhlYWRlciZ1dG1fY2FtcGFpZ249Y=
+nJhbmRhbWJhc3NhZG9yaW52aXRhdGlvbg/56181c9d3b35d0081e8b48d6Befe85c4d" style=
+=3D"text-decoration:none;font-size:12px;font-weight:300;text-align:center;c=
+olor:#ffffff;">Footage</a>
+</td>
+<td style=3D"width:1%;">&nbsp;</td>
+<td style=3D"width:7%;">
+<a class=3D"headerlinks" href=3D"http://link.pond5.com/click/5656834.203419=
+/aHR0cDovL3d3dy5wb25kNS5jb20vcm95YWx0eS1mcmVlLW11c2ljLz91dG1fc291cmNlPXNhaW=
+x0aHJ1JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9aGVhZGVyJnV0bV9jYW1wYWlnbj1ic=
+mFuZGFtYmFzc2Fkb3JpbnZpdGF0aW9u/56181c9d3b35d0081e8b48d6B8e167888" style=3D=
+"text-decoration:none;font-size:12px;font-weight:300;text-align:center;colo=
+r:#ffffff;">Music</a>
+</td>
+<td style=3D"width:1%;">&nbsp;</td>
+<td style=3D"width:15%;">
+<a class=3D"headerlinks" href=3D"http://link.pond5.com/click/5656834.203419=
+/aHR0cDovL3d3dy5wb25kNS5jb20vc291bmQtZWZmZWN0cy8_dXRtX3NvdXJjZT1zYWlsdGhydS=
+Z1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PWhlYWRlciZ1dG1fY2FtcGFpZ249YnJhbmRhb=
+WJhc3NhZG9yaW52aXRhdGlvbg/56181c9d3b35d0081e8b48d6Bb7af512f" style=3D"text-=
+decoration:none;font-size:12px;font-weight:300;text-align:center;color:#fff=
+fff;">Sound Effects</a>
+</td>
+<td style=3D"width:1%;">&nbsp;</td>
+<td style=3D"width:13%;">
+<a class=3D"headerlinks" href=3D"http://link.pond5.com/click/5656834.203419=
+/aHR0cDovL3d3dy5wb25kNS5jb20vYWZ0ZXItZWZmZWN0cy8_dXRtX3NvdXJjZT1zYWlsdGhydS=
+Z1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PWhlYWRlciZ1dG1fY2FtcGFpZ249YnJhbmRhb=
+WJhc3NhZG9yaW52aXRhdGlvbg/56181c9d3b35d0081e8b48d6B37da5dc3" style=3D"text-=
+decoration:none;font-size:12px;font-weight:300;text-align:center;color:#fff=
+fff;">After Effects</a>
+</td>
+<td style=3D"width:1%;">&nbsp;</td>
+<td style=3D"width:8%;">
+<a class=3D"headerlinks" href=3D"http://link.pond5.com/click/5656834.203419=
+/aHR0cDovL3d3dy5wb25kNS5jb20vc3RvY2staW1hZ2VzLz91dG1fc291cmNlPXNhaWx0aHJ1Jn=
+V0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9aGVhZGVyJnV0bV9jYW1wYWlnbj1icmFuZGFtY=
+mFzc2Fkb3JpbnZpdGF0aW9u/56181c9d3b35d0081e8b48d6B7303deea" style=3D"text-de=
+coration:none;font-size:12px;font-weight:300;text-align:center;color:#fffff=
+f;">Images</a>
+</td>
+<td style=3D"width:1%;">&nbsp;</td>
+<td style=3D"width:13%;">
+<a class=3D"headerlinks" href=3D"http://link.pond5.com/click/5656834.203419=
+/aHR0cDovL3d3dy5wb25kNS5jb20vM2QtbW9kZWxzLz91dG1fc291cmNlPXNhaWx0aHJ1JnV0bV=
+9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9aGVhZGVyJnV0bV9jYW1wYWlnbj1icmFuZGFtYmFzc=
+2Fkb3JpbnZpdGF0aW9u/56181c9d3b35d0081e8b48d6B57561c76" style=3D"text-decora=
+tion:none;font-size:12px;font-weight:300;text-align:center;color:#ffffff;">=
+3D Models</a>
+</td>
+<td style=3D"width:1%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<span style=3D"line-height:12px;" ><br/></span>
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td style=3D"width:5%;" >
+&nbsp;
+</td>
+<td class=3D"headline" style=3D"width:90%;vertical-align:middle;font-size:2=
+8px;font-weight:400;text-align:center;color:#6b6b6b;" >
+Apply to be a Pond5 Brand Ambassador
+</td>
+<td style=3D"width:5%;" >
+&nbsp;
+</td>
+</tr>
+</tbody>
+</table>
+<span style=3D"line-height:12px;" ><br/></span>
+<table class=3D"receiptblock" height=3D"200px" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"width:100%;background-color:#e1e1e1;background-image:none;=
+background-repeat:repeat;background-position:top left;background-attachment=
+:scroll;font-size:15px;font-weight:300;color:#6b6b6b;text-align:left;" >
+<tbody>
+<tr>
+<td style=3D"width:100%; font-size:0px;" >
+<a href=3D"http://link.pond5.com/click/5656834.203419/aHR0cHM6Ly9kb2NzLmdvb=
+2dsZS5jb20vYS9wb25kNS5jb20vZm9ybXMvZC8xcklIeDhWTml6SXRvdzIwUHhWbnJzcWxkM1Va=
+S3hadHRBdzJnR3B2VmJDUS92aWV3Zm9ybT91dG1fc291cmNlPXNhaWx0aHJ1JnV0bV9tZWRpdW0=
+9ZW1haWwmdXRtX2NvbnRlbnQ9aGVhZGVyaW1hZ2UmdXRtX2NhbXBhaWduPWJyYW5kYW1iYXNzYW=
+Rvcmludml0YXRpb24/56181c9d3b35d0081e8b48d6B1e129a73" style=3D"color:#247cc9=
+;text-decoration:underline;" ><img alt=3D"Header" width=3D"100%" src=3D"htt=
+p://media.sailthru.com/523/1jz/b/3/5638d7fd9105c.gif"/></a>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td style=3D"width:30px;" >
+&nbsp;
+</td>
+<td style=3D"width:540px;" >
+<br />
+<p style=3D"text-align:left;font-size:16px;font-weight:300;color:#6b6b6b;" =
+>Dear media maker,<br />
+<br />
+As one of the most valued members of our community, you=E2=80=99ve been spe=
+cially selected to apply to our Beta Pond5 Ambassador Program!<br />
+<br />
+The Pond5 Ambassador program will offer members the chance to represent and=
+ support Pond5 through their own networks and branded outreach. It also com=
+es with the opportunity to receive insider-only perks, such as:<br />
+<ul type=3D"round">
+<li>Private invites for future product reveals</li>
+<li>The chance to showcase your work or company to our global community</li=
+>
+<li>Exclusive discounts for your personal and commercial projects</li>
+<li>Prize giveaways, including gear, free media, software, and more</li>
+<li>Official Pond5 swag</li>
+<li>VIP treatment at Pond5 events and parties</li>
+</ul></p>
+</td>
+<td style=3D"width:30px;" >
+&nbsp;
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+<table height=3D"64px" cellspacing=3D0 cellpadding=3D0 style=3D"width:100%;=
+text-align:center;font-weight:400;" >
+<tbody>
+<tr>
+<td style=3D"width:18%;" >&nbsp;</td>
+<td style=3D"width:5%; font-size: 0px;" >
+<img alt=3D"" src=3D"http://media.sailthru.com/523/1jz/b/j/564e01b7c0805.jp=
+g">
+</td>
+<td class=3D"button" style=3D"width:54%;background-color:#fe9425;background=
+-image:none;background-repeat:repeat;background-position:top left;backgroun=
+d-attachment:scroll;vertical-align:middle;font-size:18px;color:#ffffff;text=
+-align:center;" >
+<a href=3D"http://link.pond5.com/click/5656834.203419/aHR0cHM6Ly9kb2NzLmdvb=
+2dsZS5jb20vYS9wb25kNS5jb20vZm9ybXMvZC8xcklIeDhWTml6SXRvdzIwUHhWbnJzcWxkM1Va=
+S3hadHRBdzJnR3B2VmJDUS92aWV3Zm9ybT91dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1=
+icmFuZGFtYmFzc2Fkb3JpbnZpdGF0aW9uJnV0bV9zb3VyY2U9c2FpbHRocnU/56181c9d3b35d0=
+081e8b48d6C95e750e8" style=3D"color:#247cc9;text-decoration:none;" ><span c=
+lass=3D"buttontext" style=3D"font-size:18px;color:#ffffff;" >Count me in!</=
+span></a>
+</td>
+<td style=3D"width:5%; font-size: 0px;" >
+<img alt=3D"" src=3D"http://media.sailthru.com/523/1jz/b/j/564e02192448c.jp=
+g">
+</td>
+<td style=3D"width:18%;" >&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<br />
+<table cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td style=3D"width:30px;" >
+&nbsp;
+</td>
+<td style=3D"width:540px;" >
+<p style=3D"text-align:left;font-size:16px;font-weight:300;color:#6b6b6b;" =
+>If you=E2=80=99d like to be considered for a spot as one of our very first=
+ Pond5 Brand Ambassadors, just click through and answer a few quick questio=
+ns.<br />
+<br />
+Your friends,<br/>
+<span style=3D"line-height:4px;" ><br/></span>
+The Pond5 Crew<br />
+<br />
+</p>
+</td>
+<td style=3D"width:30px;" >
+&nbsp;
+</td>
+</tr>
+</tbody>
+</table>
+<table id=3D"dark-footer" height=3D"120px" width=3D"100%" style=3D"backgrou=
+nd-color:#222931;background-image:none;background-repeat:repeat;background-=
+position:top left;background-attachment:scroll;font-size:15px;font-weight:2=
+00;color:#c4c4c4;text-align:center;">
+<tbody>
+<tr>
+<td style=3D"vertical-align:top;">
+<br />
+Follow Pond5
+<br />
+<table id=3D"dark-footer" width=3D"100%" style=3D"background-color:#222931;=
+background-image:none;background-repeat:repeat;background-position:top left=
+;background-attachment:scroll;font-size:15px;font-weight:200;color:#c4c4c4;=
+text-align:center;">
+<tbody>
+<tr>
+<td style=3D"width:32%;">&nbsp;</td>
+<td style=3D"width:9%;">
+<a href=3D"http://link.pond5.com/click/5656834.203419/aHR0cDovL3d3dy5mYWNlY=
+m9vay5jb20vcG9uZDU_dXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249YnJhbmRhbWJhc3Nh=
+ZG9yaW52aXRhdGlvbiZ1dG1fc291cmNlPXNhaWx0aHJ1/56181c9d3b35d0081e8b48d6B1342a=
+670" style=3D"color:#247cc9;text-decoration:none;"><img alt=3D"facebook" sr=
+c=3D"http://media.sailthru.com/52q/1jz/a/2/560e38d690d7d.png" style=3D"widt=
+h:45px;border-width:medium;border-style:none;"></a>
+</td>
+<td style=3D"width:9%;">
+<a href=3D"http://link.pond5.com/click/5656834.203419/aHR0cDovL3d3dy50d2l0d=
+GVyLmNvbS9wb25kNT91dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1icmFuZGFtYmFzc2Fk=
+b3JpbnZpdGF0aW9uJnV0bV9zb3VyY2U9c2FpbHRocnU/56181c9d3b35d0081e8b48d6Bfe6e6d=
+27" style=3D"color:#247cc9;text-decoration:none;"><img alt=3D"twitter" src=
+=3D"http://media.sailthru.com/52q/1jz/a/2/560e3911db487.png" style=3D"width=
+:45px;border-width:medium;border-style:none;"></a>
+</td>
+<td style=3D"width:9%;">
+<a href=3D"http://link.pond5.com/click/5656834.203419/aHR0cHM6Ly9wbHVzLmdvb=
+2dsZS5jb20vK3BvbmQ1L3Bvc3RzP3V0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWJyYW5k=
+YW1iYXNzYWRvcmludml0YXRpb24mdXRtX3NvdXJjZT1zYWlsdGhydQ/56181c9d3b35d0081e8b=
+48d6Bfe9d8c46" style=3D"color:#247cc9;text-decoration:none;"><img alt=3D"Go=
+ogle+" src=3D"http://media.sailthru.com/52q/1jz/a/2/560e39498945e.png" styl=
+e=3D"width:45px;border-style:none;"></a>
+</td>
+<td style=3D"width:9%;">
+<a href=3D"http://link.pond5.com/click/5656834.203419/aHR0cDovL2Jsb2cucG9uZ=
+DUuY29tLz91dG1fc291cmNlPXNhaWx0aHJ1JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRlbnQ9=
+Zm9vdGVyJnV0bV9jYW1wYWlnbj1icmFuZGFtYmFzc2Fkb3JpbnZpdGF0aW9u/56181c9d3b35d0=
+081e8b48d6Bacd5cb09" style=3D"color:#247cc9;text-decoration:none;"><img alt=
+=3D"blog" src=3D"http://media.sailthru.com/52q/1jz/a/2/560e39ac18a36.png" s=
+tyle=3D"width:42px;height:42px;border-style:none;"></a>
+</td>
+<td style=3D"width:32%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table id=3D"footer" width=3D"100%" style=3D"font-size:9px;color:rgb(102, 1=
+02, 102);text-align:center;-webkit-text-size-adjust:none;">
+<tbody>
+<tr style=3D"height:56px;">
+<td style=3D"width:5%;">&nbsp;</td>
+<td style=3D"width:31%;">
+<a class=3D"footerlinks" href=3D"http://link.pond5.com/view/56181c9d3b35d00=
+81e8b48d63d8ua.4cyj/bd815d22" style=3D"font-size:9px;color:#3f98e4;text-dec=
+oration:underline;">VIEW THIS MESSAGE</a>&nbsp;IN YOUR BROWSER
+</td>
+<td style=3D"width:2%;">|</td>
+<td style=3D"width:29%;">
+UPDATE YOUR&nbsp;<a class=3D"footerlinks"                                  =
+                           href=3D"http://link.pond5.com/click/5656834.2034=
+19/aHR0cDovL3d3dy5wb25kNS5jb20vaW5kZXgucGhwP3BhZ2U9bXlfcHJlZmVyZW5jZXMmdXRt=
+X3NvdXJjZT1zYWlsdGhydSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jb250ZW50PWZvb3RlciZ1dG1=
+fY2FtcGFpZ249YnJhbmRhbWJhc3NhZG9yaW52aXRhdGlvbg/56181c9d3b35d0081e8b48d6B60=
+64de85"
+style=3D"font-size:9px;color:#3f98e4;text-decoration:underline;">EMAIL PREF=
+ERENCES</a>
+</td>
+<td style=3D"width:2%;">|</td>
+<td style=3D"width:24%;">
+<a class=3D"footerlinks" href=3D"http://link.pond5.com/oc/56181c9d3b35d0081=
+e8b48d63d8ua.4cyj/9bac8fc3" style=3D"font-size:9px;color:#3f98e4;text-decor=
+ation:underline;">UNSUBSCRIBE FROM THIS LIST</a>
+</td>
+<td style=3D"width:5%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
+------=_Part_26651756_585855842.1449846109890--
+

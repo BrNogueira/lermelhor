@@ -1,0 +1,193 @@
+Return-Path: <wanderleyssamtos@gmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br with LMTP id +H/KFwcu71lILwwAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Tue, 24 Oct 2017 10:11:51 -0200
+Return-path: <wanderleyssamtos@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 24 Oct 2017 10:11:51 -0200
+Received: from mail-qt0-f196.google.com ([209.85.216.196]:52747)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <wanderleyssamtos@gmail.com>)
+	id 1e6y3j-003QJb-7N
+	for marco@digitalfotoimagem.com.br; Tue, 24 Oct 2017 10:11:51 -0200
+Received: by mail-qt0-f196.google.com with SMTP id 31so30030207qtz.9
+        for <marco@digitalfotoimagem.com.br>; Tue, 24 Oct 2017 05:11:29 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc;
+        bh=KTVuUYdOJCFwCV1xfckp8qqOvk7BKAjOjDW78veZKok=;
+        b=SphyW5SdUea14jgXM03W8kmXRdEr8jCOoli1L39QeiabAv6iuwC/e+rqX5o988TBea
+         ChZbspYHCULiML5Axt81xkoQcmcd1LVI76DAQ6YU+2lTr7+VhXLO7QhAs6Z8sH+zeYCM
+         8+2CZJMewHecAGwxdgbFa9Vv1/uszFFW7mHMhOJcV/jguvKnMDKZUV8KGuoYf7SX8sM5
+         Ap9luAaYMWfgyIsCmRxVkJDV25LFO4YoBwyj0YDFe7ygp9jhT9JFpNON/fUDwkINO0Aa
+         vDLgGsAENOm1vgkmshlxqXc+J5lMjvgq5+1k/WFGndZMOsKfiGhQ16hB7Gtf0OWcEGKy
+         GNqg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:cc;
+        bh=KTVuUYdOJCFwCV1xfckp8qqOvk7BKAjOjDW78veZKok=;
+        b=nTwdjZF+5xTeC3/VMqjXUW8sw/dzKBWTC9zMG1Hvoj8jHJrgcSfNEya+iRYDqpJLse
+         1hCyy2p4Q2iNIM1D7i+dgN0MtU6WPfpNCVuuwjFIgsS3AMWO85GZzpqSJFTltQjE+gR3
+         ot344JKbMebmOOCFMv7nRBhw1D23eDbF5cICOBBD3LSrRjG9R2sITa2rYjOzCXsF40g/
+         MqUk2CY0gAqjtDK+woveaU0TN+g2bQwtgvMlI7jFHVQszR9UqqSJ2gkdwlzD5ecdCDKP
+         wz93NEM7zKUvyA66vsCjrK5fM+eBi0OWm/TkmPtL3bOh2lCTm/jIFCVnM8I/wMRCNwxR
+         I39A==
+X-Gm-Message-State: AMCzsaXnZZXQck/Xyn1FTHs6owijfA/h8fQnSaE8ywIniZRH1zGQmjPa
+	tCzU86HzOV1bPIDRFa9W/ph61W5QdBJYLx97O4g=
+X-Google-Smtp-Source: ABhQp+Q2GdIKG7j2T8x7qAuVZkylR3DldNwgjOvAZNj5cZwgtXceoclT61lPgjIgZE6l1OlFlQEZHS1k8D3dQxr4N5A=
+X-Received: by 10.200.40.146 with SMTP id i18mr24375552qti.79.1508847067661;
+ Tue, 24 Oct 2017 05:11:07 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.12.157.217 with HTTP; Tue, 24 Oct 2017 05:11:07 -0700 (PDT)
+In-Reply-To: <01d301d34c78$5f31ebd0$1d95c370$@com.br>
+References: <005501d30c0a$390dac40$ab2904c0$@com.br> <01d301d34c78$5f31ebd0$1d95c370$@com.br>
+From: "Wanderley Samtos .'." <wanderleyssamtos@gmail.com>
+Date: Tue, 24 Oct 2017 10:11:07 -0200
+Message-ID: <CAD5DfqAsUA6vq8or_SHnh-MnSA8-c-MHP65NSnD1YbfUQzTYjA@mail.gmail.com>
+Subject: =?UTF-8?B?UmU6IFBhcmFiw6lucyDDoCBQYXRyw61jaWEsIE5vc3NhIEFuaXZlcnNhcmlhbnRlIGRlIA==?=
+	=?UTF-8?B?SG9qZSwgMjQvMTAvMjAxNyEhIQ==?=
+To: Egoshi da CTT3843 <ctt3843@egoshi.com.br>
+Cc: Humberto de Oliveira Serrano <humberto.serrano@hotmail.com>, 
+	Andre Luis Pereira de Godoi <andrelpgodoi@gmail.com>, Antonio Finardi <ma.finardi@hotmail.com>, 
+	Antonio Celso Tessari <celsotessari@gmail.com>, Antonio Kossei Takara <takar2@terra.com.br>, 
+	=?UTF-8?Q?Benedito_Carlos_Flam=C3=ADnio?= <carlos.flaminio@gmail.com>, 
+	Carlos Mave de Campos Assis <cmave96@gmail.com>, =?UTF-8?Q?Carlos_Rosseti_=28Kak=C3=A1=29?= <carlos.rossetti@uol.com.br>, 
+	=?UTF-8?Q?Dem=C3=A9trio_Muniz_Pendek?= <demetriopendek@hotmail.com>, 
+	Eduardo Camacho <eduardocamacho@uol.com.br>, Eduardo Lopes <ebernardinolopes@uol.com.br>, 
+	Ernani Flausino <ernani.flausino@terra.com.br>, 
+	Everth Alves Bonavolonta <everth@mixlav.com.br>, =?UTF-8?Q?F=C3=A1bio_Roberto_Faria?= <szfaria@gmail.com>, 
+	Fernando Ziesmann Fortes <fernandozf@hotmail.com>, Gilberto Campos <gdcampos@uol.com.br>, 
+	=?UTF-8?Q?H=C3=A9lio_Alvarez_Felix?= <helioamandara@uol.com.br>, 
+	Hideraldo Rodrigues Gomes <enghgomes@gmail.com>, Jair Airton Felix <j.felix10@bol.com.br>, 
+	Johannes Kozlowski <jkozlowski@uol.com.br>, =?UTF-8?Q?Jos=C3=A9_Carlos_de_Lima?= <jcl@tech-air.com.br>, 
+	=?UTF-8?Q?J=C3=BAlio_Cesar_Mattos_de_Faria?= <mattosfaria@terra.com.br>, 
+	Marcelo Eloy Fernandes <marceloeloyfernandes@gmail.com>, 
+	Marcilio Marques Testa <mmtesta43@gmail.com>, Marco Antonio Patriniani <marckopat@live.com>, 
+	=?UTF-8?Q?Marco_Ant=C3=B4nio_Pedrosa_Parise?= <marco@digitalfotoimagem.com.br>, 
+	Marcus Welbi <marcuswelbi@crivodarazao.org.br>, Natanael Costa <ncosta@usa.com>, 
+	Nelson Pendek <nelpendek@hotmail.com>, 
+	"Ricardo C. A. Carvalho" <ricardocarvalho930@gmail.com>, 
+	=?UTF-8?Q?Sebasti=C3=A3o_Rubens_Costa?= <rubens@linart.com.br>, 
+	Silvio Verdiani <sverdiani@terra.com.br>, Sylvio Quintino Junior <squintinoj@gmail.com>, 
+	Wellington Alfano Rodrigues Silva <alfanohi@gmail.com>, Wladimir Viveiro <wviveiro@live.com>, 
+	=?UTF-8?Q?S=C3=A9rgio_Fosque?= <sergio@aresultado.adm.br>, 
+	=?UTF-8?Q?Andr=C3=A9_Rivail_Medrado?= <professor@medrado.adv.br>, 
+	Alexandre Dellamura Sarmento <dellamura@uol.com.br>
+Content-Type: multipart/alternative; boundary="001a11403d0a7d08d1055c49d5d0"
+
+--001a11403d0a7d08d1055c49d5d0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Meus IIr.'. muito bom dia a todos, especialmente a nossa sobrinha Patricia,
+que o Gadu aben=C3=A7oe enormemente com muitas alegrias, muita sa=C3=BAde e=
+ muitas
+felicidades FELIZ ANIVERS=C3=81RIO
+TFA .'.
+
+*Wanderley dos Samtos .'.*
+*accounting expertise*
+*wanderleyssamtos@gmail.com <wanderleyssamtos@gmail.com>*
+
+
+
+*wanderleysamtos.blogspot.com.br
+<http://wanderleysamtos.blogspot.com.br>011-96323.11.10O homem de bem exige
+tudo de si pr=C3=B3prio, omed=C3=ADocre espera tudo dos outros(Conf=C3=BAci=
+o)*
+
+Em 24 de outubro de 2017 01:29, Egoshi da CTT3843 <ctt3843@egoshi.com.br>
+escreveu:
+
+> Parab=C3=A9ns =C3=A0 nossa querida sobrinha Patr=C3=ADcia que est=C3=A1 a=
+niversariando hoje!!!
+>
+>
+>
+> Patr=C3=ADcia =C3=A9 filha do nosso querido Ir\ Serrano.
+>
+>
+>
+> =C3=80 Patr=C3=ADcia, ao Ir\ Serrano e a Toda a Sua Fam=C3=ADlia, ensejam=
+os nossos mais
+> sinceros votos de felicidade e sucesso na vida!!!
+>
+>
+>
+> Fraternalmente
+>
+>
+>
+>
+>
+>
+>
+> ---
+> Este email foi escaneado pelo Avast antiv=C3=ADrus.
+> https://www.avast.com/antivirus
+>
+
+--001a11403d0a7d08d1055c49d5d0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Meus IIr.&#39;. muito bom dia a todos, especialmente a nos=
+sa sobrinha Patricia, que o Gadu aben=C3=A7oe enormemente com muitas alegri=
+as, muita sa=C3=BAde e muitas felicidades FELIZ ANIVERS=C3=81RIO<div>TFA .&=
+#39;.</div></div><div class=3D"gmail_extra"><br clear=3D"all"><div><div cla=
+ss=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div dir=3D"ltr">=
+<div><div dir=3D"ltr"><div style=3D"color:rgb(51,51,51);font-family:sans-se=
+rif,Arial,Verdana,&quot;Trebuchet MS&quot;;font-size:13px;line-height:20.8p=
+x"><em><span style=3D"font-family:&quot;courier new&quot;,courier"><strong>=
+Wanderley dos Samtos .&#39;.</strong></span></em></div><div style=3D"color:=
+rgb(51,51,51);font-family:sans-serif,Arial,Verdana,&quot;Trebuchet MS&quot;=
+;font-size:13px;line-height:20.8px"><em><span style=3D"font-family:&quot;co=
+urier new&quot;,courier"><strong>accounting expertise</strong></span></em><=
+/div><font face=3D"courier new, courier"><span style=3D"font-size:13px;line=
+-height:20.8px"><b><i><a href=3D"mailto:wanderleyssamtos@gmail.com" target=
+=3D"_blank">wanderleyssamtos@gmail.com</a></i></b></span></font><br><div st=
+yle=3D"color:rgb(51,51,51);font-family:sans-serif,Arial,Verdana,&quot;Trebu=
+chet MS&quot;;font-size:13px;line-height:20.8px"><em><span style=3D"font-fa=
+mily:&quot;courier new&quot;,courier"><a href=3D"http://wanderleysamtos.blo=
+gspot.com.br" target=3D"_blank">wanderleysamtos.blogspot.com.br</a><br><str=
+ong>011-96323.11.10<br>O homem de bem exige tudo de si pr=C3=B3prio,=C2=A0o=
+<br>med=C3=ADocre espera tudo dos outros(Conf=C3=BAcio)</strong></span></em=
+></div></div></div></div></div></div>
+<br><div class=3D"gmail_quote">Em 24 de outubro de 2017 01:29, Egoshi da CT=
+T3843 <span dir=3D"ltr">&lt;<a href=3D"mailto:ctt3843@egoshi.com.br" target=
+=3D"_blank">ctt3843@egoshi.com.br</a>&gt;</span> escreveu:<br><blockquote c=
+lass=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;=
+padding-left:1ex">Parab=C3=A9ns =C3=A0 nossa querida sobrinha Patr=C3=ADcia=
+ que est=C3=A1 aniversariando hoje!!!<br>
+<br>
+<br>
+<br>
+Patr=C3=ADcia =C3=A9 filha do nosso querido Ir\ Serrano.<br>
+<br>
+<br>
+<br>
+=C3=80 Patr=C3=ADcia, ao Ir\ Serrano e a Toda a Sua Fam=C3=ADlia, ensejamos=
+ nossos mais<br>
+sinceros votos de felicidade e sucesso na vida!!!<br>
+<br>
+<br>
+<br>
+Fraternalmente<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+---<br>
+Este email foi escaneado pelo Avast antiv=C3=ADrus.<br>
+<a href=3D"https://www.avast.com/antivirus" rel=3D"noreferrer" target=3D"_b=
+lank">https://www.avast.com/<wbr>antivirus</a><br>
+</blockquote></div><br></div>
+
+--001a11403d0a7d08d1055c49d5d0--

@@ -1,0 +1,117 @@
+Return-path: <jpeducarecoord@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 07 Jun 2016 09:49:15 -0300
+Received: from mail-it0-f68.google.com ([209.85.214.68]:35948)
+	by hserv20.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <jpeducarecoord@gmail.com>)
+	id 1bAGRX-0007vs-JD
+	for marco@digitalfotoimagem.com.br; Tue, 07 Jun 2016 09:49:15 -0300
+Received: by mail-it0-f68.google.com with SMTP id h190so1199662ith.3
+        for <marco@digitalfotoimagem.com.br>; Tue, 07 Jun 2016 05:48:53 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=xXJGOn+cG+JN9DDxzFqRq5LaSaQ3JaLhEPHQ507kmiU=;
+        b=bbMWsUeLtvCUoOSinUlcHCL/ApCQsh3e2f+8iDtk2otYJiGMPizoMNuNDVTr3Eilgh
+         L7kUU6CjpEnAMsmyMOk8n0AhycKcmGP1F4D8tMfqQqIOBmN2dG4AaxY4VWhwD8EVExYO
+         CL0uSXv2yl/m1CR5MWjxadfecs+DEgvZnxUXqqq6rnGClEjr8Qc4aukY4XX/qv22hmjX
+         fUESBXt7n7LlzlVVIjIOyooTaeaDUDpKGItmTvZ1D7SrG1mMF5NffzFElF7o/QION4vH
+         2K2d0PwfDbX9WmCgEVaOd2vS1vry2qMCpPNwsFvwZKdwpC6Bvsy1rlnJRp3KnGS7xnvJ
+         05dA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=xXJGOn+cG+JN9DDxzFqRq5LaSaQ3JaLhEPHQ507kmiU=;
+        b=QNJnW8NtVDxAl0z1dhTQyM4PW3gfTIKxzZdhxm8YUDa3Fjw58+lLzuv0bbkxQfMMyS
+         isF4oezNs1xTi9G8rwLyylyohTTYKRiDqGOshM0OgStgzDg+WEgbIfz63GAp1wXsoYHP
+         +0kAB30W4YPLiqe4crFuvD1oaiqoGI8z+02lMbhSZVuKr/IObMR0CgvFVyPGdCOs4VXZ
+         iGwGcbMfZLnXn+pCt05MGa8p78kl96Ytj/Lq9B5WZKuUC8p1x2Rc4B3h5vOlEVJvwe5/
+         J1hcYvuP2OzuyA1kW7vv/PpIcHQvRoxXVM36YocsPKwTORRPD5DYb5kMmYJkDrIqW97h
+         VK9A==
+X-Gm-Message-State: ALyK8tJnH028XGVnJHLpq/gB/mpC1brwLouNuRNKVJPY4LXnVqtXI0+tUXYgtw9JSqRmjLHWQtLddQANwc4Qrw==
+X-Received: by 10.36.1.198 with SMTP id 189mr3678457itk.40.1465303711957; Tue,
+ 07 Jun 2016 05:48:31 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.107.205.5 with HTTP; Tue, 7 Jun 2016 05:48:30 -0700 (PDT)
+From: JP EDUCARE CURSOS <jpeducarecoord@gmail.com>
+Date: Tue, 7 Jun 2016 09:48:30 -0300
+Message-ID: <CAD3WFZucdpuODVrwG9M2TCbV2-zwwSuCdt5gDuBDXPCTYVBQhQ@mail.gmail.com>
+Subject: =?UTF-8?B?QUxURVJBw4fDg08gTkEgREFUQSBEQSBQUsOTWElNQSBBVUxB?=
+To: Tais Cesario <taiscesariomend31@gmail.com>, mayracosta@hotmail.com, 
+	Pedro Lui <n-atalee21@hotmail.com>, peduardodominko@bol.com.br, 
+	oliverana1960@bol.com.br, allancf82@hotmail.com, 
+	=?UTF-8?Q?SIDNEA_DOS_SANTOS_LOUREN=C3=87O?= <sidnea2011@gmail.com>, 
+	rosemi_silva@ig.com.br, "Ricardo M." <menega.surf@yahoo.com.br>, monigreey@yahoo.com.br, 
+	profmarlete@hotmail.com, vivianeaguiar3788@gmail.com, lumemel@hotmail.com, 
+	Raquel Rodrigues <raquelcjsr@msn.com>, douglasgomes4@hotmail.com, andre.lsant@hotmail.com, 
+	simpatiatatacris@yahoo.com.br, dantas7700@yahoo.com.br, cireia@ig.com.br, 
+	historiadorapaula@ig.com.br, Karen Aliete <karenaliete@hotmail.com>, 
+	adrianaresende@ig.com.br, =?UTF-8?Q?Gra=C3=A7a_Lima?= <gracinha2005@hotmail.com>, 
+	Robson Silva <robsonlslr00@gmail.com>, cleber romanovas <kleber-bio@hotmail.com>, sarinhaung@terra.com.br, 
+	"Rebeca ..." <rebecacarolinebrito@hotmail.com>, 
+	Fernanda Rodrigues <fezinha.carpediem@gmail.com>, 
+	=?UTF-8?Q?Ivelize_Tha=C3=ADs_Ferreira_Ive_Ferreira?= <ivislene@gmail.com>, 
+	irene-cristina@ig.com.br, givanildopmoura@bol.com.br, 
+	"r.fragoso" <r.fragoso@bol.com.br>, ago_vieira@hotmail.com, talita.jardim@yahoo.com.br, 
+	maria jose sales santana <mariajosesantana02@hotmail.com>, rodrigues-silva@bol.com.br, 
+	ro_delia@yahoo.com.br, dannyelabarbosa2013@hotmail.com, 
+	moisesantana@yahoo.com.br, lainasena@yhaoo.com.br, janejaklusca@bol.com.br, 
+	mcs-76@ig.com.br, Josi Oliveira <josi.oliveira@bol.com.br>, 
+	"Valdir E. Carmo" <valdirdocarmo@gmail.com>, diegomes <diegomes@hotmail.com>, 
+	noemiarcampos@hotmail.com, 
+	Maria Santa Carvalho Peixoto <santapeixoto@gmail.com>, Cristian Vieira <nelly_vieira@hotmail.com>, edson.rn@ig.com.br, 
+	Andersson Bispo <anderssonbispo2015@gmail.com>, fabikisses@ig.com.br, 
+	Daniela Nascimento Scarpellini <dani.scarpellini@gmail.com>, dinda.castilho@bol.com.br, 
+	claudecys@bol.com.br, wanderkeywkm@hotmail.com, reisdouglas@ibest.com.br, 
+	Jean Roveri <jeanroveri@gmail.com>, "Tania K. Lima" <tania.k.f.lima@gmail.com>, 
+	nelson silva ramos <nelsinho.sr@hotmail.com>, Mariana Baptista <mariana_bap_tista@hotmail.com>, 
+	rosinha.educacaofisica@hotmail.com, elenice.acdc@hotmail.com, 
+	marco@digitalfotoimagem.com.br, Thiago Serejo <thiagoserejo@yahoo.com.br>
+Content-Type: multipart/alternative; boundary=001a1143def63d4b050534af9b1c
+
+--001a1143def63d4b050534af9b1c
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Bom dia Pessoal!
+Haver=C3=A1 uma altera=C3=A7=C3=A3o na data da pr=C3=B3xima aula, passando =
+do dia 25 para o dia *18
+de junho* , pois a maioria ter=C3=A1 s=C3=A1bado letivo no estado e festa j=
+unina.
+J=C3=A1 avisamos alguns alunos pelo whatsApp , e estamos mandando para o e =
+mail
+de todos .
+
+*Att,*
+
+
+
+
+*Let=C3=ADciaAdministrativo JP EDUCARE2568-0221/94033-0898 ***Por Favor
+Confirmar o recebimento desse Email****
+
+--001a1143def63d4b050534af9b1c
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Bom dia Pessoal!<div>Haver=C3=A1 uma altera=C3=A7=C3=A3o n=
+a data da pr=C3=B3xima aula, passando do dia 25 para o dia <b>18 de junho</=
+b> , pois a maioria ter=C3=A1 s=C3=A1bado letivo no estado e festa junina.<=
+/div><div>J=C3=A1 avisamos alguns alunos pelo whatsApp , e estamos mandando=
+ para o e mail de todos .</div><div>=C2=A0<br clear=3D"all"><div><div class=
+=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div dir=3D"ltr"><d=
+iv dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><font color=3D"#a64d79" fa=
+ce=3D"tahoma, sans-serif"><b>Att,</b></font><br><div><font color=3D"#a64d79=
+" face=3D"tahoma, sans-serif"><b><span style=3D"background-color:rgb(255,25=
+5,255)"><font size=3D"2">Let=C3=ADcia</font><br><font size=3D"2">Administra=
+tivo JP EDUCARE<br><div style=3D"text-align:left"><b style=3D"font-size:12.=
+8px"><font size=3D"2">2568-0221/94033-0898=C2=A0</font></b></div><div style=
+=3D"text-align:left"><b style=3D"font-size:12.8px"><font size=3D"2"><br><br=
+></font></b></div><div style=3D"text-align:left"><b style=3D"font-size:12.8=
+px"><font size=3D"2">***Por Favor Confirmar o recebimento desse Email***</f=
+ont></b></div></font></span></b></font></div></div></div></div></div></div>=
+</div>
+</div></div>
+
+--001a1143def63d4b050534af9b1c--

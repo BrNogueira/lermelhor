@@ -1,0 +1,82 @@
+Return-Path: <010001584f0cbcae-fa7a9a24-14be-439b-847b-d1dc7b10c399-000000@amazonses.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id YQWSMBefJFjWGwUAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Thu, 10 Nov 2016 14:23:51 -0200
+Return-path: <010001584f0cbcae-fa7a9a24-14be-439b-847b-d1dc7b10c399-000000@amazonses.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 10 Nov 2016 14:23:51 -0200
+Received: from a8-26.smtp-out.amazonses.com ([54.240.8.26]:44906)
+	by hserv9.homehost.com.br with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.87)
+	(envelope-from <010001584f0cbcae-fa7a9a24-14be-439b-847b-d1dc7b10c399-000000@amazonses.com>)
+	id 1c4s8l-001PVy-MM
+	for marco@digitalfotoimagem.com.br; Thu, 10 Nov 2016 14:23:51 -0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=lb4w4liwt2jisfigcabqng6ofptt5cfd; d=connectamericas.com;
+	t=1478794984;
+	h=Date:Message-Id:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Sender:From;
+	bh=ZT/c/ZqpNoNOCgkUZ5Urkq4+1oZdj13b93zcZtjXQyg=;
+	b=CW+Idk9RPvaXab+4g2UFS8z2xgoiua1Tvl7vexO0vIJrnYJzUiNb853Wlw75GYW6
+	2k5fVTPE85KX21qUBvaayufzZdUpvr0IqM3Xie4PtrS8Cgh0gJy4q4pFP7bGjf09xHP
+	nMvNOqkb1wND66YIo7U4qh6vt0xthvx56aJk8MJA=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1478794984;
+	h=Date:Message-Id:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Sender:From:Feedback-ID;
+	bh=ZT/c/ZqpNoNOCgkUZ5Urkq4+1oZdj13b93zcZtjXQyg=;
+	b=XX6Pb5ihqtu0ur3ARXhXvxJPmN37ydN4Sghr4bDFRrqveKtYHtg9sRnGl/U4O3qC
+	IqkLeU6OTsU0/fSvXlGhjSSCPIUBqjajKkoGDTcvu2t2e5CX7VC/NnW1RXt891tIAct
+	yczNUN6qFh6+MwZ3B6JGkbNsEYAwEzC/68kwNlGo=
+Date: Thu, 10 Nov 2016 16:23:04 +0000
+Message-ID: <010001584f0cbcae-fa7a9a24-14be-439b-847b-d1dc7b10c399-000000@email.amazonses.com>
+X-Authentication-Warning: prodrupal-i-87b83b0e.connectamericas.net: deployer set sender to noreply@connectamericas.com using -f
+To: marco@digitalfotoimagem.com.br
+Subject: ConnectAmericas - Account activated
+X-PHP-Originating-Script: 505:htmlmail.mail.inc
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Sender: noreply@connectamericas.com
+From: "ConnectAmericas" <noreply@connectamericas.com>
+X-SES-Outgoing: 2016.11.10-54.240.8.26
+Feedback-ID: 1.us-east-1.mYlkgRODUEKK1AYOXXNNaYmZhsfVMsQgiqEsbgI1IbY=:AmazonSES
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>ConnectAmericas - Account activated</title>
+  </head>
+  <body style="width:100%;background-color:#F0F0F0;padding-top: 30px; padding-bottom: 30px;font-family: Arial, sans-serif; font-size: 16px; color: #333">
+    <div style="width:600px;margin: 0 auto;border-top:#00ABC8 2px solid;">
+      <div style="height:68px;padding: 0 20px 0 25px;border-bottom:#DDD 1px solid;background:#FFF;">
+        <img src="https://connectamericas.com/sites/all/themes/connectamericas/images/email/logo_ca.png" width="123" height="35" style="margin-top:17px;" />
+        <div style="float:right;line-height:68px;font-size:14px;font-weight:bold;text-transform:uppercase;color:#0AA7C8;">ConnectAmericas - Account activated</div>
+      </div>
+      <div style="padding:35px 30px 50px 30px; border-bottom:#DDD 5px solid;line-height:21px;font-size:14px;color:#1F2122;background:#FFF;">
+        <div style="width:100%;">
+  <p style="font-size: 16px;">Hi Marco,</p>
+  <p>Welcome to ConnectAmericas!</p>
+  <p>You are now part of the business community of the Americas.</p>
+  <ul style="margin-left: 80px;">
+    <li>Discover <a href="https://connectamericas.com/business_opportunities">business opportunities</a> in Latin America</li>
+    <li>Connect with potential <a href="https://connectamericas.com/companies">clients and partners</a></li>
+    <li>Access <a href="https://connectamericas.com/courses">online training</a>, <a href="https://connectamericas.com/learn">content</a>, and <a href="https://connectamericas.com/page/search?qt-search_tabs_container=6">business support resources</a></li>
+    <li>Explore <a href="https://connectamericas.com/finance">financing options</a> to strengthen and grow your company</li>
+  </ul>
+  <br>
+  <p>Connecting your business to the world has never been this easy…</p>
+</div>      </div>
+      <div style="height: 70px;">
+        <div style="float:left;margin-right:15px;">
+          <a href="http://www.iadb.org/" title="IDB"><img src="https://connectamericas.com/sites/all/themes/connectamericas/images/email/logo_idb.png" alt="IDB" width="87" style="margin-top:17px;" /></a>
+        </div>
+        <div style="float:left;margin-top:18px;line-height: 15px;font-size:11px;color:#888;">
+          1300 New York Avenue, N.W. Washington, D.C. 20577, USA<br />
+          &copy; 2015 Inter-American Development Bank
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+

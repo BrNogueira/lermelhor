@@ -1,0 +1,395 @@
+Return-path: <carlos.rossetti@uol.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Fri, 08 May 2015 14:03:21 -0300
+Received: from a4-shark3-1.uol.com.br ([200.147.97.10]:50601 helo=a4-shark3.uol.com.br)
+	by hserv20.homehost.com.br with esmtp (Exim 4.85)
+	(envelope-from <carlos.rossetti@uol.com.br>)
+	id 1Yqlfv-00021L-7L
+	for marco@digitalfotoimagem.com.br; Fri, 08 May 2015 14:03:20 -0300
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by a4-shark3.uol.com.br (Postfix) with ESMTP id 49E933800083;
+	Fri,  8 May 2015 14:02:55 -0300 (BRT)
+Received: from a4-shark3.host.intranet (localhost.localdomain [127.0.0.1])
+	by a4-shark3.uol.com.br (Postfix) with ESMTP id 02E143800089;
+	Fri,  8 May 2015 14:02:46 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=uol.com.br; s=ubz;
+	t=1431104574; bh=F23N6htYDtqnj5y4Gqqs9YC8atyiMEmyesWpmX5rl5E=;
+	h=Date:From:in-reply-to:references:Subject:To;
+	b=Ndz1Bkn2WXlMlpNBi3Cwp4ineXiCiHfr+4diI8KIX9IUJMY/e2QuvaImRIegA/d9w
+	 HkxMW7teqmI7O6NEVBRHRsOGYZp7QE++ekvBXjLx15jclAfPtx2NzU5PYC9P3jkP6V
+	 SqMaAOk6kdVMMKlAEL3ebdW+Nf84SmEVk4VvvUOk=
+Received: from uol.com.br (a4-weasel2.host.intranet [10.131.133.65])
+	by a4-shark3.host.intranet (Postfix) with ESMTP id E17143800086;
+	Fri,  8 May 2015 14:02:46 -0300 (BRT)
+Date: Fri, 08 May 2015 14:02:46 -0300
+From: "carlos.rossetti" <carlos.rossetti@uol.com.br>
+Message-ID: <554cec36d6e00_ad315a387b713cc72150@a4-weasel2.mail>
+in-reply-to: ["f4b2f712714e5b422142526126cebb66@smtp121.1-hostingservice.com"]
+references: ["f4b2f712714e5b422142526126cebb66@smtp121.1-hostingservice.com"]
+Subject: =?UTF-8?Q?:_=C3=9Altimas_Not=C3=ADcias?=
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="--==_mimepart_554cec36d11b8_ad315a387b713cc720b2";
+ charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-SenderIP: 177.45.124.61
+To: undisclosed-recipients:;
+X-SIG5: 78cf56adefaf6d758a7b64a278a5da41
+X-Spam-Status: No, score=-0.9
+X-Spam-Score: -8
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hserv20.homehost.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  De: Sexta-feira, 8 de Maio de 2015 12:47 Para: Últimas Notícias
+    body{width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;
+    margin:0; padding:0;} .moz-forward-container .original-only, blockquote .original-only,
+    .WordSection1 .original-only {width: 0px; height: 0px; overflow: hidden;
+   display: none !important;}#outlook a{padding:0;} p {margin: 0px;} p {margin-bottom:0;
+    margin:0;} .ExternalClass {width:100%;} .ExternalClass p {margin:0px} .ExternalClass,
+    .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass
+    td, .ExternalClass div {line-height: 100%;} table td {border-collapse:collapse;
+    table td {border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;}
+    a {word-wrap:break-word;} .easygoi-rss img {height: auto; width: 100%;} [...]
+    
+ 
+ Content analysis details:   (-0.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: gob.org.br]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (carlos.rossetti[at]uol.com.br)
+ -0.0 T_RP_MATCHES_RCVD      Envelope sender domain matches handover relay
+                             domain
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_IMAGE_RATIO_08    BODY: HTML has a low ratio of text to image area
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or identical to
+                             background
+  0.7 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.4 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+
+----==_mimepart_554cec36d11b8_ad315a387b713cc720b2
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div><br /> <br /><br /></div>
+<hr style=3D"border-top: 1px solid #ccc;" />
+<div><br /><strong>De:</strong> marketing@gob.org.br<br /><strong>Enviada=
+:</strong> Sexta-feira, 8 de Maio de 2015 12:47<br /><strong>Para:</stron=
+g> carlos.rossetti@uol.com.br<br /><strong>Assunto:</strong> =C3=9Altimas=
+ Not=C3=ADcias<br /><br /></div>
+<div class=3D"notviscode">body{width:100% !important; -webkit-text-size-a=
+djust:100%; -ms-text-size-adjust:100%; margin:0; padding:0;} .moz-forward=
+-container .original-only, blockquote .original-only, .WordSection1 .orig=
+inal-only {width: 0px; height: 0px; overflow: hidden; display: none !impo=
+rtant;}#outlook a{padding:0;} p {margin: 0px;} p {margin-bottom:0; margin=
+:0;} .ExternalClass {width:100%;} .ExternalClass p {margin:0px} .External=
+Class, .ExternalClass p, .ExternalClass span, .ExternalClass font, .Exter=
+nalClass td, .ExternalClass div {line-height: 100%;} table td {border-col=
+lapse:collapse; table td {border-collapse:collapse; mso-table-lspace:0pt;=
+ mso-table-rspace:0pt;} a {word-wrap:break-word;} .easygoi-rss img {heigh=
+t: auto; width: 100%;}</div>
+<div><span style=3D"visibility: hidden; display: none;"> Grande Oriente d=
+o Brasil 08 de maio de 2015 MENSAGEM DEDICADA A TODAS AS MAES O Soberano =
+Grao-Mestre Geral Marcos Jose da Silva, juntamente com o Grao-Mestre Gera=
+l Adjunto Barbosa Nunes e com a Presidente Nacional da Fraternidade Femin=
+ina, Flora Rio</span></div>
+<table class=3D"egoi-header" style=3D"background-color: #ffffff;" width=3D=
+"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td width=3D"50%">=C2=A0</td>
+<td width=3D"650">
+<table width=3D"650" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"egoi-header-links" style=3D"text-align: left; background-col=
+or: #ffffff; color: #666666; font-family: Arial, Helvetica, sans-serif; f=
+ont-size: 13px; font-weight: bold; padding: 5px; height: 30px;" align=3D"=
+left" width=3D"70%"><a style=3D"color: #666666; text-decoration: underlin=
+e; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weigh=
+t: bold;" href=3D"http://www.35.mktid1.com/v/4lepV5Cecwuec30ab574a7" targ=
+et=3D"_blank">Vers=C3=A3o Web</a> =C2=A0=C2=A0=C2=A0<a style=3D"color: #6=
+66666; text-decoration: underline; font-family: Arial, Helvetica, sans-se=
+rif; font-size: 13px; font-weight: bold;" href=3D"http://www.35.mktid1.co=
+m/r/c30ab574a7e4lepV5Cecwu" target=3D"_blank">Recomendar</a></td>
+<td class=3D"egoi-header-links-social" style=3D"text-align: right; backgr=
+ound-color: #ffffff; color: #666666; font-family: Arial, Helvetica, sans-=
+serif; font-size: 13px; font-weight: normal; padding: 5px; height: 30px;"=
+ align=3D"right" width=3D"30%"><a href=3D"http://www.35.mktid1.com/p/c30a=
+b574a7e4lepV5Cecwu" target=3D"_blank"><img style=3D"display: inline;" src=
+=3D"http://www.35.mktid1.com/recursos/52dc561c6eefe0adbf6da387c23fed91/.S=
+ocialIcons/20x20/other_social_networks.png" alt=3D"Social" border=3D"0" /=
+></a> =C2=A0<a href=3D"http://www.35.mktid1.com/pf/c30ab574a7e4lepV5Cecwu=
+" target=3D"_blank"><img style=3D"display: inline;" src=3D"http://www.35.=
+mktid1.com/recursos/52dc561c6eefe0adbf6da387c23fed91/.SocialIcons/20x20/f=
+acebook.png" alt=3D"Facebook" border=3D"0" /></a> =C2=A0<a href=3D"http:/=
+/www.35.mktid1.com/ptw/c30ab574a7e4lepV5Cecwu" target=3D"_blank"><img sty=
+le=3D"display: inline;" src=3D"http://www.35.mktid1.com/recursos/52dc561c=
+6eefe0adbf6da387c23fed91/.SocialIcons/20x20/twitter.png" alt=3D"Twitter" =
+border=3D"0" /></a> .</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width=3D"50%">=C2=A0</td>
+</tr>
+<tr>
+<td style=3D"background-color: #eaeaea; height: 2px;" colspan=3D"3">=C2=A0=
+</td>
+</tr>
+</tbody>
+</table>
+<div><img style=3D"width: 3px !important; height: 2px !important; overflo=
+w: hidden; border: 0px solid transparent;" src=3D"http://www.35.mktid1.co=
+m/stats.php?l=3D5210219e84d57700146d3f7b6bc75d06&amp;u=3Dc30ab574a7&amp;c=
+a_id=3D260&amp;cl_id=3D45089&amp;l_id=3D23&amp;m_id=3D5382337&amp;hf=3D1&=
+amp;i=3D1" alt=3D"" width=3D"3" height=3D"2" align=3D"middle" border=3D"0=
+" /></div>
+<table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" ali=
+gn=3D"center">
+<tbody>
+<tr>
+<td style=3D"padding: 5px; text-align: center;" valign=3D"top"><img src=3D=
+"http://35.mktid1.com/recursos/52dc561c6eefe0adbf6da387c23fed91/Image/_th=
+umbs/Images/_thumbs/Images/Logo_GOB.png" alt=3D"" width=3D"100" height=3D=
+"100" /><br /><strong>Grande Oriente do Brasil</strong></td>
+</tr>
+<tr>
+<td style=3D"background-color: #006c00; font-family: Arial, Helvetica, sa=
+ns-serif; font-size: 13px; color: #000000;" align=3D"center" valign=3D"to=
+p" bgcolor=3D"#006c00">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"5">
+<tbody>
+<tr>
+<td style=3D"color: #ffffff; font-family: Verdana, Geneva, sans-serif; fo=
+nt-size: 11px;" align=3D"left" valign=3D"top" bgcolor=3D"#000040" width=3D=
+"50%">=C2=A0</td>
+<td style=3D"color: #ffffff; font-family: Verdana, Geneva, sans-serif; fo=
+nt-size: 11px;" align=3D"right" valign=3D"top" bgcolor=3D"#000036"><span =
+style=3D"color: #ffffff;"><span style=3D"font-family: sans-serif, Arial, =
+Verdana, Trebuchet MS; font-size: small;">08 de maio de 2015</span></span=
+></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"background-color: #ffffff; font-family: Arial, Helvetica, sa=
+ns-serif; font-size: 13px; color: #000000; padding: 12px;" align=3D"cente=
+r" valign=3D"top" bgcolor=3D"#ffffff">
+<table style=3D"margin-bottom: 10px;" width=3D"100%" border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"10">
+<tbody>
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 13px; =
+color: #525252;" align=3D"left" valign=3D"top">
+<div style=3D"font-size: 14px;">
+<p style=3D"text-align: center;"><a href=3D"http://www.35.mktid1.com/g/52=
+10219-84d57700146d3f7b6bc75d06ec30ab574a7eoecwuepV5Ce4leoxOl" target=3D"_=
+blank"><span style=3D"color: #333333; font-family: sans-serif, Arial, Ver=
+dana, Trebuchet MS; font-size: small;"><img src=3D"http://35.mktid1.com/r=
+ecursos/52dc561c6eefe0adbf6da387c23fed91/Image/Untitled_1(4).jpg" alt=3D"=
+" /></span></a><br /><br /><span style=3D"font-family: sans-serif, Arial,=
+ Verdana, Trebuchet MS; font-size: small;"><strong>MENSAGEM DEDICADA A TO=
+DAS AS M=C3=83ES</strong></span></p>
+<p style=3D"text-align: center;">=C2=A0</p>
+</div>
+<div>
+<div align=3D"justify">
+<p><span style=3D"font-family: sans-serif, Arial, Verdana, Trebuchet MS;"=
+>O Soberano Gr=C3=A3o-Mestre Geral Marcos Jos=C3=A9 da Silva, juntamente =
+com o Gr=C3=A3o-Mestre Geral Adjunto Barbosa Nunes e com a Presidente Nac=
+ional da Fraternidade Feminina, Flora Rios Mendes, dedicam mensagem =C3=A0=
+ todas as m=C3=A3es pelo seu dia... <a href=3D"http://www.35.mktid1.com/g=
+/5210219-84d57700146d3f7b6bc75d06ec30ab574a7eoecwuepV5Ce4leoxOl" target=3D=
+"_blank">clique aqui para assistir.</a></span><br /><br /><br /><br /><a =
+href=3D"http://www.35.mktid1.com/g/5210219-84d57700146d3f7b6bc75d06ec30ab=
+574a7eoecwuepV5Ce4leoxOm" target=3D"_blank"><img src=3D"http://35.mktid1.=
+com/recursos/52dc561c6eefe0adbf6da387c23fed91/Image/Untitled_2.jpg" alt=3D=
+"" width=3D"660" height=3D"300" /></a></p>
+<p style=3D"text-align: center;"><strong>=C3=89 HORA DE DAR PASSO MAIS PR=
+OFUNDO EM DIRE=C3=87=C3=83O =C3=80 REFORMA POL=C3=8DTICA</strong></p>
+<p>O Grande Oriente do Brasil integra a Coaliz=C3=A3o Democr=C3=A1tica co=
+m outras 111 entidades. Em documento expedido pelo Soberano Gr=C3=A3o-Mes=
+tre em exerc=C3=ADcio, irm=C3=A3o Barbosa Nunes, na data de 21 de abril, =
+simb=C3=B3lica e profundamente significativa pela luta hist=C3=B3rica de =
+Tiradentes, Grandes Orientes Estaduais, Lojas e comunidades est=C3=A3o se=
+ndo mobilizadas para a coleta de assinaturas em favor da Reforma Pol=C3=AD=
+tica... <a href=3D"http://www.35.mktid1.com/g/5210219-84d57700146d3f7b6bc=
+75d06ec30ab574a7eoecwuepV5Ce4leoxOm" target=3D"_blank">continue lendo.</a=
+><br /><br /><br /><br /><br /><a href=3D"http://www.35.mktid1.com/g/5210=
+219-84d57700146d3f7b6bc75d06ec30ab574a7eoecwuepV5Ce4leoxOn" target=3D"_bl=
+ank"><img src=3D"http://35.mktid1.com/recursos/52dc561c6eefe0adbf6da387c2=
+3fed91/Image/IMG_0616.JPG" alt=3D"" /></a></p>
+<p style=3D"text-align: center;"><strong><span style=3D"text-align: cente=
+r;">2=C2=BA SEMIN=C3=81RIO DO ENTORNO - LOJAS DO GOB E GRANDE LOJA</span>=
+</strong></p>
+<p>A Loja Ma=C3=A7=C3=B4nica "Estrela de Luzi=C3=A2nia", oriente de Goi=C3=
+=A1s, na comemora=C3=A7=C3=A3o do seu Jubileu de Ourou, est=C3=A1 promove=
+ndo com as lojas de Goi=C3=A1s, Distrito Federal e Minas Gerais e com a p=
+articipa=C3=A7=C3=A3o da Grande Loja, o 2=C2=BA Semin=C3=A1rio Ma=C3=A7=C3=
+=B4nico do Entorno, a realizar-se no dia 23 de maio de 2015 da 08h as 17h=
+, no SEST/SENAT, Km 14 da BR-04, entre Valpara=C3=ADzo e Luzi=C3=A2nia, G=
+O... <a href=3D"http://www.35.mktid1.com/g/5210219-84d57700146d3f7b6bc75d=
+06ec30ab574a7eoecwuepV5Ce4leoxOn" target=3D"_blank">continue lendo.</a><b=
+r /><br /><br /><br /><a href=3D"http://www.35.mktid1.com/g/5210219-84d57=
+700146d3f7b6bc75d06ec30ab574a7eoecwuepV5Ce4leoxOo" target=3D"_blank"><spa=
+n style=3D"color: #000000;"><img src=3D"http://35.mktid1.com/recursos/52d=
+c561c6eefe0adbf6da387c23fed91/Image/02(3).jpg" alt=3D"" width=3D"660" hei=
+ght=3D"300" /></span></a></p>
+<p style=3D"text-align: center;"><strong>APJ DO SERGIPE NO PROJETO PRAIA =
+LIMPA</strong></p>
+<p>Nos dias 18 e 19 de=C2=A0Abril, o N=C3=BAcleo Apejotista Piauhytinga r=
+ealizou o segundo "PROJETO PRAIA LIMPA - PRAIA DO ABA=C3=8DS" em Est=C3=A2=
+ncia, Sergipe, parceria com a Prefeitura Municipal de Est=C3=A2ncia, apoi=
+o da Loja "Piauhytinga" e Grande Oriente do Brasil - Sergipe... <a href=3D=
+"http://www.35.mktid1.com/g/5210219-84d57700146d3f7b6bc75d06ec30ab574a7eo=
+ecwuepV5Ce4leoxOo" target=3D"_blank">continue lendo.</a></p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 13px; =
+color: #525252;" align=3D"left" valign=3D"top">
+<div style=3D"font-size: 14px;">
+<p style=3D"text-align: center;">=C2=A0</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"background-color: #006c00;" align=3D"left" valign=3D"top" bg=
+color=3D"#006c00">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"15">
+<tbody>
+<tr>
+<td style=3D"color: #ffffff; font-family: Arial, Helvetica, sans-serif; f=
+ont-size: 13px;" align=3D"left" valign=3D"top" bgcolor=3D"#9eb853">
+<p align=3D"center"><span style=3D"color: #333333; font-family: sans-seri=
+f, Arial, Verdana, Trebuchet MS;">|=C2=A0<a href=3D"http://www.35.mktid1.=
+com/g/5210219-84d57700146d3f7b6bc75d06ec30ab574a7eoecwuepV5Ce4ledh6R" tar=
+get=3D"_blank">Facebook</a>=C2=A0| <a href=3D"http://www.35.mktid1.com/g/=
+5210219-84d57700146d3f7b6bc75d06ec30ab574a7eoecwuepV5Ce4ledh6S" target=3D=
+"_blank">Twitter=C2=A0</a>| <a href=3D"http://www.35.mktid1.com/g/5210219=
+-84d57700146d3f7b6bc75d06ec30ab574a7eoecwuepV5Ce4le2b9m" target=3D"_blank=
+"><span style=3D"text-decoration: underline;">EADM</span></a>=C2=A0|=C2=A0=
+</span></p>
+<p align=3D"center"><span style=3D"color: #333333; font-family: sans-seri=
+f, Arial, Verdana, Trebuchet MS;">Grande Oriente do Brasil =C2=A9 2014</s=
+pan></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<div><br />=C2=A0</div>
+<table class=3D"egoi-footer" style=3D"background-color: #ffffff;" width=3D=
+"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"background-color: #eaeaea; height: 2px;" colspan=3D"3">=C2=A0=
+</td>
+</tr>
+<tr>
+<td width=3D"50%">=C2=A0</td>
+<td style=3D"background-color: #ffffff;" width=3D"650">
+<table width=3D"650" cellspacing=3D"0" cellpadding=3D"5">
+<tbody>
+<tr>
+<td style=3D"text-align: center;">
+<table width=3D"100%">
+<tbody>
+<tr>
+<td style=3D"font-style: normal; font-family: Arial, Helvetica, sans-seri=
+f; text-align: left; font-size: 13px; color: #999999;" width=3D"570">Esta=
+ mensagem foi enviada para <strong>carlos.rossetti@uol.com.br</strong> po=
+r <strong>marketing@gob.org.br</strong><br />AV. W-5 Quadra 913 Conjunto =
+H 70390130 Brasilia DF Brasil<br /><br /><span style=3D"font-style: norma=
+l; font-family: Arial, Helvetica, sans-serif; text-align: left; font-size=
+: 13px; font-weight: bold; color: #666666;"><a style=3D"color: #666666; t=
+ext-decoration: underline; font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 13px; font-weight: bold;" href=3D"http://www.35.mktid1.com/r/c30a=
+b574a7e4lepV5Cecwu" target=3D"_blank">Recomendar</a> =C2=A0=C2=A0=C2=A0<s=
+pan class=3D"original-only"><a style=3D"color: #666666; text-decoration: =
+underline; font-family: Arial, Helvetica, sans-serif; font-size: 13px; fo=
+nt-weight: bold;" href=3D"http://www.35.mktid1.com/lp/brec30ab574a7e52102=
+19-84d57700146d3f7b6bc75d06e4lepV5Cecwueo" target=3D"_blank">Editar subsc=
+ri=C3=A7=C3=A3o</a></span> =C2=A0=C2=A0=C2=A0<span class=3D"original-only=
+"><a style=3D"color: #666666; text-decoration: underline; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 13px; font-weight: bold;" href=3D"=
+http://www.35.mktid1.com/rm/c30ab574a7e5210219-84d57700146d3f7b6bc75d06e4=
+lepV5Cecwueo" target=3D"_blank">Remover</a></span> </span></td>
+<td style=3D"font-style: normal; font-family: Arial, Helvetica, sans-seri=
+f; text-align: right; font-size: 13px; color: #999999;" valign=3D"top" wi=
+dth=3D"80"><a href=3D"http://www.35.mktid1.com/certifiedby_br/?campaign_i=
+d=3D5210219e84d57700146d3f7b6bc75d06&amp;email=3Dcarlos.rossetti@uol.com.=
+br&amp;f=3DpV5Cecwue4l" target=3D"_blank"><img src=3D"http://www.35.mktid=
+1.com//images/egoi_certified.png" alt=3D"" width=3D"70" height=3D"80" ali=
+gn=3D"middle" border=3D"0" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"font-style: normal; font-family: Arial, Helvetica, sans-seri=
+f; text-align: left; color: #999999; font-size: 13px; height: 40px; verti=
+cal-align: top;" width=3D"650"><a href=3D"http://www.35.mktid1.com/p/c30a=
+b574a7e4lepV5Cecwu" target=3D"_blank"><img style=3D"display: inline;" src=
+=3D"http://www.35.mktid1.com/recursos/52dc561c6eefe0adbf6da387c23fed91/.S=
+ocialIcons/20x20/other_social_networks.png" alt=3D"Social" border=3D"0" /=
+></a> =C2=A0<a href=3D"http://www.35.mktid1.com/pf/c30ab574a7e4lepV5Cecwu=
+" target=3D"_blank"><img style=3D"display: inline;" src=3D"http://www.35.=
+mktid1.com/recursos/52dc561c6eefe0adbf6da387c23fed91/.SocialIcons/20x20/f=
+acebook.png" alt=3D"Facebook" border=3D"0" /></a> =C2=A0<a href=3D"http:/=
+/www.35.mktid1.com/ptw/c30ab574a7e4lepV5Cecwu" target=3D"_blank"><img sty=
+le=3D"display: inline;" src=3D"http://www.35.mktid1.com/recursos/52dc561c=
+6eefe0adbf6da387c23fed91/.SocialIcons/20x20/twitter.png" alt=3D"Twitter" =
+border=3D"0" /></a> =C2=A0<a href=3D"http://www.35.mktid1.com/vp/4lepV5Ce=
+cwuec30ab574a7" target=3D"_blank"><img style=3D"display: inline;" src=3D"=
+http://www.35.mktid1.com/recursos/52dc561c6eefe0adbf6da387c23fed91/.Socia=
+lIcons/20x20/print.png" alt=3D"print" border=3D"0" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width=3D"50%">=C2=A0</td>
+</tr>
+<!-- ////// linha necess=C3=A1ria para n=C3=A3o quebrar o footer no Mac M=
+ail //// -->
+<tr>
+<td colspan=3D"3" width=3D"100%">=C2=A0</td>
+</tr>
+</tbody>
+</table>
+<div>=C2=A0</div>=
+
+----==_mimepart_554cec36d11b8_ad315a387b713cc720b2--

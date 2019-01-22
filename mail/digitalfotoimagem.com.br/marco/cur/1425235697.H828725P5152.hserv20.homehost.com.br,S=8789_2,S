@@ -1,0 +1,191 @@
+Return-path: <helioamandara@uol.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sun, 01 Mar 2015 15:48:17 -0300
+Received: from a4-shark3-1.uol.com.br ([200.147.97.10]:47598 helo=a4-shark3.uol.com.br)
+	by hserv20.homehost.com.br with esmtp (Exim 4.85)
+	(envelope-from <helioamandara@uol.com.br>)
+	id 1YS8uJ-0001Jh-T3
+	for marco@digitalfotoimagem.com.br; Sun, 01 Mar 2015 15:48:17 -0300
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by a4-shark3.uol.com.br (Postfix) with ESMTP id 4F7903800087;
+	Sun,  1 Mar 2015 15:47:58 -0300 (BRT)
+Received: from a4-shark3.host.intranet (localhost.localdomain [127.0.0.1])
+	by a4-shark3.uol.com.br (Postfix) with ESMTP id A29FD3800081;
+	Sun,  1 Mar 2015 15:47:19 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=uol.com.br; s=ubz;
+	t=1425235677; bh=KZHbHJcG2XuLcGb7N2OMihcmVuPFiMmPIaiSOfYtqCY=;
+	h=Date:From:To:Cc:in-reply-to:references:Subject;
+	b=NmX0GOq3ov3CMeE9rU9nZa6/H5EvDUuBlGduzHvMMtzZgyq+vpKXdBaPsQ/q2dlu6
+	 oQHPg44aMHzherTlSEAWyeHDDRW+FAhwmWqZxr9p4LbHT4TH3KOacW8HzheuoIA3oI
+	 8w4yJcfcWQBy9019Qa+S9KYtRQVAyzadNujh8ElM=
+Received: from uol.com.br (a4-weasel6.host.intranet [10.131.133.71])
+	by a4-shark3.host.intranet (Postfix) with ESMTP id 43AE73800081;
+	Sun,  1 Mar 2015 15:47:19 -0300 (BRT)
+Date: Sun, 01 Mar 2015 15:47:19 -0300
+From: helioamandara <helioamandara@uol.com.br>
+To: mmtesta <mmtesta@uol.com.br>
+Cc: chancelaria@crivodarazao.org.br, 
+ 'Alexandre Dias de Castro' <xandedias.castro@gmail.com>, 
+ 'Antonio Finardi' <ma.finardi@hotmail.com>, 
+ 'Enedino Alves Barbosa Filho' <dino.abf@gmail.com>, 
+ =?UTF-8?B?J0Zsw6F2aW8gRmVycmVyJw==?= <flavio@crivodarazao.org.br>, 
+ =?UTF-8?B?J0pvc8OpIERvbmlzZXRpIEx1aXon?= <josedonisetiluiz@yahoo.com.br>, 
+ 'Oswaldo dos Santos Junior' <oswaldosantosjunior@gmail.com>, 
+ 'Enedino Alves Barbosa Filho' <enedino@crivodarazao.org.br>, 
+ 'Veneravel Mestre' <crivodarazao@crivodarazao.org.br>, 
+ 'Antonio Carlos Kreme' <ackack1969@yahoo.com.br>, 
+ 'Antonio Carlos Rosseti' <carlos.rossetti@uol.com.br>, 
+ 'Arsenio de Paiva Lopes' <arsenio.p.lopes@gmail.com>, 
+ =?UTF-8?B?J1JpY2FyZG8gZGUgTcOqbyBGZXJuYW5kZXMn?= <valdes@uol.com.br>, 
+ =?UTF-8?B?J0pvw6NvIEdhbWJldHRpIE5ldG8n?= <gambetti@gambetti.com.br>, 
+ 'Ronaldo Zabeu Lopes' <ronaldozabeu@terra.com.br>, 
+ 'Dejair Bianchi' <dejair.bianchi@uol.com.br>, 
+ 'Claudio Auricchio Turi' <ttturi@terra.com.br>, 
+ 'Wanderley Caldana' <w.caldana@uol.com.br>, 
+ 'Luiz Carlos Bueno' <fallcar@hotmail.com>, 
+ 'Benedito Carlos Flaminio' <benedito.flaminio@claro.com.br>, 
+ 'Luis Mauricio Rodrigues' <luiz_ma@hotmail.com>, 
+ 'Jairo Dias' <Jairo@rooftec.com.br>, 
+ 'Marcos Patriniani' <marckopat@live.com>, 
+ 'Natanael Costa' <ncosta@usa.com>, 
+ 'Ordalino de Souza e Silva' <titoss@ig.com.br>, 
+ 'Marco Tulio de Mello' <tmello@demello.net.br>, 
+ 'Wlamir Lopes Sanches' <wladsmozz@hotmail.com>, 
+ =?UTF-8?B?J0ZhYnLDrWNpbyBUYWtlc2hpIE11cmFrYW1pJw==?= <fabricio@crivodarazao.org.br>, 
+ =?UTF-8?B?J1JvZ8OpcmlvIGRvcyBTYW50b3MgT3RhJw==?= <rogerio@crivodarazao.org.br>, 
+ 'Douglas Klein Basso' <douglas.klein@gmail.com>, 
+ 'Marco Antonio Perosa Parise' <marco@digitalfotoimagem.com.br>, 
+ 'Gilberto Dante' <gilbertodante@hotmail.com>, 
+ 'Ernani Flausino' <ecobom@ig.com.br>, 
+ Marcus Welbi <marcuswelbi@crivodarazao.org.br>
+Message-ID: <54f35eb733c59_2f72156d59f413e49792c@a4-weasel6.mail>
+in-reply-to: ["54f32f1a92836_5dd15b980f893d85718b@a4-weasel12.mail"]
+references: ["[\"ab14775db0bd0a8c6d7d2292c16d923c@crivodarazao.org.br\",
+ \"051501d053b1$c0b30960$42191c20$@org.br\"]",
+ "54f32f1a92836_5dd15b980f893d85718b@a4-weasel12.mail"]
+Subject: Re: Teste
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-SenderIP: 187.56.130.247
+X-SIG5: 109c07c8e33587553d9948bd72cd0d14
+X-Spam-Status: No, score=-0.9
+X-Spam-Score: -8
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hserv20.homehost.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Teste De: Domingo, 1 de Março de 2015 12:24 Para: Teste TESTAdo...
+    [...] 
+ 
+ Content analysis details:   (-0.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: demello.net.br]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (helioamandara[at]uol.com.br)
+ -0.0 T_RP_MATCHES_RCVD      Envelope sender domain matches handover relay
+                             domain
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.7 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.4 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+X-Spam-Flag: NO
+
+<div>Teste<br /> <br /><br /></div>
+<hr style=3D"border-top: 1px solid #ccc;" />
+<div><br /><strong>De:</strong> mmtesta@uol.com.br<br /><strong>Enviada:<=
+/strong> Domingo, 1 de Mar=C3=A7o de 2015 12:24<br /><strong>Para:</stron=
+g> marcuswelbi@crivodarazao.org.br<br /><strong>Assunto:</strong> Teste<b=
+r /><br /></div>
+<div><span style=3D"text-decoration: underline;"><em><strong><span style=3D=
+"font-size: xx-large;">TESTAdo...</span></strong></em></span><br /> <br /=
+><br /></div>
+<hr style=3D"border-top: 1px solid #ccc;" />
+<div><br /><strong>De:</strong> marcuswelbi@crivodarazao.org.br<br /><str=
+ong>Enviada:</strong> S=C3=A1bado, 28 de Fevereiro de 2015 20:53<br /><st=
+rong>Para:</strong> chancelaria@crivodarazao.org.br,xandedias.castro@gmai=
+l.com,ma.finardi@hotmail.com,dino.abf@gmail.com,flavio@crivodarazao.org.b=
+r,josedonisetiluiz@yahoo.com.br,oswaldosantosjunior@gmail.com,enedino@cri=
+vodarazao.org.br,crivodarazao@crivodarazao.org.br,ackack1969@yahoo.com.br=
+,carlos.rossetti@uol.com.br,arsenio.p.lopes@gmail.com,valdes@uol.com.br,g=
+ambetti@gambetti.com.br,ronaldozabeu@terra.com.br,mmtesta@uol.com.br,deja=
+ir.bianchi@uol.com.br,ttturi@terra.com.br,w.caldana@uol.com.br,fallcar@ho=
+tmail.com,benedito.flaminio@claro.com.br,luiz_ma@hotmail.com,Jairo@roofte=
+c.com.br,helioamandara@uol.com.br,marckopat@live.com,ncosta@usa.com,titos=
+s@ig.com.br,tmello@demello.net.br,wladsmozz@hotmail.com,fabricio@crivodar=
+azao.org.br,rogerio@crivodarazao.org.br,douglas.klein@gmail.com,marco@dig=
+italfotoimagem.com.br,gilbertodante@hotmail.com,ecobom@ig.com.br<br /><st=
+rong>Assunto:</strong> Teste<br /><br /></div>
+<div class=3D"notviscode"><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.EstiloDeEmail18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></div>
+<!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+<div class=3D"WordSection1">
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size: 11.0pt; font-family: 'Ca=
+libri','sans-serif'; color: #1f497d;">=C2=A0</span></p>
+</div>
+</div>
+<div>=C2=A0</div>
+<div>=C2=A0</div>=

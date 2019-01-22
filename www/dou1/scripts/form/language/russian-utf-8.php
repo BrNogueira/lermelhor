@@ -1,0 +1,32 @@
+<?php
+$aLang['The form was not submitted for the following reasons:'] = 'Форма не была принята по следующим причинам:';
+$aLang['Please click'] = 'Пожалуйста, нажмите';
+$aLang['here'] = 'сюда,';
+$aLang['to return to the form and try again.'] = 'чтобы вернуться к форме и попробовать снова.';
+$aLang['Missing:'] = 'Отсутствуют:';
+$aLang['Could not find online form configuration file ID='] = 'Не найден идентификационный номер конфигурационного файла сетевой формы=';
+$aLang[' for RV SiteBuilder formmail.'] = ' для отправки по почте формы RV SiteBuilder.';
+$aLang['I NEED VALID RECIPIENT EMAIL ADDRESS'] = 'МНЕ НЕОБХОДИМ СУЩЕСТВУЮЩИЙ АДРЕС ЭЛЕКТРОННОЙ ПОЧТЫ';
+$aLang['TO CONTINUE</b>'] = 'ДЛЯ ПРОДОЛЖЕНИЯ</b>';
+$aLang['your <b>email address'] = '<b>адрес электронной почты';
+$aLang['</b> is invalid.'] = '</b> указан неверно.';
+$aLang['your <b>zip/postal code</b> is invalid'] = '<b>почтовый индекс/почтовый код</b> указан неверно';
+$aLang['your <b>phone number</b> is invalid'] = '<b>номер телефона</b> указан неверно';
+$aLang['your <b>fax number</b> is invalid'] = '<b>номер факса </b> указан неверно';
+$aLang['Thank you for submitting your enquiry'] = 'Благодарим за отправку запроса.';
+$aLang['This form is powered by '] = 'Эта форма основана на';
+$aLang['Please use your browser back button to return to the form and try again.'] = 'Пожалуйста, используйте кнопку «назад» в браузере для того, чтобы вернуться к форме и продолжить.';
+$aLang['This form is powered by'] = 'Эта форма основана на';
+$aLang['You are using from a <b>banned email address.</b>'] = 'Вы используете <b>заблокированный адрес электронной почты.</b>';
+$aLang['You are coming from an'] = 'Вы заходите на сайт из';
+$aLang['You are coming from an <b>unauthorized domain.</b>'] = 'Вы заходите на сайт из <b>неавторизованного доменного имени.</b>';
+$aLang['Spam mail detected.'] = 'Обнаружено сомнительное письмо.';
+$aLang['Your message never be sent.'] = 'Ваше письмо не было отправлено.';
+$aLang['If you accidentally get this error, please contact us for the resolution.'] = 'Если у Вас возникла данная ошибка, пожалуйста, то для ее решения просим связаться с нами.';
+$aLang['This was an INVALID submission. You have acted like a spambot!'] = 'Ваш запрос не прошел проверку - Вы действовали как спамбот!';
+$aLang['Cannot connect to sendmail server'] = 'Не удалось подключиться к почтовому серверу.';
+$aLang['Sending email from'] = 'Отправить письмо с электронного адреса';
+$aLang['to'] = 'на адрес';
+$aLang['failed'] = 'не удалась';
+$aLang['Sorry, your admin disable send mail.'] = 'Sorry, your admin disable send mail.';
+?>

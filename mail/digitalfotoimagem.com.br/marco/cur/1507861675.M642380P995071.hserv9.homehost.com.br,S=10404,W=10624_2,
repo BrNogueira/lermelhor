@@ -1,0 +1,220 @@
+Return-Path: <marceloeloyfernandes@gmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br with LMTP id aIQLJqsk4Fn/Lg8AY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Thu, 12 Oct 2017 23:27:55 -0300
+Return-path: <marceloeloyfernandes@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 12 Oct 2017 23:27:55 -0300
+Received: from mail-qt0-f171.google.com ([209.85.216.171]:46271)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <marceloeloyfernandes@gmail.com>)
+	id 1e2phb-004Aic-F1
+	for marco@digitalfotoimagem.com.br; Thu, 12 Oct 2017 23:27:55 -0300
+Received: by mail-qt0-f171.google.com with SMTP id 1so17192460qtn.3
+        for <marco@digitalfotoimagem.com.br>; Thu, 12 Oct 2017 19:27:29 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to
+         :cc;
+        bh=fxFvWadGkzW9Vxa7FStNqA4NbmdN2PycIzB/sd5x59U=;
+        b=rx5lW0dYqNhBT+N4t3JG9yXcgiM75tVRhn/m7t1tEEvWxEXuwST9+Q7o7Xc/xQR3cx
+         6nSQdVNmMqKCcAxdJR1tyCc9W87tgGgxSQV0sN8+RQyZE0gZNmCfQ2HdrDMBlPPMxKxG
+         PMMTOoXoeDZLMDR2vND/DfzHSMMA2HO7XuxHW7h13o/bIr4VpAXpBfjcUDwXVjWevxYH
+         ugE1vXaxXdpjUy2gp4cWloDz+VC7VemuwTKRur6LwIW2HdpSqcq2yR9FMBb1qGflKtx2
+         IIL9/sWrCQmBy7ugw5KcPkm7Gk6wLeNduRRXvaakttBou6ifpI9SQ/OVWrSGckmsp3kC
+         VqlQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to:cc;
+        bh=fxFvWadGkzW9Vxa7FStNqA4NbmdN2PycIzB/sd5x59U=;
+        b=j+/dsI3sULp0ZZnUVQOPuZ5wouJNIyEl0MiAOKzeW28dIdHjxpUVXT0EswLYaQQAJV
+         GPC+cWveRjhgGVYDr23nkE6aVSCgqfWnhUPQnn9VeMJk0SXIiYJpCjPIkZnuZYZ5MFvU
+         M9HEtAblV3c083WsZwiizctoYSjZ24aSmLqB2wqXPVXS+yZ6FDYk1qmY3Dnn+lR7nWyF
+         WSh+KkaLrG7XgVsDBQpDEWIc6ukfUkUeava6x8/38xBpDNRSKciImWhkbck8A+TwlWK5
+         tnPEObUHsnb5kXWRzHFzJQChWvdff3NfryTsrLA02FFVA9KhT+AH8intPGQHPSm8mbvp
+         zWsA==
+X-Gm-Message-State: AMCzsaW4afSlmqFa4CEJgAwVcZXZGxs4s5i4f6YXRb/YQJvefEePtiEW
+	xP7VEL3YaVOJxhHUZ8pOpKOeLgjR09609CzMrIw=
+X-Google-Smtp-Source: AOwi7QDpTuTyN1IIBqo4eH5xoFxj2X6eVyl8NrgfOGY5CYs2pWi96nvaDceGxwQ5keqHf1rd2ry0CBpFBwrRqhK1PGA=
+X-Received: by 10.37.80.5 with SMTP id e5mr3015530ybb.502.1507861627720; Thu,
+ 12 Oct 2017 19:27:07 -0700 (PDT)
+MIME-Version: 1.0
+References: <005501d30c0a$390dac40$ab2904c0$@com.br> <054101d3436e$cfa24c60$6ee6e520$@com.br>
+ <RO1P15201MB255331461D3AE4925523ACADAC480@RO1P15201MB2553.LAMP152.PROD.OUTLOOK.COM>
+In-Reply-To: <RO1P15201MB255331461D3AE4925523ACADAC480@RO1P15201MB2553.LAMP152.PROD.OUTLOOK.COM>
+From: Marcelo Eloy <marceloeloyfernandes@gmail.com>
+Date: Fri, 13 Oct 2017 02:26:56 +0000
+Message-ID: <CAO3gwY9e_2gchJxmTWyg+uhuNWR6dbxSOvG_c4kRcUziZuqyjg@mail.gmail.com>
+Subject: =?UTF-8?Q?Re=3A_Parab=C3=A9ns_Atrasado_ao_Marcelo=2C_Nosso_Aniversaria?=
+	=?UTF-8?Q?nte_de_Ontem=2C_11=2F10=2F2017=21=21=21?=
+To: Egoshi da CTT3843 <ctt3843@egoshi.com.br>, Wladimir Viveiro <wviveiro@live.com>
+Cc: Alexandre Dellamura Sarmento <dellamura@uol.com.br>, 
+	Andre Luis Pereira de Godoi <andrelpgodoi@gmail.com>, =?UTF-8?Q?Andr=C3=A9_Rivail_Medrado?= <professor@medrado.adv.br>, 
+	Antonio Celso Tessari <celsotessari@gmail.com>, Antonio Finardi <ma.finardi@hotmail.com>, 
+	Antonio Kossei Takara <takar2@terra.com.br>, 
+	=?UTF-8?Q?Benedito_Carlos_Flam=C3=ADnio?= <carlos.flaminio@gmail.com>, 
+	Carlos Mave de Campos Assis <cmave96@gmail.com>, =?UTF-8?Q?Carlos_Rosseti_=28Kak=C3=A1=29?= <carlos.rossetti@uol.com.br>, 
+	=?UTF-8?Q?Dem=C3=A9trio_Muniz_Pendek?= <demetriopendek@hotmail.com>, 
+	Eduardo Camacho <eduardocamacho@uol.com.br>, Eduardo Lopes <ebernardinolopes@uol.com.br>, 
+	Ernani Flausino <ernani.flausino@terra.com.br>, 
+	Everth Alves Bonavolonta <everth@mixlav.com.br>, Fernando Ziesmann Fortes <fernandozf@hotmail.com>, 
+	=?UTF-8?Q?F=C3=A1bio_Roberto_Faria?= <szfaria@gmail.com>, 
+	Gilberto Campos <gdcampos@uol.com.br>, Hideraldo Rodrigues Gomes <enghgomes@gmail.com>, 
+	Humberto de Oliveira Serrano <humberto.serrano@hotmail.com>, 
+	=?UTF-8?Q?H=C3=A9lio_Alvarez_Felix?= <helioamandara@uol.com.br>, 
+	Jair Airton Felix <j.felix10@bol.com.br>, Johannes Kozlowski <jkozlowski@uol.com.br>, 
+	=?UTF-8?Q?Jos=C3=A9_Carlos_de_Lima?= <jcl@tech-air.com.br>, 
+	=?UTF-8?Q?J=C3=BAlio_Cesar_Mattos_de_Faria?= <mattosfaria@terra.com.br>, 
+	Marcilio Marques Testa <mmtesta43@gmail.com>, Marco Antonio Patriniani <marckopat@live.com>, 
+	=?UTF-8?Q?Marco_Ant=C3=B4nio_Pedrosa_Parise?= <marco@digitalfotoimagem.com.br>, 
+	Marcus Welbi <marcuswelbi@crivodarazao.org.br>, Natanael Costa <ncosta@usa.com>, 
+	Nelson Pendek <nelpendek@hotmail.com>, 
+	"Ricardo C. A. Carvalho" <ricardocarvalho930@gmail.com>, 
+	=?UTF-8?Q?Sebasti=C3=A3o_Rubens_Costa?= <rubens@linart.com.br>, 
+	Silvio Verdiani <sverdiani@terra.com.br>, Sylvio Quintino Junior <squintinoj@gmail.com>, 
+	=?UTF-8?Q?S=C3=A9rgio_Fosque?= <sergio@aresultado.adm.br>, 
+	Wanderley Santana dos Santos <wanderleyssamtos@gmail.com>, 
+	Wellington Alfano Rodrigues Silva <alfanohi@gmail.com>
+Content-Type: multipart/alternative; boundary="001a113ead36b0dbfb055b6464e4"
+
+--001a113ead36b0dbfb055b6464e4
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Prezado Serrano , retransmita ao mano Marcelo , votos de felicidades.
+Abra=C3=A7os
+Marcelo Eloy Fernandes
+Em qui, 12 de out de 2017 =C3=A0s 23:25, Wladimir Viveiro <wviveiro@live.co=
+m>
+escreveu:
+
+> Irm=C3=A3o Serrano, transmita nossos parab=C3=A9ns ao nosso sobrinho Marc=
+elo e
+> nossos votos de felicidades e sucesso!
+>
+> Irm=C3=A3o Wladimir
+>
+> Wladimir Viveiro
+>
+> Em 12 de out de 2017, =C3=A0s 12:29, Egoshi da CTT3843 <ctt3843@egoshi.co=
+m.br>
+> escreveu:
+>
+> Parab=C3=A9ns ao nosso querido sobrinho *Marcelo *que aniversariou ontem!=
+!!
+>
+>
+>
+> *Marcelo *=C3=A9 filho do nosso querido Ir\ *Serrano*.
+>
+>
+>
+> Ao *Marcelo, ao *Ir\ *Serrano* e a *Toda a Sua Fam=C3=ADlia*, ensejamos n=
+ossos
+> mais sinceros votos de felicidade e sucesso na vida!!!
+>
+>
+>
+> Esta chancelaria pede desculpas pelo atraso =E2=80=93 mas antes tarde que=
+ nunca,
+> n=C3=A3o =C3=A9 mesmo?
+>
+>
+>
+> Fraternalmente
+>
+>
+>
+> <image001.png>
+>
+> --
+Sent from Gmail Mobile
+
+--001a113ead36b0dbfb055b6464e4
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div><div dir=3D"auto">Prezado Serrano , retransmita ao mano Marcelo , voto=
+s de felicidades.</div><div dir=3D"auto">Abra=C3=A7os=C2=A0</div><div dir=
+=3D"auto">Marcelo Eloy Fernandes=C2=A0</div><div class=3D"gmail_quote"><div=
+>Em qui, 12 de out de 2017 =C3=A0s 23:25, Wladimir Viveiro &lt;<a href=3D"m=
+ailto:wviveiro@live.com">wviveiro@live.com</a>&gt; escreveu:<br></div><bloc=
+kquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #cc=
+c solid;padding-left:1ex">
+
+
+
+<div dir=3D"auto">
+<div>Irm=C3=A3o Serrano, transmita nossos parab=C3=A9ns ao nosso sobrinho M=
+arcelo e nossos votos de felicidades e sucesso!</div>
+<div id=3D"m_3456648504632589356AppleMailSignature"><br>
+</div>
+<div id=3D"m_3456648504632589356AppleMailSignature">Irm=C3=A3o Wladimir<br>
+<br>
+Wladimir Viveiro</div></div><div dir=3D"auto">
+<div><br>
+Em 12 de out de 2017, =C3=A0s 12:29, Egoshi da CTT3843 &lt;<a href=3D"mailt=
+o:ctt3843@egoshi.com.br" target=3D"_blank">ctt3843@egoshi.com.br</a>&gt; es=
+creveu:<br>
+<br>
+</div>
+</div><div dir=3D"auto"><blockquote type=3D"cite"><div><div class=3D"m_3456=
+648504632589356WordSection1">
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"color:#0=
+02060">Parab=C3=A9ns
+</span><span style=3D"color:#1f497d">ao</span><span style=3D"color:#002060"=
+> noss</span><span style=3D"color:#1f497d">o</span><span style=3D"color:#00=
+2060"> querid</span><span style=3D"color:#1f497d">o</span><span style=3D"co=
+lor:#002060"> sobrinh</span><span style=3D"color:#1f497d">o</span>
+<b><span style=3D"color:red">Marcelo </span></b><span style=3D"color:#00206=
+0">que aniversario</span><span style=3D"color:#1f497d">u</span><span style=
+=3D"color:#002060">
+</span><span style=3D"color:#1f497d">ontem</span><span style=3D"color:#0020=
+60">!!!</span><u></u><u></u></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><b><span style=3D"color=
+:red">Marcelo
+</span></b><span style=3D"color:#002060">=C3=A9 filh</span><span style=3D"c=
+olor:#1f497d">o</span><span style=3D"color:#002060"> do nosso querido Ir</s=
+pan><span style=3D"font-family:Symbol;color:#002060">\</span>
+<b><span style=3D"color:#1f497d">Serrano</span></b><span style=3D"color:#1f=
+497d">.</span><u></u><u></u></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"color:#1=
+f497d">Ao</span>
+<b><span style=3D"color:red">Marcelo</span><span style=3D"color:#1f497d">, =
+ao </span>
+</b><span style=3D"color:#002060">Ir</span><span style=3D"font-family:Symbo=
+l;color:#002060">\</span>
+<b><span style=3D"color:#1f497d">Serrano</span></b><span style=3D"color:#00=
+2060"> e a
+<b>Toda a Sua Fam=C3=ADlia</b>, ensejamos nossos mais sinceros votos de fel=
+icidade e sucesso na vida!!!</span><u></u><u></u></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"color:#1=
+f497d"><u></u>=C2=A0<u></u></span></p>
+</div></div></blockquote></div><div dir=3D"auto"><blockquote type=3D"cite">=
+<div><div class=3D"m_3456648504632589356WordSection1"><p class=3D"MsoNormal=
+" style=3D"text-align:justify"><span style=3D"color:#1f497d">Esta chancelar=
+ia pede desculpas pelo atraso =E2=80=93 mas antes tarde que nunca, n=C3=A3o=
+ =C3=A9 mesmo?
+<u></u><u></u></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"color:#1=
+f497d"><u></u>=C2=A0<u></u></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"color:#0=
+02060">Fraternalmente<u></u><u></u></span></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal">&lt;image001.png&gt;<u></u><u></u></p>
+</div>
+</div>
+</blockquote>
+</div>
+
+</blockquote></div></div><div dir=3D"ltr">-- <br></div><div class=3D"gmail_=
+signature" data-smartmail=3D"gmail_signature">Sent from Gmail Mobile</div>
+
+--001a113ead36b0dbfb055b6464e4--

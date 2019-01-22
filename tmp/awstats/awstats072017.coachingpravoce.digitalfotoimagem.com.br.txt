@@ -1,0 +1,370 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201707 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.coachingpravoce.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2036                
+POS_TIME 2694                
+POS_VISITOR 9273                
+POS_DAY 10211               
+POS_DOMAIN 3361                
+POS_LOGIN 3659                
+POS_ROBOT 3814                
+POS_WORMS 4244                
+POS_EMAILSENDER 4375                
+POS_EMAILRECEIVER 4518                
+POS_SESSION 10589               
+POS_SIDER 10736               
+POS_FILETYPES 4653                
+POS_DOWNLOADS 4823                
+POS_OS 4871                
+POS_BROWSER 5066                
+POS_SCREENSIZE 5442                
+POS_UNKNOWNREFERER 5516                
+POS_UNKNOWNREFERERBROWSER 5736                
+POS_ORIGIN 5818                
+POS_SEREFERRALS 5951                
+POS_PAGEREFS 6095                
+POS_SEARCHWORDS 6269                
+POS_KEYWORDS 6421                
+POS_MISC 2358                
+POS_ERRORS 6480                
+POS_CLUSTER 3515                
+POS_SIDER_404 6576                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170810224608 1 0 8276573800969
+FirstTime 0
+LastTime 20170723185253
+LastUpdate 20170811094612 1 0 0 0 0
+TotalVisits 24                  
+TotalUnique 22                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 22                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 25088 7 51 1684232
+1 1 1 25088 1 2 26234
+2 2 2 50176 11 16 175160
+3 0 0 0 4 12 118269
+4 2 2 50176 14 34 149108
+5 0 0 0 3 6 90426
+6 1 1 25088 14 16 93820
+7 0 0 0 6 29 166925
+8 0 0 0 2 4 75058
+9 1 1 25088 7 9 143968
+10 2 2 50176 2 3 62189
+11 1 41 1633697 1 4 8249
+12 0 0 0 8 29 182032
+13 1 1 22915 17 25 287929
+14 0 0 0 1 2 37936
+15 0 0 0 5 9 0
+16 0 0 0 2 5 43449
+17 8 8 194162 4 14 108781
+18 6 6 143944 2 4 69084
+19 2 2 50176 1 4 37936
+20 2 2 50176 1 6 25131
+21 1 1 25088 10 12 62167
+22 9 9 219269 6 10 100152
+23 3 3 75264 9 34 397759
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+us 17 17 419954
+br 10 50 1850732
+ca 9 9 219269
+gb 4 4 100352
+de 2 2 50176
+cn 1 1 25088
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+googlebot 87 825922 20170722071003 0
+bot[\s_+:,\.\;\/\\-] 55 1435042 20170730020135 0
+bingpreview 41 1608968 20170701005230 0
+checker 5 118862 20170706131654 0
+googlebot\-image 5 31507 20170720205621 0
+crawl 3 50176 20170721104104 0
+netcraft 2 50176 20170707122334 0
+robot 1 25088 20170704202637 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 22 158829 0 0
+jpeg 1 82616 0 0
+jpg 9 1054184 0 0
+js 8 312980 0 0
+html 27 677376 0 0
+php 16 379586 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+winnt 2 2
+win8.1 3 3
+win7 44 4
+winlong 1 1
+macosx 1 1
+linuxandroid 2 2
+win2000 1 1
+macosx9 1 1
+winxp 5 5
+Unknown 20 20
+linux 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 19
+chrome23.0.1271.95 2 2
+firefox42.0 1 1
+chrome37.0.2049.0 3 3
+firefox3.6.3 1 1
+msie6.0 1 1
+firefox11.0 1 1
+firefox54.0 41 1
+safari5.5.1 1 1
+firefox21.0 1 1
+msie8.0 1 1
+chrome57.0.2987.133 1 1
+netscape 6 6
+firefox3.5.0 2 2
+safari7.0.3 1 1
+firefox50.0 2 2
+chrome45.0.2454.94 1 1
+firefox52.0 2 2
+mozilla 14 14
+chrome30.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla 20170723185253
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20170721222936
+Mozilla/5.0_(compatible;_ips-agent) 20170717170411
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 36 36
+From1 0 0
+From2 0 0
+From3 1 1
+From4 6 46
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://m.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+301 1 253
+404 140 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 52
+/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/inc/uploadify/uploadify.swf 1 http://coachingpravoce.com.br/inc/uploadify/uploadify.swf
+/beta/wp-admin/setup-config.php 1 -
+/MKT/images/4/1a.jpg 1 -
+/MKT/images/6/1.jpg 1 -
+/images/headerbanner/header_ab243f410213147176fbd82a6ac2a9fe.jpg 2 -
+/xmlrpc.php 3 -
+/sitemap.xml 1 -
+/administrator/ 2 -
+/wp-admin/setup-config.php 1 -
+/xbfk.php 1 -
+/wp-content/themes/clockstone/theme/functions/upload.php 1 -
+/admin/uploadify/uploadify.swf 1 http://coachingpravoce.com.br/admin/uploadify/uploadify.swf
+/new/wp-admin/setup-config.php 1 -
+/wp-content/uploads/8d4c2c1489fa766.php 1 -
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/robots.txt 63 -
+/uploadify/uploadify.php 2 http://coachingpravoce.com.br/wp-admin/
+/images/spacer.gif 1 -
+/MKT/images/5/16.jpg 3 -
+/llx.php 1 -
+/coachingeducom.com.br 6 -
+/cms/uploadify/uploadify.swf 1 http://coachingpravoce.com.br/cms/uploadify/uploadify.swf
+/js/uploadify/uploadify.swf 1 http://coachingpravoce.com.br/js/uploadify/uploadify.swf
+/images/headerbanner/2.jpg 1 -
+/wp-admin/admin-ajax.php 2 http://coachingpravoce.com.br/wp-admin/
+/uploadify/uploadify.swf 1 http://coachingpravoce.com.br/uploadify/uploadify.swf
+/administrator/robots.txt 1 -
+/administrator/wp-login.php 1 -
+/license.php 2 http://coachingpravoce.com.br/wp-admin/
+/plugins/uploadify/uploadify.swf 1 http://coachingpravoce.com.br/plugins/uploadify/uploadify.swf
+/site/wp-includes/wlwmanifest.xml 1 -
+/images/headerbanner/header_eefaf277e481110115a32d0adf87d8ef.jpg 1 -
+/blog/wordpress/wp-admin/setup-config.php 1 -
+/ 4 -
+/shop 2 coachingpravoce.com.br/shop
+/wp/wp-includes/wlwmanifest.xml 1 -
+/images/headerbanner/header_banner.jpg 1 -
+/blog/wp-includes/wlwmanifest.xml 1 -
+/admin/lib/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/includes/uploadify/uploadify.swf 1 http://coachingpravoce.com.br/includes/uploadify/uploadify.swf
+/blogs/wp-admin/setup-config.php 1 -
+/MKT/images/5/17.jpg 4 -
+/wp-content/themes/clockstone/theme/functions/e33e940e1d2d02a3d653f546adb8ba30.php 1 -
+/MKT/images/video10porcento.jpg 1 -
+/wp-login.php 2 -
+/lib/uploadify/uploadify.swf 1 http://coachingpravoce.com.br/lib/uploadify/uploadify.swf
+/wp-content/uploads/8d4ccbf06a8f71c.php 1 -
+/wp-includes/wlwmanifest.xml 1 -
+/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/MKT/images/6/3.jpg 1 -
+/static/js/tiny_mce/plugins/tinybrowser/upload.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 22
+158.69.27.211 9 9 219269 20170721222938
+200.162.176.5 6 6 143944 20170723185253
+69.58.178.57 6 6 143986 20170717170411
+163.172.4.153 3 3 75264 20170721190126
+201.18.18.173 2 2 50176 20170711235211
+69.30.255.186 1 1 25088 20170704044434
+209.160.65.104 1 1 25088 20170710101817
+54.188.192.244 1 1 25088 20170706194827
+52.36.92.73 1 1 25088 20170717231701
+208.110.66.130 1 1 25088 20170716215353
+195.28.182.35 1 1 25088 20170714043843
+35.166.223.123 1 1 25088 20170720025922
+34.211.205.163 1 1 25088 20170715022211
+34.212.195.169 1 1 25088 20170711174847
+173.208.253.178 1 1 25088 20170721100425
+187.38.177.61 1 1 22915 20170705132620
+34.210.12.221 1 1 25088 20170713092810
+54.69.205.33 1 1 25088 20170708174146
+5.9.112.6 1 1 25088 20170702201044
+27.153.132.52 1 1 25088 20170723011859
+78.46.156.169 1 1 25088 20170702201052
+200.150.77.254 1 41 1633697 20170721110922
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20170702 2 2 50176 2
+20170704 1 1 25088 1
+20170705 1 1 22915 1
+20170706 1 1 25088 1
+20170708 1 1 25088 1
+20170710 2 2 50176 2
+20170711 3 3 75264 2
+20170713 1 1 25088 1
+20170714 1 1 25088 1
+20170715 1 1 25088 1
+20170716 2 2 50176 2
+20170717 7 7 169074 2
+20170720 1 1 25088 1
+20170721 12 52 1903142 4
+20170723 7 7 169032 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 24
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/ 27 677376 23 21
+/In%C3%ADcio.php 3 75264 0 0
+/index.php 3 75264 0 2
+/Servi%C3%A7os.php 3 78702 0 0
+/Copied-Contate-nos.php 3 63351 0 0
+/Contate-nos.php 3 64090 0 0
+/MKT/Aplicativo-Leit--Din-e-Coach-PNL.php 1 22915 1 1
+END_SIDER

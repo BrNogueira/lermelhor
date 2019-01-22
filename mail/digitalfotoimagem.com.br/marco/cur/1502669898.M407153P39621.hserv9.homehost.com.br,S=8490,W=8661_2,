@@ -1,0 +1,171 @@
+Return-Path: <wanderleyssamtos@gmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id Ge0tGErskFnFmgAAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Sun, 13 Aug 2017 21:18:18 -0300
+Return-path: <wanderleyssamtos@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sun, 13 Aug 2017 21:18:18 -0300
+Received: from mail-qt0-f170.google.com ([209.85.216.170]:36483)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <wanderleyssamtos@gmail.com>)
+	id 1dh35G-000AW9-8s
+	for marco@digitalfotoimagem.com.br; Sun, 13 Aug 2017 21:18:18 -0300
+Received: by mail-qt0-f170.google.com with SMTP id v29so44505164qtv.3
+        for <marco@digitalfotoimagem.com.br>; Sun, 13 Aug 2017 17:17:52 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc;
+        bh=Zcq+tYHHbA/avpCyeHTYqQkgKB53H4sD4BwCImUrdxs=;
+        b=kb2UPjuQHwuGTh3ertoWMnmEir9w5dRozJTGVWmsmca5HjJwo8e76p+1NAlJqMzK/z
+         RTiX10A4bFLCFLZoawU8PJafSBFHeJwhGsZRa2H58u2s2H+VzJgchKk72pr9rl1PfYCR
+         hkqiSghLIClqwKMJmLtSnODIJQiQ0l1HQW3BJlzUsbRD6Hlskp6bhBb8mBFpbKDnclJD
+         kt5o5UlyXUHLvdujpC8JxHprKkVzOc8i/IYYrnrWWgTOATHMDLKBuWDyhGZAYrp7Yx4J
+         XsIsdOacWNIpVHkLpgu+IQxG6+HJSscsvAx/uTOxbKbJtubEbobf2zKwMamr4AiG4vWj
+         b5NA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:cc;
+        bh=Zcq+tYHHbA/avpCyeHTYqQkgKB53H4sD4BwCImUrdxs=;
+        b=d4+qhynnvSth/DU9yKc86dYMjBW0y3h6WtqS+h7EL/K5mYcKR0O/37UPEPIid6BFOp
+         emZsxfp6pxPSn53pe/hgVB4H9E2LNSdEUyJmqbfnJs9YFeJKF1o3NKbk/33O57+vMyLn
+         O+jNHw8F9FW6acsN7+B6eIJv4sLDP1k/xjla2a0pRQWECF7fHeSIBQfjfYUPYG8Ia3KJ
+         6yHejGFKilPCiMWtd+VJTfWzNiPpHseFCsnhxk1sZGO0ECgPMkhq3DM1U2Au6TJSX1sX
+         wvI8e6CqUcgYKy6qditXNr4X0gbvP7/u8U4Y2dXnWlghjDSUoZFet1NVN+Mvb4Qw4I/m
+         mnGQ==
+X-Gm-Message-State: AHYfb5hdwI9bTro7p1kyuu1LmsFZ2wi71xSPW7K3l0CwhRqwsFkYI7uU
+	wTVoR4vCDW2AS/hdswkLYifbg6pbiA==
+X-Received: by 10.200.55.204 with SMTP id e12mr32452526qtc.180.1502669851119;
+ Sun, 13 Aug 2017 17:17:31 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.12.180.82 with HTTP; Sun, 13 Aug 2017 17:17:30 -0700 (PDT)
+In-Reply-To: <04b601d31463$606843c0$2138cb40$@com.br>
+References: <005501d30c0a$390dac40$ab2904c0$@com.br> <04b601d31463$606843c0$2138cb40$@com.br>
+From: "Wanderley Samtos .'." <wanderleyssamtos@gmail.com>
+Date: Sun, 13 Aug 2017 21:17:30 -0300
+Message-ID: <CAD5DfqBJ6jyYtgt8zRFoxJ31DL-K2SY9+fPAWh4r+oOwXJNYTg@mail.gmail.com>
+Subject: =?UTF-8?B?UmU6IFBhcmFiw6lucywgUGFwYWkhISE=?=
+To: Egoshi da CTT3843 <ctt3843@egoshi.com.br>
+Cc: Andre Luis Pereira de Godoi <andrelpgodoi@gmail.com>, Antonio Finardi <ma.finardi@hotmail.com>, 
+	Antonio Celso Tessari <celsotessari@gmail.com>, Antonio Kossei Takara <takar2@terra.com.br>, 
+	=?UTF-8?Q?Benedito_Carlos_Flam=C3=ADnio?= <carlos.flaminio@gmail.com>, 
+	Carlos Mave de Campos Assis <cmave96@gmail.com>, =?UTF-8?Q?Carlos_Rosseti_=28Kak=C3=A1=29?= <carlos.rossetti@uol.com.br>, 
+	=?UTF-8?Q?Dem=C3=A9trio_Muniz_Pendek?= <demetriopendek@hotmail.com>, 
+	Eduardo Camacho <eduardocamacho@uol.com.br>, Eduardo Lopes <ebernardinolopes@uol.com.br>, 
+	Ernani Flausino <ernani.flausino@terra.com.br>, 
+	Everth Alves Bonavolonta <everth@mixlav.com.br>, =?UTF-8?Q?F=C3=A1bio_Roberto_Faria?= <szfaria@gmail.com>, 
+	Fernando Ziesmann Fortes <fernandozf@hotmail.com>, Gilberto Campos <gdcampos@uol.com.br>, 
+	=?UTF-8?Q?H=C3=A9lio_Alvarez_Felix?= <helioamandara@uol.com.br>, 
+	Hideraldo Rodrigues Gomes <enghgomes@gmail.com>, 
+	Humberto de Oliveira Serrano <humberto.serrano@hotmail.com>, Jair Airton Felix <j.felix10@bol.com.br>, 
+	Johannes Kozlowski <jkozlowski@uol.com.br>, =?UTF-8?Q?Jos=C3=A9_Carlos_de_Lima?= <jcl@tech-air.com.br>, 
+	=?UTF-8?Q?J=C3=BAlio_Cesar_Mattos_de_Faria?= <mattosfaria@terra.com.br>, 
+	Marcelo Eloy Fernandes <marceloeloyfernandes@gmail.com>, 
+	Marcilio Marques Testa <mmtesta43@gmail.com>, Marco Antonio Patriniani <marckopat@live.com>, 
+	=?UTF-8?Q?Marco_Ant=C3=B4nio_Pedrosa_Parise?= <marco@digitalfotoimagem.com.br>, 
+	Marcus Welbi <marcuswelbi@crivodarazao.org.br>, Natanael Costa <ncosta@usa.com>, 
+	Nelson Pendek <nelpendek@hotmail.com>, 
+	"Ricardo C. A. Carvalho" <ricardocarvalho930@gmail.com>, 
+	=?UTF-8?Q?Sebasti=C3=A3o_Rubens_Costa?= <rubens@linart.com.br>, 
+	=?UTF-8?Q?S=C3=A9rgio_Fosque?= <sergio@aresultado.adm.br>, 
+	Silvio Verdiani <sverdiani@terra.com.br>, Sylvio Quintino Junior <squintinoj@gmail.com>, 
+	Wladimir Viveiro <wviveiro@live.com>, Wellington Alfano Rodrigues Silva <alfanohi@gmail.com>
+Content-Type: multipart/alternative; boundary="001a1141e4cab0d8b70556ab962c"
+
+--001a1141e4cab0d8b70556ab962c
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+[image: Resultado de imagem para imagem de m=C3=A3os orando]
+
+Que assim seja meus IIr.'.
+
+*Wanderley dos Samtos .'.*
+*accounting expertise*
+*wanderleyssamtos@gmail.com <wanderleyssamtos@gmail.com>*
+
+
+
+*wanderleysamtos.blogspot.com.br
+<http://wanderleysamtos.blogspot.com.br>011-96323.11.10O homem de bem exige
+tudo de si pr=C3=B3prio, omed=C3=ADocre espera tudo dos outros(Conf=C3=BAci=
+o)*
+
+Em 13 de agosto de 2017 15:38, Egoshi da CTT3843 <ctt3843@egoshi.com.br>
+escreveu:
+
+> Parab=C3=A9ns a Voc=C3=AA, Papai, que luta bravamente em prol de uma vida=
+ mais digna
+> e
+> um  mundo melhor aos seus filhos e netos!!!
+>
+>
+>
+> Fraternalmente por Tr=C3=AAs Vezes!!!
+>
+>
+>
+>
+>
+>
+>
+> ---
+> Este email foi escaneado pelo Avast antiv=C3=ADrus.
+> https://www.avast.com/antivirus
+>
+
+--001a1141e4cab0d8b70556ab962c
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><img src=3D"https://encrypted-tbn0.gstatic.com/images?q=3D=
+tbn:ANd9GcRZevZkbOtuxPtusW7ju86KwfdMreEf70jbYLSquVfTRCJu4rkShA" alt=3D"Resu=
+ltado de imagem para imagem de m=C3=A3os orando" width=3D"183" height=3D"18=
+3" style=3D"margin-right: 0px;"><br><div><br></div><div>Que assim seja meus=
+ IIr.&#39;.</div></div><div class=3D"gmail_extra"><br clear=3D"all"><div><d=
+iv class=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div dir=3D=
+"ltr"><div><div dir=3D"ltr"><div style=3D"color:rgb(51,51,51);font-family:s=
+ans-serif,Arial,Verdana,&quot;Trebuchet MS&quot;;font-size:13px;line-height=
+:20.8px"><em><span style=3D"font-family:&quot;courier new&quot;,courier"><s=
+trong>Wanderley dos Samtos .&#39;.</strong></span></em></div><div style=3D"=
+color:rgb(51,51,51);font-family:sans-serif,Arial,Verdana,&quot;Trebuchet MS=
+&quot;;font-size:13px;line-height:20.8px"><em><span style=3D"font-family:&q=
+uot;courier new&quot;,courier"><strong>accounting expertise</strong></span>=
+</em></div><font face=3D"courier new, courier"><span style=3D"font-size:13p=
+x;line-height:20.8px"><b><i><a href=3D"mailto:wanderleyssamtos@gmail.com" t=
+arget=3D"_blank">wanderleyssamtos@gmail.com</a></i></b></span></font><br><d=
+iv style=3D"color:rgb(51,51,51);font-family:sans-serif,Arial,Verdana,&quot;=
+Trebuchet MS&quot;;font-size:13px;line-height:20.8px"><em><span style=3D"fo=
+nt-family:&quot;courier new&quot;,courier"><a href=3D"http://wanderleysamto=
+s.blogspot.com.br" target=3D"_blank">wanderleysamtos.blogspot.com.br</a><br=
+><strong>011-96323.11.10<br>O homem de bem exige tudo de si pr=C3=B3prio,=
+=C2=A0o<br>med=C3=ADocre espera tudo dos outros(Conf=C3=BAcio)</strong></sp=
+an></em></div></div></div></div></div></div>
+<br><div class=3D"gmail_quote">Em 13 de agosto de 2017 15:38, Egoshi da CTT=
+3843 <span dir=3D"ltr">&lt;<a href=3D"mailto:ctt3843@egoshi.com.br" target=
+=3D"_blank">ctt3843@egoshi.com.br</a>&gt;</span> escreveu:<br><blockquote c=
+lass=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;=
+padding-left:1ex">Parab=C3=A9ns a Voc=C3=AA, Papai, que luta bravamente em =
+prol de uma vida mais digna e<br>
+um=C2=A0 mundo melhor aos seus filhos e netos!!!<br>
+<br>
+<br>
+<br>
+Fraternalmente por Tr=C3=AAs Vezes!!!<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+---<br>
+Este email foi escaneado pelo Avast antiv=C3=ADrus.<br>
+<a href=3D"https://www.avast.com/antivirus" rel=3D"noreferrer" target=3D"_b=
+lank">https://www.avast.com/<wbr>antivirus</a><br>
+</blockquote></div><br></div>
+
+--001a1141e4cab0d8b70556ab962c--

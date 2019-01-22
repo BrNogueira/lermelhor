@@ -1,0 +1,558 @@
+Return-Path: <585-GGD-959.0.6173.0.0.6768.7.5170223@em-sj-77.mktomail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id 6dzRJ6Y9KVjIAAMAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Mon, 14 Nov 2016 02:29:26 -0200
+Return-path: <585-GGD-959.0.6173.0.0.6768.7.5170223@em-sj-77.mktomail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Mon, 14 Nov 2016 02:29:26 -0200
+Received: from delapparentia.mktdns.com ([192.28.146.180]:40862)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <585-GGD-959.0.6173.0.0.6768.7.5170223@em-sj-77.mktomail.com>)
+	id 1c68ta-000pza-Aq
+	for marco@digitalfotoimagem.com.br; Mon, 14 Nov 2016 02:29:26 -0200
+X-MSFBL: bWFyY29AZGlnaXRhbGZvdG9pbWFnZW0uY29tLmJyQGR2cC0xOTItMjgtMTQ2LTE4
+	MEBiZy1zamQtMjg5QDU4NS1HR0QtOTU5OjIxNzA6NjE3MzoyMzIwMDowOjY3Njg6
+	Nzo1MTcwMjIz
+Received: from [10.0.87.249] ([10.0.87.249:42871] helo=sjmas03.marketo.org)
+	by sjmta03.marketo.org (envelope-from <inquiries@magento.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTP
+	id 89/AB-07296-C7D39285; Sun, 13 Nov 2016 22:28:44 -0600
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1479097724;
+	s=m1; d=magento.com; i=@magento.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=C8bROXYwC88qYZ9fhvTlW+3PoPiXhINSA6Y3fvyfMK0=;
+	b=AKStuhfrC7lGLzytxdrRevck4u/hbrIKXaSenkBQ+QJrQrr+oWagJGhDdELNf+7J
+	Jlk1JizUjhCO59DD5pjd0utLpb0Zya1AM9ppH26A24Uc02JECQJhNtxiV9iReAGVX5c
+	f4BOxXhCp2JOgHLmLDW3KKOGKZkUqHz6w4D6tX4o=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1479097724;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=C8bROXYwC88qYZ9fhvTlW+3PoPiXhINSA6Y3fvyfMK0=;
+	b=b4Jfv8u93+51AJC6fYIBCW844fWuuzIFzhqJ8dVlPM3zQZyJzCtQlpQD14iqS2/U
+	gHlvl21gy/f0FimYEtVArP1UEqnZUdF8RZObw5unKkq9EeskMGATE9jnCbDP7s69oY0
+	Q9vNciVLGLics8E22igYpPe/Wwg2Bq8JrA1d1c2k=
+Date: Sun, 13 Nov 2016 22:28:44 -0600 (CST)
+From: David from Magento <inquiries@magento.com>
+Reply-To: inquiries@magento.com
+To: marco@digitalfotoimagem.com.br
+Message-ID: <1316040123.18796246.1479097724290.JavaMail.root@sjmas03.marketo.org>
+Subject: Learn from the largest community of commerce experts
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_18796244_983995500.1479097724289"
+X-Binding: bg-sjd-289
+X-MarketoID: 585-GGD-959:2170:6173:23200:0:6768:7:5170223
+X-MktArchive: false
+List-Unsubscribe: <mailto:GFLESNCONZZGOWKPGY3U43TDGRUWUTTTG5AT2PI.6173.6768.7@unsub-sj.mktomail.com>
+X-Mailfrom: 585-GGD-959.0.6173.0.0.6768.7.5170223@em-sj-77.mktomail.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+
+------=_Part_18796244_983995500.1479097724289
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Lorem ipsum dolor sit amet <[[#]]>
+5 Things You Should Try with=C2=A0Magento
+We're commerce experts, and we're here to help
+Get in Touch
+As the world=E2=80=99s leading commerce provider, we=E2=80=99ve learned a t=
+hing or two from our community about how to do commerce right, and we're de=
+dicated to passing this knowledge on to you.
+
+
+To start, we=E2=80=99ve compiled a quick list to help you get a running sta=
+rt with Magento:
+
+
+
+ - Check out the community
+ - Check out some customer stories
+ - Visit the marketplace
+ - Check out the Magento blog
+ - Consider cloud
+
+
+Interested in growing out of the free academic version of our software (com=
+munity edition)? We've got a team of commerce experts to help, and we'd lov=
+e to talk about ways Magento can help you drive more business.
+
+
+Get in touch with us here.
+=C2=A9 Magento 2016
+
+-
+
+------=_Part_18796244_983995500.1479097724289
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>=20
+<title>Magento</title>=20
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+=20
+<meta name=3D"viewport" content=3D"width=3Ddevice-width; initial-scale=3D1.=
+0; maximum-scale=3D1.0;">=20
+<style type=3D"text/css">
+/* ********** webfont ********** */
+@font-face {
+        font-family: 'Graphik';
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-R=
+egular.eot');
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-R=
+egular.eot?#iefix') format('embedded-opentype'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Regular.woff2') format('woff2'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Regular.woff') format('woff'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Regular.ttf') format('truetype'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Regular.svg#Graphik-Regular') format('svg');
+        font-weight: normal;
+        font-style: normal;
+}
+
+@font-face {
+        font-family: 'Graphik';
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-B=
+old.eot');
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-B=
+old.eot?#iefix') format('embedded-opentype'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Bold.woff2') format('woff2'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Bold.woff') format('woff'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Bold.ttf') format('truetype'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Bold.svg#Graphik-Bold') format('svg');
+        font-weight: bold;
+        font-style: normal;
+}
+
+@font-face {
+        font-family: 'Graphik';
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-L=
+ight.eot');
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-L=
+ight.eot?#iefix') format('embedded-opentype'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Light.woff2') format('woff2'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Light.woff') format('woff'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Light.ttf') format('truetype'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Light.svg#Graphik-Light') format('svg');
+        font-weight: 300;
+        font-style: normal;
+}
+@media {
+body {font-family: 'Graphik', sans-serif !important; font-weight:300 !impor=
+tant;}      =20
+* {font-family: 'Graphik', sans-serif !important;}
+}
+/* ********** webfont end ********** */
+
+body {
+        text-align: left;
+        font-family:  Arial, Helvetica, sans-serif;
+        -webkit-text-size-adjust: none;
+        font-size:16px;
+        line-height:22px;
+        color:#626366;
+}
+* {
+        font-family:  Arial, Helvetica, sans-serif;
+}
+img {
+        border: none;
+}
+
+@media only screen and (max-width: 480px) {
+  .table100 {width: 100% !important;float: none !important;}
+  .respPad {padding:0 20px !important;}
+  #altViewContainer { padding:17px 0 !important;}
+  #logoContainer { padding:13px 0 !important;}
+  #logo { text-align:center !important;}
+  #headline { font-size:28px !important; line-height:34px !important;}
+  #ctaContainer { padding-top:22px !important;}
+  #cta_leftColPad { padding:0 !important;}
+  #CTA_copy { font-size:24px !important; line-height:30px !important;}
+  #cta_button { width:100% !important;}
+  #cta_graphic_container { display:none !important;}
+  #ctaBTN { padding:16px 33px !important;}
+  #footerContainer { padding:17px 0 !important;}
+}
+</style>=20
+<style type=3D"text/css">
+=20
+@media (max-width:599px) {=20
+.hide-md {display: none !important;}=20
+}=20
+</style>=20
+</head>=20
+<body bgcolor=3D"#FFFFFF" style=3D"margin:0px; padding:0px; ">
+<div align=3D"center" style=3D"">
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"background:#fff; " class=3D"table100">
+<!-- alternate view -->=20
+<tbody>
+<tr style=3D"">
+<td id=3D"altViewContainer" valign=3D"top" style=3D"padding:23px 0; ">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">
+<tbody>
+<tr style=3D"">
+<td valign=3D"top" style=3D"padding:0 20px; " class=3D"respPad">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">
+<tbody>
+<tr style=3D"">
+<td id=3D"altViewCopy" class=3D"mktEditable" style=3D"text-align:center; fo=
+nt-size:13px; line-height:17px; color:#26a2aa; ">
+<div>
+<br>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<!-- alternate view end -->=20
+<!-- logo -->=20
+<tr style=3D"">
+<td id=3D"logoContainer" valign=3D"top" style=3D"padding:28px 0; border-top=
+:solid 1px #d8d9da; border-left:solid 1px #d8d9da; border-right:solid 1px #=
+d8d9da; ">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">
+<tbody>
+<tr style=3D"">
+<td valign=3D"top" style=3D"padding:0 34px; " class=3D"respPad">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">
+<tbody>
+<tr style=3D"">
+<td style=3D"text-align:left; " id=3D"logo" class=3D"mktEditable"><img src=
+=3D"https://info2.magento.com/rs/585-GGD-959/images/MGO-999R-email-logo.png=
+" height=3D"42" width=3D"152" alt=3D""></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<!-- logo end -->=20
+<!-- hero -->=20
+<tr style=3D"">
+<td valign=3D"top" style=3D"padding:0 0; ">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">
+<tbody>
+<tr style=3D"">
+<td valign=3D"top" style=3D"padding:0 0; ">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">
+<tbody>
+<tr style=3D"">
+<td background=3D"https://info2.magento.com/rs/585-GGD-959/images/MGO-999R-=
+email-heroBG.jpg" bgcolor=3D"#664888" width=3D"600" height=3D"170" valign=
+=3D"top" style=3D"">
+<!--[if gte mso 9]>
+  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"true" stroke=3D=
+"false" style=3D"width:600px;height:170px;">
+    <v:fill type=3D"tile" src=3D"https://info2.magento.com/rs/585-GGD-959/i=
+mages/MGO-999R-email-heroBG.jpg" color=3D"#664888" />
+    <v:textbox inset=3D"0,0,0,0">
+  <![endif]-->=20
+<div style=3D"">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" wi=
+dth=3D"530" style=3D"width:530px; " class=3D"table100">
+<tbody>
+<tr style=3D"">
+<td class=3D"mktEditable" id=3D"headline" style=3D"padding:50px 20px 10px; =
+color:#ffffff; font-size:36px; line-height:42px; font-weight:300; text-alig=
+n:center; "><p style=3D"margin: 0px;">5 Things You'll Want to Try with Mage=
+nto<br></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if gte mso 9]>
+    </v:textbox>
+  </v:rect>
+  <![endif]--></td>
+</tr>
+<!--
+                        <tr>
+                                <td id=3D"wrap-hero" height=3D"135" valign=
+=3D"middle" style=3D"background:url(https://info2.magento.com/rs/585-GGD-95=
+9/images/MGO-999R-email-heroBG.jpg) no-repeat;background-size:cover;backgro=
+und-position:center top;padding:15px 20px 20px;" bgcolor=3D"#664888">
+                                <table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" align=3D"center" width=3D"530" style=3D"width:530px;" class=3D=
+"table100">
+                                        <tr>
+                                        <td class=3D"mktEditable" id=3D"hea=
+dline" mktoName=3D"Headline" style=3D"color:#ffffff;font-size:36px;line-hei=
+ght:42px; font-weight:300; text-align:center;"><p style=3D"margin:0px;">Lor=
+em ipsum dolor sit amet, con sectetur adipiscing elit. </p></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+-->
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<!-- hero end -->=20
+<!-- CTA -->=20
+<tr style=3D"">
+<td id=3D"ctaContainer" valign=3D"top" style=3D"padding:0 0; border-left:so=
+lid 1px #d8d9da; border-right:solid 1px #d8d9da; ">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" styl=
+e=3D"">
+<tbody>
+<tr style=3D"">
+<td valign=3D"top" style=3D"padding:0 0; " class=3D"respPad">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" styl=
+e=3D"">
+<tbody>
+<tr style=3D"">
+<td valign=3D"top" style=3D"">
+<!-- column 1 (left) -->=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" widt=
+h=3D"340" class=3D"table100" style=3D"">
+<tbody>
+<tr style=3D"">
+<td valign=3D"top" style=3D"padding:30px 0 0 30px; " id=3D"cta_leftColPad">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"">
+<tbody>
+<tr style=3D"">
+<td id=3D"CTA_copy" class=3D"mktEditable" style=3D"font-size:28px; line-hei=
+ght:34px; font-weight:normal; color:#626366; padding-bottom:15px; ">
+<div>
+<span style=3D"font-size: 24px;">We're commerce experts, and we're here to =
+help.</span>
+</div></td>
+</tr>
+<tr style=3D"">
+<td style=3D"">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" id=3D"cta_button" s=
+tyle=3D"">
+<tbody>
+<tr style=3D"">
+<td id=3D"ctaBTN" class=3D"mktEditable" style=3D"text-align:center; font-si=
+ze:14px; line-height:18px; font-weight:normal; color:#ffffff; background:#2=
+6a2aa; padding:14px 33px; ">
+<div>
+<a href=3D
+"http://email2.magento.com/tsDH2H06G00Xm00qGl0004D" style=3D"color: #ffffff=
+; font-weight: normal; text-decoration: none;"
+>Learn More from a Specialist</a>
+<br>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+<!-- column 2 (right) -->=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"right" wid=
+th=3D"200" class=3D"table100" id=3D"cta_graphic_container" style=3D"">
+<tbody>
+<tr style=3D"">
+<td valign=3D"top" style=3D"padding:0 17px 0 0; ">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"">
+<tbody>
+<tr style=3D"">
+<td id=3D"CTA_graphic" class=3D"mktEditable" valign=3D"top" style=3D""><img=
+ src=3D"https://info2.magento.com/rs/585-GGD-959/images/MGO-999R-email-CTA_=
+graphic.png" height=3D"146" width=3D"200" alt=3D""></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<!-- CTA end -->=20
+<!-- main body -->=20
+<tr style=3D"">
+<td valign=3D"top" style=3D"padding:35px 0; border-left:solid 1px #d8d9da; =
+border-right:solid 1px #d8d9da; border-bottom:solid 1px #d8d9da; ">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" styl=
+e=3D"">
+<tbody>
+<tr style=3D"">
+<td valign=3D"top" style=3D"padding:0 30px; " class=3D"respPad">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" styl=
+e=3D"">
+<tbody>
+<tr style=3D"">
+<td valign=3D"top" style=3D"">
+<!-- column 1 (left) -->=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" widt=
+h=3D"600" class=3D"table100" style=3D"">
+<tbody>
+<tr style=3D"">
+<td id=3D"bodyCopy" class=3D"mktEditable" style=3D"padding:0 0 20px; font-s=
+ize:16px; line-height:22px; color:#626366; font-weight:300; ">=20
+<div>
+We're thrilled that you've chosen Magento for your needs. As the world=E2=
+=80=99s leading commerce provider, we=E2=80=99ve learned a thing or two fro=
+m our community about how to do commerce right, and we'll be passing this k=
+nowledge on to you.
+</div>=20
+<div>
+<br>
+</div>=20
+<div>
+To start, we=E2=80=99ve compiled a quick list&nbsp;to help you get a runnin=
+g start with Magento:
+</div>=20
+<div>=20
+<ol>=20
+<li><a href=3D
+"http://email2.magento.com/hXH4ElG00G000Hs6q020Dn0" style=3D"color: #26a2aa=
+; font-weight: normal;"
+>Visit the Magento blog</a>&nbsp;for the latest and greatest in commerce ne=
+ws and tips.</li>=20
+<li><a href=3D
+"http://email2.magento.com/DGFl00o0DG000604Xq2H0sH" style=3D"color: #26a2aa=
+; font-weight: normal;"
+>View our customer showcase</a>.&nbsp;Be inspired by other Magento merchant=
+s.</li>=20
+<li><a href=3D
+"http://email2.magento.com/c0l02HHG0XqG04sDp00G600" style=3D"color: #26a2aa=
+; font-weight: normal;"
+>Explore the Magento Marketplace</a> to discover apps that may suit your ne=
+eds.</li>=20
+<li><a href=3D
+"http://email2.magento.com/tsDH2H06G00Xq00qGl0004H" style=3D"color: #26a2aa=
+; font-weight: normal;"
+>Join the community</a>&nbsp;to discuss how to use Magento to the fullest.<=
+br></li>=20
+<li>Make life easier by hosting on the cloud. <a href=3D
+"http://email2.magento.com/uIq0000GlX0s0r026HHGD40" style=3D"color: #26a2aa=
+; font-weight: normal;"
+>Learn more here</a>.</li>=20
+</ol>=20
+<div>
+<span style=3D"color: #626366; font-family: Graphik, sans-serif; font-size:=
+ 16px; font-style: normal; font-variant: normal; font-weight: 300; letter-s=
+pacing: normal; line-height: 22px; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: 1; word-spac=
+ing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float=
+: none;=20
+background-color: #ffffff;">We've got a team of commerce experts to help, a=
+nd we'd love to talk about ways Magento&nbsp;can help you </span>
+<strong style=3D"color: #626366; font-family: Graphik, sans-serif; font-siz=
+e: 16px; font-style: normal; font-variant: normal; letter-spacing: normal; =
+line-height: 22px; orphans: auto; text-align: start; text-indent: 0px; text=
+-transform: none; white-space:=20
+normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; backg=
+round-color: #ffffff;">drive more business</strong>
+<span style=3D"color: #626366; font-family: Graphik, sans-serif; font-size:=
+ 16px; font-style: normal; font-variant: normal; font-weight: 300; letter-s=
+pacing: normal; line-height: 22px; orphans: auto; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space:=20
+normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; displ=
+ay: inline !important; float: none; background-color: #ffffff;">.</span>
+<br>
+</div>=20
+<div>
+<br>
+</div>=20
+<div>
+<a href=3D
+"http://email2.magento.com/tsDH2H06G00Xm00qGl0004D" style=3D"color: #26a2aa=
+; font-weight: normal;" target=3D"_blank"
+>Get in touch with us here.</a>
+</div>=20
+</div> </td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<!-- main body end -->=20
+<!-- footer -->=20
+<tr style=3D"">
+<td id=3D"footerContainer" valign=3D"top" style=3D"padding:25px 0; ">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">
+<tbody>
+<tr style=3D"">
+<td valign=3D"top" style=3D"padding:0 20px; " class=3D"respPad">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">
+<tbody>
+<tr style=3D"">
+<td id=3D"footer" class=3D"mktEditable" style=3D"text-align:center; font-si=
+ze:13px; color:#aeafb1; ">
+<div>
+This email was sent to you because you have agreed to receive information a=
+bout our services. We will only use your information in accordance with our=
+ privacy policy. To unsubscribe from our commercial mailing list, please=20
+<a href=3D
+"http://email2.magento.com/z0H02sX000lGqJ64GHs0D00" style=3D"color: #26a2aa=
+; font-weight: normal;"
+>click here.</a> Copyright=C2=A9 2016 Magento, Inc. All rights reserved. Ma=
+gento, Inc. is located at 10441 Jefferson Blvd., Suite 200, Culver City, CA=
+ 90232
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<!-- footer end -->
+</tbody>
+</table>
+</div>
+<img src=3D"http://info.spearmarketing.com/rs/902-DBM-891/images/spacer.png=
+" class=3D"hide-md" border=3D"0" alt=3D"" width=3D"600" height=3D"1" hspace=
+=3D"0" vspace=3D"0" style=3D"width:600px;min-width:600px">
+<a href=3D
+"http://email2.magento.com/Q06D00G0GK2XH0q4s00tlH0"
+></a>
+<img src=3D"http://email2.magento.com/trk?t=3D1&mid=3DNTg1LUdHRC05NTk6MjE3M=
+Do2MTczOjIzMjAwOjA6Njc2ODo3OjUxNzAyMjM6bWFyY29AZGlnaXRhbGZvdG9pbWFnZW0uY29t=
+LmJy" width=3D"1" height=3D"1" style=3D"display:none !important;" alt=3D"" =
+/>
+
+<br>
+</body>
+</html>
+------=_Part_18796244_983995500.1479097724289--

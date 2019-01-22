@@ -1,0 +1,99 @@
+Return-Path: <institut@phoenix.webdas.srv.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from h9.servidorhh.com
+	by h9.servidorhh.com with LMTP id 2PNnML3RH1vmwBgArjWGVg
+	for <marco@digitalfotoimagem.com.br>; Tue, 12 Jun 2018 10:59:25 -0300
+Return-path: <institut@phoenix.webdas.srv.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 12 Jun 2018 10:59:25 -0300
+Received: from phoenix.webdas.srv.br ([69.167.155.27]:52342)
+	by h9.servidorhh.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <institut@phoenix.webdas.srv.br>)
+	id 1fSjpV-006s3E-LE
+	for marco@digitalfotoimagem.com.br; Tue, 12 Jun 2018 10:59:25 -0300
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=acacia.org.br; s=default; h=Date:Message-Id:Content-Transfer-Encoding:
+	MIME-Version:Content-Type:Reply-to:From:Subject:To:Sender:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=L4csuDs+0t+mvctNx/JRgE4If0QsC8Yo+UrBM67hD9o=; b=ZpCwAai8YnEcxnbyCrXkuyXDog
+	KACHI54fEzqhi5Z7e9Y3ZfCw4y6/Nm3D7AnrQBN3Z44T+c5fAkZS10z3K6mLKd68fcxuXtSdESufh
+	vZt90+mcdfviBhCPdg1fAF1baXaT0OQaP4QPIJS/N8NLrLL+m3ewkiYR0WDrlfcQ+uHI=;
+Received: from institut by phoenix.webdas.srv.br with local (Exim 4.91)
+	(envelope-from <institut@phoenix.webdas.srv.br>)
+	id 1fSjom-00ESfq-PK
+	for marco@digitalfotoimagem.com.br; Tue, 12 Jun 2018 10:58:41 -0300
+To: marco@digitalfotoimagem.com.br
+Subject: Boletim Instituto Acácia de Responsabilidade Social
+X-PHP-Script: www.acacia.org.br/area_restrita/boletins_enviar.php for 177.102.54.210
+X-PHP-Filename: /home/institut/public_html/area_restrita/boletins_enviar.php REMOTE_ADDR: 177.102.54.210
+From: acacia@acacia.org.br
+Reply-to: acacia@acacia.org.br
+Content-Type: text/html; charset=pt-br
+X-Sender: acacia@acacia.org.br
+X-Mailer: PHP4 Script Language
+X-Accept-Language: en
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Message-Id: <E1fSjom-00ESfq-PK@phoenix.webdas.srv.br>
+Date: Tue, 12 Jun 2018 10:58:40 -0300
+X-OutGoing-Spam-Status: No, score=5.1
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - phoenix.webdas.srv.br
+X-AntiAbuse: Original Domain - digitalfotoimagem.com.br
+X-AntiAbuse: Originator/Caller UID/GID - [1155 992] / [47 12]
+X-AntiAbuse: Sender Address Domain - phoenix.webdas.srv.br
+X-Get-Message-Sender-Via: phoenix.webdas.srv.br: authenticated_id: institut/from_h
+X-Authenticated-Sender: phoenix.webdas.srv.br: acacia@acacia.org.br
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: institutoacacia.org.br:/public_html/area_restrita
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="pt-br">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Instituto Acácia de Responsabilidade Social - São Paulo - SP</title>
+<style>
+<!--
+div.WordSection1
+	{page:WordSection1;}
+ table.MsoNormalTable
+	{mso-style-parent:"";
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif"}
+h1
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:24.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold}
+-->
+</style>
+</head>
+
+<body link="#3F765C" vlink="#3F765C" alink="#3F765C">
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%">
+  <tr>
+    <td width="100%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="100%">
+    <p align="center">
+	<img border="0" src="http://www.acacia.org.br/imagens/Convite%20Geral%20Junho2018.jpg" width="700" height="932"></td>
+  </tr>
+  <tr>
+    <td width="100%"><b>
+    <font face="Verdana" size="2" color="#4D831A">&nbsp;</font></b></td>
+  </tr>
+</table>
+
+</body>
+
+</html>

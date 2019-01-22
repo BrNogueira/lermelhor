@@ -1,0 +1,538 @@
+Return-Path: <humberto.serrano@hotmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br with LMTP id mJffNu89Blq/YwIAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Fri, 10 Nov 2017 22:01:51 -0200
+Return-path: <humberto.serrano@hotmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Fri, 10 Nov 2017 22:01:51 -0200
+Received: from mail-oln040092002050.outbound.protection.outlook.com ([40.92.2.50]:51360 helo=NAM01-SN1-obe.outbound.protection.outlook.com)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <humberto.serrano@hotmail.com>)
+	id 1eDJF9-000eVT-H6
+	for marco@digitalfotoimagem.com.br; Fri, 10 Nov 2017 22:01:51 -0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=RDCtRQkOy2pCcWHQ0+F+2rbEc7ScYnWfOXjn1aqwOko=;
+ b=TSq+7L97PU7PRPuatTH0iRZVolxljhcUUyJbujxrBDGZcTrq4NzgW4n05dhn/20RogWwgs8AlK9/XMXdzJk0AdwqdC4RgCfj3/WE3IJL6Kh7Vv4fpyhpU5B8ZfpghlSFrtwFMBcsX3pO2z3ITM9z1A4jq0bBvyaF9G61VZr3irFBcLZBoQWW+Sd5wRQuk0jCmlSZ66AU+mauc2pTA/A7VlyJZht+6++ODYJ1H0a6tA3CvEHOrj2Gj8WOMHDGkF7hX4l/blLOyleTR4VhgzOaMBGy1PfRi1rnGqXbeJyPXHtyjviMOzeV2gs6MT21OjCjn684KAF3FbUcXqtwQgOIAA==
+Received: from SN1NAM01FT008.eop-nam01.prod.protection.outlook.com
+ (10.152.64.57) by SN1NAM01HT041.eop-nam01.prod.protection.outlook.com
+ (10.152.64.215) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.197.9; Sat, 11
+ Nov 2017 00:01:01 +0000
+Received: from SC1P152MB1615.LAMP152.PROD.OUTLOOK.COM (10.152.64.54) by
+ SN1NAM01FT008.mail.protection.outlook.com (10.152.64.199) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.20.197.9 via Frontend Transport; Sat, 11 Nov 2017 00:00:41 +0000
+Received: from SC1P152MB1615.LAMP152.PROD.OUTLOOK.COM ([10.171.67.142]) by
+ SC1P152MB1615.LAMP152.PROD.OUTLOOK.COM ([10.171.67.142]) with mapi id
+ 15.20.0218.011; Sat, 11 Nov 2017 00:00:39 +0000
+From: Serrano HO <humberto.serrano@hotmail.com>
+To: Egoshi da CTT3843 <ctt3843@egoshi.com.br>, "jkozlowski@uol.com.br"
+	<jkozlowski@uol.com.br>
+CC: "alfanohi@gmail.com" <alfanohi@gmail.com>, "andrelpgodoi@gmail.com"
+	<andrelpgodoi@gmail.com>, "carlos.flaminio@gmail.com"
+	<carlos.flaminio@gmail.com>, "carlos.rossetti@uol.com.br"
+	<carlos.rossetti@uol.com.br>, "celsotessari@gmail.com"
+	<celsotessari@gmail.com>, "cmave96@gmail.com" <cmave96@gmail.com>,
+	"dellamura@uol.com.br" <dellamura@uol.com.br>, "demetriopendek@hotmail.com"
+	<demetriopendek@hotmail.com>, "ebernardinolopes@uol.com.br"
+	<ebernardinolopes@uol.com.br>, "eduardocamacho@uol.com.br"
+	<eduardocamacho@uol.com.br>, "enghgomes@gmail.com" <enghgomes@gmail.com>,
+	"ernani.flausino@terra.com.br" <ernani.flausino@terra.com.br>,
+	"everth@mixlav.com.br" <everth@mixlav.com.br>, "everth@mixlav.com.br"
+	<everth@mixlav.com.br>, "fernandozf@hotmail.com" <fernandozf@hotmail.com>,
+	"gdcampos@uol.com.br" <gdcampos@uol.com.br>, "helioamandara@uol.com.br"
+	<helioamandara@uol.com.br>, "j.felix10@bol.com.br" <j.felix10@bol.com.br>,
+	"j.felix10@bol.com.br" <j.felix10@bol.com.br>, "jcl@tech-air.com.br"
+	<jcl@tech-air.com.br>, "luiz.cruz@teleperformance.com"
+	<luiz.cruz@teleperformance.com>, "ma.finardi@hotmail.com"
+	<ma.finardi@hotmail.com>, "marceloeloyfernandes@gmail.com"
+	<marceloeloyfernandes@gmail.com>, "marckopat@live.com" <marckopat@live.com>,
+	"marco@digitalfotoimagem.com.br" <marco@digitalfotoimagem.com.br>,
+	"marcuswelbi@crivodarazao.org.br" <marcuswelbi@crivodarazao.org.br>,
+	"mattosfaria@terra.com.br" <mattosfaria@terra.com.br>, "mmtesta43@gmail.com"
+	<mmtesta43@gmail.com>, "mmtesta43@gmail.com" <mmtesta43@gmail.com>,
+	"ncosta@usa.com" <ncosta@usa.com>, "nelpendek@hotmail.com"
+	<nelpendek@hotmail.com>, "professor@medrado.adv.br"
+	<professor@medrado.adv.br>, "ricardocarvalho930@gmail.com"
+	<ricardocarvalho930@gmail.com>, "rubens@linart.com.br"
+	<rubens@linart.com.br>, "sergio@aresultado.adm.br"
+	<sergio@aresultado.adm.br>, "squintinoj@gmail.com" <squintinoj@gmail.com>,
+	"sverdiani@terra.com.br" <sverdiani@terra.com.br>, "szfaria@gmail.com"
+	<szfaria@gmail.com>, "takar2@terra.com.br" <takar2@terra.com.br>,
+	"takar2@terra.com.br" <takar2@terra.com.br>, "wanderleyssamtos@gmail.com"
+	<wanderleyssamtos@gmail.com>, "wviveiro@live.com" <wviveiro@live.com>
+Subject: =?Windows-1252?Q?Re:_Festa_de_Confraterniza=E7=E3o_da_CTT3843_no_Ed_Carlo?=
+ =?Windows-1252?Q?s?=
+Thread-Topic: =?Windows-1252?Q?Festa_de_Confraterniza=E7=E3o_da_CTT3843_no_Ed_Carlos?=
+Thread-Index: AQHTWldK//Xi4QI03k2N1w1FmSXTaqMN/cmAgABNQ70=
+Date: Sat, 11 Nov 2017 00:00:39 +0000
+Message-ID: <SC1P152MB16157F5F2130A52C5F7CE40489540@SC1P152MB1615.LAMP152.PROD.OUTLOOK.COM>
+References: <5a05f92da595_6a892b02f4881130199a8@a4-weasel7.mail>,<12b901d35a59$3c766e60$b5634b20$@com.br>
+In-Reply-To: <12b901d35a59$3c766e60$b5634b20$@com.br>
+Accept-Language: pt-BR, en-US
+Content-Language: pt-BR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: egoshi.com.br; dkim=none (message not signed)
+ header.d=none;egoshi.com.br; dmarc=none action=none header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:9EFED8635333F2788B9FB5700D006A4CAADD8840D041288C2815403BDE52F705;UpperCasedChecksum:12AD72FB06AF89FFE0A2B48DD5A7C0A8ED111F286D2908CFF607C79C8086AD4A;SizeAsReceived:9426;Count:47
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [0vNmzZpiolP+6Uqf29zxPfd5ReBu+gva]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;SN1NAM01HT041;7:sqpy9b5G0rPj9fAzNXYXPOMGbvqlOs3U5sWkK/Q0lAf2XtKNcFfgOdT2kG4W0VOxmy2FInXcMYOQt0DnCtn/8QgqhZt+FS7nAN5y72MUrPTRKsp4jYU63Pllj5KgD3y/mTGVODC5mz/RHZ7pItljVUaaOEg7fZVx+jRf7iDpb0M3m93hLe9BURJ0T8eeTCAWlmxa7UOG2gr9B83W3eg6ocFDpOosvNuxUDaT7Ig4aeWw5wiEVUSaAzdPNhy9n2Rg
+x-incomingheadercount: 47
+x-eopattributedmessage: 0
+x-ms-office365-filtering-correlation-id: daec3c4b-a5da-4f93-3e7b-08d528973e73
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(201702181274)(2017031322404)(1601125374)(1603101448)(1701031045);SRVR:SN1NAM01HT041;
+x-ms-exchange-slblob-mailprops: zMTU7hATmSmZNNO85tJMw/Vw9DN83yy7NJxCdzCV6/pUUV6nutTXpnEFSY4SIn20CKy0v89R15RpZd1mY77SlbUj/2E12gpyoDyEQE+XGN+vIXOD1rVZkD8lG9k42aWhHwdW1JNhiy5+obhFUXiQpsqjXEQ4JSKDDDEln5WNOiz3YPueyO+piXEC46/9anEQS2hIuKGanqX5XQspS+WQu6NXTFwiwa06m4zjwwiQcdgi2PqnpPKkbV4Jju+5usktoHOKEqaU06u7oysTwkEb68JrRMI7EarbbmWFSHVG8gHSRjc+Q6chCMvcPeyJlBbcrKo9acYMyQZbQskKxxI9gJHKSo/CASm8UcjXZ8t48uWghMurnf7qAIqyBNzneIQvRcz8AddPtEGzaFbLHFtY2G4Ega7BOFJ6JL3XXETodh/7CcDjbgdFsEBEE9BgwFBDyQTfglzjvrmckNV1kPMuauWvO5oDYsMvsVthM7cAvo27tZdoz+fc+Mw+dE7mTM+3pgPVESG9NcHbE0OWvdQ89os+22Kv8WwrmxShwicmB7rGToJw0raiEVcajR58qu/7NcSwURAiQjy1Sh0RFe4owp0vJBpCN64K3pLR0ZwPM1VU2Bili9kTUekjTeEHoSNtrBBtPnbfXOU196qJ6k1OCuoVDqMUm70DXdxbPZZ6dYY=
+x-ms-traffictypediagnostic: SN1NAM01HT041:
+x-exchange-antispam-report-test: UriScan:(7714891957003)(37052965297144)(133860501914079)(95041927836929)(202971688547567)(166494164430575)(254730959083279)(194151415913766)(118468524641650)(91638250987450);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(444000031);SRVR:SN1NAM01HT041;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:SN1NAM01HT041;
+x-forefront-prvs: 0488C54DB4
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:SN1NAM01HT041;H:SC1P152MB1615.LAMP152.PROD.OUTLOOK.COM;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_SC1P152MB16157F5F2130A52C5F7CE40489540SC1P152MB1615LAMP_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: daec3c4b-a5da-4f93-3e7b-08d528973e73
+X-MS-Exchange-CrossTenant-originalarrivaltime: 11 Nov 2017 00:00:39.4455
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1NAM01HT041
+
+--_000_SC1P152MB16157F5F2130A52C5F7CE40489540SC1P152MB1615LAMP_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Ok, vamos nessa!!!
+Serrano
+________________________________
+De: Egoshi da CTT3843 <ctt3843@egoshi.com.br>
+Enviado: sexta-feira, 10 de novembro de 2017 17:22:23
+Para: jkozlowski@uol.com.br
+Cc: alfanohi@gmail.com; andrelpgodoi@gmail.com; carlos.flaminio@gmail.com; =
+carlos.rossetti@uol.com.br; celsotessari@gmail.com; cmave96@gmail.com; dell=
+amura@uol.com.br; demetriopendek@hotmail.com; ebernardinolopes@uol.com.br; =
+eduardocamacho@uol.com.br; enghgomes@gmail.com; ernani.flausino@terra.com.b=
+r; everth@mixlav.com.br; everth@mixlav.com.br; fernandozf@hotmail.com; gdca=
+mpos@uol.com.br; helioamandara@uol.com.br; humberto.serrano@hotmail.com; hu=
+mberto.serrano@hotmail.com; j.felix10@bol.com.br; j.felix10@bol.com.br; jcl=
+@tech-air.com.br; luiz.cruz@teleperformance.com; ma.finardi@hotmail.com; ma=
+rceloeloyfernandes@gmail.com; marckopat@live.com; marco@digitalfotoimagem.c=
+om.br; marcuswelbi@crivodarazao.org.br; mattosfaria@terra.com.br; mmtesta43=
+@gmail.com; mmtesta43@gmail.com; ncosta@usa.com; nelpendek@hotmail.com; pro=
+fessor@medrado.adv.br; ricardocarvalho930@gmail.com; rubens@linart.com.br; =
+sergio@aresultado.adm.br; squintinoj@gmail.com; sverdiani@terra.com.br; szf=
+aria@gmail.com; takar2@terra.com.br; takar2@terra.com.br; wanderleyssamtos@=
+gmail.com; wviveiro@live.com
+Assunto: RES: Festa de Confraterniza=E7=E3o da CTT3843 no Ed Carlos
+
+
+Consta no cabe=E7alho do anexo:
+
+
+
+RUA TEODURETO SOUTO, 292 =96 CAMBUCI/SP TEL.:3209-0212/ 3208-7442
+
+
+
+Egoshi
+
+
+
+De: jkozlowski@uol.com.br [mailto:jkozlowski@uol.com.br]
+Enviada em: sexta-feira, 10 de novembro de 2017 17:08
+Para: Egoshi da CTT3843
+Cc: alfanohi@gmail.com; andrelpgodoi@gmail.com; carlos.flaminio@gmail.com; =
+carlos.rossetti@uol.com.br; celsotessari@gmail.com; cmave96@gmail.com; ctt3=
+843@egoshi.com.br; dellamura@uol.com.br; demetriopendek@hotmail.com; eberna=
+rdinolopes@uol.com.br; eduardocamacho@uol.com.br; enghgomes@gmail.com; erna=
+ni.flausino@terra.com.br; everth@mixlav.com.br; everth@mixlav.com.br; ferna=
+ndozf@hotmail.com; gdcampos@uol.com.br; helioamandara@uol.com.br; humberto.=
+serrano@hotmail.com; humberto.serrano@hotmail.com; j.felix10@bol.com.br; j.=
+felix10@bol.com.br; jcl@tech-air.com.br; jkozlowski@uol.com.br; luiz.cruz@t=
+eleperformance.com; ma.finardi@hotmail.com; marceloeloyfernandes@gmail.com;=
+ marckopat@live.com; marco@digitalfotoimagem.com.br; marcuswelbi@crivodaraz=
+ao.org.br; mattosfaria@terra.com.br; mmtesta43@gmail.com; mmtesta43@gmail.c=
+om; ncosta@usa.com; nelpendek@hotmail.com; professor@medrado.adv.br; ricard=
+ocarvalho930@gmail.com; rubens@linart.com.br; sergio@aresultado.adm.br; squ=
+intinoj@gmail.com; sverdiani@terra.com.br; szfaria@gmail.com; takar2@terra.=
+com.br; takar2@terra.com.br; wanderleyssamtos@gmail.com; wviveiro@live.com
+Assunto: Re: Festa de Confraterniza=E7=E3o da CTT3843 no Ed Carlos
+
+
+
+que endereco
+
+
+
+
+
+
+
+________________________________
+
+De: "Egoshi da CTT3843" <ctt3843@egoshi.com.br>
+Em: Sexta-feira, 10 de Novembro de 2017 16:02,
+Para: "'Egoshi da CTT3843'" <ctt3843@egoshi.com.br>
+Assunto: Festa de Confraterniza=E7=E3o da CTT3843 no Ed Carlos
+
+Meus PPrez\ IIr\:
+
+
+
+Proponho um Almo=E7o de Confraterniza=E7=E3o no S=E1bado Dia 16/12/2017, en=
+tre n=F3s,
+nossos familiares e amigos, no Restaurante Ed Carnes do meu amigo Ed Carlos=
+,
+cantor da Jovem Guarda.
+
+
+
+Dentre alguns atrativos do Ed Carnes, temos:
+
+
+
+1 - Pre=E7o bem em conta de R$ 45,00 por pessoa - incluindo almo=E7o =E0 vo=
+ntade
+com =E1gua e refrigerante, exceto bebidas alco=F3licas e sucos;
+
+
+
+2 - Card=E1pio Bem Brasileiro (como Feijoada, Rabada, Bisteca e Churrasco),
+variado e extenso, com 30 tipos de pratos quentes e 30 tipos de saladas,
+folhas e legumes;
+
+
+
+3 - M=FAsica ao Vivo com <https://www.youtube.com/watch?v=3D1kXU_jws7nc>
+Marquinhos Oi <clique aqui e curta Marquinhos Oi cantando Roberta
+<https://www.youtube.com/watch?v=3D1kXU_jws7nc> >;
+
+
+
+4 - Endere=E7o F=E1cil e Acess=EDvel a Todos, l=E1 no tradicional bairro do=
+ Cambuci;
+
+
+
+5 -Ambiente Bem Familiar e Aconchegante a Adultos e Crian=E7as;
+
+
+
+6 - O =FAnico trabalho ser=E1 o de ir l=E1 passear e degustar uma gostosa c=
+omida
+tipicamente brasileira, e o que =E9 ainda melhor, curtir o Mais Aconchegant=
+e
+=C1gape Fraternal, ao lado de IIr\, Familiares e Amigos!!!
+
+
+
+Fraternalmente por 3 Vezes
+
+
+
+RSVP
+
+
+
+IIr\ Koiti Egoshi
+
+
+
+
+
+
+
+
+
+---
+Este email foi escaneado pelo Avast antiv=EDrus.
+https://www.avast.com/antivirus
+
+=3D
+
+[https://ipmcdn.avast.com/images/icons/icon-envelope-tick-round-orange-anim=
+ated-no-repeat-v1.gif]<https://www.avast.com/sig-email?utm_medium=3Demail&u=
+tm_source=3Dlink&utm_campaign=3Dsig-email&utm_content=3Demailclient>      L=
+ivre de v=EDrus. www.avast.com<https://www.avast.com/sig-email?utm_medium=
+=3Demail&utm_source=3Dlink&utm_campaign=3Dsig-email&utm_content=3Demailclie=
+nt>.
+
+--_000_SC1P152MB16157F5F2130A52C5F7CE40489540SC1P152MB1615LAMP_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+Ok, vamos nessa!!!
+<div>Serrano</div>
+</div>
+<hr style=3D"display:inline-block;width:98%" tabindex=3D"-1">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" st=
+yle=3D"font-size:11pt" color=3D"#000000"><b>De:</b> Egoshi da CTT3843 &lt;c=
+tt3843@egoshi.com.br&gt;<br>
+<b>Enviado:</b> sexta-feira, 10 de novembro de 2017 17:22:23<br>
+<b>Para:</b> jkozlowski@uol.com.br<br>
+<b>Cc:</b> alfanohi@gmail.com; andrelpgodoi@gmail.com; carlos.flaminio@gmai=
+l.com; carlos.rossetti@uol.com.br; celsotessari@gmail.com; cmave96@gmail.co=
+m; dellamura@uol.com.br; demetriopendek@hotmail.com; ebernardinolopes@uol.c=
+om.br; eduardocamacho@uol.com.br;
+ enghgomes@gmail.com; ernani.flausino@terra.com.br; everth@mixlav.com.br; e=
+verth@mixlav.com.br; fernandozf@hotmail.com; gdcampos@uol.com.br; helioaman=
+dara@uol.com.br; humberto.serrano@hotmail.com; humberto.serrano@hotmail.com=
+; j.felix10@bol.com.br; j.felix10@bol.com.br;
+ jcl@tech-air.com.br; luiz.cruz@teleperformance.com; ma.finardi@hotmail.com=
+; marceloeloyfernandes@gmail.com; marckopat@live.com; marco@digitalfotoimag=
+em.com.br; marcuswelbi@crivodarazao.org.br; mattosfaria@terra.com.br; mmtes=
+ta43@gmail.com; mmtesta43@gmail.com;
+ ncosta@usa.com; nelpendek@hotmail.com; professor@medrado.adv.br; ricardoca=
+rvalho930@gmail.com; rubens@linart.com.br; sergio@aresultado.adm.br; squint=
+inoj@gmail.com; sverdiani@terra.com.br; szfaria@gmail.com; takar2@terra.com=
+.br; takar2@terra.com.br; wanderleyssamtos@gmail.com;
+ wviveiro@live.com<br>
+<b>Assunto:</b> RES: Festa de Confraterniza=E7=E3o da CTT3843 no Ed Carlos<=
+/font>
+<div>&nbsp;</div>
+</div>
+<style>
+<!--
+@font-face
+	{font-family:"Cambria Math"}
+@font-face
+	{font-family:Calibri}
+@font-face
+	{font-family:Tahoma}
+p.x_MsoNormal, li.x_MsoNormal, div.x_MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif"}
+a:x_link, span.x_MsoHyperlink
+	{color:blue;
+	text-decoration:underline}
+a:x_visited, span.x_MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline}
+p.x_xnotviscode, li.x_xnotviscode, div.x_xnotviscode
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	display:none}
+p.x_notviscode, li.x_notviscode, div.x_notviscode
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	display:none}
+span.x_EstiloDeEmail19
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+p.x_Default, li.x_Default, div.x_Default
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	color:black}
+.x_MsoChpDefault
+	{}
+@page WordSection1
+	{margin:70.85pt 3.0cm 70.85pt 3.0cm}
+div.x_WordSection1
+	{}
+-->
+</style>
+<div lang=3D"PT-BR" link=3D"blue" vlink=3D"purple">
+<div class=3D"x_WordSection1">
+<p class=3D"x_MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot=
+;Calibri&quot;,&quot;sans-serif&quot;; color:#1F497D">Consta no cabe=E7alho=
+ do anexo:
+</span></p>
+<p class=3D"x_Default">&nbsp;</p>
+<p class=3D"x_Default"><span style=3D"font-size:11.5pt">RUA TEODURETO SOUTO=
+, 292 =96 CAMBUCI/SP TEL.:3209-0212/ 3208-7442</span><span style=3D"font-si=
+ze:11.0pt; font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;; color:#1=
+F497D"></span></p>
+<p class=3D"x_MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot=
+;Calibri&quot;,&quot;sans-serif&quot;; color:#1F497D">&nbsp;</span></p>
+<p class=3D"x_MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot=
+;Calibri&quot;,&quot;sans-serif&quot;; color:#1F497D">Egoshi
+</span></p>
+<p class=3D"x_MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot=
+;Calibri&quot;,&quot;sans-serif&quot;; color:#1F497D">&nbsp;</span></p>
+<div style=3D"border:none; border-top:solid #B5C4DF 1.0pt; padding:3.0pt 0c=
+m 0cm 0cm">
+<p class=3D"x_MsoNormal"><b><span style=3D"font-size:10.0pt; font-family:&q=
+uot;Tahoma&quot;,&quot;sans-serif&quot;">De:</span></b><span style=3D"font-=
+size:10.0pt; font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> jkozlo=
+wski@uol.com.br [mailto:jkozlowski@uol.com.br]
+<br>
+<b>Enviada em:</b> sexta-feira, 10 de novembro de 2017 17:08<br>
+<b>Para:</b> Egoshi da CTT3843<br>
+<b>Cc:</b> alfanohi@gmail.com; andrelpgodoi@gmail.com; carlos.flaminio@gmai=
+l.com; carlos.rossetti@uol.com.br; celsotessari@gmail.com; cmave96@gmail.co=
+m; ctt3843@egoshi.com.br; dellamura@uol.com.br; demetriopendek@hotmail.com;=
+ ebernardinolopes@uol.com.br; eduardocamacho@uol.com.br;
+ enghgomes@gmail.com; ernani.flausino@terra.com.br; everth@mixlav.com.br; e=
+verth@mixlav.com.br; fernandozf@hotmail.com; gdcampos@uol.com.br; helioaman=
+dara@uol.com.br; humberto.serrano@hotmail.com; humberto.serrano@hotmail.com=
+; j.felix10@bol.com.br; j.felix10@bol.com.br;
+ jcl@tech-air.com.br; jkozlowski@uol.com.br; luiz.cruz@teleperformance.com;=
+ ma.finardi@hotmail.com; marceloeloyfernandes@gmail.com; marckopat@live.com=
+; marco@digitalfotoimagem.com.br; marcuswelbi@crivodarazao.org.br; mattosfa=
+ria@terra.com.br; mmtesta43@gmail.com;
+ mmtesta43@gmail.com; ncosta@usa.com; nelpendek@hotmail.com; professor@medr=
+ado.adv.br; ricardocarvalho930@gmail.com; rubens@linart.com.br; sergio@ares=
+ultado.adm.br; squintinoj@gmail.com; sverdiani@terra.com.br; szfaria@gmail.=
+com; takar2@terra.com.br; takar2@terra.com.br;
+ wanderleyssamtos@gmail.com; wviveiro@live.com<br>
+<b>Assunto:</b> Re: Festa de Confraterniza=E7=E3o da CTT3843 no Ed Carlos</=
+span></p>
+</div>
+<p class=3D"x_MsoNormal">&nbsp;</p>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin-bottom:12.0pt"><br>
+que endereco<br>
+<br>
+<br>
+<br>
+<br>
+</p>
+</div>
+<p class=3D"x_MsoNormal">&nbsp;</p>
+<div class=3D"x_MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</div>
+<p class=3D"x_MsoNormal">De: &quot;Egoshi da CTT3843&quot; &lt;ctt3843@egos=
+hi.com.br&gt; <br>
+Em: Sexta-feira, 10 de Novembro de 2017 16:02, <br>
+Para: &quot;'Egoshi da CTT3843'&quot; &lt;ctt3843@egoshi.com.br&gt;<br>
+Assunto: Festa de Confraterniza=E7=E3o da CTT3843 no Ed Carlos </p>
+<div style=3D"border:none; border-left:solid #CCCCCC 1.5pt; padding:0cm 0cm=
+ 0cm 8.0pt; margin-left:7.5pt">
+<p class=3D"x_MsoNormal">Meus PPrez\ IIr\:<br>
+<br>
+<br>
+<br>
+Proponho um Almo=E7o de Confraterniza=E7=E3o no S=E1bado Dia 16/12/2017, en=
+tre n=F3s,<br>
+nossos familiares e amigos, no Restaurante Ed Carnes do meu amigo Ed Carlos=
+,<br>
+cantor da Jovem Guarda.<br>
+<br>
+<br>
+<br>
+Dentre alguns atrativos do Ed Carnes, temos:<br>
+<br>
+<br>
+<br>
+1 - Pre=E7o bem em conta de R$ 45,00 por pessoa - incluindo almo=E7o =E0 vo=
+ntade<br>
+com =E1gua e refrigerante, exceto bebidas alco=F3licas e sucos;<br>
+<br>
+<br>
+<br>
+2 - Card=E1pio Bem Brasileiro (como Feijoada, Rabada, Bisteca e Churrasco),=
+<br>
+variado e extenso, com 30 tipos de pratos quentes e 30 tipos de saladas,<br=
+>
+folhas e legumes;<br>
+<br>
+<br>
+<br>
+3 - M=FAsica ao Vivo com &lt;<a href=3D"https://www.youtube.com/watch?v=3D1=
+kXU_jws7nc" target=3D"_blank">https://www.youtube.com/watch?v=3D1kXU_jws7nc=
+</a>&gt;<br>
+Marquinhos Oi &lt;clique aqui e curta Marquinhos Oi cantando Roberta<br>
+&lt;<a href=3D"https://www.youtube.com/watch?v=3D1kXU_jws7nc" target=3D"_bl=
+ank">https://www.youtube.com/watch?v=3D1kXU_jws7nc</a>&gt; &gt;;
+<br>
+<br>
+<br>
+<br>
+4 - Endere=E7o F=E1cil e Acess=EDvel a Todos, l=E1 no tradicional bairro do=
+ Cambuci;<br>
+<br>
+<br>
+<br>
+5 -Ambiente Bem Familiar e Aconchegante a Adultos e Crian=E7as;<br>
+<br>
+<br>
+<br>
+6 - O =FAnico trabalho ser=E1 o de ir l=E1 passear e degustar uma gostosa c=
+omida<br>
+tipicamente brasileira, e o que =E9 ainda melhor, curtir o Mais Aconchegant=
+e<br>
+=C1gape Fraternal, ao lado de IIr\, Familiares e Amigos!!!<br>
+<br>
+<br>
+<br>
+Fraternalmente por 3 Vezes<br>
+<br>
+<br>
+<br>
+RSVP<br>
+<br>
+<br>
+<br>
+IIr\ Koiti Egoshi<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+---<br>
+Este email foi escaneado pelo Avast antiv=EDrus.<br>
+<a href=3D"https://www.avast.com/antivirus" target=3D"_blank">https://www.a=
+vast.com/antivirus</a></p>
+<div>
+<p class=3D"x_MsoNormal">=3D</p>
+</div>
+</div>
+</div>
+<div id=3D"x_DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2"><br>
+<table style=3D"border-top:1px solid #D3D4DE">
+<tbody>
+<tr>
+<td style=3D"width:55px; padding-top:18px"><a href=3D"https://www.avast.com=
+/sig-email?utm_medium=3Demail&amp;utm_source=3Dlink&amp;utm_campaign=3Dsig-=
+email&amp;utm_content=3Demailclient" target=3D"_blank"><img alt=3D"" width=
+=3D"46" height=3D"29" style=3D"width:46px; height:29px" src=3D"https://ipmc=
+dn.avast.com/images/icons/icon-envelope-tick-round-orange-animated-no-repea=
+t-v1.gif"></a></td>
+<td style=3D"width:470px; padding-top:17px; color:#41424e; font-size:13px; =
+font-family:Arial,Helvetica,sans-serif; line-height:18px">
+Livre de v=EDrus. <a href=3D"https://www.avast.com/sig-email?utm_medium=3De=
+mail&amp;utm_source=3Dlink&amp;utm_campaign=3Dsig-email&amp;utm_content=3De=
+mailclient" target=3D"_blank" style=3D"color:#4453ea">
+www.avast.com</a>. </td>
+</tr>
+</tbody>
+</table>
+<a href=3D"#x_DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2" width=3D"1" height=3D"1=
+"></a></div>
+</div>
+</body>
+</html>
+
+--_000_SC1P152MB16157F5F2130A52C5F7CE40489540SC1P152MB1615LAMP_--

@@ -1,0 +1,956 @@
+Return-Path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id gbdIAsfZrlg3OgUAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Thu, 23 Feb 2017 09:47:03 -0300
+Return-path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 23 Feb 2017 09:47:03 -0300
+Received: from e.gospmail.org.br ([177.139.181.238]:54763 helo=gospmail.org.br)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>)
+	id 1cgsnW-001SAT-AG
+	for marco@digitalfotoimagem.com.br; Thu, 23 Feb 2017 09:47:02 -0300
+Received: from localhost (e [127.0.0.1])
+	by gospmail.org.br (Postfix) with ESMTP id 516341D007C9
+	for <marco@digitalfotoimagem.com.br>; Thu, 23 Feb 2017 09:46:17 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at gospmail.org.br
+Received: from gospmail.org.br ([127.0.0.1])
+	by localhost (gospmail.org.br [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Mljs1k1H6DuC; Thu, 23 Feb 2017 09:46:16 -0300 (BRT)
+Received: from o3.jiveon.jivesoftware.com (o3.jiveon.jivesoftware.com [167.89.36.126])
+	by gospmail.org.br (Postfix) with ESMTPS id 6F50E1D007F9
+	for <288380@gospmail.org.br>; Thu, 23 Feb 2017 09:45:57 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=jiveon.jivesoftware.com; 
+	h=from:to:subject:mime-version:content-type:list-id; s=smtpapi; 
+	bh=W71t4blj4wUosocmaApbB8bL06E=; b=GhdgjgRjRNp3FSNSmX2zkSQGqLoyX
+	ZkbHSmuD0tbXWNxYQBLQpgDeV/sk3OigCxF3iznhjSQKSmVsPlj5ShWkaTw/+ki1
+	h1pt+2tXaTtauwxLrANmXYeQbyGObPMvdKLGuunzQD+nB/uhvXjqSkkoF/NDNYRP
+	2cTNfiBjetDnjE=
+Received: by filter0228p1las1.sendgrid.net with SMTP id filter0228p1las1-25416-58AED981-6F
+        2017-02-23 12:45:53.973765819 +0000 UTC
+Received: from jiveon-mx4-out.phx1.jivehosted.com (jiveon-mail.phx1.jivehosted.com [204.93.64.13])
+	by ismtpd0002p1sjc2.sendgrid.net (SG) with ESMTP id F8Eg-HCDTiyy-hROxC36HQ
+	for <288380@gospmail.org.br>; Thu, 23 Feb 2017 12:45:53.903 +0000 (UTC)
+Received: from gosp-x-jc-t-wa01.dynphx1.jivehosted.com (ip53-vlb1-services.phx1.jivehosted.com [10.160.25.53])
+	by jiveon-mx4-out.phx1.jivehosted.com (Postfix) with ESMTP id A53BB275D2
+	for <288380@gospmail.org.br>; Thu, 23 Feb 2017 12:45:53 +0000 (GMT)
+Date: Thu, 23 Feb 2017 09:45:53 -0300
+From: Jive <gosp-x@jiveon.com>
+To: Marco Parise <288380@gospmail.org.br>
+Message-ID: <321681702.35561487853953677@gosp-x-jc-t-wa01.dynphx1.jivehosted.com>
+Subject: =?UTF-8?Q?Atualiza=C3=A7=C3=B5es_da_REDE_SOCIAL?=
+ =?UTF-8?Q?_DO_GOSP,_Fevereiro_23,_2017?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_16581_230037875.1487853953673"
+Auto-Submitted: auto-generated
+X-Auto-Response-Suppress: OOF
+List-ID: null
+Content-Disposition: inline
+X-SG-EID: MC+mAxPPER372lmDFdFHyMxARzYmaHZCEvHbMx1UJ2ji0mEOlkQ2K0FhxvsvgQtv8dP0pqEtIObOV/
+ fKeMelXbhC2eTs6UAioRs5mM5hFyS3kPzCvfRC151g4nV98tYNAY/g5CQSyuALeg+5wtZ0tbkiObh4
+ CM3iMl2A07nLez76xV0M1MhSt2CjaWyrxfSvuFGVgzBG7rjTK6NC0bDNzw==
+X-SG-ID: 6Iv2lwEhBxW0L1FeqtuSgIYS4qWkW5xdU1GxK5lt1Taf5YzSuAWxphlBGYI3QZN8
+
+------=_Part_16581_230037875.1487853953673
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_16580_1555132414.1487853953673"
+
+------=_Part_16580_1555132414.1487853953673
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Seu REDE SOCIAL DO GOSP Boletim informativo para Fevereiro 23, 2017
+
+Not=C3=ADcias das principais empresas e empresas em destaque, selecionadas =
+s=C3=B3 para voc=C3=AA.
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+
+
+ARLS FRATERNIDADE S&#195;O-ROQUENSE n&#186; 3931
+[https://gosp-x.jiveon.com/community/secretarias/grande-secretaria-de-comun=
+ica%C3%A7%C3%A3o-e-imprensa/blog/2017/02/22/arls-fraternidade-s%C3%A3o-roqu=
+ense-n%C2%BA-3931]
+
+Carlos Pinto Neto em Comunica=C3=A7=C3=A3o e Imprensa 22 horas atr=C3=A1s
+
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0  =C2=A0 Loja Fraternidade S=C3=A3o-Roquense realiza Sess=C3=A3o Magna. =
+=C2=A0 ARLS Fraternidade S=C3=A3o-Roquense n=C2=BA 3931, R.E.A.A., Oriente =
+de S=C3=A3o Roque =E2=80=93 SP, realizou na noite desta segunda-feira (20),=
+ Sess=C3=A3o Magna em que foi proferida palestra sobre o tema =E2=80=9CO Ri=
+to Adinhoramita=E2=80=9D, sendo o palestrante, o Ilustre Irm=C3=A3o =C3=82n=
+gelo Ant=C3=B4nio Vieira ...
+
+
+
+Sistema de Elei&#231;&otilde;es - V&#237;deo de Treinamento
+[https://gosp-x.jiveon.com/docs/DOC-7445-sistema-eleitoral]
+
+Adriano Marques em Sistema de Elei=C3=A7=C3=B5es 3 semanas atr=C3=A1s
+
+O que =C3=A9 o Sistema de Elei=C3=A7=C3=B5es?  O Sistema de Elei=C3=A7=C3=
+=B5es =C3=A9 um processo integrado de 7 etapas que permite realizar uma ses=
+s=C3=A3o eleitoral (ordin=C3=A1ria ou extempor=C3=A2nea) em todas as suas f=
+ases atrav=C3=A9s de um sistema automatizado e homologado. =C2=A0 Abaixo se=
+gue o v=C3=ADdeo de treinamento do sistema: =C2=A0 =C2=A0 ...
+
+
+
+ARLS CIDADE DE PERU&#205;BE EXALTAR&#193; IRM&#195;OS
+[https://gosp-x.jiveon.com/community/secretarias/grande-secretaria-de-comun=
+ica%C3%A7%C3%A3o-e-imprensa/blog/2017/02/22/arls-cidade-de-peru%C3%ADbe-exa=
+ltar%C3%A1-irm%C3%A3os]
+
+S=C3=A9rgio Ayres em Comunica=C3=A7=C3=A3o e Imprensa 19 horas atr=C3=A1s
+
+Novos refor=C3=A7os na C=C3=A2mara do Meio da Oficina da Baixada Santista. =
+=C2=A0  A ARLS Cidade de Peru=C3=ADbe 2842, Oriente de Peru=C3=ADbe, convid=
+a para Sess=C3=A3o de Exalta=C3=A7=C3=A3o dos Irm=C3=A3os Jos=C3=A9 Aldinei=
+ Bispo de Oliveira e Paulo Roberto Pancione, que realizar=C3=A1 dia 03 de m=
+aio de 2017, =C3=A0s 20h00, no Templo situado na Rua Desembargador Francisc=
+o Murilo Pinto, 351, Est=C3=A2ncia Le=C3=A3o ...
+
+
+
+Painel de Aprendiz.docx
+[https://gosp-x.jiveon.com/docs/DOC-8063-painel-de-aprendizdocx]
+
+MARCIO WILSON PEREIRA em Educa=C3=A7=C3=A3o e Cultura 19 horas atr=C3=A1s
+
+
+
+
+
+EM RIBEIR&#195;O PRETO, SEXTA MACRORREGI&#195;O D&#193; CONTINUIDADE DO CIC=
+LO DE PALESTRAS COM O TEMA &ldquo;CONHE&#199;A O SEU CORA&#199;&#195;O&#822=
+1;
+[https://gosp-x.jiveon.com/community/secretarias/grande-secretaria-de-comun=
+ica%C3%A7%C3%A3o-e-imprensa/blog/2017/02/22/em-ribeir%C3%A3o-preto-sexta-ma=
+crorregi%C3%A3o-d%C3%A1-continuidade-do-ciclo-de-palestras-com-o-tema-conhe=
+%C3%A7a-o-seu-cora%C3%A7%C3%A3o]
+
+S=C3=A9rgio Ayres em Comunica=C3=A7=C3=A3o e Imprensa 2 dias atr=C3=A1s
+
+=C2=A0 Diversos Irm=C3=A3os, Cunhadas e Sobrinhos prestigiaram o encontro. =
+=C2=A0 Em Sess=C3=A3o P=C3=BAblica de Palestra realizada pela ARLS Uni=C3=
+=A3o e Liberdade 2453, Oriente de Ribeir=C3=A3o Preto, no dia 20 de feverei=
+ro de 2017, comandada pelo seu Vener=C3=A1vel Mestre, Irm=C3=A3o Frederico =
+Jorge dos Reis, o palestrante, Irm=C3=A3o Antonio Carlos Menardi, fez brilh=
+ante exposi=C3=A7=C3=A3o sobre o ...
+
+
+
+LOJA MAESTRO VITTORIO BARBIN REALIZA INICIA&#199;&#195;O EM JUNDIA&#205;
+[https://gosp-x.jiveon.com/community/secretarias/grande-secretaria-de-comun=
+ica%C3%A7%C3%A3o-e-imprensa/blog/2017/02/22/loja-maestro-vittorio-barbin-re=
+aliza-inicia%C3%A7%C3%A3o-em-jundia%C3%AD]
+
+S=C3=A9rgio Ayres em Comunica=C3=A7=C3=A3o e Imprensa 14 horas atr=C3=A1s
+
+=C2=A0 Cerim=C3=B4nia contou com a presen=C3=A7a do pai no Iniciado, Ma=C3=
+=A7om do GOB-MG. =C2=A0 Na noite de 21 de fevereiro, no Oriente de Jundia=
+=C3=AD, a Loja Maestro Vittorio Barbin 4196, (Rito Adonhiramita), sob a pre=
+sid=C3=AAncia do Vener=C3=A1vel Mestre S=C3=ADlvio Glauco Rezende Rosa, rea=
+lizou Sess=C3=A3o Magna de Inicia=C3=A7=C3=A3o de Igor Soares Fernandes. =
+=C2=A0 A cerim=C3=B4nia contou com a visita de ...
+
+
+
+CONFIRA A ATUALIZA&#199;&#195;O DO CALEND&#193;RIO DE ATIVIDADES DAS LOJAS =
+DA 3&#170; MACRORREGI&#195;O
+[https://gosp-x.jiveon.com/community/secretarias/grande-secretaria-de-comun=
+ica%C3%A7%C3%A3o-e-imprensa/blog/2017/02/22/confira-a-atualiza%C3%A7%C3%A3o=
+-do-calend%C3%A1rio-de-atividades-das-lojas-da-3%C2%AA-macrorregi%C3%A3o]
+
+S=C3=A9rgio Ayres em Comunica=C3=A7=C3=A3o e Imprensa 2 dias atr=C3=A1s
+
+Eventos acontecem durante todo o ano de 2017. Confira. =C2=A0 A Coordenador=
+ia Estadual de Comunica=C3=A7=C3=A3o e Imprensa da 3=C2=AA Macrorregi=C3=A3=
+o do GOSP divulga mais uma atualiza=C3=A7=C3=A3o de seu Calend=C3=A1rio de =
+Atividades para o ano de 2017. =C2=A0 Confira: =C2=A0  Secretaria Estadual =
+de Comunica=C3=A7=C3=A3o e Imprensa =E2=80=93 GOSP Irm=C3=A3o Lindimar Sant=
+os Coordenador Estadual de Comunica=C3=A7=C3=A3o e ...
+
+
+
+SESS&#195;O CONJUNTA INICIAR&#193; SEIS CANDIDATOS EM SANTOS
+[https://gosp-x.jiveon.com/community/secretarias/grande-secretaria-de-comun=
+ica%C3%A7%C3%A3o-e-imprensa/blog/2017/02/22/sess%C3%A3o-conjunta-iniciar%C3=
+%A1-seis-candidatos-em-santos]
+
+S=C3=A9rgio Ayres em Comunica=C3=A7=C3=A3o e Imprensa 2 dias atr=C3=A1s
+
+Novos refor=C3=A7os nas Colunas de duas Oficinas da Baixada Santista. =C2=
+=A0 As Lojas Atalaia de Santos 3509 e Lisboa 4150 (RA) convidam para Sess=
+=C3=A3o Magna de Inicia=C3=A7=C3=A3o que realizar=C3=A3o em conjunto, ocasi=
+=C3=A3o em que ser=C3=A3o Iniciados os candidatos =C3=81lvaro Clemente de S=
+ousa Neto, Glauco Zacharias Ferreira, Marcos Almir Albuquerque Oliveira, Jo=
+s=C3=A9 Rubens Amorim e ...
+
+
+
+
+
+
+Atualiza=C3=A7=C3=B5es sobre suas contribui=C3=A7=C3=B5es
+* estandarte.docx [https://gosp-x.jiveon.com/docs/DOC-7024-estandartedocx] =
+foi visualizado 2 vezes e comentado por 0 pessoas
+* 07-10 Pavimento Mosaico e Orla Dentada.doc [https://gosp-x.jiveon.com/doc=
+s/DOC-7023-07-10-pavimento-mosaico-e-orla-dentadadoc] foi visualizado 4 vez=
+es e comentado por 0 pessoas
+
+
+
+
+Dicas e truques - Convide pessoas para entrar=20
+A colabora=C3=A7=C3=A3o torna-se mais eficaz quando um grande n=C3=BAmero d=
+e pessoas est=C3=A1 participando. Convidar as pessoas para participar da su=
+a comunidade =C3=A9 uma das maneiras mais f=C3=A1ceis de come=C3=A7ar. Em R=
+EDE SOCIAL DO GOSP, h=C3=A1 v=C3=A1rias maneiras de fazer isso:=20
+
+ Compartilhe algo em REDE SOCIAL DO GOSP clicando em &quot;Compartilhar&quo=
+t; no menu de A=C3=A7=C3=B5es. Caso seu colega ainda n=C3=A3o seja um membr=
+o, ele ter=C3=A1 oportunidade de se inscrever.=20
+ Convide as pessoas que trabalham com voc=C3=AA clicando em Enviar convites=
+ no painel esquerdo da p=C3=A1gina de Vis=C3=A3o geral.
+
+
+
+
+
+------=_Part_16580_1555132414.1487853953673
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<!-- If using default header/footer, remove from here... -->
+<!DOCTYPE html>
+<html>
+<head>
+=09
+	<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1=
+.0, maximum-scale=3D1.0">
+	<title>Seu Boletim informativo da Rede Social do GOSP em Fevereiro 23, 201=
+7</title>
+	<style type=3D"text/css">
+		@media only screen and (max-width:40em) {
+            table h1 { font-size: 20pt !important; }
+            table h1 span,
+            table em span { white-space: nowrap; }
+            table h2 { font-size: 14pt !important; line-height: 1.3em !impo=
+rtant;}
+            table h2 img { margin: 0 3px -1px 0 !important; max-width: 16px=
+; max-height: 16px; }
+            table a div img { max-width: 100%; }
+            .place_name { font-size: 9pt !important; }
+        }
+	</style>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+</head>
+<body link=3D"#5397d2" alink=3D"#66afef" vlink=3D"#5258cc" style=3D"backgro=
+und: #ffffff; margin: 0; padding: 0px; font-family: Helvetica, Arial, sans-=
+serif; color: #505050; -webkit-text-size-adjust:100%; -ms-text-size-adjust:=
+100%;">
+<!-- If using default header/footer ...to here. -->
+
+<table cellpadding=3D"0" border=3D"0" cellspacing=3D"0" style=3D"width: 100=
+%;">
+	<tr>
+		<td align=3D"center" style=3D"background-color: #f3f3f3; border-top: 4px =
+solid #0088e1; text-align: center; padding: 25px;">
+			<h1 style=3D"font-size: 20pt; font-weight: 200; margin-bottom: 10px;">Se=
+u Boletim informativo da REDE SOCIAL DO GOSP</h1>
+                        <h1 style=3D"font-size: 17pt; font-weight: 200; mar=
+gin-bottom: 10px;">Fevereiro 23, 2017</h1>
+            <em style=3D"color: #999999; font-size: 12pt; font-style: itali=
+c; font-weight: 200;">=E2=80=94 Not=C3=ADcias dos principais destaques sele=
+cionados s=C3=B3 para voc=C3=AA =E2=80=94</em>
+		</td>
+	</tr>
+</table>
+
+
+<table cellpadding=3D"0" bgcolor=3D"#ffffff" border=3D"0" cellspacing=3D"0"=
+ style=3D"width: 100%;">
+	<tr>
+		<td align=3D"center" style=3D"padding: 0 20px 50px;">
+
+			<table align=3D"center" cellpadding=3D"0" border=3D"0" cellspacing=3D"0"=
+ style=3D"max-width: 600px;">
+
+            <!--  RECOMENDER INFO -->
+                    <tr>
+					<td width=3D"600" class=3D"section_header" style=3D" padding: 50px 0 3=
+0px;">
+                        <p class=3D"section_label" style=3D"font-size: 11pt=
+; font-weight: 200; text-transform: uppercase; color: #999999; padding: 10p=
+x; margin: 0; text-align: center; border-top: 1px solid #eaeaea; border-bot=
+tom: 1px solid #eaeaea;">
+                        Tend=C3=AAncias Atuais
+                        </p>
+					</td>
+				    </tr>
+
+                <!-- for each digest -->
+
+                    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0; text-align: left;">
+
+
+                        <h2 style=3D"font-size: 18pt; font-weight: 200; mar=
+gin: 30px 0 10px 0; line-height: 1.2em; word-wrap:break-word; max-width:600=
+px; ">
+                            <a href=3D"https://gosp-x.jiveon.com/community/=
+secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog/2017=
+/02/22/arls-fraternidade-s%C3%A3o-roquense-n%C2%BA-3931" style=3D"color: #5=
+05050; text-decoration: none;">
+                                <img src=3D"https://gosp-x.jiveon.com/image=
+s/jive-icon-blog-24x24.gif" border=3D"0" style=3D"margin: 0px 3px -3px 0px;=
+" />
+                                ARLS FRATERNIDADE S&#195;O-ROQUENSE n&#186;=
+ 3931
+                            </a>
+                        </h2>
+
+                        <!-- display image -->
+
+                        <!-- display author in container.name author.modTim=
+e -->
+                        <span style=3D"font-size: 10pt; margin: 0 0 10px 0;=
+ color: #999999;">
+                                <strong><a href=3Dhttps://gosp-x.jiveon.com=
+/people/carlospintoneto style=3D"color: #505050; text-decoration: none;">Ca=
+rlos Pinto Neto</a></strong>
+                             em
+                            <strong><a href=3D"https://gosp-x.jiveon.com/co=
+mmunity/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/b=
+log" style=3D"color: #505050; text-decoration: none;">Comunica=C3=A7=C3=A3o=
+ e Imprensa</a></strong>
+                            22 horas atr=C3=A1s
+                        </span>
+
+
+                        <!-- display snippet -->
+                                <p style=3D"word-wrap:break-word; max-width=
+:600px; font-weight: 300; margin: 10px 0 20px;">=C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0  =C2=A0 Loja Fraternidade=
+ S=C3=A3o-Roquense realiza Sess=C3=A3o Magna. =C2=A0 ARLS Fraternidade S=C3=
+=A3o-Roquense n=C2=BA 3931, R.E.A.A., Oriente de S=C3=A3o Roque =E2=80=93 S=
+P, realizou na noite desta segunda-feira (20), Sess=C3=A3o Magna em que foi=
+ proferida palestra sobre o tema =E2=80=9CO Rito Adinhoramita=E2=80=9D, sen=
+do o palestrante, o Ilustre Irm=C3=A3o =C3=82ngelo Ant=C3=B4nio Vieira ...<=
+a href=3D"https://gosp-x.jiveon.com/community/secretarias/grande-secretaria=
+-de-comunica%C3%A7%C3%A3o-e-imprensa/blog/2017/02/22/arls-fraternidade-s%C3=
+%A3o-roquense-n%C2%BA-3931">Ler mais</a></p>
+
+
+                    </td>
+                    </tr>
+
+                    <!-- Break out of too many entries -->
+
+
+
+                    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0; text-align: left;">
+
+
+                        <h2 style=3D"font-size: 18pt; font-weight: 200; mar=
+gin: 30px 0 10px 0; line-height: 1.2em; word-wrap:break-word; max-width:600=
+px; ">
+                            <a href=3D"https://gosp-x.jiveon.com/docs/DOC-7=
+445-sistema-eleitoral" style=3D"color: #505050; text-decoration: none;">
+                                <img src=3D"https://gosp-x.jiveon.com/image=
+s/jive-icon-wiki-24x24.gif" border=3D"0" style=3D"margin: 0px 3px -3px 0px;=
+" />
+                                Sistema de Elei&#231;&otilde;es - V&#237;de=
+o de Treinamento
+                            </a>
+                        </h2>
+
+                        <!-- display image -->
+
+                        <!-- display author in container.name author.modTim=
+e -->
+                        <span style=3D"font-size: 10pt; margin: 0 0 10px 0;=
+ color: #999999;">
+                                <strong><a href=3Dhttps://gosp-x.jiveon.com=
+/people/267561 style=3D"color: #505050; text-decoration: none;">Adriano Mar=
+ques</a></strong>
+                             em
+                            <strong><a href=3D"https://gosp-x.jiveon.com/co=
+mmunity/ead/sistemas/eleicoes" style=3D"color: #505050; text-decoration: no=
+ne;">Sistema de Elei=C3=A7=C3=B5es</a></strong>
+                            3 semanas atr=C3=A1s
+                        </span>
+
+
+                        <!-- display snippet -->
+                                <p style=3D"word-wrap:break-word; max-width=
+:600px; font-weight: 300; margin: 10px 0 20px;">O que =C3=A9 o Sistema de E=
+lei=C3=A7=C3=B5es?  O Sistema de Elei=C3=A7=C3=B5es =C3=A9 um processo inte=
+grado de 7 etapas que permite realizar uma sess=C3=A3o eleitoral (ordin=C3=
+=A1ria ou extempor=C3=A2nea) em todas as suas fases atrav=C3=A9s de um sist=
+ema automatizado e homologado. =C2=A0 Abaixo segue o v=C3=ADdeo de treiname=
+nto do sistema: =C2=A0 =C2=A0 ...<a href=3D"https://gosp-x.jiveon.com/docs/=
+DOC-7445-sistema-eleitoral">Ler mais</a></p>
+
+
+                    </td>
+                    </tr>
+
+                    <!-- Break out of too many entries -->
+
+
+
+                    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0; text-align: left;">
+
+
+                        <h2 style=3D"font-size: 18pt; font-weight: 200; mar=
+gin: 30px 0 10px 0; line-height: 1.2em; word-wrap:break-word; max-width:600=
+px; ">
+                            <a href=3D"https://gosp-x.jiveon.com/community/=
+secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog/2017=
+/02/22/arls-cidade-de-peru%C3%ADbe-exaltar%C3%A1-irm%C3%A3os" style=3D"colo=
+r: #505050; text-decoration: none;">
+                                <img src=3D"https://gosp-x.jiveon.com/image=
+s/jive-icon-blog-24x24.gif" border=3D"0" style=3D"margin: 0px 3px -3px 0px;=
+" />
+                                ARLS CIDADE DE PERU&#205;BE EXALTAR&#193; I=
+RM&#195;OS
+                            </a>
+                        </h2>
+
+                        <!-- display image -->
+
+                        <!-- display author in container.name author.modTim=
+e -->
+                        <span style=3D"font-size: 10pt; margin: 0 0 10px 0;=
+ color: #999999;">
+                                <strong><a href=3Dhttps://gosp-x.jiveon.com=
+/people/179837 style=3D"color: #505050; text-decoration: none;">S=C3=A9rgio=
+ Ayres</a></strong>
+                             em
+                            <strong><a href=3D"https://gosp-x.jiveon.com/co=
+mmunity/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/b=
+log" style=3D"color: #505050; text-decoration: none;">Comunica=C3=A7=C3=A3o=
+ e Imprensa</a></strong>
+                            19 horas atr=C3=A1s
+                        </span>
+
+
+                        <!-- display snippet -->
+                                <p style=3D"word-wrap:break-word; max-width=
+:600px; font-weight: 300; margin: 10px 0 20px;">Novos refor=C3=A7os na C=C3=
+=A2mara do Meio da Oficina da Baixada Santista. =C2=A0  A ARLS Cidade de Pe=
+ru=C3=ADbe 2842, Oriente de Peru=C3=ADbe, convida para Sess=C3=A3o de Exalt=
+a=C3=A7=C3=A3o dos Irm=C3=A3os Jos=C3=A9 Aldinei Bispo de Oliveira e Paulo =
+Roberto Pancione, que realizar=C3=A1 dia 03 de maio de 2017, =C3=A0s 20h00,=
+ no Templo situado na Rua Desembargador Francisco Murilo Pinto, 351, Est=C3=
+=A2ncia Le=C3=A3o ...<a href=3D"https://gosp-x.jiveon.com/community/secreta=
+rias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog/2017/02/22/=
+arls-cidade-de-peru%C3%ADbe-exaltar%C3%A1-irm%C3%A3os">Ler mais</a></p>
+
+
+                    </td>
+                    </tr>
+
+                    <!-- Break out of too many entries -->
+
+
+
+                    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0; text-align: left;">
+
+
+                        <h2 style=3D"font-size: 18pt; font-weight: 200; mar=
+gin: 30px 0 10px 0; line-height: 1.2em; word-wrap:break-word; max-width:600=
+px; ">
+                            <a href=3D"https://gosp-x.jiveon.com/docs/DOC-8=
+063-painel-de-aprendizdocx" style=3D"color: #505050; text-decoration: none;=
+">
+                                <img src=3D"https://gosp-x.jiveon.com/image=
+s/jive-icon-wiki-24x24.gif" border=3D"0" style=3D"margin: 0px 3px -3px 0px;=
+" />
+                                Painel de Aprendiz.docx
+                            </a>
+                        </h2>
+
+                        <!-- display image -->
+
+                        <!-- display author in container.name author.modTim=
+e -->
+                        <span style=3D"font-size: 10pt; margin: 0 0 10px 0;=
+ color: #999999;">
+                                <strong><a href=3Dhttps://gosp-x.jiveon.com=
+/people/marciowilson style=3D"color: #505050; text-decoration: none;">MARCI=
+O WILSON PEREIRA</a></strong>
+                             em
+                            <strong><a href=3D"https://gosp-x.jiveon.com/co=
+mmunity/secretarias/cultura-e-educa%C3%A7%C3%A3o-ma%C3%A7%C3%B4nica" style=
+=3D"color: #505050; text-decoration: none;">Educa=C3=A7=C3=A3o e Cultura</a=
+></strong>
+                            19 horas atr=C3=A1s
+                        </span>
+
+
+                        <!-- display snippet -->
+                                <p style=3D"word-wrap:break-word; max-width=
+:600px; font-weight: 300; margin: 10px 0 20px;"> <a href=3D"https://gosp-x.=
+jiveon.com/docs/DOC-8063-painel-de-aprendizdocx">Ver</a></p>
+
+
+                    </td>
+                    </tr>
+
+                    <!-- Break out of too many entries -->
+
+
+
+                    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0; text-align: left;">
+
+
+                        <h2 style=3D"font-size: 18pt; font-weight: 200; mar=
+gin: 30px 0 10px 0; line-height: 1.2em; word-wrap:break-word; max-width:600=
+px; ">
+                            <a href=3D"https://gosp-x.jiveon.com/community/=
+secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog/2017=
+/02/22/em-ribeir%C3%A3o-preto-sexta-macrorregi%C3%A3o-d%C3%A1-continuidade-=
+do-ciclo-de-palestras-com-o-tema-conhe%C3%A7a-o-seu-cora%C3%A7%C3%A3o" styl=
+e=3D"color: #505050; text-decoration: none;">
+                                <img src=3D"https://gosp-x.jiveon.com/image=
+s/jive-icon-blog-24x24.gif" border=3D"0" style=3D"margin: 0px 3px -3px 0px;=
+" />
+                                EM RIBEIR&#195;O PRETO, SEXTA MACRORREGI&#1=
+95;O D&#193; CONTINUIDADE DO CICLO DE PALESTRAS COM O TEMA &ldquo;CONHE&#19=
+9;A O SEU CORA&#199;&#195;O&#8221;
+                            </a>
+                        </h2>
+
+                        <!-- display image -->
+
+                        <!-- display author in container.name author.modTim=
+e -->
+                        <span style=3D"font-size: 10pt; margin: 0 0 10px 0;=
+ color: #999999;">
+                                <strong><a href=3Dhttps://gosp-x.jiveon.com=
+/people/179837 style=3D"color: #505050; text-decoration: none;">S=C3=A9rgio=
+ Ayres</a></strong>
+                             em
+                            <strong><a href=3D"https://gosp-x.jiveon.com/co=
+mmunity/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/b=
+log" style=3D"color: #505050; text-decoration: none;">Comunica=C3=A7=C3=A3o=
+ e Imprensa</a></strong>
+                            2 dias atr=C3=A1s
+                        </span>
+
+
+                        <!-- display snippet -->
+                                <p style=3D"word-wrap:break-word; max-width=
+:600px; font-weight: 300; margin: 10px 0 20px;">=C2=A0 Diversos Irm=C3=A3os=
+, Cunhadas e Sobrinhos prestigiaram o encontro. =C2=A0 Em Sess=C3=A3o P=C3=
+=BAblica de Palestra realizada pela ARLS Uni=C3=A3o e Liberdade 2453, Orien=
+te de Ribeir=C3=A3o Preto, no dia 20 de fevereiro de 2017, comandada pelo s=
+eu Vener=C3=A1vel Mestre, Irm=C3=A3o Frederico Jorge dos Reis, o palestrant=
+e, Irm=C3=A3o Antonio Carlos Menardi, fez brilhante exposi=C3=A7=C3=A3o sob=
+re o ...<a href=3D"https://gosp-x.jiveon.com/community/secretarias/grande-s=
+ecretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog/2017/02/22/em-ribeir%C3%=
+A3o-preto-sexta-macrorregi%C3%A3o-d%C3%A1-continuidade-do-ciclo-de-palestra=
+s-com-o-tema-conhe%C3%A7a-o-seu-cora%C3%A7%C3%A3o">Ler mais</a></p>
+
+
+                    </td>
+                    </tr>
+
+                    <!-- Break out of too many entries -->
+
+
+
+                    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0; text-align: left;">
+
+
+                        <h2 style=3D"font-size: 18pt; font-weight: 200; mar=
+gin: 30px 0 10px 0; line-height: 1.2em; word-wrap:break-word; max-width:600=
+px; ">
+                            <a href=3D"https://gosp-x.jiveon.com/community/=
+secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog/2017=
+/02/22/loja-maestro-vittorio-barbin-realiza-inicia%C3%A7%C3%A3o-em-jundia%C=
+3%AD" style=3D"color: #505050; text-decoration: none;">
+                                <img src=3D"https://gosp-x.jiveon.com/image=
+s/jive-icon-blog-24x24.gif" border=3D"0" style=3D"margin: 0px 3px -3px 0px;=
+" />
+                                LOJA MAESTRO VITTORIO BARBIN REALIZA INICIA=
+&#199;&#195;O EM JUNDIA&#205;
+                            </a>
+                        </h2>
+
+                        <!-- display image -->
+
+                        <!-- display author in container.name author.modTim=
+e -->
+                        <span style=3D"font-size: 10pt; margin: 0 0 10px 0;=
+ color: #999999;">
+                                <strong><a href=3Dhttps://gosp-x.jiveon.com=
+/people/179837 style=3D"color: #505050; text-decoration: none;">S=C3=A9rgio=
+ Ayres</a></strong>
+                             em
+                            <strong><a href=3D"https://gosp-x.jiveon.com/co=
+mmunity/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/b=
+log" style=3D"color: #505050; text-decoration: none;">Comunica=C3=A7=C3=A3o=
+ e Imprensa</a></strong>
+                            14 horas atr=C3=A1s
+                        </span>
+
+
+                        <!-- display snippet -->
+                                <p style=3D"word-wrap:break-word; max-width=
+:600px; font-weight: 300; margin: 10px 0 20px;">=C2=A0 Cerim=C3=B4nia conto=
+u com a presen=C3=A7a do pai no Iniciado, Ma=C3=A7om do GOB-MG. =C2=A0 Na n=
+oite de 21 de fevereiro, no Oriente de Jundia=C3=AD, a Loja Maestro Vittori=
+o Barbin 4196, (Rito Adonhiramita), sob a presid=C3=AAncia do Vener=C3=A1ve=
+l Mestre S=C3=ADlvio Glauco Rezende Rosa, realizou Sess=C3=A3o Magna de Ini=
+cia=C3=A7=C3=A3o de Igor Soares Fernandes. =C2=A0 A cerim=C3=B4nia contou c=
+om a visita de ...<a href=3D"https://gosp-x.jiveon.com/community/secretaria=
+s/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog/2017/02/22/loj=
+a-maestro-vittorio-barbin-realiza-inicia%C3%A7%C3%A3o-em-jundia%C3%AD">Ler =
+mais</a></p>
+
+
+                    </td>
+                    </tr>
+
+                    <!-- Break out of too many entries -->
+
+
+
+                    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0; text-align: left;">
+
+
+                        <h2 style=3D"font-size: 18pt; font-weight: 200; mar=
+gin: 30px 0 10px 0; line-height: 1.2em; word-wrap:break-word; max-width:600=
+px; ">
+                            <a href=3D"https://gosp-x.jiveon.com/community/=
+secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog/2017=
+/02/22/confira-a-atualiza%C3%A7%C3%A3o-do-calend%C3%A1rio-de-atividades-das=
+-lojas-da-3%C2%AA-macrorregi%C3%A3o" style=3D"color: #505050; text-decorati=
+on: none;">
+                                <img src=3D"https://gosp-x.jiveon.com/image=
+s/jive-icon-blog-24x24.gif" border=3D"0" style=3D"margin: 0px 3px -3px 0px;=
+" />
+                                CONFIRA A ATUALIZA&#199;&#195;O DO CALEND&#=
+193;RIO DE ATIVIDADES DAS LOJAS DA 3&#170; MACRORREGI&#195;O
+                            </a>
+                        </h2>
+
+                        <!-- display image -->
+
+                        <!-- display author in container.name author.modTim=
+e -->
+                        <span style=3D"font-size: 10pt; margin: 0 0 10px 0;=
+ color: #999999;">
+                                <strong><a href=3Dhttps://gosp-x.jiveon.com=
+/people/179837 style=3D"color: #505050; text-decoration: none;">S=C3=A9rgio=
+ Ayres</a></strong>
+                             em
+                            <strong><a href=3D"https://gosp-x.jiveon.com/co=
+mmunity/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/b=
+log" style=3D"color: #505050; text-decoration: none;">Comunica=C3=A7=C3=A3o=
+ e Imprensa</a></strong>
+                            2 dias atr=C3=A1s
+                        </span>
+
+
+                        <!-- display snippet -->
+                                <p style=3D"word-wrap:break-word; max-width=
+:600px; font-weight: 300; margin: 10px 0 20px;">Eventos acontecem durante t=
+odo o ano de 2017. Confira. =C2=A0 A Coordenadoria Estadual de Comunica=C3=
+=A7=C3=A3o e Imprensa da 3=C2=AA Macrorregi=C3=A3o do GOSP divulga mais uma=
+ atualiza=C3=A7=C3=A3o de seu Calend=C3=A1rio de Atividades para o ano de 2=
+017. =C2=A0 Confira: =C2=A0  Secretaria Estadual de Comunica=C3=A7=C3=A3o e=
+ Imprensa =E2=80=93 GOSP Irm=C3=A3o Lindimar Santos Coordenador Estadual de=
+ Comunica=C3=A7=C3=A3o e ...<a href=3D"https://gosp-x.jiveon.com/community/=
+secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog/2017=
+/02/22/confira-a-atualiza%C3%A7%C3%A3o-do-calend%C3%A1rio-de-atividades-das=
+-lojas-da-3%C2%AA-macrorregi%C3%A3o">Ler mais</a></p>
+
+
+                    </td>
+                    </tr>
+
+                    <!-- Break out of too many entries -->
+
+
+
+                    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0; text-align: left;">
+
+
+                        <h2 style=3D"font-size: 18pt; font-weight: 200; mar=
+gin: 30px 0 10px 0; line-height: 1.2em; word-wrap:break-word; max-width:600=
+px; ">
+                            <a href=3D"https://gosp-x.jiveon.com/community/=
+secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog/2017=
+/02/22/sess%C3%A3o-conjunta-iniciar%C3%A1-seis-candidatos-em-santos" style=
+=3D"color: #505050; text-decoration: none;">
+                                <img src=3D"https://gosp-x.jiveon.com/image=
+s/jive-icon-blog-24x24.gif" border=3D"0" style=3D"margin: 0px 3px -3px 0px;=
+" />
+                                SESS&#195;O CONJUNTA INICIAR&#193; SEIS CAN=
+DIDATOS EM SANTOS
+                            </a>
+                        </h2>
+
+                        <!-- display image -->
+
+                        <!-- display author in container.name author.modTim=
+e -->
+                        <span style=3D"font-size: 10pt; margin: 0 0 10px 0;=
+ color: #999999;">
+                                <strong><a href=3Dhttps://gosp-x.jiveon.com=
+/people/179837 style=3D"color: #505050; text-decoration: none;">S=C3=A9rgio=
+ Ayres</a></strong>
+                             em
+                            <strong><a href=3D"https://gosp-x.jiveon.com/co=
+mmunity/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/b=
+log" style=3D"color: #505050; text-decoration: none;">Comunica=C3=A7=C3=A3o=
+ e Imprensa</a></strong>
+                            2 dias atr=C3=A1s
+                        </span>
+
+
+                        <!-- display snippet -->
+                                <p style=3D"word-wrap:break-word; max-width=
+:600px; font-weight: 300; margin: 10px 0 20px;">Novos refor=C3=A7os nas Col=
+unas de duas Oficinas da Baixada Santista. =C2=A0 As Lojas Atalaia de Santo=
+s 3509 e Lisboa 4150 (RA) convidam para Sess=C3=A3o Magna de Inicia=C3=A7=
+=C3=A3o que realizar=C3=A3o em conjunto, ocasi=C3=A3o em que ser=C3=A3o Ini=
+ciados os candidatos =C3=81lvaro Clemente de Sousa Neto, Glauco Zacharias F=
+erreira, Marcos Almir Albuquerque Oliveira, Jos=C3=A9 Rubens Amorim e ...<a=
+ href=3D"https://gosp-x.jiveon.com/community/secretarias/grande-secretaria-=
+de-comunica%C3%A7%C3%A3o-e-imprensa/blog/2017/02/22/sess%C3%A3o-conjunta-in=
+iciar%C3%A1-seis-candidatos-em-santos">Ler mais</a></p>
+
+
+                    </td>
+                    </tr>
+
+                    <!-- Break out of too many entries -->
+
+
+
+                    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0; text-align: left;">
+
+
+                        <h2 style=3D"font-size: 18pt; font-weight: 200; mar=
+gin: 30px 0 10px 0; line-height: 1.2em; word-wrap:break-word; max-width:600=
+px; ">
+                            <a href=3D"https://gosp-x.jiveon.com/docs/DOC-1=
+695" style=3D"color: #505050; text-decoration: none;">
+                                <img src=3D"https://gosp-x.jiveon.com/image=
+s/jive-icon-wiki-24x24.gif" border=3D"0" style=3D"margin: 0px 3px -3px 0px;=
+" />
+                                TRAJE MA&#199;&#212;NICO.pdf
+                            </a>
+                        </h2>
+
+                        <!-- display image -->
+
+                        <!-- display author in container.name author.modTim=
+e -->
+                        <span style=3D"font-size: 10pt; margin: 0 0 10px 0;=
+ color: #999999;">
+                                <strong><a href=3Dhttps://gosp-x.jiveon.com=
+/people/245438 style=3D"color: #505050; text-decoration: none;">JOS=C3=89 L=
+UIS GON=C3=87ALVES</a></strong>
+                             em
+                            <strong><a href=3D"https://gosp-x.jiveon.com/co=
+mmunity/secretarias/cultura-e-educa%C3%A7%C3%A3o-ma%C3%A7%C3%B4nica" style=
+=3D"color: #505050; text-decoration: none;">Educa=C3=A7=C3=A3o e Cultura</a=
+></strong>
+                            12 meses atr=C3=A1s
+                        </span>
+
+
+                        <!-- display snippet -->
+                                <p style=3D"word-wrap:break-word; max-width=
+:600px; font-weight: 300; margin: 10px 0 20px;"> <a href=3D"https://gosp-x.=
+jiveon.com/docs/DOC-1695">Ver</a></p>
+
+
+                    </td>
+                    </tr>
+
+                    <!-- Break out of too many entries -->
+
+
+
+                    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0; text-align: left;">
+
+
+                        <h2 style=3D"font-size: 18pt; font-weight: 200; mar=
+gin: 30px 0 10px 0; line-height: 1.2em; word-wrap:break-word; max-width:600=
+px; ">
+                            <a href=3D"https://gosp-x.jiveon.com/docs/DOC-8=
+047-oportunidade-de-trabalho-na-area-da-cultura-tecnico-de-programa=C3=A7=
+=C3=A3o-cultural" style=3D"color: #505050; text-decoration: none;">
+                                <img src=3D"https://gosp-x.jiveon.com/image=
+s/jive-icon-wiki-24x24.gif" border=3D"0" style=3D"margin: 0px 3px -3px 0px;=
+" />
+                                Oportunidade de Trabalho na Area da Cultura=
+ - Tecnico de Programa&#231;&atilde;o Cultural
+                            </a>
+                        </h2>
+
+                        <!-- display image -->
+
+                        <!-- display author in container.name author.modTim=
+e -->
+                        <span style=3D"font-size: 10pt; margin: 0 0 10px 0;=
+ color: #999999;">
+                                <strong><a href=3Dhttps://gosp-x.jiveon.com=
+/people/renatomodesto style=3D"color: #505050; text-decoration: none;">Rena=
+to Modesto</a></strong>
+                             em
+                            <strong><a href=3D"https://gosp-x.jiveon.com/co=
+mmunity/grupos-profissionais/oportunidades" style=3D"color: #505050; text-d=
+ecoration: none;">Oportunidades</a></strong>
+                            2 dias atr=C3=A1s
+                        </span>
+
+
+                        <!-- display snippet -->
+                                <p style=3D"word-wrap:break-word; max-width=
+:600px; font-weight: 300; margin: 10px 0 20px;">Oportunidade de Trabalho na=
+ Cultura.   Edital de inscri=C3=A7=C3=A3o de=C2=A021/02/2017 a 01/03/2017  =
+  DESCRI=C3=87=C3=83O DO CARGO:  Cadastrar todos os projetos culturais enca=
+minhados pelos coordenadores de atividades. Apresentar e discutir os projet=
+os selecionados com o coordenador, visando a elabora=C3=A7=C3=A3o da progra=
+ma=C3=A7=C3=A3o. Manter contatos preliminares com os profissionais ...<a hr=
+ef=3D"https://gosp-x.jiveon.com/docs/DOC-8047-oportunidade-de-trabalho-na-a=
+rea-da-cultura-tecnico-de-programa=C3=A7=C3=A3o-cultural">Ler mais</a></p>
+
+
+                    </td>
+                    </tr>
+
+                    <!-- Break out of too many entries -->
+
+
+
+                    <tr>
+					<td width=3D"600" class=3D"section_header" style=3D" padding: 50px 0 3=
+0px;">
+                        <p class=3D"section_label" style=3D"font-size: 11pt=
+; font-weight: 200; text-transform: uppercase; color: #999999; padding: 10p=
+x; margin: 0; text-align: center; border-top: 1px solid #eaeaea; border-bot=
+tom: 1px solid #eaeaea;">
+                        Dicas e truques
+                        </p>
+					</td>
+				    </tr>
+				    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0; text-align: left;">
+					    <h4 style=3D"font-weight: 300; margin: 0 0 10px 0; font-size: 16px=
+;">
+					        Convide pessoas para entrar=20
+                        </h4>
+					    <p style=3D"font-weight: 300; margin: 10px 0 20px;">
+=09=09=09=09=09=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+<p>A colabora=C3=A7=C3=A3o torna-se mais eficaz quando um grande n=C3=BAmer=
+o de pessoas est=C3=A1 participando. Convidar as pessoas para participar da=
+ sua comunidade =C3=A9 uma das maneiras mais f=C3=A1ceis de come=C3=A7ar. E=
+m REDE SOCIAL DO GOSP, h=C3=A1 v=C3=A1rias maneiras de fazer isso:</p>
+<ul>
+<li>Compartilhe algo em REDE SOCIAL DO GOSP clicando em &quot;Compartilhar&=
+quot; no menu de A=C3=A7=C3=B5es. Caso seu colega ainda n=C3=A3o seja um me=
+mbro, ele ter=C3=A1 oportunidade de se inscrever.</li>
+<li>Convide as pessoas que trabalham com voc=C3=AA clicando em <b>Enviar co=
+nvites</b> no painel esquerdo da p=C3=A1gina de Vis=C3=A3o geral.</li>
+</ul>
+=20=20=20=20
+
+					    </p>
+					</td>
+					</tr>
+
+
+			</table>
+
+
+		</td>
+	</tr>
+</table>
+
+
+
+
+<!-- If using default header/footer, remove from here... -->
+
+<img src=3D"http://jiveon.jivesoftware.com/wf/open?upn=3DlkDbH7-2FnFH7oeBGC=
+GoMHz9T22eb3DvjuBfkB1ASadAwAtbqNYYkVs4MwAGOqDuR5JlX8CG3yPJGERCJIb8Yc6k5oZYI=
+v1VGwkhTe0RyGG1-2BOat0bS4KKdQEke9Y-2FijNROrt7sGo2K3-2BsVcEw31U6djEJMUAhIERW=
+cP8czU1X5QwtUoy31wp2y8nQ2IMPaYOwurNiA7cSwJ8d7ziWxaaLZm-2FOKSpu9DS5e7N5yX-2F=
+gg4ECUQ-2F4610aoxlPloSvswdgnqICUpukGpvynfpnlnNPOBOUnkhLNcltvtSuyZFDH8c-3D" =
+alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !importa=
+nt;width:1px !important;border-width:0 !important;margin-top:0 !important;m=
+argin-bottom:0 !important;margin-right:0 !important;margin-left:0 !importan=
+t;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !imp=
+ortant;padding-left:0 !important;"/>
+</body>
+<hr>
+<font size=3D"5">
+<h1>N=C3=A3o fique fora da Rede</h1>
+</font>
+<hr>
+<font size=3D"3">
+<h3>Sua maior refer=C3=AAncia ma=C3=A7=C3=B4nica!</h3>
+
+<p>- Boletins<br>- =C3=81rea de Treinamento<br>- Acesso ao Servi=C3=A7os On=
+-Line<br>- Mais de 100 V=C3=ADdeos Ma=C3=A7=C3=B4nicos<br>- Mais de 900 Tra=
+balhos em Grau 1<br>- Espa=C3=A7o dedicado para a Nova Sede<br>- Not=C3=ADc=
+ias di=C3=A1rias sobre Lojas e Ma=C3=A7ons<br>- Mais de 1200 Publica=C3=A7=
+=C3=B5es na Biblioteca<br>- E muito mais!<br></p>
+
+<b>J=C3=A1 acessou a Rede Social do GOSP?</b> <a href=3D"https://gosp-x.jiv=
+eon.com">Clique aqui</a>
+</font>
+
+</html>
+<!-- If using default header/footer, ...to here -->
+
+------=_Part_16580_1555132414.1487853953673--
+
+------=_Part_16581_230037875.1487853953673--
+
+

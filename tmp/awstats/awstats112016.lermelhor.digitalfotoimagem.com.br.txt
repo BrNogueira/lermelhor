@@ -1,0 +1,1041 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201611 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.lermelhor.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2030                
+POS_TIME 2711                
+POS_VISITOR 31788               
+POS_DAY 40041               
+POS_DOMAIN 3659                
+POS_LOGIN 4157                
+POS_ROBOT 4312                
+POS_WORMS 4838                
+POS_EMAILSENDER 4969                
+POS_EMAILRECEIVER 5112                
+POS_SESSION 40911               
+POS_SIDER 41124               
+POS_FILETYPES 5247                
+POS_DOWNLOADS 5597                
+POS_OS 6830                
+POS_BROWSER 7120                
+POS_SCREENSIZE 8470                
+POS_UNKNOWNREFERER 8544                
+POS_UNKNOWNREFERERBROWSER 9123                
+POS_ORIGIN 9404                
+POS_SEREFERRALS 9551                
+POS_PAGEREFS 9718                
+POS_SEARCHWORDS 10292               
+POS_KEYWORDS 10444               
+POS_MISC 2375                
+POS_ERRORS 10503               
+POS_CLUSTER 4013                
+POS_SIDER_404 10648               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20161201005341 424 98770 8841536288308
+FirstTime 20161101002258
+LastTime 20161130183158
+LastUpdate 20161201083728 424 0 423 0 0
+TotalVisits 347                 
+TotalUnique 185                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 212                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 254 789 18027510 146 363 2990403
+1 38 213 3480515 79 214 3916324
+2 65 104 1466203 174 285 3242143
+3 4 49 2001557 168 299 4238402
+4 8 23 13892 49 118 2191310
+5 2 5 41434 68 133 1000935
+6 4 4 82576 73 192 2571812
+7 44 271 8832772 102 196 1221848
+8 62 612 13583883 118 253 8970867
+9 127 502 12887752 197 444 12734260
+10 84 463 12827686 109 266 5110825
+11 95 273 4705576 117 251 10571429
+12 51 356 5800521 102 356 6181505
+13 206 1046 20414492 170 261 2942507
+14 229 774 17966416 174 628 14310042
+15 218 1005 19848409 175 277 3356733
+16 246 975 19146154 171 324 5337699
+17 387 1298 28994085 170 293 3991304
+18 304 1420 30115862 173 416 6843951
+19 163 639 15159074 129 330 3771311
+20 134 675 20824068 149 388 11480123
+21 140 859 22720451 223 488 9534417
+22 256 1023 32766910 92 269 3969984
+23 144 598 13135607 92 189 3785740
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 20
+br 3169 13294 302890097
+us 40 519 19400820
+de 17 32 173207
+ca 15 38 708304
+ie 6 6 122361
+ao 3 3 38304
+ua 3 3 82833
+ru 2 64 851193
+au 2 2 51136
+gb 1 4 17276
+lv 1 1 431
+lt 1 1 28929
+cl 1 2 45556
+lu 1 1 28929
+fr 1 1 26964
+nl 1 1 25568
+py 1 1 28929
+mx 0 1 32871
+pt 0 1 148706
+ke 0 1 140991
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+googlebot 2406 39418401 20161130153539 0
+bot[\s_+:,\.\;\/\\-] 562 11436857 20161130214734 0
+php 454 46229263 20161129160822 0
+bingpreview 341 18551176 20161128115409 0
+no_user_agent 299 39447 20161130090144 0
+googlebot\-image 103 5015366 20161124020121 0
+slurp 78 1380832 20161130092130 0
+crawl 64 998991 20161128023950 0
+spider 45 1201124 20161130113629 0
+netcraft 15 358885 20161125020436 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 15
+swf 7 289345 0 0
+css 4230 9069790 0 0
+doc 1 45056 0 0
+png 52 1247344 0 0
+Unknown 76 70366 0 0
+flv 3 3860097 0 0
+woff 1 83760 0 0
+ini 1 143 0 0
+jpeg 16 2255856 0 0
+jpg 4250 187087317 0 0
+txt 18 954 0 0
+js 1496 44629336 0 0
+php 2682 63335327 0 0
+gif 645 239361 0 0
+html 498 12629353 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 29
+/BF09265F06961B114733DF3D3E97EB7F.txt 8 0 424
+/media/palavras.flv 4 0 5984380
+/51B94EEF7346C62B7669C6FBFBCC3C69.txt 4 0 212
+/9C2CDEA53089FD01B88EE2E9448016DE.txt 3 0 159
+/7C1E3A2CA8774EC44BC1FED7B01BA4F4.txt 2 0 106
+/coachingpravoce/media/video.flv 1 0 7318493
+/rvsUtf8Config/complete.txt 1 0 11447
+/F3ED72AA440D344163C56113F7D3CF80.txt 1 0 53
+/videos/media/video1OLHO.flv 1 0 867907
+/rvsformdata_eda469ef62ed75d0228bb92c564cd6e0.txt 1 0 10924
+/rvsUtf8Config/iconvList.txt 1 0 13492
+/coachingpravoce/media/video1OLHO.flv 1 0 867907
+/documents/ProjetoLeitura.doc 1 0 45056
+/cepsalas/media/video1OLHO.flv 1 0 867907
+/replaceValue/internalPage.txt 1 0 6
+/js/jquery-ui/version.txt 1 0 5
+/cepsalas/media/palavras.flv 1 0 1496095
+/replaceValue/pageData.txt 1 0 6
+/wysiwyg/fckeditor/license.txt 1 0 66467
+/js/jquery-ui/external/bgiframe/ChangeLog.txt 1 0 434
+/replaceValue/emBed.txt 1 0 6
+/scripts/form/version.txt 1 0 4
+/scripts/rvslib/convertCharset/nativeEncoding.txt 1 0 10
+/js/jquery-ui/AUTHORS.txt 1 0 849
+/media/video1OLHO.flv 1 0 867907
+/cepsalas/media/video.flv 1 0 7318493
+/media/video.flv 1 0 7318493
+/js/jquery-ui/MIT-LICENSE.txt 1 0 1336
+/js/jquery-ui/GPL-LICENSE.txt 1 0 15377
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+macosx7 1 1
+ios_iphone 268 11
+ios_ipad 46 1
+win8.1 52 2
+linux 476 26
+macosx8 54 7
+macosx 83 11
+linuxandroid 1126 242
+blackberry 2 2
+macosx5 1 1
+win8 65 3
+winxp 89 12
+Unknown 113 31
+winlong 3 3
+winnt 1097 223
+win7 10500 2689
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 62
+msie11.0 46 3
+chrome40.0.2214.109 7 1
+chrome27.0.1453.93 2 2
+lg\- 2 0
+chrome33.0.0.0 8 8
+msie8.0 52 1
+chrome53.0.2785.116 146 9
+firefox11.0 4 1
+chrome50.0.2661.89 45 1
+chrome43.0.2357.121 41 1
+chrome44.0.2403.125 1 1
+msie10.0 26 2
+firefox3.6.3 3 3
+firefox48.0 1 1
+chrome54.0.2840.99 949 212
+chrome49.0.2623.87 1 1
+firefox16.0 1 1
+chrome37.0.2062.120 3 3
+chrome53.0.2785.124 58 13
+chrome54.0.2840.71 1572 298
+chrome50.0.2645.3 137 24
+chrome17.0.1025.133 1 1
+chrome46.0.2490.86 1 1
+safari10.0 108 3
+firefox12.0 2 2
+firefox21.0 3 3
+chrome52.0.2743.82 226 6
+chrome5.0.375.99 2 2
+chrome43.0.2357.124 1 0
+mozilla 59 14
+firefox3.6.8 6 6
+chrome30.0.0.0 30 29
+chrome46.0.2490.76 1 1
+opera36.0.2130.32 2 2
+chrome28.0.1500.95 39 1
+chrome52.0.2743.98 48 3
+chrome44.0.2403.89 48 1
+safari5.0.6 1 1
+chrome41.0.2272.118 53 6
+firefox49.0 2910 885
+firefox47.0 137 4
+chrome54.0.2840.85 279 64
+chrome51.0.2704.79 138 30
+android 121 12
+chrome54.0.2840.68 298 83
+chrome51.0.2681.0 2358 681
+chrome54.0.2840.100 47 1
+msie6.0 26 3
+chrome48.0.2564.95 186 25
+Unknown 33 15
+chrome51.0.2704.81 1 0
+chrome48.0.2564.116 2 2
+firefox14.0.1 9 9
+chrome54.0.2840.87 233 31
+firefox43.0 1 1
+chrome54.0.2840.59 96 2
+blackberry 2 2
+firefox50.0 2112 543
+chrome19.0.1084.56 2 2
+iphone 160 8
+chrome51.0.2683.0 1022 191
+safari10.3.2.2876 67 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+WordPress/4.6.1;_http://lermelhor.com.br/face 20161101182902
+Mozilla/5.0_(compatible;_Embedly/0.2;__http://support.embed.ly/) 20161129102658
+Mozilla/5.0_(BB10;_Kbd)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.3.2.2876_Mobile_Safari/537.35_ 20161103204517
+Mozilla/5.0_(compatible;_Dataprovider/6.101;__https://www.dataprovider.com/) 20161111224214
+Cpanel-HTTP-Client/1.0 20161109045400
+facebookexternalhit/1.1 20161104142307
+WhatsApp/2.16.275_A 20161102173818
+COMODO_DCV 20161109054405
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+WordPress/4.6.1;_http://lermelhor.com.br/face 20161101182902
+Cpanel-HTTP-Client/1.0 20161109045400
+WhatsApp/2.16.275_A 20161102173818
+COMODO_DCV 20161109054405
+facebookexternalhit/1.1 20161104142307
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 445 498
+From1 3 3
+From2 10 23
+From3 244 264
+From4 2563 13188
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+yandex 2 2
+google 8 21
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 12
+http://m.facebook.com 166 185
+https://www.facebook.com 56 57
+http://l.facebook.com/lsr.php 8 8
+https://www.facebook.com 4 4
+http://www.guiando.com.br/index.php 2 2
+http://m.facebook.com 2 2
+http://burger-imperia.com 1 1
+https://m.facebook.com 1 1
+http://www.diarioregional.com.br/2016/03/23/escolas-de-diadema-recebem-o-projeto-ler/ 1 1
+http://pizza-imperia.com 1 1
+http://www.facebook.com/l.php 1 1
+http://hvd-store.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 907 298905
+206 466 9292574
+301 123 30896
+500 51 13157
+404 1118 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 293
+/wysiwyg/fckeditor/editor/_source/commandclasses/fckremoveformatcommand.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/MKT/mkt4 1 -
+/images/Comprar2.jpg 1 -
+/js/themes/classic/classic-loader.gif 1 -
+/coaching/images/headerbanner/header_788623b32d424edc9404c051c8a30954.jpg 3 -
+/wysiwyg/fckeditor/editor/_source/fckconstants.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/internals/fcktablehandler.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/themes/rvtheme/images/logo_icq.png 1 -
+/MKT/images/11.jpg 7 -
+/wordpress/wp-login.php 2 -
+/shell.php 1 -
+/themes/rvtheme/images/logo.gif 1 -
+/wysiwyg/fckeditor/editor/_source/classes/fckdocumentfragment_gecko.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wp/ 3 -
+/wysiwyg/fckeditor/editor/_source/classes/fckkeystrokehandler.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/mkt1 2 -
+/main/wp-login.php 2 -
+/wysiwyg/fckeditor/editor/_source/internals/fcktoolbaritems.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/themes/rvtheme/faqweb/%7BmakeUrl( 1 -
+/js/lightbox/images/nextlabel.gif 1 -
+/themes/rvtheme_admin/articleweb/%7BmakeUrl( 1 -
+/wysiwyg/fckeditor/editor/_source/classes/fcktoolbar.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/administrator/index.php 1 -
+/images/2/wpThumbnails/Carrinhoazul.jpg 1 -
+/mobile/ 3 -
+/wysiwyg/fckeditor/editor/_source/commandclasses/fcknamedcommand.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/images/img_03.jpg 4 -
+/wysiwyg/fckeditor/editor/_source/internals/fckxhtml_gecko.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/internals/fckregexlib.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/MKT/MKT-4 2 -
+/images/Face/5.jpg 2 -
+/wysiwyg/fckeditor/editor/_source/commandclasses/fckstylecommand.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/internals/fck_contextmenu.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/internals/fcklistslib.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/themes/rvtheme/forums/%7BsmfURL%7D/index.php 2 -
+/coaching/images/headerbanner/header_f9cd8c8807c6b6a95fa34e23cbf848c6.jpg 3 -
+/wysiwyg/fckeditor/editor/_source/classes/fckeditingarea.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/themes/rvtheme/user/%7BbaseUrl%7D/forums/index.php 1 -
+/themes/rvtheme_admin/articleweb/%7BwebRoot%7D/js/jscalendar/calendar-blue2.css 1 http://lermelhor.com.br/themes/rvtheme_admin/articleweb/admin_articleEdit.html
+/images/2/curso.jpg 2 https://www.google.com.br
+/wysiwyg/fckeditor/editor/_source/commandclasses/fck_othercommands.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/videos/Comprove-o-teste.php 7 -
+/js/themes/classic/classic-map.png 1 -
+/wysiwyg/fckeditor/editor/_source/classes/fckdomrange.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/MKT/images/1/10.jpg 1 -
+/themes/rvtheme/themes/rvtheme/css/style.css 1 http://lermelhor.com.br/themes/rvtheme/dreamweaverHeader.html
+/wysiwyg/fckeditor/editor/_source/classes/fckhtmliterator.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/internals/fcktools.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/themes/rvtheme/user/%7BsmfURL%7D/index.php 1 -
+/images/2/Clickaqui2.jpg 2 -
+/themes/rvtheme/themes/rvtheme/css/typo.css 1 http://lermelhor.com.br/themes/rvtheme/dreamweaverHeader.html
+/In 1 -
+/3-Curso.php 1 http://lermelhor.com.br/modulo-1/
+/js/themes/fullscreen/fix.gif 1 -
+/wysiwyg/fckeditor/editor/_source/classes/fckenterkey.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/themes/rvtheme/images/logo_name.png 1 -
+/MKT/images/10.jpg 3 http://lermelhor.com.br/MKT/MKT.php
+/lermelhor.com.br/documents/ProjetodoSite.doc 1 -
+/videos/optimizer.php 1 http://lermelhor.com.br/videos/rvsindex.php
+/new/wp-login.php 2 -
+/images/2/wpThumbnails/sala02.jpg 1 -
+/themes/rvtheme/user/%7BmakeUrl( 1 -
+/js/themes/lightbox/n.png 1 -
+/wysiwyg/fckeditor/editor/_source/internals/fcktoolbarset.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/internals/fckplugins.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/themes/rvtheme_admin/themes/rvtheme_admin/css/block.php 1 http://lermelhor.com.br/themes/rvtheme_admin/dreamweaverHeader.html
+/blog/robots.txt 3 -
+/js/mage/cookies.js 1 lermelhor.com.br
+/sitemap.xml 1 -
+/wysiwyg/fckeditor/editor/_source/internals/fcktablehandler_gecko.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/images/MetodoCoaching.jpg 9 -
+/videos/1%C3%82%C2%BA-Modelo-Coaching.php 1 http://lermelhor.com.br/videos/Faze-3.php
+/js/lightbox/images/blank.gif 1 -
+/wysiwyg/fckeditor/editor/_source/commandclasses/fckshowblocks.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/MKT/images/Coaching1.jpg 3 http://lermelhor.com.br/MKT/IMAGENS.php
+/js/lightbox/images/closelabel.gif 1 -
+/videos/themes/rvtheme_admin/images/16/module_main.gif 3 http://lermelhor.com.br/videos/rvsindex.php
+/wysiwyg/fckeditor/editor/_source/classes/fckmenuitem.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/commandclasses/fckindentcommands.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/themes/rvtheme/images/bug.gif 1 -
+/wp-includes/js/quicktags.js 1 -
+/wysiwyg/fckeditor/editor/_source/fckjscoreextensions.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/commandclasses/fcklistcommands.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/coachingpravoce/images/GabineteVer.Ari_copy_1.jpg 1 -
+/themes/rvtheme/images/cal_days_bg.jpg 1 -
+/themes/rvtheme/images/buy_account.jpg 1 -
+/wysiwyg/fckeditor/editor/_source/internals/fckdomtools.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/coaching/images/headerbanner/header_banner.jpg 3 -
+/images/pag1teste.jpg 4 -
+/images/img_06.jpg 3 -
+/coachingpravoce/images/2/Rodadeaprendizagem.jpg 1 -
+/images/Carrinhoazulclaro.jpg 2 -
+/test/wp-login.php 2 -
+/themes/rvtheme/themes/rvtheme/css/tools.css 1 http://lermelhor.com.br/themes/rvtheme/dreamweaverHeader.html
+/videos/2%C3%82%C2%BA---Modelo-coaching-Perdas-e-Ganhos.php 1 -
+/images/Gab.Ver.Ari.jpeg 12 https://www.google.cm/
+/themes/rvtheme/themes/rvtheme/css/layout.css 1 http://lermelhor.com.br/themes/rvtheme/dreamweaverHeader.html
+/wysiwyg/fckeditor/editor/_source/commandclasses/fckspellcheckcommand_gecko.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/js/themes/fullscreen/n.gif 1 -
+/js/themes/fullscreen/l.gif 1 -
+/themes/rvtheme/themes/rvtheme/css/reset.css 1 http://lermelhor.com.br/themes/rvtheme/dreamweaverHeader.html
+/images/2/M%C3%B3dulo-12.jpg 1 -
+/themes/rvtheme/themes/rvtheme/css/common.css 1 http://lermelhor.com.br/themes/rvtheme/dreamweaverHeader.html
+/MKT/images/9.jpg 3 -
+/wysiwyg/fckeditor/editor/_source/classes/fcktoolbarbreak_gecko.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/MKT1 1 -
+/themes/default/default/%7BmakeUrl( 1 -
+/js/lightbox/images/prevlabel.gif 1 -
+/xmlrpc.php 3 -
+/coaching/images/headerbanner/new_interview_fmt.jpeg 3 -
+/themes/rvtheme/images/logo_aim.png 1 -
+/wp-login.php 3 -
+/images/depoimento.jpg 2 -
+/wysiwyg/fckeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.pl 2 -
+/js/tests/%3C 1 http://lermelhor.com.br/js/tests/sample.js.html
+/wysiwyg/fckeditor/editor/_source/classes/fcktoolbarfontscombo.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/themes/rvtheme/themes/rvtheme/css/layout-navtop-2col_localleft.css 1 http://lermelhor.com.br/themes/rvtheme/dreamweaverHeader.html
+/themes/rvtheme_admin/faqweb/%7BmakeUrl( 1 -
+/MKT/images/Clickaqui2.jpg 8 http://lermelhor.com.br/MKT/index.php
+/wysiwyg/fckeditor/editor/_source/classes/fckelementpath.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/rvs_media_library/config.txt 2 -
+/themes/rvtheme/images/logo_yahoo.png 1 -
+/MKT/images/1.jpg 3 http://lermelhor.com.br/MKT/MKT.php
+/coaching/images/headerbanner/header_eefaf277e481110115a32d0adf87d8ef.jpg 3 -
+/license.php 2 -
+/themes/rvtheme/themes/rvtheme/css/forms.css 1 http://lermelhor.com.br/themes/rvtheme/dreamweaverHeader.html
+/themes/rvtheme/images/enabled.gif 1 -
+/videos/teste.php 1 -
+/wysiwyg/fckeditor/editor/_source/internals/fckdocumentprocessor.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/images/img_05.jpg 3 -
+/MKT/images/Neuroci%C3%AAncia2.jpg 6 -
+/wysiwyg/fckeditor/editor/_source/internals/fck_gecko.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/images/img_01.jpg 4 -
+/wysiwyg/fckeditor/editor/_source/classes/fckmenublockpanel.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/images/2/2.jpg 4 -
+/themes/rvtheme/images/logo_pass.png 1 -
+/wysiwyg/fckeditor/editor/_source/commandclasses/fcktablecommand.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/classes/fcktoolbarfontsizecombo.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/commandclasses/fckpastewordcommand.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/classes/fckicon.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/coaching/images/headerbanner/header_ab243f410213147176fbd82a6ac2a9fe.jpg 3 -
+/wysiwyg/fckeditor/editor/_source/classes/fckmenublock.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/images/2.jpg 34 -
+/images/TESTE.jpg 6 -
+/2%C2%BA-M%C3%B3dulo.php 1 -
+/themes/rvtheme_admin/themes/rvtheme_admin/css/core.php 1 http://lermelhor.com.br/themes/rvtheme_admin/dreamweaverHeader.html
+/themes/rvtheme/user/%7BbaseUrl%7D/blogweb/admin_frame.html 1 -
+/wysiwyg/fckeditor/editor/skins/default/fck_strip.gif 1 -
+/videos/Tire-suas-d%C3%83%C2%BAvidas.php 1 -
+/wysiwyg/fckeditor/editor/_source/classes/fcktoolbarbuttonui.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/components/com_content/metadata.xml 1 -
+/images/2/potencializarglobalizado6.jpg 2 -
+/wysiwyg/fckeditor/editor/_source/internals/fckstyles.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/internals/fcklisthandler.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/internals/fckdialog.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/images/lightblue_linkarrow.gif 1 http://lermelhor.com.br/Navigator.css
+/cepsalas/documents/ProjetodoSite.doc 1 -
+/optimizer.php 3 http://lermelhor.com.br/rvsindex.php
+/js/lightbox/images/next.gif 1 -
+/images/2/12516850_1054248367966191_1231618284_o1.jpg 1 -
+/wysiwyg/fckeditor/editor/_source/classes/fckimagepreloader.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/coaching/images/headerbanner/header_f89a807186936f5312ff167a0169cdfa.jpg 3 -
+/js/lightbox/images/loading.gif 1 -
+/js/themes/dots/loader.gif 1 -
+/images/fotoDiadema.jpg 1 -
+/wysiwyg/fckeditor/editor/_source/internals/fckselection.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/images/lightblue_arrow.gif 1 http://lermelhor.com.br/Navigator.css
+/wysiwyg/fckeditor/editor/_source/commandclasses/fckpasteplaintextcommand.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/home/wp-login.php 2 -
+/wysiwyg/fckeditor/editor/_source/internals/fckxhtml.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/themes/rvtheme/images/logo.png 1 -
+/images/2/Comproveoteste.jpg 33 -
+/js/themes/fullscreen/r.gif 1 -
+/js/jquery-ui/jquery/test/data/testsuite.css 1 http://lermelhor.com.br/js/jquery-ui/external/bgiframe/test/
+/robots.txt 280 -
+/js/jquery-ui/jquery/dist/jquery.js 1 http://lermelhor.com.br/js/jquery-ui/external/bgiframe/test/
+/themes/rvtheme/forums/logo_email.png 1 -
+/wysiwyg/fckeditor/editor/_source/commandclasses/fckblockquotecommand.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/cepsalas/images/GabineteVer.Ari_copy_1.jpg 1 -
+/site/wp-login.php 2 -
+/themes/rvtheme_admin/themes/rvtheme_admin/css/blockStyle.php 1 http://lermelhor.com.br/themes/rvtheme_admin/dreamweaverHeader.html
+/js/themes/fullscreen/b.png 1 -
+/wysiwyg/fckeditor/editor/_source/classes/fckw3crange.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/images/Gratuito2.jpg 1 -
+/wysiwyg/fckeditor/editor/_source/classes/fcktoolbarbutton.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/classes/fckstyle.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/images/2/eliminarduvida.jpg 3 -
+/.well-known/apple-app-site-association 5 -
+/images/img_04.jpg 3 -
+/images/2/3.jpg 4 -
+/images/%C3%81readoalunook.jpg 27 -
+/themes/rvtheme/images/logo_msn.png 1 -
+/login.php 2 -
+/images/img_02.jpg 6 -
+/themes/rvtheme/themes/rvtheme/css/blocks.css 1 http://lermelhor.com.br/themes/rvtheme/dreamweaverHeader.html
+/lermelhor.com.br/images/GabineteVer.Ari_copy_1.jpg 1 -
+/m/ 4 -
+/wysiwyg/fckeditor/editor/_source/commandclasses/fckcorestylecommand.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/MKT/images/6.jpg 26 -
+/blog/wp-login.php 2 -
+/themes/rvtheme/images/logo_email.png 1 -
+/wysiwyg/fckeditor/editor/_source/commandclasses/fckfitwindow.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/classes/fckxml_gecko.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/blogs/wp-login.php 2 -
+/images/2/jejacomoadquirir.jpg 5 -
+/MKT/images/13.jpg 2 -
+/wysiwyg/fckeditor/editor/_source/commandclasses/fcktextcolorcommand.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/classes/fckevents.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/themes/rvtheme/images/cal_event_bg_1.jpg 1 -
+/mkt 1 -
+/wysiwyg/fckeditor/editor/_source/internals/fckcommands.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/news/wp-login.php 2 -
+/themes/rvtheme_admin/themes/rvtheme_admin/css/tools.css 1 http://lermelhor.com.br/themes/rvtheme_admin/dreamweaverHeader.html
+/wysiwyg/fckeditor/editor/_source/classes/fckdataprocessor.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/images/bgbottom.jpg 3 -
+/images/spacer.gif 4 -
+/wysiwyg/fckeditor/editor/_source/internals/fckselection_gecko.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/classes/fckplugin.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/images/curso2016.jpg 128 -
+/MKT/images/LeituraDin%C3%A2mica.jpg 3 http://lermelhor.com.br/MKT/MKT.php
+/wysiwyg/fckeditor/editor/_source/internals/fcktools_gecko.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/js/jquery-ui/external/responsiveslides.min.js 1 http://lermelhor.com.br/js/jquery-ui/external/responsivecarousel/themes/themes.html
+/images/pattern_01.jpg 3 -
+/MKT/images/4.jpg 37 -
+/images/depoimentos.jpg 7 -
+/MKT/images/PNL2.jpg 8 -
+/wysiwyg/fckeditor/editor/_source/internals/fckconfig.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/classes/fcktoolbarspecialcombo.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/js/themes/fullscreen/loader.gif 1 -
+/wysiwyg/fckeditor/editor/_source/classes/fcktoolbarpanelbutton.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/internals/fck.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/LOGO.jpg 6 -
+/js/themes/fullscreen/p.gif 1 -
+/images/bgtop.jpg 3 -
+/js/lightbox/images/close.gif 1 -
+/themes/rvtheme/images/cal_event_bg_2.jpg 1 -
+/coachingpravoce/documents/ProjetodoSite.doc 1 -
+/images/Face/3.jpg 1 -
+/videos/Modelo-coaching.php 11 http://lermelhor.com.br/segmod/Faze-2.php
+/wysiwyg/fckeditor/editor/_source/internals/fckbrowserinfo.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/MKT/images/3.jpg 3 http://lermelhor.com.br/MKT/IMAGENS.php
+/images/pattern_02.jpg 3 -
+/themes/rvtheme_admin/themes/rvtheme_admin/css/default.php 1 http://lermelhor.com.br/themes/rvtheme_admin/dreamweaverHeader.html
+/themes/rvtheme/images/logo_tel.png 1 -
+/wysiwyg/fckeditor/_samples/sample.css 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/plugins/bbcode/_sample/sample.html
+/js/themes/fullscreen/i.png 1 -
+/images/Slide3.jpg 2 -
+/images/livro800x800.jpg 2 -
+/wysiwyg/fckeditor/editor/_source/classes/fckspecialcombo.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/js/jquery-ui/external/responsiveslides.css 1 http://lermelhor.com.br/js/jquery-ui/external/responsivecarousel/themes/themes.html
+/images/2/Fun%C3%A7%C3%A3odosolhos.jpg 40 -
+/wysiwyg/fckeditor/editor/_source/commandclasses/fckjustifycommands.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/en/wp-login.php 2 -
+/videos/themes/rvtheme_admin/images/sort_ASC.gif 7 http://lermelhor.com.br/videos/rvsindex.php
+/wysiwyg/fckeditor/editor/_source/classes/fckdomrange_gecko.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/images/Face/PNL.jpg 1 -
+//administrator/index.php 1 -
+/js/themes/lightbox/p.png 1 -
+/images/2/DEMONSTRA%C3%87%C3%83O.jpg 4 -
+//images/xxu.php 1 -
+/wysiwyg/fckeditor/editor/_source/classes/fckdomrangeiterator.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/internals/fckdebug_empty.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/js/lightbox/images/prev.gif 1 -
+/wysiwyg/fckeditor/editor/_source/classes/fcktoolbarstylecombo.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/images/3.jpg 1 -
+/wysiwyg/fckeditor/editor/_source/classes/fckpanel.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/internals/fcklanguagemanager.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/images/2/crian%C3%A7aselivro1.jpg 2 -
+/wysiwyg/fckeditor/editor/_source/classes/fckcontextmenu.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wp/wp-login.php 2 -
+/themes/default/%7BmakeUrl( 1 -
+/wysiwyg/fckeditor/editor/_source/fckeditorapi.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/classes/fckxml.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/images/2/DiarioRegional.png 1 -
+/images/CarrinhodeCompra.jpg 6 -
+/images/GabineteVer.Ari_copy_1.jpg 1 -
+/blog/ 3 -
+/wysiwyg/fckeditor/editor/_source/classes/fcktoolbarfontformatcombo.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/web/wp-login.php 2 -
+/wordpress/ 3 -
+/cms/wp-login.php 2 -
+/themes/rvtheme/images/logo_website.png 1 -
+/js/themes/lightbox/loader.gif 1 -
+/wysiwyg/fckeditor/editor/_source/internals/fckcodeformatter.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/wysiwyg/fckeditor/editor/_source/internals/fckurlparams.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/themes/rvtheme/images/logo_mobile.png 1 -
+/wysiwyg/fckeditor/editor/_source/internals/fckxhtmlentities.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/js/themes/lightbox/close.png 1 -
+/wysiwyg/fckeditor/editor/_source/internals/fckundo.js 1 http://lermelhor.com.br/wysiwyg/fckeditor/editor/fckeditor.original.html
+/MKY 1 -
+/videos/themes/rvtheme_admin/images/16/module_authweb.gif 9 http://lermelhor.com.br/videos/rvsindex.php
+/compras 1 -
+/images/BOTONINICIO.png 7 https://www.google.com.br/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 212
+201.6.228.171 1044 3131 59117899 20161127101749
+201.6.128.171 888 3287 44672345 20161107182824
+201.55.31.210 232 960 32121013 20161128185305
+201.6.231.208 168 813 16318333 20161130090552
+201.55.31.211 150 524 16793869 20161107212714
+177.103.223.91 113 380 13074805 20161129193804
+201.55.31.212 104 929 12451624 20161129214332
+201.55.31.71 90 441 14986310 20161129112626
+186.231.142.206 45 153 5173246 20161122213043
+201.93.59.61 34 151 5137976 20161113000355
+201.6.177.147 20 159 5279829 20161113225432
+177.148.244.86 17 106 2651950 20161106184039
+177.139.178.110 14 109 3291474 20161124133410
+142.4.218.156 13 13 295387 20161111224215
+201.52.51.46 11 11 154579 20161129095300
+177.129.21.181 10 49 1024659 20161101153241
+177.189.125.235 10 109 3713524 20161102093653
+69.58.178.57 10 10 193668 20161119024953
+177.9.242.223 9 81 2486544 20161107140756
+177.188.219.122 8 8 122378 20161105235730
+191.188.188.216 7 7 87688 20161103211848
+177.207.204.67 7 143 5121929 20161121102140
+191.253.54.27 6 84 2210570 20161107220600
+201.27.155.95 6 6 76035 20161102000500
+177.94.142.246 6 53 1788455 20161113235817
+177.205.245.4 1 45 1782838 20161106013705
+187.77.81.141 3 8 44718 20161113130833
+201.83.238.250 1 1 12539 20161102215752
+191.19.17.115 3 3 41912 20161106003358
+201.6.228.194 1 1 12346 20161102114911
+187.56.214.197 1 1 13085 20161104171738
+177.79.9.227 1 41 810792 20161101215009
+189.102.169.49 1 1 12346 20161102054622
+191.52.224.64 0 1 148706 
+177.79.39.187 1 1 12206 20161102151035
+204.101.161.159 2 25 412917 20161115223652
+62.212.73.49 1 1 25568 20161114192439
+5.9.145.132 1 1 15610 20161104090505
+116.0.20.33 2 2 51136 20161115234543
+176.14.34.104 1 25 408169 20161113125903
+177.62.40.191 1 1 13778 20161103123926
+5.9.112.6 1 1 15485 20161130073007
+5.9.17.118 3 3 48087 20161130073005
+201.81.0.251 1 1 14618 20161104064724
+189.79.244.3 0 2 629928 
+177.23.3.234 3 3 38304 20161103212508
+189.51.7.83 1 1 13085 20161105132316
+201.68.107.7 1 1 28931 20161124131817
+177.9.103.12 1 45 1614164 20161112153203
+179.208.77.56 4 56 2636877 20161101230635
+186.202.120.146 1 1 28929 20161124181521
+189.35.237.168 1 1 12539 20161102222226
+5.9.94.207 3 3 46455 20161130163800
+187.10.126.96 1 7 49272 20161129090039
+201.69.154.141 2 2 26317 20161103123206
+154.118.210.185 3 3 38304 20161103182619
+187.41.139.159 0 1 148706 
+187.200.70.7 0 1 32871 
+200.53.206.76 1 1 13085 20161104233829
+200.53.204.124 2 54 2437234 20161106213908
+186.231.117.59 1 1 28929 20161129175219
+65.19.167.131 1 1 24975 20161111091126
+201.69.243.24 1 1 14002 20161124111223
+189.4.176.51 1 1 12539 20161102214601
+177.152.80.9 1 48 1773013 20161118124533
+177.79.28.115 1 1 28929 20161129160255
+187.38.58.146 2 2 24863 20161102222617
+177.81.89.14 3 3 38116 20161104215205
+191.193.164.14 5 103 3490159 20161116163400
+187.10.243.79 1 14 360292 20161129174331
+201.83.244.141 5 5 62839 20161101150237
+107.21.253.49 1 1 28929 20161129102658
+52.12.203.108 2 88 2942329 20161128102324
+177.102.74.23 2 2 26317 20161103121431
+190.104.131.209 1 1 28929 20161129075724
+54.162.185.185 1 1 26681 20161102060706
+186.238.250.98 1 42 991493 20161103132152
+64.202.160.248 2 2 50543 20161115030038
+177.139.117.192 3 3 38055 20161101212936
+200.171.255.156 2 22 831732 20161103204513
+66.249.83.1 0 1 1164 
+187.53.252.157 2 2 431 20161108042936
+177.29.191.29 1 45 1783059 20161103135418
+189.102.46.128 1 1 12346 20161101234742
+54.162.51.231 1 1 25568 20161116094226
+179.156.75.129 1 1 25036 20161116160421
+201.95.108.185 1 1 12539 20161102203551
+213.159.38.90 1 1 28929 20161124202547
+189.54.177.38 1 1 29029 20161130080353
+187.56.211.110 1 1 12346 20161102144212
+91.199.212.132 0 3 159 
+177.17.165.226 0 6 7324 
+200.232.147.53 1 22 1036314 20161110194535
+186.214.97.142 1 1 12346 20161102065626
+177.79.45.167 1 1 13778 20161103132034
+94.242.246.23 1 1 28929 20161129163621
+173.252.115.194 1 1 12685 20161101140506
+66.220.146.180 1 1 12112 20161102145258
+189.103.252.129 1 1 28931 20161124140055
+54.196.126.106 1 1 28931 20161124063908
+177.79.44.163 1 18 301531 20161124221545
+179.99.218.4 1 1 13085 20161104172606
+177.79.41.123 0 30 1569175 
+201.6.128.131 1 1 11743 20161103183259
+177.188.80.95 1 1 13085 20161105082118
+201.6.231.111 1 1 25580 20161130100145
+5.135.158.101 1 1 26964 20161103194632
+173.252.123.183 1 1 11743 20161103181147
+177.189.98.218 2 3 271288 20161102114923
+66.102.8.223 0 1 46750 
+54.153.89.80 1 45 1782782 20161101204229
+66.249.88.9 1 3 38245 20161114001805
+178.137.83.166 2 2 57858 20161128083549
+200.205.117.242 1 1 11743 20161103182008
+177.79.43.5 1 1 13778 20161103131937
+189.89.9.51 0 1 148706 
+179.241.210.17 1 48 1773013 20161120211800
+179.110.76.203 1 1 13085 20161105140809
+189.100.49.131 1 42 840515 20161101084649
+177.102.223.213 1 1 28929 20161124151120
+186.220.216.111 1 1 12112 20161102145507
+201.69.234.97 1 1 14618 20161104003934
+66.249.85.177 0 1 140991 
+187.101.199.157 1 1 11743 20161103232435
+66.249.83.29 0 2 223117 
+200.170.224.138 3 49 1815818 20161119141939
+189.92.96.32 1 41 1000265 20161104155458
+189.38.163.44 1 1 13085 20161104213708
+191.57.131.166 1 45 1782782 20161101224222
+191.6.165.164 1 48 1870706 20161128135756
+201.83.91.119 1 1 13085 20161104172235
+54.220.15.47 2 90 3565841 20161103223250
+177.141.168.189 1 1 13085 20161104174736
+179.252.55.119 0 1 148706 
+177.9.102.74 1 1 12534 20161103090456
+176.195.119.62 1 39 443024 20161114082655
+66.249.88.25 0 8 118388 
+173.252.102.113 1 1 13085 20161104142307
+86.47.80.145 6 6 122361 20161101222923
+201.83.89.142 2 61 2587827 20161104204304
+177.189.20.91 1 1 13778 20161103154149
+177.139.52.175 1 1 12534 20161109204958
+131.0.217.8 1 1 14002 20161106002314
+93.104.215.69 6 21 1115 20161109045354
+177.65.84.148 1 1 13085 20161104180720
+179.236.238.79 1 47 1687221 20161117175210
+201.158.59.5 1 1 12685 20161101215400
+189.62.12.160 2 2 43655 20161125024049
+66.249.85.30 0 1 140991 
+66.249.85.2 0 1 140991 
+173.252.106.116 1 1 11812 20161103120715
+179.208.35.43 1 1 13085 20161104174837
+189.44.240.15 1 45 1614164 20161109081913
+201.95.134.230 1 1 13085 20161104224930
+78.46.156.169 2 2 30970 20161130163815
+186.204.194.61 1 1 13085 20161104173947
+191.180.121.243 1 45 1782782 20161102150901
+179.208.75.2 1 1 12539 20161102225414
+179.35.28.241 1 1 12685 20161101215331
+179.208.73.141 1 1 14002 20161105235319
+187.38.196.124 1 1 12685 20161101213129
+46.164.130.37 1 1 24975 20161110102546
+177.81.215.205 2 2 25031 20161102002654
+201.23.79.35 1 1 28929 20161129110316
+201.81.41.66 6 6 79093 20161106112129
+187.87.52.48 0 1 148706 
+188.92.76.158 1 1 431 20161126191031
+189.120.50.96 1 1 12206 20161102153109
+186.249.83.41 1 45 1782149 20161102174159
+152.249.178.112 1 1 11743 20161103184616
+136.243.17.161 1 1 15485 20161125133537
+187.37.170.153 6 6 90054 20161130183158
+189.56.111.186 1 40 709511 20161103173759
+8.37.232.115 2 66 2144106 20161102114752
+198.199.84.198 1 52 1805896 20161103224203
+189.46.241.70 0 2 297412 
+201.13.214.149 1 1 13085 20161104205544
+88.99.27.172 1 1 17117 20161121003825
+131.255.101.195 1 48 1867357 20161130164849
+177.79.41.11 1 1 12346 20161102014931
+66.102.8.221 0 1 121416 
+66.249.88.27 0 11 438373 
+189.46.169.7 1 11 39367 20161120173048
+192.154.110.50 1 1 24975 20161110162104
+177.45.100.119 5 5 63596 20161104210249
+173.252.102.114 1 1 11743 20161103181147
+179.179.129.175 1 45 1782040 20161102173903
+197.237.148.165 0 1 140991 
+54.176.64.6 3 99 4345496 20161128102324
+190.162.122.19 0 1 32871 
+198.71.241.35 1 1 25568 20161113152408
+66.249.88.12 0 3 4950 
+168.232.252.157 1 1 12685 20161101204738
+177.32.45.204 2 86 2783103 20161105231845
+186.239.235.53 1 24 364538 20161108084623
+186.220.37.175 2 2 24885 20161102192101
+200.168.110.12 4 4 53367 20161104103925
+179.213.81.102 1 1 13876 20161103223545
+188.37.134.72 0 1 148706 
+191.7.192.222 2 46 1810023 20161103032241
+200.142.79.143 0 1 140991 
+189.0.38.156 3 3 39986 20161103165317
+66.249.83.31 1 3 11655 20161113195701
+209.160.65.104 1 1 24975 20161110031955
+186.220.23.141 1 46 1684613 20161114104229
+201.6.231.33 1 1 12159 20161101020723
+179.157.43.140 0 1 167581 
+177.80.243.103 1 1 14002 20161106142943
+66.249.88.23 1 15 850549 20161113195652
+189.18.114.19 1 1 13085 20161104143358
+66.249.88.15 0 2 8797 
+191.19.17.230 3 3 39523 20161106175312
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20161101 227 1206 31878052 33
+20161102 170 846 15800509 41
+20161103 128 972 20804997 44
+20161104 444 1274 28403886 35
+20161105 42 425 6865549 11
+20161106 156 578 15834225 11
+20161107 301 977 20488191 11
+20161108 145 511 7637481 6
+20161109 28 159 2702420 6
+20161110 31 284 9077785 10
+20161111 62 259 8061402 6
+20161112 72 270 3684289 6
+20161113 137 339 9276944 12
+20161114 63 220 5657152 8
+20161115 27 66 1085585 4
+20161116 13 135 3644321 6
+20161117 131 542 12968292 8
+20161118 51 193 3511630 5
+20161119 13 59 2009486 2
+20161120 28 116 2597147 4
+20161121 324 1188 37411371 12
+20161122 136 324 7868980 5
+20161123 36 167 4144806 2
+20161124 137 509 13608791 12
+20161125 11 25 544551 7
+20161126 1 2 33302 1
+20161127 82 169 4804639 2
+20161128 92 652 16504643 12
+20161129 148 1222 20636069 15
+20161130 29 287 7296910 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 24
+15mn-30mn 14
+30mn-1h 21
+2mn-5mn 15
+1h+ 24
+0s-30s 227
+30s-2mn 22
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 98
+/videos/optimizer.php 975 36903735 0 19
+/videos/rvsindex.php 442 1983818 10 6
+/ 439 11627887 147 112
+/optimizer.php 164 3230144 0 1
+/rvsindex.php 87 387136 0 0
+/Curso.php 87 1207938 1 1
+/videos/Faze-3.php 83 2258723 0 3
+/email 70 45010 22 30
+/Modulo-2/optimizer.php 54 1314217 0 1
+/rvssetup.php 53 2954909 1 0
+/themes/default/css/installer.php 53 466824 2 0
+/MKT/MKT-3.php 42 549570 27 24
+/MKT/IMAGENS.php 41 519028 22 25
+/MKT/ 39 509921 5 2
+/MKT/MKT2.php 38 470805 18 18
+/segmod/optimizer.php 37 1002176 0 1
+/MKT/MKT.php 34 419311 17 14
+/segmod/rvsindex.php 33 175981 0 1
+/MKT/MKT-2.php 31 406304 18 16
+/MKT/MKT-1.php 30 412013 22 22
+/Noticias.php 21 325047 11 11
+/In%C3%ADcio.php 21 552962 1 1
+/Compra.php 18 290581 1 2
+/videos/Brainstorming.php 18 408807 0 1
+/Modulo-2/rvsindex.php 18 89526 0 0
+/MKT/index.php 2 27780 0 1
+/45986.BIN_AUTOSSL_CHECK_PL__.ppyftuvm.cpaneldcv 1 64 1 0
+/videos/Faze-2.php 1 26542 0 0
+/videos/Depoimentos.php 5 76395 0 0
+/videos/rvthankform_d39ef540244c637afcf2960e641295db.php 3 43872 0 0
+/videos/Depoimentos-2016.php 2 53856 0 1
+/Flayer-face.php 5 72995 3 2
+//index.php/joomla-pages-ii/user-registration.html 1 25568 0 1
+/Galeria-de-fotos.php 3 40284 0 1
+/Copied-Suporte.php 12 323389 0 0
+/Compra/Copied-Avalia%C3%A7%C3%A3o-do-tempo-adequado.php 4 148614 0 0
+/Compra/ 12 340582 0 1
+/face/wp-cron.php 1 0 1 1
+/segmod/Teste.php 1 14149 0 0
+/videos/Modelo-Coaching.php 3 86102 0 0
+/MEC.php 5 66386 0 1
+/Teste.php 9 117054 0 3
+/modulo-1/ 2 53992 1 0
+/Formul%C3%A1rio.php 2 43909 2 2
+/videos/Depoimentos-2013.php 4 127523 1 1
+/Modulo-2/Modelo-coaching.php 1 27780 0 0
+/Compra/Dep%C3%B3sito-Banc%C3%A1rio.php 8 168115 1 0
+/Modulo-2/themes/default/css/installer.php 3 26451 0 0
+/curso/index.html/index.html/index.html/index.html/index.html/index.html/ 1 3671 0 0
+/videos/Copied-1%C2%BA---Modelo-coaching.php 4 115629 0 0
+/45986.BIN_AUTOSSL_CHECK_PL__.nLyQt2Da.cpaneldcv 1 64 0 0
+/videos/Copied-1%C2%BA---Modelo-coaching2.php 9 265239 0 0
+/videos/Copied-In%C3%ADcio.php 8 257990 0 1
+/segmod/Modelo-coaching.php 6 166890 0 0
+/videos/media/player.swf 3 124005 0 0
+/face/wp-content/themes/ares/inc/fonts/fontawesome-webfont.woff 1 83760 0 0
+/segmod/Depoimentos.php 9 130976 0 1
+/imagens-face.php 2 26392 0 1
+/index.php_bak 1 25036 1 1
+/contato.php 11 232138 0 0
+/config/ 1 288 1 0
+/videos/Copied-Fechamento-do-1%C2%BA-Modelo-coaching.php 9 269567 0 0
+/45986.BIN_AUTOSSL_CHECK_PL__.3xx2BoQT.cpaneldcv 1 64 0 1
+/Flayer-facebook.php 1 14548 0 0
+/videos/index.php 1 27128 0 0
+/segmod/Copied-In%C3%ADcio.php 1 25590 0 0
+//index.php/component/users/ 1 25568 1 0
+/Modulo-2/Faze-2.php 4 89311 0 0
+/1%C2%BA-M%C3%B3dulo.php 16 604919 0 6
+/Modulo-2/Copied-In%C3%ADcio.php 1 25965 0 0
+/Modulo-2/rvssetup.php 3 167421 1 0
+/Compra/index.php 1 16280 0 0
+/segmod/Brainstorming.php 1 21569 0 0
+/Tire-suas-d%C3%BAvidas.php 1 22110 0 0
+/videos/Tire-suas-d%C3%BAvidas.php 2 44996 0 0
+/videos/themes/default/css/installer.php 14 123410 0 0
+/45986.BIN_AUTOSSL_CHECK_PL__.ONxgA0rz.cpaneldcv 1 64 0 0
+/Compra/Compras.php 14 229661 0 0
+/Dep%C3%B3sito-Banc%C3%A1rio.php 13 280636 0 1
+/MKT/MKT1.php 10 122595 0 0
+/Fun%C3%A7%C3%A3o-dos-olhos.php 5 65641 0 0
+/themes/default_admin/css/comment.php 1 431 1 1
+/videos/1%C2%BA-Modelo-Coaching.php 9 257599 0 0
+/Not%C3%ADcias--and--Eventos.php 4 68468 4 4
+/MKT/face.php 9 108858 2 1
+/index.php 5 130280 0 1
+/segmod/Faze-2.php 14 315532 0 0
+/Copied-1%C2%BA---Modelo-coaching2.php 1 29555 0 0
+/videos/rvssetup.php 14 781130 0 0
+/videos/Depoimentos-2015.php 2 36672 0 0
+/config/googleAnalyticsConf.ini 1 143 0 1
+/videos/ 1 24405 0 0
+/Processo-de-cria%C3%A7%C3%A3o.php 7 125492 0 0
+/videos/2%C2%BA---Modelo-coaching-Perdas-e-Ganhos.php 6 182150 0 0
+/Sobre-n%C3%B3s.php 10 131808 0 1
+/45986.BIN_AUTOSSL_CHECK_PL__.zWAtD5cG.cpaneldcv 1 64 0 0
+/face/ 1 17471 1 0
+/media/player.swf 4 165340 0 0
+END_SIDER

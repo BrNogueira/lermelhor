@@ -1,0 +1,167 @@
+Return-Path: <marceloeloyfernandes@gmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br with LMTP id CJ1HOxc31lnfZAYAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Thu, 05 Oct 2017 10:43:52 -0300
+Return-path: <marceloeloyfernandes@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 05 Oct 2017 10:43:52 -0300
+Received: from mail-qt0-f174.google.com ([209.85.216.174]:45655)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <marceloeloyfernandes@gmail.com>)
+	id 1e06RL-001m9Y-Rs
+	for marco@digitalfotoimagem.com.br; Thu, 05 Oct 2017 10:43:51 -0300
+Received: by mail-qt0-f174.google.com with SMTP id k1so14392714qti.2
+        for <marco@digitalfotoimagem.com.br>; Thu, 05 Oct 2017 06:43:29 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to
+         :cc;
+        bh=lNxyCrPN/8geI6Y7Srr7zAkOVQp0cO99gVXttI6iJJ0=;
+        b=jQTGF1zmeGsXLRKIbNs0Lc/kkLR8qG8gdB2lJfEm2PedvtS22sZF+wQdYUR0hVRept
+         /97JfLAxYwT7K8fJhuW+EVLOiFZYJfB2wJXGkDq46nIAqpQY0Ec9/rZ25jfHF6LuFFfb
+         GMb0cSXa5206v2jXWG8NnxaEMxU+sRM/4qLOLnkc/Q4FQChrKQYMEaQYNKPTpYNnXpse
+         WQxXJaHXi7VZNU4FGHakERm2XALsvPy2SCBtO2gG6CpqCZWVGr8kgAOL92RRyQdJZ7eZ
+         wJ9xuiB1Q+ox0QJ6jkcklyyLqf7fTblx+aBJbiczNcFrEznlrR5YYYkkfOEW0Jr40PlP
+         3dnA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to:cc;
+        bh=lNxyCrPN/8geI6Y7Srr7zAkOVQp0cO99gVXttI6iJJ0=;
+        b=E+7hlpurom1aVCRbtTQmuCw7oJ+N4/kzbp+DrZ09Yh8WrFKkdkjRIoa+tHIzqJqSME
+         whvcir5Qxo4qThPVww7nwy7PHhhJBI7/rn0RML19XCQdFQmnXlQ/tfmYYrP8ViS9RCjt
+         JTMw7ZrUaEON7eQGAjbpwfUuq6rHI1dhWL3wzl2Ht4uNnQr2PVaTOHsTYO0qQMfKK/6r
+         CWA6DSzwG4PXxa90FchY9oewcah+e3BeIBSrfvoiXmQTky3UTJRznbXBOb5l0gTteUe3
+         7O6cgmBVUkkHypqxL8TRf1rttNLOHJZUjPJ1sz77WL9/mDwXtwHUpAPd6zdZTY+bHadt
+         c0Tw==
+X-Gm-Message-State: AMCzsaVXFKReLtlpx5jR1Aou49qWfHr9KyLkk1bG7fZ+PD5NQ61skyl0
+	x4cSW2u8JFqgEVDTOhYTVKrowtYXDR6D0sqBk20=
+X-Google-Smtp-Source: AOwi7QAkCT+CJoS9K4DAMp3lc4fTA5Xd94n4salq5embX14cRwPeF9uiiDOSeSmPaMqwZQj4bSTE8er+5OKyJW9Bxw4=
+X-Received: by 10.129.183.21 with SMTP id v21mr718258ywh.349.1507210987883;
+ Thu, 05 Oct 2017 06:43:07 -0700 (PDT)
+MIME-Version: 1.0
+References: <005501d30c0a$390dac40$ab2904c0$@com.br> <009401d33ddd$30951620$91bf4260$@com.br>
+In-Reply-To: <009401d33ddd$30951620$91bf4260$@com.br>
+From: Marcelo Eloy <marceloeloyfernandes@gmail.com>
+Date: Thu, 05 Oct 2017 13:42:56 +0000
+Message-ID: <CAO3gwY97B6Yd3p6w4jyVmggO=JCmSTtFjGvvewCN6sMN7PNh1A@mail.gmail.com>
+Subject: =?UTF-8?Q?Re=3A_Parab=C3=A9ns_ao_Pedro=2C_Nosso_Aniversariante_de_Hoje?=
+	=?UTF-8?Q?=2C_05=2F10=2F2017=21=21=21?=
+To: Eduardo Lopes <ebernardinolopes@uol.com.br>, Egoshi da CTT3843 <ctt3843@egoshi.com.br>
+Cc: Alexandre Dellamura Sarmento <dellamura@uol.com.br>, 
+	Andre Luis Pereira de Godoi <andrelpgodoi@gmail.com>, =?UTF-8?Q?Andr=C3=A9_Rivail_Medrado?= <professor@medrado.adv.br>, 
+	Antonio Finardi <ma.finardi@hotmail.com>, Antonio Celso Tessari <celsotessari@gmail.com>, 
+	Antonio Kossei Takara <takar2@terra.com.br>, 
+	=?UTF-8?Q?Benedito_Carlos_Flam=C3=ADnio?= <carlos.flaminio@gmail.com>, 
+	Carlos Mave de Campos Assis <cmave96@gmail.com>, =?UTF-8?Q?Carlos_Rosseti_=28Kak=C3=A1=29?= <carlos.rossetti@uol.com.br>, 
+	=?UTF-8?Q?Dem=C3=A9trio_Muniz_Pendek?= <demetriopendek@hotmail.com>, 
+	Eduardo Camacho <eduardocamacho@uol.com.br>, Ernani Flausino <ernani.flausino@terra.com.br>, 
+	Everth Alves Bonavolonta <everth@mixlav.com.br>, Fernando Ziesmann Fortes <fernandozf@hotmail.com>, 
+	=?UTF-8?Q?F=C3=A1bio_Roberto_Faria?= <szfaria@gmail.com>, 
+	Gilberto Campos <gdcampos@uol.com.br>, Hideraldo Rodrigues Gomes <enghgomes@gmail.com>, 
+	Humberto de Oliveira Serrano <humberto.serrano@hotmail.com>, 
+	=?UTF-8?Q?H=C3=A9lio_Alvarez_Felix?= <helioamandara@uol.com.br>, 
+	Jair Airton Felix <j.felix10@bol.com.br>, Johannes Kozlowski <jkozlowski@uol.com.br>, 
+	=?UTF-8?Q?Jos=C3=A9_Carlos_de_Lima?= <jcl@tech-air.com.br>, 
+	=?UTF-8?Q?J=C3=BAlio_Cesar_Mattos_de_Faria?= <mattosfaria@terra.com.br>, 
+	Marcilio Marques Testa <mmtesta43@gmail.com>, Marco Antonio Patriniani <marckopat@live.com>, 
+	=?UTF-8?Q?Marco_Ant=C3=B4nio_Pedrosa_Parise?= <marco@digitalfotoimagem.com.br>, 
+	Marcus Welbi <marcuswelbi@crivodarazao.org.br>, Natanael Costa <ncosta@usa.com>, 
+	Nelson Pendek <nelpendek@hotmail.com>, 
+	"Ricardo C. A. Carvalho" <ricardocarvalho930@gmail.com>, 
+	=?UTF-8?Q?Sebasti=C3=A3o_Rubens_Costa?= <rubens@linart.com.br>, 
+	Silvio Verdiani <sverdiani@terra.com.br>, Sylvio Quintino Junior <squintinoj@gmail.com>, 
+	=?UTF-8?Q?S=C3=A9rgio_Fosque?= <sergio@aresultado.adm.br>, 
+	Wanderley Santana dos Santos <wanderleyssamtos@gmail.com>, 
+	Wellington Alfano Rodrigues Silva <alfanohi@gmail.com>, Wladimir Viveiro <wviveiro@live.com>
+Content-Type: multipart/alternative; boundary="94eb2c1cb4d488d2ef055acce731"
+
+--94eb2c1cb4d488d2ef055acce731
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Ao Pedro um salve com muitos anos de vida.
+Felicidades
+Marcelo Eloy Fernandes
+
+Em qui, 5 de out de 2017 =C3=A0s 10:24, Egoshi da CTT3843 <ctt3843@egoshi.c=
+om.br>
+escreveu:
+
+> Parab=C3=A9ns ao nosso querido sobrinho Pedro que est=C3=A1 aniversariand=
+o hoje!!!
+>
+>
+>
+> Pedro =C3=A9 filho do nosso querido Ir\ Eduardo Lopes  e da querida cunha=
+da
+> Luciene.
+>
+>
+>
+> Ao Pedro, ao Ir\ Eduardo Lopes, =C3=A0 cunhada Luciene e a Toda a Sua Fam=
+=C3=ADlia,
+> ensejamos nossos mais sinceros votos de felicidade e sucesso na vida!!!
+>
+>
+>
+> Fraternalmente
+>
+>
+>
+>
+>
+>
+>
+> ---
+> Este email foi escaneado pelo Avast antiv=C3=ADrus.
+> https://www.avast.com/antivirus
+>
+--=20
+Sent from Gmail Mobile
+
+--94eb2c1cb4d488d2ef055acce731
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div><div dir=3D"auto">Ao Pedro um salve com muitos anos de vida.</div><div=
+ dir=3D"auto">Felicidades=C2=A0</div><div dir=3D"auto">Marcelo Eloy Fernand=
+es=C2=A0</div><br><div class=3D"gmail_quote"><div>Em qui, 5 de out de 2017 =
+=C3=A0s 10:24, Egoshi da CTT3843 &lt;<a href=3D"mailto:ctt3843@egoshi.com.b=
+r">ctt3843@egoshi.com.br</a>&gt; escreveu:<br></div><blockquote class=3D"gm=
+ail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-le=
+ft:1ex">Parab=C3=A9ns ao nosso querido sobrinho Pedro que est=C3=A1 anivers=
+ariando hoje!!!<br>
+<br>
+<br>
+<br>
+Pedro =C3=A9 filho do nosso querido Ir\ Eduardo Lopes=C2=A0 e da querida cu=
+nhada<br>
+Luciene.<br>
+<br>
+<br>
+<br>
+Ao Pedro, ao Ir\ Eduardo Lopes, =C3=A0 cunhada Luciene e a Toda a Sua Fam=
+=C3=ADlia,<br>
+ensejamos nossos mais sinceros votos de felicidade e sucesso na vida!!!<br>
+<br>
+<br>
+<br>
+Fraternalmente<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+---<br>
+Este email foi escaneado pelo Avast antiv=C3=ADrus.<br>
+<a href=3D"https://www.avast.com/antivirus" rel=3D"noreferrer" target=3D"_b=
+lank">https://www.avast.com/antivirus</a><br>
+</blockquote></div></div><div dir=3D"ltr">-- <br></div><div class=3D"gmail_=
+signature" data-smartmail=3D"gmail_signature">Sent from Gmail Mobile</div>
+
+--94eb2c1cb4d488d2ef055acce731--

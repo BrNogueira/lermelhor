@@ -1,0 +1,327 @@
+Return-Path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from h9.servidorhh.com
+	by h9.servidorhh.com with LMTP id +IhIIs6c31qn2QUArjWGVg
+	for <marco@digitalfotoimagem.com.br>; Tue, 24 Apr 2018 18:08:30 -0300
+Return-path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 24 Apr 2018 18:08:30 -0300
+Received: from e.gospmail.org.br ([177.139.181.238]:43014 helo=gospmail.org.br)
+	by h9.servidorhh.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89_1)
+	(envelope-from <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>)
+	id 1fB5As-001beo-1q
+	for marco@digitalfotoimagem.com.br; Tue, 24 Apr 2018 18:08:30 -0300
+Received: from localhost (e [127.0.0.1])
+	by gospmail.org.br (Postfix) with ESMTP id 3E9942E45C15
+	for <marco@digitalfotoimagem.com.br>; Tue, 24 Apr 2018 18:07:42 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at gospmail.org.br
+Received: from gospmail.org.br ([127.0.0.1])
+	by localhost (gospmail.org.br [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id EJGjkNJ83o6M; Tue, 24 Apr 2018 18:07:33 -0300 (BRT)
+Received: from o3.jiveon.jivesoftware.com (o3.jiveon.jivesoftware.com [167.89.36.126])
+	by gospmail.org.br (Postfix) with ESMTPS id 6408A2E4596E
+	for <288380@gospmail.org.br>; Tue, 24 Apr 2018 18:02:34 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=jiveon.jivesoftware.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-id; 
+	s=smtpapi; bh=aO+7tU9xPNFhKu0mYRZSkUhXWOQ=; b=N9EaCNq6jR3gHg5c/D
+	oJhJ/x7ZNtRzQNXwxrgYEz+aAKUlqbWYSXW17W02evitXXgyHFkQjZbc8T2gcoL4
+	nOBLWtBcsHpGD/BooUuMfscnempiOeZN0bh2V5hz2CdmTj0NTi0kV04yhzHCluPs
+	JrNlS+i310mctdG+WUEPO+FRM=
+Received: by filter0043p1las1.sendgrid.net with SMTP id filter0043p1las1-5445-5ADF9B68-6
+        2018-04-24 21:02:32.108771744 +0000 UTC
+Received: from jiveon-mx3-out.phx1.jivehosted.com (jiveon-mail.phx1.jivehosted.com [204.93.64.13])
+	by ismtpd0025p1las1.sendgrid.net (SG) with ESMTP id _IiMuZbiTRefo_zI5WJaOA
+	for <288380@gospmail.org.br>; Tue, 24 Apr 2018 21:02:32.229 +0000 (UTC)
+Received: from gosp-x-jc-t-wa02.dynphx1.jivehosted.com (ip54-vlb1-services.phx1.jivehosted.com [10.160.25.54])
+	by jiveon-mx3-out.phx1.jivehosted.com (Postfix) with ESMTP id CFAAF246C6
+	for <288380@gospmail.org.br>; Tue, 24 Apr 2018 21:02:31 +0000 (GMT)
+Date: Tue, 24 Apr 2018 21:02:32 +0000 (UTC)
+From: 308428 <gosp-x@jiveon.com>
+Reply-To: jive-1308191182-7qj-2u-bb4@mail.gosp-x.jiveon.com
+To: Marco Parise <288380@gospmail.org.br>
+Message-ID: <102-14656-3-25473-1524596340236.jive.jivemailuser@https://gosp-x.jiveon.com>
+Subject: [Mural da Rede Social do GOSP] - Para Refletir...
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_100803_901334390.1524603751847"
+Auto-Submitted: auto-replied
+X-Auto-Response-Suppress: OOF
+List-ID: Mural da Rede Social do GOSP
+Content-Disposition: inline
+X-Jive-Office: jive-1308191182-7qj-2u-bb4@mail.gosp-x.jiveon.com
+X-CSA-Complaints: whitelist-complaints@eco.de
+X-SG-EID: MC+mAxPPER372lmDFdFHyMxARzYmaHZCEvHbMx1UJ2jYBd/3jpG3iUKBgSyRja89vfLxPqtEGP27t9
+ AGyp0hllGEL9U6h9JING55yW7hIE0tTlKvAduHsEtL1HoQk098ZhK8mBM51V2Fh9di+W4S1jJD/e+6
+ 1OuC4HxuGUl9jB4VDLACcQnzqbk/3fZxOS8wct7ijdtNBFNTcqAzdZXbHQ==
+X-SG-ID: 6Iv2lwEhBxW0L1FeqtuSgBOmISLrKUu9Fa/YMNgnbEE5EhrW3D7SLFRibDyA+q3lprJkRykUNJDiRA
+ QSs6YZ0ecMjXb/pFXZuoqQqmFuofcMt/WVziWg/mc3H7QY0VK1
+
+------=_Part_100803_901334390.1524603751847
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_100802_293598344.1524603751847"
+
+------=_Part_100802_293598344.1524603751847
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+E. J. [https://gosp-x.jiveon.com/people/308428?et=3Dwatches.email.document]=
+ criou o documento:
+"Para Refletir..."=20
+
+Para visualizar o documento, visite: https://gosp-x.jiveon.com/docs/DOC-146=
+56-para-refletir?et=3Dwatches.email.document
+
+--------------------------------------------------------------
+https://gosp-x.jiveon.com/servlet/JiveServlet/showImage/102-14656-1-108215/=
+pastedImage_1.jpg  https://gosp-x.jiveon.com/servlet/JiveServlet/downloadIm=
+age/102-14656-1-108215/pastedImage_1.jpg=20
+
+Quem matou Abel?
+- Seu irm=C3=A3o!
+(G=C3=AAnesis 4, 8)=C2=A0
+
+Quem vendeu Jos=C3=A9?
+- Seus irm=C3=A3os!
+(G=C3=AAnesis 32, 24)
+
+Quem expulsou Jeft=C3=A9?
+- Seus irm=C3=A3os!
+(Ju=C3=ADzes 11, 2)
+
+Quem sentiu inveja de Davi?
+- Seus irm=C3=A3os!
+(I Samuel 18, 10)
+
+Quem n=C3=A3o ficou contente com a volta do Filho Pr=C3=B3digo?
+- Seu irm=C3=A3o!
+(Lucas 15, 25)
+
+Enfim, entre tantos exemplos citados na B=C3=ADblia, percebemos que todos o=
+s TRA=C3=8DDOS e MALTRATADOS por seus pr=C3=B3prios IRM=C3=83OS, foram dema=
+siadamente ABEN=C3=87OADOS e GUARDADOS por DEUS. Portanto, se algum irm=C3=
+=A3o lhe ferir, n=C3=A3o deixe de frequentar sua Loja, nem desista de busca=
+r sua comunh=C3=A3o com o GRANDE ARQUITETO DO UNIVERSO. Antes, lembre-se qu=
+e seu neg=C3=B3cio =C3=A9 primeiramente com o PAI e n=C3=A3o com o IRM=C3=
+=83O.
+
+Autor Desconhecido
+--------------------------------------------------------------
+
+Comente respondendo a este e-mail ou v=C3=A1 para o documento em REDE SOCIA=
+L DO GOSP
+[https://gosp-x.jiveon.com/docs/DOC-14656-para-refletir?et=3Dwatches.email.=
+document]
+
+Crie um novo documento em Mural da Rede Social do GOSP por e-mail
+[documents-community-mural@mail.gosp-x.jiveon.com] ou em REDE SOCIAL DO GOSP
+[https://gosp-x.jiveon.com/choose-container.jspa?contentType=3D102&containe=
+rType=3D14&container=3D2336&et=3Dwatches.email.document]
+
+Este e-mail foi enviado pela REDE SOCIAL DO GOSP porque voc=C3=AA =C3=A9 um=
+ usu=C3=A1rio registrado.
+Voc=C3=AA pode cancelar a assinatura agora mesmo em https://gosp-x.jiveon.c=
+om/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0=
+ee232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c ou ajustar a frequ=C3=AA=
+ncia de e-mail nas prefer=C3=AAncias do seu e-mail (https://gosp-x.jiveon.c=
+om/user-preferences!input.jspa).
+
+------=_Part_100802_293598344.1524603751847
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+=09
+	<title></title>
+	<style type=3D"text/css">
+    * {
+		margin: 0;
+		padding: 0;
+	}
+	a {
+		color: #3778C7 !important;
+	}
+	body {
+		font-family: Helvetica, Arial, sans-serif;
+		-webkit-text-size-adjust: 100%;
+	}
+	/* Webkit */
+	h1, h2, h3, h4, h5, h6, p, hr {
+		-webkit-margin-before: 0;
+		-webkit-margin-after: 0;
+		-webkit-margin-start: 0;
+		-webkit-margin-end: 0;
+	}
+	.button td {
+		background-image: -moz-linear-gradient(top, #75B7E3 0%, #5498D6 50%, #408=
+BD0 51%, #387AC8 100%) !important;
+		background-image: -webkit-gradient(linear, left top, left bottom, color-s=
+top(0%,#75B7E3), color-stop(50%,#5498D6), color-stop(51%,#408BD0), color-st=
+op(100%,#387AC8)) !important;
+		-webkit-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !impo=
+rtant;
+		-moz-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !importa=
+nt;
+	}
+	</style>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+</head>
+<body style=3D"width:100% !important; -webkit-font-smoothing: antialiased; =
+-webkit-text-size-adjust: 100%;">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff=
+" width=3D"100%" style=3D"background-color: #ffffff; margin: 0; padding: 0;=
+">
+		<tbody>
+			<tr>
+				<td style=3D"padding: 20px 20px 20px 20px;">
+<table class=3D"header" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wi=
+dth=3D"100%">
+	<tbody>
+		<tr>
+			<td valign=3D"top" align=3D"left">
+				<h1 style=3D"color: #333333; margin: 0 0 20px 0; font-weight: normal; f=
+ont-size: 24px; font-family: Helvetica, Arial, sans-serif; text-shadow: rgb=
+a(255,255,255,.9) 0 1px 0;">
+					<!-- To have a header image/logo replace the name below with your img =
+tag -->
+					<!-- Email clients will render the images when the message is read so =
+any image -->
+					<!-- must be made available on a public server, so that all recipients=
+ can load the image. -->
+					<a href=3D"https://gosp-x.jiveon.com/?et=3Dwatches.email.document" sty=
+le=3D"color:#333333 !important; text-decoration: none;">
+							<font color=3D"#333333" style=3D"color:#333333;">REDE SOCIAL DO GOSP=
+</font>
+					</a>
+				</h1>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class=3D"content" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ff=
+ffff" border=3D"0" width=3D"100%" style=3D"width: 100%; -moz-border-radius:=
+ 8px; -webkit-border-radius: 8px; border-radius: 8px;">
+	<tbody>
+		<tr>
+			<td valign=3D"middle" style=3D"padding-top: 10px; padding-right: 0px; pa=
+dding-bottom: 20px; padding-left: 0px;"><h2 style=3D'color: #666666; margin=
+: 0 0 0 0; font-weight: normal; font-size: 24px; font-family: Helvetica, Ar=
+ial, sans-serif;'>
+    Para Refletir...
+</h2>
+<p style=3D'color: #999999; margin-bottom: 20px; font-size: 12px; line-heig=
+ht: 18px; font-family: Helvetica, Arial, sans-serif;'>
+criado por <a href=3D"https://gosp-x.jiveon.com/people/308428?et=3Dwatches.=
+email.document">E. J.</a> em <i>Mural da Rede Social do GOSP</i> - <a href=
+=3D"https://gosp-x.jiveon.com/docs/DOC-14656-para-refletir?et=3Dwatches.ema=
+il.document">Visualize o documento completo</a></p>
+
+<hr style=3D'background-color: #cccccc; height: 1px; margin-bottom: 20px; b=
+order: none;'>
+
+<div style=3D'color: #666666; margin-bottom: 20px; font-size: 14px; line-he=
+ight: 20px; font-family: Helvetica, Arial, sans-serif;'>
+<div class=3D"jive-rendered-content"><p><a href=3D"https://gosp-x.jiveon.co=
+m/servlet/JiveServlet/showImage/102-14656-1-108215/pastedImage_1.jpg"><span=
+> https://gosp-x.jiveon.com/servlet/JiveServlet/downloadImage/102-14656-1-1=
+08215/pastedImage_1.jpg </span></a>&#160;</p><p style=3D"min-height: 8pt; p=
+adding: 0px;">&#160;</p><p style=3D"text-align: center;">Quem matou Abel?<b=
+r/>- Seu irm&atilde;o!</p><p style=3D"text-align: center;">(G&ecirc;nesis 4=
+, 8)&#160;</p><p style=3D"text-align: center;"><br/>Quem vendeu Jos&eacute;=
+?<br/>- Seus irm&atilde;os!</p><p style=3D"text-align: center;">(G&ecirc;ne=
+sis 32, 24)</p><p style=3D"text-align: center;"><br/>Quem expulsou Jeft&eac=
+ute;?<br/>- Seus irm&atilde;os!</p><p style=3D"text-align: center;">(Ju&#23=
+7;zes 11, 2)</p><p style=3D"text-align: center;"><br/>Quem sentiu inveja de=
+ Davi?<br/>- Seus irm&atilde;os!</p><p style=3D"text-align: center;">(I Sam=
+uel 18, 10)</p><p style=3D"text-align: center;"><br/>Quem n&atilde;o ficou =
+contente com a volta do Filho Pr&oacute;digo?<br/>- Seu irm&atilde;o!</p><p=
+ style=3D"text-align: center;">(Lucas 15, 25)</p><p style=3D"min-height: 8p=
+t; padding: 0px;">&#160;</p><p>Enfim, entre tantos exemplos citados na B&#2=
+37;blia, percebemos que todos os TRA&#205;DOS e MALTRATADOS por seus pr&oac=
+ute;prios IRM&#195;OS, foram demasiadamente ABEN&#199;OADOS e GUARDADOS por=
+ DEUS. Portanto, se algum irm&atilde;o lhe ferir, n&atilde;o deixe de frequ=
+entar sua Loja, nem desista de buscar sua comunh&atilde;o com o GRANDE ARQU=
+ITETO DO UNIVERSO. Antes, lembre-se que seu neg&oacute;cio &eacute; primeir=
+amente com o PAI e n&atilde;o com o IRM&#195;O.</p><p style=3D"min-height: =
+8pt; padding: 0px;">&#160;</p><p>Autor Desconhecido</p></div>
+</div>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" bgco=
+lor=3D"#f5f5f5" style=3D'padding: 10px; margin-top: 40px;'>
+<tbody>
+    <tr>
+        <td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-h=
+eight: 20px; font-family: Helvetica, Arial, sans-serif;'>
+            Comente respondendo a este e-mail ou <a href=3D"https://gosp-x.=
+jiveon.com/docs/DOC-14656-para-refletir?et=3Dwatches.email.document" style=
+=3D'color: #3778C7; text-decoration: none;'>v=C3=A1 para o documento em RED=
+E SOCIAL DO GOSP</a>
+        </td>
+    </tr>
+
+	<tr>
+		<td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-height:=
+ 20px; font-family: Helvetica, Arial, sans-serif;'>
+		Crie um novo documento em Mural da Rede Social do GOSP por <a href=3D"mai=
+lto:documents-community-mural@mail.gosp-x.jiveon.com">e-mail</a>ou em <a hr=
+ef=3D"https://gosp-x.jiveon.com/choose-container.jspa?contentType=3D102&con=
+tainerType=3D14&container=3D2336&et=3Dwatches.email.document" style=3D'colo=
+r: #3778C7; text-decoration: none;'>REDE SOCIAL DO GOSP</a>
+		</td>=20=20=20=20
+	</tr>
+
+    <tr>
+		<td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-height:=
+ 20px; font-family: Helvetica, Arial, sans-serif;'>
+		Seguindo <a href=3D"https://gosp-x.jiveon.com/community/mural?et=3Dwatche=
+s.email.document" style=3D'color: #3778C7; text-decoration: none;'>Mural da=
+ Rede Social do GOSP</a> nestes fluxos:
+     Novidades no Mural
+    </td>
+    </tr>
+ </tbody>
+</table>
+                    <p style=3D'color: #666666; margin-top: 20px; font-size=
+: 14px; line-height: 20px; font-family: Helvetica, Arial, sans-serif;'>
+                        Este e-mail foi enviado pela Rede Social do GOSP po=
+rque voc=C3=AA =C3=A9 um usu=C3=A1rio registrado.
+	                        Voc=C3=AA pode <a href=3D"https://gosp-x.jiveon.co=
+m/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0e=
+e232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c">cancelar a assinatura</a=
+> agora mesmo ou ajustar a frequ=C3=AAncia de e-mail nas <a href=3D"https:/=
+/gosp-x.jiveon.com/user-preferences!input.jspa">prefer=C3=AAncias do seu e-=
+mail</a>
+                    </p>
+            </td>
+		</tr>
+	</tbody>
+</table>
+			    </td>
+			</tr>
+		</tbody>
+	</table>
+
+<img src=3D"http://jiveon.jivesoftware.com/wf/open?upn=3DlkDbH7-2FnFH7oeBGC=
+GoMHz9T22eb3DvjuBfkB1ASadAwAtbqNYYkVs4MwAGOqDuR5N49BZM9PLfhYH64a-2FtseS-2B2=
+0VClIh2pSJu7hrlYHJwi4Gtu0YDBJs-2BquZkxRxpq0kVQTyO2mB-2F9XFuq-2FYQ2zxuClBmRv=
+B3IoOycmqfvVMmol-2F-2B4r27KYimexHAdNPtSIKoU-2BP6Ni-2FFbz9HtPF8w5h-2FN0g-2Br=
+mgbneQOtC9N5l-2B6OwLQbBUKUB4y1XUFH0RyVTBh2uPmyk-2FIKvnxfoW3N-2FqArllMK0rxCt=
+zHOXGRueSjQBbSgHLaZSRdPbG2wkBJTz5bxb6wJx6Sc-2FPEixOmz9lw-3D-3D" alt=3D"" wi=
+dth=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1p=
+x !important;border-width:0 !important;margin-top:0 !important;margin-botto=
+m:0 !important;margin-right:0 !important;margin-left:0 !important;padding-t=
+op:0 !important;padding-bottom:0 !important;padding-right:0 !important;padd=
+ing-left:0 !important;"/>
+</body>
+</html>
+
+------=_Part_100802_293598344.1524603751847--
+
+------=_Part_100803_901334390.1524603751847--
+

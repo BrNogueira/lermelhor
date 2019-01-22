@@ -1,0 +1,124 @@
+Return-Path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.solbiz.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from h9.servidorhh.com
+	by h9.servidorhh.com with LMTP id 0Jt1Ga9bV1sKyA4ArjWGVg
+	for <marco@digitalfotoimagem.com.br>; Tue, 24 Jul 2018 14:02:39 -0300
+Return-path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.solbiz.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 24 Jul 2018 14:02:39 -0300
+Received: from o105.mailsg.leadlovers.com ([167.89.105.46]:32802)
+	by h9.servidorhh.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.solbiz.com.br>)
+	id 1fi0hr-0045AF-5u
+	for marco@digitalfotoimagem.com.br; Tue, 24 Jul 2018 14:02:39 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=solbiz.com.br; 
+	h=content-type:from:mime-version:subject:to:list-unsubscribe; 
+	s=m1; bh=KyQZXGGomNrssDa0JEzLamo/Oys=; b=Bt15M15Jqdoqg0/DwqM34hA
+	8yP6hh3z9o9RRF0rK0pO1pMk5te2yvj24ldDXwDt3fGUkymKwAha4i2Cjq21Jncl
+	C2QWSv9ny1L+S/BPtxZUBEd1n5nQcj3KMibRpaVncnARgmuRhH4R9hG+6ivJJz/Z
+	Nvaax/Dp0GZJ8O9cRJu4=
+Received: by filter0046p3las1.sendgrid.net with SMTP id filter0046p3las1-911-5B575B68-6B
+        2018-07-24 17:01:28.953768573 +0000 UTC m=+62757.396622204
+Received: from MjM4NDgwOQ (m3640.contabo.host [5.189.178.140])
+	by ismtpd0005p1lon1.sendgrid.net (SG) with HTTP id i9h_chxeQu-fpRnsYz-Hbg
+	Tue, 24 Jul 2018 17:01:28.473 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=b4a507f1a812db3c1e1498d64834c3d87b83b1fcbf8857d9dee8043c2ca3
+Date: Tue, 24 Jul 2018 17:01:53 +0000 (UTC)
+From: "Paulo Gerhardt" <paulo.gerhardt@solbiz.com.br>
+Mime-Version: 1.0
+Subject: =?UTF-8?B?TyBxdWUgYXMgcGVzc29hcyBkZSBzdWNlc3NvIHTDqm0gZGUgZGlmZXJlbnRlPw==?=
+To: <marco@digitalfotoimagem.com.br>
+Message-ID: <i9h_chxeQu-fpRnsYz-Hbg@ismtpd0005p1lon1.sendgrid.net>
+List-Unsubscribe: <mailto:unsubscribe@mailsg.solbiz.com.br?subject=https://u2384809.ct.sendgrid.net/wf/unsubscribe*q*upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiNL5UQMZXcoi6mKHrHRQ0FNts4ZdW-2Bx29C9Sc0hkSfpF1pbM8WSzO1-2F9-2BodY-2BFlKiLdFziVlR4qZQUYoPGKdFon26FZWGHuOCTF78arEvH0he6ktfQK6dgOVJQD47OFTnOLkfnVCCq0VI48gYX9sZWtKr9l09LszYuXXeF9Cg8CFGgSJ2m5TUdw1BqoEJdHM5NOf1HxP2vJGTuf7llOcQpW695PNyQOCu8LnW04SrlcQBtOTZkWwdDuecwMbSPujPGomw3wHSkyVs-2BBAiNFX15ujNwjxQZWNanLrHpeSOPCvCBSJyL9v-2Bp-2FY7dL8Sln-2FqU1LnFZ1-2B7spXd3IYkka4nNv33dHo3TVw7UPRu8sGwDFzOe6iechjddDxfrChSmIP>
+X-SG-EID: Hch+2AQw5UfQtHqV+P/3h94kWa/z3uc7aT9t1ffNJX6ejfdpfjs1c7IIdtNthFh9ZVTNjsa8nqVl65
+ UJB4P535UuQUNDKGrz04TxW+vCivSVOofo2USokhB0fhTpuFQamjwmD/XKP4OCoacJVY5bOsUvs1Zo
+ dAdv2RU0pMd2oS6fpw8s2NJ7dxKwTAo5Hs5ez/dkXcgExAI28AsQfRNJYxWCcoWXQCPNKD7FwuqHSi
+ 7CFEIVcWSL2VRBEUHSizvu
+X-SG-ID: lkbpAUns11GO9BdGkh+MdPP+BXXlMe7d4SouUdiBXwtVj3+KcAHBeQ9YJ+6gURmPiopwczu7dI1IN2
+ 3hv7mPkpzQR35+4YaCdLxoEY5j+D/PhhBC/5/P/AfE0ug3CorsO+kNcLk4h6ulbRCHZO1aUVr6uk04
+ HvDffjzMLhhLfYpoaDdrhUes/xYIqbfC1gsSp0EFW5GSL8SEZJi/rTP8MZ+2+MlIaB3cg/5LRry8Ln
+ 0=
+
+--b4a507f1a812db3c1e1498d64834c3d87b83b1fcbf8857d9dee8043c2ca3
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+=0D=0DOl=C3=A1, =0D=0DTudo bem? Comentei no email anterior que alguns empre=
+s=C3=A1rios e profissionais liberais est=C3=A3o tendo muito sucesso nos seu=
+s neg=C3=B3cios, neste mesmo cen=C3=A1rio, onde muitos reclamam que est=C3=
+=A1 recessivo e invi=C3=A1vel para crescer ou at=C3=A9 manter um neg=C3=B3c=
+io. Agora vou te revelar o segredo destas pessoas. =0D=0DPercebo que tr=C3=
+=AAs coisas s=C3=A3o essenciais para que pessoas e organiza=C3=A7=C3=B5es a=
+lcance os resultados que desejam. S=C3=A3o eles:  =0DUm prop=C3=B3sito muit=
+o forte; =0DUm conjunto de cren=C3=A7as positivas que impulsionem pessoas e=
+ empresas para seus objetivos; =0DAtitude para colocar em pr=C3=A1tica.  =
+=0D=0DDepois de muitos anos atuando com processos de treinamento, coaching =
+e consultoria, ficou evidente que de nada adianta passar novos conhecimento=
+s, desenvolver novas habilidades, introduzir novos processos, criar novas e=
+strat=C3=A9gias e o que mais for, se as pessoas n=C3=A3o possuam os tr=C3=
+=AAs elementos essenciais que apresentei no par=C3=A1grafo anterior. =0D=0D=
+Com certeza, permanecer fazendo as mesmas coisas =C3=A9 mais c=C3=B4modo e,=
+ aparentemente, mais seguro, no entanto, n=C3=A3o vai conduzir ningu=C3=A9m=
+ a resultados deferentes, especialmente, em momentos mais dif=C3=ADceis. =
+=0D=0DAs pessoas que est=C3=A3o tendo sucesso hoje n=C3=A3o possuem mais co=
+nhecimento ou mais habilidades, elas, simplesmente, t=C3=AAm um mindset ou =
+atitudes mentais mais apropriadas a este novo ambiente de neg=C3=B3cios. El=
+as est=C3=A3o abertas a mudan=C3=A7a de cren=C3=A7as e h=C3=A1bitos, adotan=
+do novas pr=C3=A1ticas e estrat=C3=A9gias livres de preconceitos. =0D=0DSe =
+voc=C3=AA =C3=A9 um profissional liberal, um empreendedor ou est=C3=A1 pens=
+ando em abrir o seu pr=C3=B3prio neg=C3=B3cio, fique atento ao pr=C3=B3ximo=
+ email, pois tenho um convite irrecus=C3=A1vel. =0D=0DAbra=C3=A7os =0D=0DPa=
+ulo Gerhardt =0D=0DAjudo Empresas a Alcan=C3=A7ar Resultados SuperioresCliq=
+ue aqui para n=C3=A3o receber mais e-mails dessa lista (Unsubscribe).
+
+--b4a507f1a812db3c1e1498d64834c3d87b83b1fcbf8857d9dee8043c2ca3
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE><p>Ol&aacute;,</p>
+<p>Tudo bem? Comentei no email anterior que alguns empres&aacute;rios e pro=
+fissionais liberais est&atilde;o tendo muito sucesso nos seus neg&oacute;ci=
+os, neste mesmo cen&aacute;rio, onde muitos reclamam que est&aacute; recess=
+ivo e invi&aacute;vel para crescer ou at&eacute; manter um neg&oacute;cio. =
+Agora vou te revelar o segredo destas pessoas.</p>
+<p>Percebo que tr&ecirc;s coisas s&atilde;o essenciais para que pessoas e o=
+rganiza&ccedil;&otilde;es alcance os resultados que desejam. S&atilde;o ele=
+s:</p>
+<ul>
+<li>Um prop&oacute;sito muito forte;</li>
+<li>Um conjunto de cren&ccedil;as positivas que impulsionem pessoas e empre=
+sas para seus objetivos;</li>
+<li>Atitude para colocar em pr&aacute;tica.</li>
+</ul>
+<p>Depois de muitos anos atuando com processos de treinamento, coaching e c=
+onsultoria, ficou evidente que de nada adianta passar novos conhecimentos, =
+desenvolver novas habilidades, introduzir novos processos, criar novas estr=
+at&eacute;gias e o que mais for, se as pessoas n&atilde;o possuam os tr&eci=
+rc;s elementos essenciais que apresentei no par&aacute;grafo anterior.</p>
+<p>Com certeza, permanecer fazendo as mesmas coisas &eacute; mais c&ocirc;m=
+odo e, aparentemente, mais seguro, no entanto, n&atilde;o vai conduzir ning=
+u&eacute;m a resultados deferentes, especialmente, em momentos mais dif&iac=
+ute;ceis.</p>
+<p>As pessoas que est&atilde;o tendo sucesso hoje n&atilde;o possuem mais c=
+onhecimento ou mais habilidades, elas, simplesmente, t&ecirc;m um <strong><=
+em>&ldquo;mindset&rdquo; ou atitudes mentais</em></strong> mais apropriadas=
+ a este novo ambiente de neg&oacute;cios. <strong><em>Elas est&atilde;o abe=
+rtas a mudan&ccedil;a de cren&ccedil;as e h&aacute;bitos, adotando novas pr=
+&aacute;ticas e estrat&eacute;gias livres de preconceitos</em></strong>.</p>
+<p>Se voc&ecirc; &eacute; um profissional liberal, um empreendedor ou est&a=
+acute; pensando em abrir o seu pr&oacute;prio neg&oacute;cio, fique atento =
+ao pr&oacute;ximo email, pois tenho um convite irrecus&aacute;vel.</p>
+<p>Abra&ccedil;os</p>
+<p>Paulo Gerhardt</p>
+<p>Ajudo Empresas a Alcan&ccedil;ar Resultados Superiores</p><a href=3D"htt=
+p://click.meunegocio.solutions/redirect/redirect.aspx?A=3DU&u=3D0501A6E1-B9=
+AA-4CCA-89E5-783954970CE7" target=3D"_blank">Clique aqui para n&atilde;o re=
+ceber mais e-mails dessa lista (Unsubscribe).</a><br /><img alt=3D"" src=3D=
+"http://click.meunegocio.solutions/redirect/redirect.aspx?A=3DV&u=3D0501A6E=
+1-B9AA-4CCA-89E5-783954970CE7&IMG=3Dhttps://leadlovers.com/content/images/1=
+px.png" />
+
+--b4a507f1a812db3c1e1498d64834c3d87b83b1fcbf8857d9dee8043c2ca3--

@@ -1,0 +1,110 @@
+Return-Path: <cobranca@homehost.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv20.homehost.com.br
+	by hserv20.homehost.com.br (Dovecot) with LMTP id 6URQHmZykFflXwAAde5E2g
+	for <marco@digitalfotoimagem.com.br>; Thu, 21 Jul 2016 03:57:42 -0300
+Received: from mailalt.homehost.com.br ([177.85.98.241]:52059)
+	by hserv20.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <cobranca@homehost.com.br>)
+	id 1bQ7vS-0001u4-78
+	for marco@digitalfotoimagem.com.br; Thu, 21 Jul 2016 03:57:42 -0300
+Received: from teste.homehost.com.br (www.homehost.com.br [177.184.2.204])
+	(using TLSv1.2 with cipher DHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by mailalt.homehost.com.br (Postfix) with ESMTPS id A7E59544341F
+	for <marco@digitalfotoimagem.com.br>; Thu, 21 Jul 2016 03:55:39 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=homehost.com.br;
+	s=defaultkey; t=1469084140;
+	bh=aKIXtAq6t2uZIr7QBFtqQ7m1uLzM79GjRGW0mWPYvLw=;
+	h=Date:To:From:Subject;
+	b=0Az3ZOk5i1j0NA0WbvWizw2eAWyPDwbppc6iRmkXO+m8wo1VfceXZNm+CD/KCM2Wc
+	 gSTcvveh0AI6PfEtLPh2Y27MVDHvtcL4B+UgZhifo+GH5mbZTciq4Xdp9BIZ+ABfpf
+	 VoE/vfQhvGnznEjqjl3TtEbZdZPAzJK19SxRAmIo=
+Date: Thu, 21 Jul 2016 03:57:37 -0300
+To: marco@digitalfotoimagem.com.br
+From: Homehost <cobranca@homehost.com.br>
+Subject: Segundo aviso - Suspensao de servico - WWW.DIGITALFOTOIMAGEM.COM.BR
+Message-ID: <a21a7bb4ac370d30ee270cb3b0c7fecc@teste.homehost.com.br>
+X-Mailer: PHPMailer 5.2.15 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=windows-1250
+Content-Transfer-Encoding: 8bit
+
+<html>
+<body>
+<table width=100% border=0 cellpadding=15 cellspacing=0>
+<tr background-color="black"><td style="font-family:tahoma,verdana;background-color:#00005f;color:#ffffff;"><img src="https://www.homehost.com.br/images/logo_branco_transparente_mailing-small.png">
+</td>
+<td align=right  style="font-family:tahoma,verdana;background-color:#00005f;color:#ffffff;"><b>Atendimento: (11) 4063-0055</b><br> - site: digitalfotoimagem.com.br
+</td>
+</tr>
+<tr><td colspan=2 style="text-align:center;font-family:tahoma,verdana,tahoma;background-color:#ffaf5f;font-size:30px;color:#000000;height:150px;"><b>SERVI&Ccedil;O PRESTES A SER BLOQUEADO.<br>PAGAMENTO PENDENTE.</b></td></tr>
+<tr><td colspan=2 style="background-color:#af0000;">
+	<center><table width=500><tr><td style="text-align:center;font-family:tahoma,verdana,tahoma;font-size:15px;color:#ffffff;">At&eacute; o momento n&atilde;o detectamos o pagamento da fatura referente a hospedagem do site digitalfotoimagem.com.br. Precisamos da sua a&ccedil;&atilde;o imediata para evitar o bloqueio e perda de dados.
+	</td></tr></table></center>
+</td></tr>
+<tr>
+<td colspan=2>
+	<center><table  width=500><tr><td style="text-align:center;font-family:tahoma,verdana,tahoma;font-size:15px;color:#000000;">
+	Marco, seu servi&ccedil;o de hospedagem para o site digitalfotoimagem.com.br ser&aacute; suspenso dentro de poucos dias, pois at&eacute; o momento ainda n&atilde;o detectamos o pagamento da fatura.<br><br>
+	Voc&ecirc; pode gerar agora um boleto com nova data de vencimento, ou ent&atilde;o, pode realizar o pagamento com seu cart&atilde;o de cr&eacute;dito atrav&eacute;s do PayPal (Cart&otilde;es de cr&eacute;dito).<br><br>
+
+	<center>
+	<a href="https://www.homehost.com.br/bm.php?u=16744&p=13338168" style="color: #ffffff; text-decoration: none; background-color: #008a32; border-top: 15px  solid  #008a32; border-bottom: 15px  solid  #008a32; border-left: 15px  solid  #008a32; border-right: 15px  solid  #008a32; display: inline-block; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" target="_blank"><font face="&#039;Walsheim-Medium&#039;, Arial, sans-serif" color="#ffffff" style="font-size: 18px; line-height: 20px; -webkit-text-size-adjust: none;">IMPRIMIR BOLETO</font></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.homehost.com.br/paypal/redirect_fatura_paypal.php?u=16744&p=50756250&t=x" style="color: #ffffff; text-decoration: none; background-color: #008a32; border-top: 15px  solid  #008a32; border-bottom: 15px  solid  #008a32; border-left: 15px  solid  #008a32; border-right: 15px  solid  #008a32; display: inline-block; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" target="_blank"><font face="&#039;Walsheim-Medium&#039;, Arial, sans-serif" color="#ffffff" style="font-size: 18px; line-height: 20px; -webkit-text-size-adjust: none;">PAGAR COM PAYPAL</font></a>
+	</center>
+
+	</td></tr></table></center>
+
+<br><br><br>
+</td>
+</tr>
+<tr>
+<td colspan=2 style="background-color:lightgray;">
+	<center><table width=500><tr><td style="font-family:tahoma,verdana,tahoma;font-size:15px;color:#000000;">
+	<b>Servi&ccedil;os em risco:</b>
+	Basico<br>
+	digitalfotoimagem.com.br<br>
+	Vencimento original: dia 15<br>
+	Valor em aberto: R$ 143,04<br>
+	Per&iacute;odo de pagamento: anual
+	</td></tr></table></center>
+</td>
+</tr>
+<tr>
+<td colspan=2 style="background-color:white;">
+
+	<center><table width=500><tr><td style="font-family:tahoma,verdana,tahoma;font-size:15px;color:#000000;">
+		Caso este pagamento j&aacute; tenha sido efetuado, favor desconsiderar este email e nos enviar com urg&ecirc;ncia o comprovante atrav&eacute;s de e-mail.<br><br>Havendo atraso de pagamento ap&oacute;s 15 (quinze) dias passados da data original de vencimento, o conte&uacute;do do seu site pode ser removido em definitivo do servidor. Evite perda de dados e realize o pagamento com urg&ecirc;ncia.<br><br>
+		<b>Reativa&ccedil;&atilde;o do servi&ccedil;o:</b> Imediata com pagamento por PayPal (cart&atilde;o de cr&eacute;dito), ou pagando por boleto, em um prazo de 24 a 48h &uacute;teis. Voc&ecirc; pode reativar de forma imediata ap&oacute;s o pagamento do boleto, informando seu pagamento atrav&eacute;s do painel de controle Homehost.<br><br>
+
+		Em caso de d&uacute;vidas, estamos a sua disposi&ccedil;&atilde;o atrav&eacute;s dos canais de atendimento:<br><br>
+		<b>Email:</b> cobranca@homehost.com.br<br><br>
+		<b>Chat online:</b> www.homehost.com.br<br><br>
+		<b>Telefones:</b><br>
+
+			<center><table cellpadding=5><tr><td style="font-size:11px;">
+				S&atilde;o Paulo (SP	(11) 4063-00555<br>
+				Campinas (SP)	(19) 4062-9881<br>
+				Belo Horizonte (MG)	(31) 4062-7159<br>
+				Porto Alegre (RS)	(51) 4063-7115<br>
+				Florian&oacute;polis (SC)	(48) 4052-8202<br>
+				Curitiba (PR)   (41) 4063-7441<br>
+				Recife (PE)     (81) 4062-9851
+			</td><td valign=top style="font-size:12px;">
+				Rio de Janeiro (RJ)     (21) 4063-9055<br>
+				Salvador (BA)	(71) 4062-8852<br>
+				Fortaleza (CE)	(85) 4062-9931<br>
+				Vit&oacute;ria (ES)	(27) 4062-9505<br>
+				Goiania (GO)	(62) 4053-8038<br>
+				Cuiab&aacute; (MT)	(65) 4052-9851<br>
+			</td></tr></table>
+	</table></center>
+
+</td>
+</tr>
+</body>
+</html>
+

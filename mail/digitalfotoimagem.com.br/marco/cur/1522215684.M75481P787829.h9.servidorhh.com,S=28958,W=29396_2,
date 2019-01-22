@@ -1,0 +1,438 @@
+Return-Path: <s-2iylcebr896mr2a3vrhoypmnz4u7h3m6x0e7uj9kvanao5xof0mabc50@bounce.linkedin.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from h9.servidorhh.com
+	by h9.servidorhh.com with LMTP id YIQyOQMru1p1BQwArjWGVg
+	for <marco@digitalfotoimagem.com.br>; Wed, 28 Mar 2018 02:41:24 -0300
+Return-path: <s-2iylcebr896mr2a3vrhoypmnz4u7h3m6x0e7uj9kvanao5xof0mabc50@bounce.linkedin.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Wed, 28 Mar 2018 02:41:24 -0300
+Received: from mailf-ca.linkedin.com ([108.174.6.225]:33508)
+	by h9.servidorhh.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89_1)
+	(envelope-from <s-2iylcebr896mr2a3vrhoypmnz4u7h3m6x0e7uj9kvanao5xof0mabc50@bounce.linkedin.com>)
+	id 1f13pr-003IzJ-LN
+	for marco@digitalfotoimagem.com.br; Wed, 28 Mar 2018 02:41:23 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com;
+	s=proddkim1024; t=1522215635;
+	bh=wcBkNT3rcM/BlKdqbCVyKZQYO9EqX9wca0258DCb8Oc=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=lUo6YRGLsyC1MGkZIYodtxXW7tBmoQqDF9ntpqaO6lfbvp4VmJWk8BMc3RxcskLa0
+	 43ULh+1QZ9ycL08kkgwYokkt5Z3g/p2gVFk+hRlEHtdHOLsLEcQ9qMFR1EubrLomHk
+	 d7Wx5n5KsFQ3L0no5HJjntijWVKdoXlR4/KvIAP4=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mailf.linkedin.com;
+	s=proddkim1024; t=1522215635;
+	bh=wcBkNT3rcM/BlKdqbCVyKZQYO9EqX9wca0258DCb8Oc=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=anc3e4cvgwzxT//CJl77cfuhmkfgo21ZKXzS0Uw6mDv71xX55PXGkECuDWOM3tK74
+	 iaxux0cDg8O5BtjBQoe9w/VsWoSnUWstCBUSQldOGsHDcUFoAFUhCEoeBjP2rLj7ZD
+	 hNKXstiIHYoXlZRn5AM2i8ALPAQ/tb2Fh2UAvEOQ=
+From: LinkedIn <messages-noreply@linkedin.com>
+Message-ID: <1229192324.774433.1522215635536.JavaMail.app@lor1-app10978.prod.linkedin.com>
+Subject: =?UTF-8?Q?Atualiza=C3=A7=C3=B5es_aos_nossos_Termos_de_Servi=C3=A7o?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_774431_1766339225.1522215635534"
+To: Marco Parise <marco@digitalfotoimagem.com.br>
+Date: Wed, 28 Mar 2018 05:40:35 +0000 (UTC)
+X-LinkedIn-Class: SVCANNOUNCE
+X-LinkedIn-Template: email_tos_notification_201803
+X-LinkedIn-fbl: m2-clvg0qch9yu1s8buqj3puhk7nbh1b4quu706n2ioynhckja44e0866pkc9z1r8jn7og8gbuqc8dcc5opusf09ks8nle0z6et6oux2pcy3b677q79dyhekfywi11eit41wz3fkyf7
+X-LinkedIn-Id: 7lx0fp-jfacjjez-ur
+Require-Recipient-Valid-Since: marco@digitalfotoimagem.com.br; Tue, 10 Nov 2015 11:42:19 +0000
+
+------=_Part_774431_1766339225.1522215635534
+Content-Type: text/plain;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: text-body
+
+Ol=C3=A1, Marco.
+
+Estamos atualizando nossos Termos de Servi=C3=A7o e gostar=C3=ADamos de lhe=
+ apresentar um resumo das novidades. Estas altera=C3=A7=C3=B5es se aplicam =
+ao nosso Contrato do Usu=C3=A1rio, nossa Pol=C3=ADtica de Privacidade, noss=
+a Pol=C3=ADtica de Cookies e nossas Pol=C3=ADticas para Comunidades Profiss=
+ionais e entrar=C3=A3o em vigor em 8 de maio de 2018. Sempre que fazemos al=
+guma altera=C3=A7=C3=A3o, procuramos lhe informar das suas op=C3=A7=C3=B5es=
+ e do controle que voc=C3=AA tem sobre seus dados e conte=C3=BAdos no Linke=
+dIn.=20
+
+Seguem algumas novidades:
+
+* Esclarecemos quais dados coletamos sobre voc=C3=AA, como voc=C3=AA pode c=
+orrigi-los e o processo a seguir para solicitar que deixemos de us=C3=A1-lo=
+s.
+
+* Nossas novas configura=C3=A7=C3=B5es permitem que voc=C3=AA tenha maior c=
+ontrole sobre os an=C3=BAncios que voc=C3=AA v=C3=AA e mais transpar=C3=AAn=
+cia sobre como os dados s=C3=A3o compartilhados com anunciantes.=20
+
+* Atualiza=C3=A7=C3=B5es =C3=A0s pol=C3=ADticas de comunidades garantem que=
+ o LinkedIn permane=C3=A7a um lugar onde as pessoas agem de forma profissio=
+nal. Baseadas nas nossas diretrizes para comunidades, estas pol=C3=ADticas =
+incentivam conversas que ajudem nossos usu=C3=A1rios a serem mais produtivo=
+s e bem-sucedidos, e indicam quais atividades s=C3=A3o proibidas no LinkedI=
+n.
+
+* * Por exemplo, o ass=C3=A9dio e o discurso de =C3=B3dio n=C3=A3o s=C3=A3o=
+ bem-vindos na nossa plataforma e podem resultar em expuls=C3=A3o do Linked=
+In.
+
+* * Al=C3=A9m disso, caso voc=C3=AA esteja sendo remunerado para promover u=
+m produto ou servi=C3=A7o, ser=C3=A1 necess=C3=A1rio divulgar que voc=C3=AA=
+ est=C3=A1 dando sua opini=C3=A3o ou agindo em troca de pagamento.
+
+Ao atualizar estas pol=C3=ADticas, garantimos que sua privacidade vem sempr=
+e em primeiro lugar. N=C3=B3s agora cumprimos com os mais altos padr=C3=B5e=
+s de privacidade de dados, em conformidade com a nova legisla=C3=A7=C3=A3o =
+europeia conhecida como o Regulamento Geral Sobre a Prote=C3=A7=C3=A3o de D=
+ados (RGPD), que entra em vigor em maio. Usu=C3=A1rios do LinkedIn no mundo=
+ inteiro se beneficiar=C3=A3o dessas altera=C3=A7=C3=B5es. Para obter mais =
+informa=C3=A7=C3=B5es, acesse nossa Central de Ajuda do RGPD.
+
+Se por algum motivo voc=C3=AA n=C3=A3o aceitar nossos novos termos, sempre =
+tem a op=C3=A7=C3=A3o de encerrar a sua conta caso n=C3=A3o queira desabili=
+tar recursos espec=C3=ADficos.
+
+Obrigada por ser um usu=C3=A1rio do LinkedIn,
+
+Sara Harrington, Vice-Presidente, Jur=C3=ADdico no LinkedIn=20
+
+.....................................
+
+Contrato do Usu=C3=A1rio:
+https://www.linkedin.com/e/v2?e=3D7lx0fp-jfacjjez-ur&lipi=3Durn%3Ali%3Apage=
+%3Aemail_email_tos_notification_201803%3BItSnrQwqTV6Yayrg7NmX7w%3D%3D&a=3Dm=
+icrosites-urls&midToken=3DAQFYpy2oXD3K5A&ek=3Demail_tos_notification_201803=
+&li=3D1&m=3Dhero&ts=3Duser_agreement_preview&key=3Dlegal%2Fpreview%2Fuser-a=
+greement
+
+Pol=C3=ADtica de Privacidade:
+https://www.linkedin.com/e/v2?e=3D7lx0fp-jfacjjez-ur&lipi=3Durn%3Ali%3Apage=
+%3Aemail_email_tos_notification_201803%3BItSnrQwqTV6Yayrg7NmX7w%3D%3D&a=3Dm=
+icrosites-urls&midToken=3DAQFYpy2oXD3K5A&ek=3Demail_tos_notification_201803=
+&li=3D0&m=3Dhero&ts=3Dprivacy_policy_preview&key=3Dlegal%2Fpreview%2Fprivac=
+y-policy
+
+Pol=C3=ADtica de Cookies:
+https://www.linkedin.com/e/v2?e=3D7lx0fp-jfacjjez-ur&lipi=3Durn%3Ali%3Apage=
+%3Aemail_email_tos_notification_201803%3BItSnrQwqTV6Yayrg7NmX7w%3D%3D&a=3Dm=
+icrosites-urls&midToken=3DAQFYpy2oXD3K5A&ek=3Demail_tos_notification_201803=
+&li=3D2&m=3Dhero&ts=3Dcookie_policy&key=3Dlegal%2Fpreview%2Fcookie-policy
+
+Pol=C3=ADticas para Comunidades Profissionais
+https://www.linkedin.com/e/v2?e=3D7lx0fp-jfacjjez-ur&lipi=3Durn%3Ali%3Apage=
+%3Aemail_email_tos_notification_201803%3BItSnrQwqTV6Yayrg7NmX7w%3D%3D&a=3Dc=
+ustomerServiceUrl&midToken=3DAQFYpy2oXD3K5A&ek=3Demail_tos_notification_201=
+803&li=3D3&m=3Dhero&ts=3Dpro_community_policies&articleId=3D89880
+
+Esclarecemos quais dados coletamos sobre voc=C3=AA, como voc=C3=AA pode cor=
+rigi-los e o processo a seguir para solicitar que deixemos de us=C3=A1-los.
+https://www.linkedin.com/e/v2?e=3D7lx0fp-jfacjjez-ur&lipi=3Durn%3Ali%3Apage=
+%3Aemail_email_tos_notification_201803%3BItSnrQwqTV6Yayrg7NmX7w%3D%3D&a=3Dp=
+settings-privacy&midToken=3DAQFYpy2oXD3K5A&ek=3Demail_tos_notification_2018=
+03&li=3D6&m=3Dhero&ts=3Dprivacy_settings
+
+Nossas novas configura=C3=A7=C3=B5es permitem que voc=C3=AA tenha maior con=
+trole sobre os an=C3=BAncios que voc=C3=AA v=C3=AA e mais transpar=C3=AAnci=
+a sobre como os dados s=C3=A3o compartilhados com anunciantes.
+https://www.linkedin.com/e/v2?e=3D7lx0fp-jfacjjez-ur&lipi=3Durn%3Ali%3Apage=
+%3Aemail_email_tos_notification_201803%3BItSnrQwqTV6Yayrg7NmX7w%3D%3D&a=3Dp=
+settings-advertising&midToken=3DAQFYpy2oXD3K5A&ek=3Demail_tos_notification_=
+201803&li=3D7&m=3Dhero&ts=3Dadvertising_settings
+
+Central de Ajuda do RGPD:
+https://www.linkedin.com/e/v2?e=3D7lx0fp-jfacjjez-ur&lipi=3Durn%3Ali%3Apage=
+%3Aemail_email_tos_notification_201803%3BItSnrQwqTV6Yayrg7NmX7w%3D%3D&t=3Dp=
+lh&midToken=3DAQFYpy2oXD3K5A&ek=3Demail_tos_notification_201803&li=3D5&m=3D=
+hero&ts=3Dgdpr_help_center&urlhash=3D3Yo9&url=3Dhttps%3A%2F%2Fwww%2Elinkedi=
+n%2Ecom%2Fhelp%2Flinkedin%2Ftopics%2F6701%2F6702
+
+
+
+.....................................
+
+
+
+Este e-mail foi enviado para Marco Parise (Coach de aprendizagem educaciona=
+l).
+Saiba por que inclu=C3=ADmos isso: https://www.linkedin.com/e/v2?e=3D7lx0fp=
+-jfacjjez-ur&lipi=3Durn%3Ali%3Apage%3Aemail_email_tos_notification_201803%3=
+BItSnrQwqTV6Yayrg7NmX7w%3D%3D&a=3DcustomerServiceUrl&midToken=3DAQFYpy2oXD3=
+K5A&ek=3Demail_tos_notification_201803&articleId=3D4788
+
+=C2=A9 2018 LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place,=
+ Dublin 2. LinkedIn =C3=A9 um nome comercial registrado da LinkedIn Ireland=
+ Unlimited Company. LinkedIn e a logomarca do LinkedIn s=C3=A3o marcas regi=
+stradas da LinkedIn.
+------=_Part_774431_1766339225.1522215635534
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: html-body
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://www.w3=
+.org/1999/xhtml" lang=3D"pt" xml:lang=3D"pt"> <head> <meta http-equiv=3D"Co=
+ntent-Type" content=3D"text/html;charset=3Dutf-8"> <meta name=3D"HandheldFr=
+iendly" content=3D"true"> <meta name=3D"viewport" content=3D"width=3Ddevice=
+-width; initial-scale=3D0.666667; maximum-scale=3D0.666667; user-scalable=
+=3D0"> <meta name=3D"viewport" content=3D"width=3Ddevice-width"> <title></t=
+itle> <!--[if mso]><style type=3D"text/css">body {font-family: 'Helvetica N=
+eue', Helvetica, Arial, sans-serif;}.phoenix-email-container {width: 512px =
+!important;}</style><![endif]--> <!--[if IE]><style type=3D"text/css">.phoe=
+nix-email-container {width: 512px !important;}</style><![endif]--> <style t=
+ype=3D"text/css">@media only screen and (max-width:32em) { .phoenix-email-c=
+ontainer { width:100% !important; } } @media only screen and (max-width:20e=
+m) {} @media only screen and (max-device-width:30em) {} @media screen and (=
+device-width:30em) and (device-height:22.5em), screen and (device-width:22.=
+5em) and (device-height:30em), screen and (device-width:20em) and (device-h=
+eight:15em) {} @media screen and (-webkit-min-device-pixel-ratio:0) {} @med=
+ia screen and (max-device-width:25.88em) and (max-device-height:48.5em) {} =
+</style> </head> <body style=3D"padding:0;margin:0 auto;-webkit-text-size-a=
+djust:100%;width:100% !important;-ms-text-size-adjust:100%;font-family:'Hel=
+vetica Neue',Helvetica,Arial,sans-serif;"> <div style=3D"overflow:hidden;co=
+lor:transparent;visibility:hidden;mso-hide:all;width:0;font-size:0;opacity:=
+0;height:0;"> Vers=C3=A3o pr=C3=A9via para esclarecer suas op=C3=A7=C3=B5es=
+ e o controle que voc=C3=AA tem sobre seus dados e conte=C3=BAdos no Linked=
+In. </div> <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" bgcolor=3D"#EDF0F3" style=3D"background-color:#EDF0=
+F3;table-layout:fixed;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;ms=
+o-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td align=3D"c=
+enter" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-tabl=
+e-lspace:0pt;-ms-text-size-adjust:100%;"> <center style=3D"width:100%;"> <t=
+able border=3D"0" class=3D"phoenix-email-container" cellspacing=3D"0" cellp=
+adding=3D"0" width=3D"512" bgcolor=3D"#FFFFFF" style=3D"background-color:#F=
+FFFFF;margin:0 auto;max-width:512px;-webkit-text-size-adjust:100%;mso-table=
+-rspace:0pt;width:inherit;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">=
+ <tbody> <tr> <td bgcolor=3D"#F6F8FA" style=3D"background-color:#F6F8FA;pad=
+ding:12px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspa=
+ce:0pt;-ms-text-size-adjust:100%;border-bottom:1px solid #ECECEC;"> <table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-w=
+ebkit-text-size-adjust:100%;mso-table-rspace:0pt;width:100% !important;mso-=
+table-lspace:0pt;-ms-text-size-adjust:100%;min-width:100% !important;"> <tb=
+ody> <tr> <td align=3D"left" valign=3D"middle" style=3D"-webkit-text-size-a=
+djust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:1=
+00%;"><a href=3D"https://www.linkedin.com/comm/feed/?midToken=3DAQFYpy2oXD3=
+K5A&amp;trk=3Deml-email_tos_notification_201803-header-8-home&amp;trkEmail=
+=3Deml-email_tos_notification_201803-header-8-home-null-7lx0fp%7Ejfacjjez%7=
+Eur-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_tos_notifi=
+cation_201803%3BItSnrQwqTV6Yayrg7NmX7w%3D%3D" style=3D"cursor:pointer;color=
+:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decoration=
+:none;-ms-text-size-adjust:100%;"> <img alt=3D"LinkedIn" border=3D"0" src=
+=3D"https://static.licdn.com/scds/common/u/images/email/phoenix/logos/logo_=
+phoenix_header_blue_78x66_v1.png" height=3D"34" width=3D"40" style=3D"outli=
+ne:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;"=
+></a></td> <td valign=3D"middle" width=3D"100%" align=3D"right" style=3D"pa=
+dding:0 0 0 10px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-tab=
+le-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.linkedin.c=
+om/comm/in/marco-parise-3b10b310a?midToken=3DAQFYpy2oXD3K5A&amp;trk=3Deml-e=
+mail_tos_notification_201803-header-13-profile&amp;trkEmail=3Deml-email_tos=
+_notification_201803-header-13-profile-null-7lx0fp%7Ejfacjjez%7Eur-null-nep=
+tune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_tos=
+_notification_201803%3BItSnrQwqTV6Yayrg7NmX7w%3D%3D" style=3D"cursor:pointe=
+r;margin:0;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block=
+;text-decoration:none;-ms-text-size-adjust:100%;"> <span style=3D"word-wrap=
+:break-word;color:#4C4C4C;word-break:break-word;font-weight:400;-ms-word-br=
+eak:break-all;font-size:14px;line-height:1.429;overflow-wrap:break-word;">M=
+arco Parise</span></a></td> <td valign=3D"middle" width=3D"40" style=3D"-we=
+bkit-text-size-adjust:100%;mso-table-rspace:0pt;padding-left:10px;mso-table=
+-lspace:0pt;-ms-text-size-adjust:100%;"> <a href=3D"https://www.linkedin.co=
+m/comm/in/marco-parise-3b10b310a?midToken=3DAQFYpy2oXD3K5A&amp;trk=3Deml-em=
+ail_tos_notification_201803-header-13-profile&amp;trkEmail=3Deml-email_tos_=
+notification_201803-header-13-profile-null-7lx0fp%7Ejfacjjez%7Eur-null-nept=
+une%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_tos_=
+notification_201803%3BItSnrQwqTV6Yayrg7NmX7w%3D%3D" style=3D"border-radius:=
+50%;cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inli=
+ne-block;text-decoration:none;-ms-text-size-adjust:100%;"><img alt=3D"" bor=
+der=3D"0" height=3D"36" width=3D"36" src=3D"https://media.licdn.com/dms/ima=
+ge/C5603AQF8a24oKCZLpw/profile-displayphoto-shrink_100_100/0?e=3D1527400800=
+&amp;v=3Dalpha&amp;t=3D8FMUk63iFunIv0optVsmaSqt4Kw87nSB2B_pTRrq2UM" style=
+=3D"border-radius:50%;outline:none;-ms-interpolation-mode:bicubic;color:#FF=
+FFFF;text-decoration:none;"></a></td> <td width=3D"1" style=3D"-webkit-text=
+-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-a=
+djust:100%;">&nbsp;</td> </tr> </tbody> </table></td> </tr> <tr> <td style=
+=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt=
+;-ms-text-size-adjust:100%;"> <table border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table-=
+rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <=
+td style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-ls=
+pace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%;ms=
+o-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody=
+> <tr> <td align=3D"left" style=3D"padding:0 20px 20px 20px;padding-top:20p=
+x;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-=
+ms-text-size-adjust:100%;text-align:left;"> <p style=3D"margin:0;color:#4C4=
+C4C;font-weight:400;font-size:14px;line-height:1.429;">Ol=C3=A1, Marco.</p>=
+</td> </tr> <tr> <td align=3D"left" style=3D"padding:0 20px 20px 20px;-webk=
+it-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text=
+-size-adjust:100%;text-align:left;"> <p style=3D"margin:0;color:#4C4C4C;fon=
+t-weight:400;font-size:14px;line-height:1.429;">Estamos atualizando nossos =
+Termos de Servi=C3=A7o e gostar=C3=ADamos de lhe apresentar um resumo das n=
+ovidades. Estas altera=C3=A7=C3=B5es se aplicam ao nosso <a href=3D"https:/=
+/www.linkedin.com/e/v2?e=3D7lx0fp-jfacjjez-ur&amp;lipi=3Durn%3Ali%3Apage%3A=
+email_email_tos_notification_201803%3BItSnrQwqTV6Yayrg7NmX7w%3D%3D&amp;a=3D=
+microsites-urls&amp;midToken=3DAQFYpy2oXD3K5A&amp;ek=3Demail_tos_notificati=
+on_201803&amp;li=3D1&amp;m=3Dhero&amp;ts=3Duser_agreement_preview&amp;key=
+=3Dlegal%2Fpreview%2Fuser-agreement" style=3D"cursor:pointer;color:#008CC9;=
+-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms=
+-text-size-adjust:100%;">Contrato do Usu=C3=A1rio</a>, nossa <a href=3D"htt=
+ps://www.linkedin.com/e/v2?e=3D7lx0fp-jfacjjez-ur&amp;lipi=3Durn%3Ali%3Apag=
+e%3Aemail_email_tos_notification_201803%3BItSnrQwqTV6Yayrg7NmX7w%3D%3D&amp;=
+a=3Dmicrosites-urls&amp;midToken=3DAQFYpy2oXD3K5A&amp;ek=3Demail_tos_notifi=
+cation_201803&amp;li=3D0&amp;m=3Dhero&amp;ts=3Dprivacy_policy_preview&amp;k=
+ey=3Dlegal%2Fpreview%2Fprivacy-policy" style=3D"cursor:pointer;color:#008CC=
+9;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-=
+ms-text-size-adjust:100%;">Pol=C3=ADtica de Privacidade</a>, nossa <a href=
+=3D"https://www.linkedin.com/e/v2?e=3D7lx0fp-jfacjjez-ur&amp;lipi=3Durn%3Al=
+i%3Apage%3Aemail_email_tos_notification_201803%3BItSnrQwqTV6Yayrg7NmX7w%3D%=
+3D&amp;a=3Dmicrosites-urls&amp;midToken=3DAQFYpy2oXD3K5A&amp;ek=3Demail_tos=
+_notification_201803&amp;li=3D2&amp;m=3Dhero&amp;ts=3Dcookie_policy&amp;key=
+=3Dlegal%2Fpreview%2Fcookie-policy" style=3D"cursor:pointer;color:#008CC9;-=
+webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms-=
+text-size-adjust:100%;">Pol=C3=ADtica de Cookies</a> e nossas <a href=3D"ht=
+tps://www.linkedin.com/e/v2?e=3D7lx0fp-jfacjjez-ur&amp;lipi=3Durn%3Ali%3Apa=
+ge%3Aemail_email_tos_notification_201803%3BItSnrQwqTV6Yayrg7NmX7w%3D%3D&amp=
+;a=3DcustomerServiceUrl&amp;midToken=3DAQFYpy2oXD3K5A&amp;ek=3Demail_tos_no=
+tification_201803&amp;li=3D3&amp;m=3Dhero&amp;ts=3Dpro_community_policies&a=
+mp;articleId=3D89880" style=3D"cursor:pointer;color:#008CC9;-webkit-text-si=
+ze-adjust:100%;display:inline-block;text-decoration:none;-ms-text-size-adju=
+st:100%;">Pol=C3=ADticas para Comunidades Profissionais</a> e entrar=C3=A3o=
+ em vigor em 8 de maio de 2018. Sempre que fazemos alguma altera=C3=A7=C3=
+=A3o, procuramos lhe informar das suas op=C3=A7=C3=B5es e do controle que v=
+oc=C3=AA tem sobre seus dados e conte=C3=BAdos no LinkedIn.</p></td> </tr> =
+<tr> <td align=3D"left" style=3D"padding:0 20px 20px 20px;-webkit-text-size=
+-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust=
+:100%;text-align:left;"> <p style=3D"margin:0;color:#4C4C4C;font-weight:400=
+;font-size:14px;line-height:1.429;">Seguem algumas novidades:</p></td> </tr=
+> <tr> <td align=3D"left" style=3D"padding:0 20px 20px 20px;-webkit-text-si=
+ze-adjust:100%;mso-table-rspace:0pt;padding-left:60px;mso-table-lspace:0pt;=
+-ms-text-size-adjust:100%;text-align:left;"> <ul style=3D"padding:0;margin:=
+0;"> <li style=3D"padding:0;padding-bottom:20px;text-align:left;"> <p style=
+=3D"margin:0;color:#4C4C4C;font-weight:400;font-size:14px;line-height:1.429=
+;"><a href=3D"https://www.linkedin.com/e/v2?e=3D7lx0fp-jfacjjez-ur&amp;lipi=
+=3Durn%3Ali%3Apage%3Aemail_email_tos_notification_201803%3BItSnrQwqTV6Yayrg=
+7NmX7w%3D%3D&amp;a=3Dpsettings-privacy&amp;midToken=3DAQFYpy2oXD3K5A&amp;ek=
+=3Demail_tos_notification_201803&amp;li=3D6&amp;m=3Dhero&amp;ts=3Dprivacy_s=
+ettings" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100=
+%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;">Esc=
+larecemos</a> quais dados coletamos sobre voc=C3=AA, como voc=C3=AA pode co=
+rrigi-los e o processo a seguir para solicitar que deixemos de us=C3=A1-los=
+.</p></li> <li style=3D"padding:0;padding-bottom:20px;text-align:left;"> <p=
+ style=3D"margin:0;color:#4C4C4C;font-weight:400;font-size:14px;line-height=
+:1.429;">Nossas novas configura=C3=A7=C3=B5es permitem que voc=C3=AA tenha =
+<a href=3D"https://www.linkedin.com/e/v2?e=3D7lx0fp-jfacjjez-ur&amp;lipi=3D=
+urn%3Ali%3Apage%3Aemail_email_tos_notification_201803%3BItSnrQwqTV6Yayrg7Nm=
+X7w%3D%3D&amp;a=3Dpsettings-advertising&amp;midToken=3DAQFYpy2oXD3K5A&amp;e=
+k=3Demail_tos_notification_201803&amp;li=3D7&amp;m=3Dhero&amp;ts=3Dadvertis=
+ing_settings" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjus=
+t:100%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;=
+">maior controle sobre os an=C3=BAncios</a> que voc=C3=AA v=C3=AA e mais tr=
+anspar=C3=AAncia sobre como os dados s=C3=A3o compartilhados com anunciante=
+s.</p></li> <li style=3D"padding:0;padding-bottom:0;text-align:left;"> <p s=
+tyle=3D"margin:0;color:#4C4C4C;font-weight:400;font-size:14px;line-height:1=
+.429;">Atualiza=C3=A7=C3=B5es =C3=A0s pol=C3=ADticas de comunidades garante=
+m que o LinkedIn permane=C3=A7a um lugar onde as pessoas agem de forma prof=
+issional. Baseadas nas nossas diretrizes para comunidades, estas pol=C3=ADt=
+icas incentivam conversas que ajudem nossos usu=C3=A1rios a serem mais prod=
+utivos e bem-sucedidos, e indicam quais atividades s=C3=A3o proibidas no Li=
+nkedIn.</p></li> </ul></td> </tr> <tr> <td align=3D"left" style=3D"padding:=
+0 20px 20px 20px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;padding=
+-left:120px;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:left;=
+"> <ul style=3D"padding:0;margin:0;"> <li style=3D"padding:0;list-style-typ=
+e:circle;padding-bottom:20px;text-align:left;"> <p style=3D"margin:0;color:=
+#4C4C4C;font-weight:400;font-size:14px;line-height:1.429;">Por exemplo, o a=
+ss=C3=A9dio e o discurso de =C3=B3dio n=C3=A3o s=C3=A3o bem-vindos na nossa=
+ plataforma e podem resultar em expuls=C3=A3o do LinkedIn.</p></li> <li sty=
+le=3D"padding:0;list-style-type:circle;padding-bottom:0;text-align:left;"> =
+<p style=3D"margin:0;color:#4C4C4C;font-weight:400;font-size:14px;line-heig=
+ht:1.429;">Al=C3=A9m disso, caso voc=C3=AA esteja sendo remunerado para pro=
+mover um produto ou servi=C3=A7o, ser=C3=A1 necess=C3=A1rio divulgar que vo=
+c=C3=AA est=C3=A1 dando sua opini=C3=A3o ou agindo em troca de pagamento.</=
+p></li> </ul></td> </tr> <tr> <td align=3D"left" style=3D"padding:0 20px 20=
+px 20px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace=
+:0pt;-ms-text-size-adjust:100%;text-align:left;"> <p style=3D"margin:0;colo=
+r:#4C4C4C;font-weight:400;font-size:14px;line-height:1.429;">Ao atualizar e=
+stas pol=C3=ADticas, garantimos que sua privacidade vem sempre em primeiro =
+lugar. N=C3=B3s agora cumprimos com os mais altos padr=C3=B5es de privacida=
+de de dados, em conformidade com a nova legisla=C3=A7=C3=A3o europeia conhe=
+cida como o Regulamento Geral Sobre a Prote=C3=A7=C3=A3o de Dados (RGPD), q=
+ue entra em vigor em maio. Usu=C3=A1rios do LinkedIn no mundo inteiro se be=
+neficiar=C3=A3o dessas altera=C3=A7=C3=B5es. Para obter mais informa=C3=A7=
+=C3=B5es, acesse nossa <a href=3D"https://www.linkedin.com/e/v2?e=3D7lx0fp-=
+jfacjjez-ur&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_tos_notification_20180=
+3%3BItSnrQwqTV6Yayrg7NmX7w%3D%3D&amp;t=3Dplh&amp;midToken=3DAQFYpy2oXD3K5A&=
+amp;ek=3Demail_tos_notification_201803&amp;li=3D5&amp;m=3Dhero&amp;ts=3Dgdp=
+r_help_center&amp;urlhash=3D3Yo9&amp;url=3Dhttps%3A%2F%2Fwww%2Elinkedin%2Ec=
+om%2Fhelp%2Flinkedin%2Ftopics%2F6701%2F6702" style=3D"cursor:pointer;color:=
+#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:=
+none;-ms-text-size-adjust:100%;">Central de Ajuda do RGPD</a>.</p></td> </t=
+r> <tr> <td align=3D"left" style=3D"padding:0 20px 20px 20px;-webkit-text-s=
+ize-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adj=
+ust:100%;text-align:left;"> <p style=3D"margin:0;color:#4C4C4C;font-weight:=
+400;font-size:14px;line-height:1.429;">Se por algum motivo voc=C3=AA n=C3=
+=A3o aceitar nossos novos termos, sempre tem a op=C3=A7=C3=A3o de encerrar =
+a sua conta caso n=C3=A3o queira desabilitar recursos espec=C3=ADficos.</p>=
+</td> </tr> <tr> <td align=3D"left" style=3D"padding:0 20px 20px 20px;-webk=
+it-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text=
+-size-adjust:100%;padding-bottom:30px;text-align:left;"> <p style=3D"margin=
+:0;color:#4C4C4C;font-weight:400;font-size:14px;line-height:1.429;">Obrigad=
+a por ser um usu=C3=A1rio do LinkedIn,</p> <p style=3D"margin:0;color:#4C4C=
+4C;font-weight:400;font-size:14px;line-height:1.429;">Sara Harrington, Vice=
+-Presidente, Jur=C3=ADdico no LinkedIn</p></td> </tr> </tbody> </table></td=
+> </tr> </tbody> </table></td> </tr> <tr> <td style=3D"-webkit-text-size-ad=
+just:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:10=
+0%;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%=
+" bgcolor=3D"#EDF0F3" align=3D"center" style=3D"background-color:#EDF0F3;pa=
+dding:0 24px;color:#6A6C6D;-webkit-text-size-adjust:100%;mso-table-rspace:0=
+pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"> <tbo=
+dy> <tr> <td align=3D"center" style=3D"padding:16px 0 0 0;-webkit-text-size=
+-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust=
+:100%;text-align:center;"></td> </tr> <tr> <td style=3D"-webkit-text-size-a=
+djust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:1=
+00%;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100=
+%" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-ls=
+pace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td align=3D"center" sty=
+le=3D"padding:0 0 12px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt=
+;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"> <p sty=
+le=3D"margin:0;color:#6A6C6D;font-weight:400;font-size:12px;line-height:1.3=
+33;"></p></td> </tr> <tr> <td align=3D"center" style=3D"padding:0 0 12px 0;=
+-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms=
+-text-size-adjust:100%;text-align:center;"> <p style=3D"margin:0;word-wrap:=
+break-word;color:#6A6C6D;word-break:break-word;font-weight:400;-ms-word-bre=
+ak:break-all;font-size:12px;line-height:1.333;overflow-wrap:break-word;">Es=
+te e-mail foi enviado para Marco Parise (Coach de aprendizagem educacional)=
+. <a href=3D"https://www.linkedin.com/e/v2?e=3D7lx0fp-jfacjjez-ur&amp;lipi=
+=3Durn%3Ali%3Apage%3Aemail_email_tos_notification_201803%3BItSnrQwqTV6Yayrg=
+7NmX7w%3D%3D&amp;a=3DcustomerServiceUrl&amp;midToken=3DAQFYpy2oXD3K5A&amp;e=
+k=3Demail_tos_notification_201803&amp;articleId=3D4788" style=3D"cursor:poi=
+nter;color:#6A6C6D;-webkit-text-size-adjust:100%;text-decoration:underline;=
+display:inline-block;-ms-text-size-adjust:100%;">Saiba por que inclu=C3=ADm=
+os isto.</a></p></td> </tr> <tr> <td align=3D"center" style=3D"padding:0 0 =
+8px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0=
+pt;-ms-text-size-adjust:100%;text-align:center;"><a href=3D"https://www.lin=
+kedin.com/comm/feed/?midToken=3DAQFYpy2oXD3K5A&amp;trk=3Deml-email_tos_noti=
+fication_201803-footer-10-home&amp;trkEmail=3Deml-email_tos_notification_20=
+1803-footer-10-home-null-7lx0fp%7Ejfacjjez%7Eur-null-neptune%2Ffeed&amp;lip=
+i=3Durn%3Ali%3Apage%3Aemail_email_tos_notification_201803%3BItSnrQwqTV6Yayr=
+g7NmX7w%3D%3D" style=3D"cursor:pointer;color:#6A6C6D;-webkit-text-size-adju=
+st:100%;text-decoration:underline;display:inline-block;-ms-text-size-adjust=
+:100%;"><img alt=3D"LinkedIn" border=3D"0" height=3D"14" src=3D"https://sta=
+tic.licdn.com/scds/common/u/images/email/phoenix/logos/logo_phoenix_footer_=
+darkgray_197x48_v1.png" width=3D"58" style=3D"outline:none;-ms-interpolatio=
+n-mode:bicubic;color:#FFFFFF;display:block;text-decoration:none;"></a></td>=
+ </tr> <tr> <td align=3D"center" style=3D"padding:0 0 12px 0;-webkit-text-s=
+ize-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adj=
+ust:100%;text-align:center;"> <p style=3D"margin:0;color:#6A6C6D;font-weigh=
+t:400;font-size:12px;line-height:1.333;">=C2=A9 2018 LinkedIn Ireland Unlim=
+ited Company, Wilton Plaza, Wilton Place, Dublin 2. LinkedIn =C3=A9 um nome=
+ comercial registrado da LinkedIn Ireland Unlimited Company. LinkedIn e a l=
+ogomarca do LinkedIn s=C3=A3o marcas registradas da LinkedIn.</p></td> </tr=
+> </tbody> </table></td> </tr> </tbody> </table></td> </tr> </tbody> </tabl=
+e> </center></td> </tr> </tbody> </table> <img src=3D"http://www.linkedin.c=
+om/emimp/ip_TjJ4NE1HWndMV3BtWVdOcWFtVjZMWFZ5OlpXMWhhV3hmZEc5elgyNXZkR2xtYVd=
+OaGRHbHZibDh5TURFNE1ETT06.gif" style=3D"outline:none;-ms-interpolation-mode=
+:bicubic;color:#FFFFFF;text-decoration:none;width:1px;height:1px;"> </body>=
+ </html>
+------=_Part_774431_1766339225.1522215635534--
+

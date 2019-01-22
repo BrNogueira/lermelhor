@@ -1,0 +1,80 @@
+Return-path: <carlos.rossetti@uol.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Mon, 20 Apr 2015 09:06:54 -0300
+Received: from a4-shark5.uol.com.br ([200.147.97.212]:33232)
+	by hserv20.homehost.com.br with esmtp (Exim 4.85)
+	(envelope-from <carlos.rossetti@uol.com.br>)
+	id 1YkAS9-0003b9-FW
+	for marco@digitalfotoimagem.com.br; Mon, 20 Apr 2015 09:06:51 -0300
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by a4-shark5.uol.com.br (Postfix) with ESMTP id 13ACA380008A
+	for <marco@digitalfotoimagem.com.br>; Mon, 20 Apr 2015 09:05:21 -0300 (BRT)
+Received: from a4-shark5.host.intranet (localhost.localdomain [127.0.0.1])
+	by a4-shark5.uol.com.br (Postfix) with ESMTP id C77083800087
+	for <marco@digitalfotoimagem.com.br>; Mon, 20 Apr 2015 09:05:18 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=uol.com.br; s=ubz;
+	t=1429531520; bh=ia1TUmS8n4jfHlRbJO3r2jFCjgzEmkoqNhlniTiuXdk=;
+	h=Date:From:To:in-reply-to:references:Subject;
+	b=c995qszBPsRNGgBrQ/Cy3wfxWpGBAI1eIAcRdQen2IEH5QEgD3U8iYk/kQHT9ToAW
+	 y5Hv8El7M0+cVW7geaULsjRupWEF2GJ+m8MgR9QtVE3ozyZQQcSxZwcfcviU4nznBT
+	 z0xAn4OPp3EFNqvenQuLqcCj7mOGqMxqGk3m6KNc=
+Received: from uol.com.br (a4-weasel9.host.intranet [10.131.133.72])
+	by a4-shark5.host.intranet (Postfix) with ESMTP id 820203800081
+	for <marco@digitalfotoimagem.com.br>; Mon, 20 Apr 2015 09:05:18 -0300 (BRT)
+Date: Mon, 20 Apr 2015 09:05:18 -0300
+From: "carlos.rossetti" <carlos.rossetti@uol.com.br>
+To: marco@digitalfotoimagem.com.br
+Message-ID: <5534eb7e7ce00_29c515cf514c33cc1734d@a4-weasel9.mail>
+in-reply-to: ["5db643d41909c1a900d513a2c851486e@digitalfotoimagem.com.br"]
+references: ["4a10f47077fe56e5509cc17dc981edfd@crivodarazao.org.br",
+ "5db643d41909c1a900d513a2c851486e@digitalfotoimagem.com.br"]
+Subject: Re: Texto e o Mapa de Guararema
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-SenderIP: 177.45.124.61
+X-SIG5: eb97b59c21d120973191f44e8569ab24
+X-Spam-Status: No, score=-0.9
+X-Spam-Score: -8
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hserv20.homehost.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  BEM RECEBIDO, OBRIGADO KAKA Â [...] 
+ 
+ Content analysis details:   (-0.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: crivodarazao.org.br]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (carlos.rossetti[at]uol.com.br)
+ -0.0 T_RP_MATCHES_RCVD      Envelope sender domain matches handover relay
+                             domain
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.7 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.4 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+X-Spam-Flag: NO
+
+<div>BEM RECEBIDO, OBRIGADO<br /> <br />KAKA</div>
+<div>=C2=A0</div>
+<hr style=3D"border-top: 1px solid #ccc;" />
+<div><br /><strong>De:</strong> marco@digitalfotoimagem.com.br<br /><stro=
+ng>Enviada:</strong> Domingo, 19 de Abril de 2015 15:16<br /><strong>Para=
+:</strong> chancelaria@crivodarazao.org.br<br /><strong>Assunto:</strong>=
+ Texto e o Mapa de Guararema<br /><br />Arquivo em anexo.</div>=

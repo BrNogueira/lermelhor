@@ -1,0 +1,528 @@
+Return-path: <kreme1969@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Fri, 06 Mar 2015 09:46:05 -0300
+Received: from mail-la0-f43.google.com ([209.85.215.43]:40038)
+	by hserv20.homehost.com.br with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85)
+	(envelope-from <kreme1969@gmail.com>)
+	id 1YTrdV-0006Cw-7W
+	for marco@digitalfotoimagem.com.br; Fri, 06 Mar 2015 09:46:04 -0300
+Received: by labgm9 with SMTP id gm9so17674905lab.7
+        for <marco@digitalfotoimagem.com.br>; Fri, 06 Mar 2015 04:45:46 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        bh=7BYBAPRPhAFPN0QcMCBMlTZE2yMWMNH7/5l9mLEsupY=;
+        b=1Dm3KxJlQTJxlkW/zKlUKk9NOuGmsC0Az+NL4yqqyAzeczZVo6rngQoHcOjYXaAS7s
+         fWYgKTT8JbNTGbh/TkzOMAis5mUDo9m11cbpanTrB7U+lpoI2Jb67gUJW+6Zbo3jCWjk
+         DANWxe+pnTZgjpRI9j4hmtj+I8OcV3U0Gg+dDiN2h3Xws79E8RfyjTINrrjDV5PSEV7e
+         jStYWRry6QoGXz5jope7gPSZH3GiaUvySFSkHSqu/83P0oOlfLSdckH/ZGYtO+OuE8ok
+         fCVDuRKcjk3SjOrvcINRJiQ+ZXvsZn6Miux37DdcF6AUu9eKL+AkYyAuQvjJgaXsBbgX
+         bDIg==
+MIME-Version: 1.0
+X-Received: by 10.112.131.66 with SMTP id ok2mr9822363lbb.51.1425645946584;
+ Fri, 06 Mar 2015 04:45:46 -0800 (PST)
+Received: by 10.112.61.35 with HTTP; Fri, 6 Mar 2015 04:45:46 -0800 (PST)
+In-Reply-To: <54f35eb733c59_2f72156d59f413e49792c@a4-weasel6.mail>
+References: <54f35eb733c59_2f72156d59f413e49792c@a4-weasel6.mail>
+Date: Fri, 6 Mar 2015 09:45:46 -0300
+Message-ID: <CANKdeLHQicRmRXp-ZtGgaxd5q=uExk3JTYV6r-7yN4Xjkq_nXg@mail.gmail.com>
+Subject: Re: Teste
+From: Antonio Carlos <kreme1969@gmail.com>
+To: helioamandara <helioamandara@uol.com.br>
+Cc: mmtesta <mmtesta@uol.com.br>, 
+	=?UTF-8?Q?Chancelaria_Crivo_da_Raz=C3=A3o?= <chancelaria@crivodarazao.org.br>, 
+	Alexandre Dias de Castro <xandedias.castro@gmail.com>, Antonio Finardi <ma.finardi@hotmail.com>, 
+	Enedino Alves Barbosa Filho <dino.abf@gmail.com>, =?UTF-8?Q?Fl=C3=A1vio_Ferrer?= <flavio@crivodarazao.org.br>, 
+	=?UTF-8?Q?Jos=C3=A9_Doniseti_Luiz?= <josedonisetiluiz@yahoo.com.br>, 
+	Oswaldo dos Santos Junior <oswaldosantosjunior@gmail.com>, 
+	Enedino Alves Barbosa Filho <enedino@crivodarazao.org.br>, 
+	Veneravel Mestre <crivodarazao@crivodarazao.org.br>, 
+	Antonio Carlos Kreme <ackack1969@yahoo.com.br>, 
+	Antonio Carlos Rosseti <carlos.rossetti@uol.com.br>, 
+	Arsenio de Paiva Lopes <arsenio.p.lopes@gmail.com>, =?UTF-8?Q?Ricardo_de_M=C3=AAo_Fernandes?= <valdes@uol.com.br>, 
+	=?UTF-8?Q?Jo=C3=A3o_Gambetti_Neto?= <gambetti@gambetti.com.br>, 
+	Ronaldo Zabeu Lopes <ronaldozabeu@terra.com.br>, Dejair Bianchi <dejair.bianchi@uol.com.br>, 
+	Claudio Auricchio Turi <ttturi@terra.com.br>, Wanderley Caldana <w.caldana@uol.com.br>, 
+	Luiz Carlos Bueno <fallcar@hotmail.com>, 
+	Benedito Carlos Flaminio <benedito.flaminio@claro.com.br>, 
+	Luis Mauricio Rodrigues <luiz_ma@hotmail.com>, Jairo Dias <Jairo@rooftec.com.br>, 
+	Marcos Patriniani <marckopat@live.com>, Natanael Costa <ncosta@usa.com>, 
+	Ordalino de Souza e Silva <titoss@ig.com.br>, Marco Tulio de Mello <tmello@demello.net.br>, 
+	Wlamir Lopes Sanches <wladsmozz@hotmail.com>, 
+	=?UTF-8?Q?Fabr=C3=ADcio_Takeshi_Murakami?= <fabricio@crivodarazao.org.br>, 
+	=?UTF-8?Q?Rog=C3=A9rio_dos_Santos_Ota?= <rogerio@crivodarazao.org.br>, 
+	Douglas Klein Basso <douglas.klein@gmail.com>, 
+	Marco Antonio Perosa Parise <marco@digitalfotoimagem.com.br>, Gilberto Dante <gilbertodante@hotmail.com>, 
+	Ernani Flausino <ecobom@ig.com.br>, Marcus Welbi <marcuswelbi@crivodarazao.org.br>
+Content-Type: multipart/alternative; boundary=047d7b33dbd638c43d05109e100f
+X-Spam-Status: No, score=-0.4
+X-Spam-Score: -3
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hserv20.homehost.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Queridos e amados IIr.; Bom dia a todos! Não entendi ao certo
+    este 'teste' mas creio que se está tratando de saber se os e-mails dos IIr.
+    estão devidamente cadastrados. Se este for o caso, [...] 
+ 
+ Content analysis details:   (-0.4 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: claro.com.br]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (kreme1969[at]gmail.com)
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (kreme1969[at]gmail.com)
+  1.3 TRACKER_ID             BODY: Incorporates a tracking ID number
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_SIZE_LARGE   BODY: HTML font size is large
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--047d7b33dbd638c43d05109e100f
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Queridos e amados IIr.;
+
+Bom dia a todos!
+
+N=C3=A3o entendi ao certo este 'teste' mas creio que se est=C3=A1 tratando =
+de saber
+se os e-mails dos IIr. est=C3=A3o devidamente cadastrados. Se este for o ca=
+so,
+
+*pe=C3=A7o encarecidamente aos IIr que ATUALIZEM meu endere=C3=A7o de e-mai=
+l para*
+
+*kreme1969@gmail.com <kreme1969@gmail.com>*
+
+pois que o endere=C3=A7o constante desta lista n=C3=A3o =C3=A9 por mim util=
+izado h=C3=A1 muito
+tempo.
+
+Ao ensejo, quero dividir com os IIr. um texto recebido de um velho amigo e
+agora Ir. Segue abaixo.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+*Conduta em Loja*
+
+*AMOR E CARIDADE IV - N=C2=BA 571*
+
+
+
+(C.A.Teixeira Paranhos. =E2=80=93 M=E2=88=B4I=E2=88=B4)
+
+A Loja =C3=A9 um Local sagrado, tanto que se re=C3=BAne em um Templo. Fosse=
+ uma
+institui=C3=A7=C3=A3o profana, qualquer sala serviria para que se reunisse.
+
+Da=C3=AD se tira que a conduta de um Irm=C3=A3o, nela, tem de ser especial,=
+ justo
+porque est=C3=A1 em solo sagrado.  A rigor, dever=C3=ADamos nela entrar des=
+cal=C3=A7os =E2=80=94
+como se faz na inicia=C3=A7=C3=A3o ou como procedem os mu=C3=A7ulmanos quan=
+do entram na
+Mesquita: deixar de fora os cal=C3=A7ados =C3=A9 deixar a =E2=80=9Csujeira=
+=E2=80=9D do mundo profano,
+de modo a n=C3=A3o contaminar o lugar sagrado.
+
+Deus, ao interpelar Mois=C3=A9s, do meio da sar=C3=A7a ardente, disse:
+
+=E2=80=9CN=C3=A3o te chegues para c=C3=A1; tira as sand=C3=A1lias dos p=C3=
+=A9s, porque o lugar em que
+est=C3=A1s =C3=A9 terra santa.=E2=80=9D exodo, 3:1.)
+
+=C3=89 preciso que cada Irm=C3=A3o se compenetre da sacralidade do Templo e=
+ da Loja.
+
+ =E2=80=9CPor todos estes motivos =C3=A9 que devemos, quando dentro do noss=
+o Templo, em
+Loja, lembrarmo-nos de agir segundo estas premissas, ou seja: falar com voz
+baixa (murmurar); mover-se com suavidade; manter postura h=C3=ADgida e
+condizente; evitar pensamentos e palavras que possam desviar-nos da reta
+raz=C3=A3o e, principalmente, n=C3=A3o esquecer que devemos estar atentos e
+compenetrados de que aqui se realiza uma CELEBRA=C3=87=C3=83O, oficiada pel=
+o
+hierofante, que =C3=A9 o nosso Vener=C3=A1vel Mestre, de quem somos
+presb=C3=ADteros-ac=C3=B3litos=E2=80=9D. (p=C3=A1g. 23).
+
+J=C3=A1 se v=C3=AA que n=C3=A3o h=C3=A1 lugar para gracejos, falas que n=C3=
+=A3o sejam absolutamente
+necess=C3=A1rias e posturas incorretas de se assentar (v.g.: pernas cruzada=
+s ou
+espichadas para frente ou recolhidas para tr=C3=A1s.) Ou seja: tudo que nos
+afaste da un=C3=A7=C3=A3o que devemos manter.
+
+O sil=C3=AAncio dos Irm=C3=A3os =C3=A9 t=C3=A3o importante quanto o que se =
+disse retro: da=C3=AD a
+regra de os Aprendizes e Companheiros n=C3=A3o usar da palavra, salvo
+circunst=C3=A2ncias especiais e autorizado pelo Vener=C3=A1vel (ex.: aprese=
+ntar
+trabalho; contraindicar candidato por s=C3=A9rios motivos e pouco mais.)
+
+O Ritual, como lembra J.P. Bayard, propicia que o Irm=C3=A3o se concentre e=
+ que
+rompa com o mundo profano. Para estar em Loja =C3=A9 preciso que se =E2=80=
+=9Capague no
+Irm=C3=A3o o barulho da rua=E2=80=9D.
+
+A concentra=C3=A7=C3=A3o na sala dos Passos Perdidos =C3=A9 vital para que,=
+ quando se
+forme o cortejo, todos, sem exce=C3=A7=C3=A3o, estejam harmonizados e imbu=
+=C3=ADdos da
+conduta ma=C3=A7=C3=B4nica adequada.
+
+Esta =C3=A9 a receita para uma boa Sess=C3=A3o Ma=C3=A7=C3=B4nica.
+
+
+
+*POA, 13/03/2009.*
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Grande TFAbra=C3=A7o4,
+
+Que haja paz.
+
+
+Antonio Carlos
+
+[image: Imagem inline 1]*  *** Ao encaminhar esta msg fa=C3=A7a-o utilizand=
+o
+C=C3=B3pia Oculta (CCO ou BCC) e,*
+*                por favor, APAGUE meu endere=C3=A7o eletr=C3=B4nico.*
+*                Vamos combater o SPAM.*
+*P      * Vai imprimir? Vc precisa mesmo fazer isso???*
+*                Reduzir o consumo de papel ajuda a conservar nossas matas.=
+*
+*                Pense no meio ambiente.*
+
+2015-03-01 15:47 GMT-03:00 helioamandara <helioamandara@uol.com.br>:
+
+> Teste
+>
+>
+> ------------------------------
+>
+> *De:* mmtesta@uol.com.br
+> *Enviada:* Domingo, 1 de Mar=C3=A7o de 2015 12:24
+> *Para:* marcuswelbi@crivodarazao.org.br
+> *Assunto:* Teste
+>
+> *TESTAdo...*
+>
+>
+> ------------------------------
+>
+> *De:* marcuswelbi@crivodarazao.org.br
+> *Enviada:* S=C3=A1bado, 28 de Fevereiro de 2015 20:53
+> *Para:* chancelaria@crivodarazao.org.br,xandedias.castro@gmail.com,
+> ma.finardi@hotmail.com,dino.abf@gmail.com,flavio@crivodarazao.org.br,
+> josedonisetiluiz@yahoo.com.br,oswaldosantosjunior@gmail.com,
+> enedino@crivodarazao.org.br,crivodarazao@crivodarazao.org.br,
+> ackack1969@yahoo.com.br,carlos.rossetti@uol.com.br,
+> arsenio.p.lopes@gmail.com,valdes@uol.com.br,gambetti@gambetti.com.br,
+> ronaldozabeu@terra.com.br,mmtesta@uol.com.br,dejair.bianchi@uol.com.br,
+> ttturi@terra.com.br,w.caldana@uol.com.br,fallcar@hotmail.com,
+> benedito.flaminio@claro.com.br,luiz_ma@hotmail.com,Jairo@rooftec.com.br,
+> helioamandara@uol.com.br,marckopat@live.com,ncosta@usa.com,
+> titoss@ig.com.br,tmello@demello.net.br,wladsmozz@hotmail.com,
+> fabricio@crivodarazao.org.br,rogerio@crivodarazao.org.br,
+> douglas.klein@gmail.com,marco@digitalfotoimagem.com.br,
+> gilbertodante@hotmail.com,ecobom@ig.com.br
+> *Assunto:* Teste
+>
+>
+>
+>
+>
+
+--047d7b33dbd638c43d05109e100f
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Queridos e amados IIr.;</div><div><br></div><div>Bom =
+dia a todos!</div><div><br></div><div>N=C3=A3o entendi ao certo este &#39;t=
+este&#39; mas creio que se est=C3=A1 tratando de saber se os e-mails dos II=
+r. est=C3=A3o devidamente cadastrados. Se este for o caso, </div><div><br><=
+/div><div><u><strong>pe=C3=A7o encarecidamente aos IIr que ATUALIZEM meu en=
+dere=C3=A7o de e-mail para</strong></u></div><div><br></div><div><font size=
+=3D"6"><font color=3D"#ff0000" style=3D"background-color:rgb(255,255,0)"><s=
+trong><a href=3D"mailto:kreme1969@gmail.com">kreme1969@gmail.com</a></stron=
+g></font> </font></div><div><br></div><div>pois que o endere=C3=A7o constan=
+te desta lista n=C3=A3o =C3=A9 por mim utilizado h=C3=A1 muito tempo.</div>=
+<div><br></div><div>Ao ensejo, quero dividir com os IIr. um texto recebido =
+de um velho amigo e agora Ir. Segue abaixo.</div><div><br></div><div>xxxxxx=
+xxxxxxxxxxxxxxxxxxxxxxxx</div><div><br></div><div><font color=3D"#000000" f=
+ace=3D"Times New Roman" size=3D"3">
+
+</font><p align=3D"center" style=3D"margin:0cm 0cm 10pt;text-align:center">=
+<b><span style=3D"line-height:115%;font-family:&quot;Arial&quot;,sans-serif=
+;font-size:24pt"><font color=3D"#000000">Conduta em Loja</font></span></b><=
+/p><font color=3D"#000000" face=3D"Times New Roman" size=3D"3">
+
+</font><p align=3D"center" style=3D"margin:0cm 0cm 10pt;text-align:center">=
+<b><span style=3D"line-height:115%;font-family:&quot;Arial&quot;,sans-serif=
+;font-size:14pt"><font color=3D"#000000">AMOR E CARIDADE IV - N=C2=BA 571</=
+font></span></b></p><font color=3D"#000000" face=3D"Times New Roman" size=
+=3D"3">
+
+</font><p align=3D"center" style=3D"margin:0cm 0cm 10pt;text-align:center">=
+<b><span style=3D"line-height:115%;font-family:&quot;Arial&quot;,sans-serif=
+;font-size:14pt"><font color=3D"#000000">=C2=A0</font></span></b></p><font =
+color=3D"#000000" face=3D"Times New Roman" size=3D"3">
+
+</font><p style=3D"margin:0cm 0cm 10pt;text-align:justify"><font color=3D"#=
+000000"><span style=3D"line-height:115%;font-family:&quot;Arial&quot;,sans-=
+serif;font-size:12pt">(C.A.Teixeira
+Paranhos. =E2=80=93 M</span><span style=3D"line-height:115%;font-family:&qu=
+ot;Cambria Math&quot;,serif;font-size:12pt">=E2=88=B4</span><span style=3D"=
+line-height:115%;font-family:&quot;Arial&quot;,sans-serif;font-size:12pt">I=
+</span><span style=3D"line-height:115%;font-family:&quot;Cambria Math&quot;=
+,serif;font-size:12pt">=E2=88=B4</span><span style=3D"line-height:115%;font=
+-family:&quot;Arial&quot;,sans-serif;font-size:12pt">)</span></font></p><fo=
+nt color=3D"#000000" face=3D"Times New Roman" size=3D"3">
+
+</font><p style=3D"margin:0cm 0cm 10pt;text-align:justify"><span style=3D"l=
+ine-height:115%;font-family:&quot;Arial&quot;,sans-serif;font-size:12pt"><f=
+ont color=3D"#000000">A
+Loja =C3=A9 um Local sagrado, tanto que se re=C3=BAne em um Templo. Fosse u=
+ma institui=C3=A7=C3=A3o
+profana, qualquer sala serviria para que se reunisse.</font></span></p><fon=
+t color=3D"#000000" face=3D"Times New Roman" size=3D"3">
+
+</font><p style=3D"margin:0cm 0cm 10pt;text-align:justify"><span style=3D"l=
+ine-height:115%;font-family:&quot;Arial&quot;,sans-serif;font-size:12pt"><f=
+ont color=3D"#000000">Da=C3=AD
+se tira que a conduta de um Irm=C3=A3o, nela, tem de ser especial, justo po=
+rque est=C3=A1
+em solo sagrado.<span>=C2=A0 </span>A rigor, dever=C3=ADamos
+nela entrar descal=C3=A7os =E2=80=94 como se faz na inicia=C3=A7=C3=A3o ou =
+como procedem os mu=C3=A7ulmanos
+quando entram na Mesquita: deixar de fora os cal=C3=A7ados =C3=A9 deixar a =
+=E2=80=9Csujeira=E2=80=9D do
+mundo profano, de modo a n=C3=A3o contaminar o lugar sagrado.</font></span>=
+</p><font color=3D"#000000" face=3D"Times New Roman" size=3D"3">
+
+</font><p style=3D"margin:0cm 0cm 10pt;text-align:justify"><span style=3D"l=
+ine-height:115%;font-family:&quot;Arial&quot;,sans-serif;font-size:12pt"><f=
+ont color=3D"#000000">Deus,
+ao interpelar Mois=C3=A9s, do meio da sar=C3=A7a ardente, disse:</font></sp=
+an></p><font color=3D"#000000" face=3D"Times New Roman" size=3D"3">
+
+</font><p style=3D"margin:0cm 0cm 10pt;text-align:justify"><span style=3D"l=
+ine-height:115%;font-family:&quot;Arial&quot;,sans-serif;font-size:12pt"><f=
+ont color=3D"#000000">=E2=80=9CN=C3=A3o
+te chegues para c=C3=A1; tira as sand=C3=A1lias dos p=C3=A9s, porque o luga=
+r em que est=C3=A1s =C3=A9
+terra santa.=E2=80=9D exodo, 3:1.)</font></span></p><font color=3D"#000000"=
+ face=3D"Times New Roman" size=3D"3">
+
+</font><p style=3D"margin:0cm 0cm 10pt;text-align:justify"><span style=3D"l=
+ine-height:115%;font-family:&quot;Arial&quot;,sans-serif;font-size:12pt"><f=
+ont color=3D"#000000">=C3=89
+preciso que cada Irm=C3=A3o se compenetre da sacralidade do Templo e da Loj=
+a.</font></span></p><font color=3D"#000000" face=3D"Times New Roman" size=
+=3D"3">
+
+</font><p style=3D"margin:0cm 0cm 10pt;text-align:justify"><span style=3D"l=
+ine-height:115%;font-family:&quot;Arial&quot;,sans-serif;font-size:12pt"><f=
+ont color=3D"#000000"><span>=C2=A0</span>=E2=80=9CPor todos estes motivos =
+=C3=A9 que devemos, quando
+dentro do nosso Templo, em Loja, lembrarmo-nos de agir segundo estas premis=
+sas,
+ou seja: falar com voz baixa (murmurar); mover-se com suavidade; manter pos=
+tura
+h=C3=ADgida e condizente; evitar pensamentos e palavras que possam desviar-=
+nos da
+reta raz=C3=A3o e, principalmente, n=C3=A3o esquecer que devemos estar aten=
+tos e
+compenetrados de que aqui se realiza uma CELEBRA=C3=87=C3=83O, oficiada pel=
+o hierofante,
+que =C3=A9 o nosso Vener=C3=A1vel Mestre, de quem somos presb=C3=ADteros-ac=
+=C3=B3litos=E2=80=9D. (p=C3=A1g. 23).</font></span></p><font color=3D"#0000=
+00" face=3D"Times New Roman" size=3D"3">
+
+</font><p style=3D"margin:0cm 0cm 10pt;text-align:justify"><span style=3D"l=
+ine-height:115%;font-family:&quot;Arial&quot;,sans-serif;font-size:12pt"><f=
+ont color=3D"#000000">J=C3=A1
+se v=C3=AA que n=C3=A3o h=C3=A1 lugar para gracejos, falas que n=C3=A3o sej=
+am absolutamente
+necess=C3=A1rias e posturas incorretas de se assentar (v.g.: pernas cruzada=
+s ou
+espichadas para frente ou recolhidas para tr=C3=A1s.) Ou seja: tudo que nos=
+ afaste
+da un=C3=A7=C3=A3o que devemos manter.</font></span></p><font color=3D"#000=
+000" face=3D"Times New Roman" size=3D"3">
+
+</font><p style=3D"margin:0cm 0cm 10pt;text-align:justify"><span style=3D"l=
+ine-height:115%;font-family:&quot;Arial&quot;,sans-serif;font-size:12pt"><f=
+ont color=3D"#000000">O
+sil=C3=AAncio dos Irm=C3=A3os =C3=A9 t=C3=A3o importante quanto o que se di=
+sse retro: da=C3=AD a regra
+de os Aprendizes e Companheiros n=C3=A3o usar da palavra, salvo circunst=C3=
+=A2ncias
+especiais e autorizado pelo Vener=C3=A1vel (ex.: apresentar trabalho; contr=
+aindicar
+candidato por s=C3=A9rios motivos e pouco mais.)</font></span></p><font col=
+or=3D"#000000" face=3D"Times New Roman" size=3D"3">
+
+</font><p style=3D"margin:0cm 0cm 10pt;text-align:justify"><span style=3D"l=
+ine-height:115%;font-family:&quot;Arial&quot;,sans-serif;font-size:12pt"><f=
+ont color=3D"#000000">O
+Ritual, como lembra J.P. Bayard, propicia que o Irm=C3=A3o se concentre e q=
+ue rompa
+com o mundo profano. Para estar em Loja =C3=A9 preciso que se =E2=80=9Capag=
+ue no Irm=C3=A3o o
+barulho da rua=E2=80=9D.</font></span></p><font color=3D"#000000" face=3D"T=
+imes New Roman" size=3D"3">
+
+</font><p style=3D"margin:0cm 0cm 10pt;text-align:justify"><span style=3D"l=
+ine-height:115%;font-family:&quot;Arial&quot;,sans-serif;font-size:12pt"><f=
+ont color=3D"#000000">A
+concentra=C3=A7=C3=A3o na sala dos Passos Perdidos =C3=A9 vital para que, q=
+uando se forme o
+cortejo, todos, sem exce=C3=A7=C3=A3o, estejam harmonizados e imbu=C3=ADdos=
+ da conduta
+ma=C3=A7=C3=B4nica adequada.</font></span></p><font color=3D"#000000" face=
+=3D"Times New Roman" size=3D"3">
+
+</font><p style=3D"margin:0cm 0cm 10pt;text-align:justify"><span style=3D"l=
+ine-height:115%;font-family:&quot;Arial&quot;,sans-serif;font-size:12pt"><f=
+ont color=3D"#000000">Esta
+=C3=A9 a receita para uma boa Sess=C3=A3o Ma=C3=A7=C3=B4nica.</font></span>=
+</p><font color=3D"#000000" face=3D"Times New Roman" size=3D"3">
+
+</font><p style=3D"margin:0cm 0cm 10pt;text-align:justify"><span style=3D"l=
+ine-height:115%;font-family:&quot;Arial&quot;,sans-serif;font-size:12pt"><f=
+ont color=3D"#000000">=C2=A0</font></span></p><font color=3D"#000000" face=
+=3D"Times New Roman" size=3D"3">
+
+</font><p style=3D"margin:0cm 0cm 10pt;text-align:justify"><b><span style=
+=3D"line-height:115%;font-family:&quot;Arial&quot;,sans-serif;font-size:16p=
+t"><font color=3D"#000000">POA, 13/03/2009.</font></span></b></p><font colo=
+r=3D"#000000" face=3D"Times New Roman" size=3D"3">
+
+</font></div><div><br></div><div>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</div><div c=
+lass=3D"gmail_extra"><br clear=3D"all"><div><div class=3D"gmail_signature">=
+<div dir=3D"ltr"><div><br></div><div>Grande TFAbra=C3=A7o4,</div><div><br><=
+/div><div>Que haja paz.</div><div><br></div><div><br></div><div>Antonio Car=
+los<br></div><div><br></div><div><div align=3D"left"><div align=3D"left"></=
+div><div align=3D"left"><img style=3D"font-family: arial; font-size: small;=
+" alt=3D"Imagem inline 1" src=3D"https://mail.google.com/mail/u/0/?ui=3D2&a=
+mp;ik=3Db129208e7f&amp;view=3Datt&amp;th=3D13f336f8d3642e01&amp;attid=3D0.2=
+&amp;disp=3Dsafe&amp;realattid=3Dii_13f336e7249c05c2&amp;zw"><font face=3D"=
+arial"><i style=3D"color:rgb(255,0,0)">=C2=A0=C2=A0*</i></font><i style=3D"=
+color:rgb(255,0,0);font-family:arial">=C2=A0<u>Ao encaminhar esta msg fa=C3=
+=A7a-o utilizando C=C3=B3pia Oculta (CCO ou BCC) e,</u></i></div><div align=
+=3D"left"><font face=3D"arial"><i style=3D"color:rgb(255,0,0)"><b>=C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <u>por favor, APAGUE meu e=
+ndere=C3=A7o eletr=C3=B4nico.</u></b></i></font></div><div align=3D"left"><=
+i style=3D"color:rgb(255,0,0)"><font face=3D"arial">=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 Vamos combater o SPAM.</font></i><font f=
+ace=3D"arial"><i style=3D"color:rgb(255,0,0)">=C2=A0</i></font></div></div>=
+<div align=3D"left"><font face=3D"arial"></font><font face=3D"arial, helvet=
+ica, sans-serif"><i> </i></font></div><div align=3D"left"><font color=3D"#6=
+0bf00" face=3D"arial"><i><font color=3D"#009900" face=3D"Webdings" size=3D"=
+6">P</font>=C2=A0 =C2=A0 =C2=A0 * Vai imprimir? Vc precisa mesmo fazer isso=
+???</i></font></div><div align=3D"left"><i><font color=3D"#60bf00" face=3D"=
+arial">=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 Reduzir o co=
+nsumo de </font><font color=3D"#60bf00" face=3D"arial">papel ajuda a conser=
+var nossas matas.</font></i></div><div align=3D"left"><font color=3D"#60bf0=
+0" face=3D"arial"><i>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 Pense no meio ambiente.</i></font></div></div></div></div></div>
+<br><div class=3D"gmail_quote">2015-03-01 15:47 GMT-03:00 helioamandara <sp=
+an dir=3D"ltr">&lt;<a href=3D"mailto:helioamandara@uol.com.br" target=3D"_b=
+lank">helioamandara@uol.com.br</a>&gt;</span>:<br><blockquote class=3D"gmai=
+l_quote" style=3D"margin:0px 0px 0px 0.8ex;padding-left:1ex;border-left-col=
+or:rgb(204,204,204);border-left-width:1px;border-left-style:solid"><div>Tes=
+te<br> <br><br></div>
+<hr style=3D"border-top-color:rgb(204,204,204);border-top-width:1px;border-=
+top-style:solid">
+<div><br><strong>De:</strong> <a href=3D"mailto:mmtesta@uol.com.br" target=
+=3D"_blank">mmtesta@uol.com.br</a><br><strong>Enviada:</strong> Domingo, 1 =
+de Mar=C3=A7o de 2015 12:24<br><strong>Para:</strong> <a href=3D"mailto:mar=
+cuswelbi@crivodarazao.org.br" target=3D"_blank">marcuswelbi@crivodarazao.or=
+g.br</a><br><strong>Assunto:</strong> Teste<br><br></div><div class=3D"HOEn=
+Zb"><div class=3D"h5">
+<div><span style=3D"text-decoration:underline"><em><strong><span style=3D"f=
+ont-size:xx-large">TESTAdo...</span></strong></em></span><br> <br><br></div=
+>
+<hr style=3D"border-top-color:rgb(204,204,204);border-top-width:1px;border-=
+top-style:solid">
+<div><br><strong>De:</strong> <a href=3D"mailto:marcuswelbi@crivodarazao.or=
+g.br" target=3D"_blank">marcuswelbi@crivodarazao.org.br</a><br><strong>Envi=
+ada:</strong> S=C3=A1bado, 28 de Fevereiro de 2015 20:53<br><strong>Para:</=
+strong> <a href=3D"mailto:chancelaria@crivodarazao.org.br" target=3D"_blank=
+">chancelaria@crivodarazao.org.br</a>,<a href=3D"mailto:xandedias.castro@gm=
+ail.com" target=3D"_blank">xandedias.castro@gmail.com</a>,<a href=3D"mailto=
+:ma.finardi@hotmail.com" target=3D"_blank">ma.finardi@hotmail.com</a>,<a hr=
+ef=3D"mailto:dino.abf@gmail.com" target=3D"_blank">dino.abf@gmail.com</a>,<=
+a href=3D"mailto:flavio@crivodarazao.org.br" target=3D"_blank">flavio@crivo=
+darazao.org.br</a>,<a href=3D"mailto:josedonisetiluiz@yahoo.com.br" target=
+=3D"_blank">josedonisetiluiz@yahoo.com.br</a>,<a href=3D"mailto:oswaldosant=
+osjunior@gmail.com" target=3D"_blank">oswaldosantosjunior@gmail.com</a>,<a =
+href=3D"mailto:enedino@crivodarazao.org.br" target=3D"_blank">enedino@crivo=
+darazao.org.br</a>,<a href=3D"mailto:crivodarazao@crivodarazao.org.br" targ=
+et=3D"_blank">crivodarazao@crivodarazao.org.br</a>,<a href=3D"mailto:ackack=
+1969@yahoo.com.br" target=3D"_blank">ackack1969@yahoo.com.br</a>,<a href=3D=
+"mailto:carlos.rossetti@uol.com.br" target=3D"_blank">carlos.rossetti@uol.c=
+om.br</a>,<a href=3D"mailto:arsenio.p.lopes@gmail.com" target=3D"_blank">ar=
+senio.p.lopes@gmail.com</a>,<a href=3D"mailto:valdes@uol.com.br" target=3D"=
+_blank">valdes@uol.com.br</a>,<a href=3D"mailto:gambetti@gambetti.com.br" t=
+arget=3D"_blank">gambetti@gambetti.com.br</a>,<a href=3D"mailto:ronaldozabe=
+u@terra.com.br" target=3D"_blank">ronaldozabeu@terra.com.br</a>,<a href=3D"=
+mailto:mmtesta@uol.com.br" target=3D"_blank">mmtesta@uol.com.br</a>,<a href=
+=3D"mailto:dejair.bianchi@uol.com.br" target=3D"_blank">dejair.bianchi@uol.=
+com.br</a>,<a href=3D"mailto:ttturi@terra.com.br" target=3D"_blank">ttturi@=
+terra.com.br</a>,<a href=3D"mailto:w.caldana@uol.com.br" target=3D"_blank">=
+w.caldana@uol.com.br</a>,<a href=3D"mailto:fallcar@hotmail.com" target=3D"_=
+blank">fallcar@hotmail.com</a>,<a href=3D"mailto:benedito.flaminio@claro.co=
+m.br" target=3D"_blank">benedito.flaminio@claro.com.br</a>,<a href=3D"mailt=
+o:luiz_ma@hotmail.com" target=3D"_blank">luiz_ma@hotmail.com</a>,<a href=3D=
+"mailto:Jairo@rooftec.com.br" target=3D"_blank">Jairo@rooftec.com.br</a>,<a=
+ href=3D"mailto:helioamandara@uol.com.br" target=3D"_blank">helioamandara@u=
+ol.com.br</a>,<a href=3D"mailto:marckopat@live.com" target=3D"_blank">marck=
+opat@live.com</a>,<a href=3D"mailto:ncosta@usa.com" target=3D"_blank">ncost=
+a@usa.com</a>,<a href=3D"mailto:titoss@ig.com.br" target=3D"_blank">titoss@=
+ig.com.br</a>,<a href=3D"mailto:tmello@demello.net.br" target=3D"_blank">tm=
+ello@demello.net.br</a>,<a href=3D"mailto:wladsmozz@hotmail.com" target=3D"=
+_blank">wladsmozz@hotmail.com</a>,<a href=3D"mailto:fabricio@crivodarazao.o=
+rg.br" target=3D"_blank">fabricio@crivodarazao.org.br</a>,<a href=3D"mailto=
+:rogerio@crivodarazao.org.br" target=3D"_blank">rogerio@crivodarazao.org.br=
+</a>,<a href=3D"mailto:douglas.klein@gmail.com" target=3D"_blank">douglas.k=
+lein@gmail.com</a>,<a href=3D"mailto:marco@digitalfotoimagem.com.br" target=
+=3D"_blank">marco@digitalfotoimagem.com.br</a>,<a href=3D"mailto:gilbertoda=
+nte@hotmail.com" target=3D"_blank">gilbertodante@hotmail.com</a>,<a href=3D=
+"mailto:ecobom@ig.com.br" target=3D"_blank">ecobom@ig.com.br</a><br><strong=
+>Assunto:</strong> Teste<br><br></div>
+<div></div>
+
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:rgb(31,73,125);font-family:&quo=
+t;Calibri&quot;,&quot;sans-serif&quot;;font-size:11pt">=C2=A0</span></p>
+</div>
+</div>
+<div>=C2=A0</div>
+<div>=C2=A0</div></div></div></blockquote></div><br></div></div>
+
+--047d7b33dbd638c43d05109e100f--

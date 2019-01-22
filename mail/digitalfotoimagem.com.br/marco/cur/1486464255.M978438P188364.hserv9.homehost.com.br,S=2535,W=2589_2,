@@ -1,0 +1,54 @@
+Return-Path: <cobranca@homehost.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id oaUOOP+kmVjM3wIAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Tue, 07 Feb 2017 08:44:15 -0200
+Return-path: <cobranca@homehost.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 07 Feb 2017 08:44:15 -0200
+Received: from mailalt.homehost.com.br ([177.85.98.241]:35910)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <cobranca@homehost.com.br>)
+	id 1cb3Fv-000o77-Rv
+	for marco@digitalfotoimagem.com.br; Tue, 07 Feb 2017 08:44:15 -0200
+Received: from teste.homehost.com.br (www.homehost.com.br [177.184.2.204])
+	(using TLSv1.2 with cipher DHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by mailalt.homehost.com.br (Postfix) with ESMTPS id C91305442C31
+	for <marco@digitalfotoimagem.com.br>; Tue,  7 Feb 2017 08:42:33 -0200 (BRST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=homehost.com.br;
+	s=defaultkey; t=1486464154;
+	bh=gvztNp1zTSn35ZKNsRQ3SYXYADnU0eO2RbwuMhvVu6A=;
+	h=Date:To:From:Subject;
+	b=IMxGJzjHTHNCJaTnYU8TaKCy8ps+zL0gNvwLatqrypNzeoyE6nNg+QJQmtRqxneCI
+	 AWNVK04jvmRq06Gkgs9cK67/jrAT41IY2MiECZGOW55MHSGDBCHHN4vGWwniAXCGJa
+	 fd1y27sTTll0W3/sEXu49heDzEOBmte1ajjl525M=
+Date: Tue, 7 Feb 2017 08:44:10 -0200
+To: marco@digitalfotoimagem.com.br
+From: Homehost <cobranca@homehost.com.br>
+Subject: Renovacao anual do dominio: WWW.LERMELHOR.COM.BR
+Message-ID: <72653af8205ce3713dee693aade06e6c@teste.homehost.com.br>
+X-Mailer: PHPMailer 5.2.15 (https://github.com/PHPMailer/PHPMailer)
+Feedback-ID: indefinido:16744:Homehost
+MIME-Version: 1.0
+Content-Type: text/plain; charset=windows-1250
+Content-Transfer-Encoding: 8bit
+
+Marco,
+				
+				Segue sua fatura referente à renovação anual do registro do domínio WWW.LERMELHOR.COM.BR  , com expiração em 03/2017.
+				
+				ATENÇÃO: Recomendamos máxima urgência para o pagamento desta fatura. Segundo resolução da Internic e Fapesp, entidades reguladoras de registro de domínios, caso esta fatura não seja paga dentro do vencimento, este dominio ficará sujeito a remoção definitiva.
+		
+				Para gerar o boleto bancário, acesse o link abaixo:
+
+http://www.homehost.com.br/boleto/b_mail_renovacao_extra.php?id=4016213&p=29974486
+
+Obs: caso você não consiga visualizar a fatura, copie e cole a linha a cima em seu navegador.
+
+Atenciosamente,
+Homehost - Departamento Técnico
+http://www.homehost.com.br
+
+

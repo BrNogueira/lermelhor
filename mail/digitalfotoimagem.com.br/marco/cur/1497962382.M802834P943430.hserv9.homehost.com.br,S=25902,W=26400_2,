@@ -1,0 +1,498 @@
+Return-Path: <mailer@infusionmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id mTVhK44XSVlGZQ4AY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Tue, 20 Jun 2017 09:39:42 -0300
+Return-path: <mailer@infusionmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 20 Jun 2017 09:39:42 -0300
+Received: from mta-c-24-64.infusionmail.com ([208.76.24.64]:61085)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <mailer@infusionmail.com>)
+	id 1dNIRa-003z1p-DB
+	for marco@digitalfotoimagem.com.br; Tue, 20 Jun 2017 09:39:42 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=joaopaulopereira.com.br; s=dfe90749-152e-4612-a458-816e7e1cfef0;
+	t=1497962338; i=@joaopaulopereira.com.br;
+	bh=fATwKQ4zgDVdvITOXSJXFZrt23k=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	b=TMYxp9h/tRFQ7rQU8OiuZi4E2EWxN1++D37+Osyg7gp8B7ryvB2I4X5LWxGgXEC1P
+	 GO5SHwhEkpqiE1UX+u/K3OyClBSh2KPxDlBhDnipjC4wuncvQ3cCfQzfD9pX2/x0PD
+	 839fqqO9ysmRazawNnzYUYSw7UYJSCcnw1/uqPzg=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=infusionmail.com;
+	s=dkim1024; t=1497962338; i=@infusionmail.com;
+	bh=fATwKQ4zgDVdvITOXSJXFZrt23k=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	b=t49pI1HbQ3gLwZhx4TdxIHlx7/b+5nMKoOpsoTohwOvA2w98aRU7emmZKpnFdgnCf
+	 4BbKykRe/6A54UYCjF9c7vO93YHWVvjiWUMrITrstWpq45rCoYWapqdU5B8xXAdlcS
+	 A0UUiWxvaJwfkEbX2Apbd62Z33xqJJN9f6i9TAZY=
+Received: from [10.0.0.229] ([10.0.0.229:36204] helo=chase)
+	by phxme4 (envelope-from <mailer@infusionmail.com>)
+	(ecelerity 3.6.12.50134 r(Core:3.6.12.0)) with ESMTP
+	id 83/20-07049-26719495; Tue, 20 Jun 2017 08:38:58 -0400
+Date: Tue, 20 Jun 2017 08:38:57 -0400 (EDT)
+From: =?utf-8?Q?Jo=C3=A3o_Paulo_Pereira?= <suporte@joaopaulopereira.com.br>
+To: marco@digitalfotoimagem.com.br
+Message-ID: <958730933.1222491497962337585.JavaMail.tomcat@chase>
+Subject: [ERRATA] Eu errei, me desculpa...
+Errors-To: mailer@infusionmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_122429_737218312.1497962337584"
+X-MailSentId: 121446
+X-campaignid: infusion_fz253121446
+Feedback-ID: fz253:fz253_21310:primer
+X-BatchId: 21310
+X-InfApp: fz253
+X-InfContact: 253144
+X-InfSent: 8944072
+X-inf-QETT: 0
+X-inf-package: primer
+X-inf-uflags: UE
+X-inf-iflags: UE
+List-Unsubscribe: <https://fz253.infusionsoft.com/app/optOut/noConfirm/8944072/1d91b5f0a63592d5>
+X-inf-dkimSelector: dfe90749-152e-4612-a458-816e7e1cfef0
+X-Message-Id: 83/20-07049-26719495
+
+------=_Part_122429_737218312.1497962337584
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+This email was sent as HTML-only. To view it, please visit:
+https://fz253.infusionsoft.com/app/hostedEmail/8944072/1d91b5f0a63592d5
+------=_Part_122429_737218312.1497962337584
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--><title></title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700italic,700|Open+Sans:400,400italic,700,700italic|Lato:400,400italic,700,700italic);
+</style>
+<style type="text/css">
+#outlook a {padding: 0;}
+.ReadMsgBody, .ExternalClass {width: 100%;}
+.ExternalClass * {line-height: 100%;}
+body { background-color: #ffffff; margin: 0; padding: 0;
+-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+table, td { border-collapse:collapse;
+mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+img { border: 0; height: auto; line-height: 100%;
+outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; }
+.column {display: inline-block; width: 100%;
+text-align: left; vertical-align: top; }
+@media only screen and (min-width:480px) {
+.column-100, * [aria-labelledby='column-100'] {
+width: 100% !important; display: inline-block;
+text-align: left; vertical-align: top; }
+.column-50, * [aria-labelledby='column-50'] {
+width: 50% !important; display: inline-block;
+text-align: left; vertical-align: top; }
+.column-33, * [aria-labelledby='column-33'] {
+width: 33% !important; display: inline-block;
+text-align: left; vertical-align: top; }}
+@media only screen and (max-width:479px) {
+.socialBlock, td.imageBlock, .buttonBlock,
+.alignmentContainer { text-align: center !important }
+.alignmentContainer table { margin-right: auto;
+margin-left: auto;}}
+</style>
+</head>
+<body style="background:#ffffff">
+<div style="background:#ffffff">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif;
+ font-size: 15px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+Olá, João Paulo Pereira aqui.
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Hoje mais cedo eu enviei um email com uma <i class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;"><b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">informação errada</b></i>. <i class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;"><b class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">Eu quero te pedir desculpas por isso… </b></i>
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+A informação era
+ relativa ao valor de inscrição do Treinamento Projeto Empreendedor Digital de Sucesso, o valor promocional de hoje, com todos os bônus é de R$ 298,00 e não R$ 198,00 como está no email de hoje mais cedo. 
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Como uma forma de compensar esse erro, se você fizer a inscrição hoje no Treinamento Projeto Empreendedor Digital de Sucesso por apenas R$ 298,00 ou 12x R$ 29,03, eu vou te dar 30 minutos de consultoria em grupo na próxima semana. 
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+ Só essa consultoria em grupo eu cobro R$ 3.500, e você pode ganhar hoje esse bônus. Mas apenas hoje! 
+<br />
+</p><p class="bard-text-block style-scope" style="color:
+ rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Abaixo segue o email completo e corrigido…
+</p><p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+===========================
+</p><p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Trago uma boa e uma má notícia para você.
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+A má é que o curso Projeto Empreendedor Digital de Sucesso encerra amanhã as vagas.
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Portanto, se você deseja mesmo mudar de vida, construir um negócio sólido na internet e ganhar de R$5 mil à R$10 mil livres na internet, você PRECISA agir rápido.
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px;
+ padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<a href="https://fz253.infusionsoft.com/app/linkClick/15656/4abd126349f99c4f/8944072/1d91b5f0a63592d5" class="bard-text-block style-scope" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;" target="_blank">&gt;&gt;&gt; Eu quero ganhar de R$5 mil a R$10 mil por mês na internet.</a>
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+A boa é que o Projeto Empreendedor Digital de Sucesso está com um preço promocional.
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<b class="bard-text-block style-scope" style="color: rgb(202, 13, 20); padding: 0px; margin: 0px; line-height: 1.6;">O curso tem o valor de R$ 1.000,00 e por apenas R$ 298,00 você terá a oportunidade de ganhar de R$5 mil a R$15 mil por
+ mês.</b>
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Além de você aprender todas as melhores estratégias para vender infoprodutos em qualquer nicho na internet. do zero e passo a passo, você ainda ganha bônus que vão ajudar a alavancar as suas vendas, inclusive como afiliado. 
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Veja abaixo tudo o que você ganha se inscrevendo para o Projeto Empreendedor Digital de Sucesso:
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Bônus #1 –[Mini Curso] Expert WP - Tiago Rodrigues
+</p><ul class="bard-text-block
+ style-scope" style="padding: 0px 0px 0px 40px; margin-top: 16px; margin-right: 0px; margin-bottom: 16px; margin-left: initial; line-height: 1.6; font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; color: rgb(52, 52, 52);">
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+O que é WordPress
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Registrando um domínio
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Contratando um servidor
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Registrando e configurando um domínio
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Instalando o WP usando Fantástico
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Instalando o WP manualmente
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Temas para WP
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Temas Pagos - Vantagens e Desvantagens
+</li>
+</ul>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Bônus #2 – [Mini Curso] SEO Na Prática - Vicente Sampaio
+</p><ul class="bard-text-block style-scope" style="padding: 0px 0px 0px 40px; margin-top: 16px; margin-right: 0px; margin-bottom: 16px; margin-left: initial; line-height: 1.6; font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; color: rgb(52, 52, 52);">
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+O que é SEO
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Linkagem Interna
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Sinais Sociais
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Construção de Links (link building) 
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Otimização Interna (On Page)
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Pesquisa de Palavras-chave pt.1
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Pesquisa de Palavras-chave pt.2
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Melhorando o CTR
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Análise de Concorrência 
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Acompanhamento de Dados
+</li>
+</ul>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Bônus #3 – [Mini Curso] Tráfego Qualificado Massivo - João Paulo Pereira
+</p><ul class="bard-text-block style-scope" style="padding: 0px 0px 0px 40px; margin-top: 16px; margin-right: 0px; margin-bottom: 16px; margin-left: initial; line-height: 1.6; font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; color: rgb(52, 52, 52);">
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Módulo 1 - Base e Planejamento
+</li>
+<li style="padding: 0px;
+ margin: 0px; line-height: 1.6;">
+Módulo 2 - Ferramentas do Anunciante
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Módulo 3 - Remarketing
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Remarketing
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Power Editor
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Escalando suas campanhas
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Tráfego Massivo personalizado para o Projeto Empreendedor Digital de Sucesso
+</li>
+</ul>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Bônus #4 - [Mini Curso] Afiliado de Sucesso - João Paulo Pereira
+</p><ol class="bard-text-block style-scope" style="padding: 0px 0px 0px 40px; margin-top: 16px; margin-right: 0px; margin-bottom: 16px; margin-left: initial; line-height: 1.6; font-family: 'Trebuchet
+ MS',Helvetica,sans-serif; font-size: 15px; color: rgb(52, 52, 52);">
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+O que você escolhe primeiro, público ou produto?
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Defina o seu Objetivo de Faturamento - Renda Extra ou Negócio
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Os 3 Melhores Nichos para Trabalhar
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Planejamento Profissional - Trabalhe com vários produtos em um só nicho
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Estrutura - O seu Vendedor 24h
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Criando Páginas no Facebook - Os Dois Modelos mais eficientes
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Ferramentas que eu Recomendo
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Plano de Contingência
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Como Aplicar a
+ Estratégia do PEDS para Afiliados
+</li>
+</ol>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Bônus #5 - [Mini Curso] Emails que vendem - João Paulo Pereira
+</p><ol class="bard-text-block style-scope" style="padding: 0px 0px 0px 40px; margin-top: 16px; margin-right: 0px; margin-bottom: 16px; margin-left: initial; line-height: 1.6; font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; color: rgb(52, 52, 52);">
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+Visão Geral
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+E-mails para Segmentação
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+E-mails para Engajamento
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+E-mails para Aula Ao Vivo
+</li>
+<li style="padding: 0px; margin: 0px; line-height: 1.6;">
+E-mails para Venda
+</li>
+</ol>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Essa é a sua chance de se inscrever em cursos que não levam você a lugar algum e ter um negócio sólido na internet que te renda de R$5mil à R$15mil por mês.
+</p>
+<h2 class="bard-text-block style-scope" style="color: rgb(56, 56, 56); font-family: Helvetica,Arial,sans-serif; font-size: 18px; padding: 0px; margin: 15px 0px; line-height: 1.6; font-weight: bold;">
+<a href="https://fz253.infusionsoft.com/app/linkClick/15654/1055f9dc148fd8f7/8944072/1d91b5f0a63592d5" class="bard-text-block style-scope" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;" target="_blank">&gt;&gt;&gt; Se inscreva agora mesmo!</a> 
+</h2><p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px 0px; line-height: 1.6;">
+<br />
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if
+ mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet
+ MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+Um grande abraço,
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+João Paulo Pereira 
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+www.joaopaulopereira.com.br
+<br />
+</p><p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+</p><p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+</p><p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px 0px; line-height: 1.6;">
+<br />
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 15px; text-align: left;" class="alignmentContainer">
+<div class="socialBlock" style="margin-right: auto;">
+<a href="https://www.facebook.com/joaopaulopereiraestevao/" target="_blank" style="border: 3.5px solid rgb(255, 255, 255);" border="3.5"><img src="https://javascript_library.s3.amazonaws.com/bard/ic-facebook.png" alt="Facebook" width="40" height="40" /></a><span style=""><!--[if mso]><v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" stroked="false" filled="f" style="width:1;height:1"></v:rect><![endif]--> </span><a href="https://www.youtube.com/user/jppejppe/?sub_confirmation=1" target="_blank" style="border: 3.5px solid rgb(255, 255, 255);" border="3.5"><img src="https://javascript_library.s3.amazonaws.com/bard/ic-youtube.png" alt="YouTube" width="40" height="40" /></a><span style=""><!--[if mso]><v:rect xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:w="urn:schemas-microsoft-com:office:word" stroked="false" filled="f" style="width:1;height:1"></v:rect><![endif]--> </span><a href="https://www.instagram.com/joaopaulo.pereiraoficial/" target="_blank" style="border: 3.5px solid rgb(255, 255, 255);" border="3.5"><img src="https://javascript_library.s3.amazonaws.com/bard/ic-instagram-2.png" alt="Instagram" width="40" height="40" /></a>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]><table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]><table border="0"
+ cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 15px; text-align: left;" class="alignmentContainer">
+<div style="margin-left: auto; margin-right: auto;">
+<p style="font-family: 'Trebuchet MS',Helvetica,sans-serif; padding: 0px; margin: 0px 0px 13px; line-height: 1.6; color: rgb(153, 153, 153); font-size: 11px;">
+<a href="https://fz253.infusionsoft.com/app/linkClick/15652/1bf39feb152f0d51/8944072/1d91b5f0a63592d5" target="_blank" style="text-decoration: underline; padding: 0px; margin: 0px; line-height: 1.6; color: rgb(153, 153, 153);">Sair da Lista</a>
+</p>
+<p style="font-family: 'Trebuchet MS',Helvetica,sans-serif; padding: 0px; margin: 13px 0px 0px; line-height: 1.6; color: rgb(153, 153, 153); font-size: 11px;">
+João Paulo Pereira Rua Benedito Valadares Pará de Minas, Minas Gerais 35660000 Brazil
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if
+ mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]-->
+</div>
+<img height="1" width="1" style="display: block;" src="https://fz253.infusionsoft.com/app/emailOpened/8944072/21310"></body>
+</html>
+------=_Part_122429_737218312.1497962337584--
+

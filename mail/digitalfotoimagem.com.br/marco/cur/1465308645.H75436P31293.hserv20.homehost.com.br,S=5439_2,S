@@ -1,0 +1,93 @@
+Return-path: <>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 07 Jun 2016 11:10:45 -0300
+Received: from nm23-vm5.bullet.mail.gq1.yahoo.com ([98.136.217.84]:54385)
+	by hserv20.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	id 1bAHiO-0007uQ-JO
+	for marco@digitalfotoimagem.com.br; Tue, 07 Jun 2016 11:10:44 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com.br; s=s2048; t=1465308599; bh=W1394Bv4TiESnV05VVlrTBg7JCZSrvw8f1yXPaVwXnI=; h=Date:From:To:Subject:From:Subject; b=CCtocjGrlp3P57fmIrmnJJ5JI42myrKgZh3FrBENzoczfN1dNHFPda0QyWKrpLn2cdI3QJ05QGeCPIu6TXXogNVoNyPAjIpiwnNXRsNxo68Ziq3lmYO8dJLZ98n9ewicd/l8GGTfDMu7uN8gqsiFDK5u9/7j0is1ZYMiA14L+Fjvo3RPEUDr7+nQSUIvhBJMtmWPi5GuTi1StZnZxAuIUJItbHTm24M56S//ZLZ3EJgoPsdB9EMKlgXPXcSc2zGEFNb0IsiFxv90xEu43Mptoh7/k6CZPaYu3r4uTCIrwXZ1xFrZx3LbX0DRX8NSJRu27VeJRTHlHByXOKG07X6dag==
+Received: from [98.137.12.175] by nm23.bullet.mail.gq1.yahoo.com with NNFMP; 07 Jun 2016 14:09:59 -0000
+Received: from [98.137.12.244] by tm14.bullet.mail.gq1.yahoo.com with NNFMP; 07 Jun 2016 14:09:59 -0000
+Received: from [127.0.0.1] by omp1052.mail.gq1.yahoo.com with NNFMP; 07 Jun 2016 14:09:59 -0000
+X-Yahoo-Newman-Property: ymail-5
+X-Yahoo-Newman-Id: 770321.75082.bm@omp1052.mail.gq1.yahoo.com
+Message-ID: <770321.75082.bm@omp1052.mail.gq1.yahoo.com>
+Date: Tue, 7 Jun 2016 14:09:59 +0000 (UTC)
+X-RocketTIP: 177.85.103.56 ; NO_TIP_HEADER_ALLOWED ; 
+X-RocketSRV: s_ip=177.85.103.56;d_t=1465308597;Retro=Y;SgrnP=N;FolderOfDelivery=                    ;msgid=1465308596.446708.24209@mta1180.mail.gq1.yahoo.com#0;
+From: MAILER-DAEMON@yahoo.com.br
+To: marco@digitalfotoimagem.com.br
+X-Loop: MAILER-DAEMON@yahoo.com.br
+Subject: Delivery failure
+
+Message from yahoo.com.br.
+Unable to deliver message to the following address(es).
+
+<monigreey@yahoo.com.br>:
+This user doesn't have a yahoo.com.br account (monigreey@yahoo.com.br) [0]
+
+--- Original message follows.
+
+The original message is over 5K. Message truncated.
+
+Return-Path: <marco@digitalfotoimagem.com.br>
+Received-SPF: softfail (transitioning domain of digitalfotoimagem.com.br does not designate 177.85.103.56 as permitted sender)
+X-YMailISG: 5.mcXecWLDvC..I8MiBluAbFxx87c.4tnLyNBEWJbftQ4FDC
+ Zwjqc5L4TfSasSOdPZp.EWaRBTyNwR39Escy_jeuw3U59U5LphRKjgtaiijm
+ IGvJ5vrxVLHUrRiFIoNuW9bpNGCCRhDNmeKrwi2mfmAGMPq.oy6EFTQJq41i
+ HtkmDFmWp3vO8H3dSFIPWN80lgCeDQLlcMjiIbty5vTKk1jE1xLAQyxu3qq5
+ X1THEnG7Q5DOhHiWrXwNy6hC1DAQhLGPM98sFbO27qGMNc5y.IvLfT9DKQG6
+ M_tXEjVK6lv0jD8Sf0hi0Y.7_SCqQZ.gUtcnwR30Sb.9GIqf8zJ_MWmJIY_Y
+ yPqq6cKdQSldA8GL0HpIg.Hs2_595WbySS6T870U21xTC4EWPPGjCqQuAsqf
+ ORRdK0Ko1CIs6lJDwWt3NblMOoMuafSGQCpCcaIA05ymNE7mNzrV4ZUgY7Fs
+ iOb9VyMcmo8AfGeg507vwVfuClUpustIqewbT3P84vkFf7LDTD6xdYSkVKzQ
+ ZOhxHFVoex2PANkiZQ7w2D9P7H94zbAND46apLS8pQoGPfAc25g0kubOE1kT
+ 6YX_Vd5UTqnEjQ7Gvg9PoAAKAoLZ5IRy9dCRD9MU5K.TzyxEsa1JtsdrpiIW
+ ivCju4xzrVgIi9RvzOJBiD9j52r6Fc_mfyOwSs79KV7cYNUL3dx.AEeD2dIw
+ 2bJrxROpVWJW5fSxbtuyfQLeTPYRNXHVLJWvBJeLA6c89.7eYQdQLqB9SeC4
+ uf9bLcADuno.1cdPGhwBk48GjneC5SOd_wTRW9lzWZAE.7e.fQoyqE0cISVj
+ oeZHEJGrahF4cfmnCPrfNN4d94eaBCa.Ise07WhPEMPRTIjsWcYW0Pjvwh7H
+ Jfe0YdQY7vqp3YxIyIrLp9cIaHCrY6KOUiBp7ErDLnkQ2rUp.MqNzFEqdPdo
+ TUPv39dhqhUjmKXFmFewiFXSkVmI1zjcxSK3DmCCfNVT_mXwe4RqhYADV4l4
+ Tvf39cd6qBTOkS2viCafEBDpjQoQX2Hh0lCNkmp5VMsT3nfcicsVgEuPiP9u
+ dwUbWFMP0L3YuIbNoGVbp2KG6jpfGo82_GTfPEhLWeJtcIKUUmtkK1s8fttK
+ akpN95ytVl4zm6MejWz32NSQYeCXmZnhXoGvM.JAxKhkcY2Qz1xBMEH5.yE0
+ v.nxpTSztpHML7wHf8.MyCzlcgV.UERZcnou4_Xt09ANZo88_Th41jgVfIiN
+ gDz749xMYxA3XIVDLd8ps0VgH6jmPil71iurhyl7lWJsW23dQTDPBRzEQSPn
+ 7xHJovl_8o63UBVqrNlCL3lJmNaOWYNAxAh3tPe3j7zXRc_AAPHvWRtgmiKk
+ 5GI-
+X-Originating-IP: [177.85.103.56]
+Authentication-Results: mta1180.mail.gq1.yahoo.com  from=digitalfotoimagem.com.br; domainkeys=neutral (no sig);  from=digitalfotoimagem.com.br; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO mail-alt1.h20.hserv.com.br) (177.85.103.56)
+  by mta1180.mail.gq1.yahoo.com with SMTPS; Tue, 07 Jun 2016 14:09:56 +0000
+Received: from hserv20h by hserv20.homehost.com.br with local (Exim 4.87)
+	(envelope-from <marco@digitalfotoimagem.com.br>)
+	id 1bAHhS-0007o9-2D; Tue, 07 Jun 2016 11:09:46 -0300
+To: <jpeducarecoord@gmail.com>
+Subject: =?UTF-8?Q?ALTERA=C3=87=C3=83O=20NA=20DATA=20DA=20PR=C3=93XIMA=20A?=  =?UTF-8?Q?ULA?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+Date: Tue, 07 Jun 2016 11:09:46 -0300
+From: marco@digitalfotoimagem.com.br
+Cc: Tais Cesario <taiscesariomend31@gmail.com>, <mayracosta@hotmail.com>,
+ Pedro Lui <n-atalee21@hotmail.com>, <peduardodominko@bol.com.br>,
+ <oliverana1960@bol.com.br>, <allancf82@hotmail.com>, =?UTF-8?Q?SIDNEA_?=
+ =?UTF-8?Q?DOS_SANTOS_LOUREN=C3=87O?= <sidnea2011@gmail.com>,
+ <rosemi_silva@ig.com.br>, "Ricardo M." <menega.surf@yahoo.com.br>,
+ <monigreey@yahoo.com.br>, <profmarlete@hotmail.com>,
+ <vivianeaguiar3788@gmail.com>, <lumemel@hotmail.com>, Raquel Rodrigues
+ <raquelcjsr@msn.com>, <douglasgomes4@hotmail.com>,
+ <andre.lsant@hotmail.com>, <simpatiatatacris@yahoo.com.br>,
+ <dantas7700@yahoo.com.br>, <cireia@ig.com.br>,
+ <historiadorapaula@ig.com.br>, Karen Aliete <karenaliete@hotmail.com>,
+ <adrianaresende@ig.com.br>, =?UTF-8?Q?Gra=C3=A7a_Lima?=
+ <gracinha2005@hotmail.com>, Robson Silva <robsonlslr00@gmail.com>, cleber
+ romanovas <kleber-bio@hotmail.com>, <sarinhaung@terra.com.br>, "Rebeca ..."
+ <rebecacarolinebrito@hotmail.com>, Fernanda Rodr
+*** MESSAGE TRUNCATED ***
+
+
+.

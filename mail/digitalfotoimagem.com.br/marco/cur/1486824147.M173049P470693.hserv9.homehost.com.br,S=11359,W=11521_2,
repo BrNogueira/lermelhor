@@ -1,0 +1,162 @@
+Return-Path: <msprvs1=17215U5LN6sUt=bounces-104971@bounces.videohero.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id 6Vt6BdMin1ilLgcAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Sat, 11 Feb 2017 12:42:27 -0200
+Return-path: <msprvs1=17215U5LN6sUt=bounces-104971@bounces.videohero.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sat, 11 Feb 2017 12:42:27 -0200
+Received: from mta113.spmta.com ([52.39.182.205]:36112)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <msprvs1=17215U5LN6sUt=bounces-104971@bounces.videohero.com.br>)
+	id 1ccYsc-001yVS-M5
+	for marco@digitalfotoimagem.com.br; Sat, 11 Feb 2017 12:42:26 -0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=videohero.com.br;
+	s=scph1216; t=1486824100; i=@videohero.com.br;
+	bh=OA/f7pKXtxXYl0f5sA9VTZSJSq52Hz0TsW+tKdnz9KA=;
+	h=Date:To:From:Reply-To:Subject:List-Unsubscribe:List-Id;
+	b=r3cp/8RZXzzQzMTiqK/VR68u/xzNla/xcSEMumPlaJlIqpUytWl8LU5WYu+fdE0MN
+	 l5QpWPjwv8Z1dSBz2G+4DFnuAnp0DNgm05HtdHZ3MuAWfCniT3rQ3OG3HjZlWW2Mx9
+	 gJ8hCEsUvvl3tMQZftHEQI6h/GDeq+AA/0HU+BBs=
+X-MSFBL: V+6EkfPGlp+Do8BwjuTDGUgILImfuUvd90Us6UG5Ipk=|eyJ0cmFuc21pc3Npb25
+	faWQiOiIxMjQ3MTE3MTI3Njg5ODM3NSIsInRlbXBsYXRlX3ZlcnNpb24iOiIwIiw
+	idGVtcGxhdGVfaWQiOiJzbXRwXzEyNDcxMTcxMjc2ODk4Mzc1Iiwic2VuZGluZ19
+	pcCI6IjUyLjM5LjE4Mi4yMDUiLCJyY3B0X21ldGEiOnsgfSwicmNwdF90YWdzIjp
+	bIF0sImIiOiJpcF81Mi4zOS4xODIuMjA1Iiwic3ViYWNjb3VudF9pZCI6IjAiLCJ
+	nIjoiYmdfZ2VuZXJhbF8yIiwiciI6Im1hcmNvQGRpZ2l0YWxmb3RvaW1hZ2VtLmN
+	vbS5iciIsImZyaWVuZGx5X2Zyb20iOiJ2aWRlb2hlcm9AdmlkZW9oZXJvLmNvbS5
+	iciIsImN1c3RvbWVyX2lkIjoiMTA0OTcxIiwiaXBfcG9vbCI6InNoYXJlZCIsIml
+	wX3Bvb2xfcmF3IjoiZ2VuZXJhbF8yIiwibWVzc2FnZV9pZCI6IjAwMDBhNDIyOWY
+	1ODJkMWYxYTc4IiwidGVuYW50X2lkIjoic3BjIn0=
+Authentication-Results:  a.mta1vsmtp.cc.aws-usw2a.prd.sparkpost smtp.user=smtp_injection; auth=pass (LOGIN)
+Received: from [104.130.18.214] ([104.130.18.214:35652] helo=app.webinarjam.net)
+	by a.mta1vsmtp.cc.aws-usw2a.prd.sparkpost (envelope-from <videohero@videohero.com.br>)
+	(ecelerity 4.2.29.58867 r(Core:4.2.29.5)) with ESMTPSA (cipher=ECDHE-RSA-AES128-SHA) 
+	id A1/87-07981-4A22F985; Sat, 11 Feb 2017 14:41:40 +0000
+Date: Sat, 11 Feb 2017 14:41:39 +0000
+To: marco@digitalfotoimagem.com.br
+From: Ivan Oliveira <videohero@videohero.com.br>
+Reply-To: Ivan Oliveira <videohero@videohero.com.br>
+Subject: =?UTF-8?Q?[Confirma=C3=A7ao]_Seu_link_para_o_webin=C3=A1rio?=
+Message-ID: <c69b7f10731830e7c82426df11b26496@app.webinarjam.net>
+X-Priority: 3
+X-Mailer: WebinarJam
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_c69b7f10731830e7c82426df11b26496"
+Content-Transfer-Encoding: 8bit
+List-Unsubscribe: <mailto:unsubscribe@unsub.spmta.com?subject=unsubscribe:Sq4Cco4QVhlqagEQzR87HSqaz-GQcXBjCryAYZzBMAE~|eyAicmNwdF90byI6ICJtYXJjb0BkaWdpdGFsZm90b2ltYWdlbS5jb20uYnIiLCAicmNwdF9tZXRhIjogInt9IiwgInJjcHRfdGFncyI6ICJbIF0iLCAiZnJpZW5kbHlfZnJvbSI6ICJ2aWRlb2hlcm9AdmlkZW9oZXJvLmNvbS5iciIsICJ0ZW1wbGF0ZV9pZCI6ICJzbXRwXzEyNDcxMTcxMjc2ODk4Mzc1IiwgInN1YmFjY291bnRfaWQiOiAiMCIsICJzZW5kaW5nX2lwIjogIjUyLjM5LjE4Mi4yMDUiLCAidGVtcGxhdGVfdmVyc2lvbiI6ICIwIiwgIm1haWxmcm9tIjogInZpZGVvaGVyb0B2aWRlb2hlcm8uY29tLmJyIiwgImlwX3Bvb2wiOiAic2hhcmVkIiwgImlwX3Bvb2xfcmF3IjogImdlbmVyYWxfMiIsICJjdXN0b21lcl9pZCI6ICIxMDQ5NzEiLCAidHJhbnNtaXNzaW9uX2lkIjogIjEyNDcxMTcxMjc2ODk4Mzc1IiwgInRlbmFudF9pZCI6ICJzcGMiLCAibWVzc2FnZV9pZCI6ICIwMDAwYTQyMjlmNTgyZDFmMWE3OCIgfQ~~>
+List-Id: <spc-104971-0>
+
+This is a multi-part message in MIME format.
+
+--b1_c69b7f10731830e7c82426df11b26496
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="UTF-8"
+
+Os Mitos do Video=0D=0ADescubra os medos que te impedem de fazer um bom v=
+=C3=ADdeo e as t=C3=A9cnicas para derrubar estes medos e come=C3=A7ar a faz=
+er os seus pr=C3=B3prios v=C3=ADdeos.=0D=0A=C2=A0=0D=0A=0D=0A=C2=A0=0D=0A=
+=0D=0A=0D=0AS=C3=A1bado, 11 Fevereiro 2017=0D=0A01:00 pm Rio de Janeiro, Sa=
+o Paulo, GMT -2=0D=0A=0D=0AEntrar=C2=A0no webin=C3=A1rio=0D=0A=C2=A0=0D=0A=
+=0D=0A=C2=A0=0D=0A=0D=0AParab=C3=A9ns! Voc=C3=AA se cadastrou.=0D=0AA melho=
+r coisa que voc=C3=AA pode fazer agora =C3=A9 salvar o link do webin=C3=A1r=
+io para os seus favoritos e marcar na sua agenda (coloque um alarme) para v=
+oc=C3=AA n=C3=A3o perder o=C2=A0webin=C3=A1rio.=0D=0AAqui v=C3=A3o alguns d=
+etalhes do webin=C3=A1rio:=0D=0A=0D=0ALink: https://app.webinarjam.net/r/0/=
+0/live/4872/ce892628ee/jot/94261955=0D=0AT=C3=ADtulo: Os Mitos do Video  De=
+scri=C3=A7=C3=A3o: Descubra os medos que te impedem de fazer um bom v=C3=AD=
+deo e as t=C3=A9cnicas para derrubar estes medos e come=C3=A7ar a fazer os =
+seus pr=C3=B3prios v=C3=ADdeos.=0D=0AApresentado por: Ivan Oliveira, Rafael=
+ Perez=0D=0AData: S=C3=A1bado, 11 Fevereiro 2017 Hor=C3=A1rio: 01:00 pm Rio=
+ de Janeiro, Sao Paulo, GMT -2=0D=0A=0D=0AE claro, aqui o PDF B=C3=B4nus qu=
+e prometemos:=C2=A0Lista de Equipamentos para seu Primeiro Est=C3=BAdio=0D=
+=0ANos vemos no webin=C3=A1rio!=0D=0A=0D=0A=0D=0A=0D=0AYou are receiving th=
+is email because you registered for this webinar.  Unsubscribe to stop rece=
+iving notifications about this webinar.=0D=0AWebinarJam LLC7660 Fay Ave Ste=
+ H184La Jolla, CA 92037USA=0D=0A=0D=0A=0D=0APOWERED BY...=0D=0A=0D=0A=C2=A0=
+=0D=0A=0D=0A=0D=0A
+--b1_c69b7f10731830e7c82426df11b26496
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<header></header>=0D=0A<div style=3D"margin: 20px auto 20px auto; font-fami=
+ly: roboto; font-weight: 300;">=0D=0A<div style=3D"padding-left: 20px; floa=
+t: right;"><img title=3D"Ivan Oliveira" data-toggle=3D"tooltip" data-placem=
+ent=3D"bottom" alt=3D"Ivan Oliveira" src=3D"https://s3.amazonaws.com/webina=
+rjam/images-users/presenters/Q5c2yGPuAeuGdz7a69CX.jpg" data-original-title=
+=3D"Ivan Oliveira" style=3D"border-radius: 50%;display: inline-block;height=
+: 50px;vertical-align: top;width: 50px; margin-left:10px;"><img title=3D"Ra=
+fael Perez" data-toggle=3D"tooltip" data-placement=3D"bottom" alt=3D"Rafael=
+ Perez" src=3D"https://s3.amazonaws.com/webinarjam/images-users/presenters/=
+WsN4412VaOlDS8bQMQNp.jpg" data-original-title=3D"Rafael Perez" style=3D"bor=
+der-radius: 50%;display: inline-block;height: 50px;vertical-align: top;widt=
+h: 50px; margin-left:10px;"></div>=0D=0A<div style=3D"font-size: 18px; font=
+-weight: 300; line-height: 140%; color: #000; padding-bottom: 10px;">Os Mit=
+os do Video</div>=0D=0A<div style=3D"font-size: 14px; font-weight: 300; lin=
+e-height: 140%; color: #999;">Descubra os medos que te impedem de fazer um =
+bom v=C3=ADdeo e as t=C3=A9cnicas para derrubar estes medos e come=C3=A7ar =
+a fazer os seus pr=C3=B3prios v=C3=ADdeos.</div>=0D=0A<div style=3D"clear: =
+both;">&nbsp;</div>=0D=0A</div>=0D=0A<div>&nbsp;</div>=0D=0A<div style=3D"b=
+order: 1px solid #ccc; vertical-align: middle; padding-bottom: 10px; paddin=
+g: 5px 10px 5px 10px; background-color: #fbfbfb; border-radius: 4px;">=0D=
+=0A<div style=3D"float: left; vertical-align: middle;">=0D=0A<div style=3D"=
+color: #000; font-size: 14px; padding-bottom: 5px; font-weight: 300;">S=C3=
+=A1bado, 11 Fevereiro 2017</div>=0D=0A<div style=3D"color: #000; font-size:=
+ 14px; font-weight: 300;">01:00 pm Rio de Janeiro, Sao Paulo, GMT -2</div>=
+=0D=0A</div>=0D=0A<div style=3D"float: right; vertical-align: middle; backg=
+round-color: #97ce68; color: #fff; text-align: center; padding: 5px 15px; b=
+order: 1px solid #7cb849; border-bottom: 3px solid #7cb849; border-radius: =
+4px; font-weight: 300; margin-top: 7px;"><a style=3D"color: #fff; text-deco=
+ration: none;" href=3D"https://app.webinarjam.net/r/0/0/live/4872/ce892628e=
+e/jot/94261955">Entrar&nbsp;no webin&aacute;</a>rio</div>=0D=0A<div style=
+=3D"clear: both; height: 0px;">&nbsp;</div>=0D=0A</div>=0D=0A<div>&nbsp;</d=
+iv>=0D=0A<div style=3D"border-bottom: 1px solid #ccc; vertical-align: top; =
+padding-bottom: 10px; padding-top: 10px; line-height: 140%; font-size: 14px=
+; color: #000; text-align: left;">=0D=0A<p style=3D"font-weight: bold;">Par=
+ab&eacute;ns! Voc&ecirc; se cadastrou.</p>=0D=0A<p>A melhor coisa que voc&e=
+circ; pode fazer agora &eacute; salvar o link do webin&aacute;rio para os s=
+eus favoritos e marcar na sua agenda (coloque um alarme) para voc&ecirc; n&=
+atilde;o perder o&nbsp;webin&aacute;rio.</p>=0D=0A<p>Aqui v&atilde;o alguns=
+ detalhes do webin&aacute;rio:</p>=0D=0A<div style=3D"padding: 0px 0px 5px =
+0px;">=0D=0A<p style=3D"padding-left: 10px; border-left: 2px solid #5bc0de;=
+"><span style=3D"font-weight: bold;">Link:</span> <a href=3D"https://app.we=
+binarjam.net/r/0/0/live/4872/ce892628ee/jot/94261955">https://app.webinarja=
+m.net/r/0/0/live/4872/ce892628ee/jot/94261955</a></p>=0D=0A<p style=3D"padd=
+ing-left: 10px; border-left: 2px solid #5bc0de;"><span style=3D"font-weight=
+: bold;">T&iacute;tulo:</span> Os Mitos do Video <br /> <span style=3D"font=
+-weight: bold;">Descri&ccedil;&atilde;o:</span> Descubra os medos que te im=
+pedem de fazer um bom v=C3=ADdeo e as t=C3=A9cnicas para derrubar estes med=
+os e come=C3=A7ar a fazer os seus pr=C3=B3prios v=C3=ADdeos.</p>=0D=0A<p st=
+yle=3D"padding-left: 10px; border-left: 2px solid #5bc0de;"><span style=3D"=
+font-weight: bold;">Apresentado por:</span> Ivan Oliveira, Rafael Perez</p>=
+=0D=0A<p style=3D"padding-left: 10px; border-left: 2px solid #5bc0de;"><spa=
+n style=3D"font-weight: bold;">Data:</span> S=C3=A1bado, 11 Fevereiro 2017 =
+<br /><span style=3D"font-weight: bold;">Hor&aacute;rio:</span> 01:00 pm Ri=
+o de Janeiro, Sao Paulo, GMT -2</p>=0D=0A</div>=0D=0A<p>E claro, aqui o PDF=
+ B&ocirc;nus que prometemos:&nbsp;<a href=3D"http://videoherocdn.s3.amazona=
+ws.com/videohero/Lista_de_Equipamentos_para_Video.pdf">Lista de Equipamento=
+s para seu Primeiro Est&uacute;dio</a></p>=0D=0A<p>Nos vemos no webin&aacut=
+e;rio!</p>=0D=0A</div><!-- START FOOTER -->=0D=0A<div style=3D"margin: 10px=
+ auto 20px auto; font-family: roboto; font-weight: 300;">=0D=0A<div style=
+=3D"float: left; vertical-align: middle;">=0D=0A<div style=3D"color: #000; =
+font-size: 12px;">You are receiving this email because you registered for t=
+his webinar. <br /> <a style=3D"color: #00f; font-weight: 500; text-decorat=
+ion: underline;" href=3D"https://app.webinarjam.net/unsubscribe=3Fm=3DNDg3M=
+g=3D=3D&w=3DY2U4OTI2MjhlZQ=3D=3D&e=3DbWFyY29AZGlnaXRhbGZvdG9pbWFnZW0uY29tLm=
+Jy">Unsubscribe</a> to stop receiving notifications about this webinar.</di=
+v>=0D=0A<div style=3D"padding-top: 15px; color: #999; font-size: 12px;">Web=
+inarJam LLC<br />7660 Fay Ave Ste H184<br />La Jolla, CA 92037<br />USA</di=
+v>=0D=0A</div>=0D=0A<div style=3D"float: right; vertical-align: top; text-a=
+lign: center;">=0D=0A<div style=3D"color: #999; font-size: 12px; padding-bo=
+ttom: 5px;">POWERED BY...</div>=0D=0A<a style=3D"border: 0px;" href=3D"http=
+://webinarjam.com" target=3D"_blank"><img src=3D"https://s3.amazonaws.com/w=
+ebinarjam/images/logo3.png" alt=3D"" width=3D"130" height=3D"20" /></a></di=
+v>=0D=0A<div style=3D"clear: both;">&nbsp;</div>=0D=0A</div>=0D=0A<!-- END =
+FOOTER --><img src=3Dhttps://app.webinarjam.net/r/0/0/open/4872/ce892628ee/=
+jot/94261955 width=3D"0" height=3D"0" border=3D"0" style=3D"visibility:hidd=
+en; display:none; height:0px!important; width:0px!important; border:none;">=
+=0D=0A=0D=0A=0D=0A=0D=0A
+--b1_c69b7f10731830e7c82426df11b26496--
+

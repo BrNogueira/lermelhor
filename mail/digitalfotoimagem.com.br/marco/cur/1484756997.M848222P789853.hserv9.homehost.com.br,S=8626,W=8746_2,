@@ -1,0 +1,120 @@
+Return-Path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id aQFNMAWYf1hdDQwAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Wed, 18 Jan 2017 14:29:57 -0200
+Return-path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Wed, 18 Jan 2017 14:29:57 -0200
+Received: from o2.mailsg.leadlovers.com ([167.89.66.44]:38672)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>)
+	id 1cTt7V-003MU0-A8
+	for marco@digitalfotoimagem.com.br; Wed, 18 Jan 2017 14:29:57 -0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=leadlovers.com.br; 
+	h=content-type:from:mime-version:subject:to:list-unsubscribe; 
+	s=m1; bh=STvBLQ3nhFbIQorICJHhcLpNd1M=; b=p9dDw8XlP3m851f/kRaSyyN
+	u0WYawxLyyv/upEalqjPU/Mb+PPGylevHMDYrDBrXkBO2YnQreo/SFhZDtIDVrKx
+	VDMN8rUqKlfgWBkOjoWBTLSEm7kmOllQRXIUrlcTfueB6gUBEkWtj1w350rgPf09
+	qJG3MqpIGjJZyVr7XT9M=
+Received: by filter0507p1mdw1.sendgrid.net with SMTP id filter0507p1mdw1-30976-587F97BF-9
+        2017-01-18 16:28:47.687347817 +0000 UTC
+Received: from MjM4NDgwOQ (m3640.contabo.host [5.189.178.140])
+	by ismtpd0002p1lon1.sendgrid.net (SG) with HTTP id SHFdBkfTRb-pwV4qyJKAIQ
+	Wed, 18 Jan 2017 16:28:47.032 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=ddbb3dad07ca803e9246f6bdbdc4f1ad9afb71607e37802dd221db00eb2d
+Date: Wed, 18 Jan 2017 16:28:47 +0000
+From: "Paulo Gerhardt" <paulo.gerhardt@solbiz.com.br>
+Mime-Version: 1.0
+Subject: =?UTF-8?B?W0FydGlnb10gUG9yIHF1ZSBtdWl0b3MgdmVuZGVkb3JlcyBuw6NvIGZlY2hhbSBhIHZlbmRhPw==?=
+To: <marco@digitalfotoimagem.com.br>
+Message-ID: <SHFdBkfTRb-pwV4qyJKAIQ@ismtpd0002p1lon1.sendgrid.net>
+List-Unsubscribe: <https://u2384809.ct.sendgrid.net/wf/unsubscribe?upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiWoKQFOF-2FXBopiL-2BYaC-2B-2BVn87z8k51ChVvu3KEhE8uAvHdoYnUifb0qY7Hnfb7a-2BcLykFP282rQuiifHbLsedKVPSVW7qzBygZHLt0na4sQFKrgUUlmeTAzTPkeG39m5pP8nUA2yZSfY4VIgvWDeINiVGK-2FL2Yu-2Bwdoas8W5AoJY0x-2FqyYaGLJWjRY7XU6GIMgKXOz88CNn7sN4UVOkVmIA-3D-3D>, <mailto:unsubscribe@mailsg.leadlovers.com.br?subject=https://u2384809.ct.sendgrid.net/wf/unsubscribe*q*upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiWoKQFOF-2FXBopiL-2BYaC-2B-2BVn87z8k51ChVvu3KEhE8uAvHdoYnUifb0qY7Hnfb7a-2BcLykFP282rQuiifHbLsedKVPSVW7qzBygZHLt0na4sQFKrgUUlmeTAzTPkeG39m5pP8nUA2yZSfY4VIgvWDeINiVGK-2FL2Yu-2Bwdoas8W5AoJY0x-2FqyYaGLJWjRY7XU6GIMgKXOz88CNn7sN4UVOkVmIA-3D-3D>
+X-SG-EID: Hch+2AQw5UfQtHqV+P/3h94kWa/z3uc7aT9t1ffNJX6ejfdpfjs1c7IIdtNthFh9XSMPPmQiiXtwaT
+ fsxxCnEx/Jl+FXOdKArs/RMv3Z77LTm3Oz8q76tzzYsEjLONu6lHH2JCSWRv/UGpHDp8rOMMsqscrw
+ fNCCx8Mjn7cwUNx34f9RbYlWOC88JSOfPH9Cn9IOb/mtSJr9YXBe324mDWdC9JZbt6ZRapbwtUFYTK
+ EsUk/xeAhgWBxukj7SSfdn
+X-SG-ID: YDTqBOjidbCUo/ar1oAtZlW8l/fX7KZY58pcT+sTNuJt/OGtIH9/z3zE0KjcEEnm
+
+--ddbb3dad07ca803e9246f6bdbdc4f1ad9afb71607e37802dd221db00eb2d
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+=0D=0DOl=C3=A1!=0D=0D=0DTudo bem? Comentei no meu artigo anterior sobre o m=
+edo que os clientes t=C3=AAm de tomar a decis=C3=A3o de comprar. Pois do ou=
+tro lado tamb=C3=A9m existe um medo do vendedor em propor o fechamento.=0D=
+=0D=0DConfira meu artigo e descubra porque isto ocorre.=0D=0D=0D=C3=A9 cert=
+o que temos que trabalhar para reduzir as obje=C3=A7=C3=B5es do cliente e i=
+nspirar confian=C3=A7a nele para que ele tome a decis=C3=A3o e feche a vend=
+a. Mas e a confian=C3=A7a do vendedor?=0D=0D=0DEntenda como superar o medo =
+do vendedor.=0D=0D=0DMuito vendedores reclamam que est=C3=A1 dif=C3=ADcil d=
+e vender, que o cliente est=C3=A1 mais exigente e cauteloso. Mas o que ele =
+est=C3=A1 fazendo para mudar isto?=0D=0D=0DVeja as 3 dicas para todo vended=
+or fechar mais vendas.=0D=0D=0DAbra=C3=A7os,=0D=0DPaulo Gerhardt=0D=0DCriad=
+or da Metodologia do Coaching de VendasClique aqui para n=C3=A3o receber ma=
+is e-mails dessa lista (Unsubscribe).
+
+--ddbb3dad07ca803e9246f6bdbdc4f1ad9afb71607e37802dd221db00eb2d
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE><table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" id=3D=
+"LLCenteredColumn" style=3D"border:none;"><tbody><tr><td style=3D"border:me=
+dium none;"><table class=3D"table01 k-table" style=3D"background-color:#fff=
+fff;margin:auto;width:650px;"><tbody><tr><td id=3D"LLCenteredColumn01" styl=
+e=3D"border:medium none;margin:0px;padding:20px;text-align:left;white-space=
+:normal;"><p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;"><span style=
+=3D"font-size:14.0pt;font-family:'Arial','sans-serif';">Ol&aacute;!</span><=
+/p><p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;"=
+></p><p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify=
+;"><span style=3D"font-size:14.0pt;font-family:'Arial','sans-serif';">Tudo =
+bem? Comentei no meu artigo anterior sobre o medo que os clientes t&ecirc;m=
+ de tomar a decis&atilde;o de comprar. Pois do outro lado tamb&eacute;m exi=
+ste um medo do vendedor em propor o fechamento.</span></p><p style=3D"margi=
+n-bottom:0cm;margin-bottom:.0001pt;text-align:justify;"></p><p style=3D"mar=
+gin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;"><span style=3D"fo=
+nt-size:14.0pt;font-family:'Arial','sans-serif';color:red;"><a href=3D"http=
+://leadloversclick02.com/redirect/redirect.aspx?A=3DR&l=3DD8CA023F-6534-49E=
+2-A69F-94B127325075&u=3Da6311ef6-df17-477a-83d1-116efd173b9b">Confira meu a=
+rtigo e descubra porque isto ocorre.</a></span></p><p style=3D"margin-botto=
+m:0cm;margin-bottom:.0001pt;text-align:justify;"></p><p style=3D"margin-bot=
+tom:0cm;margin-bottom:.0001pt;text-align:justify;"><span style=3D"font-size=
+:14.0pt;font-family:'Arial','sans-serif';">&Eacute; certo que temos que tra=
+balhar para reduzir as obje&ccedil;&otilde;es do cliente e inspirar confian=
+&ccedil;a nele para que ele tome a decis&atilde;o e feche a venda. Mas e a =
+confian&ccedil;a do vendedor?</span></p><p style=3D"margin-bottom:0cm;margi=
+n-bottom:.0001pt;text-align:justify;"></p><p style=3D"margin-bottom:0cm;mar=
+gin-bottom:.0001pt;text-align:justify;"><span style=3D"font-size:14.0pt;fon=
+t-family:'Arial','sans-serif';color:red;"><a href=3D"http://leadloversclick=
+02.com/redirect/redirect.aspx?A=3DR&l=3DD8CA023F-6534-49E2-A69F-94B12732507=
+5&u=3Da6311ef6-df17-477a-83d1-116efd173b9b">Entenda como superar o medo do =
+vendedor.</a></span></p><p style=3D"margin-bottom:0cm;margin-bottom:.0001pt=
+;text-align:justify;"></p><p style=3D"margin-bottom:0cm;margin-bottom:.0001=
+pt;text-align:justify;"><span style=3D"font-size:14.0pt;font-family:'Arial'=
+,'sans-serif';">Muito vendedores reclamam que est&aacute; dif&iacute;cil de=
+ vender, que o cliente est&aacute; mais exigente e cauteloso. Mas o que ele=
+ est&aacute; fazendo para mudar isto?</span></p><p style=3D"margin-bottom:0=
+cm;margin-bottom:.0001pt;text-align:justify;"></p><p style=3D"margin-bottom=
+:0cm;margin-bottom:.0001pt;text-align:justify;"><span style=3D"font-size:14=
+.0pt;font-family:'Arial','sans-serif';color:red;"><a href=3D"http://leadlov=
+ersclick02.com/redirect/redirect.aspx?A=3DR&l=3DD8CA023F-6534-49E2-A69F-94B=
+127325075&u=3Da6311ef6-df17-477a-83d1-116efd173b9b">Veja as 3 dicas para to=
+do vendedor fechar mais vendas.</a></span></p><p style=3D"margin-bottom:0cm=
+;margin-bottom:.0001pt;"></p><p style=3D"margin-bottom:0cm;margin-bottom:.0=
+001pt;"><span style=3D"font-size:14.0pt;font-family:'Arial','sans-serif';">=
+Abra&ccedil;os,</span></p><p style=3D"margin-bottom:0cm;margin-bottom:.0001=
+pt;"><span style=3D"font-size:14.0pt;font-family:'Arial','sans-serif';">Pau=
+lo Gerhardt</span></p><p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;"=
+><span style=3D"font-size:14.0pt;font-family:'Arial','sans-serif';">Criador=
+ da Metodologia do Coaching de Vendas</span></p></td></tr></tbody></table><=
+/td></tr></tbody></table><a href=3D"http://leadloversclick02.com/redirect/r=
+edirect.aspx?A=3DU&u=3Da6311ef6-df17-477a-83d1-116efd173b9b" target=3D"_bla=
+nk">Clique aqui para n&atilde;o receber mais e-mails dessa lista (Unsubscri=
+be).</a><br /><img alt=3D"" src=3D"http://leadloversclick02.com/redirect/re=
+direct.aspx?A=3DV&u=3Da6311ef6-df17-477a-83d1-116efd173b9b&IMG=3Dhttps://le=
+adlovers.com/content/images/1px.png" />
+
+--ddbb3dad07ca803e9246f6bdbdc4f1ad9afb71607e37802dd221db00eb2d--

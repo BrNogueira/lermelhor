@@ -1,0 +1,142 @@
+Return-Path: <fernandozf@hotmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id icHWFjMTilkqCQkAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Tue, 08 Aug 2017 16:38:27 -0300
+Return-path: <fernandozf@hotmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 08 Aug 2017 16:38:27 -0300
+Received: from mail-oln040092003058.outbound.protection.outlook.com ([40.92.3.58]:17504 helo=NAM02-BL2-obe.outbound.protection.outlook.com)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <fernandozf@hotmail.com>)
+	id 1dfAKh-002Ter-3P
+	for marco@digitalfotoimagem.com.br; Tue, 08 Aug 2017 16:38:27 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=NwEJBYsr8PUqS5amMm4QsmNerqINhHYvK8AkL/m9o58=;
+ b=kzGPjmAg1MV2v+iVxzFeDpZHdESbSNGNPPaspFKtzV4yDy42TSncNCv1T+hI31V8EMiVPIVf/sJWcORvmumYXVc6IT+7UbD/dHauntaPqRCITETmHaHiTmnUUQd2byVnB9IycvjG6x3lr8EaoHblkxLwrVywClPx7dPcn2mQWGYKcWCuE28ocZvSgzhkyPGGrsaHQM2kIC+TJNq3lToHG/hHy37RIr+PsJ4sqHjlnBXfDMTBViV3zMlrlTUuMQM0R7WeuliT3l2PORUeWLNL17hfUnNCGhTVpdXW0Z7FjjEPXIQF6HXDi0OY4+rKdqhxxjPLCNtwqhlkfYsZO9o6TQ==
+Received: from CY1NAM02FT057.eop-nam02.prod.protection.outlook.com
+ (10.152.74.58) by CY1NAM02HT213.eop-nam02.prod.protection.outlook.com
+ (10.152.74.191) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.1304.16; Tue, 8
+ Aug 2017 19:37:39 +0000
+Received: from BN3PR18MB0610.namprd18.prod.outlook.com (10.152.74.59) by
+ CY1NAM02FT057.mail.protection.outlook.com (10.152.75.110) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.1.1304.16 via Frontend Transport; Tue, 8 Aug 2017 19:37:39 +0000
+Received: from BN3PR18MB0610.namprd18.prod.outlook.com ([10.165.116.140]) by
+ BN3PR18MB0610.namprd18.prod.outlook.com ([10.165.116.140]) with mapi id
+ 15.01.1320.018; Tue, 8 Aug 2017 19:37:39 +0000
+From: Fernando Ziesmann Fortes <fernandozf@hotmail.com>
+To: "celsotessari@gmail.com" <celsotessari@gmail.com>,
+	"ma.finardi@hotmail.com" <ma.finardi@hotmail.com>, "takar2@terra.com.br"
+	<takar2@terra.com.br>, "carlos.flaminio@gmail.com"
+	<carlos.flaminio@gmail.com>, "cmave96@gmail.com" <cmave96@gmail.com>,
+	"carlos.rossetti@uol.com.br" <carlos.rossetti@uol.com.br>,
+	"demetriopendek@hotmail.com" <demetriopendek@hotmail.com>,
+	"eduardocamacho@uol.com.br" <eduardocamacho@uol.com.br>,
+	"ebernardinolopes@uol.com.br" <ebernardinolopes@uol.com.br>,
+	"ernani.flausino@terra.com.br" <ernani.flausino@terra.com.br>,
+	"everth@mixlav.com.br" <everth@mixlav.com.br>, "szfaria@gmail.com"
+	<szfaria@gmail.com>, Fernando Ziesmann Fortes <fernandozf@hotmail.com>,
+	"gdcampos@uol.com.br" <gdcampos@uol.com.br>, "helioamandara@uol.com.br"
+	<helioamandara@uol.com.br>, "enghgomes@gmail.com" <enghgomes@gmail.com>,
+	"humberto.serrano@hotmail.com" <humberto.serrano@hotmail.com>,
+	"j.felix10@bol.com.br" <j.felix10@bol.com.br>, "jkozlowski@uol.com.br"
+	<jkozlowski@uol.com.br>, "jcl@tech-air.com.br" <jcl@tech-air.com.br>,
+	"mattosfaria@terra.com.br" <mattosfaria@terra.com.br>,
+	"ctt3843@egoshi.com.br" <ctt3843@egoshi.com.br>,
+	"marceloeloyfernandes@gmail.com" <marceloeloyfernandes@gmail.com>,
+	"mmtesta43@gmail.com" <mmtesta43@gmail.com>, "parise@lermelhor.com.br"
+	<parise@lermelhor.com.br>, "marco@digitalfotoimagem.com.br"
+	<marco@digitalfotoimagem.com.br>, "agenda@coachingpravoce.com.br"
+	<agenda@coachingpravoce.com.br>, "marckopat@live.com" <marckopat@live.com>,
+	"ncosta@usa.com" <ncosta@usa.com>, "nelpendek@hotmail.com"
+	<nelpendek@hotmail.com>, "ricardocarvalho930@gmail.com.br"
+	<ricardocarvalho930@gmail.com.br>, "rubens@linart.com.br"
+	<rubens@linart.com.br>, "sergio@aresultado.adm.br"
+	<sergio@aresultado.adm.br>, "squintinoj@gmail.com" <squintinoj@gmail.com>,
+	"sverdiani@terra.com.br" <sverdiani@terra.com.br>,
+	"wanderleyssamtos@gmail.com" <wanderleyssamtos@gmail.com>,
+	"alfanohi@gmail.com" <alfanohi@gmail.com>, "wviveiro@live.com"
+	<wviveiro@live.com>, Andre Luis Pereira de Godoi <andrelpgodoi@gmail.com>
+Subject: =?iso-8859-1?Q?comunicado_de_retifica=E7=E3o?=
+Thread-Topic: =?iso-8859-1?Q?comunicado_de_retifica=E7=E3o?=
+Thread-Index: AQHTEH14KhcCSHYRGUmpLisPnquNCg==
+Date: Tue, 8 Aug 2017 19:37:39 +0000
+Message-ID: <BN3PR18MB0610252E00F13CC48AFDF428C88A0@BN3PR18MB0610.namprd18.prod.outlook.com>
+Accept-Language: pt-BR, en-US
+Content-Language: pt-BR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: gmail.com; dkim=none (message not signed)
+ header.d=none;gmail.com; dmarc=none action=none header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:1E4445DD89B3E7F2907D59682254E95A67D44438FF72F94F1FD9EBD064A67B78;UpperCasedChecksum:4A5C9B6477EA9B2AA49B6DEC64ED545C393B311794C61681C369FE08517565D0;SizeAsReceived:9091;Count:43
+x-tmn: [4daLfWpCB/zU3ZQbSrixw5rTVGihgqo6]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;CY1NAM02HT213;7:Hw1CJD2EncU9g+EUeBGoFdt+C2+VFu8AiUkKZZf8KYPnZVKN4xb+1SonaYmgknA3IC24cguTgy6IRgiwNVr1y4HrPF9cR778M2vTC7a3oUUzCJq8zL8R4uf4Pai/8wvF4Pr3MfCr+uXGU2MEfm/neGE5uGmq4q8HAJdwMWzEIo+oSQMUl5u94o7qB0YdGqlUPaEqI1h8vpsl/PjQGHqVFhegfan/lDNMRA63jBi67/fnAj8NoenHnvIJdM5V0l15/ouaU/pOTsaqM5drhWqcBIm29+qJPRxSDLrDW3RgC+fo91xHkUZ/7i587EPjpVJK9K41u3oqzAv6LdQlJYZhKhJ5nUcbDUXssLPR+xpvLtdput8t701DtvhzNWJlWYP9HwNS4E9PxdijyDW+iS2uz7ZCJ3W1eVINqNfdLNXtPIhKSVHPP6clSoIjiHRJ4TaR4biSMHqlr6w9al/nHnWf81cGylRIBaLt5UqH8jWW8Qcj0YYlzSuEG+XT0lSc1eGlRzZu8JvT9CAFgbBfwnBS7svz7O4RuXlvwb4nYLvQKg5qYnKDCg9Dtm/I3AEvXswRqhf8qWwtuFB9pwItyPvLAmLuBYBfXKPEyjZ7OUAD2X0S9/093UAgfKdsYTKBuAR0XzQkui5cV5QMJpPhaDhS0Ly+pjZWLuE/Vg/OiPKOMhYXe1NayR7EnFnq+l02NhkHFLfDxJHDJw76/UuGDSETT1dsZ29o1/Kq8oTWyroCAGzr1uG3Rp9ixHlMUvj7aPL/c/taug2RzKU3fxHGoxcupg==
+x-incomingheadercount: 43
+x-eopattributedmessage: 0
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:CY1NAM02HT213;H:BN3PR18MB0610.namprd18.prod.outlook.com;FPR:;SPF:None;LANG:pt;
+x-ms-office365-filtering-correlation-id: 7bf15104-8e7b-4c19-5b8a-08d4de94edcb
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(300000500095)(300135000095)(300000501095)(300135300095)(300000502095)(300135100095)(22001)(300000503095)(300135400095)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(201702181274)(2017031322377)(1601125374)(1603101448)(1701031045)(300000504095)(300135200095)(300000505095)(300135600095)(300000506095)(300135500095);SRVR:CY1NAM02HT213;
+x-ms-exchange-slblob-mailprops: mzm1vYtFEW0wDrdw9gfI+Q64OHP5UqO3ylSuY+n4MOErH/OaPsTX7/oQy898eh8/wD7LSWkTOtIO6gp4wZLxFn8mwb6ItAEiIPi6PyW3fFs4I2fxmnrtR+9jvryYiN41V0mT616AOeb5BOiB8Qxt5i2jzLggSWfrVJHuUw/T9agmS5cVRVd/IXaQv5S7Lb/Nx88VYomAo5X8Zkd3BPjbQoTguKWheBsfvwBs7C8BC19QkixTZ+j27/IFnfKVKi7h3s/UmNFPsDGpQ4XJ+7ULM5ktxg+Yp2eOwTOj44hnY6jkn+dJgPOsmGVhv1CQkyP3CoHwozSKq60+no8ebnbaZTI128pleAqCreN5tUNDXzyR/8kJB2jB/dVcCMllXuX421oQMr+uIgBmQ5xnfhKMOfJBfTMBVcbC5Mx+xoL/u4qbpmlcsPoJ3lMRe0jJ0ey6zsYojTCEHGDrMlwfMqaymnToMcNXzvLB304V09LhhTYCLU3SPmggqWEmVYvba4l9e4+db5OeEZ3bVxtsajg5k5kiM3dFWPHGlzPI0+RacLg1jFHr+7+tc306zPk3WjsJc92QA5KVHTKftxjPm8+qBBT/0tUgKbhv
+x-ms-traffictypediagnostic: CY1NAM02HT213:
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(444000031);SRVR:CY1NAM02HT213;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:CY1NAM02HT213;
+x-forefront-prvs: 03932714EB
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BN3PR18MB0610252E00F13CC48AFDF428C88A0BN3PR18MB0610namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 08 Aug 2017 19:37:39.0886
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1NAM02HT213
+
+--_000_BN3PR18MB0610252E00F13CC48AFDF428C88A0BN3PR18MB0610namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Caros irm=E3os,
+
+
+O convite enviado a voc=EAs est=E1 com a data errada. A data correta da ses=
+s=E3o de inicia=E7=E3o continua a ser o dia 19/08. J=E1 vou providenciar a =
+o convite com a data corrigida.
+
+
+Ir. Fortes.
+
+--_000_BN3PR18MB0610252E00F13CC48AFDF428C88A0BN3PR18MB0610namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p>Caros irm=E3os,</p>
+<p><br>
+</p>
+<p>O convite enviado a voc=EAs est=E1 com a data errada. A data&nbsp;corret=
+a&nbsp;da sess=E3o de inicia=E7=E3o continua a ser o dia 19/08. J=E1 vou pr=
+ovidenciar a o convite com a data corrigida.</p>
+<p><br>
+</p>
+<p>Ir. Fortes.&nbsp;</p>
+</div>
+</body>
+</html>
+
+--_000_BN3PR18MB0610252E00F13CC48AFDF428C88A0BN3PR18MB0610namp_--

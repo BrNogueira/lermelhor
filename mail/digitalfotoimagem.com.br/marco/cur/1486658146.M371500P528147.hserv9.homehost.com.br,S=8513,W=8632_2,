@@ -1,0 +1,119 @@
+Return-Path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id 2SvpEmKanFgTDwgAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Thu, 09 Feb 2017 14:35:46 -0200
+Return-path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 09 Feb 2017 14:35:46 -0200
+Received: from o9.mailsg.leadlovers.com ([167.89.30.234]:1159)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>)
+	id 1cbrhB-002Cri-Ow
+	for marco@digitalfotoimagem.com.br; Thu, 09 Feb 2017 14:35:46 -0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=leadlovers.com.br; 
+	h=content-type:from:mime-version:subject:to:list-unsubscribe; 
+	s=m1; bh=BPidH1OcEpgYe3olgQCWfp2fFNM=; b=zcDrcw8rxH9FiiMWuRth9ZA
+	5T14FNMP7GbVGh8k2OR6Ip/JQulBRtjz/9xXXjvYGz+IugN/nIJ2O2L3kqdp1aEx
+	fPeUv7O9WanjD5z6CcaRD22cXpgiHLFnRrh/INcwSk32WoshbXoxJN9bj2qXsZgs
+	mDnzLb8TmL21e824YF+U=
+Received: by filter0842p1mdw1.sendgrid.net with SMTP id filter0842p1mdw1-4127-589C99FE-3A
+        2017-02-09 16:34:06.968261558 +0000 UTC
+Received: from MjM4NDgwOQ (m3640.contabo.host [5.189.178.140])
+	by ismtpd0004p1lon1.sendgrid.net (SG) with HTTP id OQQbJzrSTL-lFqceSZV87w
+	Thu, 09 Feb 2017 16:34:06.556 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=58c23c61ce287c3b66c7db7fb10b21d7b002c10152e3c66f0337e4269a8c
+Date: Thu, 09 Feb 2017 16:34:06 +0000
+From: "Paulo Gerhardt" <paulo.gerhardt@solbiz.com.br>
+Mime-Version: 1.0
+Subject: [Aula ao Vivo] Como vencer os piores inimigos das metas e objetivos de sua equipe
+To: <marco@digitalfotoimagem.com.br>
+Message-ID: <OQQbJzrSTL-lFqceSZV87w@ismtpd0004p1lon1.sendgrid.net>
+List-Unsubscribe: <https://u2384809.ct.sendgrid.net/wf/unsubscribe?upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiWoKQFOF-2FXBopiL-2BYaC-2B-2BVlgvGEDN3ILAzg18g4RHVizNFMiT3LEp4l8u5zNeQDunIr4OYJYAbkOCjFMLHNs63DzvpNjL8Yo8R0eL-2FhUwF-2Fl7yAPeO-2B1NnBz0FbFSilWmBBddynaXpzwEiTt0u9yoUblwy3xQB5fFxCbsHHs6-2FoJ4z4fW6A0IgoByY43ecfrZDzC8SqcYGTZ8gsAYCfC-2BkRvIoJIglA7t2v-2F0miaAZf0-3D>, <mailto:unsubscribe@mailsg.leadlovers.com.br?subject=https://u2384809.ct.sendgrid.net/wf/unsubscribe*q*upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiWoKQFOF-2FXBopiL-2BYaC-2B-2BVlgvGEDN3ILAzg18g4RHVizNFMiT3LEp4l8u5zNeQDunIr4OYJYAbkOCjFMLHNs63DzvpNjL8Yo8R0eL-2FhUwF-2Fl7yAPeO-2B1NnBz0FbFSilWmBBddynaXpzwEiTt0u9yoUblwy3xQB5fFxCbsHHs6-2FoJ4z4fW6A0IgoByY43ecfrZDzC8SqcYGTZ8gsAYCfC-2BkRvIoJIglA7t2v-2F0miaAZf0-3D>
+X-SG-EID: Hch+2AQw5UfQtHqV+P/3h94kWa/z3uc7aT9t1ffNJX6ejfdpfjs1c7IIdtNthFh9781ROU+tolUd/L
+ v+Zh9wLOyQHA4AP/YnR6Xvw+F/7BNSVHyWAgd+daY8TEL033v2ncH7qWx4JIyjtwJOUbqBtIFCd5jx
+ JGlNofCb2xGZqQ4TcBEIX4WbpFBnlGhKIuv/BZWKL1zX2yet4U2mRvC3BpYOZ2uugOuNOaort7Y24Z
+ jWZ5KsJ2+i3jkvnZC4feXG
+X-SG-ID: YDTqBOjidbCUo/ar1oAtZrxhwX//BlX07tDlU0xekts4GpBRjgUOMyLnxT7YTzMf
+
+--58c23c61ce287c3b66c7db7fb10b21d7b002c10152e3c66f0337e4269a8c
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+=0D=0DOl=C3=A1!=0D=0DMeu amigo Ricardo Mallet pediu-me para lembrar-lhe que=
+ hoje =C3=A0s 20 horas ele ir=C3=A1 fazer uma aula ao vivo para mostrar com=
+o vencer os piores inimigos de tuas metas com 4 passos simples e pr=C3=A1ti=
+cos.=0D=0DENTRA AQUI E PARTICIPA!=0D=0DVai mostrar:=0D=0D1. Como liberar te=
+mpo e energia suficiente para o alcance das metas.=0D=0D2. Como garantir a =
+execu=C3=A7=C3=A3o das prioridades.=0D=0D3. Como evitar o trabalho burro av=
+aliando a efetividade dos seus esfor=C3=A7os.=0D=0D4. Como saber a hora de =
+abandonar um plano ineficaz.=0D=0DEm muito mais.=0D=0DAULA AO VIVO Dia 09/0=
+2/201720h 00min =0D=0DEntre aqui e participe! Aula ao vivo e gratuita!=0D=
+=0DAbra=C3=A7o!=0D=0DPaulo GerhardtCriador da Metodologia do Coaching de Ve=
+ndasClique aqui para n=C3=A3o receber mais e-mails dessa lista (Unsubscribe=
+).
+
+--58c23c61ce287c3b66c7db7fb10b21d7b002c10152e3c66f0337e4269a8c
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE><table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" id=3D=
+"LLCenteredColumn" style=3D"border:none;"><tbody><tr><td style=3D"border:me=
+dium none;"><table class=3D"table01 k-table" style=3D"background-color:#fff=
+fff;margin:auto;width:650px;"><tbody><tr><td id=3D"LLCenteredColumn01" styl=
+e=3D"border:medium none;margin:0px;padding:20px;text-align:left;white-space=
+:normal;"><p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;"><span style=
+=3D"font-size:14.0pt;line-height:115%;font-family:'Arial','sans-serif';">Ol=
+&aacute;!<br /></span></p><p style=3D"margin-bottom:0cm;margin-bottom:.0001=
+pt;"><span style=3D"font-size:14.0pt;line-height:115%;font-family:'Arial','=
+sans-serif';">Meu amigo Ricardo Mallet pediu-me para lembrar-lhe que hoje &=
+agrave;s 20 horas ele ir&aacute; fazer uma aula ao vivo para mostrar como v=
+encer os piores inimigos de tuas metas com 4 passos simples e pr&aacute;tic=
+os.<br /></span></p><p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;"><=
+span style=3D"font-size:14.0pt;line-height:115%;font-family:'Arial','sans-s=
+erif';color:red;"><a href=3D"http://leadloversclick08.com/redirect/redirect=
+.aspx?A=3DR&l=3DD6E76B73-5030-4946-BD41-0F57C5CBF1C7&u=3D91948b38-640f-4682=
+-8672-6b986d317956">ENTRA AQUI E PARTICIPA!<br /></a></span></p><p style=3D=
+"margin-bottom:0cm;margin-bottom:.0001pt;"><span style=3D"font-size:14.0pt;=
+line-height:115%;font-family:'Arial','sans-serif';">Vai mostrar:</span></p>=
+<p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;"><span style=3D"font-s=
+ize:14.0pt;line-height:115%;font-family:'Arial','sans-serif';color:#222222;=
+">1. Como liberar tempo e energia suficiente para o alcance das metas.</spa=
+n></p><p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;line-height:norma=
+l;background:white;"><span style=3D"font-size:14.0pt;font-family:'Arial','s=
+ans-serif';color:#222222;">2. Como garantir a execu&ccedil;&atilde;o das pr=
+ioridades.</span></p><p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;li=
+ne-height:normal;background:white;"><span style=3D"font-size:14.0pt;font-fa=
+mily:'Arial','sans-serif';color:#222222;">3. Como evitar o &ldquo;trabalho =
+burro&rdquo; avaliando a efetividade dos seus esfor&ccedil;os.</span></p><p=
+ style=3D"margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;backgr=
+ound:white;"><span style=3D"font-size:14.0pt;font-family:'Arial','sans-seri=
+f';color:#222222;">4. Como saber a hora de abandonar um plano ineficaz.</sp=
+an></p><p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;"><span style=3D=
+"font-size:14.0pt;line-height:115%;font-family:'Arial','sans-serif';">Em mu=
+ito mais.<br /></span></p><p style=3D"margin-bottom:0cm;margin-bottom:.0001=
+pt;"><span style=3D"font-size:14.0pt;line-height:115%;font-family:'Arial','=
+sans-serif';">AULA AO VIVO <br />Dia 09/02/2017<br />20h 00min <br /></span=
+></p><p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;"><span style=3D"f=
+ont-size:14.0pt;line-height:115%;font-family:'Arial','sans-serif';color:red=
+;"><a href=3D"http://leadloversclick08.com/redirect/redirect.aspx?A=3DR&l=
+=3DD6E76B73-5030-4946-BD41-0F57C5CBF1C7&u=3D91948b38-640f-4682-8672-6b986d3=
+17956">Entre aqui e participe! Aula ao vivo e gratuita!<br /></a></span></p=
+><p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal;"><=
+span style=3D"font-size:14.0pt;font-family:'Arial','sans-serif';">Abra&cced=
+il;o!</span></p><p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;line-he=
+ight:normal;"><span style=3D"font-size:14.0pt;font-family:'Arial','sans-ser=
+if';">Paulo Gerhardt<br />Criador da Metodologia do Coaching de Vendas</spa=
+n><span style=3D"font-size:14.0pt;font-family:'Arial','sans-serif';"></span=
+></p></td></tr></tbody></table></td></tr></tbody></table><a href=3D"http://=
+leadloversclick08.com/redirect/redirect.aspx?A=3DU&u=3D91948b38-640f-4682-8=
+672-6b986d317956" target=3D"_blank">Clique aqui para n&atilde;o receber mai=
+s e-mails dessa lista (Unsubscribe).</a><br /><img alt=3D"" src=3D"http://l=
+eadloversclick08.com/redirect/redirect.aspx?A=3DV&u=3D91948b38-640f-4682-86=
+72-6b986d317956&IMG=3Dhttps://leadlovers.com/content/images/1px.png" />
+
+--58c23c61ce287c3b66c7db7fb10b21d7b002c10152e3c66f0337e4269a8c--

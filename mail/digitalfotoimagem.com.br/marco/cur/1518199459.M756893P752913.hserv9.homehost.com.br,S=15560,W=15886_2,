@@ -1,0 +1,326 @@
+Return-Path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br with LMTP id AOGgKKPifVoRfQsAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Fri, 09 Feb 2018 16:04:19 -0200
+Return-path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Fri, 09 Feb 2018 16:04:19 -0200
+Received: from e.gospmail.org.br ([177.139.181.238]:63831 helo=gospmail.org.br)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89_1)
+	(envelope-from <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>)
+	id 1ekD23-003BcO-5J
+	for marco@digitalfotoimagem.com.br; Fri, 09 Feb 2018 16:04:19 -0200
+Received: from localhost (e [127.0.0.1])
+	by gospmail.org.br (Postfix) with ESMTP id 7681A2CC44A4
+	for <marco@digitalfotoimagem.com.br>; Fri,  9 Feb 2018 16:03:31 -0200 (BRST)
+X-Virus-Scanned: amavisd-new at gospmail.org.br
+X-Amavis-Alert: BAD HEADER SECTION, Non-encoded 8-bit data (char E7 hex):
+	List-ID: Comunica\347\343o e Imprensa
+Received: from gospmail.org.br ([127.0.0.1])
+	by localhost (gospmail.org.br [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Er8gBAY2OtfM; Fri,  9 Feb 2018 16:03:28 -0200 (BRST)
+Received: from o3.jiveon.jivesoftware.com (o3.jiveon.jivesoftware.com [167.89.36.126])
+	by gospmail.org.br (Postfix) with ESMTPS id 7FEB62CC3740
+	for <288380@gospmail.org.br>; Fri,  9 Feb 2018 15:53:29 -0200 (BRST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=jiveon.jivesoftware.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-id; 
+	s=smtpapi; bh=3Apncy0rbuMuMvGtAfBN81xZDT0=; b=Y7bEiE6Xfx46zneSzb
+	4JQ4wQA6rS3bnSUyRvItA1n0iTYg2v0q5DNpGx70OqE1dkdOiK5aMDD3UAmvtmcp
+	9kcHVMKVZ6la1/7/EUi0ui19aQpHdyvV1E4SSRKJGWcKZqqF3FYn1Ro0QM986I6j
+	LWCHNqNjhxn/5S92jzVHnKtF0=
+Received: by filter0581p1las1.sendgrid.net with SMTP id filter0581p1las1-2790-5A7DDFF5-24
+        2018-02-09 17:52:53.698299752 +0000 UTC
+Received: from jiveon-mx4-out.phx1.jivehosted.com (jiveon-mail.phx1.jivehosted.com [204.93.64.13])
+	by ismtpd0006p1sjc2.sendgrid.net (SG) with ESMTP id hi5RqA3cSNKa-niRBoeVUw
+	for <288380@gospmail.org.br>; Fri, 09 Feb 2018 17:52:53.775 +0000 (UTC)
+Received: from gosp-x-jc-t-wa02.dynphx1.jivehosted.com (ip52-vlb1-services.phx1.jivehosted.com [10.160.25.52])
+	by jiveon-mx4-out.phx1.jivehosted.com (Postfix) with ESMTP id 803D127D52
+	for <288380@gospmail.org.br>; Fri,  9 Feb 2018 17:52:53 +0000 (GMT)
+Date: Fri, 09 Feb 2018 17:52:53 +0000 (UTC)
+From: enilsonsanchesmartins <gosp-x@jiveon.com>
+Reply-To: jive-98186715-7qj-12-2us@mail.gosp-x.jiveon.com
+To: Marco Parise <288380@gospmail.org.br>
+Message-ID: <38-3700-3-2423-1518197900941.jive.jivemailuser@https://gosp-x.jiveon.com>
+Subject: =?UTF-8?Q?[Comunica=C3=A7=C3=A3o_e_Imprensa]?=
+ =?UTF-8?Q?_-_TR=C3=8AS_NOVOS_IRM=C3=83OS_ABRI?=
+ =?UTF-8?Q?LHANTAM_A_COLUNA_DO_NORTE_DA_ARLS_ESTRELA_D=C2=B4_OESTE?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_136785_1764605944.1518198773543"
+Auto-Submitted: auto-replied
+X-Auto-Response-Suppress: OOF
+List-ID: Comunicação e Imprensa
+Content-Disposition: inline
+X-Jive-Office: jive-98186715-7qj-12-2us@mail.gosp-x.jiveon.com
+X-SG-EID: MC+mAxPPER372lmDFdFHyMxARzYmaHZCEvHbMx1UJ2hHvaqOoq8MA4IKxapRuWnT5lJI/V7kPc7YOy
+ Bk5Jpjcijp2dxiMRSQMXnJkJtc5Zm7WJwOkszcHXa6hQE9l+FQBDl6jAtuGiwSmxgMf1mokxmkosGw
+ 01aHf1Lt6+NXy/mRpF2dvBM7wijRuig4BsgNtYDazObh2iMiJAlBduG28gobwmwLviZdlhb8Kg/Fpp
+ o=
+X-SG-ID: 6Iv2lwEhBxW0L1FeqtuSgBOmISLrKUu9Fa/YMNgnbEH7q/ej1uAa0ra5fG4wBOwChhZ/Vr8IkdnZdE
+ 02uG/BZtsAjM1UFsYdAxoDs7l3rl8=
+
+------=_Part_136785_1764605944.1518198773543
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_136784_1678909631.1518198773543"
+
+------=_Part_136784_1678909631.1518198773543
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+Enilson Martins [https://gosp-x.jiveon.com/people/enilsonsanchesmartins?et=
+=3Dwatches.email.blog] criou a postagem de blog:
+"TR=C3=8AS NOVOS IRM=C3=83OS ABRILHANTAM A COLUNA DO NORTE DA ARLS ESTRELA =
+D=C2=B4 OESTE"=20
+
+Para visualizar a postagem do blog, visite: https://gosp-x.jiveon.com/commu=
+nity/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog=
+/2018/02/09/tr%C3%AAs-novos-irm%C3%A3os-abrilhantam-a-coluna-do-norte-da-ar=
+ls-estrela-d-oeste?et=3Dwatches.email.blog
+
+--------------------------------------------------------------
+=C2=A0
+No dia 05 de fevereiro, sob o comando do Vener=C3=A1vel Mestre J=C3=BAlio C=
+laudio Bim, foi realizada Sess=C3=A3o Magna de Inicia=C3=A7=C3=A3o na ARLS =
+Estrela D=C2=B4 Oeste n=C2=BA 418, no oriente de Ribeir=C3=A3o Preto, quand=
+o os candidatos Ca=C3=AA Alonso Ramos, Lu=C3=ADs Paulo Redondo Trindade e R=
+og=C3=A9rio de Almeida Vila=C3=A7a, receberam a LUZ=C2=A0 e tiveram conheci=
+mento dos mist=C3=A9rios do 1=C2=BA Grau.
+
+Nosso Irm=C3=A3o Ant=C3=B4nio Ernesto Gabrielli Trindade ficou extremamente=
+ emocionado com a inicia=C3=A7=C3=A3o de seu filho.
+
+Presentes os irm=C3=A3os do quadro, v=C3=A1rios visitantes, com destaque pa=
+ra os Poderosos Irm=C3=A3os Vanderlei Gon=C3=A7alves de Souza e Oscar Luiz =
+de Moura Lacerda (Deputados Federais na SAFL), o Vener=C3=A1vel Irm=C3=A3o =
+Renato Garcia Almeida (Secret=C3=A1rio Adjunto de Rela=C3=A7=C3=B5es Intern=
+as pra a 6=C2=AA Macrorregi=C3=A3o do GOSP), Ilustre Irm=C3=A3o Felipe Di L=
+ello Fagundes (Coordenador Estadual da Secretaria de Entidades Parama=C3=A7=
+=C3=B4nicas - Ordem DeMolay no GOSP).
+=C2=A0
+Secretaria Estadual de Comunica=C3=A7=C3=A3o e Imprensa - GOSP
+Irm=C3=A3o Enilson Sanches Martins
+Secret=C3=A1rio Estadual Adjunto de Comunica=C3=A7=C3=A3o e Imprensa na 6=
+=C2=AA macrorregi=C3=A3o
+--------------------------------------------------------------
+
+Comente respondendo a este e-mail ou v=C3=A1 para a postagem do blog em RED=
+E SOCIAL DO GOSP
+[https://gosp-x.jiveon.com/community/secretarias/grande-secretaria-de-comun=
+ica%C3%A7%C3%A3o-e-imprensa/blog/2018/02/09/tr%C3%AAs-novos-irm%C3%A3os-abr=
+ilhantam-a-coluna-do-norte-da-arls-estrela-d-oeste]
+
+
+Este e-mail foi enviado pela REDE SOCIAL DO GOSP porque voc=C3=AA =C3=A9 um=
+ usu=C3=A1rio registrado.
+Voc=C3=AA pode cancelar a assinatura agora mesmo em https://gosp-x.jiveon.c=
+om/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0=
+ee232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c ou ajustar a frequ=C3=AA=
+ncia de e-mail nas prefer=C3=AAncias do seu e-mail (https://gosp-x.jiveon.c=
+om/user-preferences!input.jspa).
+
+------=_Part_136784_1678909631.1518198773543
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+=09
+	<title></title>
+	<style type=3D"text/css">
+    * {
+		margin: 0;
+		padding: 0;
+	}
+	a {
+		color: #3778C7 !important;
+	}
+	body {
+		font-family: Helvetica, Arial, sans-serif;
+		-webkit-text-size-adjust: 100%;
+	}
+	/* Webkit */
+	h1, h2, h3, h4, h5, h6, p, hr {
+		-webkit-margin-before: 0;
+		-webkit-margin-after: 0;
+		-webkit-margin-start: 0;
+		-webkit-margin-end: 0;
+	}
+	.button td {
+		background-image: -moz-linear-gradient(top, #75B7E3 0%, #5498D6 50%, #408=
+BD0 51%, #387AC8 100%) !important;
+		background-image: -webkit-gradient(linear, left top, left bottom, color-s=
+top(0%,#75B7E3), color-stop(50%,#5498D6), color-stop(51%,#408BD0), color-st=
+op(100%,#387AC8)) !important;
+		-webkit-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !impo=
+rtant;
+		-moz-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !importa=
+nt;
+	}
+	</style>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+</head>
+<body style=3D"width:100% !important; -webkit-font-smoothing: antialiased; =
+-webkit-text-size-adjust: 100%;">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff=
+" width=3D"100%" style=3D"background-color: #ffffff; margin: 0; padding: 0;=
+">
+		<tbody>
+			<tr>
+				<td style=3D"padding: 20px 20px 20px 20px;">
+<table class=3D"header" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wi=
+dth=3D"100%">
+	<tbody>
+		<tr>
+			<td valign=3D"top" align=3D"left">
+				<h1 style=3D"color: #333333; margin: 0 0 20px 0; font-weight: normal; f=
+ont-size: 24px; font-family: Helvetica, Arial, sans-serif; text-shadow: rgb=
+a(255,255,255,.9) 0 1px 0;">
+					<!-- To have a header image/logo replace the name below with your img =
+tag -->
+					<!-- Email clients will render the images when the message is read so =
+any image -->
+					<!-- must be made available on a public server, so that all recipients=
+ can load the image. -->
+					<a href=3D"https://gosp-x.jiveon.com/?et=3Dwatches.email.blog" style=
+=3D"color:#333333 !important; text-decoration: none;">
+							<font color=3D"#333333" style=3D"color:#333333;">REDE SOCIAL DO GOSP=
+</font>
+					</a>
+				</h1>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class=3D"content" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ff=
+ffff" border=3D"0" width=3D"100%" style=3D"width: 100%; -moz-border-radius:=
+ 8px; -webkit-border-radius: 8px; border-radius: 8px;">
+	<tbody>
+		<tr>
+			<td valign=3D"middle" style=3D"padding-top: 10px; padding-right: 0px; pa=
+dding-bottom: 20px; padding-left: 0px;"><h2 style=3D'color: #666666; margin=
+: 0 0 0 0; font-weight: normal; font-size: 24px; font-family: Helvetica, Ar=
+ial, sans-serif;'>
+    TR=C3=8AS NOVOS IRM=C3=83OS ABRILHANTAM A COLUNA DO NORTE DA ARLS ESTRE=
+LA D=C2=B4 OESTE
+</h2>
+
+<p style=3D'color: #999999; margin-bottom: 20px; font-size: 12px; line-heig=
+ht: 18px; font-family: Helvetica, Arial, sans-serif;'>
+criado por <a href=3D"https://gosp-x.jiveon.com/people/enilsonsanchesmartin=
+s?et=3Dwatches.email.blog" style=3D'color: #3778C7; text-decoration: none;'=
+>Enilson Martins</a> em <i>Comunica=C3=A7=C3=A3o e Imprensa</i> - <a href=
+=3D"https://gosp-x.jiveon.com/community/secretarias/grande-secretaria-de-co=
+munica%C3%A7%C3%A3o-e-imprensa/blog/2018/02/09/tr%C3%AAs-novos-irm%C3%A3os-=
+abrilhantam-a-coluna-do-norte-da-arls-estrela-d-oeste?et=3Dwatches.email.bl=
+og" style=3D'color: #3778C7; text-decoration: none;'>Visualize a postagem d=
+e blog completa</a></p>
+
+<hr style=3D'background-color: #cccccc; height: 1px; margin-bottom: 20px; b=
+order: none;'>
+
+<div style=3D'color: #666666; margin-bottom: 20px; font-size: 14px; line-he=
+ight: 20px; font-family: Helvetica, Arial, sans-serif;'>
+<div class=3D"jive-rendered-content"><p><span style=3D"font-size: 12.0pt;">=
+&#160;</span></p><p style=3D"text-align: justify;"><span style=3D"font-size=
+: 12.0pt;">No dia 05 de fevereiro, sob o comando do Vener&aacute;vel Mestre=
+ J&uacute;lio Claudio Bim, foi realizada Sess&atilde;o Magna de Inicia&#231=
+;&atilde;o na ARLS Estrela D&acute; Oeste n&#186; 418, no oriente de Ribeir=
+&atilde;o Preto, quando os candidatos Ca&ecirc; Alonso Ramos, Lu&#237;s Pau=
+lo Redondo Trindade e Rog&eacute;rio de Almeida Vila&#231;a, receberam a LU=
+Z&#160; e tiveram conhecimento dos mist&eacute;rios do 1&#186; Grau.</span>=
+</p><p style=3D"min-height: 8pt; padding: 0px; text-align: justify;">&#160;=
+</p><p style=3D"text-align: justify;"><span style=3D"font-size: 12.0pt;">No=
+sso Irm&atilde;o Ant&ocirc;nio Ernesto Gabrielli Trindade ficou extremament=
+e emocionado com a inicia&#231;&atilde;o de seu filho.</span></p><p style=
+=3D"min-height: 8pt; padding: 0px; text-align: justify;">&#160;</p><p style=
+=3D"text-align: justify;"><span style=3D"font-size: 12.0pt;">Presentes os i=
+rm&atilde;os do quadro, v&aacute;rios visitantes, com destaque para os Pode=
+rosos Irm&atilde;os Vanderlei Gon&#231;alves de Souza e Oscar Luiz de Moura=
+ Lacerda (Deputados Federais na SAFL), o Vener&aacute;vel Irm&atilde;o Rena=
+to Garcia Almeida (Secret&aacute;rio Adjunto de Rela&#231;&otilde;es Intern=
+as pra a 6&#170; Macrorregi&atilde;o do GOSP), Ilustre Irm&atilde;o Felipe =
+Di Lello Fagundes (Coordenador Estadual da Secretaria de Entidades Parama&#=
+231;&ocirc;nicas - Ordem DeMolay no GOSP).</span></p><p style=3D"text-align=
+: justify;"><span style=3D"font-size: 12.0pt;">&#160;</span></p><p style=3D=
+"text-align: justify;"><span style=3D"font-size: 12.0pt;">Secretaria Estadu=
+al de Comunica&#231;&atilde;o e Imprensa - GOSP</span></p><p style=3D"text-=
+align: justify;"><span style=3D"font-size: 12.0pt;">Irm&atilde;o Enilson Sa=
+nches Martins</span></p><p style=3D"text-align: justify;"><span style=3D"fo=
+nt-size: 12.0pt;">Secret&aacute;rio Estadual Adjunto de Comunica&#231;&atil=
+de;o e Imprensa na 6&#170; macrorregi&atilde;o</span></p></div>
+</div>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" bgco=
+lor=3D"#f5f5f5" style=3D'padding: 10px; margin-top: 40px;'>
+<tbody>
+	<tr>
+    <td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-heigh=
+t: 20px; font-family: Helvetica, Arial, sans-serif;'>
+	Comente respondendo a este e-mail ou <a href=3D"https://gosp-x.jiveon.com/=
+community/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa=
+/blog/2018/02/09/tr%C3%AAs-novos-irm%C3%A3os-abrilhantam-a-coluna-do-norte-=
+da-arls-estrela-d-oeste?et=3Dwatches.email.blog" style=3D'color: #3778C7; t=
+ext-decoration: none;'>v=C3=A1 para a postagem do blog em REDE SOCIAL DO GO=
+SP</a>
+    </td>
+    </tr>
+
+
+    <tr>
+    <td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-heigh=
+t: 20px; font-family: Helvetica, Arial, sans-serif;'>
+		Seguindo <a href=3D"https://gosp-x.jiveon.com/community/secretarias/grand=
+e-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog?et=3Dwatches.email.bl=
+og" style=3D'color: #3778C7; text-decoration: none;'>Comunica=C3=A7=C3=A3o =
+e Imprensa</a> nestes fluxos:
+     Comunica=C3=A7=C3=A3o e Imprensa
+    </td>
+    </tr>
+</tbody>
+</table>
+<br><br>
+                    <p style=3D'color: #666666; margin-top: 20px; font-size=
+: 14px; line-height: 20px; font-family: Helvetica, Arial, sans-serif;'>
+                        Este e-mail foi enviado pela Rede Social do GOSP po=
+rque voc=C3=AA =C3=A9 um usu=C3=A1rio registrado.
+	                        Voc=C3=AA pode <a href=3D"https://gosp-x.jiveon.co=
+m/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0e=
+e232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c">cancelar a assinatura</a=
+> agora mesmo ou ajustar a frequ=C3=AAncia de e-mail nas <a href=3D"https:/=
+/gosp-x.jiveon.com/user-preferences!input.jspa">prefer=C3=AAncias do seu e-=
+mail</a>
+                    </p>
+            </td>
+		</tr>
+	</tbody>
+</table>
+			    </td>
+			</tr>
+		</tbody>
+	</table>
+
+<img src=3D"http://jiveon.jivesoftware.com/wf/open?upn=3DlkDbH7-2FnFH7oeBGC=
+GoMHz9T22eb3DvjuBfkB1ASadAwAtbqNYYkVs4MwAGOqDuR5N49BZM9PLfhYH64a-2FtseS4DVe=
+2KYtEKG1jtQxJcampyoBTerWwqO6djcZkzxSqXMTgYApP6ipRnTtJCXFFMzSnmI381-2B4OMlO3=
+77TxwIBxmWom781TILTOCe820DPqeHhPP1KVEGHj-2BgqnrsqG49wWAK4BD1Dd1HeVfSbv9YOUJ=
+yLudCoQ-2BfchI9NeLEGmisHfqe5cwKj7HhZkb4Q26Pfgoc2OVyRUWTVPZ-2BIpNK2gzD7AcfHy=
+4-2FoaUSs-2BfbREQ2hQ7dgbkt6-2BuehZvFGDvRlQ-3D-3D" alt=3D"" width=3D"1" heig=
+ht=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !important;b=
+order-width:0 !important;margin-top:0 !important;margin-bottom:0 !important=
+;margin-right:0 !important;margin-left:0 !important;padding-top:0 !importan=
+t;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !im=
+portant;"/>
+</body>
+</html>
+
+------=_Part_136784_1678909631.1518198773543--
+
+------=_Part_136785_1764605944.1518198773543--
+

@@ -1,0 +1,244 @@
+Return-Path: <squintinoj@gmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br with LMTP id CH8rAuD031mBnQwAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Thu, 12 Oct 2017 20:04:00 -0300
+Return-path: <squintinoj@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 12 Oct 2017 20:04:00 -0300
+Received: from mail-qt0-f177.google.com ([209.85.216.177]:51087)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <squintinoj@gmail.com>)
+	id 1e2mWF-003T4T-Rv
+	for marco@digitalfotoimagem.com.br; Thu, 12 Oct 2017 20:03:59 -0300
+Received: by mail-qt0-f177.google.com with SMTP id f15so16544104qtf.7
+        for <marco@digitalfotoimagem.com.br>; Thu, 12 Oct 2017 16:03:34 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc;
+        bh=wEJTAEJQBwAiOjtbNDGjyf6GmqK+8dkrf4SuXbg2Mrs=;
+        b=vbTmKcrGyZ7oM7bXMXW18Ud6cnLKZVVMXBgyLIYtWL7SCDqm/lxLYK4Fxbr+v7kjM4
+         iCnMd7/Yh6a0j1P6tNeHKnxMJGihntk0VYn+nJoF9StYR5mTMS9mKP2fDFkKODWQDj2i
+         GMoqF8AWqQL+29+CHMDXho96L/QTaDj1NLaUrpHvXtInAOcEjrZPAuUVV5fArASysrtJ
+         V6aZjSSYphYKKjbMW+aB5CwNKf3ENxewxeZ9q0hpTHl+sPR81jAYrDtAHEJoqCsPxPYH
+         J52xyFDJEjQNcR3JEXxnOlhB9rpbVyJRT4++6Yb1D4QJY81dXQm2/8rQlzRArXjMgDtO
+         p9bw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:cc;
+        bh=wEJTAEJQBwAiOjtbNDGjyf6GmqK+8dkrf4SuXbg2Mrs=;
+        b=g7oSZQnC4bZFg4/WlgsY0GyTX1jYXGCqsQRf3ErKMvCX1DEoZ09wzFKVAga7UI/gvx
+         +FNeDNhquh3lzvlJA4Wv2P4UoNwDLdvtcTYAXTViBQbNg2maiiFUamG9uAxrvzGwWyiq
+         pstG5Mf+B9D7IQtvt29uy9D64tup8pP09Gl1oEgadN/ATpg7lPyXoZqaotj6dLD9Z7Uy
+         yYAGp2AM5ZJ62bPKcynQyMeSaMrUOtPkuRII9GNy4Fo7YeTXEJQSxncPzzYGjJ2caqEf
+         I3T7C4ExmzZajE+H6NBGHMGfQ08uuFtBCFX7UYqLBv6glJpbrsHwwoYbNt82WiuFryJw
+         IS/w==
+X-Gm-Message-State: AMCzsaUHZ2qflcKBLIy9FmXUxZcVvuvMTAB0pdUBurUuUozeD5nsqFgl
+	7zFJQWBsapjpqOegE0X+m9nmEp02iWW6L0Yo3bw=
+X-Google-Smtp-Source: ABhQp+Tew55ysQ2XSWNiL4QSSQkRIac2crAuTNDObR8YVPDZVabLwI0i8ROEt73J1vpYeKjtwmAKCYxUzyzNA5GgUE4=
+X-Received: by 10.37.82.130 with SMTP id g124mr23469ybb.417.1507849392667;
+ Thu, 12 Oct 2017 16:03:12 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.129.162.197 with HTTP; Thu, 12 Oct 2017 16:03:12 -0700 (PDT)
+In-Reply-To: <054101d3436e$cfa24c60$6ee6e520$@com.br>
+References: <005501d30c0a$390dac40$ab2904c0$@com.br> <054101d3436e$cfa24c60$6ee6e520$@com.br>
+From: "Prof. Sylvio Quintino Jr." <squintinoj@gmail.com>
+Date: Thu, 12 Oct 2017 20:03:12 -0300
+Message-ID: <CAPRHRPOJGFwWeCnfyB3SA6+S3-rrjN++nSE5T2ZdQGkpqKGaGg@mail.gmail.com>
+Subject: =?UTF-8?Q?Re=3A_Parab=C3=A9ns_Atrasado_ao_Marcelo=2C_Nosso_Aniversaria?=
+	=?UTF-8?Q?nte_de_Ontem=2C_11=2F10=2F2017=21=21=21?=
+To: Egoshi da CTT3843 <ctt3843@egoshi.com.br>
+Cc: Humberto de Oliveira Serrano <humberto.serrano@hotmail.com>, 
+	Andre Luis Pereira de Godoi <andrelpgodoi@gmail.com>, Antonio Finardi <ma.finardi@hotmail.com>, 
+	Antonio Celso Tessari <celsotessari@gmail.com>, Antonio Kossei Takara <takar2@terra.com.br>, 
+	=?UTF-8?Q?Benedito_Carlos_Flam=C3=ADnio?= <carlos.flaminio@gmail.com>, 
+	Carlos Mave de Campos Assis <cmave96@gmail.com>, =?UTF-8?Q?Carlos_Rosseti_=28Kak=C3=A1=29?= <carlos.rossetti@uol.com.br>, 
+	=?UTF-8?Q?Dem=C3=A9trio_Muniz_Pendek?= <demetriopendek@hotmail.com>, 
+	Eduardo Camacho <eduardocamacho@uol.com.br>, Eduardo Lopes <ebernardinolopes@uol.com.br>, 
+	Ernani Flausino <ernani.flausino@terra.com.br>, 
+	Everth Alves Bonavolonta <everth@mixlav.com.br>, =?UTF-8?Q?F=C3=A1bio_Roberto_Faria?= <szfaria@gmail.com>, 
+	Fernando Ziesmann Fortes <fernandozf@hotmail.com>, Gilberto Campos <gdcampos@uol.com.br>, 
+	=?UTF-8?Q?H=C3=A9lio_Alvarez_Felix?= <helioamandara@uol.com.br>, 
+	Hideraldo Rodrigues Gomes <enghgomes@gmail.com>, Jair Airton Felix <j.felix10@bol.com.br>, 
+	Johannes Kozlowski <jkozlowski@uol.com.br>, =?UTF-8?Q?Jos=C3=A9_Carlos_de_Lima?= <jcl@tech-air.com.br>, 
+	=?UTF-8?Q?J=C3=BAlio_Cesar_Mattos_de_Faria?= <mattosfaria@terra.com.br>, 
+	Marcelo Eloy Fernandes <marceloeloyfernandes@gmail.com>, 
+	Marcilio Marques Testa <mmtesta43@gmail.com>, Marco Antonio Patriniani <marckopat@live.com>, 
+	=?UTF-8?Q?Marco_Ant=C3=B4nio_Pedrosa_Parise?= <marco@digitalfotoimagem.com.br>, 
+	Marcus Welbi <marcuswelbi@crivodarazao.org.br>, Natanael Costa <ncosta@usa.com>, 
+	Nelson Pendek <nelpendek@hotmail.com>, 
+	"Ricardo C. A. Carvalho" <ricardocarvalho930@gmail.com>, 
+	=?UTF-8?Q?Sebasti=C3=A3o_Rubens_Costa?= <rubens@linart.com.br>, 
+	Silvio Verdiani <sverdiani@terra.com.br>, 
+	Wanderley Santana dos Santos <wanderleyssamtos@gmail.com>, 
+	Wellington Alfano Rodrigues Silva <alfanohi@gmail.com>, =?UTF-8?Q?S=C3=A9rgio_Fosque?= <sergio@aresultado.adm.br>, 
+	=?UTF-8?Q?Andr=C3=A9_Rivail_Medrado?= <professor@medrado.adv.br>, 
+	Alexandre Dellamura Sarmento <dellamura@uol.com.br>, Wladimir Viveiro <wviveiro@live.com>
+Content-Type: multipart/alternative; boundary="001a114231ee6cc2e1055b618b93"
+
+--001a114231ee6cc2e1055b618b93
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Parab=C3=A9ns ao sobrinho Marcelo!!!
+Muitas Felicidades!!!
+Abs
+Sylvio
+
+<https://www.avast.com/sig-email?utm_medium=3Demail&utm_source=3Dlink&utm_c=
+ampaign=3Dsig-email&utm_content=3Dwebmail>
+Livre
+de v=C3=ADrus. www.avast.com
+<https://www.avast.com/sig-email?utm_medium=3Demail&utm_source=3Dlink&utm_c=
+ampaign=3Dsig-email&utm_content=3Dwebmail>.
+<#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>
+
+Em 12 de outubro de 2017 12:28, Egoshi da CTT3843 <ctt3843@egoshi.com.br>
+escreveu:
+
+> Parab=C3=A9ns ao nosso querido sobrinho Marcelo que aniversariou ontem!!!
+>
+>
+>
+> Marcelo =C3=A9 filho do nosso querido Ir\ Serrano.
+>
+>
+>
+> Ao Marcelo, ao Ir\ Serrano e a Toda a Sua Fam=C3=ADlia, ensejamos nossos =
+mais
+> sinceros votos de felicidade e sucesso na vida!!!
+>
+>
+>
+> Esta chancelaria pede desculpas pelo atraso - mas antes tarde que nunca,
+> n=C3=A3o
+> =C3=A9 mesmo?
+>
+>
+>
+> Fraternalmente
+>
+>
+>
+>
+>
+>
+>
+> ---
+> Este email foi escaneado pelo Avast antiv=C3=ADrus.
+> https://www.avast.com/antivirus
+>
+
+
+
+--=20
+
+
+*Prof. Sylvio Quintino JuniorAdvogado e EconomistaSHIGUEMORI Advogados
+Associados *
+
+*www.shiguemoriadvogados.com.br <http://www.shiguemoriadvogados.com.br>(11)
+3331-4140*
+
+*"N=C3=A3o h=C3=A1 Justi=C3=A7a onde n=C3=A3o haja Deus" (Ruy Barbosa)*
+
+ANTES DE IMPRIMIR, pense em sua responsabilidade e compromisso com o MEIO
+AMBIENTE
+---------------------------------------------------------------------------=
+-------------------------------
+"As informa=C3=A7=C3=B5es contidas nesta mensagem e os arquivos anexos s=C3=
+=A3o
+confidenciais e devem ser lidos =C3=BAnica e exclusivamente pelo destinat=
+=C3=A1rio.
+Se voc=C3=AA a recebeu indevidamente, por favor informe ao remetente
+imediatamente e apague toda a mensagem e anexos, sem ler, copiar, gravar,
+distribuir, divulgar ou fazer qualquer uso de  qualquer informa=C3=A7=C3=A3=
+o contida
+nesta mensagem sem o expl=C3=ADcito consentimento do Remetente."
+
+--001a114231ee6cc2e1055b618b93
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Parab=C3=A9ns ao sobrinho Marcelo!!!<div>Muitas Felicidade=
+s!!!</div><div>Abs</div><div>Sylvio</div></div><div id=3D"DAB4FAD8-2DD7-40B=
+B-A1B8-4E2AA1F9FDF2"><br> <table style=3D"border-top:1px solid #d3d4de">
+	<tr>
+      <td style=3D"width:55px;padding-top:18px"><a href=3D"https://www.avas=
+t.com/sig-email?utm_medium=3Demail&amp;utm_source=3Dlink&amp;utm_campaign=
+=3Dsig-email&amp;utm_content=3Dwebmail" target=3D"_blank"><img src=3D"https=
+://ipmcdn.avast.com/images/icons/icon-envelope-tick-round-orange-animated-n=
+o-repeat-v1.gif" alt=3D"" width=3D"46" height=3D"29" style=3D"width: 46px; =
+height: 29px;"></a></td>
+		<td style=3D"width:470px;padding-top:17px;color:#41424e;font-size:13px;fo=
+nt-family:Arial,Helvetica,sans-serif;line-height:18px">Livre de v=C3=ADrus.=
+ <a href=3D"https://www.avast.com/sig-email?utm_medium=3Demail&amp;utm_sour=
+ce=3Dlink&amp;utm_campaign=3Dsig-email&amp;utm_content=3Dwebmail" target=3D=
+"_blank" style=3D"color:#4453ea">www.avast.com</a>. 		</td>
+	</tr>
+</table>
+<a href=3D"#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2" width=3D"1" height=3D"1">=
+</a></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">Em 12 d=
+e outubro de 2017 12:28, Egoshi da CTT3843 <span dir=3D"ltr">&lt;<a href=3D=
+"mailto:ctt3843@egoshi.com.br" target=3D"_blank">ctt3843@egoshi.com.br</a>&=
+gt;</span> escreveu:<br><blockquote class=3D"gmail_quote" style=3D"margin:0=
+ 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">Parab=C3=A9ns ao nos=
+so querido sobrinho Marcelo que aniversariou ontem!!!<br>
+<br>
+<br>
+<br>
+Marcelo =C3=A9 filho do nosso querido Ir\ Serrano.<br>
+<br>
+<br>
+<br>
+Ao Marcelo, ao Ir\ Serrano e a Toda a Sua Fam=C3=ADlia, ensejamos nossos ma=
+is<br>
+sinceros votos de felicidade e sucesso na vida!!!<br>
+<br>
+<br>
+<br>
+Esta chancelaria pede desculpas pelo atraso - mas antes tarde que nunca, n=
+=C3=A3o<br>
+=C3=A9 mesmo?<br>
+<br>
+<br>
+<br>
+Fraternalmente<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+---<br>
+Este email foi escaneado pelo Avast antiv=C3=ADrus.<br>
+<a href=3D"https://www.avast.com/antivirus" rel=3D"noreferrer" target=3D"_b=
+lank">https://www.avast.com/<wbr>antivirus</a><br>
+</blockquote></div><br><br clear=3D"all"><div><br></div>-- <br><div class=
+=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div dir=3D"ltr"><d=
+iv><div dir=3D"ltr"><div><div dir=3D"ltr"><i><b><font color=3D"#000000">Pro=
+f. Sylvio Quintino Junior</font><br><font color=3D"#ff0000">Advogado e Econ=
+omista</font><br><font color=3D"#000000">SHIGUEMORI Advogados Associados=C2=
+=A0</font></b></i></div><div dir=3D"ltr"><i><b><font color=3D"#000000"><a h=
+ref=3D"http://www.shiguemoriadvogados.com.br" target=3D"_blank">www.shiguem=
+oriadvogados.com.br</a><br></font><font color=3D"#ff0000">(11) 3331-4140</f=
+ont></b></i></div><div dir=3D"ltr"><font color=3D"#ff0000"><b><i><br></i></=
+b></font><div><i><font color=3D"#0000ff">&quot;N=C3=A3o h=C3=A1 Justi=C3=A7=
+a onde n=C3=A3o haja Deus&quot; </font>(Ruy Barbosa)</i><br><br>ANTES DE IM=
+PRIMIR, pense em sua responsabilidade e compromisso com o MEIO AMBIENTE<br>=
+---------------------------------------------------------------------------=
+-------------------------------<br>&quot;As informa=C3=A7=C3=B5es contidas =
+nesta mensagem e os arquivos anexos s=C3=A3o confidenciais e devem ser lido=
+s =C3=BAnica e exclusivamente pelo destinat=C3=A1rio. Se voc=C3=AA a recebe=
+u indevidamente, por favor informe ao remetente imediatamente e apague toda=
+ a mensagem e anexos, sem ler, copiar, gravar, distribuir, divulgar ou faze=
+r qualquer uso de=C2=A0 qualquer informa=C3=A7=C3=A3o contida nesta mensage=
+m sem o expl=C3=ADcito consentimento do Remetente.&quot;</div></div></div><=
+/div></div></div></div>
+</div>
+
+--001a114231ee6cc2e1055b618b93--

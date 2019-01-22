@@ -1,0 +1,493 @@
+Return-Path: <585-GGD-959.0.10721.0.0.8215.9.5170223@em-sj-77.mktomail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id MaejG3ht8VjpQgUAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Fri, 14 Apr 2017 21:46:48 -0300
+Return-path: <585-GGD-959.0.10721.0.0.8215.9.5170223@em-sj-77.mktomail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Fri, 14 Apr 2017 21:46:48 -0300
+Received: from delapparentia.mktdns.com ([192.28.146.180]:49262)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <585-GGD-959.0.10721.0.0.8215.9.5170223@em-sj-77.mktomail.com>)
+	id 1czBrT-001Rld-LO
+	for marco@digitalfotoimagem.com.br; Fri, 14 Apr 2017 21:46:47 -0300
+X-MSFBL: bWFyY29AZGlnaXRhbGZvdG9pbWFnZW0uY29tLmJyQGR2cC0xOTItMjgtMTQ2LTE4
+	MEBiZy1zamQtMjg5QDU4NS1HR0QtOTU5OjQwOTk6NzQ0MzoyODkyMjowOjgyMTU6
+	OToxMDcyMTo1MTcwMjIz
+Received: from [10.0.87.249] ([10.0.87.249:43653] helo=sjmas02.marketo.org)
+	by sjmta05.marketo.org (envelope-from <securityupdates@magento.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTP
+	id F2/72-53216-74D61F85; Fri, 14 Apr 2017 19:45:59 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1492217159;
+	s=m1; d=magento.com; i=@magento.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=jp38qpD7SgOQJpdXQgMl7+oTtabqlonTzYTUqLkqFZM=;
+	b=SPl+H6uyRKJkDDpjbtQHNBeZnozM4EkwK6FdRLQS+Vgp80JZDbmTdKpxQueh9UUT
+	8bo/43jPvFOlXbD72KVD0B+FL91jYYsr75is2dhYvkGwU6HBFU7vaREG1lOb4F0rGRf
+	omL4RttWrRD3rlOq/aRNCLIz0VDxDfDlzej6qsH0=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1492217159;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=jp38qpD7SgOQJpdXQgMl7+oTtabqlonTzYTUqLkqFZM=;
+	b=VJapCxM8P0Zb4eIl8PNkMt68RQsHsh+r6TyA/3kgoUGLYMYJ057YX9ddHix0G2G+
+	XulR2+H7efaP9a8XWCLbIwsBgLhBScEEmKlo4Dk6JzxrFsbuRdHoPxiHWZGkHl7K7Av
+	ZJAvbgVwCfFuLADlVNI6XZghUloTB75OBsaQ6Efg=
+Date: Fri, 14 Apr 2017 19:45:59 -0500 (CDT)
+From: Magento <securityupdates@magento.com>
+Reply-To: securityupdates@magento.com
+To: marco@digitalfotoimagem.com.br
+Message-ID: <1097272324.-986418605.1492217159713.JavaMail.root@sjmas02.marketo.org>
+Subject: Information on New Security Vulnerability Reported by Threatpost
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_-986418606_382745927.1492217159713"
+X-Binding: bg-sjd-289
+X-MarketoID: 585-GGD-959:4099:7443:28922:0:8215:9:10721:5170223
+X-MktArchive: false
+List-Unsubscribe: <mailto:GFLESNCONZZGOWKPGY3U43TDGRUWUTTTG5AT2PI.10721.8215.9@unsub-sj.mktomail.com>
+X-Mailfrom: 585-GGD-959.0.10721.0.0.8215.9.5170223@em-sj-77.mktomail.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+
+------=_Part_-986418606_382745927.1492217159713
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<http://email2.magento.com/Y0slm04qH00H0002XGG02D7> security Announcement
+Issue Will Be Addressed in Next Release
+Yesterday, Threatpost reported a story about a remote code execution vulner=
+ability with Magento 2 Enterprise and Community software.=20
+=20
+ Magento is committed to delivering superior security to clients and has be=
+en actively investigating the root cause of the reported issue. We are not =
+aware of any attacks in the wild. Admin access is required to execute the e=
+xploit, so as always, we encourage you to follow best practices <http://ema=
+il2.magento.com/ds0XH73qmH0D000Gl5020G0> to keep your Admin secure.=20
+=20
+ In addition, this vulnerability will be addressed in our next release targ=
+eted for early May. Until then, we recommend enforcing the use of =E2=80=9C=
+Add Secret Key to URLs=E2=80=9D to mitigate potential attacks. To turn on t=
+his feature:=20
+=20
+=20
+=20
+   1. Logon to Merchant Site Admin URL=C2=A0(e.g., your domain.com/admin)
+   2. Click on Stores > Configuration > ADVANCED > Admin > Security > Add S=
+ecret Key to URLs   3. Select YES from the dropdown options   4. Click on S=
+ave Config  =20
+=20
+=20
+For more information about the issue, you can go to Threatpost <http://emai=
+l2.magento.com/LHl2DG00704m0G60H0X0s0q> and DefenseCode <http://email2.mage=
+nto.com/HG0020H0qH70mDl0X7G005s>. We will provide additional information ab=
+out the security update as we get closer to the release date.=20
+=20
+ If you have questions, please feel free to reach out to us at security@mag=
+ento.com <http://email2.magento.com/x0G0000m2670XqG08slH0DH>. In addition, =
+please visit the Magento Security Center <http://email2.magento.com/o027q00=
+9m007HG0l0DGsHX0> to stay up-to-date on best practices, security releases, =
+and potential vulnerabilities.=C2=A0=20
+=20
+ Best regards,=20
+The Magento Security Team
+This email was sent to you because you have agreed to receive information a=
+bout our services. We will only use your information in accordance with our=
+ privacy policy. To unsubscribe from our commercial mailing list, please cl=
+ick here <http://email2.magento.com/u8q0000GlX0s0a02mHHGD70>.
+ Copyright=C2=A9 2017 Magento, Inc. All rights reserved. Magento, Inc. is l=
+ocated at 10441 Jefferson Blvd., Suite 200, Culver City, CA 90232
+
+-
+
+------=_Part_-986418606_382745927.1492217159713
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>=20
+<title>Magento</title>=20
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+=20
+<meta name=3D"viewport" content=3D"width=3Ddevice-width; initial-scale=3D1.=
+0; maximum-scale=3D1.0;">=20
+<style type=3D"text/css">
+/* ********** webfont ********** */
+@font-face {
+        font-family: 'Graphik';
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-R=
+egular.eot');
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-R=
+egular.eot?#iefix') format('embedded-opentype'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Regular.woff2') format('woff2'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Regular.woff') format('woff'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Regular.ttf') format('truetype'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Regular.svg#Graphik-Regular') format('svg');
+        font-weight: normal;
+        font-style: normal;
+}
+
+@font-face {
+        font-family: 'Graphik';
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-B=
+old.eot');
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-B=
+old.eot?#iefix') format('embedded-opentype'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Bold.woff2') format('woff2'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Bold.woff') format('woff'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Bold.ttf') format('truetype'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Bold.svg#Graphik-Bold') format('svg');
+        font-weight: bold;
+        font-style: normal;
+}
+
+@font-face {
+        font-family: 'Graphik';
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-L=
+ight.eot');
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-L=
+ight.eot?#iefix') format('embedded-opentype'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Light.woff2') format('woff2'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Light.woff') format('woff'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Light.ttf') format('truetype'),
+                url('https://info2.magento.com/rs/585-GGD-959/images/Graphi=
+k-Light.svg#Graphik-Light') format('svg');
+        font-weight: 300;
+        font-style: normal;
+}
+@media {
+body {font-family: 'Graphik', sans-serif !important; font-weight:300 !impor=
+tant;}      =20
+* {font-family: 'Graphik', sans-serif !important;}
+}
+/* ********** webfont end ********** */
+
+body {
+        text-align: left;
+        font-family:  Arial, Helvetica, sans-serif;
+        -webkit-text-size-adjust: none;
+        font-size:16px;
+        line-height:22px;
+        color:#626366;
+}
+* {
+        font-family:  Arial, Helvetica, sans-serif;
+}
+img {
+        border: none;
+}
+
+@media only screen and (max-width: 480px) {
+  .table100 {width: 100% !important;float: none !important;}
+  .respPad {padding:0 20px !important;}
+  #altViewContainer { padding:17px 0 !important;}
+  #logoContainer { padding:13px 0 !important;}
+  #logo { text-align:center !important;}
+  #headline { font-size:28px !important; line-height:34px !important;}
+  #ctaContainer { padding-top:22px !important;}
+  #cta_leftColPad { padding:0 !important;}
+  #CTA_copy { font-size:24px !important; line-height:30px !important;}
+  #cta_button { width:100% !important;}
+  #cta_graphic_container { display:none !important;}
+  #ctaBTN { padding:16px 33px !important;}
+  #footerContainer { padding:17px 0 !important;}
+}
+</style>=20
+<style type=3D"text/css">
+=20
+@media (max-width:599px) {=20
+.hide-md {display: none !important;}=20
+}=20
+</style>=20
+</head>=20
+<body bgcolor=3D"#FFFFFF" style=3D"margin:0px; padding:0px; ">=20
+<div align=3D"center" style=3D"">=20
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"background:#fff; " class=3D"table100">=20
+<!-- alternate view -->=20
+<tbody>=20
+<tr style=3D"">=20
+<td id=3D"altViewContainer" valign=3D"top" style=3D"padding:23px 0; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"padding:0 20px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td id=3D"altViewCopy" class=3D"mktEditable" style=3D"text-align:center; fo=
+nt-size:13px; line-height:17px; color:#26a2aa; ">
+<div>=20
+<br>=20
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+<!-- alternate view end -->=20
+<!-- logo -->=20
+<tr style=3D"">=20
+<td id=3D"logoContainer" valign=3D"top" style=3D"padding:28px 0; border-top=
+:solid 1px #d8d9da; border-left:solid 1px #d8d9da; border-right:solid 1px #=
+d8d9da; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"padding:0 34px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td style=3D"text-align:left; " id=3D"logo" class=3D"mktEditable">
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0">=20
+<tbody></tbody>=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" alight=3D"left">=20
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td width=3D"152"><a href=3D
+"http://email2.magento.com/Y0slm04qH00H0002XGG02D7"
+><img src=3D"https://info2.magento.com/rs/585-GGD-959/images/MGO-999R-email=
+-logo.png" height=3D"42" width=3D"152" alt=3D""></a></td>=20
+<td width=3D"378" style=3D"text-align: right; font-family: Arial, Helvetica=
+, sans-serif; font-size: 20px; line-height: 32px; color: #4d4d4d; text-tran=
+sform: uppercase;">security Announcement</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr></tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+<!-- logo end -->=20
+<!-- hero -->=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 0; height:25px; background:#f16323;">=
+</td>=20
+</tr>=20
+<!-- hero end -->=20
+<!-- CTA -->=20
+<tr style=3D"">=20
+<td id=3D"ctaContainer" valign=3D"top" style=3D"padding:0 0; border-left:so=
+lid 1px #d8d9da; border-right:solid 1px #d8d9da; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" styl=
+e=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"padding:0 0; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" styl=
+e=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"">=20
+<!-- column 1 (left) -->=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" widt=
+h=3D"530" class=3D"table100" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"padding:30px 0 0 30px; " id=3D"cta_leftColPad">=
+=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td id=3D"CTA_copy" class=3D"mktEditable" style=3D"font-size:28px; line-hei=
+ght:34px; font-weight:normal; color:#626366; ">
+<div>
+ Issue Will Be Addressed in Next Release=20
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!-- column 2 (right) --> </td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+<!-- CTA end -->=20
+<!-- main body -->=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"padding:35px 0; border-left:solid 1px #d8d9da; =
+border-right:solid 1px #d8d9da; border-bottom:solid 1px #d8d9da; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" styl=
+e=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"padding:0 30px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" styl=
+e=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"">=20
+<!-- column 1 (left) -->=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" widt=
+h=3D"530" class=3D"table100" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td id=3D"bodyCopy" class=3D"mktEditable" style=3D"padding:0 0 20px; font-s=
+ize:16px; line-height:22px; color:#626366; font-weight:300; ">
+<div>
+ Yesterday, Threatpost reported a story about a remote code execution vulne=
+rability with Magento 2 Enterprise and Community software.=20
+<br>=20
+<br> Magento is committed to delivering superior security to clients and ha=
+s been actively investigating the root cause of the reported issue. We are =
+not aware of any attacks in the wild. Admin access is required to execute t=
+he exploit, so as always, we encourage you to follow=20
+<a href=3D
+"http://email2.magento.com/ds0XH73qmH0D000Gl5020G0" target=3D"_blank" style=
+=3D"color: #26a2aa; font-weight: normal;"
+>best practices</a> to keep your Admin secure.=20
+<br>=20
+<br> In addition, this vulnerability will be addressed in our next release =
+targeted for early May. Until then, we recommend enforcing the use of =E2=
+=80=9CAdd Secret Key to URLs=E2=80=9D to mitigate potential attacks. To tur=
+n on this feature:=20
+<br>=20
+<br>=20
+</div>=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding: 0 5px 10px 0;">1.</td>=20
+<td style=3D"padding: 0 0 10px;">Logon to Merchant Site Admin URL&nbsp;(e.g=
+., your domain.com/admin)<br></td>=20
+</tr>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding: 0 5px 10px 0;">2.</td>=20
+<td style=3D"padding: 0 0 10px;">Click on Stores &gt; Configuration &gt; AD=
+VANCED &gt; Admin &gt; Security &gt; Add Secret Key to URLs</td>=20
+</tr>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding: 0 5px 10px 0;">3.</td>=20
+<td style=3D"padding: 0 0 10px;">Select YES from the dropdown options</td>=
+=20
+</tr>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding: 0 5px 10px 0;">4.</td>=20
+<td style=3D"padding: 0 0 10px;">Click on Save Config</td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<div>=20
+<br>For more information about the issue, you can go to=20
+<a href=3D
+"http://email2.magento.com/LHl2DG00704m0G60H0X0s0q" target=3D"_blank" style=
+=3D"color: #26a2aa; font-weight: normal;"
+>Threatpost</a> and=20
+<a href=3D
+"http://email2.magento.com/HG0020H0qH70mDl0X7G005s" target=3D"_blank" style=
+=3D"color: #26a2aa; font-weight:=20
+normal;"
+>DefenseCode</a>. We will provide additional information about the security=
+ update as we get closer to the release date.=20
+<br>=20
+<br> If you have questions, please feel free to reach out to us at=20
+<a href=3D
+"http://email2.magento.com/x0G0000m2670XqG08slH0DH" target=3D"_blank" style=
+=3D"color: #26a2aa; font-weight: normal;"
+>security@magento.com</a>. In addition, please visit the=20
+<a href=3D
+"http://email2.magento.com/o027q009m007HG0l0DGsHX0" target=3D"_blank" style=
+=3D"color: #26a2aa; font-weight: normal;"
+>Magento Security Center</a> to stay up-to-date on best practices, security=
+ releases, and potential vulnerabilities.&nbsp;=20
+<br>=20
+<br> Best regards,=20
+<br>The Magento Security Team=20
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!-- column 2 (right) --> </td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+<!-- main body end -->=20
+<!-- footer -->=20
+<tr style=3D"">=20
+<td id=3D"footerContainer" valign=3D"top" style=3D"padding:25px 0; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"padding:0 20px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100" style=3D"">=20
+<tbody>=20
+<tr style=3D"">=20
+<td id=3D"footer" class=3D"mktEditable" style=3D"text-align:center; font-si=
+ze:9px; color:#aeafb1; line-height:12px; "><p style=3D"mso-table-lspace: 0;=
+ mso-table-rspace: 0; margin: 0;">This email was sent to you because you ha=
+ve agreed to receive information about our services. We will only use your =
+information in accordance with our privacy policy. To unsubscribe from our =
+commercial mailing list, please click <a style=3D"text-decoration: none; fo=
+nt-weight: bold; color: #ef672f;" href=3D
+"http://email2.magento.com/u8q0000GlX0s0a02mHHGD70"
+>here</a>.<br> Copyright=C2=A9 2017 Magento, Inc. All rights reserved. Mage=
+nto, Inc. is located at <span class=3D"appleLinksGrey">10441 Jefferson Blvd=
+., Suite 200, Culver City, CA 90232</span></p></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+<!-- footer end -->=20
+</tbody>=20
+</table>=20
+</div>=20
+<img src=3D"http://info.spearmarketing.com/rs/902-DBM-891/images/spacer.png=
+" class=3D"hide-md" border=3D"0" alt=3D"" width=3D"600" height=3D"1" hspace=
+=3D"0" vspace=3D"0" style=3D"width:600px;min-width:600px"> =20
+<a href=3D
+"http://email2.magento.com/eq009D02000GGm0Hl7bXH0s"
+></a>
+<img src=3D"http://email2.magento.com/trk?t=3D1&mid=3DNTg1LUdHRC05NTk6NDA5O=
+To3NDQzOjI4OTIyOjA6ODIxNTo5OjEwNzIxOjUxNzAyMjM6bWFyY29AZGlnaXRhbGZvdG9pbWFn=
+ZW0uY29tLmJy" width=3D"1" height=3D"1" style=3D"display:none !important;" a=
+lt=3D"" />
+
+<br>
+</body>
+</html>
+------=_Part_-986418606_382745927.1492217159713--

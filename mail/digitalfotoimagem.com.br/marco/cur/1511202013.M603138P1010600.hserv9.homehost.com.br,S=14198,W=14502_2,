@@ -1,0 +1,304 @@
+Return-Path: <marceloeloyfernandes@gmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br with LMTP id 2AncI90cE1qoaw8AY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Mon, 20 Nov 2017 16:20:13 -0200
+Return-path: <marceloeloyfernandes@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Mon, 20 Nov 2017 16:20:13 -0200
+Received: from mail-yb0-f193.google.com ([209.85.213.193]:40507)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <marceloeloyfernandes@gmail.com>)
+	id 1eGqg1-004Eco-AN
+	for marco@digitalfotoimagem.com.br; Mon, 20 Nov 2017 16:20:13 -0200
+Received: by mail-yb0-f193.google.com with SMTP id d59so3387978ybi.7
+        for <marco@digitalfotoimagem.com.br>; Mon, 20 Nov 2017 10:19:48 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc;
+        bh=adGShsqrtqVFm13V6T2zfkEBZt/d/GY+F6RqxXHZW0k=;
+        b=fPiJJr2agjJiRfQe+UR69sVZXnGy5/EjkG0qkwIDQGERXYKBvBDuc3TCxhjKGtTy3c
+         6Dw+gsOqI8sEQR0+m0zNTVQguZ5UuOz1fTq2AgxL11zFnn0wlr+KZwAFtKtAo61bbslL
+         sBluqu96+o5if4Bdg41td0lQps+cnbhPlgE9IJI8ivBzGH6quKFMFULBBDQahqF+NMMT
+         6+YsV9Een+bzVu9K17DiEMpJDyJjo3jjc4Mo4S8L3Z6s+m+2BEfqhxnFtKGTmA/6A9Qb
+         Lke1mc6+iHsul7hCz964rR9sV+BHkVWFQimiIGfY1b8Z8ia95HqVteBLUDk+1RGHPQ1b
+         +ztw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:cc;
+        bh=adGShsqrtqVFm13V6T2zfkEBZt/d/GY+F6RqxXHZW0k=;
+        b=Q8/kepgpncxonVW5RmhoP69Gz5AhEAJodFLd/EbO40ALpLLEKlTlQifm72ZKu5E5Yj
+         dEEel1E31hEXEO05E625K/Jx9RxJUbzSA3T7gYKD6Dtn0yWg6W4JVk8+EOeneoKw0QHY
+         +KeCXw6ET8ZHIg7DL/oBGRvQTgdT43bcHNg/yN6mnQsL/NkuuSmgMn/iZUH1hq0ZL7Km
+         Ju9xRHbodiQ7UR4NG0HrmZBR8ZFE4oY/WtTvNc3kiMFKLwsfxAyQtfVxEa2nAneImzuO
+         0R/YYzxIdJZF0YfUtFYOng4ydXPWn8b4I97xBTMyEt6SSku7gaZumEW/OJGAY6pFToQf
+         slHg==
+X-Gm-Message-State: AJaThX71vc53azTcLnSsPeJq5E5DWV4fkGaxp/xFAMH5NDG5r9OQQd3w
+	xbq6zW8dTA7bIrFPyrbpz+fIk0KIQSaNtB/nz0s=
+X-Google-Smtp-Source: AGs4zMbXIJgcMUNZllaFaHxqYyI/1vKEU35TrieGctGEwKkzVbbH9cWURwvlQvrDSMvtJhkQGKGQAteWQZGip2UCuAI=
+X-Received: by 10.37.55.143 with SMTP id e137mr9386949yba.8.1511201966794;
+ Mon, 20 Nov 2017 10:19:26 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.37.217.83 with HTTP; Mon, 20 Nov 2017 10:19:26 -0800 (PST)
+In-Reply-To: <5a13170c5e6d8_52822aec0ab3f134441c@a4-weasel14.mail>
+References: <5a13170c5e6d8_52822aec0ab3f134441c@a4-weasel14.mail>
+From: Marcelo Eloy <marceloeloyfernandes@gmail.com>
+Date: Mon, 20 Nov 2017 16:19:26 -0200
+Message-ID: <CAO3gwY8aUb63S3Eiq5XmYPyhuEbKWZ5C6gpnLix2o1EBrNi4Xg@mail.gmail.com>
+Subject: =?UTF-8?Q?Re=3A_Parab=C3=A9ns_Atrasado_a_L=C3=A9a_e_ao_Roger=2C_Nossos_Ani?=
+	=?UTF-8?Q?versariantes_de_Ontem=2C_19=2F11=2F2017=21=21=21?=
+To: "carlos.rossetti" <carlos.rossetti@uol.com.br>
+Cc: Egoshi da CTT3843 <ctt3843@egoshi.com.br>, GILBERTO CAMPOS <gdcampos@uol.com.br>, 
+	"andrelpgodoi@gmail.com" <andrelpgodoi@gmail.com>, FINARDI <ma.finardi@hotmail.com>, 
+	Celso Tessari <celsotessari@gmail.com>, Antonio Kossei Takara <takar2@terra.com.br>, 
+	=?UTF-8?Q?Benedito_Carlos_Flam=C3=ADnio?= <carlos.flaminio@gmail.com>, 
+	Mave <cmave96@gmail.com>, =?UTF-8?B?REVNw4lUUklP?= <demetriopendek@hotmail.com>, 
+	eduardocamacho <eduardocamacho@uol.com.br>, EDUARDO LOPES <ebernardinolopes@uol.com.br>, 
+	"B.'. - CTT - Ernani Flausino Gomes" <ernani.flausino@terra.com.br>, 
+	Everth Alves Bonavolonta <everth@mixlav.com.br>, =?UTF-8?B?RsOBQklP?= <szfaria@gmail.com>, 
+	"fernandozf@hotmail.com" <fernandozf@hotmail.com>, =?UTF-8?Q?H=C3=A9lio_Alvarez_Felix?= <helioamandara@uol.com.br>, 
+	Hideraldo Rodrigues Gomes <enghgomes@gmail.com>, "Serrano-RS.'." <humberto.serrano@hotmail.com>, 
+	=?UTF-8?B?RsOpbGl6?= <j.felix10@bol.com.br>, 
+	Johannes Kozlowski <jkozlowski@uol.com.br>, =?UTF-8?Q?Jos=C3=A9_Carlos_=2D_Tech=2DAir?= <jcl@tech-air.com.br>, 
+	=?UTF-8?Q?J=C3=BAlio_Cesar_Mattos_de_Faria?= <mattosfaria@terra.com.br>, 
+	Marcilio Marques Testa <mmtesta43@gmail.com>, Patriniani <marckopat@live.com>, 
+	=?UTF-8?Q?Marco_Ant=C3=B4nio_Pedrosa_Parise?= <marco@digitalfotoimagem.com.br>, 
+	Marcus Welbi <marcuswelbi@crivodarazao.org.br>, Natanael <ncosta@usa.com>, 
+	Pendek <nelpendek@hotmail.com>, 
+	"Ricardo C. A. Carvalho" <ricardocarvalho930@gmail.com>, Rubens Costa <rubens@linart.com.br>, 
+	Silvio Verdiani <sverdiani@terra.com.br>, "Prof. Sylvio Quintino Jr." <squintinoj@gmail.com>, 
+	Wanderley Santana dos Santos <wanderleyssamtos@gmail.com>, Alfano <alfanohi@gmail.com>, 
+	Fosque <sergio@aresultado.adm.br>, 
+	=?UTF-8?Q?Andr=C3=A9_Rivail_Medrado?= <professor@medrado.adv.br>, 
+	Alexandre Dellamura Sarmento <dellamura@uol.com.br>, Wladimir Viveiro wviveiro <wviveiro@live.com>
+Content-Type: multipart/alternative; boundary="001a11473dae6a2dac055e6e2047"
+
+--001a11473dae6a2dac055e6e2047
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+A Lea e ao Roger,
+Sinceros votos de felicidades e muita saude.
+Abra=C3=A7os
+
+
+*Atenciosamente,*
+
+
+*************************************************
+
+
+** Marcelo Eloy Fernandes                * marceloeloyfernandes@gmail.com
+<marceloeloyfernandes@gmail.com>
+************************************************
+
+
+
+2017-11-20 15:55 GMT-02:00 carlos.rossetti <carlos.rossetti@uol.com.br>:
+
+> Lea e Roger
+>
+> receba nossas felicita=C3=A7=C3=B5es pela passagem de seus aniversarios e=
+ receba
+> nossos PARABENS !!!!!
+>
+> kaka
+>
+>
+>
+>
+> ------------------------------
+>
+> *De: *"Egoshi da CTT3843" <ctt3843@egoshi.com.br>
+> *Enviada: *2017/11/20 15:41:45
+> *Para: *gdcampos@uol.com.br
+> *Cc: * andrelpgodoi@gmail.com, ma.finardi@hotmail.com,
+> celsotessari@gmail.com, takar2@terra.com.br, carlos.flaminio@gmail.com,
+> cmave96@gmail.com, carlos.rossetti@uol.com.br, demetriopendek@hotmail.com=
+,
+> eduardocamacho@uol.com.br, ebernardinolopes@uol.com.br,
+> ernani.flausino@terra.com.br, everth@mixlav.com.br, szfaria@gmail.com,
+> fernandozf@hotmail.com, gdcampos@uol.com.br, helioamandara@uol.com.br,
+> enghgomes@gmail.com, humberto.serrano@hotmail.com, j.felix10@bol.com.br,
+> jkozlowski@uol.com.br, jcl@tech-air.com.br, mattosfaria@terra.com.br,
+> marceloeloyfernandes@gmail.com, mmtesta43@gmail.com, marckopat@live.com,
+> marco@digitalfotoimagem.com.br, marcuswelbi@crivodarazao.org.br,
+> ncosta@usa.com, nelpendek@hotmail.com, ricardocarvalho930@gmail.com,
+> rubens@linart.com.br, sverdiani@terra.com.br, squintinoj@gmail.com,
+> wanderleyssamtos@gmail.com, alfanohi@gmail.com, sergio@aresultado.adm.br,
+> professor@medrado.adv.br, dellamura@uol.com.br, wviveiro@live.com,
+> ctt3843@egoshi.c om.br, humberto.serrano@hotmail.com
+> *Assunto: * Parab=C3=A9ns Atrasado a L=C3=A9a e ao Roger, Nossos Aniversa=
+riantes de
+> Ontem, 19/11/2017!!!
+>
+> Parab=C3=A9ns =C3=A0 nossa querida cunhada L=C3=A9a e o querido sobrinho =
+Roger que
+> aniversariaram ontem!!!
+>
+>
+>
+> L=C3=A9a =C3=A9 esposa do nosso querido Ir\ Gilberto Campos. E Roger =C3=
+=A9 filho de
+> ambos.
+>
+>
+>
+> =C3=80 L=C3=A9a, ao Roger e a Toda a Fam=C3=ADlia Campos ensejamos nossos=
+ mais sinceros
+> votos de felicidade e sucesso na vida!!!
+>
+>
+>
+> Esta chancelaria pede desculpas pelo atraso - mas antes tarde que nunca,
+> n=C3=A3o
+> =C3=A9 mesmo?
+>
+>
+>
+> Fraternalmente
+>
+>
+>
+>
+>
+>
+>
+> ---
+> Este email foi escaneado pelo Avast antiv=C3=ADrus.
+> https://www.avast.com/antivirus
+>
+
+--001a11473dae6a2dac055e6e2047
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">A Lea e ao Roger,<div>Sinceros votos de felicidades e muit=
+a saude.</div><div>Abra=C3=A7os</div></div><div class=3D"gmail_extra"><br c=
+lear=3D"all"><div><div class=3D"gmail_signature" data-smartmail=3D"gmail_si=
+gnature"><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div>=
+<br></div><div><i>Atenciosamente,</i></div><div><span style=3D"font-size:12=
+.8000001907349px"><i><br></i></span></div><div><i><span style=3D"font-size:=
+12.8000001907349px">***********************************************</span><=
+br></i></div><i>* Marcelo Eloy Fernandes=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 <br>* <a href=3D"mailto:marceloeloyfernandes@gmail.com=
+" target=3D"_blank">marceloeloyfernandes@gmail.com</a> <br>****************=
+*******************************</i><br><br><br></div></div></div></div></di=
+v></div></div>
+<br><div class=3D"gmail_quote">2017-11-20 15:55 GMT-02:00 carlos.rossetti <=
+span dir=3D"ltr">&lt;<a href=3D"mailto:carlos.rossetti@uol.com.br" target=
+=3D"_blank">carlos.rossetti@uol.com.br</a>&gt;</span>:<br><blockquote class=
+=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padd=
+ing-left:1ex">Lea e Roger<br>
+<br>
+receba nossas felicita=C3=A7=C3=B5es pela passagem de seus aniversarios e r=
+eceba nossos PARABENS !!!!!<br>
+<br>
+kaka
+<div>=C2=A0</div>
+
+<p>=C2=A0</p>
+=C2=A0
+
+<hr>
+<div><br>
+<strong>De: </strong>&quot;Egoshi da CTT3843&quot; &lt;<a href=3D"mailto:ct=
+t3843@egoshi.com.br" target=3D"_blank">ctt3843@egoshi.com.br</a>&gt;<br>
+<strong>Enviada: </strong>2017/11/20 15:41:45<br>
+<strong>Para: </strong><a href=3D"mailto:gdcampos@uol.com.br" target=3D"_bl=
+ank">gdcampos@uol.com.br</a><br>
+<strong>Cc: </strong> <a href=3D"mailto:andrelpgodoi@gmail.com" target=3D"_=
+blank">andrelpgodoi@gmail.com</a>, <a href=3D"mailto:ma.finardi@hotmail.com=
+" target=3D"_blank">ma.finardi@hotmail.com</a>, <a href=3D"mailto:celsotess=
+ari@gmail.com" target=3D"_blank">celsotessari@gmail.com</a>, <a href=3D"mai=
+lto:takar2@terra.com.br" target=3D"_blank">takar2@terra.com.br</a>, <a href=
+=3D"mailto:carlos.flaminio@gmail.com" target=3D"_blank">carlos.flaminio@gma=
+il.com</a>, <a href=3D"mailto:cmave96@gmail.com" target=3D"_blank">cmave96@=
+gmail.com</a>, <a href=3D"mailto:carlos.rossetti@uol.com.br" target=3D"_bla=
+nk">carlos.rossetti@uol.com.br</a>, <a href=3D"mailto:demetriopendek@hotmai=
+l.com" target=3D"_blank">demetriopendek@hotmail.com</a>, <a href=3D"mailto:=
+eduardocamacho@uol.com.br" target=3D"_blank">eduardocamacho@uol.com.br</a>,=
+ <a href=3D"mailto:ebernardinolopes@uol.com.br" target=3D"_blank">ebernardi=
+nolopes@uol.com.br</a>, <a href=3D"mailto:ernani.flausino@terra.com.br" tar=
+get=3D"_blank">ernani.flausino@terra.com.br</a>, <a href=3D"mailto:everth@m=
+ixlav.com.br" target=3D"_blank">everth@mixlav.com.br</a>, <a href=3D"mailto=
+:szfaria@gmail.com" target=3D"_blank">szfaria@gmail.com</a>, <a href=3D"mai=
+lto:fernandozf@hotmail.com" target=3D"_blank">fernandozf@hotmail.com</a>, <=
+a href=3D"mailto:gdcampos@uol.com.br" target=3D"_blank">gdcampos@uol.com.br=
+</a>, <a href=3D"mailto:helioamandara@uol.com.br" target=3D"_blank">helioam=
+andara@uol.com.br</a>, <a href=3D"mailto:enghgomes@gmail.com" target=3D"_bl=
+ank">enghgomes@gmail.com</a>, <a href=3D"mailto:humberto.serrano@hotmail.co=
+m" target=3D"_blank">humberto.serrano@hotmail.com</a>, <a href=3D"mailto:j.=
+felix10@bol.com.br" target=3D"_blank">j.felix10@bol.com.br</a>, <a href=3D"=
+mailto:jkozlowski@uol.com.br" target=3D"_blank">jkozlowski@uol.com.br</a>, =
+<a href=3D"mailto:jcl@tech-air.com.br" target=3D"_blank">jcl@tech-air.com.b=
+r</a>, <a href=3D"mailto:mattosfaria@terra.com.br" target=3D"_blank">mattos=
+faria@terra.com.br</a>, <a href=3D"mailto:marceloeloyfernandes@gmail.com" t=
+arget=3D"_blank">marceloeloyfernandes@gmail.com</a><wbr>, <a href=3D"mailto=
+:mmtesta43@gmail.com" target=3D"_blank">mmtesta43@gmail.com</a>, <a href=3D=
+"mailto:marckopat@live.com" target=3D"_blank">marckopat@live.com</a>, <a hr=
+ef=3D"mailto:marco@digitalfotoimagem.com.br" target=3D"_blank">marco@digita=
+lfotoimagem.com.br</a><wbr>, <a href=3D"mailto:marcuswelbi@crivodarazao.org=
+.br" target=3D"_blank">marcuswelbi@crivodarazao.org.<wbr>br</a>, <a href=3D=
+"mailto:ncosta@usa.com" target=3D"_blank">ncosta@usa.com</a>, <a href=3D"ma=
+ilto:nelpendek@hotmail.com" target=3D"_blank">nelpendek@hotmail.com</a>, <a=
+ href=3D"mailto:ricardocarvalho930@gmail.com" target=3D"_blank">ricardocarv=
+alho930@gmail.com</a>, <a href=3D"mailto:rubens@linart.com.br" target=3D"_b=
+lank">rubens@linart.com.br</a>, <a href=3D"mailto:sverdiani@terra.com.br" t=
+arget=3D"_blank">sverdiani@terra.com.br</a>, <a href=3D"mailto:squintinoj@g=
+mail.com" target=3D"_blank">squintinoj@gmail.com</a>, <a href=3D"mailto:wan=
+derleyssamtos@gmail.com" target=3D"_blank">wanderleyssamtos@gmail.com</a>, =
+<a href=3D"mailto:alfanohi@gmail.com" target=3D"_blank">alfanohi@gmail.com<=
+/a>, <a href=3D"mailto:sergio@aresultado.adm.br" target=3D"_blank">sergio@a=
+resultado.adm.br</a>, <a href=3D"mailto:professor@medrado.adv.br" target=3D=
+"_blank">professor@medrado.adv.br</a>, <a href=3D"mailto:dellamura@uol.com.=
+br" target=3D"_blank">dellamura@uol.com.br</a>, <a href=3D"mailto:wviveiro@=
+live.com" target=3D"_blank">wviveiro@live.com</a>, ctt3843@egoshi.c
+ <a href=3D"http://om.br" target=3D"_blank">om.br</a>, <a href=3D"mailto:hu=
+mberto.serrano@hotmail.com" target=3D"_blank">humberto.serrano@hotmail.com<=
+/a><br>
+<strong>Assunto: </strong> Parab=C3=A9ns Atrasado a L=C3=A9a e ao Roger, No=
+ssos Aniversariantes de Ontem, 19/11/2017!!!<br>
+=C2=A0</div><div class=3D"HOEnZb"><div class=3D"h5">
+Parab=C3=A9ns =C3=A0 nossa querida cunhada L=C3=A9a e o querido sobrinho Ro=
+ger que<br>
+aniversariaram ontem!!!<br>
+<br>
+<br>
+<br>
+L=C3=A9a =C3=A9 esposa do nosso querido Ir\ Gilberto Campos. E Roger =C3=A9=
+ filho de<br>
+ambos.<br>
+<br>
+<br>
+<br>
+=C3=80 L=C3=A9a, ao Roger e a Toda a Fam=C3=ADlia Campos ensejamos nossos m=
+ais sinceros<br>
+votos de felicidade e sucesso na vida!!!<br>
+<br>
+<br>
+<br>
+Esta chancelaria pede desculpas pelo atraso - mas antes tarde que nunca, n=
+=C3=A3o<br>
+=C3=A9 mesmo?<br>
+<br>
+<br>
+<br>
+Fraternalmente<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+---<br>
+Este email foi escaneado pelo Avast antiv=C3=ADrus.<br>
+<a href=3D"https://www.avast.com/antivirus" target=3D"_blank">https://www.a=
+vast.com/<wbr>antivirus</a>
+</div></div></blockquote></div><br></div>
+
+--001a11473dae6a2dac055e6e2047--

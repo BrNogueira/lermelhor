@@ -1,0 +1,237 @@
+#slice1 , #slice2, #slice3, #slice4, #slice5, #slice6, #slice7, #slice8, #slice9, #slice10 {
+  stroke: black;
+}
+
+path {
+  fill: white;
+  stroke: black;
+}
+
+.dive{
+   position: absolute;
+   left: 600px;
+   top: 600px;
+}
+
+.svge{
+  position: absolute;
+  display: inline-block;
+  max-width: 300px;
+  top: 0;
+  justify-content: center;
+  transform-origin: 3% 76%;
+  max-height: 300px;}
+
+path:hover {
+  cursor: pointer;
+}
+
+.container-descriptions {
+  display: inline-block;
+  width: 100%;
+}
+
+.container-descriptions ul {
+  text-decoration: underline;
+  margin-bottom: .5rem;
+  font-family: inherit;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.2;
+  color: inherit;
+}
+
+.container-descriptions li {
+  margin-bottom: 15px;
+}
+.box-descriptions1{
+  background-color: #ffff00;
+  text-align: center;
+  width: calc(50% - 20px);
+  border: 1px solid rgba(0,0, 0.1, 0.1);
+  border-radius: 25px;
+  float: left;
+  margin-bottom: 20px;
+}
+
+.box-descriptions1 li input {
+  background-color: yellow;
+  border: none;
+  text-align: center;
+  padding: 5px;
+  border-bottom: 1px solid #000;
+  margin-left: 10px;
+}
+
+.box-descriptions2{
+  background-color: #09b809;
+  text-align: center;
+  width: calc(50% - 20px);
+  border: 1px solid rgba(0,0, 0.1, 0.1);
+  border-radius: 25px;
+  float: right;
+  margin-bottom: 20px;
+}
+
+.box-descriptions2 li input {
+  background-color: #008000;
+  border: none;
+  text-align: center;
+  padding: 5px;
+  border-bottom: 1px solid #000;
+  margin-left: 10px;
+}
+
+.box-descriptions3{
+  background-color: #ff0000;
+  text-align: center;
+  width: calc(50% - 20px);
+  border: 1px solid rgba(0,0, 0.1, 0.1);
+  border-radius: 25px;
+  float: left;
+}
+
+li {
+  list-style: none;
+}
+
+.box-descriptions3 li input {
+  background-color: #ff0000;
+  border: none;
+  text-align: center;
+  padding: 5px;
+  border-bottom: 1px solid #000;
+  margin-left: 10px;
+}
+
+.box-descriptions4{
+  background-color: #3e3ef3;
+  text-align: center;
+  width: calc(50% - 20px);
+  border: 1px solid rgba(0,0, 0.1, 0.1);
+  border-radius: 25px;
+  float: right;
+}
+
+.box-descriptions4 li input {
+  background-color: #0000ff;
+  border: none;
+  text-align: center;
+  padding: 5px;
+  border-bottom: 1px solid #000;
+  margin-left: 10px;
+}
+
+.roadmap{
+  display: inline-block;
+  position: absolute;
+}
+.roadmap .img {
+  display: inherit;
+  text-align: center;
+}
+.roadmap .first-box-text {
+  position: absolute;
+  top: 20px;
+  color: #000;
+  left: 650px;
+  font-size: 16px;
+  border: 1px solid #8d9aa6;
+}
+
+.roadmap .sec-box-text {
+  position: absolute;
+  top: 100px;
+  color: #000;
+  left: 450px;
+  font-size: 16px;
+  border: 1px solid #8d9aa6;
+}
+
+.roadmap .tr-box-text {
+  position: absolute;
+  top: 240px;
+  color: #000;
+  left: 650px;
+  font-size: 16px;
+  border: 1px solid #8d9aa6;
+}
+
+.roadmap .fort-box-text {
+  position: absolute;
+  top: 280px;
+  color: #000;
+  left: 340px;
+  font-size: 16px;
+  border: 1px solid #8d9aa6;
+}
+
+.roadmap .fiv-box-text {
+  position: absolute;
+  top: 350px;
+  color: #000;
+  left: 570px;
+  font-size: 16px;
+  border: 1px solid #8d9aa6;
+}
+
+.roadmap .six-box-text {
+  position: absolute;
+  top: 410px;
+  color: #000;
+  left: 250px;
+  font-size: 16px;
+  border: 1px solid #8d9aa6;
+}
+
+.roadmap .sev-box-text {
+  position: absolute;
+  top: 510px;
+  color: #000;
+  left: 450px;
+  font-size: 16px;
+  border: 1px solid #8d9aa6;
+}
+
+.roadmap .eig-box-text {
+  position: absolute;
+  top: 670px;
+  color: #000;
+  left: 400px;
+  font-size: 16px;
+  border: 1px solid #8d9aa6;
+}
+.button-col {
+  justify-content: center;
+}
+.button-col .print-btn {
+    padding: 10px 25px;
+    border: 3px solid #f16c20;
+    border-color: #f16c20;
+    border-radius: 30px;
+    color: #f16c20;
+    background: rgba(241,108,32,0.4);
+    font-size: 20px;
+    white-space: initial;
+    text-decoration: none;
+}
+.print-btn:hover {
+  border-color: #f16c20;
+  color: #fff;
+  background: #f16c20;
+  text-decoration: none;
+}
+
+.roda-vida {
+  display: inline !important;
+}
+.roda-vida, .h2 {
+  display: inline !important;
+  justify-content: center;
+  text-align: center;
+}
+
+.roda-vida, a{
+  display: block;
+  justify-content: center;
+} 

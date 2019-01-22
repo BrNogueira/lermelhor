@@ -1,0 +1,145 @@
+Return-Path: <mmtesta43@gmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id UdX2FaUtglmYBAIAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Wed, 02 Aug 2017 16:53:09 -0300
+Return-path: <mmtesta43@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Wed, 02 Aug 2017 16:53:09 -0300
+Received: from mail-qt0-f172.google.com ([209.85.216.172]:35948)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <mmtesta43@gmail.com>)
+	id 1dczhd-000YmZ-7l
+	for marco@digitalfotoimagem.com.br; Wed, 02 Aug 2017 16:53:09 -0300
+Received: by mail-qt0-f172.google.com with SMTP id v29so33308096qtv.3
+        for <marco@digitalfotoimagem.com.br>; Wed, 02 Aug 2017 12:52:44 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc;
+        bh=BzD3KxD0AQlXKZxOoPj0hpxyBAKpoMF/AtNAdw8hH1Y=;
+        b=maN/8DmKHEFczt5pSKsgV7BqRAAeF0Micax3NTIM9aF9WlB0JgRVD/Ug3QK7SlcVX9
+         ELrglW4KcRz7c+0NurvzNMEdT2+W4xtoZQizPkO//P4g9tJytgDyG9wg4NjLsG4ALUlb
+         j/A83DbvcjG4rYjPSFu9/zrEnh0LtkW9WenFaPcmrGZrL/Eztm4x6AZDDXDFWXATGHQE
+         tXjYtQjWb/uvCk2hl3kHvnIrUM5vCl9spJ9q1WdA9JCMUZrDHDAJmsRJumjRY/XpPYGD
+         aVI22bJkTYMH7LITJjJbySkiGAxoe86XdlE5ZNDNjWKqc7klXZXYpmJPQ+lor9wIpi01
+         xlQw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:cc;
+        bh=BzD3KxD0AQlXKZxOoPj0hpxyBAKpoMF/AtNAdw8hH1Y=;
+        b=cOys2CE6JZtsXEvPri+yjt48EB/POLwRZmENySn7DqZIxbC4Qr5/hFsH5leWTEyb4B
+         zBFijMiKPqKNUknH7jfMu5qakvaZeu2RbDquHjZzwZdpwaIbOVMH9hBdAutdjL6H8jg+
+         HaudDtTD27wVhQDK7ENNNXcOqew8Pt74IrgD4ymhUaETV3F2+pfTa4W3sB1CUCuJK0DV
+         o/BOdJuhMqrRwcI7A9ehDHSsiDKU5We4a6pPJlRGdYlRvJ4eE7k1gtLZpfPUbn9lmexC
+         DA/lgrxxxwmZJfsg12dpj7eRnVJcLF9PGGnKy071i0Bm7LatUNwgmGN0LZ4m5kzYERQ1
+         4K2w==
+X-Gm-Message-State: AIVw113VrppQU6SzeTyVek023KHZ5/Vzje72a/PE9pSrhXgwCj3siTHw
+	kDmmLzHBYwimxgeL0FTHs7O4ppbTzw==
+X-Received: by 10.237.35.237 with SMTP id k42mr3951557qtc.226.1501703543216;
+ Wed, 02 Aug 2017 12:52:23 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.237.54.69 with HTTP; Wed, 2 Aug 2017 12:52:22 -0700 (PDT)
+In-Reply-To: <CAD5DfqAqM2Nh+Ejb=mU8kPj2ctNNZp5gUQh4MNcQtfAvJp3k5w@mail.gmail.com>
+References: <CAD5DfqAqM2Nh+Ejb=mU8kPj2ctNNZp5gUQh4MNcQtfAvJp3k5w@mail.gmail.com>
+From: Marcilio Testa <mmtesta43@gmail.com>
+Date: Wed, 2 Aug 2017 16:52:22 -0300
+Message-ID: <CAL+nqQqog8ujC4ZMnN_SsL4gr+QgY+L=MA1xoiefdEyWBqt33Q@mail.gmail.com>
+Subject: Re: TRABALHO ERAC SP
+To: "Wanderley Samtos .'." <wanderleyssamtos@gmail.com>
+Cc: Andre Luis Pereira de Godoi <andrelpgodoi@gmail.com>, celso@gmail.com, 
+	marcelo finardi <ma.finardi@hotmail.com>, takar2@terra.com.br, 
+	=?UTF-8?B?QmVuw6o=?= <carlos.flaminio@gmail.com>, 
+	Carlos Mave <cmave96@gmail.com>, carlos.rossetti@uol.com.br, 
+	=?UTF-8?B?REVNw4lUUklP?= <demetriopendek@hotmail.com>, 
+	eduardocamacho@uol.com.br, ebernardinolopes@uol.com.br, 
+	ernani.flausino@terra.com.br, EVERTH <everth@mixlav.com.br>, 
+	=?UTF-8?B?RsOhYmlvIEZhcmlh?= <szfaria@gmail.com>, fernandozf@hotmail.com, 
+	GILBERTO CAMPOS <gdcampos@uol.com.br>, helioamandara@uol.com.br, 
+	hideraldo gomes <enghgomes@gmail.com>, humberto.serrano@hotmail.com, j.felix10@bol.com.br, 
+	Johannes Kozlowski <jkozlowski@uol.com.br>, jcl@tech-air.com.br, mattosfaria@terra.com.br, 
+	ctt3843@egoshi.com.br, Marcelo Eloy <marceloeloyfernandes@gmail.com>, 
+	marco@digitalfotoimagem.com.br, agenda@coachingpravoce.com.br, 
+	Marco Ppatriniani <marckopat@live.com>, marcuswelbi@crivodarazao.org.br, 
+	Natanael Costa <ncosta@usa.com>, nelpendek@hotmail.com, 
+	RICARDO C A CARVALHO <ricardocarvalho930@gmail.com.br>, rubens@linart.com.br, 
+	=?UTF-8?B?QcOnw6NvIGUgUmVzdWx0YWRv?= <sergio@aresultado.adm.br>, 
+	squintinoj@gmail.com, Silvio Verdiani <sverdiani@terra.com.br>, 
+	Wellington Alfano Rodrigues Silva <alfanohi@gmail.com>, ". '. Wladimir Viveiro" <wviveiro@live.com>
+Content-Type: multipart/alternative; boundary="001a11370768405ea40555ca9aae"
+
+--001a11370768405ea40555ca9aae
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Queridos IIr.'. AApr.'. CComp.'. da CTT,
+
+Parab=C3=A9ns, gostei do Trabalho a ser apresentado no Pr=C3=B3ximo ERAC, s=
+imple e
+objetivo, dando a entender que a Equipe trabalhou Junta, fazendo um
+Trabalho Perfeito,
+
+Marcilio Testa
+
+No dia 2 de agosto de 2017 =C3=A0s 12:32, Wanderley Samtos .'. <
+wanderleyssamtos@gmail.com> escreveu:
+
+> *Meus IIr.'. segue anexo o trabalho que ser=C3=A1 apresentado no ERAC_ SP=
+ ,
+> qualquer duvida estarei a disposi=C3=A7=C3=A3o.*
+> *TFA.'.*
+>
+> *Wanderley dos Samtos .'.*
+> *accounting expertise*
+> *wanderleyssamtos@gmail.com <wanderleyssamtos@gmail.com>*
+>
+>
+>
+> *wanderleysamtos.blogspot.com.br
+> <http://wanderleysamtos.blogspot.com.br>011-96323.11.10O homem de bem exi=
+ge
+> tudo de si pr=C3=B3prio, omed=C3=ADocre espera tudo dos outros(Conf=C3=BA=
+cio)*
+>
+
+--001a11370768405ea40555ca9aae
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Queridos IIr.&#39;. AApr.&#39;. CComp.&#39;. da CTT,<div><=
+br></div><div>Parab=C3=A9ns, gostei do Trabalho a ser apresentado no Pr=C3=
+=B3ximo ERAC, simple e objetivo, dando a entender que a Equipe trabalhou Ju=
+nta, fazendo um Trabalho Perfeito,</div><div><br></div><div>Marcilio Testa<=
+/div></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">No dia=
+ 2 de agosto de 2017 =C3=A0s 12:32, Wanderley Samtos .&#39;. <span dir=3D"l=
+tr">&lt;<a href=3D"mailto:wanderleyssamtos@gmail.com" target=3D"_blank">wan=
+derleyssamtos@gmail.com</a>&gt;</span> escreveu:<br><blockquote class=3D"gm=
+ail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-le=
+ft:1ex"><div dir=3D"ltr"><b><font size=3D"4">Meus IIr.&#39;. segue anexo o =
+trabalho que ser=C3=A1 apresentado no ERAC_ SP , qualquer duvida estarei a =
+disposi=C3=A7=C3=A3o.</font></b><div><b><font size=3D"4">TFA.&#39;.</font><=
+/b></div><div><br clear=3D"all"><div><div class=3D"m_-4034257109766723646gm=
+ail_signature" data-smartmail=3D"gmail_signature"><div dir=3D"ltr"><div><di=
+v dir=3D"ltr"><div style=3D"color:rgb(51,51,51);font-family:sans-serif,Aria=
+l,Verdana,&quot;Trebuchet MS&quot;;font-size:13px;line-height:20.8px"><em><=
+span style=3D"font-family:&quot;courier new&quot;,courier"><strong>Wanderle=
+y dos Samtos .&#39;.</strong></span></em></div><div style=3D"color:rgb(51,5=
+1,51);font-family:sans-serif,Arial,Verdana,&quot;Trebuchet MS&quot;;font-si=
+ze:13px;line-height:20.8px"><em><span style=3D"font-family:&quot;courier ne=
+w&quot;,courier"><strong>accounting expertise</strong></span></em></div><fo=
+nt face=3D"courier new, courier"><span style=3D"font-size:13px;line-height:=
+20.8px"><b><i><a href=3D"mailto:wanderleyssamtos@gmail.com" target=3D"_blan=
+k">wanderleyssamtos@gmail.com</a></i></b></span></font><br><div style=3D"co=
+lor:rgb(51,51,51);font-family:sans-serif,Arial,Verdana,&quot;Trebuchet MS&q=
+uot;;font-size:13px;line-height:20.8px"><em><span style=3D"font-family:&quo=
+t;courier new&quot;,courier"><a href=3D"http://wanderleysamtos.blogspot.com=
+.br" target=3D"_blank">wanderleysamtos.blogspot.com.<wbr>br</a><br><strong>=
+011-96323.11.10<br>O homem de bem exige tudo de si pr=C3=B3prio,=C2=A0o<br>=
+med=C3=ADocre espera tudo dos outros(Conf=C3=BAcio)</strong></span></em></d=
+iv></div></div></div></div></div>
+</div></div>
+</blockquote></div><br></div>
+
+--001a11370768405ea40555ca9aae--

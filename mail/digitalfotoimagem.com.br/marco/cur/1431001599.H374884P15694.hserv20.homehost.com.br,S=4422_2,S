@@ -1,0 +1,83 @@
+Return-path: <carlos.rossetti@uol.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 07 May 2015 09:26:39 -0300
+Received: from a4-shark2.uol.com.br ([200.147.97.210]:60125)
+	by hserv20.homehost.com.br with esmtp (Exim 4.85)
+	(envelope-from <carlos.rossetti@uol.com.br>)
+	id 1YqKsY-0003v5-6f
+	for marco@digitalfotoimagem.com.br; Thu, 07 May 2015 09:26:38 -0300
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by a4-shark2.uol.com.br (Postfix) with ESMTP id 9CD2D3800090
+	for <marco@digitalfotoimagem.com.br>; Thu,  7 May 2015 09:26:11 -0300 (BRT)
+Received: from a4-shark2.host.intranet (localhost.localdomain [127.0.0.1])
+	by a4-shark2.uol.com.br (Postfix) with ESMTP id 55E6B3800087
+	for <marco@digitalfotoimagem.com.br>; Thu,  7 May 2015 09:26:09 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=uol.com.br; s=ubz;
+	t=1431001571; bh=4/80VRHAPhge/Rsm8kutMPzPFK5O22Nxz9raXchGRvM=;
+	h=Date:From:To:in-reply-to:references:Subject;
+	b=aJ7WhT5y46+3Pzox6j/5OXcu/BuglM2435r8vIpfsZ5z6PKF7LpxgarWrrWx0PBsQ
+	 3rq/jQK2MjbUUQknaMblSOXQRi/ixkz7aCOiqMyzzVyGsRL7D9+gxxRH8spIMwFYz0
+	 Gy2giahERpdpso78hTxX22aSebHNah7baggfnfXA=
+Received: from uol.com.br (a4-weasel4.host.intranet [10.131.133.69])
+	by a4-shark2.host.intranet (Postfix) with ESMTP id 47D853800082
+	for <marco@digitalfotoimagem.com.br>; Thu,  7 May 2015 09:26:09 -0300 (BRT)
+Date: Thu, 07 May 2015 09:26:09 -0300
+From: "carlos.rossetti" <carlos.rossetti@uol.com.br>
+To: marco@digitalfotoimagem.com.br
+Message-ID: <554b59e1414a9_171915665ff973e440c7@a4-weasel4.mail>
+in-reply-to: ["2ef9359259bb61adb54f68fc09915afc@digitalfotoimagem.com.br"]
+references: ["554a33cf5072a_203b157fc01f73e0186c8@a4-weasel9.mail",
+ "2ef9359259bb61adb54f68fc09915afc@digitalfotoimagem.com.br"]
+Subject: Re: teste
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-SenderIP: 177.45.124.61
+X-SIG5: 145770d03078e9e8e3c1e327b1a237d7
+X-Spam-Status: No, score=-0.9
+X-Spam-Score: -8
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hserv20.homehost.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Pupilo bom dia engraÃ§ado seus e-mail caem direto na minha
+    caixa de QUARENTENA Â [...] 
+ 
+ Content analysis details:   (-0.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: digitalfotoimagem.com.br]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (carlos.rossetti[at]uol.com.br)
+ -0.0 T_RP_MATCHES_RCVD      Envelope sender domain matches handover relay
+                             domain
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.7 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.4 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+X-Spam-Flag: NO
+
+<div>Pupilo bom dia <br /> <br />engra=C3=A7ado seus e-mail caem direto n=
+a minha caixa de QUARENTENA </div>
+<div>=C2=A0</div>
+<hr style=3D"border-top: 1px solid #ccc;" />
+<div><br /><strong>De:</strong> marco@digitalfotoimagem.com.br<br /><stro=
+ng>Enviada:</strong> Quarta-feira, 6 de Maio de 2015 12:32<br /><strong>P=
+ara:</strong> carlos.rossetti@uol.com.br<br /><strong>Assunto:</strong> t=
+este<br /><br />chegou sim kaka<br /><br />On Wed, 06 May 2015 12:31:27 -=
+0300, carlos.rossetti wrote:<br />&gt; chegou ???<br /><br /><br /></div>=

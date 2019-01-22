@@ -1,0 +1,188 @@
+Return-Path: <celsotessari@gmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br with LMTP id yP+xA+iLvVkj9AkAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Sat, 16 Sep 2017 17:39:04 -0300
+Return-path: <celsotessari@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sat, 16 Sep 2017 17:39:04 -0300
+Received: from mail-vk0-f43.google.com ([209.85.213.43]:45610)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <celsotessari@gmail.com>)
+	id 1dtJrj-002jmE-U5
+	for marco@digitalfotoimagem.com.br; Sat, 16 Sep 2017 17:39:04 -0300
+Received: by mail-vk0-f43.google.com with SMTP id w23so2315537vkw.2
+        for <marco@digitalfotoimagem.com.br>; Sat, 16 Sep 2017 13:38:39 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc;
+        bh=UFjYizj5vtLsNPjZa0zz2C4VY9VLpd4VmxjWMeDYnWg=;
+        b=FGYe499A8lOJDlk5Zlgs4sTdFGd8DjfKp7f0w0P69Dh/4PBUjG0uFmPylROkrTI04j
+         hkfB3cOPII/1Sbrl/6qIl0T3Tr1b2oo4GiDwS6Hla5pT5AjAA3t6fdmPOkwVzUcXdwzs
+         mgZywgEz5VKg089kOMc1uvHQzZl6zjjn5iaippf8LZlB1WxyOOap8FXOLZxubzKq7pAC
+         ATB94/5wI8TDWJAZeCjJR+A0TxwnUNao1u6x3Q4xNnmFFQGHffxSdd/R10TKMM4jG6Sd
+         xE0ms3kP5Qiro9psea3fxYGqpjsv0LY++hUbbOhxAnqBUENviu5tWnWSP+Y/21FyJ92a
+         VUGA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:cc;
+        bh=UFjYizj5vtLsNPjZa0zz2C4VY9VLpd4VmxjWMeDYnWg=;
+        b=NxvoRnxNhcIuDUylyndkYRJdUzA2rA6NcWcfFkIkKDBf//buXkK/9lqdMCrAUYbc7G
+         YKM/ljOyOziobHEiZzCIpCDGBugsLaDuT9IX0vCNTk7fFrfJb8BtW6ewMQiYIhjIp7Jy
+         quZ4R4mik0XtEeg8FIe8r4UIB+g+p3DqdUlVWQMdQP5ibzPwXsTX64Xk/DUSXH3o6oRE
+         QdEk4gqlUovYoF/Wyeg2z2JZ7AKM0U7Ot+uDV/4erx4c7dBegUlDXvpsBzo5JCEfDw5P
+         8c7tJwuBFRQUQBXt65BTakH4TwI/ODlwTL1X9y12h/VCdtF4LMCQ1+dppMtZ0n21xY+t
+         IA6Q==
+X-Gm-Message-State: AHPjjUiVxB2zW2pxLdPGPZVPQMyocQ0L45Wue5t+nAd7vdaNIn4R0Nd7
+	iS2aSNYGZ0C7xrnLvGiVnZWm6tPxvv9lSHbR7oQ=
+X-Google-Smtp-Source: AOwi7QC44B1D+PXq05Mhd9gQm4x4jHZdUE1EVHKgqPbVey6gcexoDscO6LM5GF5hXVXJbFMQLQ5Bzf09G6/bNnTt7ls=
+X-Received: by 10.31.21.131 with SMTP id 125mr22079306vkv.97.1505594297309;
+ Sat, 16 Sep 2017 13:38:17 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.103.84.29 with HTTP; Sat, 16 Sep 2017 13:38:16 -0700 (PDT)
+Received: by 10.103.84.29 with HTTP; Sat, 16 Sep 2017 13:38:16 -0700 (PDT)
+In-Reply-To: <RO1P15201MB2553B8AC2C4933733CA3E697AC6D0@RO1P15201MB2553.LAMP152.PROD.OUTLOOK.COM>
+References: <005501d30c0a$390dac40$ab2904c0$@com.br> <085801d32eeb$4a5ff030$df1fd090$@com.br>
+ <RO1P15201MB2553B8AC2C4933733CA3E697AC6D0@RO1P15201MB2553.LAMP152.PROD.OUTLOOK.COM>
+From: Celso Tessari <celsotessari@gmail.com>
+Date: Sat, 16 Sep 2017 17:38:16 -0300
+Message-ID: <CAHmvFtirR+uBh4JK0wZMW7gg_oze6QpB5NWp=T3fXJQ+xN=oSA@mail.gmail.com>
+Subject: =?UTF-8?B?UmU6IFBhcmFiw6lucyDDoCBCaWFuY2EsIE5vc3NhIEFuaXZlcnNhcmlhbnRlIGRlIEhvag==?=
+	=?UTF-8?B?ZSwgMTYvMDkvMjAxNyEhIQ==?=
+To: WLADIMIR VIVEIRO <wviveiro@live.com>
+Cc: Alfano <alfanohi@gmail.com>, Mave <cmave96@gmail.com>, 
+	Antonio Kossei Takara <takar2@terra.com.br>, =?UTF-8?Q?Dem=C3=A9trio_Muniz_Pendek?= <demetriopendek@hotmail.com>, 
+	Jair Airton Felix <j.felix10@bol.com.br>, 
+	=?UTF-8?Q?Carlos_Rosseti_=28Kak=C3=A1=29?= <carlos.rossetti@uol.com.br>, 
+	Wanderley Santana dos Santos <wanderleyssamtos@gmail.com>, 
+	"Ricardo C. A. Carvalho" <ricardocarvalho930@gmail.com>, Natanael Costa <ncosta@usa.com>, 
+	=?UTF-8?Q?H=C3=A9lio_Alvarez_Felix?= <helioamandara@uol.com.br>, 
+	Everth Alves Bonavolonta <everth@mixlav.com.br>, Silvio Verdiani <sverdiani@terra.com.br>, 
+	=?UTF-8?Q?J=C3=BAlio_Cesar_Mattos_de_Faria?= <mattosfaria@terra.com.br>, 
+	Gilberto Campos <gdcampos@uol.com.br>, Antonio Finardi <ma.finardi@hotmail.com>, 
+	Johannes Kozlowski <jkozlowski@uol.com.br>, =?UTF-8?Q?Sebasti=C3=A3o_Rubens_Costa?= <rubens@linart.com.br>, 
+	Hideraldo Rodrigues Gomes <enghgomes@gmail.com>, Andre Luis Pereira de Godoi <andrelpgodoi@gmail.com>, 
+	Fernando Ziesmann Fortes <fernandozf@hotmail.com>, Marcilio Marques Testa <mmtesta43@gmail.com>, 
+	Eduardo Camacho <eduardocamacho@uol.com.br>, 
+	=?UTF-8?Q?Marco_Ant=C3=B4nio_Pedrosa_Parise?= <marco@digitalfotoimagem.com.br>, 
+	=?UTF-8?Q?Jos=C3=A9_Carlos_de_Lima?= <jcl@tech-air.com.br>, 
+	Egoshi da CTT3843 <ctt3843@egoshi.com.br>, Marcus Welbi <marcuswelbi@crivodarazao.org.br>, 
+	Humberto de Oliveira Serrano <humberto.serrano@hotmail.com>, Eduardo Lopes <ebernardinolopes@uol.com.br>, 
+	=?UTF-8?Q?F=C3=A1bio_Roberto_Faria?= <szfaria@gmail.com>, 
+	=?UTF-8?Q?S=C3=A9rgio_Fosque?= <sergio@aresultado.adm.br>, 
+	Ernani Flausino <ernani.flausino@terra.com.br>, 
+	=?UTF-8?Q?Benedito_Carlos_Flam=C3=ADnio?= <carlos.flaminio@gmail.com>, 
+	Marcelo Eloy Fernandes <marceloeloyfernandes@gmail.com>, 
+	Marco Antonio Patriniani <marckopat@live.com>, Sylvio Quintino Junior <squintinoj@gmail.com>, 
+	Nelson Pendek <nelpendek@hotmail.com>
+Content-Type: multipart/alternative; boundary="001a1143a8064461260559547da6"
+
+--001a1143a8064461260559547da6
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Obrigado meus IIr.'.
+
+Em 16 de set de 2017 17:16, "Wladimir Viveiro" <wviveiro@live.com> escreveu=
+:
+
+> Parab=C3=A9ns Bianca! Irm=C3=A3o Tessari leve nossos parab=C3=A9ns para a=
+ sobrinha e
+> nosso desejo de felicidades e sucesso!
+>
+> Wladimir Viveiro
+>
+> Em 16 de set de 2017, =C3=A0s 09:57, Egoshi da CTT3843 <ctt3843@egoshi.co=
+m.br>
+> escreveu:
+>
+> Parab=C3=A9ns =C3=A0 nossa querida sobrinha *Bianca *que est=C3=A1 aniver=
+sariando hoje!!!
+>
+>
+>
+> *Bianca *=C3=A9 filha do nosso querido Ir\ *Tessari*.
+>
+>
+>
+> =C3=80 *Bianca, ao *Ir\ *Tessari* e a *Toda a Sua Fam=C3=ADlia*, ensejamo=
+s nossos
+> mais sinceros votos de felicidade e sucesso na vida!!!
+>
+>
+>
+> Fraternalmente
+>
+>
+>
+> <image001.png>
+>
+>
+
+--001a1143a8064461260559547da6
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Obrigado meus IIr.&#39;.</div><div class=3D"gmail_extra">=
+<br><div class=3D"gmail_quote">Em 16 de set de 2017 17:16, &quot;Wladimir V=
+iveiro&quot; &lt;<a href=3D"mailto:wviveiro@live.com">wviveiro@live.com</a>=
+&gt; escreveu:<br type=3D"attribution"><blockquote class=3D"gmail_quote" st=
+yle=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+
+
+
+<div dir=3D"auto">
+<div>Parab=C3=A9ns Bianca! Irm=C3=A3o Tessari leve nossos parab=C3=A9ns par=
+a a sobrinha e nosso desejo de felicidades e sucesso!<br>
+<br>
+Wladimir Viveiro</div>
+<div><br>
+Em 16 de set de 2017, =C3=A0s 09:57, Egoshi da CTT3843 &lt;<a href=3D"mailt=
+o:ctt3843@egoshi.com.br" target=3D"_blank">ctt3843@egoshi.com.br</a>&gt; es=
+creveu:<br>
+<br>
+</div>
+<blockquote type=3D"cite">
+<div>
+
+
+<div class=3D"m_-7472317250841838472WordSection1">
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"color:#0=
+02060">Parab=C3=A9ns =C3=A0 nossa querida sobrinha</span>
+<b><span style=3D"color:red">Bianca </span></b><span style=3D"color:#002060=
+">que est=C3=A1 aniversariando hoje!!!</span><u></u><u></u></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><b><span style=3D"color=
+:red">Bianca
+</span></b><span style=3D"color:#002060">=C3=A9 filha do nosso querido Ir</=
+span><span style=3D"font-family:Symbol;color:#002060">\</span>
+<b><span style=3D"color:#1f497d">Tessari</span></b>.<u></u><u></u></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"color:#1=
+f497d">=C3=80</span>
+<b><span style=3D"color:red">Bianca</span><span style=3D"color:#1f497d">, a=
+o </span></b><span style=3D"color:#002060">Ir</span><span style=3D"font-fam=
+ily:Symbol;color:#002060">\</span>
+<b><span style=3D"color:#1f497d">Tessari</span></b><span style=3D"color:#00=
+2060"> e a
+<b>Toda a Sua Fam=C3=ADlia</b>, ensejamos nossos mais sinceros votos de fel=
+icidade e sucesso na vida!!!</span><u></u><u></u></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><u></u>=C2=A0<u></u></p=
+>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"color:#0=
+02060">Fraternalmente<u></u><u></u></span></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal">&lt;image001.png&gt;<u></u><u></u></p>
+</div>
+</div>
+</blockquote>
+</div>
+
+</blockquote></div></div>
+
+--001a1143a8064461260559547da6--

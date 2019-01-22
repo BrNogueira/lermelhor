@@ -1,0 +1,370 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201806 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.lermelhor.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2030                
+POS_TIME 2696                
+POS_VISITOR 7167                
+POS_DAY 8520                
+POS_DOMAIN 3469                
+POS_LOGIN 3820                
+POS_ROBOT 3975                
+POS_WORMS 4263                
+POS_EMAILSENDER 4394                
+POS_EMAILRECEIVER 4537                
+POS_SESSION 9241                
+POS_SIDER 9448                
+POS_FILETYPES 4672                
+POS_DOWNLOADS 4902                
+POS_OS 4988                
+POS_BROWSER 5133                
+POS_SCREENSIZE 5567                
+POS_UNKNOWNREFERER 5641                
+POS_UNKNOWNREFERERBROWSER 5930                
+POS_ORIGIN 6070                
+POS_SEREFERRALS 6207                
+POS_PAGEREFS 6392                
+POS_SEARCHWORDS 6540                
+POS_KEYWORDS 6692                
+POS_MISC 2359                
+POS_ERRORS 6751                
+POS_CLUSTER 3676                
+POS_SIDER_404 6858                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180701000844 40 9401 11010822411003
+FirstTime 0
+LastTime 20180630225534
+LastUpdate 20180701094131 40 0 39 0 0
+TotalVisits 126                 
+TotalUnique 26                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 37                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 19 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 101868 31 77 233890
+1 0 0 0 27 95 845551
+2 0 0 0 40 86 341135
+3 1 1 0 18 71 821010
+4 0 0 0 35 179 1733285
+5 1 1 1 28 160 1566514
+6 32 32 2332711 19 107 804188
+7 0 0 0 21 141 1228259
+8 58 58 158072 35 164 1491520
+9 14 51 858339 19 110 737253
+10 18 55 673713 16 55 466904
+11 15 50 823206 18 47 55214
+12 37 72 2870401 73 132 765412
+13 4 5 424219 24 126 1506091
+14 18 92 1037441 25 95 512316
+15 9 78 997338 35 64 95351
+16 15 16 585719 37 77 430416
+17 5 40 581174 23 45 21942
+18 10 10 469504 35 157 599699
+19 3 3 101868 23 94 885674
+20 4 4 135824 20 69 150547
+21 1 38 450662 25 47 327640
+22 14 15 113315 27 67 506977
+23 7 7 135824 52 101 241388
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+br 87 194 4612156
+ua 62 62 4756751
+fr 54 54 22248
+de 43 43 0
+us 12 230 2743595
+be 4 4 4
+ao 3 3 244440
+ru 2 2 21328
+nl 1 38 450676
+ca 1 1 1
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+Googlebot/ 1072 10882083 20180630185450 0
+bingbot/ 129 3262315 20180630201839 0
+MJ12bot/ 85 1722075 20180630045853 0
+bingpreview 72 499570 20180630061454 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+txt 1 11447 0 0
+html 6 541594 0 0
+sql 1 211860 0 0
+php 178 5214824 0 0
+css 180 533593 0 0
+Unknown 84 2745650 0 0
+jpg 106 345756 0 0
+gif 18 1158 0 0
+js 57 3245317 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/rvsUtf8Config/complete.txt 1 0 11447
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+Unknown 65 43
+win8.1 1 1
+win10 143 69
+win7 123 75
+win8 74 74
+linuxandroid 225 7
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 18
+chrome63.0.3239.84 17 2
+chrome62.0.3202.94 1 1
+chrome50.0.2661.75 58 58
+chrome55.0.2883.87 1 1
+mozilla 25 3
+opera53.0.2907.68 1 0
+chrome67.0.3396.87 73 35
+chrome58.0.3029.110 1 1
+firefox58.0 1 1
+Unknown 40 40
+chrome66.0.3359.181 65 32
+chrome61.0.3163.100 1 1
+firefox48.0 62 62
+chrome38.0.1025.166 224 6
+chrome67.0.3396.79 1 1
+chrome67.0.3396.99 47 12
+firefox38.1 4 4
+firefox60.0 9 9
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20180613141611
+Mozilla/4.0_(compatible;) 20180606150931
+WordPress/4.7.10;_https://lermelhor.com.br 20180630225534
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WordPress/4.7.10;_https://lermelhor.com.br 20180630225534
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 216 238
+From1 4 4
+From2 5 6
+From3 0 0
+From4 44 383
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com_br 4 5
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+500 4 0
+302 138 0
+301 847 2133
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 37
+201.81.161.207 78 78 2614832 20180630165250
+109.86.115.141 61 61 4753420 20180617061401
+94.23.204.188 54 54 22248 20180616082908
+93.104.215.69 40 40 0 20180630225534
+201.55.31.83 5 7 602466 20180618164314
+81.83.0.48 4 4 4 20180627120655
+66.133.109.36 3 3 261 20180613141611
+154.241.37.1 3 3 244440 20180602185300
+178.254.22.161 2 2 0 20180611124634
+66.249.83.131 2 51 785200 20180625104735
+54.207.33.42 2 2 59248 20180608172554
+66.249.88.129 1 15 85578 20180628113019
+177.52.164.30 1 33 449118 20180604150351
+46.119.113.139 1 1 3331 20180623101657
+179.191.117.202 1 38 450647 20180619094442
+132.148.80.15 1 1 0 20180611124816
+66.249.88.159 1 11 98525 20180606143242
+139.122.208.3 1 38 450676 20180606150929
+46.161.9.9 1 1 21328 20180617185143
+201.6.143.145 1 36 449690 20180628174230
+144.76.235.84 1 1 0 20180611124028
+66.102.7.233 1 3 34942 20180619212513
+5.45.86.144 1 1 0 20180626034523
+66.249.88.39 1 10 80611 20180608122452
+201.55.31.211 1 1 33956 20180608194812
+66.249.88.41 0 11 137839 
+66.249.88.43 0 17 236300 
+66.249.88.158 0 11 17413 
+66.249.88.145 0 1 438 
+66.249.88.144 0 5 99909 
+66.249.83.133 0 42 327731 
+191.54.228.162 0 1 11447 
+66.249.88.143 0 3 1984 
+66.102.7.235 0 4 28170 
+66.102.7.231 0 6 11398 
+192.95.30.29 1 1 1 20180625053231
+66.249.83.135 0 34 738048 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20180601 5 5 101868 3
+20180602 38 38 2767017 6
+20180603 4 4 67912 4
+20180604 3 35 449118 3
+20180605 2 2 67912 2
+20180606 8 82 1066783 6
+20180607 2 2 33956 2
+20180608 7 42 581174 6
+20180609 1 2 11447 1
+20180610 6 6 101868 6
+20180611 11 12 314059 9
+20180612 1 1 33956 1
+20180613 9 46 620746 5
+20180614 5 5 280160 4
+20180615 2 2 67912 2
+20180616 57 57 90160 4
+20180617 35 35 2354039 4
+20180618 8 9 348027 5
+20180619 10 84 1071089 10
+20180620 6 6 169780 4
+20180621 3 3 67912 2
+20180622 1 1 0 1
+20180623 6 6 71243 6
+20180624 2 2 67912 1
+20180625 7 44 568513 7
+20180626 8 8 237692 5
+20180627 8 8 135828 5
+20180628 6 76 967292 5
+20180629 4 4 67912 3
+20180630 4 4 67912 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 9
+2mn-5mn 3
+30mn-1h 3
+1h+ 1
+15mn-30mn 3
+5mn-15mn 3
+0s-30s 104
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 22
+/xmlrpc.php 115 4775668 3 3
+/webmail 80 2716480 57 58
+/wp-cron.php 40 0 39 39
+/2%C2%BA---Modelo-coaching-Perdas-e-Ganhos.php 8 236974 8 8
+/wp-admin/admin-ajax.php 4 4 2 2
+/Modulo-3/ 3 534372 3 2
+/videos/Portf%C3%B3lio.php 3 159432 3 3
+/wp-content/index.php 2 0 2 1
+/wp-content/plugins/index.php 1 0 1 1
+/.well-known/acme-challenge/rpy6M6QpcZA634rFh6cFRZuvjV4b80hOzMHq8BpBZis 1 87 0 0
+/Compra/Dep%C3%B3sito-Banc%C3%A1rio.php 1 21417 1 1
+/curso/index.html/index.html/index.html/index.html/index.html/index.html/ 1 3671 1 0
+/js/jquery-ui/ui/minified/i18n/ 1 3331 1 1
+//wp-admin/admin-ajax.php 1 1 1 1
+/curso/index.html/index.html/index.html/index.html/index.html/index.html/index.php_bak 1 28909 0 0
+//wp-admin/admin-post.php 1 0 1 1
+/.well-known/acme-challenge/5BVzWH-uqDZCQoJAuqvXh9f1l9rAMJrzUauc1QeLJWM 1 87 0 1
+/.well-known/acme-challenge/P88dvXdH6vV3r3RcBReJxrdhfNC6XQDOUKPIDD4MZ0Y 1 87 1 0
+/Modulo%203/ 1 220 1 1
+/curso/index.html/index.html/index.html/index.html/index.html/index.html/rvsDbBackup.sql 1 211860 0 1
+/terceira_fase/rvsindex.php 1 21328 1 1
+/wp-content/themes/twentyseventeen/inc/color-patterns.php 1 0 0 1
+END_SIDER

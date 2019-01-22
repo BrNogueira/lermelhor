@@ -1,0 +1,119 @@
+Return-path: <dp@florybal.com.br>
+Envelope-to: parise@digitalfotoimagem.com.br
+Delivery-date: Sun, 29 Nov 2015 19:11:50 -0200
+Received: from mail.ruguertech.com.br ([200.185.212.170]:59433)
+	by hserv20.homehost.com.br with smtp (Exim 4.86)
+	(envelope-from <dp@florybal.com.br>)
+	id 1a39GA-0005Lg-7O
+	for parise@digitalfotoimagem.com.br; Sun, 29 Nov 2015 19:11:50 -0200
+X-BYPSHEADER: 7963845
+X-SMScore: -180
+X-SM_GatewayIP: 187.103.253.210
+X-LCID: 36440
+Received: from [(187.103.253.210)] by mail2.florybal.com.br with Xeams SMTP; Sun, 29 Nov 2015 19:11:46 -0200 (BRST)
+X-SM_EnvelopeFrom: dp@florybal.com.br
+X-SM_RECEIVED_ON: Sun, 29 Nov 2015 19:11:46 -0200 (BRST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.florybal.com.br (Postfix) with ESMTP id F1A613169046;
+	Sun, 29 Nov 2015 19:13:08 -0200 (BRST)
+Received: from mail.florybal.com.br ([127.0.0.1])
+	by localhost (mail.florybal.com.br [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id E_iuNq_aq61e; Sun, 29 Nov 2015 19:13:08 -0200 (BRST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.florybal.com.br (Postfix) with ESMTP id 7B93A316903A;
+	Sun, 29 Nov 2015 19:13:08 -0200 (BRST)
+DKIM-Filter: OpenDKIM Filter v2.9.0 mail.florybal.com.br 7B93A316903A
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=florybal.com.br;
+	s=14A05C3E-62E9-11E5-B916-4E77FBE2357C; t=1448831588;
+	bh=KQ9Y1Tp5y3Zj9s3x+J8iZDLbCet7hcCt9D7Yc9O0R2I=;
+	h=MIME-Version:From:To:Date:Subject:Content-Type:Message-Id;
+	b=fBz6LxrYltTRvC4xFOmsUB8xPZWXsoBGF7cw1xSV8G/a97IsbuL4/kOP8RBTxvMl5
+	 3zlhYaU8ZNMnX58bmzTl2ONVfnmR1w93qJ9uhOghTZodHxUFg5dAUTKMN+fR1wXvEV
+	 IYUxFu3yTD7P8Rqx/kVSwZf5mh0dvcbl4J9Ky+qA=
+X-Virus-Scanned: amavisd-new at florybal.com.br
+Received: from mail.florybal.com.br ([127.0.0.1])
+	by localhost (mail.florybal.com.br [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id PBhK-ESqDzE9; Sun, 29 Nov 2015 19:13:08 -0200 (BRST)
+Received: from nome-PC (unknown [189.63.93.67])
+	by mail.florybal.com.br (Postfix) with ESMTPA id A268F3169044;
+	Sun, 29 Nov 2015 19:13:07 -0200 (BRST)
+MIME-Version: 1.0
+From: dp@florybal.com.br
+To: parise@digitalfotoimagem.com.br, parma@deluponet.com.br,
+ paroquia@dombosco.net, paroquiasf@desktop.com.br,
+ parquedacidade@daejundiai.com.br, parruda@dodi.com, parts@dowhonda.com,
+ para@engeplusempresas.com.br, paradiso@expressemail.com.br,
+ paraiso@engeplus.com.br
+Date: 29 Nov 2015 19:11:00 -0200
+Subject:  BOLETO EM ABERTO 29/11/2015 19:10:59
+Content-Type: multipart/mixed; boundary=--boundary_3526_0a7f0230-3382-462b-9ba6-775702398551
+Message-Id: <20151129211307.A268F3169044@mail.florybal.com.br>
+
+
+----boundary_3526_0a7f0230-3382-462b-9ba6-775702398551
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGRpdiBpZD0iV00wMS1ib2R5Q29udGVudCI+DQo8ZGl2IGNsYXNzPSJyY21Cb2R5Ij4NCjxk
+aXYgaWQ9ImJvZHlyZWFkTWVzc2FnZVBhcnRCb2R5Q29udHJvbDMzNGYiIGNsYXNzPSJFeHRl
+cm5hbENsYXNzIE1zZ0JvZHlDb250YWluZXIiPg0KPHA+PGVtPlByZXphZG8gQ2xpZW50ZSw8
+L2VtPjwvcD4NCjxwPjxlbT5TZWd1ZSBlbSBhbmV4bywgY29uZm9ybWUgc29saWNpdGFkbzxi
+cj4gUG9yIGdlbnRpbGV6YSwgY29uZmlybWFyIHJlY2ViaW1lbnRvIGRvIGJvbGV0byAsZSBz
+ZSBwb3Nzw612ZWwgbm9zIGVudmlhciBjb21wcm92YW50ZTwvZW0+PC9wPg0KPHA+PGVtPk8g
+bsOjbyBwYWdhbWVudG8gZGEgYW51aWRhZGUgbm9zIHByYXpvcyZuYnNwOyBlc3RhYmVsZWNp
+ZG9zPC9lbT48L3A+DQo8cD48ZW0+QWNhcnJldGFyYSBtdWx0YSBlIGp1cm9zIGRlIG1vcmEg
+ZGUgMSUgKHVtIHBvciBjZW50bykgYW8gbcOqcy48L2VtPjwvcD4NCjxwPjxlbT5BdHQuOjwv
+ZW0+PC9wPg0KPHA+PGVtPkNvYnJhbsOnYSBBQlYgRmluYW5jZWlyYTwvZW0+PC9wPg0KPC9k
+aXY+DQo8L2Rpdj48L2Rpdj4=
+----boundary_3526_0a7f0230-3382-462b-9ba6-775702398551
+Content-Type: application/octet-stream; name=fatura-846300000037647902962016512150100000.z
+Content-Transfer-Encoding: base64
+
+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
+5yrRAVBLBQYAAAAAAQABAIEAAAABCQAAAAA=
+----boundary_3526_0a7f0230-3382-462b-9ba6-775702398551--
+

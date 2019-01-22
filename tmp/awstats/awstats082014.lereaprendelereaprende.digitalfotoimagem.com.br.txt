@@ -1,0 +1,278 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201408 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.lereaprendelereaprende.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2040                
+POS_TIME 2705                
+POS_VISITOR 6654                
+POS_DAY 7078                
+POS_DOMAIN 3380                
+POS_LOGIN 3647                
+POS_ROBOT 3802                
+POS_WORMS 4097                
+POS_EMAILSENDER 4228                
+POS_EMAILRECEIVER 4371                
+POS_SESSION 7265                
+POS_SIDER 7411                
+POS_FILETYPES 4506                
+POS_DOWNLOADS 4703                
+POS_OS 4820                
+POS_BROWSER 4904                
+POS_SCREENSIZE 5053                
+POS_UNKNOWNREFERER 5127                
+POS_UNKNOWNREFERERBROWSER 5214                
+POS_ORIGIN 5296                
+POS_SEREFERRALS 5427                
+POS_PAGEREFS 5571                
+POS_SEARCHWORDS 5719                
+POS_KEYWORDS 5871                
+POS_MISC 2369                
+POS_ERRORS 5930                
+POS_CLUSTER 3503                
+POS_SIDER_404 6027                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140901014533 20 3305 10524530359827
+FirstTime 0
+LastTime 20140829064134
+LastUpdate 20140901095847 20 0 19 0 0
+TotalVisits 8                   
+TotalUnique 7                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 10                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 10 18 168911
+1 1 1 15911 14 17 172618
+2 1 1 15911 9 30 146938
+3 0 0 0 18 79 382294
+4 0 0 0 8 30 133687
+5 0 1 0 6 43 153393
+6 1 40 7851221 21 36 288259
+7 1 1 10766 9 18 170635
+8 2 39 477995 11 42 227392
+9 0 0 0 10 37 178350
+10 0 0 0 8 39 539177
+11 0 0 0 5 11 78659
+12 0 0 0 10 18 127529
+13 0 0 0 6 8 61468
+14 0 0 0 13 19 244001
+15 1 1 11123 19 27 278191
+16 0 0 0 17 40 309442
+17 0 0 0 8 17 125355
+18 0 0 0 14 24 180748
+19 0 0 0 10 24 165604
+20 0 0 0 14 22 188602
+21 1 1 11123 15 21 204694
+22 0 1 94840 12 16 128378
+23 1 1 10766 21 48 212139
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+de 3 3 33012
+us 3 79 8329216
+cn 2 4 121517
+jp 1 1 15911
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+googlebot 331 2508280 20140831234718 0
+spider 134 1346300 20140831212822 0
+bot[\s_+:,\.\;\/\\-] 55 890684 20140831202307 0
+msnbot\-media 2 113078 20140805101011 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 36 88704 0 0
+swf 3 124005 0 0
+php 4 43778 0 0
+flv 1 7318493 0 0
+html 2 31822 0 0
+js 16 726486 0 0
+jpg 23 166282 0 0
+gif 2 86 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/documents/ProjetodoSite.doc 3 0 172032
+/media/video.flv 1 0 7318493
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 5
+macosx 1
+winlong 2
+winxp 3
+win2000 1
+win7 80
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 7
+firefox21.0 1
+mozilla 79
+firefox3.5.2 2
+msie7.0 2
+firefox22.0 1
+chrome27.0.1453.93 1
+firefox11.0 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 6 8
+From1 0 0
+From2 0 0
+From3 0 0
+From4 3 79
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+302 34 8122
+404 128 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 8
+/images/servi%C3%A7ossite2.jpg 1 -
+/%7BLIBRARY_URL%7D/icon/control-ff.gif 5 -
+/In%C3%83%C2%ADcio.php 2 -
+/robots.txt 100 -
+/Sobre%20n%C3%B3s.php%20%20%20%20%3Cfont%20color= 9 -
+/{LIBRARY_URL}/icon/control-ff.gif 2 -
+/%7BLIBRARY_URL%7D/background/preview/04_pre.jpg 7 -
+/{LIBRARY_URL}/background/preview/04_pre.jpg 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 10
+148.251.69.136 2 2 21889 20140817071120
+199.30.25.63 2 39 477995 20140815080507
+144.76.185.173 1 1 11123 20140820210645
+202.46.60.169 1 1 10766 20140821235630
+119.63.193.195 1 1 15911 20140829020033
+202.46.56.40 1 1 15911 20140829015938
+199.30.25.152 1 28 7724033 20140829064134
+199.30.25.150 0 12 127188 
+202.46.48.48 0 1 0 
+202.46.54.179 0 1 94840 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20140801 1 1 11123 1
+20140815 2 39 477995 1
+20140817 1 1 10766 1
+20140820 1 1 11123 1
+20140821 1 1 10766 1
+20140829 3 44 7977883 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/media/player.swf 3 124005 2 2
+/ 2 31822 2 2
+/Portf%C3%B3lio.php 2 22246 2 2
+/Sobre-n%C3%B3s.php 2 21532 2 2
+END_SIDER

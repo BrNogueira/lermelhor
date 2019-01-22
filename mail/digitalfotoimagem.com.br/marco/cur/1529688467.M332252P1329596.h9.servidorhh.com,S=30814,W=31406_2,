@@ -1,0 +1,592 @@
+Return-Path: <bounces+7833736-eaed-marco=digitalfotoimagem.com.br@mailsg.leadlovers.info>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from h9.servidorhh.com
+	by h9.servidorhh.com with LMTP id wG6aE5MxLVu8SRQArjWGVg
+	for <marco@digitalfotoimagem.com.br>; Fri, 22 Jun 2018 14:27:47 -0300
+Return-path: <bounces+7833736-eaed-marco=digitalfotoimagem.com.br@mailsg.leadlovers.info>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Fri, 22 Jun 2018 14:27:47 -0300
+Received: from o20.mailsg.leadlovers.com ([167.89.101.190]:51372)
+	by h9.servidorhh.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <bounces+7833736-eaed-marco=digitalfotoimagem.com.br@mailsg.leadlovers.info>)
+	id 1fWPqc-005cBv-Vs
+	for marco@digitalfotoimagem.com.br; Fri, 22 Jun 2018 14:27:47 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=leadlovers.info; 
+	h=content-type:from:mime-version:subject:to:list-unsubscribe; 
+	s=m1; bh=GbeSPqdLrx2TjmFj66iicLkh0Y8=; b=mBZQLNpVjDHGMN0Ttilcpbn
+	TbR8oOL6n/NeYuDizqAwnRpXg+hmv2d3kh8Dspa8AGDauljiEhF9kTMwa/2JaybM
+	JH2rX49eQNbJjGmN4TFZut8Y3SIREUsFqRt9+OdDfTHOc6KjjDL2eqGnOw7IPCfO
+	53y0ITfdR1//dXOmptd8=
+Received: by filter0009p3iad2.sendgrid.net with SMTP id filter0009p3iad2-16094-5B2D3157-13
+        2018-06-22 17:26:47.92074262 +0000 UTC
+Received: from NzgzMzczNg (m3640.contabo.host [5.189.178.140])
+	by ismtpd0002p1lon1.sendgrid.net (SG) with HTTP id 4JdbB-FpRw61Ly56OQB1bQ
+	Fri, 22 Jun 2018 17:26:47.278 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=12af2ef97c3615c3b89d4bf81de0ebe19ac4242eff61ee304ef36309ce87
+Date: Fri, 22 Jun 2018 17:27:01 +0000 (UTC)
+From: =?UTF-8?Q?Jo=C3=A3o_Paulo_Pereira?= <eu@joaopaulopereira.com.br>
+Mime-Version: 1.0
+Subject: =?UTF-8?B?RWksIHZvY8OqIFByZXN0b3UgQXRlbsOnw6NvIG5lc3NhIFBhcnRlPw==?=
+To: <marco@digitalfotoimagem.com.br>
+Message-ID: <4JdbB-FpRw61Ly56OQB1bQ@ismtpd0002p1lon1.sendgrid.net>
+List-Unsubscribe: <mailto:unsubscribe@mailsg.leadlovers.info?subject=https://u7833736.ct.sendgrid.net/wf/unsubscribe*q*upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiNL5UQMZXcoi6mKHrHRQ0FMz8LtjdZXe10h9D6F9nSB-2FN976qsQm-2Fe6heToficae6sGEaFEN9UzLAOsLbW9DeSE-2B-2BajPHNlw-2BVa8oHKn0Tel9TPAPKYUeLSGTUlcs70rdg4Gkt2NQ6YGvyrb-2BYB1GVSBKobt9aGfaqZNiutQTUEiy0X79e-2FgXI2biXbTfsEL8rXoJQMme0vYI9DkQ60fbuFHxEYpAQaCDMGTdDgmk6TFzbUeqM16lUJtmeClO3RjySsemOPz2-2FWqfKbWaATUbpCtu0ESldgjW6JhQ7b4bTnrJkppTyuuYd9vgz2305LDlIFfts0iQV-2F78L1Qm26wz-2BK0kFp9aUxfotHfGM1KB9HwbHRQ34AlivdODFmcGgB24>
+X-SG-EID: Hch+2AQw5UfQtHqV+P/3h94kWa/z3uc7aT9t1ffNJX6ejfdpfjs1c7IIdtNthFh9IstSGtrr2/nRtg
+ LimWBG/Qit99Qrm6dSUJnk4oppqS75HR0dc+kUTb46GfuXz1Zd8Kg2Zm0BZVuVYp3BB/YPEaWtEnEK
+ C9Qy73id95MUpzAZWYglDDjLR96xQVYVEsJesUnesN1mpyR/g9Ym7DZ0paDEuq6tFSwOdaWZMLHfOy
+ sUf7CFgLNvkMO0cI4m4cs5
+X-SG-ID: lkbpAUns11GO9BdGkh+MdAj9XRfhrTMuu2GWF6w58UCokHn5p3gsrGasnGdFXFRV30PXbjPsmpf/7b
+ h2iorRswS68dqQNRpOLJtJx28W3IrBVWcfrNp/HUqgX8jMyp1OOt8JqRRmn5G9YKf95EgBlwfIe1Ce
+ vgcOCYqjhO6o1u335rEmv8eXSmU7fd9OYdwmewrhywJ9Ybnhe7IwAFNXxEHIVoy0bgcTiDAzcridUJ
+ M=
+
+--12af2ef97c3615c3b89d4bf81de0ebe19ac4242eff61ee304ef36309ce87
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+   =0D=0D=0DOpa, tudo bom?=0D=0D=0DOntem eu te falei da Turma do Workshop O=
+nline=E2=80=9CComo Transformar sua Publicidade em Lucro em 30 dias"e as vag=
+as j=C3=A1 est=C3=A3o sendo preenchidas.=0D=0DEstou te escrevendo para ter =
+certeza que voc=C3=AA viu, JP.=0D=0DSe voc=C3=AA est=C3=A1 realmente intere=
+ssado em crescer a sua empresa e acha que chegou a hora de fazer alguma coi=
+sa de verdade, esse e-mail =C3=A9 para voc=C3=AA.    =0D=0D=0D>>> QUERO CON=
+HECER O GRUPO ONLINE AGORA=0D=0D=0DEsse =C3=A9 umGRUPO ONLINE que ser=C3=A1=
+ orientado por mim pessoalmente, e atrav=C3=A9s de Reuni=C3=B5es Online pri=
+vadas e orienta=C3=A7=C3=A3o em um grupo exclusivo de WhatsApp.=0D=0D=0DA G=
+rande META?=0D=0DTe AJUDAR a VENDER MAIS, utilizando a internet para adquir=
+ir clientes em potencial para o seu neg=C3=B3cio, em outras palavras: trans=
+formar a sua publicidade em lucro, sem que voc=C3=AA tenha que gastar uma f=
+ortuna para ter algum retorno.=0D=0D=0DEsse ser=C3=A1 um grupo exclusivo em=
+pres=C3=A1rios e empreendedores que tomaram a decis=C3=A3o de Ganhar Dinhei=
+ro, Atraindo Clientes por meio da Publicidade Online.N=C3=A3o =C3=A9 um GRU=
+PO para voc=C3=AA "aprender coisas"mas para receberORIENTA=C3=87=C3=83Oe di=
+recionamento.=0D=0D=0DO nosso GRANDE objetivo =C3=A9FECHAR o ralo por onde =
+o dinheiro escorrequando a compra de publicidade =C3=A9 feita da maneira er=
+rada. Al=C3=A9m de te darSEGURAN=C3=87Apara investir e ter estimativas mais=
+ certeiras de quanto voc=C3=AA vai ganhar com seu investimento.=0D=0D=0DTOD=
+OS os membros ter=C3=A3o a oportunidade de apresentar o seu neg=C3=B3cio, s=
+uas dificuldades, desafios e METAS.=0D=0D=0DDepois da fase de conhecer os P=
+ROJETOS, ser=C3=A1 o momento que eu irei colocar a m=C3=A3o na massa e irei=
+ LITERALMENTE tra=C3=A7ar o Passo a Passo para que cada ParticipanteColoque=
+ seu Projeto no Ar. Vou estar ao seu lado, acompanhando e dando feedbacks.=
+=0D=0D=0DPor esse motivo esse grupo ser=C3=A1 LIMITADO e o processo de entr=
+evista ir=C3=A1 descobrir se voc=C3=AA est=C3=A1 PRONTO ou n=C3=A3o para pa=
+rticipar de um grupo nesse n=C3=ADvel.=0D=0D=0DCLIQUE AQUI para Ler Todos o=
+s Detalhes Desse Grupo=0D=0D=0DMais uma vez, esse ser=C3=A1 um grupo de M=
+=C3=83O NA MASSA, depois de descobrir quais os seus desafios, eu irei dizer=
+ EXATAMENTE o que voc=C3=AA precisa fazer e COMO colocar em pr=C3=A1tica im=
+ediatamente.=0D=0D=0DDepois das Reuni=C3=B5esvoc=C3=AA ter=C3=A1 nas suas m=
+=C3=A3os um PLANO DE A=C3=87=C3=83O,algo que talvez voc=C3=AA estivesse pro=
+curando por MUITO tempo.=0D=0D=0DEu n=C3=A3o estou te convidando para "estu=
+dar em grupo" esse =C3=A9 um convite para que eu pessoalmente te diga exata=
+mente o que voc=C3=AA tem que fazer para come=C3=A7ar a transformar sua pub=
+licidade em lucro.=0D=0D=0D=C3=89 por isso que um dos crit=C3=A9rios para v=
+oc=C3=AA ser aceito nesse grupo =C3=A9 ter um neg=C3=B3cio com VERDADEIRO p=
+otencial de crescimento.=0D=0DEsse n=C3=A3o =C3=A9 um grupo para quem quer =
+aparecer na internet.=0D=0D=C3=89 um grupo para quem quer VENDER e atrair m=
+ais clientes potenciais com a publicidade online.=0D=0DVai ficar de fora?=
+=0D=0D=0D>>> CLIQUE PARA SABER MAIS=0D=0D=0DUm abra=C3=A7o=0D=0D=0DUm grand=
+e abra=C3=A7o,=0D=0D=0DJo=C3=A3o Paulo Pereira=0D=0D=0DPS: As vagas para pa=
+rticipar deste grupo s=C3=A3o limitadas para que eu possa acompanhar mais d=
+e perto cada um dos projetos. N=C3=A3o perca tempo, fa=C3=A7a sua pr=C3=A9-=
+inscri=C3=A7=C3=A3o e nos falamos na entrevista.                 =0D=0DRua =
+Padre Zanor - Par=C3=A1 de Minas - MG - 35661266Caso n=C3=A3o queira mais r=
+eceber meus e-mails, acesse esse link. (Unsubscribe).E-mail enviado com amo=
+r por leadlovers
+
+--12af2ef97c3615c3b89d4bf81de0ebe19ac4242eff61ee304ef36309ce87
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE><!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "=
+http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"htt=
+p://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:=
+o=3D"urn:schemas-microsoft-com:office:office"><head>
+    <!--[if gte mso 9]><xml>
+     <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+     </o:OfficeDocumentSettings>
+    </xml><![endif]-->
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width" />
+    <!--[if !mso]><!--><meta http-equiv=3D"X-UA-Compatible" content=3D"IE=
+=3Dedge" /><!--<![endif]-->
+    <title></title>
+=20=20=20=20
+=20=20=20=20
+    <style type=3D"text/css" id=3D"media-query">
+      body {
+  margin: 0;
+  padding: 0; }
+
+table, tr, td {
+  vertical-align: top;
+  border-collapse: collapse; }
+
+.ie-browser table, .mso-container table {
+  table-layout: fixed; }
+
+* {
+  line-height: inherit; }
+
+a[x-apple-data-detectors=3Dtrue] {
+  color: inherit !important;
+  text-decoration: none !important; }
+
+[owa] .img-container div, [owa] .img-container button {
+  display: block !important; }
+
+[owa] .fullwidth button {
+  width: 100% !important; }
+
+[owa] .block-grid .col {
+  display: table-cell;
+  float: none !important;
+  vertical-align: top; }
+
+.ie-browser .num12, .ie-browser .block-grid, [owa] .num12, [owa] .block-gri=
+d {
+  width: 500px !important; }
+
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div {
+  line-height: 100%; }
+
+.ie-browser .mixed-two-up .num4, [owa] .mixed-two-up .num4 {
+  width: 164px !important; }
+
+.ie-browser .mixed-two-up .num8, [owa] .mixed-two-up .num8 {
+  width: 328px !important; }
+
+.ie-browser .block-grid.two-up .col, [owa] .block-grid.two-up .col {
+  width: 250px !important; }
+
+.ie-browser .block-grid.three-up .col, [owa] .block-grid.three-up .col {
+  width: 166px !important; }
+
+.ie-browser .block-grid.four-up .col, [owa] .block-grid.four-up .col {
+  width: 125px !important; }
+
+.ie-browser .block-grid.five-up .col, [owa] .block-grid.five-up .col {
+  width: 100px !important; }
+
+.ie-browser .block-grid.six-up .col, [owa] .block-grid.six-up .col {
+  width: 83px !important; }
+
+.ie-browser .block-grid.seven-up .col, [owa] .block-grid.seven-up .col {
+  width: 71px !important; }
+
+.ie-browser .block-grid.eight-up .col, [owa] .block-grid.eight-up .col {
+  width: 62px !important; }
+
+.ie-browser .block-grid.nine-up .col, [owa] .block-grid.nine-up .col {
+  width: 55px !important; }
+
+.ie-browser .block-grid.ten-up .col, [owa] .block-grid.ten-up .col {
+  width: 50px !important; }
+
+.ie-browser .block-grid.eleven-up .col, [owa] .block-grid.eleven-up .col {
+  width: 45px !important; }
+
+.ie-browser .block-grid.twelve-up .col, [owa] .block-grid.twelve-up .col {
+  width: 41px !important; }
+
+@media only screen and (min-width: 520px) {
+  .block-grid {
+    width: 500px !important; }
+  .block-grid .col {
+    vertical-align: top; }
+    .block-grid .col.num12 {
+      width: 500px !important; }
+  .block-grid.mixed-two-up .col.num4 {
+    width: 164px !important; }
+  .block-grid.mixed-two-up .col.num8 {
+    width: 328px !important; }
+  .block-grid.two-up .col {
+    width: 250px !important; }
+  .block-grid.three-up .col {
+    width: 166px !important; }
+  .block-grid.four-up .col {
+    width: 125px !important; }
+  .block-grid.five-up .col {
+    width: 100px !important; }
+  .block-grid.six-up .col {
+    width: 83px !important; }
+  .block-grid.seven-up .col {
+    width: 71px !important; }
+  .block-grid.eight-up .col {
+    width: 62px !important; }
+  .block-grid.nine-up .col {
+    width: 55px !important; }
+  .block-grid.ten-up .col {
+    width: 50px !important; }
+  .block-grid.eleven-up .col {
+    width: 45px !important; }
+  .block-grid.twelve-up .col {
+    width: 41px !important; } }
+
+@media (max-width: 520px) {
+  .block-grid, .col {
+    min-width: 320px !important;
+    max-width: 100% !important;
+    display: block !important; }
+  .block-grid {
+    width: calc(100% - 40px) !important; }
+  .col {
+    width: 100% !important; }
+    .col > div {
+      margin: 0 auto; }
+  img.fullwidth, img.fullwidthOnMobile {
+    max-width: 100% !important; }
+  .no-stack .col {
+    min-width: 0 !important;
+    display: table-cell !important; }
+  .no-stack.two-up .col {
+    width: 50% !important; }
+  .no-stack.mixed-two-up .col.num4 {
+    width: 33% !important; }
+  .no-stack.mixed-two-up .col.num8 {
+    width: 66% !important; }
+  .no-stack.three-up .col.num4 {
+    width: 33% !important; }
+  .no-stack.four-up .col.num3 {
+    width: 25% !important; }
+  .mobile_hide {
+    min-height: 0px;
+    max-height: 0px;
+    max-width: 0px;
+    display: none;
+    overflow: hidden;
+    font-size: 0px; } }
+
+    </style>
+</head>
+<body class=3D"clean-body" style=3D"margin: 0;padding: 0;-webkit-text-size-=
+adjust: 100%;background-color: #FFFFFF">
+  <style type=3D"text/css" id=3D"media-query-bodytag">
+    @media (max-width: 520px) {
+      .block-grid {
+        min-width: 320px!important;
+        max-width: 100%!important;
+        width: 100%!important;
+        display: block!important;
+      }
+
+      .col {
+        min-width: 320px!important;
+        max-width: 100%!important;
+        width: 100%!important;
+        display: block!important;
+      }
+
+        .col > div {
+          margin: 0 auto;
+        }
+
+      img.fullwidth {
+        max-width: 100%!important;
+      }
+			img.fullwidthOnMobile {
+        max-width: 100%!important;
+      }
+      .no-stack .col {
+				min-width: 0!important;
+				display: table-cell!important;
+			}
+			.no-stack.two-up .col {
+				width: 50%!important;
+			}
+			.no-stack.mixed-two-up .col.num4 {
+				width: 33%!important;
+			}
+			.no-stack.mixed-two-up .col.num8 {
+				width: 66%!important;
+			}
+			.no-stack.three-up .col.num4 {
+				width: 33%!important;
+			}
+			.no-stack.four-up .col.num3 {
+				width: 25%!important;
+			}
+      .mobile_hide {
+        min-height: 0px!important;
+        max-height: 0px!important;
+        max-width: 0px!important;
+        display: none!important;
+        overflow: hidden!important;
+        font-size: 0px!important;
+      }
+    }
+  </style>
+  <!--[if IE]><div class=3D"ie-browser"><![endif]-->
+  <!--[if mso]><div class=3D"mso-container"><![endif]-->
+  <table class=3D"nl-container" style=3D"border-collapse: collapse;table-la=
+yout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;v=
+ertical-align: top;min-width: 320px;Margin: 0 auto;background-color: #FFFFF=
+F;width: 100%" cellpadding=3D"0" cellspacing=3D"0">
+	<tbody>
+	<tr style=3D"vertical-align: top">
+		<td style=3D"word-break: break-word;border-collapse: collapse !important;=
+vertical-align: top">
+    <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"><tr><td align=3D"center" style=3D"background-color: #FF=
+FFFF;"><![endif]-->
+
+    <div style=3D"background-color:transparent;">
+      <div style=3D"Margin: 0 auto;min-width: 320px;max-width: 500px;overfl=
+ow-wrap: break-word;word-wrap: break-word;word-break: break-word;background=
+-color: transparent;" class=3D"block-grid ">
+        <div style=3D"border-collapse: collapse;display: table;width: 100%;=
+background-color:transparent;">
+          <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0"><tr><td style=3D"background-color:transparent;" a=
+lign=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" sty=
+le=3D"width: 500px;"><tr class=3D"layout-full-width" style=3D"background-co=
+lor:transparent;"><![endif]-->
+
+              <!--[if (mso)|(IE)]><td align=3D"center" width=3D"500" style=
+=3D" width:500px; padding-right: 0px; padding-left: 0px; padding-top:5px; p=
+adding-bottom:5px; border-top: 0px dotted transparent; border-left: 0px dot=
+ted transparent; border-bottom: 0px dotted transparent; border-right: 0px d=
+otted transparent;" valign=3D"top"><![endif]-->
+            <div class=3D"col num12" style=3D"min-width: 320px;max-width: 5=
+00px;display: table-cell;vertical-align: top;">
+              <div style=3D"background-color: transparent; width: 100% !imp=
+ortant;">
+              <!--[if (!mso)&(!IE)]><!--><div style=3D"border-top: 0px dott=
+ed transparent; border-left: 0px dotted transparent; border-bottom: 0px dot=
+ted transparent; border-right: 0px dotted transparent; padding-top:5px; pad=
+ding-bottom:5px; padding-right: 0px; padding-left: 0px;"><!--<![endif]-->
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    <div class=3D"">
+	<!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0"><tr><td style=3D"padding-right: 10px; padding-left: 10px; padding=
+-top: 10px; padding-bottom: 10px;"><![endif]-->
+	<div style=3D"color:#555555;line-height:150%;font-family:'Helvetica Neue',=
+ Helvetica, Arial, sans-serif; padding-right: 10px; padding-left: 10px; pad=
+ding-top: 10px; padding-bottom: 10px;">=09
+		<div style=3D"font-size:12px;line-height:18px;color:#555555;font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style=3D=
+"margin: 0;font-size: 12px;line-height: 18px"><span style=3D"font-size: 15p=
+x; line-height: 22px;">Opa, tudo bom?</span></p><p style=3D"margin: 0;font-=
+size: 12px;line-height: 18px"><br data-mce-bogus=3D"1" /></p><p style=3D"ma=
+rgin: 0;font-size: 12px;line-height: 18px"><span style=3D"font-size: 15px; =
+line-height: 22px;">Ontem eu te falei da Turma do Workshop Online&#160;=E2=
+=80=9C<em>Como Transformar sua Publicidade em Lucro em 30 dias"</em>&#160;e=
+ as vagas j=C3=A1 est=C3=A3o sendo preenchidas.</span></p><p style=3D"margi=
+n: 0;font-size: 12px;line-height: 18px"><br /><span style=3D"font-size: 15p=
+x; line-height: 22px;">Estou te escrevendo para ter certeza que voc=C3=AA v=
+iu, JP.</span></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px">=
+<br /><strong><span style=3D"font-size: 15px; line-height: 22px;">Se voc=C3=
+=AA est=C3=A1 realmente interessado em crescer a sua empresa e acha que che=
+gou a hora de fazer alguma coisa de verdade, esse e-mail =C3=A9 para voc=C3=
+=AA.</span></strong></p></div>=09
+	</div>
+	<!--[if mso]></td></tr></table><![endif]-->
+</div>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    <div align=3D"center" class=3D"img-container center  au=
+towidth  fullwidth " style=3D"padding-right: 0px;  padding-left: 0px;">
+<!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0"><tr style=3D"line-height:0px;line-height:0px;"><td style=3D"paddin=
+g-right: 0px; padding-left: 0px;" align=3D"center"><![endif]-->
+  <a href=3D"http://click.contato.website/redirect/redirect.aspx?A=3DR&l=3D=
+0744D759-6346-4E61-8DC6-9F0BFE457C47&u=3D6886CAC2-FB81-4443-A55E-F4120756F9=
+18" target=3D"_blank">
+    <img class=3D"center  autowidth  fullwidth" align=3D"center" border=3D"=
+0" src=3D"https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/a5=
+0663b7-0ad3-4eb2-b88a-8feb85df58e6/bee-leadlovers-uid-1228142/unnamed%20%28=
+6%29.png" alt=3D"Image" title=3D"Image" style=3D"outline: none;text-decorat=
+ion: none;-ms-interpolation-mode: bicubic;clear: both;display: block !impor=
+tant;border: none;height: auto;float: none;width: 100%;max-width: 500px" wi=
+dth=3D"500" />
+  </a>
+<!--[if mso]></td></tr></table><![endif]-->
+</div>
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    <div class=3D"">
+	<!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0"><tr><td style=3D"padding-right: 10px; padding-left: 10px; padding=
+-top: 10px; padding-bottom: 10px;"><![endif]-->
+	<div style=3D"color:#555555;line-height:150%;font-family:'Helvetica Neue',=
+ Helvetica, Arial, sans-serif; padding-right: 10px; padding-left: 10px; pad=
+ding-top: 10px; padding-bottom: 10px;">=09
+		<div style=3D"font-size:12px;line-height:18px;color:#555555;font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style=3D=
+"margin: 0;font-size: 15px;line-height: 22px"><span style=3D"line-height: 2=
+2px; font-size: 15px;"><a style=3D"color:#0068A5;text-decoration: underline=
+;" href=3D"http://click.contato.website/redirect/redirect.aspx?A=3DR&l=3D07=
+44D759-6346-4E61-8DC6-9F0BFE457C47&u=3D6886CAC2-FB81-4443-A55E-F4120756F918=
+" target=3D"_blank" rel=3D"noopener">&gt;&gt;&gt; QUERO CONHECER O GRUPO ON=
+LINE AGORA</a></span></p><p style=3D"margin: 0;font-size: 12px;line-height:=
+ 18px"><span style=3D"line-height: 18px; font-size: 12px;"><br data-mce-bog=
+us=3D"1" /></span></p><p style=3D"margin: 0;font-size: 12px;line-height: 18=
+px"><span style=3D"line-height: 22px; font-size: 15px;">Esse =C3=A9 um&#160=
+;GRUPO ONLINE que ser=C3=A1 orientado por mim pessoalmente, e atrav=C3=A9s =
+de Reuni=C3=B5es Online privadas e orienta=C3=A7=C3=A3o em um grupo exclusi=
+vo de WhatsApp.</span></p><p style=3D"margin: 0;font-size: 12px;line-height=
+: 18px"><span style=3D"font-size: 15px; line-height: 22px;"><br data-mce-bo=
+gus=3D"1" /></span></p><p style=3D"margin: 0;font-size: 12px;line-height: 1=
+8px"><span style=3D"font-size: 15px; line-height: 22px;"><strong><span styl=
+e=3D"line-height: 22px; font-size: 15px;">A Grande META?</span></strong></s=
+pan></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><br /><spa=
+n style=3D"font-size: 15px; line-height: 22px;">Te AJUDAR a VENDER MAIS, ut=
+ilizando a internet para adquirir clientes em potencial para o seu neg=C3=
+=B3cio, em outras palavras: transformar a sua publicidade em lucro, sem que=
+ voc=C3=AA tenha que gastar uma fortuna para ter algum retorno.</span></p><=
+p style=3D"margin: 0;font-size: 12px;line-height: 18px"><span style=3D"font=
+-size: 15px; line-height: 22px;">&#160;</span></p><p style=3D"margin: 0;fon=
+t-size: 12px;line-height: 18px"><br /><span style=3D"font-size: 15px; line-=
+height: 22px;">Esse ser=C3=A1 um grupo exclusivo empres=C3=A1rios e empreen=
+dedores que tomaram a decis=C3=A3o de Ganhar Dinheiro, Atraindo Clientes po=
+r meio da Publicidade Online.&#160;N=C3=A3o =C3=A9 um GRUPO para voc=C3=AA =
+"aprender coisas"&#160;mas para receber&#160;ORIENTA=C3=87=C3=83O&#160;e di=
+recionamento.</span></p><p style=3D"margin: 0;font-size: 12px;line-height: =
+18px"><span style=3D"font-size: 14px; line-height: 21px;">&#160;</span></p>=
+<p style=3D"margin: 0;font-size: 12px;line-height: 18px"><br /><span style=
+=3D"font-size: 15px; line-height: 22px;">O nosso GRANDE objetivo =C3=A9&#16=
+0;FECHAR o ralo por onde o dinheiro escorre&#160;quando a compra de publici=
+dade =C3=A9 feita da maneira errada. Al=C3=A9m de te dar&#160;SEGURAN=C3=87=
+Apara investir e ter estimativas mais certeiras de quanto voc=C3=AA vai gan=
+har com seu investimento.</span></p><p style=3D"margin: 0;font-size: 12px;l=
+ine-height: 18px"><span style=3D"font-size: 15px; line-height: 22px;">&#160=
+;</span></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><br />=
+<span style=3D"font-size: 15px; line-height: 22px;">TODOS os membros ter=C3=
+=A3o a oportunidade de apresentar o seu neg=C3=B3cio, suas dificuldades, de=
+safios e METAS.</span></p><p style=3D"margin: 0;font-size: 12px;line-height=
+: 18px"><span style=3D"font-size: 14px; line-height: 21px;"><br data-mce-bo=
+gus=3D"1" /></span></p><p style=3D"margin: 0;font-size: 12px;line-height: 1=
+8px"><span style=3D"font-size: 15px; line-height: 22px;">Depois da fase de =
+conhecer os PROJETOS, ser=C3=A1 o momento que eu irei colocar a m=C3=A3o na=
+ massa e irei LITERALMENTE tra=C3=A7ar o Passo a Passo para que cada Partic=
+ipante&#160;Coloque seu Projeto no Ar. Vou estar ao seu lado, acompanhando =
+e dando feedbacks.</span></p><p style=3D"margin: 0;font-size: 12px;line-hei=
+ght: 18px"><span style=3D"font-size: 15px; line-height: 22px;">&#160;</span=
+></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><br /><span s=
+tyle=3D"font-size: 15px; line-height: 22px;">Por esse motivo esse grupo ser=
+=C3=A1 LIMITADO e o processo de entrevista ir=C3=A1 descobrir se voc=C3=AA =
+est=C3=A1 PRONTO ou n=C3=A3o para participar de um grupo nesse n=C3=ADvel.<=
+/span></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><span st=
+yle=3D"font-size: 14px; line-height: 21px;">&#160;</span></p><p style=3D"ma=
+rgin: 0;font-size: 12px;line-height: 18px"><br /><span style=3D"font-size: =
+15px; line-height: 22px;"><a style=3D"color:#0068A5;color:#0068A5;color:#00=
+68A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;=
+color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color=
+:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;text-decor=
+ation: underline;" href=3D"http://click.contato.website/redirect/redirect.a=
+spx?A=3DR&l=3D0744D759-6346-4E61-8DC6-9F0BFE457C47&u=3D6886CAC2-FB81-4443-A=
+55E-F4120756F918" target=3D"_blank"><span style=3D"line-height: 22px; font-=
+size: 15px;">CLIQUE AQUI para Ler Todos os Detalhes Desse Grupo</span></a><=
+/span></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><span st=
+yle=3D"font-size: 14px; line-height: 21px;"><a style=3D"color:#0068A5;color=
+:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#006=
+8A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;c=
+olor:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:=
+#0068A5;color:#0068A5;text-decoration: underline;" href=3D"http://click.con=
+tato.website/redirect/redirect.aspx?A=3DR&l=3D0744D759-6346-4E61-8DC6-9F0BF=
+E457C47&u=3D6886CAC2-FB81-4443-A55E-F4120756F918" target=3D"_blank"><span s=
+tyle=3D"line-height: 21px; font-size: 14px;">&#160;</span></a></span></p><p=
+ style=3D"margin: 0;font-size: 12px;line-height: 18px"><br /><span style=3D=
+"font-size: 15px; line-height: 22px;">Mais uma vez, esse ser=C3=A1 um grupo=
+ de M=C3=83O NA MASSA, depois de descobrir quais os seus desafios, eu irei =
+dizer EXATAMENTE o que voc=C3=AA precisa fazer e COMO colocar em pr=C3=A1ti=
+ca imediatamente.</span></p><p style=3D"margin: 0;font-size: 12px;line-heig=
+ht: 18px"><span style=3D"font-size: 15px; line-height: 22px;"><br data-mce-=
+bogus=3D"1" /></span></p><p style=3D"margin: 0;font-size: 12px;line-height:=
+ 18px"><span style=3D"font-size: 15px; line-height: 22px;">Depois das Reuni=
+=C3=B5es&#160;voc=C3=AA ter=C3=A1 nas suas m=C3=A3os um PLANO DE A=C3=87=C3=
+=83O,&#160;algo que talvez voc=C3=AA estivesse procurando por MUITO tempo.<=
+/span></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><span st=
+yle=3D"font-size: 15px; line-height: 22px;">&#160;</span></p><p style=3D"ma=
+rgin: 0;font-size: 12px;line-height: 18px"><br /><span style=3D"font-size: =
+15px; line-height: 22px;">Eu n=C3=A3o estou te convidando para "estudar em =
+grupo" esse =C3=A9 um convite para que eu pessoalmente te diga exatamente o=
+ que voc=C3=AA tem que fazer para come=C3=A7ar a transformar sua publicidad=
+e em lucro.</span></p><p style=3D"margin: 0;font-size: 12px;line-height: 18=
+px"><span style=3D"font-size: 14px; line-height: 21px;">&#160;</span></p><p=
+ style=3D"margin: 0;font-size: 12px;line-height: 18px"><br /><span style=3D=
+"font-size: 15px; line-height: 22px;">=C3=89 por isso que um dos crit=C3=A9=
+rios para voc=C3=AA ser aceito nesse grupo =C3=A9 ter um neg=C3=B3cio com V=
+ERDADEIRO potencial de crescimento.</span></p><p style=3D"margin: 0;font-si=
+ze: 12px;line-height: 18px"><span style=3D"font-size: 15px; line-height: 22=
+px;">Esse n=C3=A3o =C3=A9 um grupo para quem quer aparecer na internet.&#16=
+0;</span></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><br /=
+><span style=3D"font-size: 15px; line-height: 22px;">=C3=89 um grupo para q=
+uem quer VENDER e atrair mais clientes potenciais com a publicidade online.=
+</span></p><p style=3D"margin: 0;font-size: 12px;line-height: 18px"><span s=
+tyle=3D"font-size: 15px; line-height: 22px;">Vai ficar de fora?</span></p><=
+p style=3D"margin: 0;font-size: 12px;line-height: 18px"><span style=3D"font=
+-size: 14px; line-height: 21px;">&#160;</span></p><p style=3D"margin: 0;fon=
+t-size: 12px;line-height: 18px"><br /><span style=3D"font-size: 15px; line-=
+height: 22px;"><a style=3D"color:#0068A5;color:#0068A5;color:#0068A5;color:=
+#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068=
+A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;co=
+lor:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#=
+0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A=
+5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;color:#0068A5;col=
+or:#0068A5;text-decoration: underline;" href=3D"http://click.contato.websit=
+e/redirect/redirect.aspx?A=3DR&l=3D0744D759-6346-4E61-8DC6-9F0BFE457C47&u=
+=3D6886CAC2-FB81-4443-A55E-F4120756F918" target=3D"_blank" rel=3D"noopener"=
+>&gt;&gt;&gt; CLIQUE PARA SABER MAIS</a></span><br /></p><p style=3D"margin=
+: 0;font-size: 12px;line-height: 18px"><span style=3D"font-size: 14px; line=
+-height: 21px;">&#160;</span></p><p style=3D"margin: 0;font-size: 12px;line=
+-height: 18px"><br /><span style=3D"font-size: 15px; line-height: 22px;">Um=
+ abra=C3=A7o</span></p><p style=3D"margin: 0;font-size: 12px;line-height: 1=
+8px"><span style=3D"font-size: 15px; line-height: 22px;">&#160;</span></p><=
+p style=3D"margin: 0;font-size: 12px;line-height: 18px"><br /><span style=
+=3D"font-size: 15px; line-height: 22px;">Um grande abra=C3=A7o,</span></p><=
+p style=3D"margin: 0;font-size: 12px;line-height: 18px"><span style=3D"font=
+-size: 15px; line-height: 22px;"><br data-mce-bogus=3D"1" /></span></p><p s=
+tyle=3D"margin: 0;font-size: 12px;line-height: 18px"><span style=3D"font-si=
+ze: 15px; line-height: 22px;">Jo=C3=A3o Paulo Pereira</span></p><p style=3D=
+"margin: 0;font-size: 12px;line-height: 18px"><span style=3D"font-size: 14p=
+x; line-height: 21px;">&#160;</span></p><p style=3D"margin: 0;font-size: 12=
+px;line-height: 18px"><br /><span style=3D"font-size: 15px; line-height: 22=
+px;"><em><span style=3D"line-height: 22px; font-size: 15px;">PS: As vagas p=
+ara participar deste grupo s=C3=A3o limitadas para que eu possa acompanhar =
+mais de perto cada um dos projetos. N=C3=A3o perca tempo, fa=C3=A7a sua pr=
+=C3=A9-inscri=C3=A7=C3=A3o e nos falamos na entrevista.</span></em></span><=
+/p></div>=09
+	</div>
+	<!--[if mso]></td></tr></table><![endif]-->
+</div>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+              <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+              </div>
+            </div>
+          <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]=
+-->
+        </div>
+      </div>
+    </div>   <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+		</td>
+  </tr>
+  </tbody>
+  </table>
+  <!--[if (mso)|(IE)]></div><![endif]-->
+
+
+
+
+</body></html><div style=3D"width: 100%; clear:left;"><br /><hr /><br /><br=
+ />Rua Padre Zanor - Par=C3=A1 de Minas - MG - 35661266<br />Caso n&atilde;=
+o queira mais receber meus e-mails, <a href=3D"http://click.contato.website=
+/redirect/redirect.aspx?A=3DU&u=3D6886CAC2-FB81-4443-A55E-F4120756F918" tar=
+get=3D"_blank">acesse esse link. (Unsubscribe)</a>.<br /><br /><img alt=3D"=
+" src=3D"http://click.contato.website/redirect/redirect.aspx?A=3DV&u=3D6886=
+CAC2-FB81-4443-A55E-F4120756F918&IMG=3D6886CAC2-FB81-4443-A55E-F4120756F918=
+.png" style=3D"width:100%;height:5px;max-height:5px;"></div><br />E-mail en=
+viado com amor por <a href=3D"http://click.contato.website/redirect/redirec=
+t.aspx?A=3DR&l=3D452AC472-7DF1-41CC-99F5-041923BA8DCD&u=3D6886CAC2-FB81-444=
+3-A55E-F4120756F918" >leadlovers</a>
+
+--12af2ef97c3615c3b89d4bf81de0ebe19ac4242eff61ee304ef36309ce87--

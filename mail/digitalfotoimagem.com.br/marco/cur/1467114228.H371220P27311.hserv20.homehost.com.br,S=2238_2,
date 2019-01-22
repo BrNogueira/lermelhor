@@ -1,0 +1,48 @@
+Return-path: <cobranca@homehost.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 28 Jun 2016 08:43:48 -0300
+Received: from mailalt.homehost.com.br ([177.85.98.241]:34365)
+	by hserv20.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <cobranca@homehost.com.br>)
+	id 1bHrQi-0006vt-3Y
+	for marco@digitalfotoimagem.com.br; Tue, 28 Jun 2016 08:43:48 -0300
+Received: from teste.homehost.com.br (www.homehost.com.br [177.184.2.204])
+	(using TLSv1.2 with cipher DHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by mailalt.homehost.com.br (Postfix) with ESMTPS id 12FB85443334
+	for <marco@digitalfotoimagem.com.br>; Tue, 28 Jun 2016 08:41:25 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=homehost.com.br;
+	s=defaultkey; t=1467114086;
+	bh=IfOuq16coKazDRWboc7MQymuAOzRxg34Gs+suZAP58U=;
+	h=Date:To:From:Subject;
+	b=gQfiV4S8WWZJnf0BbYr7rLpEybsIcMFrWXqmKomrH4daZVdZsgmUW3w73qiEO3Qdo
+	 Aaupev78baex89tPLI7KF9jl+4MTVwEQ6sLoiWYm01saVp3mUZvRFiZ7h/7jlQXfQL
+	 JPz81Vq+QbojtXwD1vPJCjAy8hVdG2r4ir4xKT1c=
+Date: Tue, 28 Jun 2016 08:43:02 -0300
+To: marco@digitalfotoimagem.com.br
+From: Homehost <cobranca@homehost.com.br>
+Subject: Renovacao anual do dominio: WWW.COACHINGPRAVOCE.COM.BR
+Message-ID: <251d2ddd08c1d195a529897c40e96938@teste.homehost.com.br>
+X-Mailer: PHPMailer 5.2.15 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=windows-1250
+Content-Transfer-Encoding: 8bit
+
+Marco,
+			
+			Segue sua fatura referente a renovação anual do registro do domínio WWW.COACHINGPRAVOCE.COM.BR , com expiração em 07/2016.
+			
+		    ATENÇÃO: Recomendamos máxima urgência para o pagamento desta fatura. Segundo resolução da Internic e Fapesp, entidades reguladoras de registro de domínios, caso esta fatura não seja paga dentro do vencimento, este dominio ficará sujeito a remoção definitiva.
+	
+			Para gerar o boleto bancário, acesse o link abaixo:
+
+http://www.homehost.com.br/boleto/b_mail_renovacao.php?userid=135868&p=71923012
+
+Obs: caso você não consiga visualizar a fatura, copie e cole a linha a cima em seu navegador.
+
+Atenciosamente,
+Homehost - Departamento Financeiro
+http://www.homehost.com.br
+
+

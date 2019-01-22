@@ -1,0 +1,523 @@
+Return-Path: <585-GGD-959.0.11290.0.0.7876.9.5170223@em-sj-77.mktomail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id UTGrLfmlAFn9rAkAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Wed, 26 Apr 2017 10:51:53 -0300
+Return-path: <585-GGD-959.0.11290.0.0.7876.9.5170223@em-sj-77.mktomail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Wed, 26 Apr 2017 10:51:53 -0300
+Received: from delapparentia.mktdns.com ([192.28.146.180]:43631)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <585-GGD-959.0.11290.0.0.7876.9.5170223@em-sj-77.mktomail.com>)
+	id 1d3NMH-002eme-6e
+	for marco@digitalfotoimagem.com.br; Wed, 26 Apr 2017 10:51:53 -0300
+X-MSFBL: bWFyY29AZGlnaXRhbGZvdG9pbWFnZW0uY29tLmJyQGR2cC0xOTItMjgtMTQ2LTE4
+	MEBiZy1zamQtMjg5QDU4NS1HR0QtOTU5OjQyMzU6NzE4NzoyNzUzODowOjc4NzY6
+	OToxMTI5MDo1MTcwMjIz
+Received: from [10.0.87.249] ([10.0.87.249:60151] helo=sjmas01.marketo.org)
+	by sjmta08.marketo.org (envelope-from <inquiries@magento.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTP
+	id 2A/31-16962-CC5A0095; Wed, 26 Apr 2017 08:51:08 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1493214668;
+	s=m1; d=magento.com; i=@magento.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=Dfp0v0naPA0fBDjekwGkGXGVMS6S+ASlFyf8Xk7e8js=;
+	b=GiCDa7rXHLBwkxBKoUQjjZeiI7oMMrT+cyIc1u+4dJZihBtJXbsbdJRS53Z+URpS
+	N+0AU1QqAqd++Df84DIfPLPmAa9xRVa52z9EOY47j1Mom4G32Qj9D2+7jI4ukhy2QNI
+	vz+/LhiYZIFF3vkNkLQ/n9KtlZIhD+plmsr2dOl8=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1493214668;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=Dfp0v0naPA0fBDjekwGkGXGVMS6S+ASlFyf8Xk7e8js=;
+	b=GRgbcKkVe4af7c29XeJIqyEWLLc4ubLGRuNakqtEitNZLzzq2+5xjPGUk0aAFk8I
+	ja8xgKj9sfRna0Bbao+SReShTjeMZQ90YOtjMREIexhvRVYHAaAu2Z7gRmhoToh/A0N
+	QW2u5JoAK0GObRTARH3XXCW74ng2qu/tg5uySUww=
+Date: Wed, 26 Apr 2017 08:51:08 -0500 (CDT)
+From: Magento <inquiries@magento.com>
+Reply-To: inquiries@magento.com
+To: marco@digitalfotoimagem.com.br
+Message-ID: <609052994.-66100644.1493214668109.JavaMail.root@sjmas01.marketo.org>
+Subject: Selling in the cloud - save more, sell faster
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_-66100645_654234862.1493214668109"
+X-Binding: bg-sjd-289
+X-MarketoID: 585-GGD-959:4235:7187:27538:0:7876:9:11290:5170223
+X-MktArchive: false
+List-Unsubscribe: <mailto:GFLESNCONZZGOWKPGY3U43TDGRUWUTTTG5AT2PI.11290.7876.9@unsub-sj.mktomail.com>
+X-Mailfrom: 585-GGD-959.0.11290.0.0.7876.9.5170223@em-sj-77.mktomail.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+
+------=_Part_-66100645_654234862.1493214668109
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Lorem ipsum dolor sit amet <[[#]]>
+Join us on the cloud.
+WATCH VIDEO <[[#]]>
+Instantly sell more and save more on the cloud.=20
+=20
+=20
+=20
+=20
+ Merchants are quickly realizing the benefits of switching their online sto=
+re onto a cloud solution, and for good reason.=20
+=20
+=20
+=20
+=20
+=20
+     Lower Costs    Improved Business Agility    Faster Deployment    Unlim=
+ited Scale   =20
+=20
+=20
+=20
+=20
+ The list goes on. Learn how other business are doing it, and how you can g=
+et started today.=20
+=20
+=20
+=20
+=20
+=20
+ Watch the video. <[[#]]>
+=C2=A9 Magento 2016
+
+-
+
+------=_Part_-66100645_654234862.1493214668109
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>=20
+<title>Magento</title>=20
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+=20
+<meta name=3D"viewport" content=3D"width=3Ddevice-width; initial-scale=3D1.=
+0; maximum-scale=3D1.0;">     =20
+</head>=20
+<body bgcolor=3D"#FFFFFF" style=3D"margin:0px; padding:0px; ">
+ &nbsp;=20
+<style type=3D"text/css">
+        /* ********** webfont ********** */
+        @font-face {
+            font-family: 'Graphik';
+            src: url('https://info2.magento.com/rs/585-GGD-959/images/Graph=
+ik-Regular.eot');
+            src: url('https://info2.magento.com/rs/585-GGD-959/images/Graph=
+ik-Regular.eot?#iefix') format('embedded-opentype'),  url('https://info2.ma=
+gento.com/rs/585-GGD-959/images/Graphik-Regular.woff2') format('woff2'),  u=
+rl('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Regular.woff') =
+format('woff'),  url('https://info2.magento.com/rs/585-GGD-959/images/Graph=
+ik-Regular.ttf') format('truetype'),  url('https://info2.magento.com/rs/585=
+-GGD-959/images/Graphik-Regular.svg#Graphik-Regular') format('svg');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'Graphik';
+            src: url('https://info2.magento.com/rs/585-GGD-959/images/Graph=
+ik-Bold.eot');
+            src: url('https://info2.magento.com/rs/585-GGD-959/images/Graph=
+ik-Bold.eot?#iefix') format('embedded-opentype'),  url('https://info2.magen=
+to.com/rs/585-GGD-959/images/Graphik-Bold.woff2') format('woff2'),  url('ht=
+tps://info2.magento.com/rs/585-GGD-959/images/Graphik-Bold.woff') format('w=
+off'),  url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Bold.t=
+tf') format('truetype'),  url('https://info2.magento.com/rs/585-GGD-959/ima=
+ges/Graphik-Bold.svg#Graphik-Bold') format('svg');
+            font-weight: bold;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'Graphik';
+            src: url('https://info2.magento.com/rs/585-GGD-959/images/Graph=
+ik-Light.eot');
+            src: url('https://info2.magento.com/rs/585-GGD-959/images/Graph=
+ik-Light.eot?#iefix') format('embedded-opentype'),  url('https://info2.mage=
+nto.com/rs/585-GGD-959/images/Graphik-Light.woff2') format('woff2'),  url('=
+https://info2.magento.com/rs/585-GGD-959/images/Graphik-Light.woff') format=
+('woff'),  url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Lig=
+ht.ttf') format('truetype'),  url('https://info2.magento.com/rs/585-GGD-959=
+/images/Graphik-Light.svg#Graphik-Light') format('svg');
+            font-weight: 300;
+            font-style: normal;
+        }
+        @media {
+            body {
+                font-family: 'Graphik', sans-serif !important;
+                font-weight:300 !important;
+            }
+            * {
+                font-family: 'Graphik', sans-serif !important;
+            }
+        }
+        /* ********** webfont end ********** */
+
+        body {
+            text-align: left;
+            font-family: Arial, Helvetica, sans-serif;
+            -webkit-text-size-adjust: none;
+            font-size: 16px;
+            line-height: 22px;
+            color: #626366;
+        }
+        * {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        img {
+            border: none;
+        }
+
+        a {
+            color:#26a2aa;
+        }
+
+        @media only screen and (max-width: 600px) {
+
+            #emailContainer img {
+                max-width:100%;
+                height:auto;
+            }
+
+            .table100 {
+                width: 100% !important;
+                float: none !important;
+            }
+            .respPad {
+                padding: 0 20px !important;
+            }
+            #altViewContainer {
+                padding: 17px 0 !important;
+            }
+            #logoContainer {
+                padding: 13px 0 !important;
+            }
+            #logo {
+                text-align: center !important;
+            }
+            .headlineCopy {
+                font-size: 24px !important;
+                line-height: 26px !important;
+                padding: 0 20px 0 !important;
+            }
+            #ctaContainer {
+                padding-top: 22px !important;
+            }
+            #cta_leftColPad {
+                padding: 0 !important;
+            }
+            #CTA_copy {
+                font-size: 24px !important;
+                line-height: 30px !important;
+            }
+            #cta_button {
+                width: 100% !important;
+            }
+            #cta_graphic_container {
+                display: none !important;
+            }
+            #footerContainer {
+                padding: 17px 0 !important;
+            }
+            .boxTable { height:50px !important;}
+            .boxContainer {
+                overflow:hidden !important;
+                text-align: left !important;
+                height: 50px !important;
+            }
+            .boxImage { float: left !important; width: 80px !important; tex=
+t-align: center!important; padding: 5px 0 !important;}
+            .boxImage img { max-height: 40px !important; width: auto !impor=
+tant;}
+            .boxCopy { float: left !important; padding: 15px 0 !important;}
+            .boxRespPad {padding-bottom: 35px !important;}
+        }
+    </style>=20
+<style type=3D"text/css">
+        @media (max-width:599px){.hide-md {display: none !important;}}
+    </style>=20
+<div align=3D"center">=20
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"background:#fff; " class=3D"table100 mktoContainer" id=3D"emailContaine=
+r">
+<tr class=3D"mktoModule" id=3D"eyebrow-module">=20
+<td id=3D"altViewContainer" valign=3D"top" style=3D"padding:23px 0; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 20px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td id=3D"altViewCopy" class=3D"mktEditable" style=3D"text-align:center; fo=
+nt-size:13px; line-height:17px; color:#26a2aa; ">
+<div>
+Commerce without Limits
+<br>
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"logo-module">=20
+<td id=3D"logoContainer" valign=3D"top" style=3D"padding:28px 0; border-top=
+:solid 1px #d8d9da; border-left:solid 1px #d8d9da; border-right:solid 1px #=
+d8d9da; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 34px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td style=3D"text-align:left; " id=3D"logo" class=3D"mktEditable"><img src=
+=3D"https://info2.magento.com/rs/585-GGD-959/images/magento-email-logo.png"=
+ height=3D"42" width=3D"152" alt=3D""></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"hero-module">=20
+<td valign=3D"top" style=3D"padding:0 0; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 0; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td background=3D"https://info2.magento.com/rs/585-GGD-959/images/MGO-2001-=
+hero.jpg" bgcolor=3D"#664888" width=3D"600" height=3D"170" valign=3D"top">=
+=20
+<!--[if gte mso 9]>
+                                <v:rect xmlns:v=3D"urn:schemas-microsoft-co=
+m:vml" fill=3D"true" stroke=3D"false" style=3D"width:600px;height:170px;">
+                                    <v:fill type=3D"tile" src=3D"https://in=
+fo2.magento.com/rs/585-GGD-959/images/MGO-2001-hero.jpg" />
+                                    <v:textbox inset=3D"0,0,0,0">
+                                <![endif]-->=20
+<div>=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" wi=
+dth=3D"530" height=3D"170" style=3D"width:530px; height:170px;" class=3D"ta=
+ble100">=20
+<tbody>=20
+<tr>=20
+<td class=3D"mktEditable headlineCopy" id=3D"headline" style=3D"color:#ffff=
+ff; font-size:36px; line-height:42px; font-weight:300; text-align:center; p=
+adding:0 20px 0; vertical-align:middle; height:170px;" valign=3D"middle" he=
+ight=3D"170">
+<div>
+ Join us on the cloud.=20
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</div>=20
+<!--[if gte mso 9]>
+                                </v:textbox>
+                                </v:rect>
+                                <![endif]--> </td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"button-module">=20
+<td valign=3D"top" style=3D"padding:30px 0 0; border-left:solid 1px #d8d9da=
+; border-right:solid 1px #d8d9da;">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 30px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td id=3D"buttonCopy">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" id=3D"button_module=
+_button">=20
+<tbody>=20
+<tr>=20
+<td id=3D"BTN" class=3D"mktEditable" style=3D"text-align:center; font-size:=
+14px; line-height:18px; font-weight:normal; color:#ffffff; background:#26a2=
+aa; padding:14px 66px; ">
+<div>
+<a href=3D
+"http://email2.magento.com/eq006D02000GGz0Hl7lXH0s" style=3D"color: #ffffff=
+; text-decoration: none;"
+>WATCH VIDEO</a>
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"main-fullWidth-module">=20
+<td valign=3D"top" style=3D"padding:35px 0 0; border-left:solid 1px #d8d9da=
+; border-right:solid 1px #d8d9da;">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 30px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td id=3D"bodyCopy2" class=3D"mktEditable" style=3D"padding:0 0 20px; font-=
+size:16px; line-height:22px; color:#626366; font-weight:300; ">
+<div>
+<span style=3D"font-size: 22px;">Instantly sell more and save more on the c=
+loud.</span>
+</div>=20
+<div>
+<br>
+</div>=20
+<div>
+Merchants are quickly realizing the benefits of switching their online stor=
+e onto a cloud solution, and for good reason.=20
+<br>
+</div>=20
+<div>
+<br>
+</div>=20
+<div>=20
+<table width=3D"290" height=3D"245" cellpadding=3D"6" style=3D"height: 266p=
+x;">=20
+<tbody>=20
+<tr>=20
+<td style=3D"text-align: center;"><img src=3D"https://info2.magento.com/rs/=
+585-GGD-959/images/icon-dollar-arrow-down.png" alt=3D"icon-dollar-arrow-dow=
+n.png" height=3D"35" width=3D"27" style=3D"display: block; margin-left: aut=
+o; margin-right: auto;"></td>=20
+<td>Lower Costs</td>=20
+</tr>=20
+<tr>=20
+<td style=3D"text-align: center;"><img src=3D"https://info2.magento.com/rs/=
+585-GGD-959/images/icon-stopwatch.png" alt=3D"icon-stopwatch.png" height=3D=
+"30" width=3D"30" style=3D"display: block; margin-left: auto; margin-right:=
+ auto;"></td>=20
+<td>Improved Business Agility</td>=20
+</tr>=20
+<tr>=20
+<td style=3D"text-align: center;"><img src=3D"https://info2.magento.com/rs/=
+585-GGD-959/images/icon-rocket.png" alt=3D"icon-rocket.png" height=3D"33" w=
+idth=3D"33" style=3D"display: block; margin-left: auto; margin-right: auto;=
+"></td>=20
+<td>Faster Deployment</td>=20
+</tr>=20
+<tr>=20
+<td style=3D"text-align: center;"><img src=3D"https://info2.magento.com/rs/=
+585-GGD-959/images/icon-bar-graph-up.png" alt=3D"icon-bar-graph-up.png" hei=
+ght=3D"33" width=3D"37" style=3D"display: block; margin-left: auto; margin-=
+right: auto;"></td>=20
+<td>Unlimited Scale</td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</div>=20
+<div>
+<br>
+</div>=20
+<div>
+The list goes on. Learn how other business are doing it, and how you can ge=
+t started today.=20
+<br>
+</div>=20
+<div>
+<br>
+</div>=20
+<div>
+<a href=3D
+"http://email2.magento.com/eq006D02000GGz0Hl7lXH0s" target=3D"_blank" id=3D=
+"" style=3D"color: #26a2aa;"
+>Watch the video.</a>
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"main-body-spacer-module">=20
+<td valign=3D"top" style=3D"padding:20px 0 0; border-left:solid 1px #d8d9da=
+; border-right:solid 1px #d8d9da;"></td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"maindBottomBorder-module">=20
+<td valign=3D"top" style=3D"padding:35px 0 0; border-left:solid 1px #d8d9da=
+; border-right:solid 1px #d8d9da; border-bottom:solid 1px #d8d9da; "></td>=
+=20
+</tr>
+<tr class=3D"mktoModule" id=3D"footer-module">=20
+<td id=3D"footerContainer" valign=3D"top" style=3D"padding:25px 0; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 20px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td id=3D"footer" class=3D"mktEditable" style=3D"text-align:center; font-si=
+ze:13px; color:#aeafb1; ">=C2=A9 Magento 2016</td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>
+</table>=20
+</div>=20
+<img src=3D"http://info.spearmarketing.com/rs/902-DBM-891/images/spacer.png=
+" class=3D"hide-md" border=3D"0" alt=3D"" width=3D"600" height=3D"1" hspace=
+=3D"0" vspace=3D"0" style=3D"width:600px;min-width:600px"> =20
+<a href=3D
+"http://email2.magento.com/K00HlGG00Xz72ms0H07q0D0"
+></a>
+<img src=3D"http://email2.magento.com/trk?t=3D1&mid=3DNTg1LUdHRC05NTk6NDIzN=
+To3MTg3OjI3NTM4OjA6Nzg3Njo5OjExMjkwOjUxNzAyMjM6bWFyY29AZGlnaXRhbGZvdG9pbWFn=
+ZW0uY29tLmJy" width=3D"1" height=3D"1" style=3D"display:none !important;" a=
+lt=3D"" />
+
+<br>
+</body>
+</html>
+------=_Part_-66100645_654234862.1493214668109--

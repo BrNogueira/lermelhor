@@ -1,0 +1,555 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201107 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2017                
+POS_TIME 2696                
+POS_VISITOR 9758                
+POS_DAY 15156               
+POS_DOMAIN 3478                
+POS_LOGIN 3727                
+POS_ROBOT 3882                
+POS_WORMS 4165                
+POS_EMAILSENDER 4296                
+POS_EMAILRECEIVER 4439                
+POS_SESSION 15972               
+POS_SIDER 16183               
+POS_FILETYPES 4574                
+POS_DOWNLOADS 9449                
+POS_OS 4781                
+POS_BROWSER 4862                
+POS_SCREENSIZE 5013                
+POS_UNKNOWNREFERER 5087                
+POS_UNKNOWNREFERERBROWSER 5226                
+POS_ORIGIN 5360                
+POS_SEREFERRALS 5501                
+POS_PAGEREFS 5645                
+POS_SEARCHWORDS 5793                
+POS_KEYWORDS 5945                
+POS_MISC 2359                
+POS_ERRORS 6004                
+POS_CLUSTER 3583                
+POS_SIDER_404 6126                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20110801074859 80 22504 9259397203970
+FirstTime 20110701130758
+LastTime 20110731201625
+LastUpdate 20110801101620 80 0 79 0 0
+TotalVisits 157                 
+TotalUnique 135                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 135                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 15 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 161 1004 4339536 45 76 9656
+1 75 527 348601 27 84 2912
+2 42 268 344350 11 33 1262
+3 2 29 388143 7 9 6498
+4 0 0 0 1 2 8474
+5 0 0 0 4 6 8917
+6 0 0 0 6 8 983
+7 1 21 0 4 4 8908
+8 94 326 3104298 15 20 35974
+9 147 313 4360223 6 7 52
+10 106 677 9660025 20 22 10694
+11 25 227 362425 14 15 1442
+12 155 871 3576854 36 40 19142
+13 109 561 1459867 27 42 1080
+14 202 977 6434662 47 55 2090
+15 73 527 1415257 21 22 10480
+16 183 972 3520492 39 51 155378
+17 68 504 199570 39 48 7043
+18 703 1806 2936455 115 124 19996
+19 167 605 1307653 30 31 849
+20 66 357 2275959 18 22 11489
+21 344 1310 22530657 57 69 60797
+22 144 791 3498093 35 37 16426
+23 47 492 614519 32 37 22374
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+br 2911 13135 72281022
+us 3 30 396617
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+googlebot 191 178563 20110731081459 0
+bot[\s_+:,\.\;\/\\-] 17 30713 20110731042947 0
+msnbot 3 25422 20110724083623 0
+netcraft 2 16948 20110728213620 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+htc 77 39976 0 0
+css 491 400610 0 0
+png 2629 1343808 0 0
+php 187 26634 0 0
+html 2650 48506825 0 0
+jpg 5273 18408339 0 0
+js 707 3843927 0 0
+gif 1151 107520 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 4
+macosx 1
+winlong 28
+winxp 13134
+Unknown 2
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 7
+msie6.0 354
+msie8.0 10777
+firefox4.0 1
+firefox2.0.0.20 68
+Unknown 2
+chrome3.0.195.27 28
+msie7.0 1935
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+GbPlugin 20110728214353
+httpunit/1.5 20110712110807
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+GbPlugin 20110728214353
+httpunit/1.5 20110712110807
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 594 595
+From1 0 0
+From2 0 0
+From3 0 0
+From4 2320 12570
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 121 3146
+206 1 8474
+301 56 14000
+404 447 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 82
+/robots.txt 53 -
+//phpMyAdmin-2.8.0-beta1/scripts/setup.php 1 -
+//scripts/setup.php 1 -
+//phpMyAdmin-2.8.1-rc1/scripts/setup.php 1 -
+//php-myadmin/scripts/setup.php 1 -
+//sqlweb/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0.2/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-beta2/scripts/setup.php 1 -
+//phpMyAdmin-2/scripts/setup.php 1 -
+//phpMyAdmin-2.8.1/scripts/setup.php 1 -
+//phpMyAdmin-2.5.5-rc1/scripts/setup.php 1 -
+//php-my-admin/scripts/setup.php 2 -
+//phpadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1/scripts/setup.php 1 -
+//phpMyAdmin-2.2.6/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-pl1/scripts/setup.php 1 -
+//phpMyAdmin-2.7.0-pl2/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0-rc1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.2-pl1/scripts/setup.php 1 -
+//phpMyAdmin-2.7.0-beta1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-beta1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1-rc2/scripts/setup.php 1 -
+//phpMyAdmin-2.7.0-pl1/scripts/setup.php 1 -
+//PMA2005/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0.1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-alpha2/scripts/setup.php 1 -
+//phpMyAdmin-2.2.3/scripts/setup.php 1 -
+//phpMyAdmin-2.5.7-pl1/scripts/setup.php 1 -
+//admn/scripts/setup.php 1 -
+//admin/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0/scripts/setup.php 1 -
+//webdb/scripts/setup.php 1 -
+//admm/scripts/setup.php 1 -
+//phpmy-admin/scripts/setup.php 1 -
+//phpMyAdmin-2.7.0-rc1/scripts/setup.php 1 -
+//p/m/a/scripts/setup.php 1 -
+//web/scripts/setup.php 1 -
+/index.swf 305 http://www.digitalfotoimagem.com.br/
+//phpMyAdmin-2.6.3-rc1/scripts/setup.php 1 -
+//pma/scripts/setup.php 1 -
+//sqlmanager/scripts/setup.php 1 -
+//websql/scripts/setup.php 1 -
+//phpmyadmin2/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0.4/scripts/setup.php 1 -
+//phpMyAdmin-2.5.5-pl1/scripts/setup.php 1 -
+//phpMyAdmin-2.5.7/scripts/setup.php 1 -
+//phpMyAdmin-2.7.0/scripts/setup.php 1 -
+//webadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.5.5-rc2/scripts/setup.php 1 -
+/Fundo2.png 8 http://www.digitalfotoimagem.com.br/email.html
+//phpMyAdmin-2.5.1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1-pl1/scripts/setup.php 1 -
+//phpMyAdmin-2.5.5/scripts/setup.php 1 -
+//phpMyAdmin-2.5.4/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0-rc2/scripts/setup.php 1 -
+//databaseadmin/scripts/setup.php 1 -
+/muieblackcat 1 -
+//phpMyAdmin-2.6.0-rc3/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-pl3/scripts/setup.php 1 -
+//admin/pma/scripts/setup.php 1 -
+//db/scripts/setup.php 1 -
+//myadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0/scripts/setup.php 1 -
+//phpMyAdmin-2.6.3-pl1/scripts/setup.php 1 -
+//pma2005/scripts/setup.php 1 -
+//phpMyAdmin-2.6.4-pl3/scripts/setup.php 1 -
+//phpMyAdmin-2.5.6-rc2/scripts/setup.php 1 -
+//phpMyAdmin-2.5.6-rc1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.3/scripts/setup.php 2 -
+//phpMyAdmin-2.6.0-pl2/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0.3/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-rc1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-rc2/scripts/setup.php 1 -
+//phpMyAdmin-2.5.6/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1-pl2/scripts/setup.php 1 -
+//typo3/phpmyadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.6.4-pl4/scripts/setup.php 1 -
+//phpMyAdmin-2.6.4/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-alpha/scripts/setup.php 1 -
+//phpMyAdmin/scripts/setup.php 1 -
+//mysql/scripts/setup.php 1 -
+//mysqlmanager/scripts/setup.php 1 -
+END_SIDER_404
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 135
+200.144.5.29 733 1435 2695784 20110726214048
+187.75.116.34 316 1033 16805730 20110720104132
+187.75.95.247 166 386 1789945 20110725143856
+189.69.182.241 130 366 945573 20110725221354
+187.101.192.192 110 370 328016 20110708193313
+187.75.95.137 83 289 1168998 20110719172219
+187.10.186.67 74 227 16911 20110728011744
+187.75.116.11 72 205 2591017 20110721144004
+187.75.125.16 67 265 1819085 20110714165318
+187.56.246.47 56 222 62426 20110722122507
+189.47.99.217 53 213 1879722 20110707124640
+187.10.186.134 52 171 809707 20110719154227
+187.75.123.93 51 203 40349 20110704002238
+187.57.245.33 48 167 1959446 20110722204308
+187.75.90.226 48 229 23927 20110708215039
+187.56.247.228 45 157 28421 20110708224635
+187.10.186.166 44 203 34502 20110721015936
+187.57.241.142 44 52 266383 20110719163111
+187.56.241.249 40 306 3813457 20110718021636
+187.10.185.119 39 196 344350 20110717024635
+200.144.5.41 38 188 18662335 20110728215253
+187.101.198.139 35 153 1535262 20110720222916
+201.1.98.96 34 131 432989 20110715192113
+187.42.197.81 34 136 2675831 20110713221027
+187.56.241.87 32 260 47467 20110722185239
+187.57.242.35 10 61 291784 20110705160823
+187.10.187.219 1 24 0 20110707230642
+187.75.115.140 1 21 0 20110715234344
+189.110.91.126 3 73 0 20110703155553
+187.10.189.185 1 21 0 20110716072718
+187.57.245.46 2 48 0 20110728234750
+187.75.116.181 16 184 16335 20110725005006
+67.55.106.140 1 1 8474 20110704035336
+189.110.91.64 2 41 0 20110721171242
+187.101.248.38 15 103 23997 20110715103944
+187.75.117.64 1 24 0 20110711092642
+187.77.50.159 14 88 0 20110721184619
+187.75.88.191 3 27 1170 20110714213009
+189.110.91.156 2 50 0 20110729160602
+187.75.124.69 2 36 0 20110707174551
+187.101.254.12 1 24 0 20110701130758
+187.101.251.138 1 24 0 20110729174344
+187.101.196.41 6 109 0 20110715125910
+187.101.248.52 12 84 605590 20110729232706
+187.75.123.136 1 24 0 20110713161446
+187.57.242.34 2 49 0 20110728192641
+187.56.242.95 3 73 38621 20110711194620
+187.10.186.57 2 49 0 20110713214803
+187.9.235.167 5 21 100632 20110707100837
+187.75.116.169 3 58 0 20110715174440
+187.56.247.59 2 49 0 20110710012206
+187.43.212.71 1 28 379669 20110731190648
+201.1.97.101 17 142 29230 20110702181324
+187.56.251.220 2 35 0 20110727234201
+187.57.241.120 1 23 0 20110725234303
+187.101.199.120 2 47 0 20110704160939
+69.42.65.250 1 28 379669 20110704035338
+199.80.60.29 1 1 8474 20110704213452
+189.47.98.139 3 59 593787 20110717151822
+187.56.254.127 23 82 21652 20110704143000
+187.75.122.41 2 47 0 20110713101658
+187.57.243.95 1 24 8474 20110712122525
+200.161.47.203 1 19 0 20110716184923
+187.57.247.117 1 26 0 20110720124655
+201.13.71.35 1 22 319066 20110717185155
+187.75.91.82 1 24 0 20110716102446
+187.75.119.136 2 38 0 20110714122904
+187.10.185.192 1 20 0 20110716152347
+186.240.58.116 12 77 1520187 20110711142941
+187.56.242.96 1 26 0 20110723195303
+187.56.246.124 2 40 0 20110716202453
+187.75.121.56 1 24 0 20110728170353
+187.101.198.92 2 22 154005 20110711174430
+187.56.248.213 1 18 0 20110714003458
+201.13.69.154 1 23 0 20110710133504
+187.9.235.166 3 21 54516 20110707100835
+187.101.248.3 1 19 0 20110715230408
+187.77.101.158 2 26 0 20110712090153
+187.75.92.107 3 55 0 20110720175131
+201.13.68.93 1 23 0 20110704130026
+187.101.252.233 5 107 0 20110727130901
+189.110.89.96 1 22 0 20110712135810
+187.10.185.238 23 107 21670 20110705003905
+187.101.196.119 2 48 0 20110726152811
+187.101.194.243 2 38 0 20110714144335
+189.110.91.51 22 139 281000 20110727140829
+187.101.199.169 5 80 1170 20110701174132
+187.56.247.149 1 23 0 20110723011920
+186.240.61.243 7 40 1001205 20110727185150
+187.56.247.129 10 83 14961 20110711005110
+187.56.244.100 1 24 0 20110727001112
+187.75.122.3 2 48 0 20110701152025
+201.1.96.149 1 24 0 20110721184501
+187.56.254.43 25 160 473922 20110720004206
+187.10.188.251 1 23 0 20110720002107
+189.47.98.215 3 73 0 20110728145323
+187.56.249.134 14 120 309987 20110717231910
+201.1.99.76 1 24 0 20110731201625
+187.56.250.88 1 23 0 20110722215012
+201.13.71.59 2 48 0 20110718135134
+187.10.185.158 3 71 0 20110701154628
+189.110.88.59 1 19 0 20110715143516
+187.101.252.77 3 61 0 20110716143354
+187.75.94.249 4 86 0 20110727175012
+187.56.250.97 2 41 0 20110716003311
+187.57.244.244 3 72 0 20110711000156
+187.56.242.11 1 23 0 20110703004043
+187.101.250.46 3 27 1170 20110716213051
+200.161.46.68 1 25 0 20110703185856
+201.41.59.162 1 1 8474 20110712110807
+200.226.102.57 2 26 349711 20110710122110
+187.56.242.72 1 24 0 20110722010141
+187.56.246.241 1 25 0 20110709005311
+187.101.255.128 6 143 0 20110702163822
+187.10.188.191 1 24 0 20110719021307
+187.75.116.152 16 118 16145 20110715213130
+187.101.198.136 17 107 611399 20110720223440
+187.56.251.121 1 25 0 20110712154144
+187.56.241.201 1 24 0 20110708235343
+187.75.94.234 2 49 0 20110713132526
+187.75.127.247 4 68 155188 20110711215546
+187.75.126.45 1 24 2016 20110717190900
+187.101.198.89 1 24 5029 20110731190806
+187.101.250.202 3 71 320406 20110705225756
+187.56.243.10 2 38 0 20110726140325
+187.10.190.246 5 115 312714 20110709015240
+187.75.120.190 4 75 320406 20110705154702
+187.9.235.165 2 17 139671 20110707100803
+187.57.243.114 3 73 320406 20110706144401
+187.75.90.159 4 86 632478 20110720170814
+187.57.246.225 19 107 32956 20110708130058
+187.57.243.198 2 38 0 20110714233042
+187.101.248.55 13 95 2012590 20110727142744
+187.56.249.97 1 24 0 20110719190100
+187.101.250.3 4 97 0 20110707152403
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20110701 11 223 1170 4
+20110702 26 295 31594 4
+20110703 55 300 40349 4
+20110704 118 561 1147770 8
+20110705 182 652 1328664 6
+20110706 406 596 1107163 3
+20110707 70 429 2174541 7
+20110708 223 886 413320 7
+20110709 6 141 312714 2
+20110710 7 146 349711 4
+20110711 33 371 1882962 8
+20110712 6 98 16948 5
+20110713 41 305 2675831 6
+20110714 77 424 1820255 7
+20110715 77 578 473131 8
+20110716 14 253 1170 8
+20110717 58 421 1569206 5
+20110718 42 354 3813457 2
+20110719 181 560 2245088 5
+20110720 402 1643 20058791 9
+20110721 133 561 2625519 6
+20110722 138 696 2069339 5
+20110723 2 49 0 2
+20110724 12 105 16335 1
+20110725 301 854 2735518 5
+20110726 101 295 802764 4
+20110727 54 526 3294795 8
+20110728 120 609 18679246 7
+20110729 15 158 605590 4
+20110731 3 76 384698 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 10
+5mn-15mn 16
+0s-30s 66
+15mn-30mn 29
+30s-2mn 11
+2mn-5mn 7
+30mn-1h 18
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 51
+/email/ 2263 48223878 11 33
+/ 261 194902 144 107
+/email/bin/quotaimg.php 187 26634 0 4
+/email/skins/default/pngbehavior.htc 77 39976 2 4
+/email.html 8 21164 0 4
+/escola/1.html 7 3635 0 0
+/escola/mae.html 6 6580 0 0
+/escola/final%20de%20ano.html 6 3996 0 0
+/casamento/paginacasamento.html 5 8192 0 0
+/igreja/2.html 5 1506 0 0
+/escola/pai.html 5 5416 0 0
+/igreja/5.html 5 1398 0 3
+/igreja/1.html 5 1698 0 0
+/igreja/3ok.html 5 1599 0 0
+/aniversario/aniversario.html 4 4752 0 0
+/escola/paginafoto20.html 4 1350 0 1
+/escola/paginafoto19.html 4 1305 0 0
+/casamento/paginafoto88.html 3 1350 0 0
+/casamento/paginafoto14.html 3 1314 0 0
+/casamento/paginafoto11.html 3 1350 0 0
+/casamento/paginafoto1.html 3 1347 0 0
+/casamento/paginafoto9.html 3 1347 0 0
+/casamento/paginafoto8.html 3 1320 0 0
+/escola/paginafoto16.html 2 870 0 0
+/aniversario/paginafoto7.html 2 898 0 0
+/escola/paginafoto4.html 1 434 0 0
+/escola/paginafoto13.html 1 435 0 0
+/aniversario/paginafoto19.html 1 443 0 0
+/casamento/paginafoto2a.html 2 872 0 0
+/escola/paginafoto2.html 1 434 0 0
+/casamento/paginafoto1a.html 2 898 0 0
+/casamento/paginafoto5.html 2 1194 0 0
+/casamento/paginafotoalbum.html 2 449 0 0
+/casamento/paginafoto7.html 1 773 0 0
+/escola/paginafoto2b.html 2 868 0 0
+/casamento/paginafoto6.html 1 436 0 0
+/aniversario/paginafoto5.html 2 886 0 1
+/casamento/paginafoto3.html 1 442 0 0
+/escola/paginafoto8.html 1 434 0 0
+/escola/paginafoto7.html 1 434 0 0
+/escola/paginafoto22.html 1 435 0 0
+/escola/paginafoto17.html 2 870 0 0
+/escola/paginafoto18.html 2 900 0 0
+/escola/paginafoto11.html 1 435 0 0
+/casamento/paginafotolembranca2.html 1 496 0 0
+/aniversario/paginafoto3.html 1 442 0 0
+/escola/paginafoto1.html 1 449 0 0
+/escola/paginafoto24a.html 1 435 0 0
+/casamento/paginafoto3a.html 2 886 0 0
+/escola/paginafoto21.html 1 435 0 0
+/aniversario/paginafoto18.html 1 443 0 0
+END_SIDER

@@ -1,0 +1,124 @@
+Return-Path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id 6b5lJeDqrlhqvggAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Thu, 23 Feb 2017 11:00:00 -0300
+Return-path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 23 Feb 2017 11:00:00 -0300
+Received: from o20.mailsg.leadlovers.com ([167.89.101.190]:48617)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>)
+	id 1cgtw8-002T2u-6c
+	for marco@digitalfotoimagem.com.br; Thu, 23 Feb 2017 11:00:00 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=leadlovers.com.br; 
+	h=content-type:from:mime-version:subject:to:list-unsubscribe; 
+	s=m1; bh=3V0fy/R7pzxno5p+yp4Ow4Is0bM=; b=nWyaAaTQoClAXmRDIAmwBKn
+	UKujaTpXqNcfLVN6dygswcK7FLYm15eTuvJKP7qRg0Li3Wkao24DqMAh+JzMMygq
+	D/JEKpCqS2xUtBdD/p88mtAgc51j/BCRwmoQLBrfAbxHSfDP5/lfX0Tx57nhJ431
+	m3OOsFZft2GyFjzRalDM=
+Received: by filter0943p1mdw1.sendgrid.net with SMTP id filter0943p1mdw1-10426-58AEEAA1-3C
+        2017-02-23 13:58:58.118515002 +0000 UTC
+Received: from MjM4NDgwOQ (m3640.contabo.host [5.189.178.140])
+	by ismtpd0004p1lon1.sendgrid.net (SG) with HTTP id _kgcHOCgRQq2HmYpNLPznQ
+	Thu, 23 Feb 2017 13:58:57.515 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=b21e4d1188355dc90213882932f5d267fc7adb7560e182bb23dd50041d8f
+Date: Thu, 23 Feb 2017 13:58:57 +0000
+From: "Paulo Gerhardt" <paulo.gerhardt@solbiz.com.br>
+Mime-Version: 1.0
+Subject: =?UTF-8?B?W1BhbGVzdHJhIEdyYXR1aXRhXSBBcyB2YWdhcyBlc3TDo28gYWNhYmFuZG8hIFZvY8OqIGrDoSBmZXogYSBzdWEgaW5zY3Jpw6fDo28=?=
+ =?UTF-8?B?PyDDiSBIb2plISA=?=
+To: <marco@digitalfotoimagem.com.br>
+Message-ID: <_kgcHOCgRQq2HmYpNLPznQ@ismtpd0004p1lon1.sendgrid.net>
+List-Unsubscribe: <https://u2384809.ct.sendgrid.net/wf/unsubscribe?upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiWoKQFOF-2FXBopiL-2BYaC-2B-2BVrMD0m7hCnmAbwOrQIuUJ-2BSw1ZqA6yW4AIrkZNsbuw7i-2FB2JEXfeUNGamEPof-2FlxHHxSHkF0FjmXLMUes8a7dTU39c51jFV9ri0EycCygQFsF-2B2Qp0Uy3H-2FE5cf1C4LX5CA-2B0WvkQVEZYWOnHUCmfoU6MhT8vtMqn7sXjSWI7vplK-2FjCE9PZSxAtbJwEn9frDg-3D-3D>, <mailto:unsubscribe@mailsg.leadlovers.com.br?subject=https://u2384809.ct.sendgrid.net/wf/unsubscribe*q*upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiWoKQFOF-2FXBopiL-2BYaC-2B-2BVrMD0m7hCnmAbwOrQIuUJ-2BSw1ZqA6yW4AIrkZNsbuw7i-2FB2JEXfeUNGamEPof-2FlxHHxSHkF0FjmXLMUes8a7dTU39c51jFV9ri0EycCygQFsF-2B2Qp0Uy3H-2FE5cf1C4LX5CA-2B0WvkQVEZYWOnHUCmfoU6MhT8vtMqn7sXjSWI7vplK-2FjCE9PZSxAtbJwEn9frDg-3D-3D>
+X-SG-EID: Hch+2AQw5UfQtHqV+P/3h94kWa/z3uc7aT9t1ffNJX6ejfdpfjs1c7IIdtNthFh9XSAz+gkfwxMZ5A
+ zfnscyZiSxl7XRhaA5kv43DEuAqtKPCtFwS/jna0Nn4+5FX+eyCtnqjEa1kzO/tHVcCg5AseMue2Yv
+ Wp/nBb/tnWMfXM8w2xnZ2YsOSx4BY9Hu5SPIa7BxWgdsf1GT2fIpHwRb9GvrHS5RcgUKt1RtDS6dKy
+ CfhDHERxyCxkipAgfAk+wf
+X-SG-ID: YDTqBOjidbCUo/ar1oAtZhu+ftDB9HIxv+Q9UxnmvUOLJ65Udbxe172dcPX9ziAy
+
+--b21e4d1188355dc90213882932f5d267fc7adb7560e182bb23dd50041d8f
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+=0D=0DOl=C3=A1=0D=0DTudo bem? Se voc=C3=AA quer saber como aumentar suas ch=
+ances de sucesso no atual cen=C3=A1rio de mercado, tem que participar deste=
+ semin=C3=A1rio.=0D=0DFa=C3=A7a aqui a tua inscri=C3=A7=C3=A3o.=0D=0DSer=C3=
+=A3o duas palestras fant=C3=A1sticas que v=C3=A3o mexer com voc=C3=AA. Ser=
+=C3=A1 que seu mindset est=C3=A1 adequado ao atual momento? Veja qual =C3=
+=A9 o mindset do sucesso e os neg=C3=B3cios que est=C3=A3o bombando no merc=
+ado. =0D=0DEntre aqui e participa deste evento que vai mudar a tua vida.=0D=
+=0DExiste aqueles que ficam reclamando da crise, das dificuldades financeir=
+as, do seu trabalho e que sua vida vai de mal a pior e tem pessoas que t=C3=
+=AAm atitude de buscar alternativas e mudar seus resultados. Em qual grupo =
+voc=C3=AA est=C3=A1?=0D=0DEntre agora aqui, porque as vagas est=C3=A3o term=
+inando.=0D=0DAbra=C3=A7os=0D=0DPaulo Gerhardt=0D=0DCriador da Metodologia d=
+o Coaching de Vendas=0D=0D=0DP.S.: As inscri=C3=A7=C3=B5es foram prorrogada=
+s hoje, mas somente at=C3=A9 as vagas acabarem. Ent=C3=A3o, te apressa e ga=
+rante a tua. =C3=A9 gratuito! Faz a inscri=C3=A7=C3=A3o aqui.Clique aqui pa=
+ra n=C3=A3o receber mais e-mails dessa lista (Unsubscribe).
+
+--b21e4d1188355dc90213882932f5d267fc7adb7560e182bb23dd50041d8f
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE><table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" id=3D=
+"LLCenteredColumn" style=3D"border:none;"><tbody><tr><td style=3D"border:no=
+ne;"><table class=3D"table01 k-table" style=3D"background-color:#ffffff;mar=
+gin:auto;width:650px;"><tbody><tr><td id=3D"LLCenteredColumn01" style=3D"bo=
+rder:none;margin:0px;padding:20px;text-align:left;white-space:normal;"><p><=
+span style=3D"font-size:14.0pt;font-family:'Arial','sans-serif';">Ol&aacute=
+;</span></p><p style=3D"text-align:justify;"><span style=3D"font-size:14.0p=
+t;font-family:'Arial','sans-serif';">Tudo bem? Se voc&ecirc; quer saber com=
+o aumentar suas chances de sucesso no atual cen&aacute;rio de mercado, tem =
+que participar deste semin&aacute;rio.</span></p><p style=3D"text-align:jus=
+tify;"><span style=3D"font-size:14.0pt;font-family:'Arial','sans-serif';col=
+or:red;"><a href=3D"http://leadloversclick02.com/redirect/redirect.aspx?A=
+=3DR&l=3DD4C2C10D-BDAA-47CA-9385-3329E43FEFEA&u=3D4ff08d34-1a39-4954-b875-3=
+ac5f56abad3" target=3D"_blank">Fa&ccedil;a aqui a tua inscri&ccedil;&atilde=
+;o.</a></span></p><p style=3D"text-align:justify;"><span style=3D"font-size=
+:14.0pt;font-family:'Arial','sans-serif';">Ser&atilde;o duas palestras fant=
+&aacute;sticas que v&atilde;o mexer com voc&ecirc;. Ser&aacute; que seu min=
+dset est&aacute; adequado ao atual momento? Veja qual &eacute; o mindset do=
+ sucesso e os neg&oacute;cios que est&atilde;o bombando no mercado.&nbsp;&n=
+bsp; </span></p><p style=3D"text-align:justify;"><span style=3D"font-size:1=
+4.0pt;font-family:'Arial','sans-serif';color:red;"><a href=3D"http://leadlo=
+versclick02.com/redirect/redirect.aspx?A=3DR&l=3DD4C2C10D-BDAA-47CA-9385-33=
+29E43FEFEA&u=3D4ff08d34-1a39-4954-b875-3ac5f56abad3" target=3D"_blank">Entr=
+e aqui e participa deste evento que vai mudar a tua vida.</a></span></p><p =
+style=3D"text-align:justify;"><span style=3D"font-size:14.0pt;font-family:'=
+Arial','sans-serif';">Existe aqueles que ficam reclamando da crise, das dif=
+iculdades financeiras, do seu trabalho e que sua vida vai de mal a pior e t=
+em pessoas que t&ecirc;m atitude de buscar alternativas e mudar seus result=
+ados. Em qual grupo voc&ecirc; est&aacute;?</span></p><p style=3D"text-alig=
+n:justify;"><span style=3D"font-size:14.0pt;font-family:'Arial','sans-serif=
+';color:red;"><a href=3D"http://leadloversclick02.com/redirect/redirect.asp=
+x?A=3DR&l=3DD4C2C10D-BDAA-47CA-9385-3329E43FEFEA&u=3D4ff08d34-1a39-4954-b87=
+5-3ac5f56abad3" target=3D"_blank">Entre agora aqui, porque as vagas est&ati=
+lde;o terminando.</a></span></p><p><span style=3D"font-size:14.0pt;font-fam=
+ily:'Arial','sans-serif';">Abra&ccedil;os</span></p><p style=3D"margin-bott=
+om:0cm;margin-bottom:.0001pt;"><span style=3D"font-size:14.0pt;font-family:=
+'Arial','sans-serif';">Paulo Gerhardt</span></p><p style=3D"margin-bottom:0=
+cm;margin-bottom:.0001pt;"><span style=3D"font-size:14.0pt;font-family:'Ari=
+al','sans-serif';">Criador da Metodologia do Coaching de Vendas</span></p><=
+p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;"><span style=3D"font-si=
+ze:14.0pt;font-family:'Arial','sans-serif';"></span></p><p style=3D"margin-=
+bottom:0cm;margin-bottom:.0001pt;"><span style=3D"font-size:14.0pt;font-fam=
+ily:'Arial','sans-serif';">P.S.: As inscri&ccedil;&otilde;es foram prorroga=
+das hoje, mas somente at&eacute; as vagas acabarem. Ent&atilde;o, te apress=
+a e garante a tua. &Eacute; gratuito! <span style=3D"color:red;"><a href=3D=
+"http://leadloversclick02.com/redirect/redirect.aspx?A=3DR&l=3DD4C2C10D-BDA=
+A-47CA-9385-3329E43FEFEA&u=3D4ff08d34-1a39-4954-b875-3ac5f56abad3" target=
+=3D"_blank">Faz a inscri&ccedil;&atilde;o aqui.</a></span></span></p></td><=
+/tr></tbody></table></td></tr></tbody></table><a href=3D"http://leadloversc=
+lick02.com/redirect/redirect.aspx?A=3DU&u=3D4ff08d34-1a39-4954-b875-3ac5f56=
+abad3" target=3D"_blank">Clique aqui para n&atilde;o receber mais e-mails d=
+essa lista (Unsubscribe).</a><br /><img alt=3D"" src=3D"http://leadloverscl=
+ick02.com/redirect/redirect.aspx?A=3DV&u=3D4ff08d34-1a39-4954-b875-3ac5f56a=
+bad3&IMG=3Dhttps://leadlovers.com/content/images/1px.png" />
+
+--b21e4d1188355dc90213882932f5d267fc7adb7560e182bb23dd50041d8f--

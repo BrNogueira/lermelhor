@@ -1,0 +1,611 @@
+Return-Path: <585-GGD-959.0.41571.0.0.12592.9.5170223@em-sj-77.mktomail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from h9.servidorhh.com
+	by h9.servidorhh.com with LMTP id 4OzyA6yJGVsvHhkArjWGVg
+	for <marco@digitalfotoimagem.com.br>; Thu, 07 Jun 2018 16:38:20 -0300
+Return-path: <585-GGD-959.0.41571.0.0.12592.9.5170223@em-sj-77.mktomail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 07 Jun 2018 16:38:20 -0300
+Received: from delapparentia.mktdns.com ([192.28.146.180]:43043)
+	by h9.servidorhh.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <585-GGD-959.0.41571.0.0.12592.9.5170223@em-sj-77.mktomail.com>)
+	id 1fR0jj-006tqg-LB
+	for marco@digitalfotoimagem.com.br; Thu, 07 Jun 2018 16:38:20 -0300
+X-MSFBL: bWFyY29AZGlnaXRhbGZvdG9pbWFnZW0uY29tLmJyQGR2cC0xOTItMjgtMTQ2LTE4
+	MEBiZy1zamQtMjg5QDU4NS1HR0QtOTU5OjEwMzgzOjEyMTU5OjQ4ODIzOjA6MTI1
+	OTI6OTo0MTU3MTo1MTcwMjIz
+Received: from [10.0.87.249] ([10.0.87.249:45227] helo=sjmas01.marketo.org)
+	by sjmta09.marketo.org (envelope-from <info@magento.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTP
+	id B0/B1-36222-D79891B5; Thu, 07 Jun 2018 14:37:33 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1528400253;
+	s=m1; d=magento.com; i=@magento.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=LO35wNhBihkQY2KzCHtZkJ3PAlGDHT/bWbKEk5EAv8E=;
+	b=coFs7CaETzVs2EJ6qDnFMWe8PQEiK+FQWh48vMVcWXse9K1v0mhNIsE8NpCG+MhJ
+	n1iqwBnGKfr8MbL2Kgv45vvayud8T5FcAcSd6SzVZQRbal8ATDMApwSw7uRgfOX6jM+
+	2Ol9nyVdQmgCDQ6pSpS22O0GQLJTBiVJxOI+fNxk=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1528400253;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=LO35wNhBihkQY2KzCHtZkJ3PAlGDHT/bWbKEk5EAv8E=;
+	b=CsiVxor3VvE4QbyXUYxw6sMpBQEaewFUAc58vOIRfzgeRjldgMJzQKUowplyWPdV
+	xfuiMdrCJjuV2cLuS0uzRBrfEA292kVWltC47VOQeP8EBz0QFsSiPqDnL0WuC+mQzYf
+	CA3zkpAAWatUdGXQdY1WicLKocv1tDeOqGUHobn8=
+Date: Thu, 7 Jun 2018 14:37:33 -0500 (CDT)
+From: Magento <info@magento.com>
+Reply-To: info@magento.com
+To: marco@digitalfotoimagem.com.br
+Message-ID: <385987826.-459870271.1528400253280.JavaMail.root@sjmas01.marketo.org>
+Subject: Magento Commerce Named a Leader by Gartner for Digital Commerce
+ 2018
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_-459870272_783128245.1528400253280"
+X-PVIQ: mkto-585GGD959-000001-000000-041571
+X-Binding: bg-sjd-289
+X-MarketoID: 585-GGD-959:10383:12159:48823:0:12592:9:41571:5170223
+X-MktArchive: false
+List-Unsubscribe: <mailto:GFLESNCONZZGOWKPGY3U43TDGRUWUTTTG5AT2PI.41571.12592.9@unsub-sj.mktomail.com>
+X-Mailfrom: 585-GGD-959.0.41571.0.0.12592.9.5170223@em-sj-77.mktomail.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+
+------=_Part_-459870272_783128245.1528400253280
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+To view this email as a web page, go to the following address: https://info=
+2.magento.com/index.php/email/emailWebview?mkt_tok=3DeyJpIjoiWldSak1qa3hObV=
+ZpTmpOaSIsInQiOiIwRklXaDdmR2R2NXJkQ1cwM2s2NlkvNTk2RTBUdkFvZ3Irei9pYXhiSnBOO=
+HVBOE9oR1VnQm01NEJTSkR6TVNEbnd1QURPZWFZQndSQ2pGbHcyM2tRUDZhUkxpWGg2MGFncU14=
+Um1Gc1I1Y1B2cFpFazhwemdYbGFqVWdsRndWRiJ9
+
+You=E2=80=99re a merchant on a mission, and we=E2=80=99re here to help equi=
+p your business with the insights to support your efforts. When it comes to=
+ commerce, we know our stuff, but don=E2=80=99t just take our word for it! =
+Magento Commerce has been evaluated as a leader once again in the 2018 Gart=
+ner Magic Quadrant for Digital Commerce.
+
+ We feel Magento is recognized by Gartner for our solution completeness=E2=
+=80=94for solutions spanning merchants=E2=80=99 needs and evolving omnichan=
+nel experience demands.=20
+
+ Support your evaluation efforts! Check out this commerce solution selectio=
+n must-read by Gartner:
+
+ Access the full 2018 report!
+
+
+=09- Analysis of digital commerce industry trends and technology
+=09- Practical guidance on evaluating digital commerce solutions
+=09- An in-depth review of Magento Commerce and other vendors
+Gartner Magic Quadrant for Digital Commerce, Penny Gillespie, Jason Daigler=
+, Mike Lowndes, Christina Klock, Yanna Dharmasthira, Sandy Shen, June 5, 20=
+18. Gartner does not endorse any vendor, product or service depicted in its=
+ research publications, and does not advise technology users to select only=
+ those vendors with the highest ratings or other designation. Gartner resea=
+rch publications consist of the opinions of Gartner's research organization=
+ and should not be construed as statements of fact. Gartner disclaims all w=
+arranties, expressed or implied, with respect to this research, including a=
+ny warranties of merchantability or fitness for a particular purpose.
+=C2=A9 2018 Magento All rights reserved=20
+54 North Central Ave #200 Campbell, CA, USA=20
+ Unsubscribe/Preference Center <https://magento.com/legal/terms" style=3D"c=
+olor: #fff; text-decoration: none;">Terms of Use | Privacy Policy <[[https:=
+//magento.com/legal/terms/privacy]]> |
+
+-
+
+------=_Part_-459870272_783128245.1528400253280
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html>
+<head>=20
+<meta name=3D"viewport" content=3D"width=3Ddevice-width">=20
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+=20
+<!-- Marketo Variable Definitions -->  =20
+<!-- header -->  =20
+<!-- header image -->  =20
+<!-- spacer -->  =20
+<!-- freeTextSpacer -->    =20
+<!-- button -->     =20
+<!-- blockTextSpacer --> =20
+<!-- footer -->=20
+<style>
+    /* -------------------------------------
+    GLOBAL RESETS
+    ------------------------------------- */
+    img {
+    border: none;
+    -ms-interpolation-mode: bicubic;
+    max-width: 100%;
+    }
+    body {
+    /*background-color: #f6f6f6;*/
+    font-family: sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 14px;
+    line-height: 1.4;
+    margin: 0;
+    padding: 0;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    }
+    table {
+    border-collapse: separate;
+    mso-table-lspace: 0pt;
+    mso-table-rspace: 0pt;
+    }
+    table[class=3Dbody], table[class=3Dmain]{
+    width: 100%;
+    }
+    table td {
+    font-family: sans-serif;
+    font-size: 14px;
+    vertical-align: top;
+    }
+    /* -------------------------------------
+    BODY & CONTAINER
+    ------------------------------------- */
+    .body {
+    /*background-color: #f6f6f6;*/
+    width: 100%;
+    padding:0 0 20px;}
+    /* Set a max-width, and make it display as block so it will automatical=
+ly stretch to that width, but will also shrink down on a phone or something=
+ */
+    .container {
+    display: block;
+    margin: 0 auto !important;
+    /* makes it centered */
+    max-width: 600px;
+    width: 600px; }
+    /* This should also be a block element, so that it will fill 100% of th=
+e .container */
+    .content {
+    box-sizing: border-box;
+    display: block;
+    margin: 0 auto;
+    max-width: 600px;
+    }
+    /* -------------------------------------
+    HEADER, FOOTER, MAIN
+    ------------------------------------- */
+    .main {
+    width: 100%;
+    }
+    .wrapper {
+    box-sizing: border-box;
+    padding: 0px; }
+    .footer {
+    clear: both;
+    padding-top: 10px;
+    text-align: center;
+    width: 100%; }
+    .footer td,
+    .footer p,
+    .footer span,
+    .footer a {
+    color: #999999;
+    font-size: 12px;
+    text-align: center; }
+    /* -------------------------------------
+    TYPOGRAPHY
+    ------------------------------------- */
+    h1,
+    h2,
+    h3,
+    h4 {
+    color: #000000;
+    font-family: sans-serif;
+    font-weight: 400;
+    line-height: 1.4;
+    margin: 0;
+    margin-bottom: 10px; }
+    h1 {
+    font-size: 35px;
+    font-weight: 300;
+    text-align: center;
+    text-transform: capitalize;
+    }
+    a {
+    color: #3498db;
+    text-decoration: underline;
+    }
+    hr {
+    border: 0;
+    border-bottom: 1px solid #f6f6f6;
+    margin: 20px 0;
+    }
+    /* -------------------------------------
+    RESPONSIVE AND MOBILE FRIENDLY STYLES
+    ------------------------------------- */
+    @media only screen and (max-width: 600px) {
+      .mobshow  {
+          display: initial !important;=20
+          width:auto !important;=20
+          height:auto !important;=20
+          overflow:visible !important;=20
+          float:none !important;=20
+          visibility:visible !important;=20
+          border:none !important;
+          font-size:15px !important;
+        }
+        .mobhidden  {
+          display: none !important;=20
+          width:0!important;=20
+          height:0!important;=20
+          overflow:hidden!important;=20
+          float:none!important;=20
+          visibility:hidden!important;=20
+          border:none!important
+        }
+
+    table[class=3Dbody]{
+    max-width: 100% !important;
+    width: 100% !important;
+    }
+    table[class=3Dbody] h1 {
+    font-size: 28px !important;
+    margin-bottom: 10px !important; }
+    table[class=3Dbody] h2, table[class=3Dbody] h2 span{
+    font-size: 22px !important;
+    }
+    table[class=3Dbody] p,
+    table[class=3Dbody] ul,
+    table[class=3Dbody] ol,
+    table[class=3Dbody] td,
+    table[class=3Dbody] span,
+    table[class=3Dbody] a {
+    font-size: 16px !important; }
+    table[class=3Dbody] .wrapper,
+    table[class=3Dbody] .article {
+    padding: 10px !important; }
+    table[class=3Dbody] .content {
+    padding: 0 !important;
+    width: 100% !important;
+    }
+    table[class=3Dbody] .container {
+    padding: 0 !important;
+    width: 100% !important; }
+    table[class=3Dbody] .main {
+    border-left-width: 0 !important;
+    border-radius: 0 !important;
+    border-right-width: 0 !important; }
+    table[class=3Dbody] .btn table {
+    width: 100% !important; }
+    table[class=3Dbody] .btn a {
+    width: 100% !important; }
+    table[class=3Dbody] .img-responsive {
+    height: auto !important;
+    max-width: 100% !important;
+    width: auto !important; }
+    .hidden-sm{
+    display:none; !important;
+    }
+    table[class=3Dbody] .footer{
+    font-size:14px !important;
+    }
+    .full-width-sm{
+    width: 100% !important;
+    }
+    .icon-responsive{
+    padding:0px !important;
+    width: 40px !important;
+    }
+    .text-align-left-sm{
+    text-align: left !important;
+    }
+    img{
+    height:auto !important;
+    }
+    .module-container{
+    width: 100% !important;
+    }
+    .mobile-header{
+      padding:20px 30px 20px !important;
+    }
+    .secondary-font{
+      padding:0 30px !important;
+    }
+    .block-text{
+      padding: 20px 50px !important;
+    }
+    }
+    </style>=20
+</head>=20
+<body class=3D"" bgcolor=3D"#ecf0f1" style=3D"background: #ecf0f1;"><style =
+type=3D"text/css">div#emailPreHeader{ display: none !important; }</style><d=
+iv id=3D"emailPreHeader" style=3D"mso-hide:all; visibility:hidden; opacity:=
+0; color:transparent; mso-line-height-rule:exactly; line-height:0; font-siz=
+e:0px; overflow:hidden; border-width:0; display:none !important;">Magento C=
+ommerce Named a Leader in 2018 Gartner Magic Quadrant for Digital...</div>
+<div style=3D"text-align: center"><font face=3D"Verdana" size=3D"1">To view=
+ this email as a web page, <a href=3D
+"http://email2.magento.com/v/CGH00P0TX06G0qs02H0hD0l"
+>click here</a><br /><br /></font></div>
+=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"body" widt=
+h=3D"600" style=3D"width: 600px; margin:auto;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"container">=20
+<div class=3D"content">=20
+<!-- START CENTERED WHITE CONTAINER -->=20
+<table class=3D"main">=20
+<!-- START MAIN CONTENT AREA -->=20
+<tbody>=20
+<tr>=20
+<td class=3D" mktoContainer wrapper" id=3D"template-wrapper">
+<table class=3D"mktoModule m_header module-container" id=3D"header" align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">=
+=20
+<tbody>=20
+<tr>=20
+<td class=3D"" style=3D"line-height:0px;font-size:0px;" height=3D"0px">&nbs=
+p;</td>=20
+</tr>=20
+<tr>=20
+</tr>=20
+<tr>=20
+<td style=3D"background-color:#ffffff; display: block;" bgcolor=3D"#ffffff"=
+ valign=3D"top">=20
+<table class=3D"full-width-sm" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td style=3D"padding:20px 53px 0px;" class=3D"mobile-header">=20
+<div class=3D"mktoImg" id=3D"Logo" mktolockimgsize=3D"false">=20
+<a href=3D
+"http://email2.magento.com/kG0MX0q006H02GsH0h0Ql0D" style=3D"text-decoratio=
+n: none; display: block; line-height: 0px" target=3D"_blank"
+> <img src=3D"https://info2.magento.com/rs/585-GGD-959/images/magento_logo_=
+email.jpg" width=3D"155" height=3D"44" style=3D"padding-bottom: 15px;"> </a=
+>=20
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"height: 10px;" height=3D"10px"></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule m_header image module-container" id=3D"header-im=
+age" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"600">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top">=20
+<center>=20
+<table class=3D"full-width-sm" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<center>=20
+<a href=3D
+"http://email2.magento.com/m000qN20l0HshXH0G6R0GD0" style=3D"display: block=
+; overflow: hidden; line-height: 0;"
+>=20
+<!-- Desktop -->=20
+<div class=3D"mktoImg mobhidden" id=3D"single" mktolockimgsize=3D"false">
+<img src=3D"https://info2.magento.com/rs/585-GGD-959/images/9174_Gartner_MQ=
+_Email_banner_600x170_R2.jpg" width=3D"600" height=3D"180" align=3D"left" c=
+lass=3D"img-responsive" style=3D"display: block; line-height: 0px;" alt=3D"=
+9174_Gartner_MQ_Email_banner_600x170_R2.jpg">
+</div>=20
+<!-- Desktop End -->=20
+<!-- Mobile -->=20
+<div style=3D"display: none; width:0; height:0; overflow:hidden; float:none=
+; visibility:hidden; border:none;font-size:0; max-height:0; mso-hide: all" =
+class=3D"mobshow">=20
+<img src=3D"https://info2.magento.com/rs/585-GGD-959/images/9174_Gartner_MQ=
+_Email_banner_600x170_R2.jpg" class=3D"img-responsive" style=3D"line-height=
+: 0px; float: left;">=20
+</div>=20
+<!-- Mobile End --> </a>=20
+</center> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</center> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule m_free-text module-container" id=3D"free-text" a=
+lign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"6=
+00">=20
+<tbody>=20
+<tr>=20
+<td style=3D"background-color:#ffffff;" bgcolor=3D"#ffffff" valign=3D"top">=
+=20
+<table class=3D"full-width-sm" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td class=3D"" style=3D"line-height:30px;font-size:30px;" height=3D"30px">&=
+nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td data-medium-editor-element=3D"true" class=3D"secondary-font text" style=
+=3D"padding:0 60px; color:#58585a;">=20
+<div class=3D"mktoText" id=3D"text">=20
+<p>You=E2=80=99re a merchant on a mission, and we=E2=80=99re here to help e=
+quip your business with the insights to support your efforts. When it comes=
+ to commerce, we know our stuff, but don=E2=80=99t just take our word for i=
+t! Magento Commerce has been evaluated as a leader once again in the 2018 G=
+artner Magic Quadrant for Digital Commerce.<br><br> We feel Magento is reco=
+gnized by Gartner for our solution completeness=E2=80=94for solutions spann=
+ing merchants=E2=80=99 needs and evolving omnichannel experience demands. <=
+br><br> Support your evaluation efforts! Check out this commerce solution s=
+election must-read by Gartner:<br><br> Access the full 2018 report!</p>=20
+<ul>=20
+<li>Analysis of digital commerce industry trends and technology</li>=20
+<li>Practical guidance on evaluating digital commerce solutions</li>=20
+<li>An in-depth review of Magento Commerce and other vendors</li>=20
+</ul>=20
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td class=3D"" style=3D"line-height:0px;font-size:0px;" height=3D"0px">&nbs=
+p;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule m_single-button module-container" id=3D"single-b=
+utton" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"600">=20
+<tbody>=20
+<tr>=20
+<td style=3D"background-color:#ffffff;" bgcolor=3D"#ffffff" valign=3D"top">=
+=20
+<table class=3D"full-width-sm" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"600" style=3D"padding:30px 60px;">=20
+<tbody>=20
+<tr>=20
+<!--[if mso]>
+                                  <td width=3D"180px" class=3D"full-width-s=
+m">
+                                    <v:roundrect xmlns:v=3D"urn:schemas-mic=
+rosoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"h=
+ttps://info2.magento.com/gartner-magic-quadrant-leader-digital-commerce.htm=
+l?utm_source=3Dmarketo&amp;amp;utm_medium=3Demail&amp;amp;utm_campaign=3D18=
+05-DG-WP-Gartner-MQ" style=3D"height:50px;v-text-anchor:middle;width:180px;=
+" arcsize=3D"0%" stroke=3D"f" fillcolor=3D"#F2672A" class=3D"full-width-sm"=
+>
+                                      <w:anchorlock/>
+                                      <center style=3D"color:#ffffff;font-f=
+amily:sans-serif;font-size:15px;font-weight:lighter;">
+                                        Access the Report Now
+                                      </center>
+                                    </v:roundrect>
+                                  </td>
+                                <![endif]-->=20
+<!--[if !mso]-->=20
+<td align=3D"center" width=3D"180px" height=3D"50" bgcolor=3D"#F2672A" styl=
+e=3D"color: #ffffff; display: block;" class=3D"full-width-sm"> <a href=3D
+"http://email2.magento.com/m000qN20l0HshXH0G6R0GD0" style=3D"font-size:15px=
+; font-weight: bold; font-family:sans-serif; text-decoration: none; line-he=
+ight:50px; width:100%; display:inline-block; color: #ffffff; font-weight: l=
+ighter;"
+> Access the Report Now </a> </td>=20
+<!--[endif]-->=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule m_free-text module-container" id=3D"free-text752=
+c2220-f980-4704-80d4-d60c279354e9" align=3D"center" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td style=3D"background-color:#ffffff;" bgcolor=3D"#ffffff" valign=3D"top">=
+=20
+<table class=3D"full-width-sm" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td class=3D"" style=3D"line-height:0px;font-size:0px;" height=3D"0px">&nbs=
+p;</td>=20
+</tr>=20
+<tr>=20
+<td data-medium-editor-element=3D"true" class=3D"secondary-font text" style=
+=3D"padding:0 60px; color:#58585a;">=20
+<div class=3D"mktoText" id=3D"text752c2220-f980-4704-80d4-d60c279354e9">=20
+<p><span style=3D"font-size: 12px;"><em>Gartner Magic Quadrant for Digital =
+Commerce, Penny Gillespie, Jason Daigler, Mike Lowndes, Christina Klock, Ya=
+nna Dharmasthira, Sandy Shen, June 5, 2018. Gartner does not endorse any ve=
+ndor, product or service depicted in its research publications, and does no=
+t advise technology users to select only those vendors with the highest rat=
+ings or other designation. Gartner research publications consist of the opi=
+nions of Gartner's research organization and should not be construed as sta=
+tements of fact. Gartner disclaims all warranties, expressed or implied, wi=
+th respect to this research, including any warranties of merchantability or=
+ fitness for a particular purpose.</em></span></p>=20
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td class=3D"" style=3D"line-height:40px;font-size:40px;" height=3D"40px">&=
+nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule m_footer module-container" id=3D"footer" align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">=
+=20
+<tbody>=20
+<tr>=20
+<td style=3D"background-color:#afb0b2;" bgcolor=3D"afb0b2" valign=3D"top">=
+=20
+<table class=3D"full-width-sm" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"600" style=3D"width: 600px;">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<table class=3D"full-width-sm" align=3D"left" width=3D"100%;" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0">=20
+<tbody>=20
+<tr>=20
+<td style=3D"padding: 30px 50px; color: #fff; font-size: 12px;">=20
+<div class=3D"mktoText" id=3D"footer-address-text">
+<div>
+=C2=A9 2018 Magento All rights reserved=20
+<br>54 North Central Ave #200 Campbell, CA, USA=20
+<br>=20
+<a href=3D"https://magento.com/legal/terms" style=3D"color: #fff; text-deco=
+ration: none;">Terms of Use</a>=20
+<span>|</span>=20
+<a href=3D"https://magento.com/legal/terms/privacy" style=3D"color: #fff; t=
+ext-decoration: none;">Privacy Policy</a>=20
+<span>|</span>=20
+<a href=3D
+"https://info2.magento.com/EmailPreferencesNew.html" style=3D"color: #fff; =
+text-decoration: none;" class=3D"mktNoTrack"
+>Unsubscribe/Preference Center</a>
+</div>
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+<!-- END MAIN CONTENT AREA -->=20
+</tbody>=20
+</table>=20
+<!-- END CENTERED WHITE CONTAINER -->=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> =20
+<a href=3D
+"http://email2.magento.com/P000q0sGXG0HSl0600ODhH2"
+></a>
+<img src=3D"http://email2.magento.com/trk?t=3D1&mid=3DNTg1LUdHRC05NTk6MTAzO=
+DM6MTIxNTk6NDg4MjM6MDoxMjU5Mjo5OjQxNTcxOjUxNzAyMjM6bWFyY29AZGlnaXRhbGZvdG9p=
+bWFnZW0uY29tLmJy" width=3D"1" height=3D"1" style=3D"display:none !important=
+;" alt=3D"" />
+
+<br>
+</body>
+</html>
+------=_Part_-459870272_783128245.1528400253280--

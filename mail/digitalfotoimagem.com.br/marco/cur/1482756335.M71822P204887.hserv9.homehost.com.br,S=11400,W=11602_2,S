@@ -1,0 +1,202 @@
+Return-Path: <leandro.morais@confi.gr>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id YUAuBO8QYVhXIAMAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Mon, 26 Dec 2016 10:45:35 -0200
+Return-path: <leandro.morais@confi.gr>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Mon, 26 Dec 2016 10:45:35 -0200
+Received: from mail-ua0-f171.google.com ([209.85.217.171]:34188)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <leandro.morais@confi.gr>)
+	id 1cLUek-000tTY-UO
+	for marco@digitalfotoimagem.com.br; Mon, 26 Dec 2016 10:45:35 -0200
+Received: by mail-ua0-f171.google.com with SMTP id 34so122885415uac.1
+        for <marco@digitalfotoimagem.com.br>; Mon, 26 Dec 2016 04:45:11 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=confi.gr; s=configr;
+        h=mime-version:sender:in-reply-to:references:from:date:message-id
+         :subject:to;
+        bh=bh21D4mY0ScpelP5rC2Zakeb2PetCI1qf5qdjKpTcAg=;
+        b=RGrfAHeyVIJUeLBtfkHA0CFNtr/GtQHd2yW4XR1pdb8jNa/ahuYKvUtYQYBKqORr/z
+         kVo4yQMrtKUTNHQ21mtEFRIsA8tr8BRdQP83eoAp7EKOjCOazslLNe2kQELcf0qQY9nr
+         MMRG09erYMf4J7M3EjW+Q+mHpm3+DbopZniNQ=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=configr.com; s=configr;
+        h=mime-version:sender:in-reply-to:references:from:date:message-id
+         :subject:to;
+        bh=bh21D4mY0ScpelP5rC2Zakeb2PetCI1qf5qdjKpTcAg=;
+        b=bmH8vSVfZDuTy2bXGqHvdN5UEJVe9WD80WgyIULFxOy0wjnD9bMzyQwnDdfewhrqYd
+         SctcKHhYKh44MHGzleqoEgfPR8CQ7Z0BijlPoKOD3bCHfWWPtUATJuAROdJV+BzOWF1A
+         ZW4eN9iDPom0IEqXAFtEornK19WgL0g6zucw8=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:sender:in-reply-to:references:from
+         :date:message-id:subject:to;
+        bh=bh21D4mY0ScpelP5rC2Zakeb2PetCI1qf5qdjKpTcAg=;
+        b=qzSgX4xSD7nCkfz36RaQUNfKiwx1F2alNov/welMsBnuEVaZHuRYHcpvodTmAkxjgd
+         1RK003HxE12FQ/4NQ9CkS0VFkzV4JiBTvaXsCGXw/vWNcSmPrNVztUilzgSLfpe8Pz9I
+         ZWBKm1IsMMdqAJP3hTombrd5Xnn4HfbrFPnPp+HA/YQlX83m/EvrOAMx0ZTglB0nl4gN
+         4TgNOH7d7ZXowhNX2eMPzlgtqVj+QJuGOtOCD7xqVB0WFBkCS/HMVlUjGw0qYt9zQbpB
+         hNmNMGyQYM/wm945bA7iGYOBksMmk+WxlXF79EL+Ry3TsDnM5Jf1OPWSaI9YevDuwD3W
+         GqAw==
+X-Gm-Message-State: AIkVDXIr7MkTMEHe5SydeFL8ty2sOcdAo3aIGlwdgYymlmomA/LGz9TOc2vQernFJoixoTtec82fPNrp0VoG2A==
+X-Received: by 10.159.33.166 with SMTP id 35mr13288479uac.150.1482756289060;
+ Mon, 26 Dec 2016 04:44:49 -0800 (PST)
+MIME-Version: 1.0
+Sender: leandro.morais@confi.gr
+Received: by 10.176.85.138 with HTTP; Mon, 26 Dec 2016 04:44:08 -0800 (PST)
+X-Originating-IP: [2804:14c:65d5:6ae1:e1df:327b:15db:ecf5]
+In-Reply-To: <CAJoabv8i1Yqyu2-Y1PfwD6ZEUnrt10mcrzg_ba_h5MWwghVRfw@mail.gmail.com>
+References: <CAJoabv8i1Yqyu2-Y1PfwD6ZEUnrt10mcrzg_ba_h5MWwghVRfw@mail.gmail.com>
+From: Leandro Morais <leandro.morais@configr.com>
+Date: Mon, 26 Dec 2016 10:44:08 -0200
+X-Google-Sender-Auth: d5qQuO_RhxZ4P5rgYEisgF62Drs
+Message-ID: <CAJoabv-ANA0QMALKvtJg9xbvQPOwi6xyePj556oGFG3JmuBfrQ@mail.gmail.com>
+Subject: Fwd: Leandro da Configr [Feedback]
+To: marco@digitalfotoimagem.com.br
+Content-Type: multipart/alternative; boundary=001a113552b2e6029b05448f190c
+
+--001a113552b2e6029b05448f190c
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Opa, segue o e-mail o site da empresa =C3=A9 : https://configr.com/
+
+Abra=C3=A7o,
+*Leandro Morais*
+*Growth Hacker*
+Skype: configr.leandro.morais
+
+<https://configr.com/>
+<https://www.linkedin.com/company/configr>  <https://twitter.com/configr>
+<https://www.facebook.com/configrcloud>
+
+---------- Forwarded message ----------
+From: Leandro Morais <leandro.morais@configr.com>
+Date: 2016-12-26 10:24 GMT-02:00
+Subject: Leandro da Configr [Feedback]
+To: parise@digitalfotoimagem.com.br
+Cc: comercial <comercial@confi.gr>, Configr - Marketing <
+marketing@configr.com>
+
+
+Oi bom dia, a gente se falou agora a pouco por telefone. (tentamos na
+verdade n=C3=A9?)
+
+Eu adicionei o n=C3=BAmero no meu WhatsApp, mas n=C3=A3o deu certo. Te mand=
+ei um
+torpedo SMS n=C3=A3o sei se voc=C3=AA viu.
+
+Enfim, O motivo do meu contato e para pegar seu feedback sobre nosso
+sistema. O que voc=C3=AA est=C3=A1 achando at=C3=A9 agora? Como est=C3=A1 s=
+endo sua experiencia
+conosco?
+
+Se houver algo que eu possa fazer por vc por favor, n=C3=A3o hesite em me f=
+alar
+ok?
+
+Abra=C3=A7o,
+*Leandro Morais*
+*Growth Hacker*
+Skype: configr.leandro.morais
+
+<https://configr.com/>
+<https://www.linkedin.com/company/configr>  <https://twitter.com/configr>
+<https://www.facebook.com/configrcloud>
+
+--001a113552b2e6029b05448f190c
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Opa, segue o e-mail o site da empresa =C3=A9 :=C2=A0<a hre=
+f=3D"https://configr.com/">https://configr.com/</a><div><br clear=3D"all"><=
+div><div class=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><=
+div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=
+=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr=
+"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"=
+ltr"><div><div style=3D"font-size:12.8px"><span style=3D"font-size:12.8px">=
+Abra=C3=A7o,</span><b style=3D"color:rgb(138,69,154);font-family:sans,verda=
+na;font-size:12px;line-height:16.5px"><br></b></div><div style=3D"font-size=
+:12.8px"><b style=3D"color:rgb(138,69,154);font-family:sans,verdana;font-si=
+ze:12px;line-height:16.5px">Leandro Morais</b><br></div><div><b style=3D"fo=
+nt-family:sans,verdana;line-height:16.5px;font-size:11px"><font color=3D"#6=
+66666">Growth Hacker</font></b></div><div style=3D"font-size:12.8px"><span =
+style=3D"font-family:sans,verdana;font-size:11px;line-height:16.5px;color:r=
+gb(136,136,136)">Skype: configr.leandro.morais</span></div><div style=3D"fo=
+nt-size:12.8px"><span style=3D"font-family:sans,verdana;font-size:11px;line=
+-height:16.5px;color:rgb(136,136,136)"><br></span></div><div style=3D"font-=
+size:12.8px"><a href=3D"https://configr.com/" style=3D"color:rgb(17,85,204)=
+;font-family:sans,verdana;font-size:11px;line-height:16.5px" target=3D"_bla=
+nk"><img src=3D"http://people.configr.com/~afurlan/s-logo.png" style=3D"bor=
+der: 0px; width: 120px;"></a></div></div><div style=3D"font-size:12.8px"><a=
+ href=3D"https://www.linkedin.com/company/configr" style=3D"color:rgb(17,85=
+,204);font-size:13px" target=3D"_blank"><img src=3D"http://i.imgur.com/qvBJ=
+BGM.png" alt=3D""></a><span style=3D"color:rgb(136,136,136);font-size:13px"=
+>=C2=A0</span><a href=3D"https://twitter.com/configr" style=3D"color:rgb(17=
+,85,204);font-size:13px" target=3D"_blank"><img src=3D"http://i.imgur.com/R=
+X2rCXe.png" alt=3D""></a><span style=3D"color:rgb(136,136,136);font-size:13=
+px">=C2=A0</span><a href=3D"https://www.facebook.com/configrcloud" style=3D=
+"color:rgb(17,85,204);font-size:13px" target=3D"_blank"><img src=3D"http://=
+i.imgur.com/6idjuBe.png" alt=3D""></a><br></div></div></div></div></div></d=
+iv></div></div></div></div></div></div></div></div></div></div></div></div>=
+</div></div></div></div></div></div>
+<br><div class=3D"gmail_quote">---------- Forwarded message ----------<br>F=
+rom: <b class=3D"gmail_sendername">Leandro Morais</b> <span dir=3D"ltr">&lt=
+;<a href=3D"mailto:leandro.morais@configr.com">leandro.morais@configr.com</=
+a>&gt;</span><br>Date: 2016-12-26 10:24 GMT-02:00<br>Subject: Leandro da Co=
+nfigr [Feedback]<br>To: <a href=3D"mailto:parise@digitalfotoimagem.com.br">=
+parise@digitalfotoimagem.com.br</a><br>Cc: comercial &lt;<a href=3D"mailto:=
+comercial@confi.gr">comercial@confi.gr</a>&gt;, Configr - Marketing &lt;<a =
+href=3D"mailto:marketing@configr.com">marketing@configr.com</a>&gt;<br><br>=
+<br><div dir=3D"ltr">Oi bom dia, a gente se falou agora a pouco por telefon=
+e. (tentamos na verdade n=C3=A9?)<br clear=3D"all"><div><div class=3D"gmail=
+-m_832189404018968931gmail_signature"><div dir=3D"ltr"><div dir=3D"ltr"><di=
+v dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=
+=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr=
+"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"=
+ltr"><div><div style=3D"font-size:12.8px"><span style=3D"font-size:12.8px">=
+<br></span></div><div style=3D"font-size:12.8px">Eu adicionei o n=C3=BAmero=
+ no meu WhatsApp, mas n=C3=A3o deu certo. Te mandei um torpedo SMS n=C3=A3o=
+ sei se voc=C3=AA viu.</div><div style=3D"font-size:12.8px"><br></div><div =
+style=3D"font-size:12.8px">Enfim,=C2=A0<span style=3D"font-size:12.8px">O m=
+otivo do meu contato e para pegar seu feedback sobre nosso sistema. O que v=
+oc=C3=AA est=C3=A1 achando at=C3=A9 agora? Como est=C3=A1 sendo sua experie=
+ncia conosco?</span></div><div style=3D"font-size:12.8px"><span style=3D"fo=
+nt-size:12.8px"><br></span></div><div style=3D"font-size:12.8px"><span styl=
+e=3D"font-size:12.8px">Se houver algo que eu possa fazer por vc por favor, =
+n=C3=A3o hesite em me falar ok?</span></div><div style=3D"font-size:12.8px"=
+><span style=3D"font-size:12.8px"><br></span></div><div style=3D"font-size:=
+12.8px"><span style=3D"font-size:12.8px">Abra=C3=A7o,</span><b style=3D"col=
+or:rgb(138,69,154);font-family:sans,verdana;font-size:12px;line-height:16.5=
+px"><br></b></div><div style=3D"font-size:12.8px"><b style=3D"color:rgb(138=
+,69,154);font-family:sans,verdana;font-size:12px;line-height:16.5px">Leandr=
+o Morais</b><br></div><div><b style=3D"font-family:sans,verdana;line-height=
+:16.5px;font-size:11px"><font color=3D"#666666">Growth Hacker</font></b></d=
+iv><div style=3D"font-size:12.8px"><span style=3D"font-family:sans,verdana;=
+font-size:11px;line-height:16.5px;color:rgb(136,136,136)">Skype: configr.le=
+andro.morais</span></div><div style=3D"font-size:12.8px"><span style=3D"fon=
+t-family:sans,verdana;font-size:11px;line-height:16.5px;color:rgb(136,136,1=
+36)"><br></span></div><div style=3D"font-size:12.8px"><a href=3D"https://co=
+nfigr.com/" style=3D"color:rgb(17,85,204);font-family:sans,verdana;font-siz=
+e:11px;line-height:16.5px" target=3D"_blank"><img src=3D"http://people.conf=
+igr.com/~afurlan/s-logo.png" style=3D"border: 0px; width: 120px;"></a></div=
+></div><div style=3D"font-size:12.8px"><a href=3D"https://www.linkedin.com/=
+company/configr" style=3D"color:rgb(17,85,204);font-size:13px" target=3D"_b=
+lank"><img src=3D"http://i.imgur.com/qvBJBGM.png" alt=3D""></a><span style=
+=3D"color:rgb(136,136,136);font-size:13px">=C2=A0</span><a href=3D"https://=
+twitter.com/configr" style=3D"color:rgb(17,85,204);font-size:13px" target=
+=3D"_blank"><img src=3D"http://i.imgur.com/RX2rCXe.png" alt=3D""></a><span =
+style=3D"color:rgb(136,136,136);font-size:13px">=C2=A0</span><a href=3D"htt=
+ps://www.facebook.com/configrcloud" style=3D"color:rgb(17,85,204);font-size=
+:13px" target=3D"_blank"><img src=3D"http://i.imgur.com/6idjuBe.png" alt=3D=
+""></a><br></div></div></div></div></div></div></div></div></div></div></di=
+v></div></div></div></div></div></div></div></div></div></div></div></div>
+</div>
+</div><br></div></div>
+
+--001a113552b2e6029b05448f190c--

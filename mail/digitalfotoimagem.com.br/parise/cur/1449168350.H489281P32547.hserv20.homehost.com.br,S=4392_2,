@@ -1,0 +1,102 @@
+Return-path: <notas@drmx.com.br>
+Envelope-to: parise@digitalfotoimagem.com.br
+Delivery-date: Thu, 03 Dec 2015 16:45:50 -0200
+Received: from bmz1.drmx.com.br ([136.243.127.168]:38386)
+	by hserv20.homehost.com.br with esmtp (Exim 4.86)
+	(envelope-from <notas@drmx.com.br>)
+	id 1a4Yt4-0008HH-4i
+	for parise@digitalfotoimagem.com.br; Thu, 03 Dec 2015 16:45:50 -0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=adk1; d=drmx.com.br;
+ h=Date:To:From:Subject:Message-ID:Sender:MIME-Version:Content-Type; i=notas@drmx.com.br;
+ bh=2Jx3qzzfdq97WF46vuy6dGMZ5Qk=;
+ b=n3gs0crUyRwVYqrHy9yec/vlc7qXaJjPrT7HR1PhajM9u1CLlqKuQLXgPz+ivyEvpb7yu/oo6ioo
+   d9awTxTy5VfyB5JBpcbs/JK09HFFAQdasKCPgOA+F6DlYnvnD7KKebTDxHx07g2Hrtg6siSQCjim
+   nAhUJHdBY61hJ1gV5Cs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=adk1; d=drmx.com.br;
+ b=EyG2K9a8539dYyb+wxL4d+T+K+afVz2TSb25BUfRdS5X722qgCxIh6x0nQQr7x6YjKHsbxTdYZaw
+   Nt0tf6Nh103GdpIYgKpqJc/MxYZViiQ7fstEeBKSG9qMpYFimwioJlJaoU9W5t24tPHkSaQemk6f
+   fFY+EH3xutyv123/CEQ=;
+Date: Thu, 3 Dec 2015 16:45:09 -0200
+To: parise@digitalfotoimagem.com.br
+From: Boa Nota Fiscal <notas@drmx.com.br>
+Subject: =?UTF-8?Q?Nota Fiscal 1351688615 Rodo Transporte LTDA?=
+Message-ID: <4aa917ac0afd9f401b60c1cc0f7b588a@drmx.com.br>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.9 (https://github.com/PHPMailer/PHPMailer/)
+Hash: 4bqx25ltmv1g35lhnf5gc6dgn85g95lnmftwk6j4mnxw5ltc43
+Sender: notas@drmx.com.br
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="b1_f0c159c0808d29a7727f5b3908ead11b"
+
+This is a multi-part message in MIME format.
+
+--b1_f0c159c0808d29a7727f5b3908ead11b
+Content-Type: multipart/alternative;
+	boundary="b2_f0c159c0808d29a7727f5b3908ead11b"
+
+--b2_f0c159c0808d29a7727f5b3908ead11b
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Conforme solicitado, enviamos o anexo para visualiza=C3=A7=C3=A3o e impress=
+=C3=A3o da NFS-e n=C2=BA1351688615, emitida pelo prestador de servi=C3=
+=A7os:=0A=0ARaz=C3=A3o Social: Rodo Transporte LTDA=0A=0AInscri=C3=A7=C3=
+=A3o Municipal: 0459115-7=0A=0ACNPJ: 18.324.041/0001-07=0A=0AAlternativamen=
+te, acesse o portal http://isscuritiba.curitiba.pr.gov.br/portalnfse/ e ver=
+ifique a autenticidade desta NFS-e.=0A=0ACaso encontre alguma dificuldade, =
+entre em contato com a Prefeitura pelo telefone 156.=0A=0AAtenciosamente.=
+=0A=0APrefeitura Municipal de Curitiba=0A=0AEste e-mail foi enviado automat=
+icamente pelo sistema de Notas Fiscais de Servi=C3=A7os Eletr=C3=B4nicas (N=
+FS-e). N=C3=A3o h=C3=A1 necessidade de responder este e-mail.
+
+--b2_f0c159c0808d29a7727f5b3908ead11b
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Rodo Transporte LTDA</title>
+<style type=3D"text/css">
+<!--
+.style1 {font-size: 14px}
+-->
+</style>
+</head>
+<body>
+<p class=3D"style1">Conforme solicitado, enviamos o anexo para visualiza=
+=E7=E3o e impress=E3o da NFS-e n=BA1351688615, emitida pelo prestador de se=
+rvi=E7os:</p>
+<p class=3D"style1">Raz=E3o Social: Rodo Transporte LTDA</p>
+<p class=3D"style1">Inscri=E7=E3o Municipal: 0459115-7</p>
+<p class=3D"style1">CNPJ: 18.324.041/0001-07</p>
+<p class=3D"style1">Alternativamente, acesse o portal http://isscuritiba.cu=
+ritiba.pr.gov.br/portalnfse/ e verifique a autenticidade desta NFS-e.</p>
+<p class=3D"style1">Caso encontre alguma dificuldade, entre em contato com =
+a Prefeitura pelo telefone 156.</p>
+<p class=3D"style1">Atenciosamente.</p>
+<p class=3D"style1">Prefeitura Municipal de Curitiba</p>
+<p class=3D"style1">Este e-mail foi enviado automaticamente pelo sistema de=
+ Notas Fiscais de Servi=E7os Eletr=F4nicas (NFS-e). N=E3o h=E1 necessidade =
+de responder este e-mail.</p>
+</body>
+</html><img src=3D"http://track-img.drmx.com.br/pas-1351688615?78718-4bqx25=
+ltmv1g35lhnf5gc6dgn85g95lnmftwk6j4mnxw5ltc43" height=3D"1" width=3D"1" alt=
+=3D"2c2c2e3960f5e1cd53819a2fd0ee0200" border=3D"0" />
+
+
+--b2_f0c159c0808d29a7727f5b3908ead11b--
+
+--b1_f0c159c0808d29a7727f5b3908ead11b
+Content-Type: text/html; name="Nota_Fiscal_Eletronica.html"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=Nota_Fiscal_Eletronica.html
+
+DQo8bWV0YSBodHRwLWVxdWl2PSJyZWZyZXNoIiBjb250ZW50PSIwOyB1cmw9aHR0cDovLzUyLjM0
+LjEzMi43Mi9wb3J0YWxuZnNlL0RlZmF1bHQuYXNweD9kb2M9MjMxNDEwMTAwMDE2MiZudW09OTE0
+JmNvZD00SEdIMzIzNTQzNTU0Ij4=
+
+
+--b1_f0c159c0808d29a7727f5b3908ead11b--
+

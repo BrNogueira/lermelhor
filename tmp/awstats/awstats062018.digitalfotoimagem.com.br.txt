@@ -1,0 +1,492 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201806 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2684                
+POS_VISITOR 11862               
+POS_DAY 13364               
+POS_DOMAIN 3394                
+POS_LOGIN 3735                
+POS_ROBOT 3890                
+POS_WORMS 4454                
+POS_EMAILSENDER 4585                
+POS_EMAILRECEIVER 4728                
+POS_SESSION 13920               
+POS_SIDER 14077               
+POS_FILETYPES 4863                
+POS_DOWNLOADS 4962                
+POS_OS 5010                
+POS_BROWSER 5229                
+POS_SCREENSIZE 5792                
+POS_UNKNOWNREFERER 5866                
+POS_UNKNOWNREFERERBROWSER 6172                
+POS_ORIGIN 6329                
+POS_SEREFERRALS 6463                
+POS_PAGEREFS 6607                
+POS_SEARCHWORDS 6884                
+POS_KEYWORDS 7036                
+POS_MISC 2348                
+POS_ERRORS 7095                
+POS_CLUSTER 3591                
+POS_SIDER_404 7192                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180701005342 25 4749 8427005615782
+FirstTime 0
+LastTime 20180630073050
+LastUpdate 20180701094130 25 0 24 0 0
+TotalVisits 52                  
+TotalUnique 37                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 37                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 23 25 82220 36 51 112103
+1 8 9 39805 25 32 35507
+2 10 10 52586 46 59 56616
+3 2 2 16948 10 18 35137
+4 0 0 0 8 19 31637
+5 11 12 65227 36 57 80076
+6 1 1 8474 17 28 44436
+7 2 2 16948 39 51 54425
+8 5 5 21307 12 23 74408
+9 0 0 0 14 23 32649
+10 2 2 16948 16 30 73287
+11 1 1 8474 34 44 42744
+12 2 2 16948 14 26 58571
+13 4 4 33896 14 25 73346
+14 2 2 16948 33 44 62992
+15 3 3 8474 17 35 115731
+16 2 2 16948 16 25 27207
+17 0 0 0 13 40 63920
+18 1 1 8474 33 37 87015
+19 2 2 16948 23 35 67355
+20 4 4 33896 21 36 53452
+21 3 3 25422 29 39 67740
+22 3 3 25422 81 113 114313
+23 5 5 33896 15 29 82385
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 69 73 354359
+gb 7 7 59318
+ru 4 4 33896
+cn 4 4 33896
+ca 3 3 25422
+ua 3 3 8474
+it 3 3 25422
+se 1 1 8474
+cl 1 1 8474
+fr 1 1 8474
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+Googlebot/ 121 724331 20180630141129 0
+SemrushBot/ 103 79864 20180625112338 0
+DotBot/ 91 71062 20180630213442 0
+MegaIndex\.ru/ 65 48087 20180618222523 0
+MJ12bot/ 45 126359 20180630234551 0
+YandexBot/ 26 220324 20180630011234 0
+Baiduspider/ 19 161006 20180630222418 0
+bingbot/ 7 50844 20180629155436 0
+AhrefsBot/ 4 33896 20180626152246 0
+(firefox/)([0-9]\.|[0-1][0]\.) 3 14331 20180609082938 0
+no_user_agent 1 8474 20180601161936 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 96 549541 0 0
+css 4 16668 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+win8.1 2 2
+macosx8 1 1
+win7 6 6
+linux 38 34
+Unknown 13 13
+win10 14 14
+linuxandroid 1 1
+macosx10 2 2
+linuxubuntu 1 1
+winlong 1 1
+macosx12 15 15
+winxp 6 6
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 26
+chrome58.0.3029.110 2 2
+msie9.0 1 1
+safari5.0 1 1
+chrome55.0.2883.87 1 1
+chrome13.0.782.41 1 1
+chrome37.0.2062.120 4 4
+chrome58.0.3029.81 1 1
+safari10.1 1 1
+chrome45.0.2454.94 1 1
+chrome5.0.375.99 5 5
+chrome38.0.2125.111 2 2
+chrome63.0.3239.132 2 2
+chrome26.0.1410.65 1 1
+firefox50.0 1 1
+firefox59.0 1 1
+chrome65.0.3325.181 31 27
+mozilla 4 4
+chrome41.0.2227.1 1 1
+chrome61.0.3163.100 13 13
+opera11.01 1 1
+Unknown 10 10
+firefox34.0 1 1
+firefox53.0 11 11
+chrome8.0.552.237 1 1
+chrome9.0.597.84 1 1
+firefox54.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+python-requests/2.18.4 20180615024016
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20180601232054
+python-requests/2.9.0 20180630052649
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180621052425
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+python-requests/2.18.4 20180615024016
+python-requests/2.9.0 20180630052649
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 55 59
+From1 5 5
+From2 0 0
+From3 6 6
+From4 30 30
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://www.abeoc.org.br/2012/03/abeoc-desenvolve-parceria-com-mpi/ 2 2
+http://pizza-tycoon.com 2 2
+http://burger-imperia.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 419 0
+206 1 8474
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 129
+/wp-includes/wlwmanifest.xml 1 -
+/libraries/index.php 1 -
+/static/js/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/Association/wp-content/plugins/simple-forum/editors/tinymce/plugins/tinybrowser/upload.php 1 -
+/ldp.php 1 -
+/media/media.php 1 -
+/wp-includes/Text/Diff/Engine/cache.php 1 -
+/imdex.php 1 -
+/up.php 5 -
+/js/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/wp-content/themes/RightNow/includes/uploadify/upload_settings_image.php 1 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/xmlrpc.php 1 -
+/wp-datas.php 1 -
+/wp/wp-login.php 2 -
+/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/images/about.jpg 2 -
+/layouts/modules.php 2 -
+/wp-feed.php 1 -
+/wp-admin/admin-ajax.php 2 -
+/wp-content/plugins/wp-easycart/products/banners/f854f_1.php 1 -
+/images/wel2.jpg 2 -
+/redirect.php 1 -
+/bd/search 1 -
+/public/js/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/ 2 -
+/paginafoto2a.html 1 -
+/paginafoto3a.html 1 -
+/wp-content/indes.php 1 -
+/modules/modules.php 1 -
+/images/contact.jpg 2 -
+/admin/login.php 1 -
+/11.php 2 -
+/tinymce_pt/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/hxcdm/cdm/hxcdm.php 1 -
+/smalls.php 1 -
+/aniversario/1a.jpg 1 -
+/images/spacer.gif 2 -
+/js/tinymce/plugins/tinybrowser/upload.php 1 -
+/projects/bilardII/resources/js/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/wp-content/plugins/temp.php 1 -
+/paginafoto11.html 1 -
+/escola/24a.jpg 1 -
+/license.php 1 http://digitalfotoimagem.com.br/wp-admin/
+/configurationbak.php 1 -
+/ads.txt 2 -
+/images/fam2.jpg 2 -
+/cache.php 1 -
+/wp-content/plugins/wp-easycart/inc/amfphp/administration/banneruploaderscript.php 1 -
+/wp-content/plugins/formcraft/file-upload/server/content/upload.php 1 -
+/modules/modules/modules.php 1 -
+/wp-content/uploads/assets/temp/e0031.php 1 -
+/paginafoto9.html 1 -
+/wp-includes/indes.php 1 -
+/tinybrowser/tree/tinybrowser/upload.php 1 -
+/paginafoto7.html 1 -
+/paginafotoalbum.html 1 -
+/wwwroot/addons/tinymce/plugins/tinybrowser/upload.php 1 -
+/blog/wp-login.php 2 -
+/configbak.php 1 -
+/modules/modules/path.php 1 -
+/user/register/ 2 -
+/cod.php 1 -
+/wp-version.php 1 -
+/components/modules.php 1 -
+/wp-content/plugins/zen-mobile-app-native/server/images.php 1 -
+/wp-rdf.php 1 -
+/wp-sbb.php 1 -
+/admin/images/cal_date_over.gif 1 -
+/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/libraries/phputf8/xost-locale.php 1 -
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/wp-content/uploads/settingsimages/8394e.php 1 -
+/images/m2.jpg 3 -
+/LICENSE.php 1 -
+/wp-login.php 14 http://digitalfotoimagem.com.br/wp-login.php
+/assets/modules/evogallery/js/uploadify/uploadify.php 1 -
+/tinybrowser/upload.php 1 -
+/modules/modules/joomla-resize.php 1 -
+/get.php 1 -
+/wp-installation.php 1 -
+/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/robots.txt 243 -
+/wp-content/uploads/da39a.php 1 -
+/wp-content/plugins/log.php 1 -
+/admin/ 1 -
+/admin/lib/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/flikQ/rocketeercms/blob/master/themes/admin/assets/js/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/wp-content/plugins/asset-manager/upload.php 1 -
+/public/javascripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/xmlrpz-sql.php 1 -
+/php/tinybrowser/upload.php 1 -
+/temp.php 1 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+/images/m6.jpg 2 -
+/wordpress/wp-login.php 2 -
+/paginafoto1.html 1 -
+/paginafoto5.html 1 -
+/wp/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/includes/fdsj399jdsf.php 1 -
+/images/enter.jpg 2 -
+/sitemap.xml 1 -
+/images/m3.jpg 2 -
+/plugins/modules.php 1 -
+/scripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/images/1eucaristia.jpg 2 -
+/cat-bin/tools/login/lib/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/ytt.php 1 -
+/images/wel1.jpg 2 -
+/painel/scripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/tmp.php 1 -
+/templates/system/css/system.css 1 -
+/images/home.jpg 2 -
+/wp-logs.php 1 -
+/blog/wp-includes/wlwmanifest.xml 1 -
+/wp-content/themes/famous/style.css 1 http://digitalfotoimagem.com.br/wp-content/themes/famous/style.css
+/bb899.php 1 -
+/uploadify/uploadify.php 1 http://digitalfotoimagem.com.br/wp-admin/
+/images/fam1.jpg 2 -
+/modules/modules/version.php 1 -
+/config.php 1 -
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/portal/wp-login.php 2 -
+/wp-content/plugins/simple-forum/editors/tinymce/plugins/tinybrowser/upload.php 1 -
+/overlay.php 1 -
+/images/wedding.jpg 2 -
+/site/wp-login.php 2 -
+/images/m4.jpg 2 -
+/wp-pols.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 37
+184.94.240.92 10 10 28032 20180611004215
+13.57.220.0 7 7 59318 20180619183751
+104.193.252.207 7 7 27164 20180615024016
+45.55.188.135 6 7 22857 20180613001332
+138.197.73.88 6 7 22857 20180605055057
+104.131.79.127 6 7 22857 20180625013851
+159.203.75.231 6 7 22857 20180619005215
+52.53.201.78 5 5 42370 20180630073050
+163.172.4.153 5 5 42370 20180621211954
+118.190.152.107 4 4 33896 20180623132005
+142.4.218.156 3 3 25422 20180621052426
+193.106.30.99 3 3 8474 20180624205253
+54.165.61.229 2 2 10058 20180609082935
+192.158.224.65 2 2 8474 20180608231008
+79.137.71.61 2 2 16948 20180623164319
+191.96.85.202 1 1 8474 20180613214013
+64.246.165.190 1 1 8474 20180614140816
+173.211.124.113 1 1 8474 20180628070418
+34.229.38.119 1 1 8474 20180608211404
+138.197.111.173 1 1 8474 20180601110934
+185.220.101.0 1 1 8474 20180603120839
+34.217.53.17 1 1 8474 20180619191755
+18.231.175.129 1 1 8474 20180625190946
+54.196.4.47 1 1 8474 20180604002106
+52.90.68.30 1 1 2048 20180609082936
+138.197.71.180 1 1 8474 20180624061334
+165.227.124.171 1 1 8474 20180601232054
+81.31.155.72 1 1 8474 20180625015044
+93.179.68.180 1 1 8474 20180626140615
+171.25.193.235 1 1 8474 20180621030437
+185.250.42.13 1 1 8474 20180618025254
+104.236.59.33 1 1 8474 20180609202327
+5.188.136.72 1 1 8474 20180630052649
+35.153.177.76 1 1 727 20180609082936
+149.202.72.198 1 1 8474 20180629101226
+163.172.41.228 1 1 8474 20180602224550
+163.172.67.180 1 1 8474 20180624120701
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20180601 2 2 16948 2
+20180602 1 1 8474 1
+20180603 1 1 8474 1
+20180604 2 2 16948 2
+20180605 6 7 22857 1
+20180606 1 1 8474 1
+20180608 5 5 33896 4
+20180609 5 5 21307 4
+20180611 13 13 36506 3
+20180612 1 1 8474 1
+20180613 8 9 39805 3
+20180614 1 1 8474 1
+20180615 8 8 35638 2
+20180617 2 2 16948 2
+20180618 1 1 8474 1
+20180619 8 9 39805 3
+20180621 6 6 50844 4
+20180623 7 7 59318 3
+20180624 3 3 25422 3
+20180625 9 10 48279 4
+20180626 1 1 8474 1
+20180628 2 2 16948 2
+20180629 1 1 8474 1
+20180630 2 2 16948 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 49
+30s-2mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/ 60 483018 50 43
+/escola/1.html 7 5089 1 2
+/igreja/1.html 6 3396 0 0
+/email.html 6 31746 0 4
+/casamento/paginacasamento.html 6 12288 1 1
+/aniversario/aniversario.html 6 9504 0 1
+/igreja/5.html 1 466 0 0
+/escola/mae.html 1 1645 0 0
+/igreja/2.html 1 502 0 0
+/escola/pai.html 1 1354 0 1
+/igreja/3ok.html 1 533 0 0
+END_SIDER

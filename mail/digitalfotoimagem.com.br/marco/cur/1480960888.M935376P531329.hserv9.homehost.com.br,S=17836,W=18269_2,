@@ -1,0 +1,433 @@
+Return-Path: <585-GGD-959.0.6424.0.0.6922.7.5170223@em-sj-77.mktomail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id caYqN3irRViBGwgAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Mon, 05 Dec 2016 16:01:28 -0200
+Return-path: <585-GGD-959.0.6424.0.0.6922.7.5170223@em-sj-77.mktomail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Mon, 05 Dec 2016 16:01:28 -0200
+Received: from delapparentia.mktdns.com ([192.28.146.180]:42818)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <585-GGD-959.0.6424.0.0.6922.7.5170223@em-sj-77.mktomail.com>)
+	id 1cDxZw-002EyQ-Ih
+	for marco@digitalfotoimagem.com.br; Mon, 05 Dec 2016 16:01:28 -0200
+X-MSFBL: bWFyY29AZGlnaXRhbGZvdG9pbWFnZW0uY29tLmJyQGR2cC0xOTItMjgtMTQ2LTE4
+	MEBiZy1zamQtMjg5QDU4NS1HR0QtOTU5OjIzODk6NjQyNDoyNDI0NjowOjY5MjI6
+	Nzo1MTcwMjIz
+Received: from [10.0.87.249] ([10.0.87.249:36303] helo=sjmas03.marketo.org)
+	by sjmta17.marketo.org (envelope-from <info@magento.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTP
+	id 7F/77-19267-A4BA5485; Mon, 05 Dec 2016 12:00:42 -0600
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1480960842;
+	s=m1; d=magento.com; i=@magento.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=rDhgBlFDUPH/P8Wtn+0K7RL+pv0ZPImv30hHsBSAnsM=;
+	b=XaA4NMDt6aYGa251hp75HkzOuXVfmvXJPB/Y4paqHY2xOD+dM0TDl8n3MLk0MbRv
+	aihIJz+m2XeBeSR1p28FhVSUOP/9UGUTgJfBs5/7NC14EgeCBqiiwytAEKDmiNzVUmf
+	7evOPO2TZMwpRLI+UdAKctm5BvzwH62FZKQF4Zsk=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1480960842;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=rDhgBlFDUPH/P8Wtn+0K7RL+pv0ZPImv30hHsBSAnsM=;
+	b=k+KLZwkrdZQNy3POY4E9bdq3tZGhf++ryeDxD0uSrCe8cWuNoOHo+xEQVhML9256
+	7PhmJ1DdOUAlq3TNVQ9ybCxUd4YHlTrZw6DLC1173jOyzjEL9bgjlNLek1LG5gxagsM
+	yykw1vhLFtyxVWr4vtrUHmvHbmHYpJB/4Wu7er70=
+Date: Mon, 5 Dec 2016 12:00:42 -0600 (CST)
+From: Magento <info@magento.com>
+Reply-To: info@magento.com
+To: marco@digitalfotoimagem.com.br
+Message-ID: <1117831687.594359823.1480960842085.JavaMail.root@sjmas03.marketo.org>
+Subject: Top M1 Extensions on Magento Marketplace
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_594359822_697191461.1480960842085"
+X-Binding: bg-sjd-289
+X-MarketoID: 585-GGD-959:2389:6424:24246:0:6922:7:5170223
+X-MktArchive: false
+List-Unsubscribe: <mailto:GFLESNCONZZGOWKPGY3U43TDGRUWUTTTG5AT2PI.6424.6922.7@unsub-sj.mktomail.com>
+X-Mailfrom: 585-GGD-959.0.6424.0.0.6922.7.5170223@em-sj-77.mktomail.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+
+------=_Part_594359822_697191461.1480960842085
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Top M1 Extensions on Marketplace
+
+Hey Marco,
+Thank you for your continued support as we work to deliver a great merchant=
+ experience on Magento Marketplace <http://email2.magento.com/LHl2DG0040sr0=
+Gw0H0X0s0q>!A few weeks ago, we announced that Magento Marketplace has offi=
+cially launched Magento 1.x Extensions <http://email2.magento.com/n0GH0HL02=
+HqX0DG00400srl>. Below we have highlighted some of the popular Magento 1 ex=
+tensions on the Marketplace.
+Aheadworks: AJAX Cart Pro <http://email2.magento.com/G4G0Dr200yluG0sX0000Hq=
+H>
+ Fully customizable AJAX substitute for Magento cart. Editor to adjust and =
+preview pop-ups on the spot.
+HiConversion <http://email2.magento.com/lrGHz000X40H0D2sl0q0v0G>
+ Customer-powered testing and personalization.
+Windsor Circle: Customer Retention Automation <http://email2.magento.com/Xs=
+X0HAG0q000Drl0H024Gw0>
+ Guaranteed Magento-to-Email Integration, Retention and Predictive Analytic=
+s, and Pre-packaged Lifecycle Marketing Campaigns.
+Xtento: Simplify Bulk Order Processing <http://email2.magento.com/ds0XH4xqr=
+H0D000GlB020G0>
+ Simplify Bulk Order Processing and save hours every day by=C2=A0invoicing/=
+shipping/completing orders in bulk.
+Fooman: Same Order Invoice Number <http://email2.magento.com/o02yq00Cr004HG=
+0l0DGsHX0>
+ Use the Magento order number as the related invoice, shipment, and credit =
+memo number.
+Make sure to check out Marketplace <http://email2.magento.com/LHl2DG0040sr0=
+Gw0H0X0s0q> for all other extensions, or email us about any extensions you =
+see a need for, at MarketplaceRequests@magento.com <http://email2.magento.c=
+om/n0GH0zD02HqX0DG00400srl>
+Best Regards,
+ The Magento Marketplace Team
+<http://email2.magento.com/o02Aq00Er004HG0l0DGsHX0>    <http://email2.magen=
+to.com/hXH4BlG00G000Hsrq020DF0> =C2=A0  <http://email2.magento.com/K00HlGG0=
+0XrC2Gs0H04q0D0> =C2=A0  <http://email2.magento.com/v0l00qrD0sXDGHH4G02H000=
+> =C2=A0  <http://email2.magento.com/c0l02HHG0XqG04sDM00Ir00>
+
+-
+
+------=_Part_594359822_697191461.1480960842085
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>=20
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+=20
+<meta name=3D"viewport" content=3D"width=3Ddevice-width; initial-scale=3D1;=
+ maximum-scale=3D1.0">=20
+<style type=3D"text/css">
+@import url(http://fonts.googleapis.com/css?family=3DOpen+Sans:400,700);
+body {
+        width: 100%;
+        background-color: #d8d9da;
+        margin: 0;
+        padding: 0;
+        -webkit-font-smoothing: antialiased;
+}
+table {
+        border-collapse: collapse;
+}
+* {
+        -webkit-text-size-adjust: none;
+}
+
+@media only screen and (max-width: 601px) {
+.deviceWidth {
+        width: 100% !important;
+}
+#banner img {
+        width: 100% !important;
+}
+.content-padding {
+        padding: 0 7px !important;
+}
+}
+
+@media only screen and (max-width: 300px) {
+.button {
+        padding: 8px !important;
+        font-size: 14px !important;
+}
+}
+.appleLinksWhite a {
+        color: #ffffff !important;
+        text-decoration: none;
+}
+.appleLinksBlack a {
+        color: #676056 !important;
+        text-decoration: none;
+}
+.appleLinksGrey a {
+        color: #989287 !important;
+        text-decoration: none;
+}
+</style>=20
+<title></title>=20
+</head>=20
+<body style=3D"">=20
+<table bgcolor=3D"#D8D9DA" width=3D"100%" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"center" style=3D"">=20
+<tbody style=3D"">=20
+<tr>=20
+<td height=3D"15" style=3D"border-collapse:collapse; margin:0; padding:0; l=
+ine-height:1px; font-size:1px;">&nbsp;</td>=20
+</tr>=20
+<tr style=3D"">=20
+<td width=3D"100%" valign=3D"top" style=3D"">=20
+<table bgcolor=3D"#FFFFFF" width=3D"600" class=3D"deviceWidth" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"">=20
+<tbody style=3D"">=20
+<tr style=3D"">=20
+<td valign=3D"top" style=3D"">=20
+<div class=3D"mktEditable" id=3D"Header" style=3D""></div>=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"">=20
+<tbody style=3D"">=20
+<tr style=3D"">=20
+<td class=3D"deviceWidth mktEditable deviceWidth mktEditable" id=3D"Banner1=
+0" valign=3D"top" style=3D"font-family:Arial, Helvetica, sans-serif; font-s=
+ize:14px; color:#858585; "><p style=3D"mso-table-lspace: 0; mso-table-rspac=
+e: 0; margin: 0;"><img imagepreview=3D"false" constrain=3D"true" src=3D"htt=
+ps://info2.magento.com/rs/585-GGD-959/images/4499-magento2-header.jpg" alt=
+=3D"banner" style=3D"display: block;" border=3D"0" height=3D"80" width=3D"6=
+00"></p></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"">=20
+<tbody style=3D"">=20
+<tr style=3D"">=20
+<td class=3D"deviceWidth mktEditable deviceWidth mktEditable" id=3D"Banner"=
+ valign=3D"top" style=3D""><p style=3D"mso-table-lspace: 0; mso-table-rspac=
+e: 0; margin: 0;"><img src=3D"https://info2.magento.com/rs/585-GGD-959/imag=
+es/MM_600x230_Extensions_V2.jpg" alt=3D"MM_600x230_Extensions_V2.jpg" heigh=
+t=3D"230" width=3D"600"><br></p></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"">=20
+<tbody style=3D"">=20
+<tr style=3D"">=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+<td style=3D"">=20
+<table class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"">=20
+<tbody style=3D"">=20
+<tr>=20
+<td height=3D"25">&nbsp;</td>=20
+</tr>=20
+<tr style=3D"">=20
+<td valign=3D"top" class=3D"mktEditable" id=3D"title7" style=3D"text-align:=
+left; font-family: Helvetica, arial, sans-serif; font-size:34px; color:#313=
+02b; ">
+<div>
+<span style=3D"font-size: 24px; font-family: 'Arial','sans-serif'; color: #=
+636466;">Top M1 Extensions on Marketplace</span>
+</div></td>=20
+</tr>=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Arial, Helvetica, sans-serif; font-s=
+ize:14px; color:#32302b; ">=20
+<tbody style=3D"">=20
+<tr style=3D"">=20
+<td valign=3D"top" class=3D"mktEditable" id=3D"Body2" style=3D"text-align:l=
+eft; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:=
+22px; color:#676056; ">
+<div></div></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+<tr>=20
+<td height=3D"22">&nbsp;</td>=20
+</tr>=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Arial, Helvetica, sans-serif; font-s=
+ize:14px; color:#32302b; ">=20
+<tbody style=3D"">=20
+<tr style=3D"">=20
+<td valign=3D"top" class=3D"mktEditable" id=3D"Body01" style=3D"text-align:=
+left; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height=
+:22px; color:#636466; "><p style=3D"color: #636466; font-family: Arial, Hel=
+vetica, sans-serif; font-size: 14px;">Hey Marco,</p> <p style=3D"color: #63=
+6466; font-family: Arial, Helvetica, sans-serif; font-size: 14px;">Thank yo=
+u for your continued support as we work to deliver a great merchant experie=
+nce on <a href=3D
+"http://email2.magento.com/LHl2DG0040sr0Gw0H0X0s0q" target=3D"_blank" style=
+=3D"color: #ef672f;"
+>Magento Marketplace</a>!A few weeks ago, we announced that Magento Marketp=
+lace has officially launched <a href=3D
+"http://email2.magento.com/s0tr0X400Gqx0G0HlH20s0D" target=3D"_blank" style=
+=3D"color: #ef672f;"
+>Magento 1.x Extensions</a>. Below we have highlighted some of the popular =
+Magento 1 extensions on the Marketplace.</p> <p style=3D"color: #636466; fo=
+nt-family: Arial, Helvetica, sans-serif; font-size: 14px;"><a href=3D
+"http://email2.magento.com/G4G0Dr200yluG0sX0000HqH" target=3D"_blank" style=
+=3D"color: #ef672f; font-size: 18px;"
+>Aheadworks: AJAX Cart Pro</a><br> Fully customizable AJAX substitute for M=
+agento cart. Editor to adjust and preview pop-ups on the spot.</p> <p style=
+=3D"color: #636466; font-family: Arial, Helvetica, sans-serif; font-size: 1=
+4px;"><a href=3D
+"http://email2.magento.com/lrGHz000X40H0D2sl0q0v0G" target=3D"_blank" style=
+=3D"color: #ef672f; font-size: 18px;"
+>HiConversion</a><br> Customer-powered testing and personalization.</p> <p =
+style=3D"color: #636466; font-family: Arial, Helvetica, sans-serif; font-si=
+ze: 14px;"><a href=3D
+"http://email2.magento.com/XsX0HAG0q000Drl0H024Gw0" target=3D"_blank" style=
+=3D"color: #ef672f; font-size: 18px;"
+>Windsor Circle: Customer Retention Automation</a><br> Guaranteed Magento-t=
+o-Email Integration, Retention and Predictive Analytics, and Pre-packaged L=
+ifecycle Marketing Campaigns.</p> <p style=3D"color: #636466; font-family: =
+Arial, Helvetica, sans-serif; font-size: 14px;"><a href=3D
+"http://email2.magento.com/ds0XH4xqrH0D000GlB020G0" target=3D"_blank" style=
+=3D"color: #ef672f; font-size: 18px;"
+>Xtento: Simplify Bulk Order Processing</a><br> Simplify Bulk Order Process=
+ing and save hours every day by&nbsp;invoicing/shipping/completing orders i=
+n bulk.</p> <p style=3D"color: #636466; font-family: Arial, Helvetica, sans=
+-serif; font-size: 14px;"><a href=3D
+"http://email2.magento.com/o02yq00Cr004HG0l0DGsHX0" target=3D"_blank" style=
+=3D"color: #ef672f; font-size: 18px;"
+>Fooman: Same Order Invoice Number</a><br> Use the Magento order number as =
+the related invoice, shipment, and credit memo number.</p> <p style=3D"colo=
+r: #636466; font-family: Arial, Helvetica, sans-serif; font-size: 14px;">Ma=
+ke sure to check out <a href=3D
+"http://email2.magento.com/LHl2DG0040sr0Gw0H0X0s0q" target=3D"_blank" style=
+=3D"color: #ef672f;"
+>Marketplace</a> for all other extensions, or email us about any extensions=
+ you see a need for, at <a href=3D
+"http://email2.magento.com/n0GH0zD02HqX0DG00400srl" target=3D"_blank" style=
+=3D"color: #ef672f;"
+>MarketplaceRequests@magento.com</a></p> <p style=3D"color: #636466; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 14px;">Best Regards,<br> Th=
+e Magento Marketplace Team</p></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+<tr>=20
+<td height=3D"40">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<div class=3D"mktEditable" id=3D"Footer" style=3D""></div>=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"background-color:#31302b; ">=20
+<tbody style=3D"">=20
+<tr style=3D"">=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+<td style=3D"">=20
+<table class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"">=20
+<tbody style=3D"">=20
+<tr>=20
+<td height=3D"32">&nbsp;</td>=20
+</tr>=20
+<tr style=3D"">=20
+<td style=3D"">=20
+<table width=3D"100%" class=3D"deviceWidth" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Arial, Helvetica, sans-serif; font-s=
+ize:14px; color:#32302b; ">=20
+<tbody style=3D"">=20
+<tr style=3D"">=20
+<td valign=3D"top" class=3D"mktEditable" style=3D"text-align:left; font-fam=
+ily:Arial, Helvetica, sans-serif; font-size:13px; line-height:20px; color:#=
+32302b; " id=3D"mkto_autogen_id_0">
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=20
+<tbody>=20
+<tr>=20
+<td align=3D"left" valign=3D"bottom" style=3D"font-weight: bold; font-famil=
+y: Arial, Helvetica, sans-serif; letter-spacing: -1px; font-size: 10px; lin=
+e-height: 12px; color: #7f7c6f;">=20
+<div>=20
+<a href=3D
+"http://email2.magento.com/o02Aq00Er004HG0l0DGsHX0"
+><img src=3D"http://info2.magento.com/rs/585-GGD-959/images/Magento-Logo-Em=
+ail-280.png" alt=3D"Magento Logo" width=3D"140" border=3D"0" style=3D"displ=
+ay: block;"></a>=20
+</div> </td>=20
+<td width=3D"20" align=3D"right"><a href=3D
+"http://email2.magento.com/hXH4BlG00G000Hsrq020DF0"
+><img src=3D"http://info2.magento.com/rs/585-GGD-959/images/2013-socialfoot=
+er-fb.png" alt=3D"Fb" width=3D"20" height=3D"20" border=3D"0" style=3D"disp=
+lay: block;"></a></td>=20
+<td width=3D"10" align=3D"right">&nbsp;</td>=20
+<td width=3D"20" align=3D"right"><a href=3D
+"http://email2.magento.com/K00HlGG00XrC2Gs0H04q0D0"
+><img src=3D"http://info2.magento.com/rs/585-GGD-959/images/2013-socialfoot=
+er-tw.png" alt=3D"Tw" width=3D"20" height=3D"20" border=3D"0" style=3D"disp=
+lay: block;"></a></td>=20
+<td width=3D"10" align=3D"right">&nbsp;</td>=20
+<td width=3D"20" align=3D"right"><a href=3D
+"http://email2.magento.com/v0l00qrD0sXDGHH4G02H000"
+><img src=3D"http://info2.magento.com/rs/585-GGD-959/images/2013-socialfoot=
+er-yt.png" alt=3D"Yt" width=3D"20" height=3D"20" border=3D"0" style=3D"disp=
+lay: block;"></a></td>=20
+<td width=3D"10" align=3D"right">&nbsp;</td>=20
+<td width=3D"20" align=3D"right"><a href=3D
+"http://email2.magento.com/E0s0G0HIGE00q0HD2r0lX04"
+><img src=3D"http://info2.magento.com/rs/585-GGD-959/images/2013-socialfoot=
+er-li.png" alt=3D"Li" width=3D"20" height=3D"20" border=3D"0" style=3D"disp=
+lay: block;"></a></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+<tr>=20
+<td height=3D"25" style=3D"padding:0;">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td height=3D"24" style=3D"border-top:1px solid #989287;padding:0;"></td>=
+=20
+</tr>=20
+<tr>=20
+<td height=3D"50" style=3D"font-family: Arial, Helvetica, sans-serif; font-=
+size:9px; line-height:12px; color:#989287;"> <p style=3D"mso-table-lspace:0=
+;mso-table-rspace:0; margin: 0;">This email was sent to you because you hav=
+e agreed to receive information about our services. We will only use your i=
+nformation in accordance with our privacy policy. To unsubscribe from our c=
+ommercial mailing list, please click <a style=3D"text-decoration:none;font-=
+weight:bold;color:#57c1e6;" href=3D
+"http://email2.magento.com/LHl2DG0040Fr0GJ0H0X0s0q"
+>here</a>.<br> Copyright=C2=A9 2016 Magento, Inc. All rights reserved. Mage=
+nto, Inc. is located at <span class=3D"appleLinksGrey">10441 Jefferson Blvd=
+., Suite 200, Culver City, CA 90232</span></p> </td>=20
+</tr>=20
+<tr>=20
+<td height=3D"37">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+<td class=3D"content-padding" style=3D"padding:0 20px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<table>=20
+<tbody>=20
+<tr>=20
+<td height=3D"15" style=3D"border-collapse:collapse; margin:0; padding:0; l=
+ine-height:1px; font-size:1px;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> =20
+<a href=3D
+"http://email2.magento.com/G4G0Dr200KlGG0sX0000HqH"
+></a>
+<img src=3D"http://email2.magento.com/trk?t=3D1&mid=3DNTg1LUdHRC05NTk6MjM4O=
+To2NDI0OjI0MjQ2OjA6NjkyMjo3OjUxNzAyMjM6bWFyY29AZGlnaXRhbGZvdG9pbWFnZW0uY29t=
+LmJy" width=3D"1" height=3D"1" style=3D"display:none !important;" alt=3D"" =
+/>
+
+<br>
+</body>
+</html>
+------=_Part_594359822_697191461.1480960842085--

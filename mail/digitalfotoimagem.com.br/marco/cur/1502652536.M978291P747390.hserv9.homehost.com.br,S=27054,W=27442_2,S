@@ -1,0 +1,388 @@
+Return-Path: <s-2milx6rdbfom7nqmxu8vpehu708h6ffwp1rkxmvdrpp7zo2wzujmx3cm@bounce.linkedin.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id qRHVOXiokFl+ZwsAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Sun, 13 Aug 2017 16:28:56 -0300
+Return-path: <s-2milx6rdbfom7nqmxu8vpehu708h6ffwp1rkxmvdrpp7zo2wzujmx3cm@bounce.linkedin.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sun, 13 Aug 2017 16:28:56 -0300
+Received: from mailb-da.linkedin.com ([108.174.6.153]:39313)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <s-2milx6rdbfom7nqmxu8vpehu708h6ffwp1rkxmvdrpp7zo2wzujmx3cm@bounce.linkedin.com>)
+	id 1dgyZE-0038Xn-LX
+	for marco@digitalfotoimagem.com.br; Sun, 13 Aug 2017 16:28:56 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com;
+	s=proddkim1024; t=1502652490;
+	bh=bD+w7ImYFGz4UOBz/vTjYlqhGeR+Ztc6j3I/F0cWnt8=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=3PzMXOrwn3jDs8Cv/Ya9yBHrLO40i3a87a9DmjStTDr2w3KPVU+8/oUYYgpEEs3zx
+	 7fXMbwLzfTBHWd6Rrc7DC3AsDk59m9Ei+OoBu9+m5hF7tdG8zwb1KtbLChbJQw4Q04
+	 5iT/16CYB7iExJWcEXBep2Jy7/r1eMGtQcv6413Q=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mailb.linkedin.com;
+	s=proddkim1024; t=1502652490;
+	bh=bD+w7ImYFGz4UOBz/vTjYlqhGeR+Ztc6j3I/F0cWnt8=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=ppNOB9AuppOlQj2ftwzITXuIon82IwwDzLxwS+28gEGFbn0fejUfcU/gBWYdko0kE
+	 9p04RT70mMCCpnCO/ehf2L5ooLpo94vnfg884U71N9mT5UfRAXOOpgH+xewrHuscfW
+	 oyEp8+5tLMgFV9Q6ZY+ML+ClMrnG67lvtPQHoNBg=
+From: Renata Fabiana Imberio <invitations@linkedin.com>
+Message-ID: <589604297.740092.1502652490531.JavaMail.app@lva1-app1948.prod.linkedin.com>
+Subject: =?UTF-8?Q?Marco,_voc=C3=AA_poderia_me_adici?=
+ =?UTF-8?Q?onar_=C3=A0_sua_rede_no_LinkedIn=3F?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_740090_1878305919.1502652490528"
+To: Marco Parise <marco@digitalfotoimagem.com.br>
+Date: Sun, 13 Aug 2017 19:28:10 +0000 (UTC)
+X-LinkedIn-Class: INVITE-MBR
+X-LinkedIn-Template: email_m2m_invite_single_01
+X-LinkedIn-fbl: m2-clvfhf5zjycn2xcd48tgjrqjrdnm3cd6ftigf9bxd5e6jo00cytt4cwtw8o0e5yqa346cpxqto65qpqkkw8oiyxcghj12o2qhbk5l2sqw73cw8lnh839pbnbo82no95n1mln8bb7
+X-LinkedIn-Id: 7lx0fp-j6b4hr9m-qf
+List-Unsubscribe: <https://www.linkedin.com/e/v2?e=7lx0fp-j6b4hr9m-qf&t=lun&midToken=AQFYpy2oXD3K5A&ek=email_m2m_invite_single_01&li=17&m=unsub&ts=unsub&loid=AQHFWNuIOny3iAAAAV3dEWLRMujVBYRMRBjOa50pF61c8eVDnHXgMexD7zE1XWAD73e89gftjq8vTbCxZmTkoQ37EsLXRVCp7zFfQ9UCec4&eid=7lx0fp-j6b4hr9m-qf>
+Require-Recipient-Valid-Since: marco@digitalfotoimagem.com.br; Tue, 10 Nov 2015 11:42:19 +0000
+
+------=_Part_740090_1878305919.1502652490528
+Content-Type: text/plain;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: text-body
+
+Marco,=20
+
+voc=C3=AA poderia me adicionar =C3=A0 sua rede no LinkedIn?
+
+Renata Fabiana Imberio
+Professora auxiliar na Escola estadual
+
+
+Visualizar perfil: https://www.linkedin.com/comm/in/renata-fabiana-imberio-=
+24833533?midToken=3DAQFYpy2oXD3K5A&trk=3Deml-email_m2m_invite_single_01-her=
+o-11-prof%7Ecta&trkEmail=3Deml-email_m2m_invite_single_01-hero-11-prof%7Ect=
+a-null-7lx0fp%7Ej6b4hr9m%7Eqf-null-neptune%2Fprofile%7Evanity%2Eview&lipi=
+=3Durn%3Ali%3Apage%3Aemail_email_m2m_invite_single_01%3BhUL4nH8HSFaAyHXaYSe=
+RpQ%3D%3D
+
+Aceitar: https://www.linkedin.com/comm/mynetwork/invite-accept/invitationId=
+/6302581228033835009/sharedKey/HjjtmHSS/?midToken=3DAQFYpy2oXD3K5A&trk=3Dem=
+l-email_m2m_invite_single_01-null-2-accept%7Ecta&trkEmail=3Deml-email_m2m_i=
+nvite_single_01-null-2-accept%7Ecta-null-7lx0fp%7Ej6b4hr9m%7Eqf-null-neptun=
+e%2Fmynetwork%2Einvite%7Eaccept&lipi=3Durn%3Ali%3Apage%3Aemail_email_m2m_in=
+vite_single_01%3BhUL4nH8HSFaAyHXaYSeRpQ%3D%3D
+
+.....................................
+
+Cancelar inscri=C3=A7=C3=A3o: https://www.linkedin.com/e/v2?e=3D7lx0fp-j6b4=
+hr9m-qf&t=3Dlun&midToken=3DAQFYpy2oXD3K5A&ek=3Demail_m2m_invite_single_01&l=
+i=3D17&m=3Dunsub&ts=3Dunsub&loid=3DAQHFWNuIOny3iAAAAV3dEWLRMujVBYRMRBjOa50p=
+F61c8eVDnHXgMexD7zE1XWAD73e89gftjq8vTbCxZmTkoQ37EsLXRVCp7zFfQ9UCec4&eid=3D7=
+lx0fp-j6b4hr9m-qf
+
+Ajuda: https://www.linkedin.com/e/v2?e=3D7lx0fp-j6b4hr9m-qf&lipi=3Durn%3Ali=
+%3Apage%3Aemail_email_m2m_invite_single_01%3BhUL4nH8HSFaAyHXaYSeRpQ%3D%3D&a=
+=3DcustomerServiceUrl&midToken=3DAQFYpy2oXD3K5A&ek=3Demail_m2m_invite_singl=
+e_01&li=3D16&m=3Dfooter&ts=3Dhelp&articleId=3D67
+
+
+Voc=C3=AA est=C3=A1 recebendo e-mails sobre Convite.
+
+Este e-mail foi enviado para Marco Parise (Coach de aprendizagem educaciona=
+l).
+Saiba por que inclu=C3=ADmos isso: https://www.linkedin.com/e/v2?e=3D7lx0fp=
+-j6b4hr9m-qf&lipi=3Durn%3Ali%3Apage%3Aemail_email_m2m_invite_single_01%3BhU=
+L4nH8HSFaAyHXaYSeRpQ%3D%3D&a=3DcustomerServiceUrl&midToken=3DAQFYpy2oXD3K5A=
+&ek=3Demail_m2m_invite_single_01&articleId=3D4788
+
+=C2=A9 2017 LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place,=
+ Dublin 2. LinkedIn =C3=A9 um nome comercial registrado da LinkedIn Ireland=
+ Unlimited Company. LinkedIn e a logomarca do LinkedIn s=C3=A3o marcas regi=
+stradas da LinkedIn.
+------=_Part_740090_1878305919.1502652490528
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: html-body
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://www.w3=
+.org/1999/xhtml" lang=3D"pt" xml:lang=3D"pt"> <head> <meta http-equiv=3D"Co=
+ntent-Type" content=3D"text/html;charset=3Dutf-8"> <meta name=3D"HandheldFr=
+iendly" content=3D"true"> <meta name=3D"viewport" content=3D"width=3Ddevice=
+-width; initial-scale=3D0.666667; maximum-scale=3D0.666667; user-scalable=
+=3D0"> <meta name=3D"viewport" content=3D"width=3Ddevice-width"> <title></t=
+itle> <!--[if mso]><style type=3D"text/css">body {font-family: 'Helvetica N=
+eue', Helvetica, Arial, sans-serif;}.phoenix-email-container {width: 512px =
+!important;}</style><![endif]--> <!--[if IE]><style type=3D"text/css">.phoe=
+nix-email-container {width: 512px !important;}</style><![endif]--> <style t=
+ype=3D"text/css">@media only screen and (max-width:32em) { .phoenix-email-c=
+ontainer { width:100% !important; } } @media only screen and (max-width:20e=
+m) {} @media only screen and (max-device-width:30em) {} @media screen and (=
+device-width:30em) and (device-height:22.5em), screen and (device-width:22.=
+5em) and (device-height:30em), screen and (device-width:20em) and (device-h=
+eight:15em) {} @media screen and (-webkit-min-device-pixel-ratio:0) {} @med=
+ia screen and (max-device-width:25.88em) and (max-device-height:48.5em) {} =
+@media only screen and (min-width:30.06em) { .phoenix-app-activation-footer=
+-content&gt;tbody&gt;tr&gt;td { text-align:left; } .phoenix-app-activation-=
+footer-screenshot&gt;tbody&gt;tr&gt;td { padding:16px 0 0 0; } } </style> <=
+/head> <body style=3D"padding:0;margin:0 auto;-webkit-text-size-adjust:100%=
+;width:100% !important;-ms-text-size-adjust:100%;font-family:'Helvetica Neu=
+e',Helvetica,Arial,sans-serif;"> <div style=3D"overflow:hidden;color:transp=
+arent;visibility:hidden;mso-hide:all;width:0;font-size:0;opacity:0;height:0=
+;"> Marco, voc=C3=AA poderia me adicionar =C3=A0 sua rede no LinkedIn? </di=
+v> <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"100%" bgcolor=3D"#EDF0F3" style=3D"background-color:#EDF0F3;table=
+-layout:fixed;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-=
+lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td align=3D"center" s=
+tyle=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace=
+:0pt;-ms-text-size-adjust:100%;"> <center style=3D"width:100%;"> <table bor=
+der=3D"0" class=3D"phoenix-email-container" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"512" bgcolor=3D"#FFFFFF" style=3D"background-color:#FFFFFF;=
+margin:0 auto;max-width:512px;-webkit-text-size-adjust:100%;mso-table-rspac=
+e:0pt;width:inherit;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbod=
+y> <tr> <td bgcolor=3D"#F6F8FA" style=3D"background-color:#F6F8FA;padding:1=
+2px;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt=
+;-ms-text-size-adjust:100%;border-bottom:1px solid #ECECEC;"> <table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-=
+text-size-adjust:100%;mso-table-rspace:0pt;width:100% !important;mso-table-=
+lspace:0pt;-ms-text-size-adjust:100%;min-width:100% !important;"> <tbody> <=
+tr> <td align=3D"left" valign=3D"middle" style=3D"-webkit-text-size-adjust:=
+100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;">=
+<a href=3D"https://www.linkedin.com/comm/feed/?midToken=3DAQFYpy2oXD3K5A&am=
+p;trk=3Deml-email_m2m_invite_single_01-header-12-home&amp;trkEmail=3Deml-em=
+ail_m2m_invite_single_01-header-12-home-null-7lx0fp%7Ej6b4hr9m%7Eqf-null-ne=
+ptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_m2m_invite_single_01%=
+3BhUL4nH8HSFaAyHXaYSeRpQ%3D%3D" style=3D"cursor:pointer;color:#008CC9;-webk=
+it-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms-text=
+-size-adjust:100%;"> <img alt=3D"LinkedIn" border=3D"0" src=3D"https://stat=
+ic.licdn.com/scds/common/u/images/email/phoenix/logos/logo_phoenix_header_b=
+lue_78x66_v1.png" height=3D"34" width=3D"40" style=3D"outline:none;-ms-inte=
+rpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;"></a></td> <td v=
+align=3D"middle" width=3D"100%" align=3D"right" style=3D"padding:0 0 0 10px=
+;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-m=
+s-text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/in/marco=
+-parise-3b10b310a?midToken=3DAQFYpy2oXD3K5A&amp;trk=3Deml-email_m2m_invite_=
+single_01-header-19-profile&amp;trkEmail=3Deml-email_m2m_invite_single_01-h=
+eader-19-profile-null-7lx0fp%7Ej6b4hr9m%7Eqf-null-neptune%2Fprofile%7Evanit=
+y%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_m2m_invite_single_01%3BhU=
+L4nH8HSFaAyHXaYSeRpQ%3D%3D" style=3D"cursor:pointer;margin:0;color:#008CC9;=
+-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms=
+-text-size-adjust:100%;"> <span style=3D"word-wrap:break-word;color:#4C4C4C=
+;word-break:break-word;font-weight:400;-ms-word-break:break-all;font-size:1=
+4px;line-height:1.429;overflow-wrap:break-word;">Marco Parise</span></a></t=
+d> <td valign=3D"middle" width=3D"40" style=3D"-webkit-text-size-adjust:100=
+%;mso-table-rspace:0pt;padding-left:10px;mso-table-lspace:0pt;-ms-text-size=
+-adjust:100%;"> <a href=3D"https://www.linkedin.com/comm/in/marco-parise-3b=
+10b310a?midToken=3DAQFYpy2oXD3K5A&amp;trk=3Deml-email_m2m_invite_single_01-=
+header-19-profile&amp;trkEmail=3Deml-email_m2m_invite_single_01-header-19-p=
+rofile-null-7lx0fp%7Ej6b4hr9m%7Eqf-null-neptune%2Fprofile%7Evanity%2Eview&a=
+mp;lipi=3Durn%3Ali%3Apage%3Aemail_email_m2m_invite_single_01%3BhUL4nH8HSFaA=
+yHXaYSeRpQ%3D%3D" style=3D"border-radius:50%;cursor:pointer;color:#008CC9;-=
+webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;-ms-=
+text-size-adjust:100%;"><img alt=3D"" border=3D"0" height=3D"36" width=3D"3=
+6" src=3D"https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAcs=
+AAAAJGVhYThiNDM0LTUwZmQtNDJhZi1iMDJlLTc2MDk2OWRiNDQzYw.jpg" style=3D"border=
+-radius:50%;outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-=
+decoration:none;"></a></td> <td width=3D"1" style=3D"-webkit-text-size-adju=
+st:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%=
+;">&nbsp;</td> </tr> </tbody> </table></td> </tr> <tr> <td style=3D"-webkit=
+-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-s=
+ize-adjust:100%;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;=
+mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td style=3D=
+"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-m=
+s-text-size-adjust:100%;"> <table border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table-rsp=
+ace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td =
+style=3D"padding:24px 24px 36px 24px;-webkit-text-size-adjust:100%;mso-tabl=
+e-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <table borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit=
+-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-s=
+ize-adjust:100%;"> <tbody> <tr> <td align=3D"left" id=3D"qatest-hero-headli=
+ne" colspan=3D"2" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0=
+pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;padding-bottom:12px;"> <p=
+ style=3D"margin:0;word-wrap:break-word;color:#4C4C4C;word-break:break-word=
+;font-weight:400;-ms-word-break:break-all;font-size:16px;line-height:1.5;ov=
+erflow-wrap:break-word;">Marco, voc=C3=AA poderia me adicionar =C3=A0 sua r=
+ede no LinkedIn?</p></td> </tr> <tr> <td valign=3D"top" width=3D"70" style=
+=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt=
+;width:70px;-ms-text-size-adjust:100%;"> <table border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%=
+;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tb=
+ody> <tr> <td id=3D"qatest-hero-profilepic" style=3D"padding:10px 24px 0 0;=
+-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms=
+-text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/in/renata=
+-fabiana-imberio-24833533?midToken=3DAQFYpy2oXD3K5A&amp;trk=3Deml-email_m2m=
+_invite_single_01-hero-9-prof%7Ephoto&amp;trkEmail=3Deml-email_m2m_invite_s=
+ingle_01-hero-9-prof%7Ephoto-null-7lx0fp%7Ej6b4hr9m%7Eqf-null-neptune%2Fpro=
+file%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_m2m_invite_si=
+ngle_01%3BhUL4nH8HSFaAyHXaYSeRpQ%3D%3D" style=3D"cursor:pointer;color:#008C=
+C9;-webkit-text-size-adjust:100%;display:inline-block;text-decoration:none;=
+-ms-text-size-adjust:100%;"><img src=3D"https://media.licdn.com/mpr/mpr/shr=
+inknp_100_100/p/3/000/0b8/180/1ca2f84.jpg" alt=3D"" height=3D"70" width=3D"=
+70" style=3D"border-radius:50%;outline:none;-ms-interpolation-mode:bicubic;=
+color:#FFFFFF;text-decoration:none;"></a></td> </tr> </tbody> </table></td>=
+ <td style=3D"padding-top:5px;-webkit-text-size-adjust:100%;mso-table-rspac=
+e:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"-webkit-text-s=
+ize-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adj=
+ust:100%;"> <tbody> <tr> <td valign=3D"top" id=3D"qatest-hero-profileinfo" =
+style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspac=
+e:0pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/=
+in/renata-fabiana-imberio-24833533?midToken=3DAQFYpy2oXD3K5A&amp;trk=3Deml-=
+email_m2m_invite_single_01-hero-10-prof%7Ename&amp;trkEmail=3Deml-email_m2m=
+_invite_single_01-hero-10-prof%7Ename-null-7lx0fp%7Ej6b4hr9m%7Eqf-null-nept=
+une%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_m2m_=
+invite_single_01%3BhUL4nH8HSFaAyHXaYSeRpQ%3D%3D" style=3D"cursor:pointer;co=
+lor:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decorat=
+ion:none;-ms-text-size-adjust:100%;"> <span style=3D"word-wrap:break-word;c=
+olor:#262626;word-break:break-word;font-weight:700;-ms-word-break:break-all=
+;font-size:16px;line-height:1.5;overflow-wrap:break-word;">Renata Fabiana I=
+mberio</span></a> <p style=3D"margin:0;word-wrap:break-word;color:#737373;w=
+ord-break:break-word;font-weight:400;-ms-word-break:break-all;font-size:14p=
+x;line-height:1.429;overflow-wrap:break-word;">Professora auxiliar na Escol=
+a estadual</p> <p style=3D"margin:0;color:#737373;font-weight:400;font-size=
+:14px;line-height:1.429;">S=C3=A3o Paulo e Regi=C3=A3o, Brasil</p></td> </t=
+r> <tr> <td dir=3D"rtl" align=3D"left" style=3D"-webkit-text-size-adjust:10=
+0%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;dire=
+ction:rtl !important;text-align:left !important;"> <!--[if mso]><table bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"auto"><tr><td style=
+=3D"padding:12px 0 0 0;"><![endif]--><span id=3D"qatest-cta-accept" style=
+=3D"display:inline-block;margin-top:14px;"> <table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"-webkit-text-size-adjust:100%;mso-table-r=
+space:0pt;display:inline-block;mso-table-lspace:0pt;-ms-text-size-adjust:10=
+0%;"> <tbody> <tr> <td align=3D"center" valign=3D"middle" style=3D"-webkit-=
+text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-si=
+ze-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/mynetwork/invite-=
+accept/invitationId/6302581228033835009/sharedKey/HjjtmHSS/?midToken=3DAQFY=
+py2oXD3K5A&amp;trk=3Deml-email_m2m_invite_single_01-null-2-accept%7Ecta&amp=
+;trkEmail=3Deml-email_m2m_invite_single_01-null-2-accept%7Ecta-null-7lx0fp%=
+7Ej6b4hr9m%7Eqf-null-neptune%2Fmynetwork%2Einvite%7Eaccept&amp;lipi=3Durn%3=
+Ali%3Apage%3Aemail_email_m2m_invite_single_01%3BhUL4nH8HSFaAyHXaYSeRpQ%3D%3=
+D" target=3D"_blank" style=3D"cursor:pointer;word-wrap:normal;color:#008CC9=
+;word-break:normal;white-space:nowrap;-webkit-text-size-adjust:100%;display=
+:block;text-decoration:none;-ms-text-size-adjust:100%;overflow-wrap:normal;=
+"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"auto" s=
+tyle=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace=
+:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td bgcolor=3D"#008CC9" styl=
+e=3D"padding:6px 16px;color:#FFFFFF;-webkit-text-size-adjust:100%;font-weig=
+ht:500;font-size:16px;-ms-text-size-adjust:100%;border-color:#008CC9;backgr=
+ound-color:#008CC9;border-radius:2px;mso-table-rspace:0pt;mso-table-lspace:=
+0pt;border-width:1px;border-style:solid;"><a href=3D"https://www.linkedin.c=
+om/comm/mynetwork/invite-accept/invitationId/6302581228033835009/sharedKey/=
+HjjtmHSS/?midToken=3DAQFYpy2oXD3K5A&amp;trk=3Deml-email_m2m_invite_single_0=
+1-null-2-accept%7Ecta&amp;trkEmail=3Deml-email_m2m_invite_single_01-null-2-=
+accept%7Ecta-null-7lx0fp%7Ej6b4hr9m%7Eqf-null-neptune%2Fmynetwork%2Einvite%=
+7Eaccept&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_m2m_invite_single_01%3BhU=
+L4nH8HSFaAyHXaYSeRpQ%3D%3D" target=3D"_blank" style=3D"cursor:pointer;color=
+:#FFFFFF;-webkit-text-size-adjust:100%;display:inline-block;text-decoration=
+:none;-ms-text-size-adjust:100%;">Aceitar</a></td> </tr> </tbody> </table><=
+/a></td> </tr> </tbody> </table></span> <!--[if mso]></td><td style=3D"padd=
+ing-top:12px;"><![endif]--><span id=3D"qatest-cta-profile" style=3D"display=
+:inline-block;margin-top:14px;margin-right:12px;"> <table border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" style=3D"-webkit-text-size-adjust:100%;mso-=
+table-rspace:0pt;display:inline-block;mso-table-lspace:0pt;-ms-text-size-ad=
+just:100%;"> <tbody> <tr> <td align=3D"center" valign=3D"middle" style=3D"-=
+webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-=
+text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/in/renata-=
+fabiana-imberio-24833533?midToken=3DAQFYpy2oXD3K5A&amp;trk=3Deml-email_m2m_=
+invite_single_01-hero-11-prof%7Ecta&amp;trkEmail=3Deml-email_m2m_invite_sin=
+gle_01-hero-11-prof%7Ecta-null-7lx0fp%7Ej6b4hr9m%7Eqf-null-neptune%2Fprofil=
+e%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_m2m_invite_singl=
+e_01%3BhUL4nH8HSFaAyHXaYSeRpQ%3D%3D" target=3D"_blank" style=3D"cursor:poin=
+ter;word-wrap:normal;color:#008CC9;word-break:normal;white-space:nowrap;-we=
+bkit-text-size-adjust:100%;display:block;text-decoration:none;-ms-text-size=
+-adjust:100%;overflow-wrap:normal;"> <table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"auto" style=3D"-webkit-text-size-adjust:100%;mso=
+-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody>=
+ <tr> <td style=3D"border-radius:2px;padding:6px 16px;color:#4C4C4C;-webkit=
+-text-size-adjust:100%;mso-table-rspace:0pt;font-weight:500;mso-table-lspac=
+e:0pt;font-size:16px;-ms-text-size-adjust:100%;border-color:#737373;border-=
+width:1px;border-style:solid;"><a href=3D"https://www.linkedin.com/comm/in/=
+renata-fabiana-imberio-24833533?midToken=3DAQFYpy2oXD3K5A&amp;trk=3Deml-ema=
+il_m2m_invite_single_01-hero-11-prof%7Ecta&amp;trkEmail=3Deml-email_m2m_inv=
+ite_single_01-hero-11-prof%7Ecta-null-7lx0fp%7Ej6b4hr9m%7Eqf-null-neptune%2=
+Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_m2m_invit=
+e_single_01%3BhUL4nH8HSFaAyHXaYSeRpQ%3D%3D" target=3D"_blank" style=3D"curs=
+or:pointer;color:#4C4C4C;-webkit-text-size-adjust:100%;display:inline-block=
+;text-decoration:none;-ms-text-size-adjust:100%;">Visualizar perfil</a></td=
+> </tr> </tbody> </table></a></td> </tr> </tbody> </table></span> <!--[if m=
+so]></td></tr></table><![endif]--></td> </tr> </tbody> </table></td> </tr> =
+</tbody> </table></td> </tr> </tbody> </table></td> </tr> </tbody> </table>=
+</td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%;mso-table-rspac=
+e:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <table border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#EDF0F3" ali=
+gn=3D"center" style=3D"background-color:#EDF0F3;padding:0 24px;color:#99999=
+9;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-=
+ms-text-size-adjust:100%;text-align:center;"> <tbody> <tr> <td align=3D"cen=
+ter" style=3D"padding:16px 0 0 0;-webkit-text-size-adjust:100%;mso-table-rs=
+pace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"=
+> <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;=
+mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td valign=
+=3D"middle" align=3D"center" style=3D"padding:0 0 16px 0;-webkit-text-size-=
+adjust:100%;mso-table-rspace:0pt;vertical-align:middle;mso-table-lspace:0pt=
+;-ms-text-size-adjust:100%;text-align:center;"><a href=3D"https://www.linke=
+din.com/e/v2?e=3D7lx0fp-j6b4hr9m-qf&amp;t=3Dlun&amp;midToken=3DAQFYpy2oXD3K=
+5A&amp;ek=3Demail_m2m_invite_single_01&amp;li=3D17&amp;m=3Dunsub&amp;ts=3Du=
+nsub&amp;loid=3DAQHFWNuIOny3iAAAAV3dEWLRMujVBYRMRBjOa50pF61c8eVDnHXgMexD7zE=
+1XWAD73e89gftjq8vTbCxZmTkoQ37EsLXRVCp7zFfQ9UCec4&amp;eid=3D7lx0fp-j6b4hr9m-=
+qf" style=3D"cursor:pointer;color:#737373;-webkit-text-size-adjust:100%;tex=
+t-decoration:underline;display:inline-block;-ms-text-size-adjust:100%;"> <s=
+pan style=3D"color:#737373;font-weight:400;text-decoration:underline;font-s=
+ize:12px;line-height:1.333;">Cancelar inscri=C3=A7=C3=A3o</span></a>&nbsp;&=
+nbsp;|&nbsp;&nbsp;<a href=3D"https://www.linkedin.com/e/v2?e=3D7lx0fp-j6b4h=
+r9m-qf&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_m2m_invite_single_01%3BhUL4=
+nH8HSFaAyHXaYSeRpQ%3D%3D&amp;a=3DcustomerServiceUrl&amp;midToken=3DAQFYpy2o=
+XD3K5A&amp;ek=3Demail_m2m_invite_single_01&amp;li=3D16&amp;m=3Dfooter&amp;t=
+s=3Dhelp&amp;articleId=3D67" style=3D"cursor:pointer;color:#737373;-webkit-=
+text-size-adjust:100%;text-decoration:underline;display:inline-block;-ms-te=
+xt-size-adjust:100%;"> <span style=3D"color:#737373;font-weight:400;text-de=
+coration:underline;font-size:12px;line-height:1.333;">Ajuda</span></a></td>=
+ </tr> </tbody> </table></td> </tr> <tr> <td style=3D"-webkit-text-size-adj=
+ust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100=
+%;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"=
+ style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspa=
+ce:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td align=3D"center" style=
+=3D"padding:0 0 12px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;m=
+so-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"> <p style=
+=3D"margin:0;color:#737373;font-weight:400;font-size:12px;line-height:1.333=
+;">Voc=C3=AA est=C3=A1 recebendo e-mails sobre Convite.</p></td> </tr> <tr>=
+ <td align=3D"center" style=3D"padding:0 0 12px 0;-webkit-text-size-adjust:=
+100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;te=
+xt-align:center;"> <p style=3D"margin:0;word-wrap:break-word;color:#737373;=
+word-break:break-word;font-weight:400;-ms-word-break:break-all;font-size:12=
+px;line-height:1.333;overflow-wrap:break-word;">Este e-mail foi enviado par=
+a Marco Parise (Coach de aprendizagem educacional). <a href=3D"https://www.=
+linkedin.com/e/v2?e=3D7lx0fp-j6b4hr9m-qf&amp;lipi=3Durn%3Ali%3Apage%3Aemail=
+_email_m2m_invite_single_01%3BhUL4nH8HSFaAyHXaYSeRpQ%3D%3D&amp;a=3Dcustomer=
+ServiceUrl&amp;midToken=3DAQFYpy2oXD3K5A&amp;ek=3Demail_m2m_invite_single_0=
+1&amp;articleId=3D4788" style=3D"cursor:pointer;color:#737373;-webkit-text-=
+size-adjust:100%;text-decoration:underline;display:inline-block;-ms-text-si=
+ze-adjust:100%;">Saiba por que inclu=C3=ADmos isto.</a></p></td> </tr> <tr>=
+ <td align=3D"center" style=3D"padding:0 0 8px 0;-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;tex=
+t-align:center;"><a href=3D"https://www.linkedin.com/comm/feed/?midToken=3D=
+AQFYpy2oXD3K5A&amp;trk=3Deml-email_m2m_invite_single_01-footer-14-home&amp;=
+trkEmail=3Deml-email_m2m_invite_single_01-footer-14-home-null-7lx0fp%7Ej6b4=
+hr9m%7Eqf-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_m2m_=
+invite_single_01%3BhUL4nH8HSFaAyHXaYSeRpQ%3D%3D" style=3D"cursor:pointer;co=
+lor:#737373;-webkit-text-size-adjust:100%;text-decoration:underline;display=
+:inline-block;-ms-text-size-adjust:100%;"><img alt=3D"LinkedIn" border=3D"0=
+" height=3D"14" src=3D"https://static.licdn.com/scds/common/u/images/email/=
+phoenix/logos/logo_phoenix_footer_gray_197x48_v1.png" width=3D"58" style=3D=
+"outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;display:block;te=
+xt-decoration:none;"></a></td> </tr> <tr> <td align=3D"center" style=3D"pad=
+ding:0 0 12px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-tabl=
+e-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"> <p style=3D"mar=
+gin:0;color:#737373;font-weight:400;font-size:12px;line-height:1.333;">=C2=
+=A9 2017 LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Du=
+blin 2. LinkedIn =C3=A9 um nome comercial registrado da LinkedIn Ireland Un=
+limited Company. LinkedIn e a logomarca do LinkedIn s=C3=A3o marcas registr=
+adas da LinkedIn.</p></td> </tr> </tbody> </table></td> </tr> </tbody> </ta=
+ble></td> </tr> </tbody> </table> </center></td> </tr> </tbody> </table> <i=
+mg src=3D"http://www.linkedin.com/emimp/ip_TjJ4NE1HWndMV28yWWpSb2NqbHRMWEZt=
+OlpXMWhhV3hmYlRKdFgybHVkbWwwWlY5emFXNW5iR1ZmTURFPTo=3D.gif" style=3D"outlin=
+e:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;wi=
+dth:1px;height:1px;"> </body> </html>
+------=_Part_740090_1878305919.1502652490528--
+

@@ -1,0 +1,122 @@
+Return-Path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id Ob+IL2fImVgnJgoAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Tue, 07 Feb 2017 11:15:19 -0200
+Return-path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 07 Feb 2017 11:15:19 -0200
+Received: from o9.mailsg.leadlovers.com ([167.89.30.234]:54739)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>)
+	id 1cb5c7-002oLE-LT
+	for marco@digitalfotoimagem.com.br; Tue, 07 Feb 2017 11:15:19 -0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=leadlovers.com.br; 
+	h=content-type:from:mime-version:subject:to:list-unsubscribe; 
+	s=m1; bh=G/SOOCvUhlzYxc459OlYyg/6/Oc=; b=CdmnvV7an8glGiWfV9Q7YW1
+	mu5Y2azzVoN/A2/fJTvPw4q5gvGjus/AIharbZdkUrys5MTx/uHRdkGlGf9gkAYp
+	SSz6G36dYCCiKNSQZA9h2BmmwvPSxfChrXGbzYLXokAWd9Oibwlqk9kPAJ/+JSNK
+	dMWWxhZvxdUMkKMLlF8U=
+Received: by filter0947p1mdw1.sendgrid.net with SMTP id filter0947p1mdw1-23665-5899C831-3
+        2017-02-07 13:14:25.433788708 +0000 UTC
+Received: from MjM4NDgwOQ (m3640.contabo.host [5.189.178.140])
+	by ismtpd0002p1lon1.sendgrid.net (SG) with HTTP id dgut8ZgITlqX4MnWZ1jtCA
+	Tue, 07 Feb 2017 13:14:24.966 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=954566fbc237ef2dae2ff86a8a3855f09ea1fc0317884fa7ef672afdeb4f
+Date: Tue, 07 Feb 2017 13:14:24 +0000
+From: "Paulo Gerhardt" <paulo.gerhardt@solbiz.com.br>
+Mime-Version: 1.0
+Subject: =?UTF-8?B?Vm9jw6ogY29uaGVjZSBlIHNhYmUgY29tbyB2ZW5jZXIgb3MgaW5pbWlnb3MgZGUgc3VhcyBtZXRhcyBlIG9iamV0aXZvcz8=?=
+To: <marco@digitalfotoimagem.com.br>
+Message-ID: <dgut8ZgITlqX4MnWZ1jtCA@ismtpd0002p1lon1.sendgrid.net>
+List-Unsubscribe: <https://u2384809.ct.sendgrid.net/wf/unsubscribe?upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiWoKQFOF-2FXBopiL-2BYaC-2B-2BVm2M8-2FWBdRAed3KBOVDaj47TpXpoQEJgUmJjQTIYF9epcHXet1IC9GxEmyV6xi-2BsRDRIJZA6vRq2dBFx-2FIg5mZaBRiTGTbK5FBIqhxw3t6ElA-2FqZlPkGPOLx4xv4nn1DWDUEN8Y2481ql8DxpbfTU8mU3e2d1yIoiJoz7pHlwOQwOdxtwtNn0zzcYonJvt-2FOOQ-3D-3D>, <mailto:unsubscribe@mailsg.leadlovers.com.br?subject=https://u2384809.ct.sendgrid.net/wf/unsubscribe*q*upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiWoKQFOF-2FXBopiL-2BYaC-2B-2BVm2M8-2FWBdRAed3KBOVDaj47TpXpoQEJgUmJjQTIYF9epcHXet1IC9GxEmyV6xi-2BsRDRIJZA6vRq2dBFx-2FIg5mZaBRiTGTbK5FBIqhxw3t6ElA-2FqZlPkGPOLx4xv4nn1DWDUEN8Y2481ql8DxpbfTU8mU3e2d1yIoiJoz7pHlwOQwOdxtwtNn0zzcYonJvt-2FOOQ-3D-3D>
+X-SG-EID: Hch+2AQw5UfQtHqV+P/3h94kWa/z3uc7aT9t1ffNJX6ejfdpfjs1c7IIdtNthFh98ZYEN1U5Six1d0
+ uCdNOqdkl2P1MZWAo5uRe7iVKrvNcqDWssq++xPh0Ix2mrvqzua3aZuHAnpLnzJWZbl7bCiHplxXfL
+ Us8I8qpNPGtsPskvfUn6Jxdy/6xHlXpLLw9hGI4UKL6Yp6mqWSX5f1AmM5ShugoI9oKvTlFpQCNNZj
+ Fsxoj4fNElLMVFkV/nuzKZ
+X-SG-ID: YDTqBOjidbCUo/ar1oAtZpOXuXivuhYuvzHH5n2oKlj/Rd6turXBk1/bDS985AX3
+
+--954566fbc237ef2dae2ff86a8a3855f09ea1fc0317884fa7ef672afdeb4f
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+=0D=0DOl=C3=A1 aqui =C3=A9 o Paulo Gerhardt!=0D=0D=0DQuero te avisar que o =
+meu amigo, que =C3=A9 especialista em lideran=C3=A7a e criador do M=C3=A9TO=
+DO TOOL (Treinamento e orienta=C3=A7=C3=A3o online para lideres) para gesto=
+res, est=C3=A1 dando uma AULA AO VIVO E GRATUITA!=0D=0D=0DNesta aula ele va=
+i te mostrar como derrotar o maior inimigo de tuas metas.=0D=0D=0DEntra aqu=
+i e faz tua inscri=C3=A7=C3=A3o agora.=0D=0D=0DAula ao vivo Quinta feira 09=
+/02/2017 =C3=A0s 20h 00min=0D=0D=0DVOC=C3=AA VAI APRENDER NESTA AULA AS 4 T=
+=C3=A1TICAS PARA DERROTAR O INIMIGO NUMERO 1 DAS METAS E OBJETIVOS.=0D=0D=
+=0D1 - Para vencer os inimigos das metas e objetivos;2 - Servem para gestor=
+es de empresas pequenas, m=C3=A9dias e grandes;3 - Como simplificar sua rot=
+ina; 4 - E muito mais...Viu? Vai ser sensacional, aproveita este conte=C3=
+=BAdopara come=C3=A7ar bem 2017.=0D=0DInscreva-se aqui agora.Abra=C3=A7os!P=
+aulo GerhardtCriador da Metodologia do Coaching de VendasClique aqui para n=
+=C3=A3o receber mais e-mails dessa lista (Unsubscribe).
+
+--954566fbc237ef2dae2ff86a8a3855f09ea1fc0317884fa7ef672afdeb4f
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE><table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" id=3D=
+"LLCenteredColumn" style=3D"border:none;"><tbody><tr><td style=3D"border:me=
+dium none;"><table class=3D"table01 k-table" style=3D"background-color:#fff=
+fff;margin:auto;width:650px;"><tbody><tr><td id=3D"LLCenteredColumn01" styl=
+e=3D"border:medium none;margin:0px;padding:20px;text-align:left;white-space=
+:normal;"><p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;line-height:n=
+ormal;"><span style=3D"font-size:14.0pt;font-family:'Arial','sans-serif';">=
+Ol&aacute; aqui &eacute; o Paulo Gerhardt!</span></p><p style=3D"margin-bot=
+tom:0cm;margin-bottom:.0001pt;line-height:normal;"></p><p style=3D"margin-b=
+ottom:0cm;margin-bottom:.0001pt;line-height:normal;"><span style=3D"font-si=
+ze:14.0pt;font-family:'Arial','sans-serif';">Quero te avisar que o meu amig=
+o, que &eacute; especialista em lideran&ccedil;a e criador do M&Eacute;TODO=
+ TOOL (<strong><em>Treinamento e orienta&ccedil;&atilde;o online para lider=
+es) </em></strong>para gestores, est&aacute; dando uma AULA AO VIVO E GRATU=
+ITA!</span></p><p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;line-hei=
+ght:normal;"></p><p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;line-h=
+eight:normal;"><span style=3D"font-size:14.0pt;font-family:'Arial','sans-se=
+rif';">Nesta aula ele vai te mostrar como derrotar o maior <strong><em>inim=
+igo de tuas metas</em></strong>.</span></p><p style=3D"margin-bottom:0cm;ma=
+rgin-bottom:.0001pt;line-height:normal;"></p><p style=3D"margin-bottom:0cm;=
+margin-bottom:.0001pt;line-height:normal;"><span style=3D"font-size:14.0pt;=
+font-family:'Arial','sans-serif';color:red;"><a href=3D"http://leadloverscl=
+ick08.com/redirect/redirect.aspx?A=3DR&l=3DBE58B54C-36A4-43C1-84BC-A1D299E8=
+DE68&u=3Da8826317-7d1c-4067-b191-9d9538cc38d1">Entra aqui e faz tua inscri&=
+ccedil;&atilde;o agora.</a></span></p><p style=3D"margin-bottom:0cm;margin-=
+bottom:.0001pt;line-height:normal;"></p><p style=3D"margin-bottom:0cm;margi=
+n-bottom:.0001pt;line-height:normal;"><span style=3D"font-size:14.0pt;font-=
+family:'Arial','sans-serif';color:black;">Aula ao vivo <br />Quinta feira 0=
+9/02/2017 &agrave;s 20h 00min</span></p><p style=3D"margin-bottom:0cm;margi=
+n-bottom:.0001pt;line-height:normal;"></p><p style=3D"margin-bottom:0cm;mar=
+gin-bottom:.0001pt;line-height:normal;"><strong><em><span style=3D"font-siz=
+e:14.0pt;font-family:'Arial','sans-serif';color:black;">VOC&Ecirc; VAI APRE=
+NDER NESTA AULA AS 4 T&Aacute;TICAS PARA DERROTAR O INIMIGO NUMERO 1 DAS ME=
+TAS E OBJETIVOS.</span></em></strong></p><p style=3D"margin-bottom:0cm;marg=
+in-bottom:.0001pt;line-height:normal;"></p><p style=3D"margin:0cm;margin-bo=
+ttom:.0001pt;line-height:normal;"><span style=3D"font-size:14.0pt;font-fami=
+ly:'Arial','sans-serif';color:black;">1 - Para vencer os inimigos das metas=
+ e objetivos;<br />2 - Servem para gestores de empresas pequenas, m&eacute;=
+dias e grandes;<br />3 - Como simplificar sua rotina; <br />4 - E muito mai=
+s...</span><br /><br /><span style=3D"font-size:14.0pt;font-family:'Arial',=
+'sans-serif';color:black;">Viu? Vai ser sensacional, aproveita este conte&u=
+acute;do<br />para come&ccedil;ar bem 2017.<br /></span></p><p style=3D"mar=
+gin:0cm;margin-bottom:.0001pt;line-height:normal;"><span style=3D"font-size=
+:14.0pt;font-family:'Arial','sans-serif';color:red;"><a href=3D"http://lead=
+loversclick08.com/redirect/redirect.aspx?A=3DR&l=3DBE58B54C-36A4-43C1-84BC-=
+A1D299E8DE68&u=3Da8826317-7d1c-4067-b191-9d9538cc38d1">Inscreva-se aqui ago=
+ra.</a></span><span style=3D"font-size:14.0pt;font-family:'Arial','sans-ser=
+if';"><br /><br />Abra&ccedil;os!<br />Paulo Gerhardt<br />Criador da Metod=
+ologia do Coaching de Vendas</span></p></td></tr></tbody></table></td></tr>=
+</tbody></table><a href=3D"http://leadloversclick08.com/redirect/redirect.a=
+spx?A=3DU&u=3Da8826317-7d1c-4067-b191-9d9538cc38d1" target=3D"_blank">Cliqu=
+e aqui para n&atilde;o receber mais e-mails dessa lista (Unsubscribe).</a><=
+br /><img alt=3D"" src=3D"http://leadloversclick08.com/redirect/redirect.as=
+px?A=3DV&u=3Da8826317-7d1c-4067-b191-9d9538cc38d1&IMG=3Dhttps://leadlovers.=
+com/content/images/1px.png" />
+
+--954566fbc237ef2dae2ff86a8a3855f09ea1fc0317884fa7ef672afdeb4f--

@@ -1,0 +1,634 @@
+Return-Path: <fernandozf@hotmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id +ZL5IDvqeFmSbAMAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Wed, 26 Jul 2017 16:15:07 -0300
+Return-path: <fernandozf@hotmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Wed, 26 Jul 2017 16:15:07 -0300
+Received: from mail-oln040092007036.outbound.protection.outlook.com ([40.92.7.36]:28343 helo=NAM03-CO1-obe.outbound.protection.outlook.com)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <fernandozf@hotmail.com>)
+	id 1daRlz-000xqA-1F
+	for marco@digitalfotoimagem.com.br; Wed, 26 Jul 2017 16:15:07 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=+sCdoJlPOrzR7I+XA6ArdpiP4JyvnuFug8xnIRKXbao=;
+ b=GB6xIjJ7FXMEVre/pL9HtzQ4H1+1oBi/G2J92fkfMM/5ab01lvgj5vnmVc5WnHTShMNJB1WOO80ri5cAzBVXK1uvevqUZUfYjwJXxEh8VV5omr5VsCVKThgJsREZkureJ8MMDwn9HTB+hKEVidDPANXH1XVLkHMhj5zHHEdIyxnUMvE3U9J/7zaF/3YbVesI6Z7CHLU/umMqd+546BWx0bUcNeAQoa0RQlXr9OWRdaLbwdD9uC5PsFYOhB6Oel7BsVQeBL0rVQ5+A4OCbLWSmdRTJugnLBEgJzRqbRWW4XfRqAPSIJ5jqnE+MfExsYkT1REfXL135CZM09RHpK7Cmg==
+Received: from CO1NAM03FT030.eop-NAM03.prod.protection.outlook.com
+ (10.152.80.52) by CO1NAM03HT188.eop-NAM03.prod.protection.outlook.com
+ (10.152.81.130) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.1282.16; Wed, 26
+ Jul 2017 19:14:19 +0000
+Received: from BN3PR18MB0610.namprd18.prod.outlook.com (10.152.80.58) by
+ CO1NAM03FT030.mail.protection.outlook.com (10.152.80.169) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.1.1282.16 via Frontend Transport; Wed, 26 Jul 2017 19:14:18 +0000
+Received: from BN3PR18MB0610.namprd18.prod.outlook.com ([10.165.116.140]) by
+ BN3PR18MB0610.namprd18.prod.outlook.com ([10.165.116.140]) with mapi id
+ 15.01.1282.021; Wed, 26 Jul 2017 19:14:18 +0000
+From: Fernando Ziesmann Fortes <fernandozf@hotmail.com>
+To: "andrelpgodoi@gmail.com" <andrelpgodoi@gmail.com>, "celso@gmail.com"
+	<celso@gmail.com>, "carlos.flaminio@gmail.com" <carlos.flaminio@gmail.com>,
+	"cmave96@gmail.com" <cmave96@gmail.com>, "demetriopendek@hotmail.com"
+	<demetriopendek@hotmail.com>, "eduardocamacho@uol.com.br"
+	<eduardocamacho@uol.com.br>, "ebernardinolopes@uol.com.br"
+	<ebernardinolopes@uol.com.br>, "everth@mixlav.com.br" <everth@mixlav.com.br>,
+	"szfaria@gmail.com" <szfaria@gmail.com>, Fernando Ziesmann Fortes
+	<fernandozf@hotmail.com>, "enghgomes@gmail.com" <enghgomes@gmail.com>,
+	"humberto.serrano@hotmail.com" <humberto.serrano@hotmail.com>,
+	"j.felix10@bol.com.br" <j.felix10@bol.com.br>, "jcl@tech-air.com.br"
+	<jcl@tech-air.com.br>, "ctt3843@egoshi.com.br" <ctt3843@egoshi.com.br>,
+	"marceloeloyfernandes@gmail.com" <marceloeloyfernandes@gmail.com>,
+	"parise@lermelhor.com.br" <parise@lermelhor.com.br>,
+	"marco@digitalfotoimagem.com.br" <marco@digitalfotoimagem.com.br>,
+	"agenda@coachingpravoce.com.br" <agenda@coachingpravoce.com.br>,
+	"marckopat@live.com" <marckopat@live.com>, "ncosta@usa.com" <ncosta@usa.com>,
+	"nelpendek@hotmail.com" <nelpendek@hotmail.com>,
+	"ricardocarvalho930@gmail.com.br" <ricardocarvalho930@gmail.com.br>,
+	"squintinoj@gmail.com" <squintinoj@gmail.com>, "wanderleyssamtos@gmail.com"
+	<wanderleyssamtos@gmail.com>, "alfanohi@gmail.com" <alfanohi@gmail.com>
+Subject: =?Windows-1252?Q?Sess=E3o_de_29/07_da_Pael:_Ordem_do_Dia?=
+Thread-Topic: =?Windows-1252?Q?Sess=E3o_de_29/07_da_Pael:_Ordem_do_Dia?=
+Thread-Index: AQHTBkJXyJBcPwLJiUmxjbyUlm+ufw==
+Date: Wed, 26 Jul 2017 19:14:18 +0000
+Message-ID: <BN3PR18MB06100DEF11852BD32912B3B1C8B90@BN3PR18MB0610.namprd18.prod.outlook.com>
+Accept-Language: pt-BR, en-US
+Content-Language: pt-BR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: gmail.com; dkim=none (message not signed)
+ header.d=none;gmail.com; dmarc=none action=none header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:6FD51BAC9F44D3E5A1E6B25C2B9DAB033A5E080AADD47997B91FF108D94F56B3;UpperCasedChecksum:76375178F174089665EF1978330C25B9926549F64A067A083EAEE6F69C4B55BC;SizeAsReceived:8366;Count:42
+x-tmn: [MRi3T46VRJG6ldA81Z+TP7zKJ10zl/aH]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;CO1NAM03HT188;7:GQ9cZkKIuCalug/c2RwejhWGaCUACctbPVuotJTyOOcP5qf2PdU0idJYOfMjTLTRumLiSDWpFMxweQIYh3LzDrmZKVMoNgBeVDGCQu32TZL8aJTETHKKFISQKYful6b2pvcZaPldP/u7pKVYzs1H8TdE3RKet5JkwRrjZ71R539dDyX2z50F4AOmD0s8y5KVDhFoJV0ntNMtQWifQ5NJk0lBiZxNrmUszfFcyrBV0LzG5zBlspDdU+LDdsqO3rg5DnrIWUtwZusb5gfx+2upN2T1GWAWXQfsyHOo7MQ6M1/wqUNgKWS3a9bCkx+c74vwEwkcXvmWD+PgHLDHAv52bTq5FHkCcIQC2X/6qP5B8OC4SouWb8OpfXY3qqrZAOcC20WS8I6xgTd6zqtdLPCeQ5jlZAQqUc3BhEopNsKtAfSc8S4NFAmvCJVkN1TPXlluB/dYihbFJzbDqsD67LI4F9yv81S9l37qLunEff9sitsOiwuCg1jniDOHieM0lXumCJG3wx6PqsUQGTlhvTzBxYUZShqFsziLenYYpbRRG28SYlfpUvcUGfro11tH78oRtYfj5AlnF/aS9K4Ks71PHARt0o/p/oeM0ICAGy0FQd82k6wxluRZSmorniLZfHZWAsFt2u6Ucp1VTY/ny4JWEDlMzqa9Waz9erF5zGlphuh2pcNLgTv7yTe91NmZAF+eMRZrJLr8Uk57F8ytZzXrQRok3/1ad/YvuOWELAH6IuatUTfRctSFR4N0qMCZ8IpQaPQmN4lv4ZTBS3/rrcooBQ==
+x-incomingheadercount: 42
+x-eopattributedmessage: 0
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:CO1NAM03HT188;H:BN3PR18MB0610.namprd18.prod.outlook.com;FPR:;SPF:None;LANG:pt;
+x-ms-office365-filtering-correlation-id: f2e7ad62-b4b9-4656-7321-08d4d45a8393
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(300000500095)(300135000095)(300000501095)(300135300095)(22001)(300000502095)(300135100095)(300000503095)(300135400095)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(201702181274)(2017031322350)(1601125374)(1603101448)(1701031045)(300000504095)(300135200095)(300000505095)(300135600095)(300000506095)(300135500095);SRVR:CO1NAM03HT188;
+x-ms-exchange-slblob-mailprops: GBVYZS+v7b2j48c9SDrzS5WNkyHUeQuyfo7bLRuLh0ciWWE0a+8idEdkpFF23LyDymfKIWFf4gWe/U/hHL4VCyxSeNtB6XDqnc/SCydEvuLD2K6bAKrOdjPUWDsy7ixN9Vv69mPEnSTam/AlmBrzURZsHJH9oxC+q0hQNixdClq5zBtLRgvVHlBcVQkeE7EsHKlpEi4nvQ/UN51s7BMotYDKtoktfU6vrd1f0b9qcpitQt81XQZ9352+56LVMec5LnIkJO7eQdyAUa6IWonKxkwT/alrOZvvAfONuuYoz4Zk/x4S6ueDxf5F3slHcqg2+eEtnjlkQ/JgP/RCuUk01JiktUzWPRqH6VC8V0EUKl/6rnfrvdb6GK9wrUyOcc6uZbqrEvoPh0wmrVvV9bzC/NSqeHEBqkmBiDUZfKiSbrrlphjmzLUnUS2nUU6oBr4anA0asvSPz/v+IsdtJds7AZk8hqjHnZ6/T9GTAZDVwt0xbYD48PqTem303O1mYSEMJj1yvtvnvGHHXo2vfSWKhHelmvIWbJTZldQWkKV0d1R92F4g9mMhKjqr6RWU5AWBJY2oYei2EsMUlYwCOZMJP7gUyuBpxhymkbmMiqCivOeiMFt42AwePJ0pcviqHfBWqvZ1IaGSENlTsMC+IYmCODX/YKTFxINzcHX8ygxPKq3WGGsG6rhLMcbE4YhOdv0L3AW+J8pgBiemoumnBNRxtnLTL5QazaN5eO02AUHW77d2vveXGoxGhDDrQuv3PhL02sDxlQJPf0wMoeCa7WCk53VkUoCN3OuIambaFGFYtu1tsx0mag6c7JSOibPEoRyNOjeOMUD0x7Y=
+x-ms-traffictypediagnostic: CO1NAM03HT188:
+x-exchange-antispam-report-test: UriScan:(166494164430575);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(444000031);SRVR:CO1NAM03HT188;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:CO1NAM03HT188;
+x-forefront-prvs: 038002787A
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BN3PR18MB06100DEF11852BD32912B3B1C8B90BN3PR18MB0610namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 26 Jul 2017 19:14:18.4768
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CO1NAM03HT188
+
+--_000_BN3PR18MB06100DEF11852BD32912B3B1C8B90BN3PR18MB0610namp_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Caros IIr.=B4. da CTT,
+
+A pedido do Deputado Estadual de nossa Loja, Ir.=B4. Patriniani, segue a =
+=EDntegra da convocat=F3ria com o resumo da Ordem do Dia da pr=F3xima sess=
+=E3o da Poderosa Assembleia Estadual Legislativa- PAEL, a ocorrer em 29/07.
+
+Fraternalmente,
+
+Ir.=B4. Fortes,.
+
+
+
+"VVen:.IIr:.DDep:.
+
+
+                                                                           =
+   De ordem do Eminente Presidente, Ir:. RAIMUNDO HERMES BARBOSA, rerratifi=
+cando =E0 CIRCULAR-PAEL/SECR.2017-2019/01, de 12.07.2017, remetemos em anex=
+o, para vosso conhecimento e aprecia=E7=E3o, os Processos abaixo relacionad=
+os  para serem apreciados na Ordem do Dia da  Sess=E3o Ordin=E1ria a ser re=
+alizada no pr=F3ximo dia 29 de julho de 2017, com in=EDcio =E0s 9:00 horas,=
+ no audit=F3rio do Sindicato dos Padeiros, sito =E0 Major Diogo n=BA 126 =
+=96 Bairro Bela Vista, no Or:.de S=E3o Paulo, com a seguinte ORDEM DO DIA:
+
+1.Processo 2017-2019/01 - Indica=E7=E3o do Il:.Ir:. DOUGLAS GARCIA NETO - C=
+IM 214657 =96 Membro ativo e regular da ARLS =93Cavaleiros de S=E3o Jorge=
+=94 - n=BA 3998, ao Or:.de S=E3o Paulo, como Conselheiro junto ao Egr=E9gio=
+ Tribunal Estadual de Contas do Grande Oriente de S=E3o Paulo, em substitui=
+=E7=E3o ao Ir:.Assis Mentor de Mello Filho, com mandato at=E9 2019. Interes=
+sado: Eminente Gr=E3o Mestre, Benedito Marques Ballouk Filho. Expediente an=
+exo.
+
+2.Processo 2017-2019/02 =96 Indica=E7=E3o dos IIL:.IIr:.OSCARLINO MOELLER -=
+ CIM 133481 =96 Membro ativo e regular da ARLS =93Fraternidade Judici=E1ria=
+=94 - n=BA 3614 ao Or:.de S=E3o Paulo, em recondu=E7=E3o, e FLORISVALDO ANT=
+ONIO FORENTINO JUNIOR =96 CIM 242681 =96 Membro ativo e regular da ARLS =93=
+Fraternidade Acad=EAmica Arte, Ci=EAncia e Trabalho=94 =96 n=BA 3272 ao Or:=
+.de Ibitinga, a ser nomeado na vaga do Il:.Ir:.Oldemar Azevedo,como ju=EDze=
+s, junto ao Egr=E9gio Tribunal de Justi=E7a Ma=E7=F4nica do Grande Oriente =
+de S=E3o Paulo, com mandatos at=E9 Junho 2020. Interessado: Eminente Gr=E3o=
+ Mestre, Benedito Marques Ballouk Filho. Expediente anexo.
+
+3.Processo 2017-2019/03 =96 Indica=E7=E3o dos IIL:.IIr:.JOS=C9 ANTONIO FERR=
+EIRA FILHO - CIM 167771 =96 Membro ativo e regular da ARLS =93Ac=E1cia de A=
+ru=E3=94 - n=BA 4037 ao Or:.de Mogi das Cruzes, a ser nomeado na vaga do Il=
+:.Ir:.Jos=E9 Geraldo de Lucena Soares, e MARCELO VIDA DA SILVA =96 CIM 1988=
+26 =96 Membro ativo e regular da ARLS =93Templ=E1rios da Fraternidade=94 =
+=96 n=BA 3757 ao Or:.de Campinas, a ser nomeado na vaga do Il:.Ir:.La=E9rci=
+o Laurelli,como ju=EDzes, junto ao Egr=E9gio Tribunal Estadual Eleitoral do=
+ Grande Oriente de S=E3o Paulo, com mandatos at=E9 Junho 2020.Interessado: =
+Eminente Gr=E3o Mestre, Benedito Marques Ballouk Filho. Expediente anexo.
+
+4.Processo 2017-2019/09 - Indica=E7=E3o do Il:.Ir:.NILTON SIQUEIRA DE MORAE=
+S (Vale do Tiet=EA 2494, Mogi das Cruzes), CIM 171775, a ser nomeado como C=
+onselheiro junto ao Egr:. Tribunal Estadual de Contas do Grande Oriente de =
+S=E3o Paulo, na vaga do Ir:.Reginaldo Martins de Assis, com mandato at=E9 2=
+020. Interessado: Mesa Diretora da PAEL. Expediente anexo.
+
+5.Processo 2017-2019/06 =96 Conv=EAnio m=E9dico que pretende a CLINICA MAGR=
+ASS S=C3O VICENTE firmar com o GOSP nos termos do artigo 49, X da constitui=
+=E7=E3o do Grande Oriente do Brasil, combinado com o artigo 23, XIX da Cons=
+titui=E7=E3o do Grande Oriente de S=E3o Paulo.Interessado: Eminente Gr=E3o =
+Mestre, Benedito Marques Ballouk Filho. Expediente anexo.
+
+6.Processo 2017-2019/07 =96 Conv=EAnio odontol=F3gico que pretende o CONSUL=
+T=D3RIO ODONT=D3LOGIO DIRCEU AGOSTINHO firmar com o GOSP nos termos do arti=
+go 49, X da constitui=E7=E3o do Grande Oriente do Brasil, combinado com o a=
+rtigo 23, XIX da Constitui=E7=E3o do Grande Oriente de S=E3o Paulo.Interess=
+ado: Eminente Gr=E3o Mestre, Benedito Marques Ballouk Filho. Expediente ane=
+xo.
+
+7.Processo 2017-2019/08 =96 Conv=EAnio de hospedagem que pretende o HOTEL M=
+AJESTIC e o HOTEL RECANTO BELA VISTA firmar com o GOSP nos termos do artigo=
+ 49, X da constitui=E7=E3o do Grande Oriente do Brasil, combinado com o art=
+igo 23, XIX da Constitui=E7=E3o do Grande Oriente de S=E3o Paulo. Interessa=
+do:Eminente Gr=E3o Mestre, Benedito Marques Ballouk Filho. Expediente anexo=
+.
+
+8. Outros assuntos, a crit=E9rio da Mesa Diretora.
+
+Expediente: Leitura dos Pedidos de Autoriza=E7=E3o Legislativa do Egr=E9gio=
+ Tribunal de Justi=E7a Ma=E7=F4nica do GOSP relativo aos processos:Processo=
+ 2017-2019/04 - Pedido de autoriza=E7=E3o legislativa para o efeito de pros=
+seguimento da Queixa Crime n=BA19/14, a permitir que seja processado e julg=
+ado o Ven:.Ir:.Dep:.RENATO LEMOS GUIMAR=C3ES =96 CIM 180184 (Cidade da Prai=
+a Grande 2841, Praia Grande) em conformidade com o disposto no artigo 14, p=
+ar=E1grafo 3=BA, da Constitui=E7=E3o do Grande Oriente de S=E3o Paulo; e do=
+Processo 2017-2019/05 - Pedido de autoriza=E7=E3o legislativa para o efeito=
+ de permitir que seja processado e julgado, a A=E7=E3o Ordin=E1ria Discipli=
+nar contra o Ven:.Ir:.Dep:. HAMILTON FERNANDO MORENO BERNAL =96 CIM 179369 =
+(Urim Tumin 4294, Capital) em conformidade com o disposto no artigo 14, par=
+=E1grafo 3=BA, da Constitui=E7=E3o do Grande Oriente de S=E3o Paulo.
+
+Est=E3o convocados para a posse os Deputados j=E1 diplomados pelo Egr:. Tri=
+bunal Estadual Eleitoral e devidamente notificados por esta Secretaria.
+
+No que concerne ao traje, queiram se ater ao artigo 56 do Regimento Interno=
+ e, ao artigo 20, II, quanto ao n=E3o comparecimento para a posse.
+De conformidade com o artigo 55 do Regimento Interno segue anexa a Ata da S=
+ess=E3o Ordin=E1ria de 27/05/2017.
+Solicitamos que toda e qualquer correspond=EAncia destinada =E0 PAEL seja e=
+ndere=E7ada aos nossos cuidados, ao endere=E7o: Pra=E7a Jo=E3o Mendes n=BA =
+42 Sobre Loja =96 S=E3o Paulo =96 SP. CEP. 01501-907. Outros contatos com a=
+ Secretaria podem ser feitos pelos endere=E7os eletr=F4nicos: armandosgf@pa=
+el-sp.org.br<mailto:armandosgf@pael-sp.org.br> / armando.stoianov@gmail.com=
+<mailto:armando.stoianov@gmail.com> ou pelos telefones:  (11) 94598-1400 / =
+(11) 99610-2626."
+
+
+Fraternalmente,
+
+
+
+ARMANDO STOIANOV GUIMAR=C3ES FILHO
+Secret=E1rio
+
+--
+Armando Stoianov Guimar=E3es Filho
+(11) 94598-1400
+(11) 99610-2626 (whatsapp)
+Skype: armando.stoianov
+http://www.pael-sp.org.br<http://www.pael-sp.com.br/>
+
+
+
+--_000_BN3PR18MB06100DEF11852BD32912B3B1C8B90BN3PR18MB0610namp_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size: 12pt; color: rgb(0, 0,=
+ 0); font-family: Calibri, Helvetica, sans-serif, EmojiFont, &quot;Apple Co=
+lor Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Segoe UI=
+ Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;" dir=3D"ltr">
+<p></p>
+<div align=3D"left" style=3D"font-family: Calibri, Helvetica, sans-serif, s=
+erif, EmojiFont; font-size: 16px; text-align: justify; margin-top: 0px; mar=
+gin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">Caros I=
+Ir.=B4. da CTT,</font></div>
+<div align=3D"left" style=3D"font-family: Calibri, Helvetica, sans-serif, s=
+erif, EmojiFont; font-size: 16px; text-align: justify; margin-top: 0px; mar=
+gin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><br>
+</font></div>
+<div align=3D"left" style=3D"font-family: Calibri, Helvetica, sans-serif, s=
+erif, EmojiFont; font-size: 16px; text-align: justify; margin-top: 0px; mar=
+gin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">A pedid=
+o do&nbsp;Deputado Estadual de nossa Loja, Ir.=B4. Patriniani, segue a =EDn=
+tegra da convocat=F3ria com o resumo da Ordem do Dia da pr=F3xima sess=E3o =
+da Poderosa Assembleia Estadual Legislativa- PAEL,
+ a ocorrer em 29/07.</font></div>
+<div align=3D"left" style=3D"font-family: Calibri, Helvetica, sans-serif, s=
+erif, EmojiFont; font-size: 16px; text-align: justify; margin-top: 0px; mar=
+gin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><br>
+</font></div>
+<div align=3D"left" style=3D"font-family: Calibri, Helvetica, sans-serif, s=
+erif, EmojiFont; font-size: 16px; text-align: justify; margin-top: 0px; mar=
+gin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">Fratern=
+almente,</font></div>
+<div align=3D"left" style=3D"font-family: Calibri, Helvetica, sans-serif, s=
+erif, EmojiFont; font-size: 16px; text-align: justify; margin-top: 0px; mar=
+gin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><br>
+</font></div>
+<div align=3D"left" style=3D"font-family: Calibri, Helvetica, sans-serif, s=
+erif, EmojiFont; font-size: 16px; text-align: justify; margin-top: 0px; mar=
+gin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">Ir.=B4.=
+ Fortes,.</font></div>
+<div align=3D"left" style=3D"font-family: Calibri, Helvetica, sans-serif, s=
+erif, EmojiFont; font-size: 16px; text-align: justify; margin-top: 0px; mar=
+gin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><br>
+</font></div>
+<div align=3D"left" style=3D"font-family: Calibri, Helvetica, sans-serif, s=
+erif, EmojiFont; font-size: 16px; text-align: justify; margin-top: 0px; mar=
+gin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><br>
+</font></div>
+<div align=3D"left" style=3D"font-family: Calibri, Helvetica, sans-serif, s=
+erif, EmojiFont; font-size: 16px; text-align: justify; margin-top: 0px; mar=
+gin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><br>
+</font></div>
+<div align=3D"left" style=3D"font-family: Calibri, Helvetica, sans-serif, s=
+erif, EmojiFont; font-size: 16px; text-align: justify; margin-top: 0px; mar=
+gin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">&quot;V=
+Ven:.IIr:.DDep:.</font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin: 0px 1.4pt 0px 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">&nbsp;<=
+/font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin: 0px 1.4pt 0px 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">&nbsp;<=
+/font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin: 0px 1.4pt 0px 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp; De ordem do Eminente Presidente, Ir:. RAIMUNDO HERMES BARBOSA, rerrat=
+ificando =E0&nbsp;</font><font style=3D"font-family: verdana, sans-serif, s=
+erif, EmojiFont;"><i>CIRCULAR-PAEL/SECR.2017-2019/01,
+ de 12.07.2017</i></font><font style=3D"font-family: verdana, sans-serif, s=
+erif, EmojiFont;">, remetemos em anexo, para vosso conhecimento e aprecia=
+=E7=E3o, os Processos abaixo relacionados &nbsp;para serem apreciados na&nb=
+sp;</font><font style=3D"font-family: verdana, sans-serif, serif, EmojiFont=
+;"><b>Ordem
+ do Dia</b></font><font style=3D"font-family: verdana, sans-serif, serif, E=
+mojiFont;">&nbsp;da &nbsp;</font><font style=3D"font-family: verdana, sans-=
+serif, serif, EmojiFont;"><b>Sess=E3o Ordin=E1ria&nbsp;</b></font><font sty=
+le=3D"font-family: verdana, sans-serif, serif, EmojiFont;">a
+ ser realizada no pr=F3ximo dia&nbsp;</font><font style=3D"font-family: ver=
+dana, sans-serif, serif, EmojiFont;"><b>29 de julho de 2017</b></font><font=
+ style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">, com in=EDc=
+io =E0s 9:00 horas, no audit=F3rio do Sindicato dos
+ Padeiros, sito =E0 Major Diogo n=BA 126 =96 Bairro Bela Vista, no Or:.de S=
+=E3o Paulo, com a seguinte&nbsp;</font><font style=3D"font-family: verdana,=
+ sans-serif, serif, EmojiFont;"><b><i>ORDEM DO DIA</i></b></font><font styl=
+e=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b>:</b></font></=
+div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin: 0px 1.4pt 0px 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">&nbsp;<=
+/font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b>1.Pr=
+ocesso 2017-2019/01 - Indica=E7=E3o&nbsp;</b></font><font style=3D"font-fam=
+ily: verdana, sans-serif, serif, EmojiFont;">do Il:.Ir:. DOUGLAS GARCIA NET=
+O - CIM 214657 =96 Membro ativo e regular da ARLS
+ =93Cavaleiros de S=E3o Jorge=94 - n=BA 3998, ao Or:.de S=E3o Paulo, como C=
+onselheiro junto ao Egr=E9gio Tribunal Estadual de Contas do Grande Oriente=
+ de S=E3o Paulo, em&nbsp;</font><font style=3D"font-family: verdana, sans-s=
+erif, serif, EmojiFont;"><b><i>substitui=E7=E3o</i></b></font><font style=
+=3D"font-family: verdana, sans-serif, serif, EmojiFont;">&nbsp;ao
+ Ir:.</font><font style=3D"font-family: verdana, sans-serif, serif, EmojiFo=
+nt;">Assis Mentor de Mello Filho, com mandato at=E9 2019. Interessado: Emin=
+ente Gr=E3o Mestre, Benedito Marques Ballouk Filho.&nbsp;</font><font style=
+=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><i>Expediente
+ anexo.</i></font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b>&nbs=
+p;</b></font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b>2.Pr=
+ocesso 2017-2019/02 =96 Indica=E7=E3o&nbsp;</b></font><font style=3D"font-f=
+amily: verdana, sans-serif, serif, EmojiFont;">dos IIL:.IIr:.OSCARLINO MOEL=
+LER - CIM 133481 =96 Membro ativo e regular da ARLS
+ =93Fraternidade Judici=E1ria=94 - n=BA 3614 ao Or:.</font><font style=3D"f=
+ont-family: verdana, sans-serif, serif, EmojiFont;">de S=E3o Paulo,</font><=
+font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b><i>&n=
+bsp;em recondu=E7=E3o</i></b></font><font style=3D"font-family: verdana, sa=
+ns-serif, serif, EmojiFont;">,
+ e FLORISVALDO ANTONIO FORENTINO JUNIOR =96 CIM 242681 =96 Membro ativo e r=
+egular da ARLS =93Fraternidade Acad=EAmica Arte, Ci=EAncia e Trabalho=94 =
+=96 n=BA 3272 ao Or:.de Ibitinga,</font><font style=3D"font-family: verdana=
+, sans-serif, serif, EmojiFont;"><b><i>&nbsp;a ser nomeado</i></b></font><f=
+ont style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">&nbsp;na
+ vaga do Il:.</font><font style=3D"font-family: verdana, sans-serif, serif,=
+ EmojiFont;">Ir:.</font><font style=3D"font-family: verdana, sans-serif, se=
+rif, EmojiFont;">Oldemar Azevedo,como ju=EDzes, junto ao Egr=E9gio Tribunal=
+ de Justi=E7a Ma=E7=F4nica do Grande Oriente de
+ S=E3o Paulo, com mandatos at=E9 Junho 2020. Interessado: Eminente Gr=E3o M=
+estre, Benedito Marques Ballouk Filho.&nbsp;</font><font style=3D"font-fami=
+ly: verdana, sans-serif, serif, EmojiFont;"><i>Expediente anexo.</i></font>=
+</div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b>&nbs=
+p;</b></font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b>3.Pr=
+ocesso 2017-2019/03 =96 Indica=E7=E3o&nbsp;</b></font><font style=3D"font-f=
+amily: verdana, sans-serif, serif, EmojiFont;">dos IIL:.IIr:.JOS=C9 ANTONIO=
+ FERREIRA FILHO - CIM 167771 =96 Membro ativo e regular
+ da ARLS =93Ac=E1cia de Aru=E3=94 - n=BA 4037 ao Or:.de Mogi das Cruzes,</f=
+ont><font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b>=
+<i>&nbsp;a ser nomeado</i></b></font><font style=3D"font-family: verdana, s=
+ans-serif, serif, EmojiFont;">&nbsp;na vaga do Il:.Ir:.Jos=E9
+ Geraldo de Lucena Soares, e MARCELO VIDA DA SILVA =96 CIM 198826 =96 Membr=
+o ativo e regular da ARLS =93Templ=E1rios da Fraternidade=94 =96 n=BA 3757 =
+ao Or:.de Campinas,</font><font style=3D"font-family: verdana, sans-serif, =
+serif, EmojiFont;"><b><i>&nbsp;a ser nomeado</i></b></font><font style=3D"f=
+ont-family: verdana, sans-serif, serif, EmojiFont;">&nbsp;na
+ vaga do Il:.Ir:.La=E9rcio Laurelli,como ju=EDzes, junto ao Egr=E9gio Tribu=
+nal Estadual Eleitoral do Grande Oriente de S=E3o Paulo, com mandatos at=E9=
+ Junho 2020.Interessado: Eminente Gr=E3o Mestre, Benedito Marques Ballouk F=
+ilho.&nbsp;</font><font style=3D"font-family: verdana, sans-serif, serif, E=
+mojiFont;"><i>Expediente
+ anexo.</i></font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b>&nbs=
+p;</b></font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b>4.Pr=
+ocesso 2017-2019/09 - Indica=E7=E3o&nbsp;</b></font><font style=3D"font-fam=
+ily: verdana, sans-serif, serif, EmojiFont;">do Il:.Ir:.NILTON SIQUEIRA DE =
+MORAES (Vale do Tiet=EA 2494, Mogi das Cruzes),
+ CIM 171775,&nbsp;</font><font style=3D"font-family: verdana, sans-serif, s=
+erif, EmojiFont;"><b><i>a ser nomeado</i></b></font><font style=3D"font-fam=
+ily: verdana, sans-serif, serif, EmojiFont;">&nbsp;como Conselheiro junto a=
+o Egr:. Tribunal Estadual de Contas do Grande
+ Oriente de S=E3o Paulo, na vaga do Ir:.Reginaldo Martins de Assis, com man=
+dato at=E9 2020. Interessado: Mesa Diretora da PAEL.&nbsp;</font><font styl=
+e=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><i>Expediente ane=
+xo.</i></font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b>&nbs=
+p;</b></font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b>5.Pr=
+ocesso 2017-2019/06 =96 Conv=EAnio&nbsp;</b></font><font style=3D"font-fami=
+ly: verdana, sans-serif, serif, EmojiFont;">m=E9dico que pretende a CLINICA=
+ MAGRASS S=C3O VICENTE firmar com o GOSP nos termos
+ do artigo 49, X da constitui=E7=E3o do Grande Oriente do Brasil, combinado=
+ com o artigo 23, XIX da Constitui=E7=E3o do Grande Oriente de S=E3o Paulo.=
+Interessado: Eminente Gr=E3o Mestre, Benedito Marques Ballouk Filho.&nbsp;<=
+/font><font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><=
+i>Expediente
+ anexo.</i></font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b>&nbs=
+p;</b></font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b>6.Pr=
+ocesso 2017-2019/07 =96 Conv=EAnio&nbsp;</b></font><font style=3D"font-fami=
+ly: verdana, sans-serif, serif, EmojiFont;">odontol=F3gico que pretende o C=
+ONSULT=D3RIO ODONT=D3LOGIO DIRCEU AGOSTINHO firmar
+ com o GOSP nos termos do artigo 49, X da constitui=E7=E3o do Grande Orient=
+e do Brasil, combinado com o artigo 23, XIX da Constitui=E7=E3o do Grande O=
+riente de S=E3o Paulo.Interessado: Eminente Gr=E3o Mestre, Benedito Marques=
+ Ballouk Filho.&nbsp;</font><font style=3D"font-family: verdana, sans-serif=
+, serif, EmojiFont;"><i>Expediente
+ anexo.</i></font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b>&nbs=
+p;</b></font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b>7.Pr=
+ocesso 2017-2019/08 =96 Conv=EAnio&nbsp;</b></font><font style=3D"font-fami=
+ly: verdana, sans-serif, serif, EmojiFont;">de hospedagem que pretende o HO=
+TEL MAJESTIC e o HOTEL RECANTO BELA VISTA firmar
+ com o GOSP nos termos do artigo 49, X da constitui=E7=E3o do Grande Orient=
+e do Brasil, combinado com o artigo 23, XIX da Constitui=E7=E3o do Grande O=
+riente de S=E3o Paulo. Interessado:Eminente Gr=E3o Mestre, Benedito Marques=
+ Ballouk Filho.&nbsp;</font><font style=3D"font-family: verdana, sans-serif=
+, serif, EmojiFont;"><i>Expediente
+ anexo.</i></font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b>&nbs=
+p;</b></font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b>8.</=
+b></font><font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;=
+">&nbsp;Outros assuntos, a crit=E9rio da Mesa Diretora.</font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+&nbsp;</div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b>Expe=
+diente</b></font><font style=3D"font-family: verdana, sans-serif, serif, Em=
+ojiFont;">:&nbsp;</font><font style=3D"font-family: verdana, sans-serif, se=
+rif, EmojiFont;"><i>Leitura dos Pedidos de
+ Autoriza=E7=E3o Legislativa do Egr=E9gio Tribunal de Justi=E7a Ma=E7=F4nic=
+a do GOSP relativo aos processos:</i></font><font style=3D"font-family: ver=
+dana, sans-serif, serif, EmojiFont;"></font><font style=3D"font-family: ver=
+dana, sans-serif, serif, EmojiFont;"><b>Processo
+ 2017-2019/04 - Pedido de autoriza=E7=E3o legislativa&nbsp;</b></font><font=
+ style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">para o efeit=
+o de prosseguimento da Queixa Crime n=BA19/14, a permitir que seja processa=
+do e julgado o Ven:.Ir:.Dep:.RENATO LEMOS GUIMAR=C3ES
+ =96 CIM 180184 (Cidade da Praia Grande 2841, Praia Grande) em conformidade=
+ com o disposto no artigo 14, par=E1grafo 3=BA, da Constitui=E7=E3o do Gran=
+de Oriente de S=E3o Paulo</font><font style=3D"font-family: verdana, sans-s=
+erif, serif, EmojiFont;"><i>;&nbsp;</i></font><font style=3D"font-family: v=
+erdana, sans-serif, serif, EmojiFont;">e
+ do</font><font style=3D"font-family: verdana, sans-serif, serif, EmojiFont=
+;"><b>Processo 2017-2019/05 - Pedido de autoriza=E7=E3o legislativa&nbsp;</=
+b></font><font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;=
+">para o efeito de permitir que seja processado
+ e julgado, a A=E7=E3o Ordin=E1ria Disciplinar contra o Ven:.Ir:.Dep:. HAMI=
+LTON FERNANDO MORENO BERNAL =96 CIM 179369 (Urim Tumin 4294, Capital) em co=
+nformidade com o disposto no artigo 14, par=E1grafo 3=BA, da Constitui=E7=
+=E3o do Grande Oriente de S=E3o Paulo.</font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;</font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">Est=E3o=
+ convocados para a posse os Deputados j=E1 diplomados pelo Egr:. Tribunal E=
+stadual Eleitoral e&nbsp;</font><font style=3D"font-family: verdana, sans-s=
+erif, serif, EmojiFont;"><i>devidamente notificados
+ por esta Secretaria</i></font><font style=3D"font-family: verdana, sans-se=
+rif, serif, EmojiFont;">.</font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">&nbsp;<=
+/font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><b>No q=
+ue concerne ao traje</b></font><font style=3D"font-family: verdana, sans-se=
+rif, serif, EmojiFont;">, queiram se ater ao artigo 56 do Regimento Interno=
+&nbsp;</font><font style=3D"font-family: verdana, sans-serif, serif, EmojiF=
+ont;"><b>e</b></font><font style=3D"font-family: verdana, sans-serif, serif=
+, EmojiFont;">,
+ ao artigo 20, II,&nbsp;</font><font style=3D"font-family: verdana, sans-se=
+rif, serif, EmojiFont;"><b>quanto ao n=E3o comparecimento para a posse</b><=
+/font><font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">.=
+</font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">De conf=
+ormidade com o artigo 55 do Regimento Interno segue anexa a Ata da Sess=E3o=
+ Ordin=E1ria de 27/05/2017.</font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">Solicit=
+amos que</font><font style=3D"font-family: verdana, sans-serif, serif, Emoj=
+iFont;"><b>&nbsp;toda e qualquer correspond=EAncia destinada =E0 PAEL&nbsp;=
+</b></font><font style=3D"font-family: verdana, sans-serif, serif, EmojiFon=
+t;">seja
+ endere=E7ada aos nossos cuidados, ao endere=E7o</font><font style=3D"font-=
+family: verdana, sans-serif, serif, EmojiFont;"><b>:&nbsp;</b></font><font =
+style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">Pra=E7a Jo=E3=
+o Mendes n=BA 42 Sobre Loja =96 S=E3o Paulo =96 SP. CEP.
+ 01501-907.&nbsp;</font><font style=3D"font-family: verdana, sans-serif, se=
+rif, EmojiFont;"><b>Outros contatos com a Secretaria&nbsp;</b></font><font =
+style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">podem ser fei=
+tos pelos endere=E7os eletr=F4nicos:&nbsp;</font><a href=3D"mailto:armandos=
+gf@pael-sp.org.br" target=3D"_blank" rel=3D"noopener noreferrer"><font styl=
+e=3D"font-family: verdana, sans-serif, serif, EmojiFont;">armandosgf@pael-s=
+p.org.br</font></a><font style=3D"font-family: verdana, sans-serif, serif, =
+EmojiFont;">&nbsp;/&nbsp;</font><a href=3D"mailto:armando.stoianov@gmail.co=
+m" target=3D"_blank" rel=3D"noopener noreferrer"><font style=3D"font-family=
+: verdana, sans-serif, serif, EmojiFont;">armando.stoianov@gmail.com</font>=
+</a><font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">&nb=
+sp;ou
+ pelos telefones:&nbsp; (11) 94598-1400 / (11) 99610-2626.&quot;</font></di=
+v>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">&nbsp;<=
+/font></div>
+<div align=3D"justify" style=3D"font-family: Calibri, Helvetica, sans-serif=
+, serif, EmojiFont; font-size: 16px; margin-top: 0px; margin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">&nbsp;<=
+/font></div>
+<div align=3D"center" style=3D"font-family: Calibri, Helvetica, sans-serif,=
+ serif, EmojiFont; font-size: 16px; text-align: center; margin-top: 0px; ma=
+rgin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">Fratern=
+almente,</font></div>
+<div align=3D"center" style=3D"font-family: Calibri, Helvetica, sans-serif,=
+ serif, EmojiFont; font-size: 16px; text-align: center; margin-top: 0px; ma=
+rgin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">&nbsp;<=
+/font></div>
+<div align=3D"center" style=3D"font-family: Calibri, Helvetica, sans-serif,=
+ serif, EmojiFont; font-size: 16px; text-align: center; margin-top: 0px; ma=
+rgin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">&nbsp;<=
+/font></div>
+<div align=3D"center" style=3D"font-family: Calibri, Helvetica, sans-serif,=
+ serif, EmojiFont; font-size: 16px; text-align: center; margin-top: 0px; ma=
+rgin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">&nbsp;<=
+/font></div>
+<div align=3D"center" style=3D"font-family: Calibri, Helvetica, sans-serif,=
+ serif, EmojiFont; font-size: 16px; text-align: center; margin-top: 0px; ma=
+rgin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;">ARMANDO=
+ STOIANOV GUIMAR=C3ES FILHO</font></div>
+<div align=3D"center" style=3D"font-family: Calibri, Helvetica, sans-serif,=
+ serif, EmojiFont; font-size: 16px; text-align: center; margin-top: 0px; ma=
+rgin-bottom: 0px;">
+<font style=3D"font-family: verdana, sans-serif, serif, EmojiFont;"><i>Secr=
+et=E1rio</i></font></div>
+<div style=3D"font-family: Calibri, Helvetica, sans-serif, serif, EmojiFont=
+; font-size: 16px;">
+&nbsp;</div>
+<span style=3D"font-family: Calibri, Helvetica, sans-serif, serif, EmojiFon=
+t; font-size: 16px;">--&nbsp;</span><br style=3D"font-family: Calibri, Helv=
+etica, sans-serif, serif, EmojiFont; font-size: 16px;">
+<div style=3D"font-family: Calibri, Helvetica, sans-serif, serif, EmojiFont=
+; font-size: 16px;">
+<div>
+<div>Armando Stoianov Guimar=E3es Filho<br>
+(11) 94598-1400</div>
+(11) 99610-2626 (whatsapp)</div>
+Skype: armando.stoianov<br>
+<a href=3D"http://www.pael-sp.com.br/" target=3D"_blank" rel=3D"noopener no=
+referrer">http://www.pael-sp.org.br</a><br>
+<div>&nbsp;</div>
+</div>
+<br>
+<p></p>
+</div>
+</body>
+</html>
+
+--_000_BN3PR18MB06100DEF11852BD32912B3B1C8B90BN3PR18MB0610namp_--

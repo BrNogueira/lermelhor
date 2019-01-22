@@ -1,0 +1,142 @@
+#slice1 , #slice2, #slice3, #slice4, #slice5, #slice6, #slice7, #slice8, #slice9, #slice10 {
+  stroke: black;
+}
+
+path {
+  fill: white;
+  stroke: black;
+}
+
+.form-text {
+  font-size: 1.5rem;
+  padding: 5px;
+  margin-bottom: .5rem;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.2;
+  color: inherit;
+  margin-top: 10px;
+  margin-left: 100px;
+
+}
+.roda-text {
+  position: absolute;
+  color: #000;
+  font-size: 25px;
+  border: 1px solid #8d9aa6;
+}
+
+.dive{
+   position: absolute;
+   left: 49%;
+   top: 20px;
+}
+
+.svge{
+   text-align: center;
+   position: absolute;
+   top: 100px;
+   left: 0;
+   transform-origin: 3% 74%;
+   clip-path: polygon(2% 74%, 72% 21%, 100% 0%, 100% 0%, 100% 81%);
+}
+.op-1 {
+  position: absolute;
+  top: 10px;
+  left: -70px;
+  width: 150px;
+  text-align: center;
+}
+
+.op-2 {
+  text-align: center;
+  position: absolute;
+  top: 60px;
+  left: 170px;
+  width: 150px;
+}
+
+.op-3 {
+  text-align: center;
+  position: absolute;
+  top: 270px;
+  left: 330px;
+}
+
+.op-4 {
+  text-align: center;
+  position: absolute;
+  top: 470px;
+  left: 340px;
+}
+
+.op-5 {
+  text-align: center;
+  position: absolute;
+  top: 660px;
+  left: 220px;
+  width: 120px;
+}
+
+.op-6 {
+  text-align: center;
+  position: absolute;
+  top: 750px;
+  right: -120px;
+  width: 220px;
+}
+
+.op-7 {
+  text-align: center;
+  position: absolute;
+  top: 690px;
+  right: 130px;
+  width: 180px;
+}
+
+.op-8 {
+  text-align: center;
+  position: absolute;
+  top: 520px;
+  right: 280px;
+  width: 180px;
+}
+
+.op-9 {
+  text-align: center;
+  position: absolute;
+  top: 260px;
+  right: 320px;
+  width: 180px;
+}
+
+
+path:hover {
+  cursor: pointer;
+}
+
+.button-col {
+  justify-content: center;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  top: 710px;
+}
+
+.button-col .print-btn {
+  padding: 10px 85px;
+    border: 3px solid #f16c20;
+    border-color: #f16c20;
+    border-radius: 30px;
+    color: #f16c20;
+    background: rgba(241,108,32,0.4);
+    font-size: 20px;
+    white-space: initial;
+    text-decoration: none;
+}
+.print-btn:hover {
+  border-color: #f16c20;
+  color: #fff;
+  background: #f16c20;
+  text-decoration: none;
+}

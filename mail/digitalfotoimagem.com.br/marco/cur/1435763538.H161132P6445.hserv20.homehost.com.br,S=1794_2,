@@ -1,0 +1,45 @@
+Return-path: <comercial@homehost.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Wed, 01 Jul 2015 12:12:18 -0300
+Received: from mail.homehost.com.br ([177.19.155.131]:51285)
+	by hserv20.homehost.com.br with esmtp (Exim 4.85)
+	(envelope-from <comercial@homehost.com.br>)
+	id 1ZAJgP-0001fh-Jr
+	for marco@digitalfotoimagem.com.br; Wed, 01 Jul 2015 12:12:17 -0300
+Received: from homehost.com.br (www.homehost.com.br [177.85.97.13])
+	by mail.homehost.com.br (Postfix) with SMTP id 77E104F811A1;
+	Wed,  1 Jul 2015 12:21:20 -0300 (BRT)
+DKIM-Filter: OpenDKIM Filter v2.9.0 mail.homehost.com.br 77E104F811A1
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=homehost.com.br;
+	s=default; t=1435764080;
+	bh=HcGjLej2Ix52jhD+DhTyYRgFw0DdqySRrN52f/shV0k=;
+	h=To:Cc:From:Subject;
+	b=IISLah0mpE+SlkOZI+QLR57XNbPS6N6pRvm4iVglzNDCDUBQ/s+mnj+3QmSUI6VGv
+	 2oOWCrkwA+gIeB+ksnKyMPma2TX7ttG+qjYVISl6qGelrL+6SEmXktoLbgx1c1sqgX
+	 78RoDu9UozinJW9uYWVhOn37lgaNJzvms1xYKR7s=
+To: marco@digitalfotoimagem.com.br
+Cc: comercial@homehost.com.br
+From: comercial@homehost.com.br
+Subject: Fatura anual de hospedagem - WWW.DIGITALFOTOIMAGEM.COM.BR
+Mime-Version: 1.0
+Content-type: text/plain; charset=iso-8859-1
+
+Marco,
+
+Segue sua fatura anual referente a hospedagem do site WWW.DIGITALFOTOIMAGEM.COM.BR .
+
+Para gerar o boleto, acesse o link abaixo:
+
+http://www.homehost.com.br/bm.php?p=71730221&u=16744
+
+Obs: caso voce nao consiga visualizar, copie e cole a linha a cima em  navegador.
+
+Obs2: pagavel em qualquer banco ate a data do vencimento. Apos esta data, o pagamento so pode ser realizado nas agencias Itau.
+
+Voce tambem pode gerar uma segunda via desta fatura a qualquer momento atraves de nosso site, na opcao Suporte.
+
+Atenciosamente,
+Homehost - Departamento Comercial
+http://www.homehost.com.br
+
+

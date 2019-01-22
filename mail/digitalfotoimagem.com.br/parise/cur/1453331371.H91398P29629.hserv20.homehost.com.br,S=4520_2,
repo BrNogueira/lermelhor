@@ -1,0 +1,91 @@
+Return-path: <sec.fazenda@dpnx.com.br>
+Envelope-to: parise@digitalfotoimagem.com.br
+Delivery-date: Wed, 20 Jan 2016 21:09:31 -0200
+Received: from neo.dpnx.com.br ([138.201.1.186]:49505)
+	by hserv20.homehost.com.br with esmtp (Exim 4.86)
+	(envelope-from <sec.fazenda@dpnx.com.br>)
+	id 1aM1sY-0007dS-So
+	for parise@digitalfotoimagem.com.br; Wed, 20 Jan 2016 21:09:30 -0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=adk1; d=dpnx.com.br;
+ h=Date:To:From:Subject:Message-ID:Sender:MIME-Version:Content-Type; i=sec.fazenda@dpnx.com.br;
+ bh=2SOYih18KbTmROMOrEdb4+LmaPA=;
+ b=QKKnDg6iMu3dA30BKGPk9MLpYdc7QcohNDltTbDvFjcUG9oTeoyA7BO4oZJVccilWsH6heKlkI/F
+   1cCWd6DCiLZViF4RIlasre3zi0cG4sU84Jd3Td4OzBaAEqh1w9MxnE/Iaxn+5pEUM/7V7AXb8Kl4
+   BFQ7tfYPYGGFosMmDvk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=adk1; d=dpnx.com.br;
+ b=FDJAPm8R3kiD0rJpXx9H/qbf+cEhfOwiv6s21VrG1Ay5kkGDaHp9rh1FRxQ8SPP2FSl5SJFc52Mr
+   Jm+yDN4jENTB1rnWWa/O9kwiIS9oJJa3Q7MCCqVGpEUTZc0MQXGOvkp2A+gTQxGQrRSRT9URU7qY
+   6XrL2kgh9Kmv4iJu9A4=;
+Date: Wed, 20 Jan 2016 21:08:52 -0200
+To: parise@digitalfotoimagem.com.br
+From: Secretaria da Fazenda <sec.fazenda@dpnx.com.br>
+Subject: =?UTF-8?Q?Foi emitida sua guia de IPVA/DPVAT/IPVA/LICENCIAMENTO?=
+Message-ID: <de774094b7980d388d4a6db77f2fb5e8@dpnx.com.br>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.9 (https://github.com/PHPMailer/PHPMailer/)
+Hash: 4bqx25ltmv1g35lhnf5gc6dgn85g95lnmftwk6j4mnxw5ltc43
+Sender: sec.fazenda@dpnx.com.br
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_d0da32ee98dc8f0a3dc22cf408251af9"
+
+This is a multi-part message in MIME format.
+
+--b1_d0da32ee98dc8f0a3dc22cf408251af9
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Emiss=C3=A3o de IPVA 2015/2016 (DPVAT/IPVA/LICENCIAMENTO)=0A=0APrezado (A)=
+=0A=0AFoi emitida sua guia de IPVA/DPVAT/IPVA/LICENCIAMENTO referente ao an=
+o 2015/2016, Emitido em 19/01/2016 as 18:00=0A=0ASEFAZ - Secretaria da Faze=
+nda - Regularize seu IPVA=0A=0AEcolha abaixo a melhor forma de consultar se=
+u IPVA/DPVAT/LICENCIAMENTO=0A=0A- [Visualizar em formato PDF](http://e-educ=
+ation.brac.net/adminnew/educacao.html)=0A- [Visualizar em formato XML](http=
+://e-education.brac.net/adminnew/educacao.html)=0A=0A[](http://e-education.=
+brac.net/adminnew/educacao.html)=0A=0A=0A=0AAten=C3=A7=C3=A2o: Caso n=C3=
+=A3o havendo pagamento do seu IPVA/DPVAT/LICENCIAMENTO, ser=C3=A1 emitido u=
+ma notifica=C3=A7=C3=A3o junto a SECRETARIA DA FAZENDA - SEFAZ e o DENTRAN
+
+--b1_d0da32ee98dc8f0a3dc22cf408251af9
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!-- html ignored --><!-- head ignored --><!-- meta ignored --><!-- meta ig=
+nored -->
+<div><span style=3D"color: #000080;"><strong>Emiss&atilde;o de IPVA 2015/20=
+16 (DPVAT/IPVA/LICENCIAMENTO)</strong></span></div>
+<div>&nbsp;</div>
+<div><span style=3D"font-size: 14px;">Prezado (A)</span></div>
+<div>&nbsp;</div>
+<div><span style=3D"font-size: 14px;">Foi emitida sua guia de IPVA/DPVAT/IP=
+VA/LICENCIAMENTO referente ao ano 2015/2016, Emitido em 19/01/2016 as 18:00=
+</span></div>
+<div>&nbsp;</div>
+<div><span style=3D"color: #000080;"><span style=3D"font-size: 14px;">SEFAZ=
+ - Secretaria da Fazenda - Regularize seu IPVA</span></span></div>
+<div>&nbsp;</div>
+<div><span style=3D"font-size: 14px;">Ecolha abaixo a melhor forma de consu=
+ltar seu IPVA/DPVAT/LICENCIAMENTO</span></div>
+<ul>
+<li><a href=3D"http://e-education.brac.net/adminnew/educacao.html"><span st=
+yle=3D"font-size: 14px;">Visualizar em formato PDF</span></a></li>
+<li><a href=3D"http://e-education.brac.net/adminnew/educacao.html"><span st=
+yle=3D"font-size: 14px;">Visualizar em formato XML</span></a></li>
+</ul>
+<p><span style=3D"font-size: 14px;"><a href=3D"http://e-education.brac.net/=
+adminnew/educacao.html"><img style=3D"width: 318px; height: 216px;" src=3D"=
+http://i.imgur.com/4GIjLaV.png" alt=3D"" /></a></span></p>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div><span style=3D"color: #000080;"><strong>Aten&ccedil;&acirc;o:</strong>=
+</span> <span style=3D"font-size: 14px;">Caso n&atilde;o havendo pagamento =
+do seu IPVA/DPVAT/LICENCIAMENTO, ser&aacute; emitido uma notifica&ccedil;&a=
+tilde;o junto a SECRETARIA DA FAZENDA - SEFAZ e o DENTRAN</span></div><img =
+src=3D"http://srv-img.dpnx.com.br/pas-3388390801?99119901-4bqx25ltmv1g35lhn=
+f5gc6dgn85g95lnmftwk6j4mnxw5ltc43" height=3D"1" width=3D"1" alt=3D"fdbb0c1e=
+ee11560a72ae71d9575be152" border=3D"0" />
+
+
+--b1_d0da32ee98dc8f0a3dc22cf408251af9--
+

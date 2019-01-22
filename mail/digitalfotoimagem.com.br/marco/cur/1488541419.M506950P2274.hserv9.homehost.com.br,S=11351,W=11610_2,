@@ -1,0 +1,259 @@
+Return-Path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id yZQeG+tWuVjiCAAAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Fri, 03 Mar 2017 08:43:39 -0300
+Return-path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Fri, 03 Mar 2017 08:43:39 -0300
+Received: from e.gospmail.org.br ([177.139.181.238]:60163 helo=gospmail.org.br)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>)
+	id 1cjlcY-0000eU-IH
+	for marco@digitalfotoimagem.com.br; Fri, 03 Mar 2017 08:43:39 -0300
+Received: from localhost (e [127.0.0.1])
+	by gospmail.org.br (Postfix) with ESMTP id D2D8E1C25925
+	for <marco@digitalfotoimagem.com.br>; Fri,  3 Mar 2017 08:42:53 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at gospmail.org.br
+X-Amavis-Alert: BAD HEADER SECTION, Non-encoded 8-bit data (char E7 hex):
+	List-ID: Educa\347\343o e Cultura
+Received: from gospmail.org.br ([127.0.0.1])
+	by localhost (gospmail.org.br [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id qOlLchyrFrBj; Fri,  3 Mar 2017 08:42:50 -0300 (BRT)
+Received: from o3.jiveon.jivesoftware.com (o3.jiveon.jivesoftware.com [167.89.36.126])
+	by gospmail.org.br (Postfix) with ESMTPS id 41A3B1C2591D
+	for <288380@gospmail.org.br>; Fri,  3 Mar 2017 08:42:50 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=jiveon.jivesoftware.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-id; 
+	s=smtpapi; bh=3fXaqN35/w/OQp6aUNuQex2d6Ok=; b=gMC6yO5E1IBxFNoIyc
+	z9Buq2W1iue/ld8TWlLQZ8Qgeye2nnBa/tG/chp2mkZ80vfW1Lzujm4sG0Uhk4SU
+	OUrR0FFBjjJt4lnMBcmtmu16IJBsu0dtcLmxqAnmJg/aqzN7EvuaObomW5d8aVLh
+	B6mlLq9g1DwuCqGBJKfx5XrII=
+Received: by filter0058p1las1.sendgrid.net with SMTP id filter0058p1las1-23979-58B956B8-3
+        2017-03-03 11:42:48.111264356 +0000 UTC
+Received: from jiveon-mx3-out.phx1.jivehosted.com (jiveon-mail.phx1.jivehosted.com [204.93.64.13])
+	by ismtpd0003p1sjc2.sendgrid.net (SG) with ESMTP id 3_4ePPTqTFazy53ft8j0Vw
+	for <288380@gospmail.org.br>; Fri, 03 Mar 2017 11:42:47.910 +0000 (UTC)
+Received: from gosp-x-jc-t-wa02.dynphx1.jivehosted.com (ip49-vlb1-services.phx1.jivehosted.com [10.160.25.49])
+	by jiveon-mx3-out.phx1.jivehosted.com (Postfix) with ESMTP id 99FFF25165
+	for <288380@gospmail.org.br>; Fri,  3 Mar 2017 11:42:47 +0000 (GMT)
+Date: Fri, 03 Mar 2017 08:42:47 -0300
+From: 291259 <gosp-x@jiveon.com>
+Reply-To: jive-994083562-7qj-2x-xje@mail.gosp-x.jiveon.com
+To: Marco Parise <288380@gospmail.org.br>
+Message-ID: <2700-39307-3-2495-1488541311525.jive.jivemailuser@https://gosp-x.jiveon.com>
+Subject: =?UTF-8?Q?Coment=C3=A1rio_marcado_como_=C3=BAtil_?=
+ =?UTF-8?Q?em_O_Estandarte_ERAC_2016.docx?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_62821_1391402855.1488541367616"
+Auto-Submitted: auto-replied
+X-Auto-Response-Suppress: OOF
+List-ID: Educação e Cultura
+Content-Disposition: inline
+X-Jive-Office: jive-994083562-7qj-2x-xje@mail.gosp-x.jiveon.com
+X-SG-EID: MC+mAxPPER372lmDFdFHyMxARzYmaHZCEvHbMx1UJ2hVrSglxJ79tdQCaaoojt1Y6ZrMUFFOuLo6JJ
+ ERwHGq4JQI1FlMAzbLBvxAWomS137NKwJv+JZgSCsJbAGfD5Z1ORfnfoQRZtqmgxeWRLXrvUA3KXXq
+ GTYVQiFocyg7nddcJbdIU+Wm1uC2jmGKc4YIy5boaimmzVya5A/gaRFcBg==
+X-SG-ID: 6Iv2lwEhBxW0L1FeqtuSgBOmISLrKUu9Fa/YMNgnbEH468Pyla8dQZzQztp4ixfGci8/7TRpUp+05v
+ 9IrcpmsSjm8M7cE1Pg31qMW90irNSQ38yQ+934yt1n6dolnNNc
+
+------=_Part_62821_1391402855.1488541367616
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_62820_431485223.1488541367616"
+
+------=_Part_62820_431485223.1488541367616
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+Andr=C3=A9 Luiz Figueiredo Loureiro marcou o coment=C3=A1rio de Marco Paris=
+e sobre O Estandarte ERAC 2016.docx como =C3=BAtil.
+
+--------------------------------------------------------------
+Marcou como =C3=BAtil:
+Foi muito prazeroso a elabora=C3=A7=C3=A3o deste trabalho com alguma ajuda =
+dos MM.M. que estavam como respons=C3=A1veis fizemos uma viagem no passado =
+e trouxemos um pouco para aprecia=C3=A7=C3=A3o dos IIr.
+
+Um T.F.A.
+Ir. Parise
+--------------------------------------------------------------
+
+
+Este e-mail foi enviado pela REDE SOCIAL DO GOSP porque voc=C3=AA =C3=A9 um=
+ usu=C3=A1rio registrado.
+Voc=C3=AA pode cancelar a assinatura agora mesmo em https://gosp-x.jiveon.c=
+om/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0=
+ee232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c ou ajustar a frequ=C3=AA=
+ncia de e-mail nas prefer=C3=AAncias do seu e-mail (https://gosp-x.jiveon.c=
+om/user-preferences!input.jspa).
+
+------=_Part_62820_431485223.1488541367616
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+=09
+	<title></title>
+	<style type=3D"text/css">
+    * {
+		margin: 0;
+		padding: 0;
+	}
+	a {
+		color: #3778C7 !important;
+	}
+	body {
+		font-family: Helvetica, Arial, sans-serif;
+		-webkit-text-size-adjust: 100%;
+	}
+	/* Webkit */
+	h1, h2, h3, h4, h5, h6, p, hr {
+		-webkit-margin-before: 0;
+		-webkit-margin-after: 0;
+		-webkit-margin-start: 0;
+		-webkit-margin-end: 0;
+	}
+	.button td {
+		background-image: -moz-linear-gradient(top, #75B7E3 0%, #5498D6 50%, #408=
+BD0 51%, #387AC8 100%) !important;
+		background-image: -webkit-gradient(linear, left top, left bottom, color-s=
+top(0%,#75B7E3), color-stop(50%,#5498D6), color-stop(51%,#408BD0), color-st=
+op(100%,#387AC8)) !important;
+		-webkit-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !impo=
+rtant;
+		-moz-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !importa=
+nt;
+	}
+	</style>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+</head>
+<body style=3D"width:100% !important; -webkit-font-smoothing: antialiased; =
+-webkit-text-size-adjust: 100%;">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff=
+" width=3D"100%" style=3D"background-color: #ffffff; margin: 0; padding: 0;=
+">
+		<tbody>
+			<tr>
+				<td style=3D"padding: 20px 20px 20px 20px;">
+<table class=3D"header" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wi=
+dth=3D"100%">
+	<tbody>
+		<tr>
+			<td valign=3D"top" align=3D"left">
+				<h1 style=3D"color: #333333; margin: 0 0 20px 0; font-weight: normal; f=
+ont-size: 24px; font-family: Helvetica, Arial, sans-serif; text-shadow: rgb=
+a(255,255,255,.9) 0 1px 0;">
+					<!-- To have a header image/logo replace the name below with your img =
+tag -->
+					<!-- Email clients will render the images when the message is read so =
+any image -->
+					<!-- must be made available on a public server, so that all recipients=
+ can load the image. -->
+					<a href=3D"https://gosp-x.jiveon.com/?et=3Dwatches.email.outcome" styl=
+e=3D"color:#333333 !important; text-decoration: none;">
+							<font color=3D"#333333" style=3D"color:#333333;">REDE SOCIAL DO GOSP=
+</font>
+					</a>
+				</h1>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class=3D"content" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ff=
+ffff" border=3D"0" width=3D"100%" style=3D"width: 100%; -moz-border-radius:=
+ 8px; -webkit-border-radius: 8px; border-radius: 8px;">
+	<tbody>
+		<tr>
+			<td valign=3D"middle" style=3D"padding-top: 10px; padding-right: 0px; pa=
+dding-bottom: 20px; padding-left: 0px;"><h2 style=3D'color: #666666; margin=
+: 0 0 0 0; font-weight: normal; font-size: 24px; font-family: Helvetica, Ar=
+ial, sans-serif;'>
+    O Estandarte ERAC 2016.docx
+</h2>
+<p style=3D'color: #999999; margin-bottom: 20px; font-size: 12px; line-heig=
+ht: 18px; font-family: Helvetica, Arial, sans-serif;'>
+
+					<a href=3D"https://gosp-x.jiveon.com/people/291259?et=3Dwatches.email.=
+outcome">Andr=C3=A9 Luiz Figueiredo Loureiro</a> marcou o coment=C3=A1rio d=
+e <a href=3D"https://gosp-x.jiveon.com/people/parise?et=3Dwatches.email.out=
+come">Marco Parise</a> sobre <a href=3D"https://gosp-x.jiveon.com/docs/DOC-=
+8095-o-estandarte-erac-2016docx?et=3Dwatches.email.outcome">O Estandarte ER=
+AC 2016.docx</a> como =C3=BAtil. <a href=3D"https://gosp-x.jiveon.com/docs/=
+DOC-8095-o-estandarte-erac-2016docx?commentID=3D43466&et=3Dwatches.email.ou=
+tcome#comment-43466">Visualizar o coment=C3=A1rio completo</a>
+</p>
+
+<hr style=3D'background-color: #cccccc; height: 1px; margin-bottom: 20px; b=
+order: none;'>
+Marcado como =C3=BAtil:
+<div style=3D'color: #666666; margin-bottom: 20px; font-size: 14px; line-he=
+ight: 20px; font-family: Helvetica, Arial, sans-serif;'>
+<div class=3D"jive-rendered-content"><p>Foi muito prazeroso a elabora&#231;=
+&atilde;o deste trabalho com alguma ajuda dos MM.M. que estavam como respon=
+s&aacute;veis fizemos uma viagem no passado e trouxemos um pouco para aprec=
+ia&#231;&atilde;o dos IIr.</p><p style=3D"min-height: 8pt; padding: 0px;">&=
+#160;</p><p>Um T.F.A.</p><p>Ir. Parise</p></div>
+</div>
+
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" bgco=
+lor=3D"#f5f5f5" style=3D'padding: 10px; margin-top: 40px;'>
+	<tbody>
+
+    <tr>
+	<td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-height: =
+20px; font-family: Helvetica, Arial, sans-serif;'>
+	Seguindo <a href=3D"https://gosp-x.jiveon.com/docs/DOC-8095-o-estandarte-e=
+rac-2016docx?et=3Dwatches.email.outcome">O Estandarte ERAC 2016.docx</a> ne=
+stes fluxos:
+     Caixa de Entrada
+    </td>
+    </tr>
+    </tbody>
+</table>
+                    <p style=3D'color: #666666; margin-top: 20px; font-size=
+: 14px; line-height: 20px; font-family: Helvetica, Arial, sans-serif;'>
+                        Este e-mail foi enviado pela Rede Social do GOSP po=
+rque voc=C3=AA =C3=A9 um usu=C3=A1rio registrado.
+	                        Voc=C3=AA pode <a href=3D"https://gosp-x.jiveon.co=
+m/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0e=
+e232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c">cancelar a assinatura</a=
+> agora mesmo ou ajustar a frequ=C3=AAncia de e-mail nas <a href=3D"https:/=
+/gosp-x.jiveon.com/user-preferences!input.jspa">prefer=C3=AAncias do seu e-=
+mail</a>
+                    </p>
+            </td>
+		</tr>
+	</tbody>
+</table>
+			    </td>
+			</tr>
+		</tbody>
+	</table>
+
+<img src=3D"http://jiveon.jivesoftware.com/wf/open?upn=3DlkDbH7-2FnFH7oeBGC=
+GoMHz9T22eb3DvjuBfkB1ASadAwAtbqNYYkVs4MwAGOqDuR5N49BZM9PLfhYH64a-2FtseS3rEA=
+m-2FPR-2FLABp9z-2FRB1PqQ9tVzBFlCLgLeZ4KG0BqAUS-2B8hAjKIzqY-2BQHrbco6xJ2p0fO=
+-2BDU40HCFOMnTCGaQ67FSf-2FMp5YROTZl7lblkkjNu22pnaJ4FhmTix-2FWwkFFeujhaZG9PM=
+9LG5-2Bvis4JDu3De02qVGsTQeoad6Qn1aG19q-2Fxg-2BdJD6heLCHgg-2BT2qADTh8tgjOxCY=
+71Bx3YwM4-2BV-2Flg29rR9phmapLLatDwnEt4KJzWkClGmTV118uOzA-3D-3D" alt=3D"" wi=
+dth=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1p=
+x !important;border-width:0 !important;margin-top:0 !important;margin-botto=
+m:0 !important;margin-right:0 !important;margin-left:0 !important;padding-t=
+op:0 !important;padding-bottom:0 !important;padding-right:0 !important;padd=
+ing-left:0 !important;"/>
+</body>
+</html>
+
+------=_Part_62820_431485223.1488541367616--
+
+------=_Part_62821_1391402855.1488541367616--
+

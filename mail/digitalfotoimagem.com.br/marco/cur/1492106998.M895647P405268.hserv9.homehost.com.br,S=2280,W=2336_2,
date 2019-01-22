@@ -1,0 +1,56 @@
+Return-Path: <suporte@homehost.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id uTcgMfa+71gULwYAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Thu, 13 Apr 2017 15:09:58 -0300
+Return-path: <suporte@homehost.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 13 Apr 2017 15:09:58 -0300
+Received: from mailalt.homehost.com.br ([177.85.98.241]:47315)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <suporte@homehost.com.br>)
+	id 1cyjBu-001iZW-3M
+	for marco@digitalfotoimagem.com.br; Thu, 13 Apr 2017 15:09:58 -0300
+Received: from homehost-admin2 (www.homehost.com.br [177.184.2.204])
+	(using TLSv1.2 with cipher DHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by mailalt.homehost.com.br (Postfix) with ESMTPS id EED0C544484D
+	for <marco@digitalfotoimagem.com.br>; Thu, 13 Apr 2017 15:07:11 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=homehost.com.br;
+	s=defaultkey; t=1492106832;
+	bh=FCxgmwbHc9e+rfP8teKQEWXKSEHDvTrsZjClmCFjGqQ=;
+	h=Date:To:From:Subject;
+	b=tERJnsEl8NmMIMC7VpyRRxEB7yLjXRuEhOn+tAgrSZYxXTYH6qDLIVGMhdaP35Anz
+	 QBb+OLPGnxl7Yk6jpjnELXNyQnMoZ1VaseE0Bsv46tEOlVOm98077csQjhwD+NDeHx
+	 PJiV6qzc3e9SPkreZfmc7xrE/MKhVBWRwryLCqDw=
+Date: Thu, 13 Apr 2017 15:09:51 -0300
+To: marco@digitalfotoimagem.com.br
+From: suporte@homehost.com.br
+Subject: Re: [#1702963] Problema
+Message-ID: <63be5a61f1e23ac5b267a4f7e4d9178c@homehost-admin2>
+X-Mailer: PHPMailer 5.2.15 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=windows-1250
+Content-Transfer-Encoding: 8bit
+
+Boa tarde Marco,
+
+Em seu caso fiz um teste de publicação do seu projeto no caminho https://lermelhor.com.br/Modulo-3-testesuporte/ e o sistema de login já está habilitado. 
+
+O senhor pode manipular os dados da área de login no construtor RV site builder no passo 3 na opção "Utilizador".
+
+
+
+Por favor me informe caso reste qualquer duvida.
+
+
+---
+Atenciosamente,
+Hugo Cabral
+Suporte Técnico Homehost
+
+
+Consulte sempre nosso base de tutoriais de ajuda em https://www.homehost.com.br/suporte#faqSec
+Disponibilizamos diversos artigos e guias em nosso Blog.
+

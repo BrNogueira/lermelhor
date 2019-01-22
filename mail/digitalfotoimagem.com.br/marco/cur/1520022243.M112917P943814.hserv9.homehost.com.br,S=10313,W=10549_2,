@@ -1,0 +1,236 @@
+Return-Path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br with LMTP id 8J5EBOOymVrGZg4AY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Fri, 02 Mar 2018 17:24:03 -0300
+Return-path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Fri, 02 Mar 2018 17:24:03 -0300
+Received: from e.gospmail.org.br ([177.139.181.238]:65189 helo=gospmail.org.br)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89_1)
+	(envelope-from <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>)
+	id 1errDm-00411j-Hf
+	for marco@digitalfotoimagem.com.br; Fri, 02 Mar 2018 17:24:03 -0300
+Received: from localhost (e [127.0.0.1])
+	by gospmail.org.br (Postfix) with ESMTP id 5B2CF2643A57
+	for <marco@digitalfotoimagem.com.br>; Fri,  2 Mar 2018 17:23:15 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at gospmail.org.br
+Received: from gospmail.org.br ([127.0.0.1])
+	by localhost (gospmail.org.br [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id dx2ghpjNSC8K; Fri,  2 Mar 2018 17:23:15 -0300 (BRT)
+Received: from o3.jiveon.jivesoftware.com (o3.jiveon.jivesoftware.com [167.89.36.126])
+	by gospmail.org.br (Postfix) with ESMTPS id 926B12643A54
+	for <288380@gospmail.org.br>; Fri,  2 Mar 2018 17:23:14 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=jiveon.jivesoftware.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-id; 
+	s=smtpapi; bh=7dhb/IvTCTL5Fm4jyytyB3lAFzM=; b=vrofRAltI2oKzMljhZ
+	oZftJ2LVhw0vuTiXmxwZs+EKtJokxSMqrmNzo1nSKQsBQUswfqQCOEwJNul9cODX
+	slb56A14qDQKfrNIPnkAmlLb4yqc5j7TyigmA18uJiqUK4DV7t4g+uLi8xbU7pKJ
+	2Zt+D59twKO5Jh4h9HrSwLJpI=
+Received: by filter1205p1mdw1.sendgrid.net with SMTP id filter1205p1mdw1-30322-5A99B2B0-1
+        2018-03-02 20:23:12.102358034 +0000 UTC
+Received: from jiveon-mx3-out.phx1.jivehosted.com (jiveon-mail.phx1.jivehosted.com [204.93.64.13])
+	by ismtpd0019p1las1.sendgrid.net (SG) with ESMTP id 91-aTBP3SwmTWZQI8ImVYA
+	for <288380@gospmail.org.br>; Fri, 02 Mar 2018 20:23:11.998 +0000 (UTC)
+Received: from gosp-x-jc-t-wa02.dynphx1.jivehosted.com (ip53-vlb1-services.phx1.jivehosted.com [10.160.25.53])
+	by jiveon-mx3-out.phx1.jivehosted.com (Postfix) with ESMTP id BE8E82369A
+	for <288380@gospmail.org.br>; Fri,  2 Mar 2018 20:23:11 +0000 (GMT)
+Date: Fri, 02 Mar 2018 20:23:12 +0000 (UTC)
+From: Rony Silvio Pereira de Souza <gosp-x@jiveon.com>
+Reply-To: Rony Silvio Pereira de Souza <gosp-x@jiveon.com>
+To: Marco Parise <288380@gospmail.org.br>
+Message-ID: <1384307464.304501520022191780@gosp-x-jc-t-wa02.dynphx1.jivehosted.com>
+Subject: =?UTF-8?Q?Rony_Silvio_Pereira_de_Souza_convidou_voc=C3=AA_para_ent?=
+ =?UTF-8?Q?rar_no_grupo:_3843_-_Cavaleiros_Do_Triplo_Triangulo?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_241633_1774976570.1520022191775"
+Auto-Submitted: auto-generated
+X-Auto-Response-Suppress: OOF
+List-ID: null
+Content-Disposition: inline
+X-SG-EID: MC+mAxPPER372lmDFdFHyMxARzYmaHZCEvHbMx1UJ2iFVXMtaNBZw7bxiHe603J91qh+hgsV16Yjme
+ FI0oQLOBnmTOuYunZHPljfBhglkQRSyc6olW6wtZIjkjmvG1gpjF25RQmTInUZVIRcmVjZOlsSu1Of
+ QrTmiXHnFwYIM9+ea0eMijoDM54rHmf7EEBzQY3s6VA7ZyQTiQ/BCH0r870+hTTGPPX8HthqEl6cBr
+ Gcy8QGpGLArNGOPnyhuzgc
+X-SG-ID: 6Iv2lwEhBxW0L1FeqtuSgFrU+eoADMgoWl6RkirClnCwHO6e8AIa7efr5vR3+Ya1GwQ1PIGXCO2iel
+ 4oUtGaFV6ai2Bwmhf5hTz0Gbuh/SSj0tc82XfNHDcwGTnEiyrGWr6kcwacaTcOrcQAQIWIPA==
+
+------=_Part_241633_1774976570.1520022191775
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_241632_1147255912.1520022191775"
+
+------=_Part_241632_1147255912.1520022191775
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<body>Ol=C3=A1,
+
+Junte-se a mim no grupo 3843 - Cavaleiros Do Triplo Triangulo.</body>
+
+Siga este link para entrar em:=20
+https://gosp-x.jiveon.com/groups/3843?et=3Dinvite.join.sgroup.unmodifiable
+
+Este e-mail foi enviado pela REDE SOCIAL DO GOSP porque voc=C3=AA =C3=A9 um=
+ usu=C3=A1rio registrado.
+Voc=C3=AA pode cancelar a assinatura agora mesmo em https://gosp-x.jiveon.c=
+om/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0=
+ee232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c ou ajustar a frequ=C3=AA=
+ncia de e-mail nas prefer=C3=AAncias do seu e-mail (https://gosp-x.jiveon.c=
+om/user-preferences!input.jspa).
+
+------=_Part_241632_1147255912.1520022191775
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+=09
+	<title></title>
+	<style type=3D"text/css">
+    * {
+		margin: 0;
+		padding: 0;
+	}
+	a {
+		color: #3778C7 !important;
+	}
+	body {
+		font-family: Helvetica, Arial, sans-serif;
+		-webkit-text-size-adjust: 100%;
+	}
+	/* Webkit */
+	h1, h2, h3, h4, h5, h6, p, hr {
+		-webkit-margin-before: 0;
+		-webkit-margin-after: 0;
+		-webkit-margin-start: 0;
+		-webkit-margin-end: 0;
+	}
+	.button td {
+		background-image: -moz-linear-gradient(top, #75B7E3 0%, #5498D6 50%, #408=
+BD0 51%, #387AC8 100%) !important;
+		background-image: -webkit-gradient(linear, left top, left bottom, color-s=
+top(0%,#75B7E3), color-stop(50%,#5498D6), color-stop(51%,#408BD0), color-st=
+op(100%,#387AC8)) !important;
+		-webkit-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !impo=
+rtant;
+		-moz-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !importa=
+nt;
+	}
+	</style>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+</head>
+<body style=3D"width:100% !important; -webkit-font-smoothing: antialiased; =
+-webkit-text-size-adjust: 100%;">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff=
+" width=3D"100%" style=3D"background-color: #ffffff; margin: 0; padding: 0;=
+">
+		<tbody>
+			<tr>
+				<td style=3D"padding: 20px 20px 20px 20px;">
+<table class=3D"header" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wi=
+dth=3D"100%">
+	<tbody>
+		<tr>
+			<td valign=3D"top" align=3D"left">
+				<h1 style=3D"color: #333333; margin: 0 0 20px 0; font-weight: normal; f=
+ont-size: 24px; font-family: Helvetica, Arial, sans-serif; text-shadow: rgb=
+a(255,255,255,.9) 0 1px 0;">
+					<!-- To have a header image/logo replace the name below with your img =
+tag -->
+					<!-- Email clients will render the images when the message is read so =
+any image -->
+					<!-- must be made available on a public server, so that all recipients=
+ can load the image. -->
+					<a href=3D"https://gosp-x.jiveon.com/?et=3Dinvite.join.sgroup.unmodifi=
+able" style=3D"color:#333333 !important; text-decoration: none;">
+							<font color=3D"#333333" style=3D"color:#333333;">REDE SOCIAL DO GOSP=
+</font>
+					</a>
+				</h1>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class=3D"content" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ff=
+ffff" border=3D"0" width=3D"100%" style=3D"width: 100%; -moz-border-radius:=
+ 8px; -webkit-border-radius: 8px; border-radius: 8px;">
+	<tbody>
+		<tr>
+			<td valign=3D"middle" style=3D"padding-top: 10px; padding-right: 0px; pa=
+dding-bottom: 20px; padding-left: 0px;"><div style=3D'color: #666666; margi=
+n-bottom: 20px; font-size: 14px; line-height: 20px; font-family: Helvetica,=
+ Arial, sans-serif;'>
+<body>Ol=C3=A1,
+
+Junte-se a mim no grupo 3843 - Cavaleiros Do Triplo Triangulo.</body>
+</div>
+
+<p style=3D'color: #666666; margin-bottom: 20px; font-size: 14px; line-heig=
+ht: 20px; font-family: Helvetica, Arial, sans-serif;'>
+Siga este link para entrar:
+</p>
+<p style=3D'color: #666666; margin-bottom: 20px; font-size: 14px; line-heig=
+ht: 20px; font-family: Helvetica, Arial, sans-serif;'>
+<strong><img src=3D"https://gosp-x.jiveon.com/images/jive-icon-groups-16x16=
+.gif" border=3D"0" valign=3D"middle" alt=3D"" height=3D"16" width=3D"16" st=
+yle=3D'padding-top: 3px'/><a href=3D"https://gosp-x.jiveon.com/groups/3843?=
+et=3Dinvite.join.sgroup.unmodifiable">https://gosp-x.jiveon.com/groups/3843=
+</a></strong>
+</p>
+
+
+<p style=3D'color: #666666; margin-bottom: 20px; font-size: 14px; line-heig=
+ht: 20px; font-family: Helvetica, Arial, sans-serif;'>
+Obrigado!
+<br>
+<strong><img src=3D"https://gosp-x.jiveon.com/images/jive-icon-profile-16x1=
+6.gif" border=3D"0" valign=3D"middle" alt=3D"" height=3D"16" width=3D"16" s=
+tyle=3D'padding-top: 3px; padding-right: 3px'/> <a href=3D"https://gosp-x.j=
+iveon.com/people/rony?et=3Dinvite.join.sgroup.unmodifiable">Rony Silvio Per=
+eira de Souza</a></strong>
+</p>
+                    <p style=3D'color: #666666; margin-top: 20px; font-size=
+: 14px; line-height: 20px; font-family: Helvetica, Arial, sans-serif;'>
+                        Este e-mail foi enviado pela Rede Social do GOSP po=
+rque voc=C3=AA =C3=A9 um usu=C3=A1rio registrado.
+	                        Voc=C3=AA pode <a href=3D"https://gosp-x.jiveon.co=
+m/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0e=
+e232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c">cancelar a assinatura</a=
+> agora mesmo ou ajustar a frequ=C3=AAncia de e-mail nas <a href=3D"https:/=
+/gosp-x.jiveon.com/user-preferences!input.jspa">prefer=C3=AAncias do seu e-=
+mail</a>
+                    </p>
+            </td>
+		</tr>
+	</tbody>
+</table>
+			    </td>
+			</tr>
+		</tbody>
+	</table>
+
+<img src=3D"http://jiveon.jivesoftware.com/wf/open?upn=3DlkDbH7-2FnFH7oeBGC=
+GoMHz9T22eb3DvjuBfkB1ASadAwAtbqNYYkVs4MwAGOqDuR54AvbHPs1HSdBBRjLe-2FJh-2FFt=
+gjEL5f4SQtnS8W8I8EfxIiBYudI7UlYXAf0iEYB-2FtjOcUepBWj-2FRdpVhGtUxkC9iG54Pznd=
+TTuhZtIXXockEeFEM6VcmDSX0QecpZ92y9b-2F65sKHf93RREo78eIBPmnOgGUp6hb9VKp1Qsl8=
+GEvbtWRv1mf4FxcSu-2BFKSEcr3UPnpfGgnl0Y32wTS1gtyH6BaSm7CbjKJ7yJhNIs71WdMZC0H=
+mqAy4yKztpm2oT3SWGAGQqwc8scU0a1dKL7qxXkfCImCXAlGBV06sg-2BRr-2Fwj4fLOdmmJ3ue=
+GfKBKAX3H" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1=
+px !important;width:1px !important;border-width:0 !important;margin-top:0 !=
+important;margin-bottom:0 !important;margin-right:0 !important;margin-left:=
+0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-r=
+ight:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+------=_Part_241632_1147255912.1520022191775--
+
+------=_Part_241633_1774976570.1520022191775--
+

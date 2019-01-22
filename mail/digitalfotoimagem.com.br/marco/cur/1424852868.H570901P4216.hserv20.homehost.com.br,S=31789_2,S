@@ -1,0 +1,663 @@
+Return-path: <s-2pq2y52mleuq9txzxjx71l3yvgcpuyqitszdh1ud6k3a3zd4f7k1278w@bounce.linkedin.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Wed, 25 Feb 2015 05:27:48 -0300
+Received: from maild-bd.linkedin.com ([108.174.3.188]:57392)
+	by hserv20.homehost.com.br with esmtps (UNKNOWN:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.80.1)
+	(envelope-from <s-2pq2y52mleuq9txzxjx71l3yvgcpuyqitszdh1ud6k3a3zd4f7k1278w@bounce.linkedin.com>)
+	id 1YQXJr-00015S-9R
+	for marco@digitalfotoimagem.com.br; Wed, 25 Feb 2015 05:27:48 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com;
+	s=proddkim1024; t=1424852858;
+	bh=W16Hl5SO8XuOvMDwy5VOPaFRzGbT1mvAVrZutmZCR50=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=4ivn7d3ERBvHwhmG/l/2kxu/KsWHrQzr6jzWb/qwf4eYrOePyad9pC8rjc9KSdxnS
+	 /2dvIZw+5rR+7Y12v4XVVv16dM+Usae6BeKoaTGkff4fuZhtkt3TrrWsb/x7FqaxTT
+	 yuowA6JxT3rdWsIp3Vrt990G7HRHKXkzhDZm+3Q0=
+From: =?UTF-8?Q?Ant=C3=B4nio_Rodrigues_via_LinkedIn?= <convites@linkedin.com>
+Message-ID: <908020334.8185065.1424852858494.JavaMail.app@lva1-app3759.prod>
+Subject: =?UTF-8?Q?O_convite_de_Ant=C3=B4nio_Rodrigue?=
+ =?UTF-8?Q?s_est=C3=A1_aguardando_sua_resposta?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_8185063_545230829.1424852858491"
+To:  <marco@digitalfotoimagem.com.br>
+Date: Wed, 25 Feb 2015 08:27:38 +0000 (UTC)
+X-LinkedIn-Class: INVITE-REMIND-GUEST
+X-LinkedIn-Template: inv_exp_19
+X-LinkedIn-fbl: s-2pq2y52mleuq9txzxjx71l3yvgcpuyqitszdh1ud6k3a3zd4f7k1278w
+X-LinkedIn-Id: yp26ib-i6kglek1-2j
+List-Unsubscribe: <mailto:list-unsubscribe@linkedin.com?subject=unsubscribe/AQF5OBsj2vGSVQAAAUu_2TZ-qthxAPi31vt9Ah43jgMYk9lhs9U68Q6JTi3ssoIP4iVDVziGahsCElz3rHHTzc8i5Lo4ug/yp26ib-i6kglek1-2j/s-2pq2y52mleuq9txzxjx71l3yvgcpuyqitszdh1ud6k3a3zd4f7k1278w>
+X-Spam-Status: No, score=-7.0
+X-Spam-Score: -69
+X-Spam-Bar: -------
+X-Ham-Report: Spam detection software, running on the system "hserv20.homehost.com.br", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Antônio Rodrigues quer fazer parte da sua rede no LinkedIn.
+    Como deseja responder? Aceitar: https://www.linkedin.com/blink?simpleRedirect=0UczcTc34Vdj8VdP8NdjwPdPARfkh9rCZFt65QqnpKqioPqR1Bpl59tjRVpkJApn9xq7cCej5vs7xBnTpKqjRHpipOpmhKqmRBsyRQs6lzoS4JoyRDtCVFnSRJrScJr6RBfmtKqmJzon9Q9ClQqnpKimtBkClOs3Rx9CEObj5HpmNDqPpFbm9Fdz9MujRBfP9SbSkLrmZzbCVFp6lHrCBIbDtTtOYLeDdMt7hE&msgID=I5973851315191717889_500&markAsRead=
+    [...] 
+ 
+ Content analysis details:   (-7.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: linkedin.com]
+ -2.0 RCVD_IN_RP_SAFE        RBL: Sender in ReturnPath Safe - Contact
+                             safe-sa@returnpath.net
+                             [Return Path SenderScore Safe List (formerly]
+                     [Habeas Safelist) - <http://www.senderscorecertified.com>]
+ -3.0 RCVD_IN_RP_CERTIFIED   RBL: Sender in ReturnPath Certified - Contact
+                             cert-sa@returnpath.net
+                             [Return Path SenderScore Certified {formerly]
+                       [Bonded Sender} - <http://www.senderscorecertified.com>]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 T_RP_MATCHES_RCVD      Envelope sender domain matches handover relay
+                             domain
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+X-Spam-Flag: NO
+
+------=_Part_8185063_545230829.1424852858491
+Content-Type: text/plain;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: text-body
+
+Ant=C3=B4nio Rodrigues quer fazer parte da sua rede no LinkedIn. Como desej=
+a responder?
+
+Aceitar: https://www.linkedin.com/blink?simpleRedirect=3D0UczcTc34Vdj8VdP8N=
+djwPdPARfkh9rCZFt65QqnpKqioPqR1Bpl59tjRVpkJApn9xq7cCej5vs7xBnTpKqjRHpipOpmh=
+KqmRBsyRQs6lzoS4JoyRDtCVFnSRJrScJr6RBfmtKqmJzon9Q9ClQqnpKimtBkClOs3Rx9CEObj=
+5HpmNDqPpFbm9Fdz9MujRBfP9SbSkLrmZzbCVFp6lHrCBIbDtTtOYLeDdMt7hE&msgID=3DI597=
+3851315191717889_500&markAsRead=3D
+
+Visualizar o perfil de Ant=C3=B4nio Rodrigues: https://www.linkedin.com/bli=
+nk?simpleRedirect=3Dej5vs7xBnTpKqjRHpipOpmhKqmRBsyRQs6lzoS4JoyRDtCVFnSRJrSc=
+Jr6RBfmtKqmJzon9Q9DpMrzRQ9CEObj5HpmNDqPpFbm9Fdz9MujRBfP9SbSkLrmZzbCVFp6lHrC=
+BIbDtTtOYLeDdMt7hE&msgID=3DI5973851315191717889_500&markAsRead=3D
+
+Voc=C3=AA est=C3=A1 recebendo e-mails de lembretes sobre convites pendentes=
+. Cancele sua inscri=C3=A7=C3=A3o aqui: https://www.linkedin.com/blink?simp=
+leRedirect=3DsC95cylJrSd5cylJpmtxrmBLt6ZCr65QqmtFp30Q9mZzsC5JfmNFomRB9z0Sc3=
+0OfmhF9zwOcPsMcjARczATcz4Re3cTejkZp6BD9zANnT1UplZSrCAZqSkCoDlPrDkJpyRzoClJn=
+SRJrScJr6RBfmtKqmJzon9Q9CZLpPRQ9CEObj5HpmNDqPpFbm9Fdz9MujRBfP9SbSkLrmZzbCVF=
+p6lHrCBIbDtTtOYLeDdMt7hE&msgID=3DI5973851315191717889_500&markAsRead=3D
+
+Voc=C3=AA recebeu um convite de conex=C3=A3o. O LinkedIn utiliza seu endere=
+=C3=A7o de e-mail para fazer sugest=C3=B5es a nossos usu=C3=A1rios em recur=
+sos como Pessoas que talvez voc=C3=AA conhe=C3=A7a. Clique aqui para cancel=
+ar a inscri=C3=A7=C3=A3o: https://www.linkedin.com/blink?simpleRedirect=3D1=
+GcyQNqSlIpSISqiRyqjoOs7AZp6BB9A5Hd55JjlFeq2RIiyRbu64ViCFAj4NGbm9EumhvskZHlj=
+19t3t5h3dLtlFqin1ihDh9tA9Nkkx2kQRapCZGgz1ijz4Ml6RxmBgOnTllgk51gjBcuz1Gd6dWn=
+QZ7kk4Zp6BLr2oVclZMu6lvtCVFfmJB9B4ScSh5hSxmhD9JhB51fmVBqSZkp6BJ9CVRr3RQ9CEO=
+bj5HpmNDqPpFbm9Fdz9MujRBfP9SbSkLrmZzbCVFp6lHrCBIbDtTtOYLeDdMt7hE&amp;msgID=
+=3DI5973851315191717889_500&amp;markAsRead=3D Saiba por que inclu=C3=ADmos =
+isso neste link: https://www.linkedin.com/blink?simpleRedirect=3D0Ue3sQfmh9=
+pmNzqnhOoioVclZMu6lvtCVFfmJB9CNOlmlzqnpOpldOpmRLt7dRoPRx9CEObj5HpmNDqPpFbm9=
+Fdz9MujRBfP9SbSkLrmZzbCVFp6lHrCBIbDtTtOYLeDdMt7hE&msgID=3DI5973851315191717=
+889_500&markAsRead=3D
+&copy; 2014, LinkedIn Corporation. 2029 Stierlin Ct. Mountain View, CA 9404=
+3, EUA
+------=_Part_8185063_545230829.1424852858491
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: html-body
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" style=3D"-webkit-text-size-adj=
+ust:none;">
+ <head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html;charset=3Dutf-8" /=
+>
+  <meta name=3D"HandheldFriendly" content=3D"true" />
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width; initial-scale=3D=
+0.666667; maximum-scale=3D0.666667; user-scalable=3D0" />
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width" />
+  <title></title>
+  <style type=3D"text/css">@media all and (max-width:590px) { *[class].resp=
+onsive { width:290px !important; } *[id]#center { width:50%; margin:0 auto;=
+ display:table; } *[class].responsive-spacer table { width:20px !important;=
+ } *[class].vspacer { margin-top:10px !important; margin-bottom:15px !impor=
+tant; margin-left:0 !important; } *[class].res-font14 { font-size:14px !imp=
+ortant; } *[class].res-font16 { font-size:16px !important; } *[class].res-f=
+ont13 { font-size:13px !important; } *[class].res-font12 { font-size:12px !=
+important; } *[class].res-font10 { font-size:10px !important; } *[class].re=
+s-font18 { font-size:18px !important; } *[class].res-font18 span { font-siz=
+e:18px !important; } *[class].responsive-50per { width:100% !important; } *=
+[class].responsive-spacer70 { width:70px !important; } *[class].hideIMG { h=
+eight:0px !important; width:0px !important; } *[class].res-height30 { heigh=
+t:30px !important; } *[class].res-height20 { height:20px !important; } *[cl=
+ass].res-height20 div { height:20px !important; } *[class].res-height10 { h=
+eight:10px !important; } *[class].res-height10 div { height:10px !important=
+; } *[class].res-height10.email-spacer div { height:10px !important; min-he=
+ight:10px !important; line-height:10px !important; font-size:10px !importan=
+t; } *[class].res-height0 { height:0px !important; } *[class].res-height0 d=
+iv { height:0px !important; } *[class].res-width280 { width:280px !importan=
+t; } *[class].res-width25 { width:25px !important; } *[class].res-width10 {=
+ width:10px !important; } *[class].res-width10 table { width:10px !importan=
+t; } *[class].res-width120 { width:120px !important; } *[class].res-padding=
+ { width:0 !important; } *[class].res-padding table { width:0 !important; }=
+ *[class].cellpadding-none { width:0px !important; } *[class].cellpadding-n=
+one table { border:collapse !important; } *[class].cellpadding-none table t=
+d { padding:0 !important; } *[class].display-none { display:none !important=
+; } *[class].display-block { display:block !important; } *[class].remove-ma=
+rgin { margin:0 !important; } *[class].remove-border { border:none !importa=
+nt; } *[class].res-img60 { width:60px !important; height:60px !important; }=
+ *[class].res-img75 { width:75px !important; height:75px !important; } *[cl=
+ass].res-img100 { width:100px !important; height:100px !important; } *[clas=
+s].res-img320 { width:320px !important; height:auto !important; position:re=
+lative; } *[class].res-img90x63 { width:90px !important; height:63px !impor=
+tant; } *[class].res-border { border-top:1px solid #E1E1E1 !important; } *[=
+class].responsive2col { width:100% !important; } *[class].center-content { =
+text-align:center !important; } *[class].hide-for-mobile { display:none !im=
+portant; } *[class].show-for-mobile { width:100% !important; max-height:non=
+e !important; visibility:visible !important; overflow:visible !important; f=
+loat:none !important; height:auto !important; display:block !important; } *=
+[class].responsive-table { display:table !important; } *[class].responsive-=
+row { display:table-row !important; } *[class].responsive-cell { display:ta=
+ble-cell !important; } *[class].fix-table-content { table-layout:fixed; } *=
+[class].res-padding08 { padding-top:8px; } *[class].header-spacer { table-l=
+ayout:auto !important; width:250px !important; } *[class].header-spacer td,=
+ *[class].header-spacer div { width:250px !important; } } @media all and (-=
+webkit-min-device-pixel-ratio:1.5) { *[id]#base-header-logo { background-im=
+age:url(https://static.licdn.com/scds/common/u/images/email/logos/logo_link=
+edin_tm_email_197x48_v1.png) !important; background-size:95px; background-r=
+epeat:no-repeat; width:95px !important; height:21px !important; } *[id]#bas=
+e-header-logo img { opacity:0; } *[id]#base-header-logo a { height:21px !im=
+portant; } *[id]#base-header-logo-china { background-image:url(https://stat=
+ic.licdn.com/scds/common/u/images/email/logos/logo_linkedin_tm_china_email_=
+266x42_v1.png) !important; background-size:133px; background-repeat:no-repe=
+at; width:133px !important; height:21px !important; } *[id]#base-header-log=
+o-china img { display:none; } *[id]#base-header-logo-china a { height:21px =
+!important; } } </style>
+ </head>
+ <body style=3D"background-color:#DFDFDF;padding:0;margin:0 auto;width:100%=
+;">
+  <span style=3D"display: none !important;font-size: 1px;visibility: hidden=
+;opacity: 0;color: transparent;height: 0;width: 0;mso-hide: all;"></span>
+  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-fam=
+ily:Helvetica,Arial,sans-serif; border-collapse:collapse; width:100% !impor=
+tant; font-family:Helvetica,Arial,sans-serif; margin:0; padding:0;" width=
+=3D"100%" bgcolor=3D"#DFDFDF">
+   <tbody>
+    <tr>
+     <td colspan=3D"3">
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font=
+-family:Helvetica,Arial,sans-serif; " width=3D"1">
+       <tbody>
+        <tr>
+         <td>
+          <div style=3D"height:5px;font-size:5px;line-height:5px;">
+           &nbsp;
+          </div></td>
+        </tr>
+       </tbody>
+      </table></td>
+    </tr>
+    <tr>
+     <td>
+      <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"cent=
+er" width=3D"100%" style=3D"table-layout: fixed;">
+       <tbody>
+        <tr>
+         <td align=3D"center">
+          <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"=
+font-family:Helvetica,Arial,sans-serif; min-width:290px;" width=3D"600" cla=
+ss=3D"responsive">
+           <tbody>
+            <tr>
+             <td style=3D"font-family:Helvetica,Arial,sans-serif;">
+              <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:8px;font-size:8px;line-height:8px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table>
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif;" width=3D"100%" bgcolor=3D"#DDD=
+DDD">
+               <tbody>
+                <tr>
+                 <td align=3D"left" valign=3D"middle" width=3D"95" height=
+=3D"21" id=3D"base-header-logo"><a style=3D"text-decoration:none;cursor:poi=
+nter;border:none;display:block;height:21px;width:100%;" href=3D"https://www=
+.linkedin.com/blink?simpleRedirect=3D3ANnT1UplZSrCAZqSkCcP4McChKqmRBsyRBrmZ=
+EnSZDrSMJoyRJtCVFnSRJrScJr6RBfmtKqmJzon9Q9D1JrzRQ9CEObj5HpmNDqPpFbm9Fdz9Muj=
+RBfP9SbSkLrmZzbCVFp6lHrCBIbDtTtOYLeDdMt7hE&amp;msgID=3DI5973851315191717889=
+_500&amp;markAsRead=3D"><img src=3D"https://static.licdn.com/scds/common/u/=
+images/email/logos/logo_linkedin_tm_email_95x21_v1.png" width=3D"95" height=
+=3D"21" alt=3D"LinkedIn" style=3D"border:none;text-decoration:none;" /></a>=
+</td>
+                </tr>
+               </tbody>
+              </table>
+              <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:8px;font-size:8px;line-height:8px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table>
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif;" width=3D"100%" bgcolor=3D"#333=
+333">
+               <tbody>
+                <tr>
+                 <td width=3D"20" class=3D"responsive-spacer">
+                  <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td width=3D"100%">
+                  <table width=3D"560" cellspacing=3D"0" cellpadding=3D"1" =
+border=3D"0" class=3D"header-spacer" style=3D"table-layout: fixed;">
+                   <tbody>
+                    <tr>
+                     <td width=3D"560">
+                      <div style=3D"height:12px;font-size:12px;line-height:=
+12px;width:560px;">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td width=3D"20" class=3D"responsive-spacer">
+                  <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table>
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%" bgcolor=3D"#FF=
+FFFF">
+               <tbody>
+                <tr>
+                 <td width=3D"20" class=3D"res-width10">
+                  <table width=3D"20px" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"1" class=3D"email-spacer res-width10">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td style=3D"color: #333333; font-family: Helvetica,Arial,=
+sans-serif; font-size: 15px; line-height: 18px;" align=3D"left">
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer res-height10">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table>
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%" class=3D"r=
+esponsive">
+                   <tbody>
+                    <tr>
+                     <td style=3D"font-family:Helvetica,Arial,sans-serif;co=
+lor:#333333;"><b>Ant&ocirc;nio Rodrigues</b> quer fazer parte da sua rede n=
+o LinkedIn. Como deseja responder?</td>
+                    </tr>
+                    <tr>
+                     <td style=3D"border-bottom-color: #E5E5E5;border-botto=
+m-width: 1px; border-bottom-style: solid;">
+                      <table width=3D"1" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"1" class=3D"email-spacer">
+                       <tbody>
+                        <tr>
+                         <td>
+                          <div style=3D"height:20px;font-size:20px;line-hei=
+ght:20px">
+                           &nbsp;
+                          </div></td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table>
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                   <tbody>
+                    <tr>
+                     <td width=3D"150" valign=3D"top" style=3D"vertical-ali=
+gn: top;" class=3D"res-img100"><a href=3D"https://www.linkedin.com/blink?si=
+mpleRedirect=3D0UczcTc34Vdj8VdP8NdjwPdPARfkh9rCZFt65QqnpKqioPqR1Bpl59tjRVpk=
+JApn9xq7cCej5vs7xBnTpKqjRHpipOpmhKqmRBsyRQs6lzoS4JrThLq70JoyRDtCVFnSRJrScJr=
+6RBfmtKqmJzon9Q9ClQqnpKimtBkClOs3Rx9CEObj5HpmNDqPpFbm9Fdz9MujRBfP9SbSkLrmZz=
+bCVFp6lHrCBIbDtTtOYLeDdMt7hE&amp;msgID=3DI5973851315191717889_500&amp;markA=
+sRead=3D" style=3D"text-decoration:none;cursor:pointer;"><img alt=3D"Ant&oc=
+irc;nio Rodrigues" src=3D"https://media.licdn.com/mpr/mpr/shrink_150_150/p/=
+7/000/24a/21c/2f99080.jpg" width=3D"150" height=3D"150" border=3D"0" class=
+=3D"res-img100" style=3D"border:none;text-decoration:none;outline:hidden;di=
+splay:block;" /></a></td>
+                     <td width=3D"20">
+                      <table width=3D"20" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"1" class=3D"email-spacer">
+                       <tbody>
+                        <tr>
+                         <td>
+                          <div style=3D"height:0px;font-size:0px;line-heigh=
+t:0px">
+                           &nbsp;
+                          </div></td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                     <td style=3D"vertical-align: top; font-family: Helveti=
+ca,Arial,sans-serif;" width=3D"100%">
+                      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                       <tbody>
+                        <tr>
+                         <td valign=3D"top"><a href=3D"https://www.linkedin=
+.com/blink?simpleRedirect=3De38PdP0NejkOejsOcjkUcPsVdjR4imVLqnhxt6BSrCACcSJ=
+gpmlhinkZumlbp6lOomxP9zANnT1UplZSrCAZqSkCsClArCBJpn8Jt71BoSdxbmlJomUJoyRDtC=
+VFnSRJrScJr6RBfmtKqmJzon9Q9ClQqnpKimtBkClOs3Rx9CEObj5HpmNDqPpFbm9Fdz9MujRBf=
+P9SbSkLrmZzbCVFp6lHrCBIbDtTtOYLeDdMt7hE&amp;msgID=3DI5973851315191717889_50=
+0&amp;markAsRead=3D" style=3D"font-size: 20px; font-weight: bold; color:#00=
+0000;text-decoration:none;">Ant&ocirc;nio Rodrigues</a></td>
+                        </tr>
+                        <tr>
+                         <td>
+                          <table width=3D"1" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"1" class=3D"email-spacer">
+                           <tbody>
+                            <tr>
+                             <td>
+                              <div style=3D"height:3px;font-size:3px;line-h=
+eight:3px">
+                               &nbsp;
+                              </div></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                        </tr>
+                        <tr>
+                         <td style=3D"color: #666666; font-size: 15px;" cla=
+ss=3D"res-font16">CEO na empresa GalaxyWeb Brasil Tecnologia</td>
+                        </tr>
+                        <tr>
+                         <td>
+                          <table width=3D"1" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"1" class=3D"email-spacer">
+                           <tbody>
+                            <tr>
+                             <td>
+                              <div style=3D"height:10px;font-size:10px;line=
+-height:10px">
+                               &nbsp;
+                              </div></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                        </tr>
+                        <tr>
+                         <td>
+                          <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" align=3D"left">
+                           <tbody>
+                            <tr>
+                             <td align=3D"center" height=3D"30" valign=3D"m=
+iddle" bgcolor=3D"#287BBC" background=3D"https://static.licdn.com/scds/comm=
+on/u/img/email/bg_btn_katy_blue_medium.png" style=3D"background:url(https:/=
+/static.licdn.com/scds/common/u/img/email/bg_btn_katy_blue_medium.png) repe=
+at-x scroll bottom #287BBC;background-color:#287BBC;border:1px solid #1B548=
+0;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px; curso=
+r: pointer;">
+                              <table border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%=
+" bgcolor=3D"transparent">
+                               <tbody>
+                                <tr>
+                                 <td width=3D"13">
+                                  <table width=3D"13px" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"1" class=3D"email-spacer">
+                                   <tbody>
+                                    <tr>
+                                     <td>
+                                      <div style=3D"height:0px;font-size:0p=
+x;line-height:0px">
+                                       &nbsp;
+                                      </div></td>
+                                    </tr>
+                                   </tbody>
+                                  </table></td>
+                                 <td><a href=3D"https://www.linkedin.com/bl=
+ink?simpleRedirect=3D3wOcPsMcjARczATcz4Re3cTejkZh4BKrSBQonhFtCVF9zdHk6lBkkB=
+RfnBBiShBsC5EsOoVclZMu6lvtCVFfmJB9D9Bp6VFrmlObnhMpmdzoiRKrThQtm8JoyRDtCVFnS=
+RJrScJr6RBfmtKqmJzon9Q9ClQqnpKimtBkClOs3Rx9CEObj5HpmNDqPpFbm9Fdz9MujRBfP9Sb=
+SkLrmZzbCVFp6lHrCBIbDtTtOYLeDdMt7hE&amp;msgID=3DI5973851315191717889_500&am=
+p;markAsRead=3D" style=3D"text-decoration:none; font-size: 13px;font-weight=
+: bold;color: white;white-space: nowrap;display: block;" target=3D"_blank">=
+<span style=3D"font-size: 13px;font-weight: bold;color: white;white-space: =
+nowrap;display: block;">Confirme que voc&ecirc; conhece Ant&ocirc;nio</span=
+></a></td>
+                                 <td width=3D"13">
+                                  <table width=3D"13px" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"1" class=3D"email-spacer">
+                                   <tbody>
+                                    <tr>
+                                     <td>
+                                      <div style=3D"height:0px;font-size:0p=
+x;line-height:0px">
+                                       &nbsp;
+                                      </div></td>
+                                    </tr>
+                                   </tbody>
+                                  </table></td>
+                                </tr>
+                               </tbody>
+                              </table></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td width=3D"20" class=3D"res-width10">
+                  <table width=3D"20px" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"1" class=3D"email-spacer res-width10">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+           </tbody>
+          </table>
+          <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"=
+font-family:Helvetica,Arial,sans-serif; " width=3D"600" class=3D"responsive=
+">
+           <tbody>
+            <tr>
+             <td align=3D"left">
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%" class=3D"respo=
+nsive">
+               <tbody>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:10px;font-size:10px;line-height:=
+10px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td align=3D"left">
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Helvetica,Arial,sans-serif; font-size:11px; font-family=
+:Helvetica,Arial,sans-serif; color:#999999;" width=3D"100%" class=3D"respon=
+sive res-font10">
+                   <tbody>
+                    <tr>
+                     <td>Voc&ecirc; recebeu um convite de conex&atilde;o. O=
+ LinkedIn utiliza seu endere&ccedil;o de e-mail para fazer sugest&otilde;es=
+ a nossos usu&aacute;rios em recursos como Pessoas que talvez voc&ecirc; co=
+nhe&ccedil;a. <a style=3D"text-decoration:none;color:#0077B5;" href=3D"http=
+s://www.linkedin.com/blink?simpleRedirect=3D1GcyQNqSlIpSISqiRyqjoOs7AZp6BB9=
+B5pi5hxmDFOqmhEh6hqcj9HgkZEslFflQVAjml4iRlKs39fclpmcCp1pl0TmlBdnPwRm6h1d6x8=
+mzgSblZvhzkSjSlTql9imBgOnTllgk51gkpcdk5QbkoMc5x5kk4Zp6BLr2oVclZMu6lvtCVFfmJ=
+B9B4ScSh5hSxmhD9JhB51fmVBqSZkp6BJ9CVRr3RQ9CEObj5HpmNDqPpFbm9Fdz9MujRBfP9SbS=
+kLrmZzbCVFp6lHrCBIbDtTtOYLeDdMt7hE&amp;msgID=3DI5973851315191717889_500&amp=
+;markAsRead=3D">Cancelar inscri&ccedil;&atilde;o</a></td>
+                    </tr>
+                    <tr>
+                     <td></td>
+                    </tr>
+                    <tr>
+                     <td>No caso de d&uacute;vidas ou se precisar de ajuda,=
+ entre em contato com o <a style=3D"color:#0077B5;text-decoration:none;" ta=
+rget=3D"_blank" href=3D"https://www.linkedin.com/blink?simpleRedirect=3D0Vc=
+lZMu6lvtCVFfmJB9CNOlmlzqnpOpldOpmRLt7dRoPRx9CEObj5HpmNDqPpFbm9Fdz9MujRBfP9S=
+bSkLrmZzbCVFp6lHrCBIbDtTtOYLeDdMt7hE&amp;msgID=3DI5973851315191717889_500&a=
+mp;markAsRead=3D">Atendimento ao Cliente do LinkedIn</a>.</td>
+                    </tr>
+                    <tr>
+                     <td>
+                      <table width=3D"1" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"1" class=3D"email-spacer">
+                       <tbody>
+                        <tr>
+                         <td>
+                          <div style=3D"height:10px;font-size:10px;line-hei=
+ght:10px">
+                           &nbsp;
+                          </div></td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                    <tr>
+                     <td></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+           </tbody>
+          </table></td>
+        </tr>
+       </tbody>
+      </table></td>
+    </tr>
+   </tbody>
+  </table>
+  <img src=3D"http://www.linkedin.com/emimp/yp26ib-i6kglek1-2j.gif" style=
+=3D"width:1px; height:1px;" />
+ </body>
+</html>
+------=_Part_8185063_545230829.1424852858491--

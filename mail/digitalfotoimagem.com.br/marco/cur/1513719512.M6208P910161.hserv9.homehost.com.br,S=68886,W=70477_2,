@@ -1,0 +1,1591 @@
+Return-Path: <585-GGD-959.0.22650.0.0.10131.9.5170223@em-sj-77.mktomail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br with LMTP id 4DEGM9eGOVpR4w0AY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Tue, 19 Dec 2017 19:38:32 -0200
+Return-path: <585-GGD-959.0.22650.0.0.10131.9.5170223@em-sj-77.mktomail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 19 Dec 2017 19:38:32 -0200
+Received: from delapparentia.mktdns.com ([192.28.146.180]:60658)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89_1)
+	(envelope-from <585-GGD-959.0.22650.0.0.10131.9.5170223@em-sj-77.mktomail.com>)
+	id 1eRPap-003qv1-7D
+	for marco@digitalfotoimagem.com.br; Tue, 19 Dec 2017 19:38:31 -0200
+X-MSFBL: bWFyY29AZGlnaXRhbGZvdG9pbWFnZW0uY29tLmJyQGR2cC0xOTItMjgtMTQ2LTE4
+	MEBiZy1zamQtMjg5QDU4NS1HR0QtOTU5Ojc5NTU6OTM2NDozNjk3MzowOjEwMTMx
+	Ojk6MjI2NTA6NTE3MDIyMw==
+Received: from [10.0.87.249] ([10.0.87.249:37960] helo=sjmas01.marketo.org)
+	by sjmta06.marketo.org (envelope-from <info@magento.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTP
+	id 77/A9-11157-6A6893A5; Tue, 19 Dec 2017 15:37:42 -0600
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1513719462;
+	s=m1; d=magento.com; i=@magento.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=QuldsK4cIkfr0+ySQ94dmujn4KSvdCVgFaevjKOGh5E=;
+	b=Mjk1cl8POEcVp0V5KZhmSJzriDZ7TLiZ4TNxiK8FwqeaFO6CiNQdUx3ZSntq4fM8
+	voDH9QT1Y/07vDPjEbm1RSVX7DQiMhAA3VN46wED5t58NF/3vttYrTnCjd3oQpdOz3X
+	l7Vl4BnfmyMiDIFL4WupbdHEH6dOIYd02MajBSGs=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1513719462;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=QuldsK4cIkfr0+ySQ94dmujn4KSvdCVgFaevjKOGh5E=;
+	b=gona0zh0oQFx6mI1ZRyXzLJk5J1JWnSVjXT5DwNZ7lRr4vXvYIVsRk0H5uQFy/bR
+	ZPkBBFCm30MMnLkLCiuUYAbIXF2PIXLHIkz2vd5Q5yY5evuu/eNMCPuWeHrKJ5FZU4f
+	j8MMSUWZKzWNDNMpQPtNk7IzJg5W0PQ0DrbhR7uM=
+Date: Tue, 19 Dec 2017 15:37:42 -0600 (CST)
+From: Magento <info@magento.com>
+Reply-To: info@magento.com
+To: marco@digitalfotoimagem.com.br
+Message-ID: <968333575.-1035661693.1513719462568.JavaMail.root@sjmas01.marketo.org>
+Subject: MAGENTO EXCLUSIVE: Introducing the Merchant's Cart
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_-1035661694_2112786960.1513719462568"
+X-PVIQ: mkto-585GGD959-000001-000000-022650
+X-Binding: bg-sjd-289
+X-MarketoID: 585-GGD-959:7955:9364:36973:0:10131:9:22650:5170223
+X-MktArchive: false
+List-Unsubscribe: <mailto:GFLESNCONZZGOWKPGY3U43TDGRUWUTTTG5AT2PI.22650.10131.9@unsub-sj.mktomail.com>
+X-Mailfrom: 585-GGD-959.0.22650.0.0.10131.9.5170223@em-sj-77.mktomail.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+
+------=_Part_-1035661694_2112786960.1513719462568
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+THE MERCHANT'S CART
+Shop around for commerce best practices
+FLEX YOUR B2B COMMERCE SUPERPOWERS.
+The Magento B2B Commerce Best Practice Book consults a panel of B2B superhe=
+roes to help you fight the foes of digital transformation and become the he=
+ro of your organization.
+How to Optimize Your Business for the Holidays
+Head of Magento Business Intelligence, Robert J. Moore, runs through the nu=
+mbers and offers data-driven tips to help you succeed this holiday season.
+4 Considerations for Upgrading Merchants
+This simple infographic shares considerations to help you evaluate and expe=
+dite your upgrade so you can focus on the strategic business priorities tha=
+t are integral to your success.
+Merchant Chats
+Learn how Sana Safinaz, Pakistan=E2=80=99s leading fashion brand, launched =
+a site in the four weeks leading up to the fashion industry=E2=80=99s hecti=
+c =E2=80=98lawn season.=E2=80=99
+Four Social Media Tips to Boost Holiday Sales
+If you want to position your eCommerce business for maximum holiday spendin=
+g, social media is a primary source for success. Here are four tips to help=
+ you with that.
+Why All Commerce Leaders Need to Pay Attention to PWAs
+PWAs deliver blazingly fast and slick =E2=80=9Capp-like=E2=80=9D experience=
+s in the mobile web browser using open web technologies, a huge help to onl=
+ine merchants facing the shift of traffic from desktop to mobile.
+<http://email2.magento.com/a0200X0cHG0000cDDGqOlHs>  <http://email2.magento=
+.com/XsX0HkG0q000DOl0H02cGL0>  <http://email2.magento.com/LHl2DG00c0MO0Gl0H=
+0X0s0q>  <http://email2.magento.com/eq00RD02000GGO0HlcqXH0s>  <http://email=
+2.magento.com/kG0nX0q00OH02GsH0c0Ol0D>  <http://email2.magento.com/lOGHo000=
+Xc0H0D2sl0q0P0G> =20
+=20
+
+This email was sent to you because you have agreed to receive information a=
+bout our services. We will only use your information in accordance with our=
+ privacy policy. To unsubscribe from our commercial mailing list, please cl=
+ick here <[[#unsubscribe]]>.=20
+
+Copyright=C2=A9 2017 Magento, Inc. All rights reserved. Magento, Inc. is lo=
+cated at 3640 Holdrege Ave, Los Angeles, CA 90016.
+
+-
+
+------=_Part_-1035661694_2112786960.1513719462568
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" style=3D"width: 100%;">
+<head>=20
+<!-- Marketo Variable Definitions -->         =20
+<!-- Logo Section Variables -->     =20
+<!-- Header Image Section Variables -->     =20
+<!-- Featured Section Variables -->        =20
+<!-- Two Articles Section Variables -->                =20
+<!-- Video Section Variables -->          =20
+<!-- Blog Section Variables -->           =20
+<!-- Footer Section Variables -->   =20
+<!-- Other Meta Tags -->=20
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />=
+=20
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1,=
+ minimum-scale=3D1, maximum-scale=3D1" />=20
+<meta name=3D"robots" content=3D"noindex,nofollow" />=20
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />=20
+<link href=3D"https://fonts.googleapis.com/css?family=3DRaleway:300,400,700=
+" rel=3D"stylesheet" type=3D"text/css" />=20
+<link href=3D"https://fonts.googleapis.com/css?family=3DBree+Serif" rel=3D"=
+stylesheet" />=20
+<link href=3D"https://fonts.googleapis.com/css?family=3DLato:300,400,700" r=
+el=3D"stylesheet" type=3D"text/css" />=20
+<!--[if mso]>
+<style type=3D'text/css'>
+.primary-font {
+font-family: Arial, sans-serif !important;
+}
+</style>
+<![endif]-->=20
+<!--[if mso]>
+<style type=3D'text/css'>
+.secondary-font {
+font-family: Arial, sans-serif !important;
+}
+</style>
+<![endif]-->=20
+<style>
+=09/*startcommon*/
+=09@media only screen and (max-width: 800px) {
+=09=09table#boxing{
+=09=09=09width: 100% !important;
+=09=09}
+=09}
+=09/*endcommon*/
+</style>=20
+<style media=3D"all">
+/* CLIENT-SPECIFIC STYLES */
+#outlook a {
+  padding: 0;
+}
+/* Force Outlook to provide a "view in browser" message */
+.ReadMsgBody {
+  width: 100%;
+}
+.ExternalClass {
+  width: 100%;
+}
+/* Force Hotmail to display emails at full width */
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+  line-height: 100%;
+}
+/* Force Hotmail to display normal line spacing */
+/* iOS BLUE LINKS */
+.appleBody a {
+  color: #000;
+  text-decoration: none;
+}
+.appleFooter a {
+  color: #000;
+  text-decoration: none;
+}
+@-ms-viewport {
+    width: device-width;
+}
+
+</style>=20
+<style media=3D"all">
+@media only screen and (max-width: 640px) and (min-width: 479px) {
+
+/*starttablet*/
+
+body {
+=09width: auto !important;
+}
+
+table[class=3D"table600"] {
+=09width: 450px !important;
+}
+
+table[class=3D"table-inner"] {
+=09width: 86% !important;
+}
+
+table[class=3D"table1-2"] {
+=09width: 47% !important;
+=09clear: both;
+}
+
+table[class=3D"footer-logo"] {
+=09width: 10% !important;
+=09text-align: right !important;
+}
+
+td[class=3D"outer"] {
+=09min-width: 0 !important;
+}
+
+td[class=3D"stack"] {
+=09padding-bottom: 40px !important;
+}
+
+.stack-tablet {
+=09padding-bottom: 20px !important;
+=09overflow: visible !important;
+=09float: none !important;
+=09mso-hide: none !important;
+=09display: block !important;
+}
+
+img[class=3D"mobile-img"] {
+=09width: 100% !important;
+=09height: auto !important;
+}
+
+td[class=3D"center-tablet"] {
+=09text-align: center !important;
+}
+
+td[class=3D"hide-tablet"] {
+=09display: none !important;
+}
+
+table[class=3D"footer-column"] {
+=09width: 47% !important;
+=09text-align: left !important;
+}
+
+.m_two-articles .table1-2 {
+=09width: 100% !important;
+}
+
+.m_two-articles .photo img {
+=09width: 100% !important;
+}
+.m_free-image .logo img {
+=09width: 60% !important;
+=09margin-left: auto !important;
+=09margin-right: auto !important;
+}
+.m_two-articles .stack-tablet td {
+=09/*height: 60px !important;*/
+}
+
+.m_free-image img {
+=09width: 450px !important;
+}
+ =20
+.mainHeading {
+=09text-align:center !important;=20
+}
+.subHeading {
+=09text-align:center !important;
+}
+ =20
+ =20
+/*endtablet*/
+
+}
+
+@media only screen and (max-width: 479px) {
+
+/*startmobile*/
+
+body {
+=09width: auto !important;
+}
+
+table[class=3D"table600"] {
+=09width: 290px !important;
+}
+
+table[class=3D"table-inner"] {
+=09width: 80% !important;
+=09float: none !important;
+}
+
+table[class=3D"table1-2"] {
+=09width: 100% !important;
+=09clear: both;
+}
+
+table[class=3D"footer-logo"] {
+=09width: 60% !important;
+=09text-align: center !important;
+}
+
+td[class=3D"outer"] {
+=09min-width: 0 !important;
+}
+
+td[class=3D"td3-1"] {
+=09width: 60% !important;
+=09text-align: center !important;
+}
+
+.stack-smartphone {
+=09padding-bottom: 20px !important;
+=09overflow: visible !important;
+=09float: none !important;
+=09display: block !important;
+=09mso-hide: none !important;
+}
+
+td[class=3D"center-smartphone"] {
+=09text-align: center !important;
+}
+
+img[class=3D"mobile-img"] {
+=09width: 100% !important;
+}
+
+td[class=3D"center-tablet"] {
+=09text-align: center !important;
+}
+
+td[class=3D"hide-smartphone"] {
+=09display: none !important;
+}
+
+table[class=3D"footer-column"] {
+=09width: 100% !important;
+=09text-align: center !important;
+}
+ =20
+.m_two-articles .photo img {
+=09width: 100% !important;
+}
+.m_free-image .logo img {
+=09width: 70% !important;
+=09margin-left: auto !important;
+=09margin-right: auto !important;
+}
+.m_free-image img {
+=09width: 290px !important;
+}
+
+.m_hr .table-inner {
+=09width: 100% !important;
+}
+=09
+.mainHeading {
+=09font-size: 27px !important;
+=09text-align:center !important;=20
+}
+.subHeading {
+=09font-size: 16px !important;
+=09text-align:center !important;
+}
+
+/*endmobile*/
+
+}
+
+
+</style>=20
+</head>=20
+<body style=3D"margin-bottom: 0; -webkit-text-size-adjust: 100%; padding-bo=
+ttom: 0; min-width: 100%; margin-top: 0; margin-right: 0; -ms-text-size-adj=
+ust: 100%; margin-left: 0; padding-top: 0; padding-right: 0; padding-left: =
+0; width: 100%;">=20
+<div style=3D"display:none; white-space:nowrap; font:15px courier; line-hei=
+ght:0;">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</div>=20
+<!-- Outer table START -->=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: col=
+lapse;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"outer" valign=3D"top" style=3D"-webkit-text-size-adjust: 100%;=
+ -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; =
+word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens:=
+ none; min-width: 600px; border-collapse: collapse; background-color: #eeee=
+ee;">=20
+<table width=3D"700" align=3D"center" id=3D"boxing" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"mktoContainer boxedbackground" id=3D"template-wrapper" style=
+=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-l=
+space: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens:=
+ none; -moz-hyphens: none; hyphens: none; border-collapse: collapse;">
+<table class=3D"mktoModule m_spacer" id=3D"spacer" style=3D"-webkit-text-si=
+ze-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" align=3D"cen=
+ter" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;backgr=
+ound-color:#ffffff;" bgcolor=3D"#ffffff" valign=3D"top">=20
+<table class=3D"table600" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; mar=
+gin-bottom: 0; margin-left: auto;" align=3D"center" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-h=
+eight:40px;font-size:40px;" height=3D"40px"></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule m_free-image" id=3D"logo-image" style=3D"-webkit=
+-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt;=
+ mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" alig=
+n=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;backgr=
+ound-color:#ffffff;" bgcolor=3D"#ffffff" valign=3D"top">=20
+<center>=20
+<table class=3D"table600" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; mar=
+gin-bottom: 0; margin-left: auto;" align=3D"center" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td class=3D"" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust=
+: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-=
+webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: coll=
+apse;line-height:0px;font-size:0px;" height=3D"0px"></td>=20
+</tr>=20
+<tr>=20
+<td class=3D"logo" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-a=
+djust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: brea=
+k-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-co=
+llapse: collapse;">=20
+<div class=3D"mktoImg" id=3D"logo" mktolockimgsize=3D"true">
+<a href=3D
+"http://email2.magento.com/a0200X0cHG0000cDDGqOlHs" target=3D"_blank"
+> <img src=3D"https://info2.magento.com/rs/585-GGD-959/images/magento-logo-=
+color.png" alt=3D"Magento Logo" style=3D"-ms-interpolation-mode: bicubic; o=
+utline: none; border-right-width: 0; border-bottom-width: 0; border-left-wi=
+dth: 0; text-decoration: none; border-top-width: 0; display: block; max-wid=
+th: 100%; line-height: 100%; height: auto; width: 140;" width=3D"140" borde=
+r=3D"0" /> </a>
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-h=
+eight:40px;font-size:40px;" height=3D"40px"></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</center> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule m_two-articles" id=3D"free-image" style=3D"-webk=
+it-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0p=
+t; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" al=
+ign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;backgr=
+ound-color:#f1f1f1;" bgcolor=3D"#f1f1f1" valign=3D"top">=20
+<center>=20
+<table class=3D"table600" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; mar=
+gin-bottom: 0; margin-left: auto;" align=3D"center" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td class=3D"" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust=
+: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-=
+webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: coll=
+apse;line-height:20px;font-size:20px;" height=3D"20px"></td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">=20
+<center>=20
+<table class=3D"table1-2" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"right" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"440px">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">=20
+<table class=3D"contents" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0">=20
+<tbody>=20
+<tr>=20
+<td data-medium-editor-element=3D"true" class=3D"primary-font title mainHea=
+ding" style=3D"-moz-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-=
+lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: n=
+one;-ms-text-size-adjust: 100%;hyphens: none;text-align: left;font-family:'=
+Bree Serif', Arial, sans-serif; font-size: 38px; fborder-collapse: collapse=
+; line-height: 42px; color: #f16321">=20
+<div class=3D"mktoText" id=3D"newsletterTitle">
+THE MERCHANT'S CART
+</div></td>=20
+</tr>=20
+<tr>=20
+<td data-medium-editor-element=3D"true" class=3D"secondary-font text subHea=
+ding" style=3D"hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspac=
+e: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-=
+moz-hyphens: none;-ms-text-size-adjust: 100%;color: #333333;text-align: lef=
+t;font-family:'Lato', Arial, sans-serif;font-size: 20px;line-height: 23px;b=
+order-collapse: collapse;">=20
+<div class=3D"mktoText" id=3D"newsletterSubheading">
+Shop around for commerce best practices
+</div></td>=20
+</tr>=20
+<tr class=3D"stack-tablet" style=3D"padding-left: 0; overflow: hidden; marg=
+in-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; float: lef=
+t; margin-top: 0; margin-right: 0; margin-bottom: 0; mso-hide: all; display=
+: none;">=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr class=3D"stack-smartphone" style=3D"padding-left: 0; overflow: hidden; =
+margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; float:=
+ left; margin-top: 0; margin-right: 0; margin-bottom: 0; mso-hide: all; dis=
+play: none;">=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<table class=3D"table1-2" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"left" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"136">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">=20
+<table class=3D"contents" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0">=20
+<tbody>=20
+<tr>=20
+<td class=3D"photo" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-=
+adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: bre=
+ak-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-c=
+ollapse: collapse;">=20
+<div class=3D"mktoImg" id=3D"headerImage" mktolockimgsize=3D"true">
+<img src=3D"https://info2.magento.com/rs/585-GGD-959/images/merchant-newsle=
+tter-bug.png" style=3D"-ms-interpolation-mode: bicubic; outline: none; bord=
+er-right-width: 0; border-bottom-width: 0; border-left-width: 0; text-decor=
+ation: none; border-top-width: 0; display: block; max-width: 100%; line-hei=
+ght: 100%; height: auto; width: 136px;" height=3D"auto" width=3D"136" />
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</center> </td>=20
+</tr>=20
+<tr>=20
+<td class=3D"" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust=
+: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-=
+webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: coll=
+apse;line-height:20px;font-size:20px;" height=3D"20px"></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</center> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule m_two-articles" id=3D"featured" acstyle=3D"-webk=
+it-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0p=
+t; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" al=
+ign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;backgr=
+ound-color:#ffffff;" bgcolor=3D"#ffffff" valign=3D"top">=20
+<table class=3D"table600" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; mar=
+gin-bottom: 0; margin-left: auto;" align=3D"center" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td class=3D"" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust=
+: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-=
+webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: coll=
+apse;line-height:20px;font-size:20px;" height=3D"20px"></td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e; border-color:#000000; border-width:3pxpx; border-style: solid; backgroun=
+d-color:#ffffff;" bgcolor=3D"#ffffff">=20
+<center>=20
+<table class=3D"table1-2" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"left" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"300">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">=20
+<table class=3D"contents" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0">=20
+<tbody>=20
+<tr>=20
+<td class=3D"photo" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-=
+adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: bre=
+ak-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-c=
+ollapse: collapse;">=20
+<div class=3D"mktoImg" id=3D"featuredImage" mktolockimgsize=3D"true">
+<a href=3D
+"http://email2.magento.com/uEq0000GlX0s0d02OHHGDc0" target=3D"_blank"
+> <img alt=3D"B2B Commerce Best Practices Book" src=3D"https://info2.magent=
+o.com/rs/585-GGD-959/images/b2b-best-practices-ebook.png" style=3D"-ms-inte=
+rpolation-mode: bicubic; outline: none; border-right-width: 0; border-botto=
+m-width: 0; border-left-width: 0; text-decoration: none; border-top-width: =
+0; display: block; max-width: 100%; line-height: 100%; height: auto; width:=
+ 300px;" height=3D"auto" width=3D"300px" /> </a>
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr class=3D"stack-smartphone" style=3D"padding-left: 0; overflow: hidden; =
+margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; float:=
+ left; margin-top: 0; margin-right: 0; margin-bottom: 0; mso-hide: all; dis=
+play: none;">=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<table class=3D"table1-2" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"right" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"275">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">=20
+<table class=3D"contents" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0">=20
+<tbody>=20
+<tr>=20
+<td data-medium-editor-element=3D"true" class=3D"primary-font title" style=
+=3D"-moz-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt=
+;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-ms-tex=
+t-size-adjust: 100%;hyphens: none;text-align: left;font-family:'Raleway', A=
+rial, sans-serif;font-size: 22px;border-collapse: collapse; padding-top: 15=
+px; padding-right: 15px; padding-left: 15px;">=20
+<div class=3D"mktoText" id=3D"featuredTitle">
+<div>
+FLEX YOUR B2B COMMERCE SUPERPOWERS.
+<br />
+</div>
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td data-medium-editor-element=3D"true" class=3D"secondary-font text" style=
+=3D"hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens=
+: none;-ms-text-size-adjust: 100%;color: #737373;text-align: left;font-fami=
+ly:'Lato', Arial, sans-serif;font-size: 14px;line-height: 23px;border-colla=
+pse: collapse; padding:15px;">=20
+<div class=3D"mktoText" id=3D"text1">
+<div>
+The Magento B2B Commerce Best Practice Book consults a panel of B2B superhe=
+roes to help you fight the foes of digital transformation and become the he=
+ro of your organization.
+</div>
+</div></td>=20
+</tr>=20
+<tr>=20
+<td class=3D"cta" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break=
+-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-col=
+lapse: collapse;"> <a href=3D
+"http://email2.magento.com/uEq0000GlX0s0d02OHHGDc0" target=3D"_blank" class=
+=3D"primary-font button" style=3D"-webkit-text-size-adjust: 100%;-ms-text-s=
+ize-adjust: 100%;font-size: 14px;font-family:'Raleway', Arial, sans-serif; =
+padding-bottom: 20px; padding-left:15px; display: inline-block;text-decorat=
+ion: none; color:#1b7177"
+><strong>READ MORE &gt;</strong></a> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</center> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-h=
+eight:0px;font-size:0px;" height=3D"0px"></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule m_two-articles" id=3D"two-articles" acstyle=3D"-=
+webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace=
+: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;=
+" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;backgr=
+ound-color:#ffffff;" bgcolor=3D"#ffffff" valign=3D"top">=20
+<table class=3D"table600" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; mar=
+gin-bottom: 0; margin-left: auto;" align=3D"center" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td class=3D"" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust=
+: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-=
+webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: coll=
+apse;line-height:40px;font-size:40px;" height=3D"40px"></td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">=20
+<center>=20
+<table class=3D"table1-2" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"left" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"275">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">=20
+<table class=3D"contents" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0">=20
+<tbody>=20
+<tr>=20
+<td class=3D"photo" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-=
+adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: bre=
+ak-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-c=
+ollapse: collapse;">=20
+<div class=3D"mktoImg" id=3D"article3" mktolockimgsize=3D"true">
+<a href=3D
+"http://email2.magento.com/jHeG0c2XG00l00HqDsF0O00" target=3D"_blank"
+> <img src=3D"https://info2.magento.com/rs/585-GGD-959/images/EEMO-1428_MBI=
+_thumbnail_275x200px.png" style=3D"-ms-interpolation-mode: bicubic; outline=
+: none; border-right-width: 0; border-bottom-width: 0; border-left-width: 0=
+; text-decoration: none; border-top-width: 0; display: block; max-width: 10=
+0%; line-height: 100%; height: auto; width: 275px;" height=3D"auto" width=
+=3D"275" /> </a>
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-h=
+eight:20px;font-size:20px;" height=3D"20px"></td>=20
+</tr>=20
+<tr>=20
+<td data-medium-editor-element=3D"true" class=3D"primary-font title" style=
+=3D"-moz-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt=
+;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-ms-tex=
+t-size-adjust: 100%;hyphens: none;text-align: left;font-family:'Raleway', A=
+rial, sans-serif;font-weight: bold;font-size: 16px;border-collapse: collaps=
+e;">=20
+<div class=3D"mktoText" id=3D"articleTitle">
+<div>
+How to Optimize Your Business for the Holidays
+</div>
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-h=
+eight:15px;font-size:15px;" height=3D"15px"></td>=20
+</tr>=20
+<tr>=20
+<td data-medium-editor-element=3D"true" class=3D"secondary-font text" style=
+=3D"hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens=
+: none;-ms-text-size-adjust: 100%;color: #737373;text-align: left;font-fami=
+ly:'Lato', Arial, sans-serif;font-size: 14px;line-height: 23px;border-colla=
+pse: collapse;">=20
+<div class=3D"mktoText" id=3D"text2">
+<div>
+Head of Magento Business Intelligence, Robert J. Moore, runs through the nu=
+mbers and offers data-driven tips to help you succeed this holiday season.&=
+nbsp;
+</div>
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-h=
+eight:20px;font-size:20px;" height=3D"20px"></td>=20
+</tr>=20
+<tr>=20
+<td class=3D"cta" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break=
+-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-col=
+lapse: collapse;">=20
+<table style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;=
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-co=
+llapse: collapse; margin-top: 0; margin-right: auto; margin-bottom: 0; marg=
+in-left: auto;" align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;" align=3D"center" bgcolor=3D"#1b7177"> <a href=3D
+"http://email2.magento.com/HG0020H0qHf0ODl0XcG00Gs" target=3D"_blank" class=
+=3D"primary-font button" style=3D"-webkit-text-size-adjust:=20
+100%;-ms-text-size-adjust: 100%;border-left-color:#1b7177;font-size: 13px;f=
+ont-family:'Raleway', Arial, sans-serif;color: #ffffff;padding-top: 10px;pa=
+dding-right: 16px;padding-bottom: 10px;padding-left: 16px;border-top-width:=
+1px;display: inline-block;border-bottom-width:1px;border-left-width:1px;bor=
+der-top-style:=20
+solid;border-right-style: solid;border-bottom-style: solid;border-left-styl=
+e: solid;border-top-color:#1b7177;border-right-color:#1b7177;border-bottom-=
+color:#1b7177;border-right-width:1px;text-decoration: none;background-color=
+:#1b7177;"
+>WATCH VIDEO</a> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr class=3D"stack-tablet" style=3D"padding-left: 0; overflow: hidden; marg=
+in-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; float: lef=
+t; margin-top: 0; margin-right: 0; margin-bottom: 0; mso-hide: all; display=
+: none;">=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr class=3D"stack-smartphone" style=3D"padding-left: 0; overflow: hidden; =
+margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; float:=
+ left; margin-top: 0; margin-right: 0; margin-bottom: 0; mso-hide: all; dis=
+play: none;">=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<table class=3D"table1-2" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"right" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"275">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">=20
+<table class=3D"contents" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0">=20
+<tbody>=20
+<tr>=20
+<td class=3D"photo" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-=
+adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: bre=
+ak-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-c=
+ollapse: collapse;">=20
+<div class=3D"mktoImg" id=3D"article4" mktolockimgsize=3D"true">
+<a href=3D
+"http://email2.magento.com/V0Gg000sOc0D200GXlHHHq0" target=3D"_blank"
+> <img src=3D"https://info2.magento.com/rs/585-GGD-959/images/EEMO-1428_Fou=
+r_considerations_for_upgrading_merchants_thumbnail_275x200px.png" style=3D"=
+-ms-interpolation-mode: bicubic; outline: none; border-right-width: 0; bord=
+er-bottom-width: 0; border-left-width: 0; text-decoration: none; border-top=
+-width: 0; display: block; max-width: 100%; line-height: 100%; height: auto=
+; width: 275px;" height=3D"auto" width=3D"275" /> </a>
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-h=
+eight:20px;font-size:20px;" height=3D"20px"></td>=20
+</tr>=20
+<tr>=20
+<td data-medium-editor-element=3D"true" class=3D"primary-font title" style=
+=3D"-moz-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt=
+;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-ms-tex=
+t-size-adjust: 100%;hyphens: none;text-align: left;font-family:'Raleway', A=
+rial, sans-serif;font-weight: bold;font-size: 16px;border-collapse: collaps=
+e;">=20
+<div class=3D"mktoText" id=3D"articleTitle2">
+<div>
+4 Considerations for Upgrading Merchants
+</div>
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-h=
+eight:15px;font-size:15px;" height=3D"15px"></td>=20
+</tr>=20
+<tr>=20
+<td data-medium-editor-element=3D"true" class=3D"secondary-font text" style=
+=3D"hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens=
+: none;-ms-text-size-adjust: 100%;color: #737373;text-align: left;font-fami=
+ly:'Lato', Arial, sans-serif;font-size: 14px;line-height: 23px;border-colla=
+pse: collapse;">=20
+<div class=3D"mktoText" id=3D"text3">
+<div>
+This simple infographic shares considerations to help you evaluate and expe=
+dite your upgrade so you can focus on the strategic business priorities tha=
+t are integral to your success.
+</div>
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-h=
+eight:20px;font-size:20px;" height=3D"20px"></td>=20
+</tr>=20
+<tr>=20
+<td class=3D"cta" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break=
+-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-col=
+lapse: collapse;">=20
+<table style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;=
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-co=
+llapse: collapse; margin-top: 0; margin-right: auto; margin-bottom: 0; marg=
+in-left: auto;" align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;" align=3D"center" bgcolor=3D"#1b7177"> <a href=3D
+"http://email2.magento.com/V0Gg000sOc0D200GXlHHHq0" target=3D"_blank" class=
+=3D"primary-font button" style=3D"-webkit-text-size-adjust:=20
+100%;-ms-text-size-adjust: 100%;border-left-color:#1b7177;font-size: 13px;f=
+ont-family:'Raleway', Arial, sans-serif;color: #ffffff;padding-top: 10px;pa=
+dding-right: 16px;padding-bottom: 10px;padding-left: 16px;border-top-width:=
+1px;display: inline-block;border-bottom-width:1px;border-left-width:1px;bor=
+der-top-style:=20
+solid;border-right-style: solid;border-bottom-style: solid;border-left-styl=
+e: solid;border-top-color:#1b7177;border-right-color:#1b7177;border-bottom-=
+color:#1b7177;border-right-width:1px;text-decoration: none;background-color=
+:#1b7177;"
+>VIEW NOW</a> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</center> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-h=
+eight:40px;font-size:40px;" height=3D"40px"></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule m_two-articles" id=3D"video" acstyle=3D"-webkit-=
+text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; =
+mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+>=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;backgr=
+ound-color:#93d1d5;" bgcolor=3D"#93d1d5" valign=3D"top">=20
+<table class=3D"table600" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; mar=
+gin-bottom: 0; margin-left: auto;" align=3D"center" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td class=3D"" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust=
+: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-=
+webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: coll=
+apse;line-height:40px;font-size:40px;" height=3D"40px"></td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">=20
+<center>=20
+<table class=3D"table1-2" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"right" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"200">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">=20
+<table class=3D"contents" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0">=20
+<tbody>=20
+<tr>=20
+<td class=3D"photo" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-=
+adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: bre=
+ak-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-c=
+ollapse: collapse;">=20
+<div class=3D"mktoImg" id=3D"article5" mktolockimgsize=3D"true">
+<a href=3D
+"http://email2.magento.com/UHhH0lD0XG0GsO02cq000I0" target=3D"_blank"
+><img src=3D"https://info2.magento.com/rs/585-GGD-959/images/EEMO-1428_Sana=
+_Safinaz_customer_story_thumbnail_200x150px.png" width=3D"200" style=3D"-ms=
+-interpolation-mode: bicubic; outline: none; border-right-width: 0; border-=
+bottom-width: 0; border-left-width: 0; text-decoration: none; border-top-wi=
+dth: 0; display: block; max-width: 100%; line-height: 100%; height: auto; w=
+idth: 200px;" /></a>
+</div> </td>=20
+</tr>=20
+<tr class=3D"stack-tablet" style=3D"padding-left: 0; overflow: hidden; marg=
+in-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; float: lef=
+t; margin-top: 0; margin-right: 0; margin-bottom: 0; mso-hide: all; display=
+: none;">=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr class=3D"stack-smartphone" style=3D"padding-left: 0; overflow: hidden; =
+margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; float:=
+ left; margin-top: 0; margin-right: 0; margin-bottom: 0; mso-hide: all; dis=
+play: none;">=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<table class=3D"table1-2" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"left" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"380">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">=20
+<table class=3D"contents" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0">=20
+<tbody>=20
+<tr>=20
+<td data-medium-editor-element=3D"true" class=3D"primary-font title" style=
+=3D"-moz-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt=
+;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-ms-tex=
+t-size-adjust: 100%;hyphens: none;text-align: left;font-family:'Raleway', A=
+rial, sans-serif;font-weight: bold;font-size: 16px;border-collapse: collaps=
+e;">=20
+<div class=3D"mktoText" id=3D"videoTitle">
+Merchant Chats
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-h=
+eight:15px;font-size:15px;" height=3D"15px"></td>=20
+</tr>=20
+<tr>=20
+<td data-medium-editor-element=3D"true" class=3D"secondary-font text" style=
+=3D"hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens=
+: none;-ms-text-size-adjust: 100%;color: #737373;text-align: left;font-fami=
+ly:'Lato', Arial, sans-serif;font-size: 14px;line-height: 23px;border-colla=
+pse: collapse;">=20
+<div class=3D"mktoText" id=3D"text4">
+<div>
+Learn how Sana Safinaz, Pakistan=E2=80=99s leading fashion brand, launched =
+a site in the four weeks leading up to the fashion industry=E2=80=99s hecti=
+c =E2=80=98lawn season.=E2=80=99&nbsp;
+</div>
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-h=
+eight:20px;font-size:20px;" height=3D"20px"></td>=20
+</tr>=20
+<tr>=20
+<td class=3D"cta" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break=
+-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-col=
+lapse: collapse;">=20
+<table style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;=
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-co=
+llapse: collapse; margin-top: 0; margin-right: auto; margin-bottom: 0; marg=
+in-left: auto;" align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;" align=3D"center" bgcolor=3D"#1b7177"> <a href=3D
+"http://email2.magento.com/UHhH0lD0XG0GsO02cq000I0" target=3D"_blank" class=
+=3D"primary-font button" style=3D"-webkit-text-size-adjust:=20
+100%;-ms-text-size-adjust: 100%;border-left-color:#1b7177;font-size: 13px;f=
+ont-family:'Raleway', Arial, sans-serif;color: #ffffff;padding-top: 10px;pa=
+dding-right: 16px;padding-bottom: 10px;padding-left: 16px;border-top-width:=
+1px;display: inline-block;border-bottom-width:1px;border-left-width:1px;bor=
+der-top-style: solid;border-right-style:=20
+solid;border-bottom-style: solid;border-left-style: solid;border-top-color:=
+#1b7177;border-right-color:#1b7177;border-bottom-color:#1b7177;border-right=
+-width:1px;text-decoration: none;background-color:#1b7177;"
+>WATCH VIDEO</a> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</center> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-h=
+eight:40px;font-size:40px;" height=3D"40px"></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule m_two-articles" id=3D"two-blogs" acstyle=3D"-web=
+kit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" a=
+lign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;backgr=
+ound-color:#ffffff;" bgcolor=3D"#ffffff" valign=3D"top">=20
+<table class=3D"table600" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; mar=
+gin-bottom: 0; margin-left: auto;" align=3D"center" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td class=3D"" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust=
+: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-=
+webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: coll=
+apse;line-height:40px;font-size:40px;" height=3D"40px"></td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">=20
+<center>=20
+<table class=3D"table1-2" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"left" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"275">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">=20
+<table class=3D"contents" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0">=20
+<tbody>=20
+<tr>=20
+<td class=3D"photo" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-=
+adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: bre=
+ak-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-c=
+ollapse: collapse;">=20
+<div class=3D"mktoImg" id=3D"blogImage1" mktolockimgsize=3D"true">
+<a href=3D
+"http://email2.magento.com/uJq0000GlX0s0i02OHHGDc0" target=3D"_blank"
+> <img src=3D"https://info2.magento.com/rs/585-GGD-959/images/EEMO-1428_Fou=
+r_social_tips_275x200px.png" style=3D"-ms-interpolation-mode: bicubic; outl=
+ine: none; border-right-width: 0; border-bottom-width: 0; border-left-width=
+: 0; text-decoration: none; border-top-width: 0; display: block; max-width:=
+ 100%; line-height: 100%; height: auto; width: auto;" height=3D"auto" width=
+=3D"auto" /> </a>
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-h=
+eight:20px;font-size:20px;" height=3D"20px"></td>=20
+</tr>=20
+<tr>=20
+<td data-medium-editor-element=3D"true" class=3D"primary-font title" style=
+=3D"-moz-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt=
+;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-ms-tex=
+t-size-adjust: 100%;hyphens: none;text-align: left;font-family:'Raleway', A=
+rial, sans-serif;font-weight: bold;font-size: 16px;border-collapse: collaps=
+e;">=20
+<div class=3D"mktoText" id=3D"blogTitle1">
+<div>
+Four Social Media Tips to Boost Holiday Sales
+</div>
+</div></td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-h=
+eight:15px;font-size:15px;" height=3D"15px"></td>=20
+</tr>=20
+<tr>=20
+<td data-medium-editor-element=3D"true" class=3D"secondary-font text" style=
+=3D"hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens=
+: none;-ms-text-size-adjust: 100%;color: #737373;text-align: left;font-fami=
+ly:'Lato', Arial, sans-serif;font-size: 14px;line-height: 23px;border-colla=
+pse: collapse;">=20
+<div class=3D"mktoText" id=3D"blogText1">
+<div>
+If you want to position your eCommerce business for maximum holiday spendin=
+g, social media is a primary source for success. Here are four tips to help=
+ you with that.
+</div>
+</div></td>=20
+</tr>=20
+<tr>=20
+<td class=3D"cta" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break=
+-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-col=
+lapse: collapse;"> <a href=3D
+"http://email2.magento.com/uJq0000GlX0s0i02OHHGDc0" target=3D"_blank" class=
+=3D"primary-font button" style=3D"-webkit-text-size-adjust: 100%;-ms-text-s=
+ize-adjust: 100%;font-size: 14px;font-family:'Raleway', Arial, sans-serif;p=
+adding-top: 12px;padding-bottom: 12px;display: inline-block;text-decoration=
+: none; color:#1b7177"
+><strong>READ MORE &gt;</strong></a> </td>=20
+</tr>=20
+<tr class=3D"stack-tablet" style=3D"padding-left: 0; overflow: hidden; marg=
+in-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; float: lef=
+t; margin-top: 0; margin-right: 0; margin-bottom: 0; mso-hide: all; display=
+: none;">=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr class=3D"stack-smartphone" style=3D"padding-left: 0; overflow: hidden; =
+margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; float:=
+ left; margin-top: 0; margin-right: 0; margin-bottom: 0; mso-hide: all; dis=
+play: none;">=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<table class=3D"table1-2" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"right" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"275">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit=
+-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collaps=
+e;">=20
+<table class=3D"contents" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse;" align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0">=20
+<tbody>=20
+<tr>=20
+<td class=3D"photo" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-=
+adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: bre=
+ak-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-c=
+ollapse: collapse;">=20
+<div class=3D"mktoImg" id=3D"blogImage2" mktolockimgsize=3D"true">
+<a href=3D
+"http://email2.magento.com/a0200X0cHG0000jDKGqOlHs" target=3D"_blank"
+> <img src=3D"https://info2.magento.com/rs/585-GGD-959/images/EEMO-1428_PWA=
+_blog_banner_thumbnail_275x200px.png" style=3D"-ms-interpolation-mode: bicu=
+bic; outline: none; border-right-width: 0; border-bottom-width: 0; border-l=
+eft-width: 0; text-decoration: none; border-top-width: 0; display: block; m=
+ax-width: 100%; line-height: 100%; height: auto; width: auto;" height=3D"au=
+to" width=3D"auto" /> </a>
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-h=
+eight:20px;font-size:20px;" height=3D"20px"></td>=20
+</tr>=20
+<tr>=20
+<td data-medium-editor-element=3D"true" class=3D"primary-font title" style=
+=3D"-moz-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt=
+;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-ms-tex=
+t-size-adjust: 100%;hyphens: none;text-align: left;font-family:'Raleway', A=
+rial, sans-serif;font-weight: bold;font-size: 16px;border-collapse: collaps=
+e;">=20
+<div class=3D"mktoText" id=3D"blogTitle2">
+<div>
+Why All Commerce Leaders Need to Pay Attention to PWAs
+</div>
+</div></td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-h=
+eight:15px;font-size:15px;" height=3D"15px"></td>=20
+</tr>=20
+<tr>=20
+<td data-medium-editor-element=3D"true" class=3D"secondary-font text" style=
+=3D"hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens=
+: none;-ms-text-size-adjust: 100%;color: #737373;text-align: left;font-fami=
+ly:'Lato', Arial, sans-serif;font-size: 14px;line-height: 23px;border-colla=
+pse: collapse;">=20
+<div class=3D"mktoText" id=3D"blogText2">
+<div>
+PWAs deliver blazingly fast and slick =E2=80=9Capp-like=E2=80=9D experience=
+s in the mobile web browser using open web technologies, a huge help to onl=
+ine merchants facing the shift of traffic from desktop to mobile.
+<br />
+</div>
+</div></td>=20
+</tr>=20
+<tr>=20
+<td class=3D"cta" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break=
+-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-col=
+lapse: collapse;"> <a href=3D
+"http://email2.magento.com/a0200X0cHG0000jDKGqOlHs" target=3D"_blank" class=
+=3D"primary-font button" style=3D"-webkit-text-size-adjust: 100%;-ms-text-s=
+ize-adjust: 100%;font-size: 14px;font-family:'Raleway', Arial, sans-serif;p=
+adding-top: 12px;padding-bottom: 12px;display: inline-block;text-decoration=
+: none; color:#1b7177"
+><strong>READ MORE &gt;</strong></a> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</center> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-h=
+eight:40px;font-size:40px;" height=3D"40px"></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule m_free-text" id=3D"footer" idstyle=3D"-webkit-te=
+xt-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; ms=
+o-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+>=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyph=
+ens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;backgr=
+ound-color:#545557;" bgcolor=3D"#545557" valign=3D"top">=20
+<center>=20
+<table class=3D"table600" style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-sp=
+acing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; mar=
+gin-bottom: 0; margin-left: auto;" align=3D"center" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td class=3D"" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust=
+: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-=
+webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: coll=
+apse;line-height:20px;font-size:20px;" height=3D"20px"></td>=20
+</tr>=20
+<tr>=20
+<td data-medium-editor-element=3D"true" class=3D"secondary-font text" style=
+=3D"-moz-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt=
+;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-ms-tex=
+t-size-adjust: 100%;hyphens: none;font-family:'Lato', Arial, sans-serif;fon=
+t-size: 14px;line-height: 23px;color: #999;border-collapse: collapse;">=20
+<div class=3D"mktoText" id=3D"footerText">
+<table width=3D"100%" cellpadding=3D"2">=20
+<tbody>=20
+<tr>=20
+<td width=3D"100%"><a href=3D
+"http://email2.magento.com/a0200X0cHG0000cDDGqOlHs" target=3D"_blank"
+><img src=3D"https://info2.magento.com/rs/585-GGD-959/images/magento-logo-c=
+olor-inverted.png" width=3D"100" height=3D"auto" alt=3D"Magento Logo" borde=
+r=3D"0" /></a></td>=20
+<td><a href=3D
+"http://email2.magento.com/XsX0HkG0q000DOl0H02cGL0" target=3D"_blank"
+><img src=3D"https://info2.magento.com/rs/585-GGD-959/images/icon-facebook.=
+png" alt=3D"Follow us on Facebook" width=3D"30" height=3D"30" border=3D"0" =
+/></a></td>=20
+<td><a href=3D
+"http://email2.magento.com/LHl2DG00c0MO0Gl0H0X0s0q" target=3D"_blank"
+><img src=3D"https://info2.magento.com/rs/585-GGD-959/images/icon-twitter.p=
+ng" alt=3D"Follow us on Twitter" width=3D"30" height=3D"30" border=3D"0" />=
+</a></td>=20
+<td><a href=3D
+"http://email2.magento.com/v0l00qON0sXDGHmcG02H000" target=3D"_blank"
+><img src=3D"https://info2.magento.com/rs/585-GGD-959/images/icon-linkedin.=
+png" alt=3D"Follow us on LinkedIn" width=3D"30" height=3D"30" border=3D"0" =
+/></a></td>=20
+<td><a href=3D
+"http://email2.magento.com/kG0nX0q00OH02GsH0c0Ol0D" target=3D"_blank"
+><img src=3D"https://info2.magento.com/rs/585-GGD-959/images/icon-google.pn=
+g" alt=3D"Follow us on Google+" width=3D"30" height=3D"30" border=3D"0" /><=
+/a></td>=20
+<td><a href=3D
+"http://email2.magento.com/lOGHo000Xc0H0D2sl0q0P0G" target=3D"_blank"
+><img src=3D"https://info2.magento.com/rs/585-GGD-959/images/icon-youtube.p=
+ng" alt=3D"Follow us on YouTube" width=3D"30" height=3D"30" border=3D"0" />=
+</a></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<p>This email was sent to you because you have agreed to receive informatio=
+n about our services. We will only use your information in accordance with =
+our privacy policy. To unsubscribe from our commercial mailing list, please=
+ <a href=3D"#unsubscribe" style=3D"color:#999; text-decoration:underline;">=
+click here</a>.</p>=20
+<p>Copyright=C2=A9 2017 Magento, Inc. All rights reserved. Magento, Inc. is=
+ located at 3640 Holdrege Ave, Los Angeles, CA 90016.</p>
+</div></td>=20
+</tr>=20
+<tr>=20
+<td class=3D"" style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust=
+: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-=
+webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: coll=
+apse;line-height:20px;font-size:20px;" height=3D"20px"></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</center> </td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!-- Outer Table END --> =20
+<a href=3D
+"http://email2.magento.com/Y0slO0pqH00H0002XGG0QDc"
+></a>
+<img src=3D"http://email2.magento.com/trk?t=3D1&mid=3DNTg1LUdHRC05NTk6Nzk1N=
+To5MzY0OjM2OTczOjA6MTAxMzE6OToyMjY1MDo1MTcwMjIzOm1hcmNvQGRpZ2l0YWxmb3RvaW1h=
+Z2VtLmNvbS5icg%3D%3D" width=3D"1" height=3D"1" style=3D"display:none !impor=
+tant;" alt=3D"" />
+
+<br>
+</body>
+</html>
+------=_Part_-1035661694_2112786960.1513719462568--

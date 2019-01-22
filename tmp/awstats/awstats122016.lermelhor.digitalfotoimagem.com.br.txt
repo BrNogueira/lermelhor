@@ -1,0 +1,620 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201612 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.lermelhor.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2030                
+POS_TIME 2709                
+POS_VISITOR 11541               
+POS_DAY 16514               
+POS_DOMAIN 3604                
+POS_LOGIN 4011                
+POS_ROBOT 4166                
+POS_WORMS 4742                
+POS_EMAILSENDER 4873                
+POS_EMAILRECEIVER 5016                
+POS_SESSION 17313               
+POS_SIDER 17524               
+POS_FILETYPES 5151                
+POS_DOWNLOADS 5412                
+POS_OS 5563                
+POS_BROWSER 5840                
+POS_SCREENSIZE 6835                
+POS_UNKNOWNREFERER 6909                
+POS_UNKNOWNREFERERBROWSER 7094                
+POS_ORIGIN 7215                
+POS_SEREFERRALS 7358                
+POS_PAGEREFS 7513                
+POS_SEARCHWORDS 7832                
+POS_KEYWORDS 7984                
+POS_MISC 2373                
+POS_ERRORS 8043                
+POS_CLUSTER 3867                
+POS_SIDER_404 8182                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170101020848 56 12102 11085308104888
+FirstTime 20161201011112
+LastTime 20161231085603
+LastUpdate 20170101101558 56 0 55 0 0
+TotalVisits 225                 
+TotalUnique 116                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 124                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 49 480 11578873 26 128 1467392
+1 19 186 5861128 25 68 1031258
+2 26 26 465443 22 61 606541
+3 12 136 3402870 34 97 1363285
+4 13 13 309458 31 122 1945598
+5 0 0 0 50 223 2448005
+6 1 48 1867474 147 393 4296844
+7 6 98 823669 20 187 1355530
+8 22 298 8795690 32 243 3347236
+9 5 55 995005 17 128 1997567
+10 16 126 1320593 13 143 9113061
+11 42 299 6893447 19 190 1278779
+12 72 367 7518054 56 201 3580962
+13 39 230 5411295 45 131 647247
+14 33 360 10366353 210 2120 30566703
+15 123 360 8840383 69 125 1160012
+16 100 569 18633542 42 97 781973
+17 30 342 10732326 27 182 9904767
+18 39 413 7609396 45 222 3589120
+19 75 479 12781043 262 426 3608377
+20 21 164 3925673 130 290 3159132
+21 142 590 17896920 337 460 3775251
+22 20 218 5839301 14 26 980742
+23 51 168 4627141 39 141 1576069
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+br 871 5937 154109153
+us 26 27 768253
+ru 15 15 307891
+ca 13 13 309458
+de 13 13 241300
+fr 6 6 153831
+ua 4 4 102555
+mx 4 4 102788
+nl 2 2 51277
+cz 1 1 25579
+ro 1 1 25580
+mz 0 1 148706
+pt 0 1 148706
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+crawl 1986 29925903 20161227063253 0
+googlebot 1382 13229777 20161231222027 0
+bot[\s_+:,\.\;\/\\-] 663 19994294 20161231101705 0
+php 137 14038949 20161231213320 0
+bingpreview 102 1516582 20161228150137 0
+[\s_+:,\.\;\/\\-]bot 75 1883909 20161231072423 0
+spider 59 1477184 20161231183344 0
+no_user_agent 50 205172 20161230153343 0
+slurp 34 8013812 20161231222214 0
+netcraft 21 539637 20161220011220 0
+googlebot\-image 10 324449 20161230053723 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+gif 196 57585 0 0
+Unknown 66 42438 0 0
+doc 1 45056 0 0
+js 634 30645000 0 0
+css 2048 5474813 0 0
+html 241 6084770 0 0
+php 649 16465708 0 0
+jpg 2150 96844696 0 0
+jpeg 1 140991 0 0
+png 39 694020 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/media/video.flv 2 0 14636986
+/documents/ProjetoLeitura.doc 2 0 90112
+/media/video1OLHO.flv 1 0 867907
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+winlong 1 1
+ios_iphone 229 10
+linux 16 16
+macosx7 1 1
+winxp 16 15
+win2000 1 1
+winphone 40 1
+macosx6 1 1
+Unknown 15 15
+macosx 1 0
+winnt 98 16
+macosx8 1 1
+ios_ipad 113 9
+win8 3 3
+win7 4506 770
+linuxandroid 983 96
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 49
+firefox32.0 2 2
+iphone 177 5
+mozilla 12 12
+chrome41.0.2228.0 2 2
+firefox3.0 1 1
+chrome54.0.2840.85 502 48
+chrome54.0.2840.71 40 1
+firefox12.0 1 1
+safari10.0 161 10
+chrome54.0.2840.68 48 1
+chrome42.0.2311.138 2 2
+firefox3.6.3 1 1
+chrome44.0.2403.125 1 1
+msie11.0 2 2
+msie9.0 63 11
+chrome55.0.2883.87 133 7
+chrome51.0.2704.81 1 1
+chrome54.0.2840.99 876 202
+chrome51.0.2681.0 50 3
+firefox14.0.1 11 11
+opera36.0.2130.32 8 8
+chrome33.0.0.0 2 2
+firefox50.0 3119 518
+firefox43.0 183 8
+chrome30.0.0.0 86 7
+chrome10.0.648.127 1 1
+safari6.0 1 1
+Unknown 3 3
+firefox21.0 4 4
+android 43 4
+firefox49.0 2 2
+chrome19.0.1061.1 1 1
+firefox46.0 40 1
+msie6.0 14 14
+safari5.1 4 4
+chrome26.0.1410.65 1 1
+chrome45.0.2454.94 2 2
+firefox47.0 76 12
+chrome55.0.2883.91 254 25
+chrome46.0.2490.76 1 1
+firefox11.0 2 1
+chrome45.0.2454.95 1 1
+msie10.0 40 1
+firefox48.0 6 6
+firefox30.0 1 0
+chrome49.0.2623.105 1 1
+chrome53.0.2785.124 40 1
+chrome37.0.2062.120 2 2
+safari9.1 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20161223045447
+facebookexternalhit/1.1 20161222172725
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+facebookexternalhit/1.1 20161222172725
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 242 244
+From1 5 5
+From2 3 9
+From3 175 188
+From4 531 5579
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 3 9
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+https://www.facebook.com 95 95
+http://m.facebook.com 72 85
+https://m.facebook.com 5 5
+http://burger-imperia.com 1 1
+http://l.facebook.com/l.php 1 1
+http://hundejo.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+206 154 2303637
+301 250 59853
+302 336 68293
+404 936 0
+500 17 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 80
+/Modulo-3 1 -
+/joomla/robots.txt 2 -
+/videos/Modelo-coaching.php 9 http://www.lermelhor.com.br/videos/Copied-In\xedcio.php/
+/blog/administrator/index.php 2 -
+/images/2/M%C3%B3dulo3.jpg 1 -
+/sitemap.xml 1 -
+/LOGO.jpg 1 http://l.facebook.com/lsr.php
+/wp-smtp.php 1 -
+/videos/teste.php 5 -
+/videos/2%C3%82%C2%BA---Modelo-coaching-Perdas-e-Ganhos.php 4 -
+/%7BPUBLISH_URL%7D/js/jquery-ui/themes/base/ui.all.css 2 http://lermelhor.com.br/rvsMasterTemplate.php
+/robots.txt 266 -
+/update.php 2 -
+/images/Carrinhoazulclaro.jpg 2 -
+/images/img_04.jpg 1 http://l.facebook.com/lsr.php
+/images/2/2.jpg 11 -
+/images/Gab.Ver.Ari.jpeg 2 -
+/blog/robots.txt 10 -
+/images/img_06.jpg 1 http://l.facebook.com/lsr.php
+//modules/mod_simplefileuploadv1.3/elements/udd.php 1 -
+/videos/Tire-suas-d%C3%83%C2%BAvidas.php 4 -
+/images/2/DEMONSTRA%C3%87%C3%83O.jpg 11 -
+/MKT-1 1 -
+/%7BPUBLISH_URL%7D/js/jquery-ui/ui/minified/jquery-ui.min.js 2 http://lermelhor.com.br/rvsMasterTemplate.php
+/_file-manager/php/connector.php 1 http://lermelhor.com.br/_file-manager/php/connector.php
+/images/empoderamento.jpg 2 -
+/images/img_01.jpg 4 -
+/tmp/krd.php 2 -
+/images/spacer.gif 2 -
+/MKT2 1 -
+/optimizer.php 6 http://lermelhor.com.br/rvsindex.php
+/MKT1 1 -
+/modules/attributewizardpro/file_upload.php 1 http://lermelhor.com.br/modules/attributewizardpro/file_upload.php
+/%7BPUBLISH_URL%7D/js/jquery-ui/jquery.min.js 2 http://lermelhor.com.br/rvsMasterTemplate.php
+/images/img_03.jpg 2 http://l.facebook.com/lsr.php
+/faze-3 1 -
+/up.php 2 http://lermelhor.com.br/up.php
+/images/%C3%81readoalunook.jpg 73 -
+/administrator/index.php 2 -
+/ 8 -
+/videos/optimizer.php 10 http://lermelhor.com.br/videos/rvsindex.php
+/fase3 1 -
+/wordpress/ 8 -
+/images/2/M%C3%B3dulo-12.jpg 1 -
+/blog/ 8 -
+/images/2/Comproveoteste.jpg 71 -
+/curso/optimizer.php 4 http://lermelhor.com.br/videos/rvsindex.php
+/joomla/administrator/index.php 2 -
+/images/pag1teste.jpg 12 -
+/images/2.jpg 74 -
+/images/MetodoCoaching.jpg 9 -
+/images/lightblue_arrow.gif 1 http://lermelhor.com.br/Navigator.css
+/segmod/optimizer.php 5 http://lermelhor.com.br/segmod/rvsindex.php
+/fase-3 1 -
+/images/img_05.jpg 1 http://l.facebook.com/lsr.php
+/images/2/Fun%C3%A7%C3%A3odosolhos.jpg 73 -
+/Compras 1 -
+/images/GabineteVer.Ari_copy_1.jpg 1 -
+/wp/ 8 -
+/images/livro800x800.jpg 3 -
+/MKT/images/6.jpg 9 -
+http://lermelhor.com.br:80/videos/Depoimentos-2016.php 1 http://m.facebook.com
+/videos/Comprove-o-teste.php 9 http://www.lermelhor.com.br/Copied-In\xedcio.php/
+/images/2/M%C3%B3dulo2.jpg 1 -
+/images/Tempestadedeideias.jpg 3 -
+/images/depoimento.jpg 2 -
+//wp-content/plugins/ubh/up.php 2 -
+/images/2/crian%C3%A7aselivro1.jpg 2 -
+/faze3 1 -
+/images/2/M%C3%B3dulo1a.jpg 1 -
+/.well-known/apple-app-site-association 11 -
+/images/2/3.jpg 10 -
+/images/Jo%C3%A3emenina.jpg 1 -
+/images/curso2016.jpg 111 -
+/xmlrpc.php 8 -
+/images/img_02.jpg 2 http://l.facebook.com/lsr.php
+/compras 1 -
+/images/2/jejacomoadquirir.jpg 12 -
+/emaildC9tZW1iZXJwYWdlL3BhZ2UvRmF6ZS0zLnBocA%3D%3D/ 1 -
+/images/lightblue_linkarrow.gif 1 http://lermelhor.com.br/Navigator.css
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 124
+201.6.231.208 513 3074 74785818 20161228121822
+201.55.31.210 160 627 16063097 20161216201754
+201.55.31.215 40 190 5702455 20161206213545
+142.4.218.156 13 13 309458 20161223045448
+201.55.31.71 13 77 2118935 20161216105114
+186.239.235.56 11 63 2578336 20161201160453
+191.23.25.156 10 161 5747484 20161211091518
+69.58.178.57 10 10 200037 20161219025011
+201.6.142.195 8 95 2638132 20161230143022
+108.59.85.215 8 8 205584 20161226130859
+187.101.194.20 7 179 5336773 20161221001627
+189.78.198.230 7 114 2963375 20161229084402
+191.17.42.167 6 134 2662486 20161228160115
+188.143.232.70 6 6 120044 20161225023423
+152.249.226.141 6 64 2304499 20161213140932
+188.143.232.13 6 6 119999 20161223010503
+179.85.36.229 5 99 3811454 20161201191659
+177.45.100.119 4 4 115794 20161222195229
+85.214.116.18 4 4 102792 20161227034443
+195.154.199.66 3 3 76740 20161204133756
+201.55.31.212 3 64 2239654 20161212211425
+5.9.94.207 3 3 45909 20161218191634
+179.153.248.44 2 2 52626 20161226152209
+186.203.14.137 2 2 51394 20161210172133
+152.249.169.203 2 2 53856 20161206163100
+187.57.242.49 1 1 26928 20161226092006
+177.23.3.234 1 1 26928 20161212200728
+189.108.60.66 0 2 297412 
+177.38.47.166 1 1 12534 20161210214927
+5.9.112.6 2 2 31088 20161228113248
+201.6.231.111 1 1 37578 20161228133730
+189.78.43.89 1 1 37573 20161222174050
+177.33.95.110 1 48 1867357 20161201194939
+177.79.24.216 1 1 26928 20161206121515
+201.159.26.163 1 40 755621 20161206181234
+187.74.198.177 1 1 25697 20161211021920
+179.34.53.81 1 48 1867357 20161201162230
+177.139.195.149 1 40 755621 20161207142250
+173.252.122.120 1 1 37568 20161222172725
+62.212.73.49 1 1 25697 20161222142152
+152.249.188.175 2 2 51160 20161202165821
+195.154.146.225 2 2 51394 20161218202727
+201.73.137.98 0 1 148706 
+54.80.66.242 1 1 25698 20161228102517
+31.192.111.217 1 1 25698 20161230025126
+77.247.181.165 1 1 25580 20161201033237
+212.86.102.254 1 1 25698 20161224140954
+187.34.132.61 1 1 25697 20161211111744
+177.102.65.241 1 36 1172121 20161231085603
+186.203.4.242 1 1 25698 20161225185012
+179.209.30.222 1 40 755621 20161206120826
+143.202.51.167 1 1 25580 20161202121028
+179.183.139.82 1 1 25698 20161223224247
+187.185.70.34 2 2 51394 20161223083522
+194.213.39.50 1 1 25579 20161207020301
+187.217.93.82 1 1 25697 20161223083523
+201.85.146.66 0 1 148706 
+93.115.95.207 1 1 25580 20161202092626
+201.95.177.205 1 1 25697 20161211190417
+179.218.163.16 0 1 148706 
+189.103.252.129 2 41 781318 20161209163745
+173.252.115.170 1 1 37548 20161222172725
+201.93.73.137 1 1 25579 20161206194500
+187.38.177.189 1 1 37541 20161228124237
+173.252.113.118 1 1 26928 20161205182009
+189.110.137.104 1 1 26928 20161206122532
+5.9.145.132 1 1 13307 20161223154949
+191.254.60.7 1 1 25698 20161224235726
+188.143.232.62 1 1 21952 20161222202145
+177.180.120.71 1 1 25580 20161205102008
+177.65.87.230 1 1 37550 20161228140913
+187.10.243.79 1 14 356943 20161202011915
+201.1.161.43 1 1 37573 20161228130900
+52.12.197.25 1 1 25698 20161223232014
+149.202.72.198 1 1 25697 20161212120017
+179.140.243.69 1 40 755621 20161206132647
+201.6.143.59 1 40 755621 20161206012814
+201.6.131.108 1 40 755621 20161205214434
+178.137.83.166 2 2 51159 20161206214917
+191.254.75.100 2 2 51160 20161202163444
+177.79.46.234 0 32 634958 
+201.6.142.239 1 40 755621 20161206201218
+66.102.8.29 0 1 130987 
+187.34.107.18 1 1 26928 20161212182519
+187.96.161.70 1 1 26928 20161206125906
+177.80.168.185 1 1 25697 20161209225854
+177.138.132.145 1 1 26928 20161205190514
+189.27.135.3 1 48 1867357 20161201170840
+189.100.8.139 1 1 26928 20161206122705
+191.188.48.37 1 1 25697 20161209215216
+189.62.12.160 1 1 25697 20161209220534
+201.83.214.150 1 1 26928 20161205222847
+177.197.246.178 2 41 782549 20161206140926
+143.202.51.156 1 1 26928 20161206141806
+78.46.156.169 2 2 32602 20161218191645
+189.110.160.145 1 1 25580 20161203221237
+200.207.220.68 2 2 52626 20161226114421
+191.14.105.168 1 1 25579 20161205201154
+197.218.80.186 0 1 148706 
+187.56.223.69 1 1 25698 20161225161419
+177.79.39.146 1 9 46641 20161226125820
+201.6.229.35 1 1 26928 20161207002937
+179.212.255.105 2 2 64474 20161228205331
+188.143.232.35 1 1 20198 20161228220016
+186.225.124.22 1 40 755621 20161211071500
+179.241.215.26 2 49 1892937 20161201201945
+136.243.17.161 1 1 15602 20161218150614
+191.181.14.62 1 48 1867357 20161201161137
+178.137.87.242 1 1 25698 20161230125709
+179.208.250.45 1 41 681593 20161226125241
+177.9.111.99 1 40 755621 20161206185706
+198.204.240.42 1 1 25697 20161219030839
+85.138.173.14 0 1 148706 
+177.81.181.69 1 1 12534 20161210170754
+179.119.223.171 1 1 25579 20161206153315
+201.13.55.168 1 1 25697 20161221232142
+187.38.164.206 1 40 755621 20161206100218
+179.111.192.77 2 2 52626 20161226134845
+177.79.14.160 1 1 37578 20161226145347
+191.208.122.202 1 1 25580 20161202212237
+179.85.152.36 1 1 25580 20161204145856
+200.33.20.233 1 1 25697 20161223083522
+187.56.116.99 1 40 755621 20161205222520
+191.18.65.24 1 40 755621 20161206232933
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20161201 109 727 26894554 21
+20161202 108 322 9005178 10
+20161203 6 11 91216 5
+20161204 46 174 5608318 6
+20161205 163 684 11179550 15
+20161206 190 1159 26357010 26
+20161207 8 141 4571054 7
+20161208 33 217 4166590 3
+20161209 21 83 1633544 10
+20161210 24 266 7320831 6
+20161211 7 133 3740755 7
+20161212 22 286 7436018 12
+20161213 19 206 5649142 7
+20161214 1 1 643 1
+20161216 4 51 1869403 4
+20161218 5 5 91135 5
+20161219 14 61 2094494 4
+20161220 10 118 3943264 5
+20161221 20 193 3839919 7
+20161222 13 194 4679017 9
+20161223 48 193 6366976 13
+20161224 8 62 2835089 4
+20161225 13 105 2945057 5
+20161226 26 151 2539305 11
+20161227 8 102 1972196 4
+20161228 12 133 2839795 11
+20161229 13 160 3733389 3
+20161230 4 51 1919514 3
+20161231 1 36 1172121 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 11
+1h+ 6
+5mn-15mn 15
+0s-30s 163
+15mn-30mn 12
+2mn-5mn 7
+30mn-1h 11
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 46
+/ 228 5846583 117 95
+/videos/optimizer.php 172 6789198 0 5
+/videos/rvsindex.php 72 332844 0 0
+/email 66 42438 34 41
+/videos/Depoimentos-2016.php 56 1508086 34 37
+/optimizer.php 48 1303156 0 0
+/Curso.php 39 549176 1 4
+/Compra/Copied-Avalia%C3%A7%C3%A3o-do-tempo-adequado.php 32 1202647 18 21
+/videos/Faze-3.php 25 693169 0 0
+/rvsindex.php 24 107855 0 0
+/Compra/Copied-M%C3%B3dulo---3.php 15 337124 0 0
+/Compra/Copied-Dep%C3%B3sito-Banc%C3%A1rio.php 14 312981 0 0
+/Compra/Copied-M%C3%B3dulo---2.php 12 270298 0 0
+/Compra/ 11 186791 0 0
+/In%C3%ADcio.php 11 281848 0 0
+/segmod/Depoimentos.php 10 144340 0 0
+/index.php 10 256625 1 2
+/Compra/Compras.php 10 170348 0 2
+/Noticias.php 9 140186 5 5
+/Sobre-n%C3%B3s.php 9 119296 2 2
+/contato.php 8 161361 1 4
+/videos/Copied-1%C2%BA---Modelo-coaching.php 8 240539 0 0
+/Copied-Suporte.php 7 189572 3 0
+/themes/default/css/installer.php 6 52848 1 0
+/rvssetup.php 6 334518 1 0
+/Modulo-2/Faze-2.php 1 22141 0 0
+/Teste.php 5 65263 0 0
+/Compra/rvthankform_4d71ae5380ccd59eed008bb0026408f7.php 1 11602 0 0
+/videos/Brainstorming.php 1 22887 0 0
+/1%C2%BA-M%C3%B3dulo.php 1 37751 0 0
+/Not%C3%ADcias--and--Eventos.php 2 34234 2 2
+/videos/Copied-In%C3%ADcio.php 4 128936 0 0
+/Modulo-2/rvsindex.php 2 10382 0 0
+/Processo-de-cria%C3%A7%C3%A3o.php 4 72373 0 0
+/Compra/index.php 1 17275 0 0
+/index.php/component/users/ 2 51396 1 1
+/videos/Copied-1%C2%BA---Modelo-coaching2.php 4 112344 0 0
+/MKT/IMAGENS.php 3 37602 3 2
+/videos/1%C2%BA-Modelo-Coaching.php 1 28776 0 0
+/videos/2%C2%BA---Modelo-coaching-Perdas-e-Ganhos.php 1 30444 0 0
+/Compra/Dep%C3%B3sito-Banc%C3%A1rio.php 6 128024 0 1
+/videos/themes/default/css/installer.php 1 8815 0 0
+/videos/rvssetup.php 1 55795 0 0
+/Modulo-2/optimizer.php 4 78784 0 0
+/Copied-contato.php 2 42313 0 0
+/Formul%C3%A1rio.php 1 21952 1 1
+END_SIDER

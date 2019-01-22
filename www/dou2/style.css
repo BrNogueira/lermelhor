@@ -1,0 +1,65 @@
+.company{
+	font-family: verdana,arial,helvetica;
+	font-size: 14px;
+	color: #ffffff;
+	font-weight:bold;
+}
+
+.slogan {
+	font-family: verdana,arial,helvetica;
+	font-size: 11px;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.magin {
+	padding:5px;
+}
+table { font-size:100%;} 
+body { 
+	font-size:76%;
+	margin:0;
+	padding:0;
+	background:#dddddd;
+}
+
+a:link {color:#697e42; text-decoration: underline;}
+a:visited {color:#697e42; text-decoration: underline;}
+a:hover {color: #dd7129; text-decoration: underline;}
+a:active {color: #dd7129; text-decoration: underline;}
+
+.bgtop{
+	background-image:url(images/img_03.jpg);
+}
+.bgmenu{ 
+	background-color:#353535; 
+	color:#FFFFFF; 
+}
+.bgline_t{ 
+	background-color:#353535; 
+}
+.bgline_b{
+	background-image:url(images/bglinetemplate.jpg);
+}
+.bgside_l{
+	background-image:url(images/bg_l.jpg); 
+	background-repeat:repeat-y; 
+	background-position:right;
+	background-color:#dddddd;   
+}
+.bgside_r{
+	background-image:url(images/bg_r.jpg);
+	background-repeat:repeat-y; 
+	background-position:left;
+	background-color:#dddddd; 
+}
+.bggraybot{
+	background-color:#353535; 
+	border-bottom:#d3d3d3 solid 1px; 
+}
+.bgbottom{
+	background-color:#dddddd; 
+}
+.bgbodytem{
+	background-color:#dddddd; 
+}	   	   

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+   <!-- bootstrap -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    
+    <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/3FCC132B-ED23-0445-B52E-7F67C47C2BFF/main.js" charset="UTF-8"></script><script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/3FCC132B-ED23-0445-B52E-7F67C47C2BFF/main.js"
+    charset="UTF-8"></script>
+
+    <script type=”text/javascript”> </script>
+</head>
+<body>
+ 
+  <form>
+    1 - Para que você está interessado em ter mais conhecimento?<br><input type="text" name="quiz" id="questionOne"><br>
+    2 - Você precisa fazer alguma coisa diferente do que faz hoje para aprender? Escreva o que você precisa fazer. “Escreva tudo o que puder e lembrar”. <br><input type="text" name="quiz"><br>
+    3 - Por que é importante fazer algo diferente do que você faz hoje? Tem certeza? “Escreva tudo o que puder e lembrar <br><input type="text" name="quiz"><br>
+    4 - Observe a roda de aprendizagem que você preencheu e escreva que resultado você espera conseguir. <br><input type="text" name="quiz"><br>
+  </form>
+<button type="submit" id="btnConcluir" onClick="analisar()">Concluir</but ton>
+
+<div class="modal" tabindex="-1" role="dialog" id="test">lalal</div>
+
+<div data-toggle="modal" data-target="#test"  tabindex="-1"> modal</div>
+
+<!--
+<dialog id="test">  
+    <div class="modal" tabindex="-1" role="dialog" >
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Modal title</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <p>Modal body text goes here.</p>
+          </div>
+          <div class="modal-footer">
+              <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+</dialog>
+-->
+<script>
+
+function analisar(){
+  
+  var resposta = document.getElementById("questionOne").value;
+
+  //console.log(resposta);
+
+  switch(resposta)
+  {
+    case 'concentração' , 'compreensão' , 'compreender' , 'melhorar' , 'melhor' , 'notas' , 'passar' , 'ano' , 'conseguir' , 'progredir' , 'esforçar' , 'leitura' , 'boa' , 'Ser' , 'alguém' , 'futuro' , 'faculdade' , 'importante' , 'estudar':
+      //$("#teste").modal();
+      break;
+    case 'aprender' , 'trabalhar' , 'ganhar' , 'mais' , 'conhecimento' , 'evolução' , 'evoluir' , 'pensamento' , 'buscando' , 'compressão' , 'oportunidade' , 'interesse' , 'objetivo' , 'Quieto' , 'Silencio' , 'Prestar' , 'atenção' , 'não' :
+      break;
+    case 'não' , 'bagunçar' , 'foco' , 'focar' , 'dificuldade' , 'estudar' , 'mais' , 'conversar' , 'parar' , 'falta' , 'baixa' , 'atrás' , 'ler' , 'perguntar' , 'oportunidade' , 'compreender' , 'ajudar' , 'preguiça' , 'preguiçosa' , 'preguiçoso' , 'prestar' , 'atenção':
+      break;
+    case 'perder' ,'tempo' ,'no' ,'futuro', 'ser' , 'alguém' ,'melhorar' ,'preciso' ,'ter' , 'vontade' ,'parado' ,'melhorar' ,'notas' ,'distrair' ,'ajudar' ,'tentar' ,'parar' ,'conversar' ,'deixar' , 'depois' :
+      break;
+  }
+}
+
+</script>
+
+</body>
+
+
+</html>

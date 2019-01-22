@@ -1,0 +1,50 @@
+Return-Path: <helpdesk@homehost.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id wSyeKdsr6VdTHg0AY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Mon, 26 Sep 2016 11:08:27 -0300
+Return-path: <helpdesk@homehost.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Mon, 26 Sep 2016 11:08:27 -0300
+Received: from mailalt.homehost.com.br ([177.85.98.241]:57273)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <helpdesk@homehost.com.br>)
+	id 1boWa3-003cC2-IN
+	for marco@digitalfotoimagem.com.br; Mon, 26 Sep 2016 11:08:27 -0300
+Received: from homehost-admin2 (www.homehost.com.br [177.184.2.204])
+	(using TLSv1.2 with cipher DHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by mailalt.homehost.com.br (Postfix) with ESMTPS id D96B55446599
+	for <marco@digitalfotoimagem.com.br>; Mon, 26 Sep 2016 11:05:20 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=homehost.com.br;
+	s=defaultkey; t=1474898721;
+	bh=enm/z1A2zuN/2ibQptT8BvF+3SlviT8b9AMBUdOusnM=;
+	h=Date:To:From:Subject;
+	b=EKn+PDWqcehgpXfytZUztiueTbAUhOohJDpV8Rvg9NJs6j0RujwTe85JlmeG2+bfa
+	 IAOv+dWbvhadTB59FwxKXcd2ri5m6iNTzvpYOuUArYIUwuTwinoxDOEl7pOzH1ZSMx
+	 QXCVDWVPDvjPXL3C/uW347nN7GZAtgH+mM33WHpo=
+Date: Mon, 26 Sep 2016 11:08:21 -0300
+To: marco@digitalfotoimagem.com.br
+From: Homehost <helpdesk@homehost.com.br>
+Subject: Em tratamento [#1524349] - bom dia:
+Message-ID: <7bea2aa7a341b0b9f3299cea5c83f8df@homehost-admin2>
+X-Mailer: PHPMailer 5.2.15 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=windows-1250
+Content-Transfer-Encoding: 8bit
+
+ATENCAO: NAO RESPONDA A ESTE EMAIL.
+
+Seu chamado #1524349 esta em tratamento! Um de nossos analistas ja esta trabalhando nele.
+
+Em breve lhe responderemos por e-mail com uma solucao.
+
+O prazo de resposta varia de acordo com a complexidade do pedido e tambem com a fila de atendimentos.
+
+
+
+Atenciosamente,
+Helpdesk Homehost
+
+

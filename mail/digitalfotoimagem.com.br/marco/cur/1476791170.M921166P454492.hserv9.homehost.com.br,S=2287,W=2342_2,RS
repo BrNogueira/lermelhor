@@ -1,0 +1,55 @@
+Return-Path: <suporte@homehost.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id yZMgM4ILBlhc7wYAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Tue, 18 Oct 2016 09:46:10 -0200
+Return-path: <suporte@homehost.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 18 Oct 2016 09:46:10 -0200
+Received: from mailalt.homehost.com.br ([177.85.98.241]:58668)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <suporte@homehost.com.br>)
+	id 1bwSqQ-001y3P-MC
+	for marco@digitalfotoimagem.com.br; Tue, 18 Oct 2016 09:46:10 -0200
+Received: from homehost-admin2 (www.homehost.com.br [177.184.2.204])
+	(using TLSv1.2 with cipher DHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by mailalt.homehost.com.br (Postfix) with ESMTPS id 9B0315444970
+	for <marco@digitalfotoimagem.com.br>; Tue, 18 Oct 2016 09:42:41 -0200 (BRST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=homehost.com.br;
+	s=defaultkey; t=1476790963;
+	bh=VT+rrmfVHu3qLEt3GC/UEmK6QbO00VlRGV7bK4NJnfI=;
+	h=Date:To:From:Subject;
+	b=U5jY2b7XqADzr8dv6KUd8Dwc3fC1FVSyK5v+5CB6oUf9O1yaF88a3f3tDxCZKVNM2
+	 BbEb3k0cRUee2VuSxe1A+kdzsnedH+CLjNAs2i5NL5ta/pmMP1xLga7becPbfJghMl
+	 1czXiQMDQdYzF3YLebqoxPSQF6VSQj2TrP5OTayw=
+Date: Tue, 18 Oct 2016 09:46:02 -0200
+To: marco@digitalfotoimagem.com.br
+From: Homehost <suporte@homehost.com.br>
+Subject: =?windows-1250?Q?Re:_[#1542685]_Bom_dia,_meu_dominio_=C3=A9_digitalfotoim?=
+ =?windows-1250?Q?agem.com.br?=
+Message-ID: <45348bebc62d08d8808776c3c558d658@homehost-admin2>
+X-Mailer: PHPMailer 5.2.15 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=windows-1250
+Content-Transfer-Encoding: 8bit
+
+Bom dia Marco,
+
+Foram realizados alguns ajustes em sua conta para tentar corrigir o problema, por favor, faça novos testes. Se o problema ainda persistir, nos informe para continuarmos analisando.
+
+
+
+Qualquer duvida que reste, pode contar conosco.
+
+
+---
+Atenciosamente,
+Diego Kappauni
+Suporte Técnico Homehost
+
+
+Consulte sempre nosso base de tutoriais de ajuda em https://www.homehost.com.br/suporte#faqSec
+Disponibilizamos diversos artigos e guias em nosso Blog.
+

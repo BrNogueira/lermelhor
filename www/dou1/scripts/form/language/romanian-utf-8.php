@@ -1,0 +1,31 @@
+<?php
+$aLang['The form was not submitted for the following reasons:'] = 'Forma nu a fost primita din urmatoarele cauze:';
+$aLang['Please click'] = 'Apasati';
+$aLang['here'] = 'aici,';
+$aLang['to return to the form and try again.'] = 'pentru a reveni la forma si incercati din nou.';
+$aLang['Missing:'] = 'Lipsesc:';
+$aLang['Could not find online form configuration file ID='] = 'Nu a putut fi gasit ID-ul fisierului de configurare a formei de retea=';
+$aLang[' for RV SiteBuilder formmail.'] = ' pentru expedierea prin e-mail a formei RV SiteBuilder.';
+$aLang['I NEED VALID RECIPIENT EMAIL ADDRESS'] = 'AM NEVOIE DE O ADRESA E-MAIL VALIDA';
+$aLang['TO CONTINUE</b>'] = 'PENTRU CONTINUARE</b>';
+$aLang['your <b>email address'] = 'Adresa Dvs de <b> e-mail';
+$aLang['</b> is invalid.'] = '</b> nu este valida.';
+$aLang['your <b>zip/postal code</b> is invalid'] = '<b>Indicele Dvs postal/codul postal</b> nu este valabil';
+$aLang['your <b>phone number</b> is invalid'] = '<b>Numarul Dvs. de telefon</b> nu este valabil';
+$aLang['your <b>fax number</b> is invalid'] = '<b>Numarul Dvs. de fax </b> nu este valabil';
+$aLang['Thank you for submitting your enquiry'] = 'Thank you for submitting your enquiry, we will contact you as soon as possible.';
+$aLang['This form is powered by '] = 'Aceasta forma este gestionata de ';
+$aLang['Please use your browser back button to return to the form and try again.'] = 'Utilizati butonul "back" al browser-ului Dvs pentru revenirea la forma si continuare.';
+$aLang['This form is powered by'] = 'Aceasta forma este gestionata de';
+$aLang['You are using from a <b>banned email address.</b>'] = 'Utilizati <b> o adresa interzisa de e-mail.</b>';
+$aLang['You are coming from an'] = 'Ati intrat pe site de pe';
+$aLang['You are coming from an <b>unauthorized domain.</b>'] = 'Ati intrat pe site dintr-o <b> zona interzisa.</b>';
+$aLang['Spam mail detected.'] = 'a fost detectat un mesaj spam.';
+$aLang['Your message never be sent.'] = 'Mesajul Dvs nu a fost expediat.';
+$aLang['If you accidentally get this error, please contact us for the resolution.'] = 'Daca a aparut intamplator aceasta eroare, va rugam sa luati legatura cu noi pentru a o solutiona.';
+$aLang['This was an INVALID submission. You have acted like a spambot!'] = 'Cerere INVALIDA. Ati actionat ca un spambot!';
+$aLang['Cannot connect to sendmail server'] = 'Conexiune nereusita la Mail Server.';
+$aLang['Sending email from'] = 'Timite mesajul de la adresa e-mail';
+$aLang['to'] = 'pe adresa';
+$aLang['failed'] = 'nereusit';
+?>

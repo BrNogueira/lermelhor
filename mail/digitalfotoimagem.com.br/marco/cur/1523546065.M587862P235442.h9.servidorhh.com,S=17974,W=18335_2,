@@ -1,0 +1,361 @@
+Return-Path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from h9.servidorhh.com
+	by h9.servidorhh.com with LMTP id UIrzItF3z1qylwMArjWGVg
+	for <marco@digitalfotoimagem.com.br>; Thu, 12 Apr 2018 12:14:25 -0300
+Return-path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 12 Apr 2018 12:14:25 -0300
+Received: from e.gospmail.org.br ([177.139.181.238]:46877 helo=gospmail.org.br)
+	by h9.servidorhh.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89_1)
+	(envelope-from <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>)
+	id 1f6dvc-0010wD-V6
+	for marco@digitalfotoimagem.com.br; Thu, 12 Apr 2018 12:14:25 -0300
+Received: from localhost (e [127.0.0.1])
+	by gospmail.org.br (Postfix) with ESMTP id B3D812724B1A
+	for <marco@digitalfotoimagem.com.br>; Thu, 12 Apr 2018 11:57:58 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at gospmail.org.br
+X-Amavis-Alert: BAD HEADER SECTION, Non-encoded 8-bit data (char E7 hex):
+	List-ID: Comunica\347\343o e Imprensa
+Received: from gospmail.org.br ([127.0.0.1])
+	by localhost (gospmail.org.br [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id J_1EeMQnqV2I; Thu, 12 Apr 2018 11:57:51 -0300 (BRT)
+Received: from o3.jiveon.jivesoftware.com (o3.jiveon.jivesoftware.com [167.89.36.126])
+	by gospmail.org.br (Postfix) with ESMTPS id 2F8561B8B4EA
+	for <288380@gospmail.org.br>; Thu, 12 Apr 2018 11:16:00 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=jiveon.jivesoftware.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-id; 
+	s=smtpapi; bh=XeiDRII8vDPWhtN8ixfvTlMezfY=; b=F4Mfs0yWO9rgKZXP9M
+	fNS+eabtv69VW8mH4HZ3+lhtgQii/C0YrWHCZ+KPJVOAeIrccF2tG4/lHevv//Kl
+	GmzsqRsxw4CtVBzm38SHeV3Rag1WpxBUNsyz0OZNSPq71z615oO3XNw8E+JTU/Ci
+	5rjhEkGZ3vIPIkezKb7pGAnkg=
+Received: by filter0481p1mdw1.sendgrid.net with SMTP id filter0481p1mdw1-32311-5ACF6A1A-18
+        2018-04-12 14:15:54.483201479 +0000 UTC
+Received: from jiveon-mx3-out.phx1.jivehosted.com (jiveon-mail.phx1.jivehosted.com [204.93.64.13])
+	by ismtpd0004p1sjc2.sendgrid.net (SG) with ESMTP id FVhI7m1YQW2BLJhisz-Uew
+	for <288380@gospmail.org.br>; Thu, 12 Apr 2018 14:15:54.382 +0000 (UTC)
+Received: from gosp-x-jc-t-wa01.dynphx1.jivehosted.com (ip54-vlb1-services.phx1.jivehosted.com [10.160.25.54])
+	by jiveon-mx3-out.phx1.jivehosted.com (Postfix) with ESMTP id 295D62465B
+	for <288380@gospmail.org.br>; Thu, 12 Apr 2018 14:15:54 +0000 (GMT)
+Date: Thu, 12 Apr 2018 14:15:54 +0000 (UTC)
+From: 268366 <gosp-x@jiveon.com>
+Reply-To: jive-564979221-7qj-12-2y3@mail.gosp-x.jiveon.com
+To: Marco Parise <288380@gospmail.org.br>
+Message-ID: <38-3819-3-2319-1523541282854.jive.jivemailuser@https://gosp-x.jiveon.com>
+Subject: =?UTF-8?Q?[Comunica=C3=A7=C3=A3o_e_Imprensa?=
+ =?UTF-8?Q?]_-_62=C2=BA_ANIVERS=C3=81RIO_DA_?=
+ =?UTF-8?Q?ARLS_REGENTE_FEIJ=C3=93_III,_N=C2=BA_1456,_ORIENTE_DE_ITU?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_370385_1198024945.1523542554159"
+Auto-Submitted: auto-replied
+X-Auto-Response-Suppress: OOF
+List-ID: Comunicação e Imprensa
+Content-Disposition: inline
+X-Jive-Office: jive-564979221-7qj-12-2y3@mail.gosp-x.jiveon.com
+X-SG-EID: MC+mAxPPER372lmDFdFHyMxARzYmaHZCEvHbMx1UJ2gN6O7oU4mrSKool9k2rwuFYWpqndpmDSF8Q6
+ ddJ2jDrqEkfv4/Y0h686kZWRGBi8nrlX0OfF6/gDCQfHbRt+m3bASbMICB3kBBccgy67LOjRVyqBo7
+ pNu2VrDoYCR6Ommn5vtp6ZSU0M70TQsqp0cGfaZMQNPoexvNVH4m3/HFQg==
+X-SG-ID: 6Iv2lwEhBxW0L1FeqtuSgBOmISLrKUu9Fa/YMNgnbEH7q/ej1uAa0ra5fG4wBOwChhZ/Vr8IkdnZdE
+ 02uG/BZtsAjM1UFsYdAxoDs7l3rl8=
+
+------=_Part_370385_1198024945.1523542554159
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_370384_1166918348.1523542554159"
+
+------=_Part_370384_1166918348.1523542554159
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+Carlos Pinto Neto [https://gosp-x.jiveon.com/people/268366?et=3Dwatches.ema=
+il.blog] criou a postagem de blog:
+"62=C2=BA ANIVERS=C3=81RIO DA ARLS REGENTE FEIJ=C3=93 III, N=C2=BA 1456, OR=
+IENTE DE ITU"=20
+
+Para visualizar a postagem do blog, visite: https://gosp-x.jiveon.com/commu=
+nity/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog=
+/2018/04/12/62%C2%BA-anivers%C3%A1rio-da-arls-regente-feij%C3%B3-iii-n%C2%B=
+A-1456-oriente-de-itu?et=3Dwatches.email.blog
+
+--------------------------------------------------------------
+https://gosp-x.jiveon.com/servlet/JiveServlet/downloadImage/38-3819-107625/=
+pastedImage_1.png  (https://gosp-x.jiveon.com/servlet/JiveServlet/showImage=
+/38-3819-107625/pastedImage_1.png) https://gosp-x.jiveon.com/servlet/JiveSe=
+rvlet/downloadImage/38-3819-107626/pastedImage_2.png  (https://gosp-x.jiveo=
+n.com/servlet/JiveServlet/showImage/38-3819-107626/pastedImage_2.png)=20
+
+
+*Oficina comemora anivers=C3=A1rio.*
++*=C2=A0*+=20
+A ARLS REGENTE FEIJ=C3=93 III, n=C2=B0 1456, (REAA), Oriente de Itu, presid=
+ida pelo Vener=C3=A1vel Mestre Irm=C3=A3o *Albino Miqueloni de Paula,* real=
+izou nesta =C3=BAltima segunda-feira (09), Banquete Ritual=C3=ADstico em co=
+memora=C3=A7=C3=A3o ao seu 62*=C2=BA* anivers=C3=A1rio de funda=C3=A7=C3=A3=
+o.
+=C2=A0
+Contra relevo registrar a dedica=C3=A7=C3=A3o dos obreiros da oficina na co=
+ndu=C3=A7=C3=A3o dos trabalhos no banquete e, sobretudo, a participa=C3=A7=
+=C3=A3o da *REGENTE FEIJ=C3=93 III*, na manuten=C3=A7=C3=A3o e no desenvolv=
+imento dos princ=C3=ADpios ma=C3=A7=C3=B4nicos durante seus 62 anos de exis=
+t=C3=AAncia.
+=C2=A0
+Al=C3=A9m de Irm=C3=A3os do quadro e visitantes, abrilhantaram os trabalhos=
+ as autoridades: Vener=C3=A1veis Irm=C3=A3os *Antonio Rodrigues Neto* (Coor=
+denador Regional de RI pela 5=C2=AA Macrorregi=C3=A3o =E2=80=93 =C3=81rea 9=
+), *Rubens Pantano Filho* (Deputado Estadual).=20
+=C2=A0
+=C2=A0
+*S**ECRETARIA ESTADUAL DE COMUNICA=C3=87=C3=83O E IMPRENSA -* *GOSP*
+Irm=C3=A3o *S=C3=A9rgio Tarcisio Skupien*
+Oficial de Comunica=C3=A7=C3=A3o e Imprensa da 5=C2=AA Macrorregi=C3=A3o
+--------------------------------------------------------------
+
+Comente respondendo a este e-mail ou v=C3=A1 para a postagem do blog em RED=
+E SOCIAL DO GOSP
+[https://gosp-x.jiveon.com/community/secretarias/grande-secretaria-de-comun=
+ica%C3%A7%C3%A3o-e-imprensa/blog/2018/04/12/62%C2%BA-anivers%C3%A1rio-da-ar=
+ls-regente-feij%C3%B3-iii-n%C2%BA-1456-oriente-de-itu]
+
+
+Este e-mail foi enviado pela REDE SOCIAL DO GOSP porque voc=C3=AA =C3=A9 um=
+ usu=C3=A1rio registrado.
+Voc=C3=AA pode cancelar a assinatura agora mesmo em https://gosp-x.jiveon.c=
+om/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0=
+ee232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c ou ajustar a frequ=C3=AA=
+ncia de e-mail nas prefer=C3=AAncias do seu e-mail (https://gosp-x.jiveon.c=
+om/user-preferences!input.jspa).
+
+------=_Part_370384_1166918348.1523542554159
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+=09
+	<title></title>
+	<style type=3D"text/css">
+    * {
+		margin: 0;
+		padding: 0;
+	}
+	a {
+		color: #3778C7 !important;
+	}
+	body {
+		font-family: Helvetica, Arial, sans-serif;
+		-webkit-text-size-adjust: 100%;
+	}
+	/* Webkit */
+	h1, h2, h3, h4, h5, h6, p, hr {
+		-webkit-margin-before: 0;
+		-webkit-margin-after: 0;
+		-webkit-margin-start: 0;
+		-webkit-margin-end: 0;
+	}
+	.button td {
+		background-image: -moz-linear-gradient(top, #75B7E3 0%, #5498D6 50%, #408=
+BD0 51%, #387AC8 100%) !important;
+		background-image: -webkit-gradient(linear, left top, left bottom, color-s=
+top(0%,#75B7E3), color-stop(50%,#5498D6), color-stop(51%,#408BD0), color-st=
+op(100%,#387AC8)) !important;
+		-webkit-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !impo=
+rtant;
+		-moz-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !importa=
+nt;
+	}
+	</style>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+</head>
+<body style=3D"width:100% !important; -webkit-font-smoothing: antialiased; =
+-webkit-text-size-adjust: 100%;">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff=
+" width=3D"100%" style=3D"background-color: #ffffff; margin: 0; padding: 0;=
+">
+		<tbody>
+			<tr>
+				<td style=3D"padding: 20px 20px 20px 20px;">
+<table class=3D"header" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wi=
+dth=3D"100%">
+	<tbody>
+		<tr>
+			<td valign=3D"top" align=3D"left">
+				<h1 style=3D"color: #333333; margin: 0 0 20px 0; font-weight: normal; f=
+ont-size: 24px; font-family: Helvetica, Arial, sans-serif; text-shadow: rgb=
+a(255,255,255,.9) 0 1px 0;">
+					<!-- To have a header image/logo replace the name below with your img =
+tag -->
+					<!-- Email clients will render the images when the message is read so =
+any image -->
+					<!-- must be made available on a public server, so that all recipients=
+ can load the image. -->
+					<a href=3D"https://gosp-x.jiveon.com/?et=3Dwatches.email.blog" style=
+=3D"color:#333333 !important; text-decoration: none;">
+							<font color=3D"#333333" style=3D"color:#333333;">REDE SOCIAL DO GOSP=
+</font>
+					</a>
+				</h1>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class=3D"content" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ff=
+ffff" border=3D"0" width=3D"100%" style=3D"width: 100%; -moz-border-radius:=
+ 8px; -webkit-border-radius: 8px; border-radius: 8px;">
+	<tbody>
+		<tr>
+			<td valign=3D"middle" style=3D"padding-top: 10px; padding-right: 0px; pa=
+dding-bottom: 20px; padding-left: 0px;"><h2 style=3D'color: #666666; margin=
+: 0 0 0 0; font-weight: normal; font-size: 24px; font-family: Helvetica, Ar=
+ial, sans-serif;'>
+    62=C2=BA ANIVERS=C3=81RIO DA ARLS REGENTE FEIJ=C3=93 III, N=C2=BA 1456,=
+ ORIENTE DE ITU
+</h2>
+
+<p style=3D'color: #999999; margin-bottom: 20px; font-size: 12px; line-heig=
+ht: 18px; font-family: Helvetica, Arial, sans-serif;'>
+criado por <a href=3D"https://gosp-x.jiveon.com/people/268366?et=3Dwatches.=
+email.blog" style=3D'color: #3778C7; text-decoration: none;'>Carlos Pinto N=
+eto</a> em <i>Comunica=C3=A7=C3=A3o e Imprensa</i> - <a href=3D"https://gos=
+p-x.jiveon.com/community/secretarias/grande-secretaria-de-comunica%C3%A7%C3=
+%A3o-e-imprensa/blog/2018/04/12/62%C2%BA-anivers%C3%A1rio-da-arls-regente-f=
+eij%C3%B3-iii-n%C2%BA-1456-oriente-de-itu?et=3Dwatches.email.blog" style=3D=
+'color: #3778C7; text-decoration: none;'>Visualize a postagem de blog compl=
+eta</a></p>
+
+<hr style=3D'background-color: #cccccc; height: 1px; margin-bottom: 20px; b=
+order: none;'>
+
+<div style=3D'color: #666666; margin-bottom: 20px; font-size: 14px; line-he=
+ight: 20px; font-family: Helvetica, Arial, sans-serif;'>
+<div class=3D"jive-rendered-content"><p style=3D"text-align: center;"><span=
+ style=3D"font-size: 18.0pt; color: #454545;"><a href=3D"https://gosp-x.jiv=
+eon.com/servlet/JiveServlet/showImage/38-3819-107625/pastedImage_1.png"><sp=
+an> https://gosp-x.jiveon.com/servlet/JiveServlet/downloadImage/38-3819-107=
+625/pastedImage_1.png </span></a><a href=3D"https://gosp-x.jiveon.com/servl=
+et/JiveServlet/showImage/38-3819-107626/pastedImage_2.png"><span> https://g=
+osp-x.jiveon.com/servlet/JiveServlet/downloadImage/38-3819-107626/pastedIma=
+ge_2.png </span></a> <br/></span></p><p style=3D"min-height: 8pt; padding: =
+0px;">&#160;</p><p><span style=3D"border: none windowtext 1.0pt; padding: 0=
+cm; color: #444444; background: white; text-decoration: underline; font-siz=
+e: 12.0pt;"><strong>Oficina comemora anivers&aacute;rio.</strong></span></p=
+><p style=3D"text-indent: 4.0cm;"><em><span style=3D"border: none windowtex=
+t 1.0pt; padding: 0cm; color: #444444; background: white; font-size: 12.0pt=
+;"><strong>&#160;</strong></span><span style=3D"font-size: 12.0pt; color: #=
+444444; border: none windowtext 1.0pt; padding: 0cm; background: white;"> <=
+br/></span></em></p><p style=3D"text-indent: 4cm; text-align: justify;"><sp=
+an style=3D"font-size: 12.0pt; color: #444444; border: none windowtext 1.0p=
+t; padding: 0cm; background: white;">A ARLS REGENTE FEIJ&Oacute; III, n&#17=
+6; 1456, (REAA), Oriente de Itu, presidida pelo Vener&aacute;vel Mestre Irm=
+&atilde;o <strong>Albino Miqueloni de Paula,</strong> realizou nesta &uacut=
+e;ltima segunda-feira (09), Banquete Ritual&#237;stico em comemora&#231;&at=
+ilde;o ao seu 62<strong>&#186; </strong>anivers&aacute;rio de funda&#231;&a=
+tilde;o.</span></p><p style=3D"text-indent: 4cm; text-align: justify;"><spa=
+n style=3D"font-size: 12.0pt; color: #444444; border: none windowtext 1.0pt=
+; padding: 0cm; background: white;">&#160;</span></p><p style=3D"text-inden=
+t: 4cm; text-align: justify;"><span style=3D"font-size: 12.0pt; color: #444=
+444; border: none windowtext 1.0pt; padding: 0cm; background: white;">Contr=
+a relevo registrar a dedica&#231;&atilde;o dos obreiros da oficina na condu=
+&#231;&atilde;o dos trabalhos no banquete e, sobretudo, a participa&#231;&a=
+tilde;o da <strong>REGENTE FEIJ&Oacute; III</strong>, na manuten&#231;&atil=
+de;o e no desenvolvimento dos princ&#237;pios ma&#231;&ocirc;nicos durante =
+seus 62 anos de exist&ecirc;ncia.</span></p><p style=3D"text-indent: 4cm; t=
+ext-align: justify;"><span style=3D"font-size: 12.0pt; color: #444444; bord=
+er: none windowtext 1.0pt; padding: 0cm; background: white;">&#160;</span><=
+/p><p style=3D"text-indent: 4cm; text-align: justify;"><span style=3D"font-=
+size: 12.0pt; color: #444444; border: none windowtext 1.0pt; padding: 0cm; =
+background: white;">Al&eacute;m de Irm&atilde;os do quadro e visitantes, ab=
+rilhantaram os trabalhos as autoridades: Vener&aacute;veis Irm&atilde;os <s=
+trong>Antonio Rodrigues Neto</strong> </span><span style=3D"font-size: 12.0=
+pt; color: #3d3d3d; background: white;">(Coordenador Regional de RI pela 5&=
+#170; Macrorregi&atilde;o &#8211; &#193;rea 9), <strong>Rubens Pantano Filh=
+o</strong> (Deputado Estadual). </span></p><p style=3D"text-indent: 4cm; te=
+xt-align: justify;"><span style=3D"font-size: 12.0pt; color: #454545;">&#16=
+0;</span></p><p style=3D"text-indent: 4cm; text-align: justify;"><span styl=
+e=3D"font-size: 12.0pt; color: #454545;">&#160;</span></p><p><span style=3D=
+"color: #454545; font-size: 18.0pt;"><strong>S</strong></span><span style=
+=3D"color: #454545; font-size: 18.0pt;"><strong>ECRETARIA ESTADUAL DE COMUN=
+ICA&#199;&#195;O E IMPRENSA - </strong></span><span style=3D"color: #454545=
+; font-size: 18.0pt;"><strong>GOSP</strong></span></p><p><span style=3D"fon=
+t-size: 12.0pt; color: #454545;">Irm&atilde;o </span><span style=3D"color: =
+#454545; font-size: 12.0pt;"><strong>S&eacute;rgio Tarcisio Skupien</strong=
+></span></p><p><span style=3D"font-size: 9.0pt; color: #454545;">Oficial de=
+ Comunica</span><span style=3D"font-size: 9.0pt; color: #454545;">&#231;&at=
+ilde;</span><span style=3D"font-size: 9.0pt; color: #454545;">o e Imprensa =
+da 5&#170; Macrorregi</span><span style=3D"font-size: 9.0pt; color: #454545=
+;">&atilde;</span><span style=3D"font-size: 9.0pt; color: #454545;">o</span=
+></p></div>
+</div>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" bgco=
+lor=3D"#f5f5f5" style=3D'padding: 10px; margin-top: 40px;'>
+<tbody>
+	<tr>
+    <td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-heigh=
+t: 20px; font-family: Helvetica, Arial, sans-serif;'>
+	Comente respondendo a este e-mail ou <a href=3D"https://gosp-x.jiveon.com/=
+community/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa=
+/blog/2018/04/12/62%C2%BA-anivers%C3%A1rio-da-arls-regente-feij%C3%B3-iii-n=
+%C2%BA-1456-oriente-de-itu?et=3Dwatches.email.blog" style=3D'color: #3778C7=
+; text-decoration: none;'>v=C3=A1 para a postagem do blog em REDE SOCIAL DO=
+ GOSP</a>
+    </td>
+    </tr>
+
+
+    <tr>
+    <td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-heigh=
+t: 20px; font-family: Helvetica, Arial, sans-serif;'>
+		Seguindo <a href=3D"https://gosp-x.jiveon.com/community/secretarias/grand=
+e-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog?et=3Dwatches.email.bl=
+og" style=3D'color: #3778C7; text-decoration: none;'>Comunica=C3=A7=C3=A3o =
+e Imprensa</a> nestes fluxos:
+     Comunica=C3=A7=C3=A3o e Imprensa
+    </td>
+    </tr>
+</tbody>
+</table>
+<br><br>
+                    <p style=3D'color: #666666; margin-top: 20px; font-size=
+: 14px; line-height: 20px; font-family: Helvetica, Arial, sans-serif;'>
+                        Este e-mail foi enviado pela Rede Social do GOSP po=
+rque voc=C3=AA =C3=A9 um usu=C3=A1rio registrado.
+	                        Voc=C3=AA pode <a href=3D"https://gosp-x.jiveon.co=
+m/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0e=
+e232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c">cancelar a assinatura</a=
+> agora mesmo ou ajustar a frequ=C3=AAncia de e-mail nas <a href=3D"https:/=
+/gosp-x.jiveon.com/user-preferences!input.jspa">prefer=C3=AAncias do seu e-=
+mail</a>
+                    </p>
+            </td>
+		</tr>
+	</tbody>
+</table>
+			    </td>
+			</tr>
+		</tbody>
+	</table>
+
+<img src=3D"http://jiveon.jivesoftware.com/wf/open?upn=3DlkDbH7-2FnFH7oeBGC=
+GoMHz9T22eb3DvjuBfkB1ASadAwAtbqNYYkVs4MwAGOqDuR5N49BZM9PLfhYH64a-2FtseS4DVe=
+2KYtEKG1jtQxJcampwJIMFKYCoxACsZzoeW1LXs1CMi8-2BZvO-2BB-2FRpyu7LhLIHIdAEDWUP=
+4IUFcG-2B1ukeKmWbEv5VMA0fjR2VfOUrImRRua4MHewPnfUGx0mtj2gV00Xp-2FPzPK3B8O-2F=
+z5wNhXzBRw-2Bj-2F-2FuN-2F-2BfWLPWME-2FxCk21Zijof9R4nLr71uRaQvlNfSDnYgxGEx12=
+P4VfNx-2BzcNaWBed4dbEF1B9BB1-2Bs4uoGe5h7hZtOQXSBrjfuWHdw-3D-3D" alt=3D"" wi=
+dth=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1p=
+x !important;border-width:0 !important;margin-top:0 !important;margin-botto=
+m:0 !important;margin-right:0 !important;margin-left:0 !important;padding-t=
+op:0 !important;padding-bottom:0 !important;padding-right:0 !important;padd=
+ing-left:0 !important;"/>
+</body>
+</html>
+
+------=_Part_370384_1166918348.1523542554159--
+
+------=_Part_370385_1198024945.1523542554159--
+

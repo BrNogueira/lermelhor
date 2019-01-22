@@ -1,0 +1,240 @@
+Return-path: <no-reply@antecipado.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sun, 11 Oct 2015 13:52:08 -0300
+Received: from srv-mta01.bs2.com.br ([177.66.160.210]:40432)
+	by hserv20.homehost.com.br with esmtps (TLSv1.2:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.86)
+	(envelope-from <no-reply@antecipado.com.br>)
+	id 1ZlJqy-0007Jp-4E
+	for marco@digitalfotoimagem.com.br; Sun, 11 Oct 2015 13:52:08 -0300
+Received: from antecipado.com.br (unknown [177.66.162.131])
+	by srv-mta01.bs2.com.br (Postfix) with ESMTPA id 751FD3FDE8
+	for <marco@digitalfotoimagem.com.br>; Sun, 11 Oct 2015 13:56:43 -0300 (BRT)
+Message-ID: <803d715b8a56bc76645d3e56b1c57c96@antecipado.com.br>
+Date: Sun, 11 Oct 2015 13:47:25 -0300
+Subject: Bem Vindo ao Antecipado
+From: no-reply@antecipado.com.br
+To: Site Antecipado <marco@digitalfotoimagem.com.br>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html lang=3D"pt-BR">
+<head>
+    <meta charset=3D"UTF=
+-8">
+
+    <title>Site Antecipado</title>
+    <style>
+
+        * {=
+
+            margin: 0;
+            padding: 0;
+            font-fami=
+ly: 'Helvetica Neue', Helvetica, sans-serif;
+            font-size: 100%;=
+
+            line-height: 1.6;
+        }
+
+        img {
+         =
+   max-width: 100%;
+        }
+
+        body {
+            -webkit-f=
+ont-smoothing: antialiased;
+            -webkit-text-size-adjust: none;=
+
+            width: 100% !important;
+            height: 100%;
+      =
+  }
+
+        a {
+            color: #348eda;
+        }
+
+       =
+ .last {
+            margin-bottom: 0;
+        }
+
+        .first {=
+
+            margin-top: 0;
+        }
+
+        table.body-wrap {
+=
+            width: 100%;
+            padding: 20px;
+        }
+
+    =
+    table.body-wrap .container {
+            border: 1px solid #f0f0f0;=
+
+        }
+
+        table.footer-wrap {
+            width: 100%;
+=
+            clear: both !important;
+        }
+
+        .footer-wrap .=
+container p {
+            font-size: 12px;
+            color: #666;
+=
+
+        }
+
+        table.footer-wrap a {
+            color: #999;=
+
+        }
+
+        h1, h2, h3 {
+            font-family: "Helvetic=
+a Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+            color=
+: #000;
+            line-height: 1.1;
+            margin: 40px 0 10px;=
+
+            font-weight: 200;
+        }
+
+        h1 {
+          =
+  font-size: 36px;
+        }
+
+        h2 {
+            font-size: 2=
+8px;
+        }
+
+        h3 {
+            font-size: 22px;
+       =
+ }
+
+        p, ul {
+            margin-bottom: 10px;
+            fo=
+nt-weight: normal;
+            font-size: 14px;
+        }
+
+        =
+ul li {
+            margin-left: 5px;
+            list-style-position: =
+inside;
+        }
+
+        .container {
+            display: block =
+!important;
+            max-width: 600px !important;
+            margin=
+: 0 auto !important; /* makes it centered */
+            clear: both !imp=
+ortant;
+        }
+
+        .content {
+            padding: 20px;
+=
+            max-width: 600px;
+            margin: 0 auto;
+            d=
+isplay: block;
+        }
+
+        .content table {
+            widt=
+h: 100%;
+        }
+
+        .message {
+            font-size: 14px;=
+
+        }
+
+        .header-mesg {
+            margin: 20px 0 10px =
+0;
+        }
+
+        .content-mesg {
+            font-weight: norm=
+al;
+            font-size: 14px;
+        }
+
+    </style>
+</head>=
+
+<body bgcolor=3D"#f6f6f6">
+
+<table class=3D"body-wrap">
+    <tr>=
+
+        <td>&nbsp;</td>
+        <td class=3D"container" bgcolor=3D"#FF=
+FFFF">
+            <div class=3D"content">
+                <table>
+  =
+                  <tr>
+                        <td><img src=3D"https://an=
+tecipado.com.br/img/logo-antecipado.png" width=3D"230"></td>
+            =
+        </tr>
+                    <tr>
+                        <td>
+ =
+                           <h4>Seja bem vindo ao Antecipado!<br/><br/>
+  =
+                              Para concluir o seu cadastro, clique no link =
+abaixo para definir uma senha e confirmar os dados do cadastro:</h4>
+    =
+                        <br>
+                            <div class=3D"me=
+ssage">
+                                <a href=3D"https://antecipado.com=
+.br/pre-register?token=3D6288de1c633cfa5fbe8833398c8e01d1" target=3D"_blank=
+">Confirmar cadastro</a>
+                            </div>
+           =
+             </td>
+                    </tr>
+                </table>=
+
+            </div>
+        </td>
+        <td>&nbsp;</td>
+    </tr>=
+
+</table>
+
+<table class=3D"footer-wrap">
+    <tr>
+        <td></t=
+d>
+        <td class=3D"container">
+        </td>
+        <td></td>=
+
+    </tr>
+</table>
+
+</body>
+</html>

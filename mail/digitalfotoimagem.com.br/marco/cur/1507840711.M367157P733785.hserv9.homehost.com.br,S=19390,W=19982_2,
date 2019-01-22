@@ -1,0 +1,592 @@
+Return-Path: <585-GGD-959.0.17848.0.0.9432.9.5170223@em-sj-77.mktomail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br with LMTP id 2Gk4EsfS31lZMgsAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Thu, 12 Oct 2017 17:38:31 -0300
+Return-path: <585-GGD-959.0.17848.0.0.9432.9.5170223@em-sj-77.mktomail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 12 Oct 2017 17:38:31 -0300
+Received: from delapparentia.mktdns.com ([192.28.146.180]:37712)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <585-GGD-959.0.17848.0.0.9432.9.5170223@em-sj-77.mktomail.com>)
+	id 1e2kFS-0035Rj-VI
+	for marco@digitalfotoimagem.com.br; Thu, 12 Oct 2017 17:38:31 -0300
+X-MSFBL: bWFyY29AZGlnaXRhbGZvdG9pbWFnZW0uY29tLmJyQGR2cC0xOTItMjgtMTQ2LTE4
+	MEBiZy1zamQtMjg5QDU4NS1HR0QtOTU5OjY2NDU6ODM3MTozMzIxNDowOjk0MzI6
+	OToxNzg0ODo1MTcwMjIz
+Received: from [10.0.87.249] ([10.0.87.249:41472] helo=sjmas02.marketo.org)
+	by sjmta11.marketo.org (envelope-from <info@magento.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTP
+	id 95/C2-13165-792DFD95; Thu, 12 Oct 2017 15:37:43 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1507840663;
+	s=m1; d=magento.com; i=@magento.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=oiuiPjTVP093AgwORnwD6nw6v8BcjHOsdawwiku3cVQ=;
+	b=LrL8FeynLhmpKoWYWIJQujP6GMWRP7R56g6m5wcrT1f4ywNA/bxicV8pfjSIQOiB
+	68Y48r3DT/MJGkRaUZLneBUX9bmyM5TPY8M0MiM27zG/lfbgSboLh4Sm8w/jQd0fKqT
+	n6fAOjB+9jkPGIal+sScYq7VLCUxH7cxq9UmIp8c=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1507840663;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=oiuiPjTVP093AgwORnwD6nw6v8BcjHOsdawwiku3cVQ=;
+	b=asAC5HVqKjUag8/mBSihtGmiT7TJwCkuO/HtdTED9HbDxnulwPGVI6EmLVV8Dly+
+	XP1EV0ntzAOJG+Tlpx1A19TNyG2N6/Qo1X1h1fAqRksHs1n5JIHb7fD8EaW+gTfUVon
+	J3ulAQSE13k0ACsvF05250wCbHYNsA4dzjg29sko=
+Date: Thu, 12 Oct 2017 15:37:43 -0500 (CDT)
+From: Magento <info@magento.com>
+Reply-To: info@magento.com
+To: marco@digitalfotoimagem.com.br
+Message-ID: <47740582.2102910155.1507840663255.JavaMail.root@sjmas02.marketo.org>
+Subject: See why Gartner named us a commerce leader
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2102910153_126900089.1507840663255"
+X-Binding: bg-sjd-289
+X-MarketoID: 585-GGD-959:6645:8371:33214:0:9432:9:17848:5170223
+X-MktArchive: false
+List-Unsubscribe: <mailto:GFLESNCONZZGOWKPGY3U43TDGRUWUTTTG5AT2PI.17848.9432.9@unsub-sj.mktomail.com>
+X-Mailfrom: 585-GGD-959.0.17848.0.0.9432.9.5170223@em-sj-77.mktomail.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+
+------=_Part_2102910153_126900089.1507840663255
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Today, it=E2=80=99s more important than ever to have a digital commerce sol=
+ution that works hard for your business. It must be flexible, scalable, and=
+ offer unique experiences that help you realize your vision and stand out. =
+=20
+
+With Magento, you can bring new ideas to market fast, expand into new geogr=
+aphic areas, and take your commerce to the next level.=20
+
+That=E2=80=99s why Gartner named us a =E2=80=9Cleader=E2=80=9D in Magic Qua=
+drant.=20
+
+The enhanced platform lets you:=20
+
+=20
+=09- Customize and create a truly unique digital experience
+=20
+=09- Launch an online storefront and update it quickly
+=20
+=09- Handle spikes in order volume with no downtime
+=20
+=09- Grow into new markets and reach new segments
+=20
+=09- Access 24/7 support and a global network of developers
+=20
+
+=20
+
+Read the Gartner Report <http://email2.magento.com/p0l00G0aBD0H0YqGsX0H0U2>=
+ now and learn how the #1 digital commerce solution can work hard for you.
+Explore the world=E2=80=99s most flexible commerce platform. Schedule a fre=
+e demo. <http://email2.magento.com/c0l02HHG0XqG0asDC00ZU00>
+=C2=A9 2017 Magento All rights reserved=20
+
+=20
+Terms of Use <[[${termsOfUseLink}]]>=20
+|=20
+Privacy Policy <[[${footerPrivacyPolicyLink}]]>=20
+|=20
+Unsubscribe <https://info2.magento.com/UnsubscribePage.html?mkt_unsubscribe=
+=3D1&mkt_tok=3DeyJpIjoiTWpBeU5UZ3hPV0kxTUdZMSIsInQiOiJ6N2tWWUx0RlVHRncwcU1n=
+MVRIYjJSa3NqRElZNldKYVJWRDRnbnk0Nk51QWs5bXpoQ1ZUNnlGL1Yza2dIVG44LzR4eG9Ib3k=
+4bEowNUFtZUJOMlFSTS9DcUVhS1ZlcXBXMytiV1ZmSDViWmtORmpkWjZVeVAyYXFJOEJvbkptTi=
+J9>
+
+------=_Part_2102910153_126900089.1507840663255
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html>
+<head>=20
+<meta name=3D"viewport" content=3D"width=3Ddevice-width">=20
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+=20
+<!-- Marketo Variable Definitions -->  =20
+<!-- header -->   =20
+<!-- header image -->  =20
+<!-- spacer -->  =20
+<!-- freeTextSpacer -->    =20
+<!-- twoColSpacer -->   =20
+<!-- button -->     =20
+<!-- blockTextSpacer --> =20
+<!-- footer -->  =20
+<style>
+    /* -------------------------------------
+    GLOBAL RESETS
+    ------------------------------------- */
+    img {
+    border: none;
+    -ms-interpolation-mode: bicubic;
+    max-width: 100%;
+    }
+    body {
+    /*background-color: #f6f6f6;*/
+    font-family: sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 14px;
+    line-height: 1.4;
+    margin: 0;
+    padding: 0;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    }
+    table {
+    border-collapse: separate;
+    mso-table-lspace: 0pt;
+    mso-table-rspace: 0pt;
+    }
+    table[class=3Dbody], table[class=3Dmain]{
+    width: 100%;
+    }
+    table td {
+    font-family: sans-serif;
+    font-size: 14px;
+    vertical-align: top;
+    }
+    /* -------------------------------------
+    BODY & CONTAINER
+    ------------------------------------- */
+    .body {
+    /*background-color: #f6f6f6;*/
+    width: 100%;
+    padding:0 0 20px;}
+    /* Set a max-width, and make it display as block so it will automatical=
+ly stretch to that width, but will also shrink down on a phone or something=
+ */
+    .container {
+    display: block;
+    margin: 0 auto !important;
+    /* makes it centered */
+    max-width: 600px;
+    width: 600px; }
+    /* This should also be a block element, so that it will fill 100% of th=
+e .container */
+    .content {
+    box-sizing: border-box;
+    display: block;
+    margin: 0 auto;
+    max-width: 600px;
+    }
+    /* -------------------------------------
+    HEADER, FOOTER, MAIN
+    ------------------------------------- */
+    .main {
+    width: 100%;
+    }
+    .wrapper {
+    box-sizing: border-box;
+    padding: 0px; }
+    .footer {
+    clear: both;
+    padding-top: 10px;
+    text-align: center;
+    width: 100%; }
+    .footer td,
+    .footer p,
+    .footer span,
+    .footer a {
+    color: #999999;
+    font-size: 12px;
+    text-align: center; }
+    /* -------------------------------------
+    TYPOGRAPHY
+    ------------------------------------- */
+    h1,
+    h2,
+    h3,
+    h4 {
+    color: #000000;
+    font-family: sans-serif;
+    font-weight: 400;
+    line-height: 1.4;
+    margin: 0;
+    margin-bottom: 10px; }
+    h1 {
+    font-size: 35px;
+    font-weight: 300;
+    text-align: center;
+    text-transform: capitalize;
+    }
+    a {
+    color: #3498db;
+    text-decoration: underline;
+    }
+    hr {
+    border: 0;
+    border-bottom: 1px solid #f6f6f6;
+    margin: 20px 0;
+    }
+    /* -------------------------------------
+    RESPONSIVE AND MOBILE FRIENDLY STYLES
+    ------------------------------------- */
+    @media only screen and (max-width: 600px) {
+      .mobshow  {
+          display: initial !important;=20
+          width:auto !important;=20
+          height:auto !important;=20
+          overflow:visible !important;=20
+          float:none !important;=20
+          visibility:visible !important;=20
+          border:none !important;
+          font-size:15px !important;
+        }
+        .mobhidden  {
+          display: none !important;=20
+          width:0!important;=20
+          height:0!important;=20
+          overflow:hidden!important;=20
+          float:none!important;=20
+          visibility:hidden!important;=20
+          border:none!important
+        }
+
+    table[class=3Dbody]{
+    max-width: 100% !important;
+    width: 100% !important;
+    }
+    table[class=3Dbody] h1 {
+    font-size: 28px !important;
+    margin-bottom: 10px !important; }
+    table[class=3Dbody] h2, table[class=3Dbody] h2 span{
+    font-size: 22px !important;
+    }
+    table[class=3Dbody] p,
+    table[class=3Dbody] ul,
+    table[class=3Dbody] ol,
+    table[class=3Dbody] td,
+    table[class=3Dbody] span,
+    table[class=3Dbody] a {
+    font-size: 16px !important; }
+    table[class=3Dbody] .wrapper,
+    table[class=3Dbody] .article {
+    padding: 10px !important; }
+    table[class=3Dbody] .content {
+    padding: 0 !important;
+    width: 100% !important;
+    }
+    table[class=3Dbody] .container {
+    padding: 0 !important;
+    width: 100% !important; }
+    table[class=3Dbody] .main {
+    border-left-width: 0 !important;
+    border-radius: 0 !important;
+    border-right-width: 0 !important; }
+    table[class=3Dbody] .btn table {
+    width: 100% !important; }
+    table[class=3Dbody] .btn a {
+    width: 100% !important; }
+    table[class=3Dbody] .img-responsive {
+    height: auto !important;
+    max-width: 100% !important;
+    width: auto !important; }
+    .hidden-sm{
+    display:none; !important;
+    }
+    table[class=3Dbody] .footer{
+    font-size:14px !important;
+    }
+    .full-width-sm{
+    width: 100% !important;
+    }
+    .icon-responsive{
+    padding:0px !important;
+    width: 40px !important;
+    }
+    .text-align-left-sm{
+    text-align: left !important;
+    }
+    img{
+    height:auto !important;
+    }
+    .module-container{
+    width: 100% !important;
+    }
+    .mobile-header{
+      padding:20px 30px 20px !important;
+    }
+    .secondary-font{
+      padding:0 30px !important;
+    }
+    .block-text{
+      padding: 20px 50px !important;
+    }
+    }
+    </style>=20
+</head>=20
+<body class=3D"" bgcolor=3D"#ecf0f1" style=3D"background: #ecf0f1;">=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"body" widt=
+h=3D"600" style=3D"width: 600px; margin:auto;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"container">=20
+<div class=3D"content">=20
+<!-- START CENTERED WHITE CONTAINER -->=20
+<table class=3D"main">=20
+<!-- START MAIN CONTENT AREA -->=20
+<tbody>=20
+<tr>=20
+<td class=3D" mktoContainer wrapper" id=3D"template-wrapper">
+<table class=3D"mktoModule m_header module-container" id=3D"headerf4c7f9a6-=
+ed79-48c2-b012-e10a01757243" align=3D"center" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td class=3D"" style=3D"line-height:0px;font-size:0px;" height=3D"0px">&nbs=
+p;</td>=20
+</tr>=20
+<tr>=20
+</tr>=20
+<tr>=20
+<td style=3D"background-color:#ffffff; display: block;" bgcolor=3D"#ffffff"=
+ valign=3D"top">=20
+<table class=3D"full-width-sm" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td style=3D"padding:20px 53px 0px;" class=3D"mobile-header">=20
+<div class=3D"mktoImg" id=3D"Logof4c7f9a6-ed79-48c2-b012-e10a01757243" mkto=
+lockimgsize=3D"false">=20
+<a href=3D
+"http://email2.magento.com/Fa0GX00Sv0G0H2UH000Dsql" style=3D"text-decoratio=
+n: none; display: block; line-height: 0px" target=3D"_blank"
+> <img src=3D"https://info2.magento.com/rs/585-GGD-959/images/magento_logo_=
+email.jpg" width=3D"155" height=3D"44"> </a>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule m_header image module-container" id=3D"header-im=
+age" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"600">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top">=20
+<center>=20
+<table class=3D"full-width-sm" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<center>=20
+<a href=3D
+"http://email2.magento.com/E0s0G0HwGT00q0HD2U0lX0a" style=3D"display: block=
+; overflow: hidden; line-height: 0;"
+>=20
+<!-- Desktop --> </a>=20
+<div class=3D"mktoImg mobhidden" id=3D"single" mktolockimgsize=3D"false">
+<a href=3D
+"http://email2.magento.com/E0s0G0HwGT00q0HD2U0lX0a" target=3D"_blank"
+><img src=3D"https://info2.magento.com/rs/585-GGD-959/images/Magento_QuickW=
+in_Email_MQ_1_03.gif" width=3D"600" height=3D"316" style=3D""></a>
+</div>=20
+<!-- Desktop End -->=20
+<!-- Mobile -->=20
+<div style=3D"display: none; width:0; height:0; overflow:hidden; float:none=
+; visibility:hidden; border:none;font-size:0; max-height:0; mso-hide: all" =
+class=3D"mobshow">=20
+<img src=3D"https://info2.magento.com/rs/585-GGD-959/images/Magento_QuickWi=
+n_Email_MQ_1_03.gif" class=3D"img-responsive" style=3D"line-height: 0px; fl=
+oat: left;">=20
+</div>=20
+<!-- Mobile End -->=20
+</center> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</center> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule m_two-col module-container" id=3D"two-col212553d=
+6-b7ff-402a-b00f-85ddf4943d23" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td style=3D"background-color:#ffffff;" bgcolor=3D"#ffffff" valign=3D"top">=
+=20
+<table class=3D"full-width-sm mobhidden" align=3D"center" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"200" style=3D"float:left;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"" style=3D"line-height:40px;font-size:40px;" height=3D"40px">&=
+nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td style=3D"padding:0px 20px; text-align: center; border-right:solid 1px #=
+ee6723">=20
+<div class=3D"mktoImg" id=3D"two-col-icons212553d6-b7ff-402a-b00f-85ddf4943=
+d23" mktolockimgsize=3D"false">
+<img class=3D"full-width-sm" src=3D"https://info2.magento.com/rs/585-GGD-95=
+9/images/magento_email_icons_1.jpg" width=3D"120">
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td class=3D"" style=3D"line-height:40px;font-size:40px;" height=3D"40px">&=
+nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--[if mso]><td style=3D"background-color:#ffffff;" bgcolor=3D"#ffffff" va=
+lign=3D"top"></td><![endif]-->=20
+<table class=3D"full-width-sm" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"400" style=3D"float:right;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"" style=3D"line-height:40px;font-size:40px;" height=3D"40px">&=
+nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td data-medium-editor-element=3D"true" class=3D"secondary-font text" style=
+=3D"padding:0 40px 0 30px; color:#58585a;">=20
+<div class=3D"mktoText" id=3D"rightColText212553d6-b7ff-402a-b00f-85ddf4943=
+d23">
+<p>Today, it=E2=80=99s more important than ever to have a digital commerce =
+solution that works hard for your business. It must be <strong>flexible, sc=
+alable, and offer unique experiences that help you realize your vision and =
+stand out. </strong></p>=20
+<p>With Magento, you can bring new ideas to market fast, expand into new ge=
+ographic areas, and take your commerce to the next level.</p>=20
+<p>That=E2=80=99s why Gartner named us a =E2=80=9Cleader=E2=80=9D in Magic =
+Quadrant.</p>=20
+<p>The enhanced platform lets you:</p>=20
+<ul>=20
+<li><strong>Customize and create a truly unique digital experience</strong>=
+<br></li>=20
+<li><strong>Launch an online storefront and update it quickly</strong><br><=
+/li>=20
+<li><strong>Handle spikes in order volume with no downtime</strong><br></li=
+>=20
+<li><strong>Grow into new markets and reach new segments</strong><br></li>=
+=20
+<li><strong>Access 24/7 support and a global network of developers</strong>=
+<br></li>=20
+</ul>=20
+<p><a href=3D
+"http://email2.magento.com/E0s0G0HwGT00q0HD2U0lX0a" target=3D"_blank" id=3D=
+""
+>Read the Gartner Report</a> now and learn how the #1 digital commerce solu=
+tion can work hard for you.</p>
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td class=3D"" style=3D"line-height:40px;font-size:40px;" height=3D"40px">&=
+nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule m_block-text module-container" id=3D"block-text"=
+ align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"600">=20
+<tbody>=20
+<tr>=20
+<td style=3D"background-color:#f27329;" bgcolor=3D"#f27329" valign=3D"top">=
+=20
+<table class=3D"full-width-sm" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"600">=20
+<tbody>=20
+<tr>=20
+<td data-medium-editor-element=3D"true" class=3D"block-text text" style=3D"=
+padding:20px 80px; color:#ffffff; font-weight:bold; font-size:18px;">=20
+<div class=3D"mktoText" id=3D"bannertext">=20
+<div style=3D"text-align: center;">=20
+<a href=3D
+"http://email2.magento.com/wG0DqlsGX0000Hax00H2U0U" target=3D"_blank" id=3D=
+"" style=3D"color: #ffffff; text-decoration: none; font-size: 18px;"
+>Explore the world=E2=80=99s most flexible commerce platform. Schedule a fr=
+ee demo.</a>=20
+</div>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<table class=3D"mktoModule m_footer module-container" id=3D"footer" align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">=
+=20
+<tbody>=20
+<tr>=20
+<td style=3D"background-color:#afb0b2;" bgcolor=3D"afb0b2" valign=3D"top">=
+=20
+<table class=3D"full-width-sm" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"600" style=3D"width: 600px;">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<table class=3D"full-width-sm" align=3D"left" width=3D"60%;" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0">=20
+<tbody>=20
+<tr>=20
+<td style=3D"padding: 30px 50px; color: #fff; font-size: 12px;">=20
+<div class=3D"mktoText" id=3D"footer-address-text">
+=C2=A9 2017 Magento All rights reserved=20
+<br>=20
+<a href=3D
+"http://email2.magento.com/eq00VD02000GGU0HlayXH0s" style=3D"color:#fff; te=
+xt-decoration:none;"
+>Terms of Use</a>=20
+<span>|</span>=20
+<a href=3D
+"http://email2.magento.com/WG0azqGlX0W2DsH00H00U00" style=3D"color:#fff; te=
+xt-decoration:none;"
+>Privacy Policy</a>=20
+<span>|</span>=20
+<a href=3D"https://info2.magento.com/UnsubscribePage.html?mkt_unsubscribe=
+=3D1&mkt_tok=3DeyJpIjoiTWpBeU5UZ3hPV0kxTUdZMSIsInQiOiJ6N2tWWUx0RlVHRncwcU1n=
+MVRIYjJSa3NqRElZNldKYVJWRDRnbnk0Nk51QWs5bXpoQ1ZUNnlGL1Yza2dIVG44LzR4eG9Ib3k=
+4bEowNUFtZUJOMlFSTS9DcUVhS1ZlcXBXMytiV1ZmSDViWmtORmpkWjZVeVAyYXFJOEJvbkptTi=
+J9" style=3D"color:#fff; text-decoration:none;" class=3D"mktNoTrack">Unsubs=
+cribe</a>
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<table class=3D"mobhidden" style=3D"text-align: right;" align=3D"right" wid=
+th=3D"121" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=20
+<tbody>=20
+<tr>=20
+<td> <img src=3D"https://info2.magento.com/rs/585-GGD-959/images/magento_fo=
+oter_graphic.jpg" width=3D"121" height=3D"92" style=3D"float:right;"> </td>=
+=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+<!-- END MAIN CONTENT AREA -->=20
+</tbody>=20
+</table>=20
+<!-- END CENTERED WHITE CONTAINER -->=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> =20
+<a href=3D
+"http://email2.magento.com/qaDG0s00XA0qlU02G0HX00H"
+></a>
+<img src=3D"http://email2.magento.com/trk?t=3D1&mid=3DNTg1LUdHRC05NTk6NjY0N=
+To4MzcxOjMzMjE0OjA6OTQzMjo5OjE3ODQ4OjUxNzAyMjM6bWFyY29AZGlnaXRhbGZvdG9pbWFn=
+ZW0uY29tLmJy" width=3D"1" height=3D"1" style=3D"display:none !important;" a=
+lt=3D"" />
+</body>
+</html>
+------=_Part_2102910153_126900089.1507840663255--

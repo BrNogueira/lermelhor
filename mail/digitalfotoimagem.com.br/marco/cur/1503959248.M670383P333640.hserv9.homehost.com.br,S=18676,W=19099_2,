@@ -1,0 +1,423 @@
+Return-Path: <mailer@infusionmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id 4ajMJ9CYpFlIFwUAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Mon, 28 Aug 2017 19:27:28 -0300
+Return-path: <mailer@infusionmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Mon, 28 Aug 2017 19:27:28 -0300
+Received: from mta-c-24-60.infusionmail.com ([208.76.24.60]:20205)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <mailer@infusionmail.com>)
+	id 1dmSVE-001P31-9W
+	for marco@digitalfotoimagem.com.br; Mon, 28 Aug 2017 19:27:28 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=superandoseuslimites.com.br;
+	s=33409a7a-342e-424e-88bb-80f252c491ca; t=1503959201;
+	i=@superandoseuslimites.com.br; bh=zATBYOpA9Bw0PDfb56eBHcDLlOY=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	b=PFkTT/e5Z3Dg/i+HpXAImHyAce4xRtP9rmrV4J3BpsRddJleFiethkEQamjt2R21b
+	 WK8tEZIjRmn0iEo/w2t0GSohiWR0jhmfvYCMhgbeY/07Gybkt0HG5fRgNES0lRnu/8
+	 cKnZsyZwbPqo9WwC1+PPHbLGJVbyUHWD0DX2WD3I=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=infusionmail.com;
+	s=dkim1024; t=1503959201; i=@infusionmail.com;
+	bh=zATBYOpA9Bw0PDfb56eBHcDLlOY=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	b=X3iceMhJVa+Dp+xRL0LJLEvPnBiIfEerbbOu1ElZO+xcCON9SJQcKVWQfII4OTFXT
+	 eW3RBsH4EQ65uvyLAb8nDI/POeXQKg5tHgUXQrA8AYAU+RAfN4usHvWJpvIKCSf8WU
+	 DHiCZwDC2UT5aYSB0oxuPF3WZ0fDPB/dWBgtg5l4=
+Received: from [10.0.0.222] ([10.0.0.222:47526] helo=superion)
+	by phxme3 (envelope-from <mailer@infusionmail.com>)
+	(ecelerity 3.6.12.50134 r(Core:3.6.12.0)) with ESMTP
+	id BD/71-29759-1A894A95; Mon, 28 Aug 2017 18:26:41 -0400
+Date: Mon, 28 Aug 2017 18:26:38 -0400 (EDT)
+From: =?utf-8?Q?Andr=C3=A9_Sampaio?= <andre@superandoseuslimites.com.br>
+To: marco@digitalfotoimagem.com.br
+Message-ID: <42627841.3779541503959198754.JavaMail.tomcat@localhost>
+Subject: =?utf-8?Q?Voc=C3=AA_j=C3=A1_fez_sua_inscri=C3=A7=C3=A3o_gratuita=3F?=
+Errors-To: mailer@infusionmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_377696_932515930.1503959198687"
+X-MailSentId: 634222
+X-campaignid: infusion_dk283634222
+Feedback-ID: dk283:dk283_8980:primer
+X-BatchId: 8980
+X-InfApp: dk283
+X-InfContact: 333540
+X-InfSent: 45048900
+X-inf-QETT: 0
+X-inf-package: primer
+X-inf-uflags: UE
+X-inf-iflags: UE
+X-inf-BlockName: mn149
+List-Unsubscribe: <https://dk283.infusionsoft.com/app/optOut/noConfirm/45048900/c534f1d83fb2b740>
+X-inf-dkimSelector: 33409a7a-342e-424e-88bb-80f252c491ca
+X-inf-dkimDomain: superandoseuslimites.com.br
+X-Message-Id: BD/71-29759-1A894A95
+
+------=_Part_377696_932515930.1503959198687
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+This email was sent as HTML-only. To view it, please visit:
+https://dk283.infusionsoft.com/app/hostedEmail/45048900/c534f1d83fb2b740
+------=_Part_377696_932515930.1503959198687
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title></title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700italic,700|Open+Sans:400,400italic,700,700italic|Lato:400,400italic,700,700italic);
+</style>
+<style type="text/css">
+#outlook a {padding: 0;}
+.ReadMsgBody, .ExternalClass {width: 100%;}
+.ExternalClass * {line-height: 100%;}
+body { background-color: #ffffff; margin: 0; padding: 0;
+-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+table, td { border-collapse:collapse;
+mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+img { border: 0; height: auto; line-height: 100%;
+outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; }
+.column {display: inline-block; width: 100%;
+text-align: left; vertical-align: top; }
+@media only screen and (min-width:480px) {
+.column-100, * [aria-labelledby='column-100'] {
+width: 100% !important; display: inline-block;
+text-align: left; vertical-align: top; }
+.column-50, * [aria-labelledby='column-50'] {
+width: 50% !important; display: inline-block;
+text-align: left; vertical-align: top; }
+.column-33, * [aria-labelledby='column-33'] {
+width: 33% !important; display: inline-block;
+text-align: left; vertical-align: top; }}
+@media only screen and (max-width:479px) {
+.socialBlock, td.imageBlock, .buttonBlock,
+.alignmentContainer { text-align: center !important }
+.alignmentContainer table { margin-right: auto;
+margin-left: auto;}}
+</style>
+</head><body style="background:#ffffff">
+<!--[if gte mso 9]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml>
+<![endif]-->
+<div style="background:#ffffff">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255);">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]-->
+<!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+Marco
+<br />
+<br />
+Amanhã, dia 28/ago, vou dar uma 
+<span class="bard-text-block style-scope" style="">Superclass inédita,</span> e essa é a Aula que mais estou empolgado de compartilhar... ;-) 
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+Por que?
+<br />
+<br />
+Porque a maioria de nós tem um desejo de ter uma vida melhor, de ter mais prosperidade, mas a maioria de nós tem estratégias erradas ou incompletas para vencer obstáculos e desafios que nos impedem de progredir e criar a realidade que sonhamos.
+<br />
+<br />
+Por isso desenhei essa aula para te mostrar o modelo vencedor e a psicologia 
+<i class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">para transformar sonhos em resultados reais, os resultados que você quer na sua vida, mais rapidamente e com menos resistência... (sem blábláblá...) </i>\o/
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<i style="padding: 0px; margin: 0px; line-height: 1.6;">
+<br />
+</i>
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Para se inscrever e participar dessa Aula gratuita - Amanhã, dia 28/ago às 20h30 - clique aqui:
+<br />
+<br />
+LINK da AULA -&gt; 
+<u class="bard-text-block style-scope">
+<a href="https://dk283.infusionsoft.com/app/linkClick/18738/e040c0ce50a769ab/45048900/c534f1d83fb2b740" class="bard-text-block style-scope" target="_blank" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;">&quot;Como se Condicionar para o Sucesso e Melhorar seus Resultados em Qualquer Área da Sua Vida.&quot;</a></u>
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+Você vai descobrir:
+</p>
+<ol class="bard-text-block style-scope" style="padding: 0px 0px 0px 40px; margin-top: 16px; margin-right: 0px; margin-bottom: 16px; margin-left: initial; line-height: 1.6; font-family: Helvetica, Arial, sans-serif; font-size: 16px; color: rgb(52, 52, 52);">
+<li class="" style="padding: 0px; margin: 0px; line-height: 1.6;">
+Como atingir os Resultados que você deseja e mudar sua Vida em 3 Passos Simples;
+</li>
+<li class="" style="padding: 0px; margin: 0px; line-height: 1.6;">
+As 3 Armadilhas devastadoras da Mentalidade que impede as pessoas de terem prosperidade;
+</li>
+<li class="" style="padding: 0px; margin: 0px; line-height: 1.6;">
+O Tipo de Mentalidade ideal para produzir resultados mensuráveis e prosperidade abundante;
+</li>
+</ol>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+e muito, muito mais...
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px 0px; line-height: 1.6;">
+E ainda...vou conduzir um 
+<i style="padding: 0px; margin: 0px; line-height: 1.6;">exercício FUNDAMENTAL</i> para você já identificar, ali na hora, o que possivelmente está impedindo você de ter mais prosperidade... e como resolver isso
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+<![endif]-->
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255);">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]-->
+<!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="alignmentContainer" style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: center;">
+<table border="0" cellspacing="0" cellpadding="0" style="border-radius: 4px; border: none; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td align="center" valign="middle" bgcolor="#3A7522" style="background: rgb(58, 117, 34); border-radius: 4px; color: rgb(255, 255, 255); cursor: auto;">
+<a href="https://dk283.infusionsoft.com/app/linkClick/18732/0a4dde09c54fd7ab/45048900/c534f1d83fb2b740" target="_blank" style="background: rgb(58, 117, 34); border: 1px solid rgb(58, 117, 34); border-radius: 4px; color: rgb(255, 255, 255); display: inline-block; font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 16px; font-weight: bold; text-decoration: none; text-size-adjust: none; width: 241px;">FAÇA SUA INSCRIÇÃO AGORA</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+<![endif]-->
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255);">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]-->
+<!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+Vale mencionar que, diferente de muitas outras abordagens, essa NÃO é uma aula sobre pensamento positivo ou nada parecido...
+<br />
+<br />
+É sobre um modelo vencedor, com estratégias consistentes, e que foi, disparado, o que mais influenciou meus resultados nos últimos anos... 
+<i class="bard-text-block style-scope" style="padding: 0px; margin: 0px; line-height: 1.6;">(resultados como ex.: passar em um dos concursos públicos mais concorridos do pais, criar uma empresa do zero que fatura mais de 1 milhão de reais por ano em pouco tempo entre outros...)</i>
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+E amanhã, terça-feira, eu vou te mostrar isso em detalhes, passo a passo, para você aprender como realizar aquilo que você quer e criar muita prosperidade na sua vida.
+<br />
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Então aproveite :-)
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<u>
+<a href="https://dk283.infusionsoft.com/app/linkClick/18742/a52475ea625ff483/45048900/c534f1d83fb2b740" class="bard-text-block style-scope" target="_blank" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;">Inscreva-se aqui e reserve sua vaga.</a></u>
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Forte Abraço, 
+<br />
+André Sampaio
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+P.S. Durante a aula você vai poder fazer uma auto avaliação e vai descobrir onde você pode estar errando para ainda não ter os resultados que você quer. MUITO BACANA...
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Muitas pessoas somente ao se darem conta disso já conseguem fazer distinções importantes e melhorar seus resultados... estou muito animado pra compartilhar isso como você!
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<u>
+<a href="https://dk283.infusionsoft.com/app/linkClick/18748/485caccbf7e6abb1/45048900/c534f1d83fb2b740" class="bard-text-block style-scope" target="_blank" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;">Inscreva-se aqui e reserve sua vaga.</a></u>
+</p>
+<p class="style-scope bard-text-block" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+</p>
+<p class="style-scope bard-text-block" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+</p>
+<p class="style-scope bard-text-block" style="color: rgb(52, 52, 52); font-family: Helvetica, Arial, sans-serif; font-size: 16px; padding: 0px; margin: 13px 0px 0px; line-height: 1.6;">
+<br />
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+<![endif]-->
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255);">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="font-size: 0px; width: 100%; background: rgb(255, 255, 255);">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]-->
+<!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="alignmentContainer" style="word-wrap: break-word; word-break: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div style="margin-left: auto; margin-right: auto;">
+<p style="font-family: Helvetica, Arial, sans-serif; padding: 0px; margin: 0px 0px 13px; line-height: 1.6; color: rgb(153, 153, 153); font-size: 11px;">
+<a href="https://dk283.infusionsoft.com/app/linkClick/18728/57fd8dafc8e72218/45048900/c534f1d83fb2b740" target="_blank" style="text-decoration: underline; padding: 0px; margin: 0px; line-height: 1.6; color: rgb(153, 153, 153);">Unsubscribe</a>
+</p>
+<p style="font-family: Helvetica, Arial, sans-serif; padding: 0px; margin: 13px 0px 0px; line-height: 1.6; color: rgb(153, 153, 153); font-size: 11px;">
+Superando seus Limites Av Queiroz Filho, 1.700 São Paulo, São Paulo 05319-000 Brazil
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+<![endif]-->
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</div>
+<img height="1" width="1" style="display: block;" alt="" src="https://dk283.infusionsoft.com/app/emailOpened/45048900/8980"></body>
+</html>
+------=_Part_377696_932515930.1503959198687--
+

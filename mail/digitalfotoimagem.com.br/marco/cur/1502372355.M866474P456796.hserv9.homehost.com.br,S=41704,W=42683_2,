@@ -1,0 +1,979 @@
+Return-Path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id uS7XMgNijFlc+AYAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Thu, 10 Aug 2017 10:39:15 -0300
+Return-path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 10 Aug 2017 10:39:15 -0300
+Received: from e.gospmail.org.br ([177.139.181.238]:55525 helo=gospmail.org.br)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>)
+	id 1dfngB-001xWK-2q
+	for marco@digitalfotoimagem.com.br; Thu, 10 Aug 2017 10:39:15 -0300
+Received: from localhost (e [127.0.0.1])
+	by gospmail.org.br (Postfix) with ESMTP id 76DEF1D40535
+	for <marco@digitalfotoimagem.com.br>; Thu, 10 Aug 2017 10:38:29 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at gospmail.org.br
+Received: from gospmail.org.br ([127.0.0.1])
+	by localhost (gospmail.org.br [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id m_5HCPX3DZcf; Thu, 10 Aug 2017 10:38:23 -0300 (BRT)
+Received: from o3.jiveon.jivesoftware.com (o3.jiveon.jivesoftware.com [167.89.36.126])
+	by gospmail.org.br (Postfix) with ESMTPS id E7A761D409DA
+	for <288380@gospmail.org.br>; Thu, 10 Aug 2017 10:38:13 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=jiveon.jivesoftware.com; 
+	h=from:to:subject:mime-version:content-type:list-id; s=smtpapi; 
+	bh=l9PnlU0ffWMpMdyhDFjMqCbkbas=; b=zt9WHPSbka+hFH9zBxQyXSYIDwBIE
+	o7VO/jEemwmjwfOYauebGxtHXooSJU0sJdkusnpz5H8AGvbjxB5+OWmTsfZvjSrX
+	0Kde7oMIYSQCAzZVy9FvPawOdFFty5WAeXjhEbMjDYwmLoPj9x638MM3TBSz1OT+
+	I+35s107///EMY=
+Received: by filter0159p1las1.sendgrid.net with SMTP id filter0159p1las1-10046-598C61C3-88
+        2017-08-10 13:38:11.912487627 +0000 UTC
+Received: from jiveon-mx4-out.phx1.jivehosted.com (jiveon-mail.phx1.jivehosted.com [204.93.64.13])
+	by ismtpd0013p1las1.sendgrid.net (SG) with ESMTP id lVNeK5JDTnikdEoI3635qg
+	for <288380@gospmail.org.br>; Thu, 10 Aug 2017 13:38:11.759 +0000 (UTC)
+Received: from gosp-x-jc-t-wa02.dynphx1.jivehosted.com (ip50-vlb1-services.phx1.jivehosted.com [10.160.25.50])
+	by jiveon-mx4-out.phx1.jivehosted.com (Postfix) with ESMTP id 80331281B7
+	for <288380@gospmail.org.br>; Thu, 10 Aug 2017 13:38:11 +0000 (GMT)
+Date: Thu, 10 Aug 2017 13:38:11 +0000 (UTC)
+From: Jive <gosp-x@jiveon.com>
+To: Marco Parise <288380@gospmail.org.br>
+Message-ID: <1014279876.251841502372290879@gosp-x-jc-t-wa02.dynphx1.jivehosted.com>
+Subject: =?UTF-8?Q?Atualiza=C3=A7=C3=B5es_de_Seguindo,_Agosto_10,_2017?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_162042_2053318138.1502372290876"
+Auto-Submitted: auto-generated
+X-Auto-Response-Suppress: OOF
+List-ID: null
+Content-Disposition: inline
+X-SG-EID: MC+mAxPPER372lmDFdFHyMxARzYmaHZCEvHbMx1UJ2gTnMI8zyuTQyrXsYX018q/gtzm2uEMVHYSQ9
+ YwakOtPs+5zrx+GMfOSsWznP4ItOPTxX3SVakHNuvEOa74pCNlT7ZARUEC1qsF1P3jzcBPSFcdywgo
+ GUqdjC7NyNiMSiMj0ueuhLaVp3pj6NmpvrozbfhFHW48Qvh+quQPA2M4TQ==
+X-SG-ID: 6Iv2lwEhBxW0L1FeqtuSgIYS4qWkW5xdU1GxK5lt1Taf5YzSuAWxphlBGYI3QZN8
+
+------=_Part_162042_2053318138.1502372290876
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_162041_89874422.1502372290876"
+
+------=_Part_162041_89874422.1502372290876
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Atualiza=C3=A7=C3=B5es do fluxo Seguindo para Agosto 10, 2017
+
+=C3=9Altimas atualiza=C3=A7=C3=B5es de fluxo que voc=C3=AA pode ter perdido.
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+
+
+Boletim 2730 - 07/08/2017
+[https://gosp-x.jiveon.com/docs/DOC-11695-boletim-2730-07082017]
+
+Adriano Marques em Boletim Oficial 3 dias atr=C3=A1s
+
+
+
+
+
+O Livro Amarelo e o Livro Negro
+[https://gosp-x.jiveon.com/docs/DOC-2241]
+
+ROBERTO DE JESUS SANT ANNA em Mural da Rede Social do GOSP 1 ano atr=C3=A1s
+
+Por muitas vezes nos deparamos com d=C3=BAvidas sobre assuntos que para mui=
+tos podem ser meramente um assunto simples, mas, s=C3=A3o de grande relev=
+=C3=A2ncia como os Livros Amarelo e Negro.  Livro Amarelo - =C3=89 o livro =
+onde s=C3=A3o lan=C3=A7ados os nomes dos candidatos =C3=A0 inicia=C3=A7=C3=
+=A3o ma=C3=A7=C3=B4nica, rejeitados por motivos transit=C3=B3rios e n=C3=A3=
+o infamantes (impedimentos financeiros, ...
+
+
+
+Leve a Rede Social do GOSP no seu celular
+[https://gosp-x.jiveon.com/docs/DOC-2032]
+
+Adriano Marques em Mural da Rede Social do GOSP 1 ano atr=C3=A1s
+
+Boa tarde meus IIr. =C2=A0  Atrav=C3=A9s de APP's podemos manter conex=C3=
+=A3o com a Rede Social do GOSP atrav=C3=A9s de nossos celulares Android ou =
+IPhone, para isto basta baixar o aplicativo Jive Daily direto no seu celula=
+r. =C2=A0  Nos celulares com Android, basta buscar por Jive Daily no Google=
+ Play.  Nos celulares com IOS (IPhone), basta buscar por Jive Daily na App =
+...
+
+
+
+ORAT&Oacute;RIA PARA O DIA DOS PAIS
+[https://gosp-x.jiveon.com/docs/DOC-11703-orat=C3=B3ria-para-o-dia-dos-pais]
+
+Samir Lahoud em Mural da Rede Social do GOSP 2 dias atr=C3=A1s
+
+DO ORAD=E2=88=B4 E M=E2=88=B4M=E2=88=B4 DA LOJA UNI=C3=83O E LIBERDADE, 272=
+0...IRM=C3=83O SAMIR BAKHOS LAHOUD.    =C2=A0  Sujeito estranho, =C3=A0s ve=
+zes carrancudo e severo, noutras, palha=C3=A7o e brincalh=C3=A3o. O =E2=80=
+=9CPai=E2=80=9D n=C3=A3o tem o brilho iluminado das =E2=80=9Cm=C3=A3es=E2=
+=80=9D, claro, mas =C3=A9 figura indispens=C3=A1vel na forma=C3=A7=C3=A3o d=
+o car=C3=A1ter dos filhos. N=C3=A3o sabe ser carinhoso e d=C3=B3cil como as=
+ m=C3=A3es, mas sabe ser pontual e ...
+
+
+
+Sagra&#231;&atilde;o da Nova Bandeira do GOB
+[https://gosp-x.jiveon.com/thread/1441-sagra=C3=A7=C3=A3o-da-nova-bandeira-=
+do-gob]
+
+Mozart Souza Junior em Orienta=C3=A7=C3=A3o Ritual=C3=ADstica 1 m=C3=AAs at=
+r=C3=A1s
+
+Queridos Irm=C3=A3os, bom dia! =C2=A0  Em vista ao decreto 1531 emitido pel=
+o nosso EGM este ano, deixo aqui o seguinte questionamento: =C2=A0  H=C3=81=
+ ALGUM RITUAL DE SAGRA=C3=87=C3=83O OU TROCA DA BANDEIRA DO GOB? =C2=A0  Ag=
+uardo retorno, muito obrigado! =C2=A0  Mozart SJ.'. ...
+
+
+
+Comendas
+[https://gosp-x.jiveon.com/thread/1488-comendas]
+
+Mozart Souza Junior em Orienta=C3=A7=C3=A3o Ritual=C3=ADstica 18 horas atr=
+=C3=A1s
+
+Queridos Irm=C3=A3os, boa tarde, =C2=A0  Por acaso existe algum documento d=
+escrevendo=C2=A0as honrarias ma=C3=A7=C3=B4nicas (federais e estaduais) e o=
+ tempo necess=C3=A1rio (de ordem e de interst=C3=ADcio entre elas) para que=
+ o Irm=C3=A3o possa receb=C3=AA-la?  =C2=A0  Obrigado, TFA! ...
+
+
+
+O Ir:. &eacute; a favor que seja implementado os formul&aacute;rios enviado=
+s a GSGS todos com preenchimento online ?
+[https://gosp-x.jiveon.com/thread/1004]
+
+Jeferson Bauer em Guarda dos Selos 2 anos atr=C3=A1s
+
+O Ir:. =C3=A9 a favor que seja implementado os formul=C3=A1rios enviados a =
+GSGS todos com preenchimento online ?
+
+
+
+Leitura e Ata de Grau 2 ou 3
+[https://gosp-x.jiveon.com/thread/1487-leitura-e-ata-de-grau-2-ou-3]
+
+WILSON BONIFACIO DA SILVA JUNIOR em Orienta=C3=A7=C3=A3o Ritual=C3=ADstica =
+1 dia atr=C3=A1s
+
+Bom dia! Gostaria de um esclarecimento:  Estando a loja em grau 1 e tendo a=
+ta de grau 2 para ser lida, devemos pedir aos aprendizes para cobrir o temp=
+lo temporariamente e ler a ata simplesmente, ou temos que transformar a loj=
+a em grau 2 e depois ler a ata. =C2=A0Se ato cont=C3=ADnuo, tivermos uma at=
+a de grau 3, segue o mesmo procedimento. Meus ...
+
+
+
+
+
+
+Atualiza=C3=A7=C3=B5es adicionais do fluxo Seguindo
+* ERAC - 05AGO17 - 1 e 2 MACRORREGIAO_.jpg [https://gosp-x.jiveon.com/docs/=
+DOC-11700-erac-05ago17-1-e-2-macrorregiaojpg]
+* Como solicitar o Ato de Telhamento, para regulariza&#231;&atilde;o/filia&=
+#231;&atilde;o de IIr oriundo da GLESP ? [https://gosp-x.jiveon.com/thread/=
+1485-como-solicitar-o-ato-de-telhamento-para-regulariza=C3=A7=C3=A3ofilia=
+=C3=A7=C3=A3o-de-iir-oriundo-da-glesp]
+* Ritual de Aprendiz - Commercio e Artes na Idade de Ouro 1822.pdf [https:/=
+/gosp-x.jiveon.com/docs/DOC-2807]
+* Glap Sorocaba - A&#231;&otilde;es Pr&eacute;-elei&#231;&otilde;es 2016 [h=
+ttps://gosp-x.jiveon.com/docs/DOC-2951]
+* T&#193;VOLA "GUARDI&#213;ES DAS SETE VIRTUDES" REALIZA, EM AMPARO, SESS&#=
+195;O DE POSSE DE SUA III GEST&#195;O [https://gosp-x.jiveon.com/community/=
+secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog/2017=
+/08/09/t%C3%A1vola-guardi%C3%B5es-das-sete-virtudes-realiza-em-amparo-sess%=
+C3%A3o-de-posse-de-sua-iii-gest%C3%A3o]
+* USOS E COSTUMES [https://gosp-x.jiveon.com/docs/DOC-2305]
+* Lojas-laborat&oacute;rio: Treinamento e padroniza&#231;&atilde;o dos Rito=
+s [https://gosp-x.jiveon.com/community/secretarias/grande-secretaria-de-ori=
+enta%C3%A7%C3%A3o-ritual%C3%ADstica/blog/2015/11/11/lojas-laborat%C3%B3rio-=
+treinamento-e-padroniza%C3%A7%C3%A3o-dos-ritos]
+* LOJA DE PESQUISAS E ESTUDOS DE RIBEIR&#195;O PRETO REALIZA PALESTRA P&Uac=
+ute;BLICA [https://gosp-x.jiveon.com/community/secretarias/grande-secretari=
+a-de-comunica%C3%A7%C3%A3o-e-imprensa/blog/2017/08/07/loja-de-pesquisas-e-e=
+studos-de-ribeir%C3%A3o-preto-realiza-palestra-p%C3%BAblica]
+* Curso para Oficiais&#160; -&#160; 7&#170;&#160; Macrorregi&atilde;o - S&a=
+tilde;o Jos&eacute; do Rio Preto [https://gosp-x.jiveon.com/docs/DOC-11694-=
+curso-para-oficiais-7=C2=AA-macrorregi=C3=A3o-s=C3=A3o-jos=C3=A9-do-rio-pre=
+to]
+
+
+
+
+
+Este e-mail foi enviado pela REDE SOCIAL DO GOSP porque voc=C3=AA =C3=A9 um=
+ usu=C3=A1rio registrado.
+Voc=C3=AA pode cancelar a assinatura agora mesmo em https://gosp-x.jiveon.c=
+om/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0=
+ee232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c ou ajustar a frequ=C3=AA=
+ncia de e-mail nas prefer=C3=AAncias do seu e-mail (https://gosp-x.jiveon.c=
+om/user-preferences!input.jspa).
+
+------=_Part_162041_89874422.1502372290876
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+=09
+	<title></title>
+	<style type=3D"text/css">
+    * {
+		margin: 0;
+		padding: 0;
+	}
+	a {
+		color: #3778C7 !important;
+	}
+	body {
+		font-family: Helvetica, Arial, sans-serif;
+		-webkit-text-size-adjust: 100%;
+	}
+	/* Webkit */
+	h1, h2, h3, h4, h5, h6, p, hr {
+		-webkit-margin-before: 0;
+		-webkit-margin-after: 0;
+		-webkit-margin-start: 0;
+		-webkit-margin-end: 0;
+	}
+	.button td {
+		background-image: -moz-linear-gradient(top, #75B7E3 0%, #5498D6 50%, #408=
+BD0 51%, #387AC8 100%) !important;
+		background-image: -webkit-gradient(linear, left top, left bottom, color-s=
+top(0%,#75B7E3), color-stop(50%,#5498D6), color-stop(51%,#408BD0), color-st=
+op(100%,#387AC8)) !important;
+		-webkit-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !impo=
+rtant;
+		-moz-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !importa=
+nt;
+	}
+	</style>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+</head>
+<body style=3D"width:100% !important; -webkit-font-smoothing: antialiased; =
+-webkit-text-size-adjust: 100%;">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff=
+" width=3D"100%" style=3D"background-color: #ffffff; margin: 0; padding: 0;=
+">
+		<tbody>
+			<tr>
+				<td style=3D"padding: 20px 20px 20px 20px;">
+<table class=3D"header" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wi=
+dth=3D"100%">
+	<tbody>
+		<tr>
+			<td valign=3D"top" align=3D"left">
+				<h1 style=3D"color: #333333; margin: 0 0 20px 0; font-weight: normal; f=
+ont-size: 24px; font-family: Helvetica, Arial, sans-serif; text-shadow: rgb=
+a(255,255,255,.9) 0 1px 0;">
+					<!-- To have a header image/logo replace the name below with your img =
+tag -->
+					<!-- Email clients will render the images when the message is read so =
+any image -->
+					<!-- must be made available on a public server, so that all recipients=
+ can load the image. -->
+					<a href=3D"https://gosp-x.jiveon.com/?et=3Dna" style=3D"color:#333333 =
+!important; text-decoration: none;">
+							<font color=3D"#333333" style=3D"color:#333333;">REDE SOCIAL DO GOSP=
+</font>
+					</a>
+				</h1>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class=3D"content" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ff=
+ffff" border=3D"0" width=3D"100%" style=3D"width: 100%; -moz-border-radius:=
+ 8px; -webkit-border-radius: 8px; border-radius: 8px;">
+	<tbody>
+		<tr>
+			<td valign=3D"middle" style=3D"padding-top: 10px; padding-right: 0px; pa=
+dding-bottom: 20px; padding-left: 0px;"><!-- If using default header/footer=
+, remove from here... -->
+<!DOCTYPE html>
+<html>
+<head>
+=09
+	<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1=
+.0, maximum-scale=3D1.0">
+	<title>Seguindo Atualiza=C3=A7=C3=B5es de fluxo para Agosto 10, 2017</titl=
+e>
+	<style type=3D"text/css">
+		@media only screen and (max-width:40em) {
+            table h1 { font-size: 20pt !important; }
+            table h1 span,
+            table em span { white-space: nowrap; }
+            table h2 { font-size: 14pt !important; line-height: 1.3em !impo=
+rtant;}
+            table h2 img { margin: 0 3px -1px 0 !important; max-width: 16px=
+; max-height: 16px; }
+            table a div img { max-width: 100%; }
+            .place_name { font-size: 9pt !important; }
+        }
+	</style>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+</head>
+<body link=3D"#5397d2" alink=3D"#66afef" vlink=3D"#5258cc" style=3D"backgro=
+und: #ffffff; margin: 0; padding: 0px; font-family: Helvetica, Arial, sans-=
+serif; color: #505050; -webkit-text-size-adjust:100%; -ms-text-size-adjust:=
+100%;">
+<!-- If using default header/footer ...to here. -->
+
+<table cellpadding=3D"0" border=3D"0" cellspacing=3D"0" style=3D"width: 100=
+%;">
+	<tr>
+		<td align=3D"center" style=3D"background-color: #f3f3f3; border-top: 4px =
+solid #0088e1; text-align: center; padding: 25px; font-family: Helvetica, A=
+rial, sans-serif;">
+			<h1 style=3D"font-size: 20pt; font-weight: 200; margin-bottom: 10px;">Se=
+guindo Atualiza=C3=A7=C3=B5es de fluxo para Agosto 10, 2017</h1>
+            <em style=3D"color: #999999; font-size: 12pt; font-style: itali=
+c; font-weight: 200;">=E2=80=94 =C3=9Altimas atualiza=C3=A7=C3=B5es de flux=
+o que voc=C3=AA pode ter perdido. =E2=80=94</em>
+		</td>
+	</tr>
+</table>
+
+
+<table cellpadding=3D"0" bgcolor=3D"#ffffff" border=3D"0" cellspacing=3D"0"=
+ style=3D"width: 100%;">
+	<tr>
+		<td align=3D"center" style=3D"padding: 0 20px 50px; font-family: Helvetic=
+a, Arial, sans-serif;">
+
+			<table align=3D"center" cellpadding=3D"0" border=3D"0" cellspacing=3D"0"=
+ style=3D"max-width: 600px;">
+
+            <!--  RECOMENDER INFO -->
+                    <tr>
+					<td width=3D"600" class=3D"section_header" style=3D" padding: 50px 0 3=
+0px; font-family: Helvetica, Arial, sans-serif;">
+                        <p class=3D"section_label" style=3D"font-size: 11pt=
+; font-weight: 200; text-transform: uppercase; color: #999999; padding: 10p=
+x; margin: 0; text-align: center; border-top: 1px solid #eaeaea; border-bot=
+tom: 1px solid #eaeaea;">
+                        Tend=C3=AAncias atuais
+                        </p>
+					</td>
+				    </tr>
+
+                <!-- for each digest -->
+
+                    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0; text-align: left; font-family: Helvetica, Arial, sans-serif;">
+
+
+                        <h2 style=3D"font-size: 18pt; font-weight: 200; mar=
+gin: 30px 0 10px 0; line-height: 1.2em; word-wrap:break-word; max-width:600=
+px; ">
+                            <a href=3D"https://gosp-x.jiveon.com/docs/DOC-1=
+1695-boletim-2730-07082017" style=3D"color: #505050; text-decoration: none;=
+">
+                                <img src=3D"https://gosp-x.jiveon.com/image=
+s/jive-icon-wiki-24x24.gif" border=3D"0" style=3D"margin: 0px 3px -3px 0px;=
+" />
+                                Boletim 2730 - 07/08/2017
+                            </a>
+                        </h2>
+
+                        <!-- display image -->
+
+                        <!-- display author in container.name author.modTim=
+e -->
+                        <span style=3D"font-size: 10pt; margin: 0 0 10px 0;=
+ color: #999999;">
+                                <strong><a href=3D"https://gosp-x.jiveon.co=
+m/people/267561" style=3D"color: #505050; text-decoration: none;">Adriano M=
+arques</a></strong>
+                             em
+                            <strong><a href=3D"https://gosp-x.jiveon.com/co=
+mmunity/boletim-oficial" style=3D"color: #505050; text-decoration: none;">B=
+oletim Oficial</a></strong>
+                            3 dias atr=C3=A1s
+                        </span>
+
+
+                        <!-- display snippet -->
+                                <p style=3D"word-wrap:break-word; max-width=
+:600px; font-weight: 300; margin: 10px 0 20px;"> <a href=3D"https://gosp-x.=
+jiveon.com/docs/DOC-11695-boletim-2730-07082017">Ver</a></p>
+
+
+                    </td>
+                    </tr>
+
+                    <!-- Break out of too many entries -->
+
+
+
+                    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0; text-align: left; font-family: Helvetica, Arial, sans-serif;">
+
+
+                        <h2 style=3D"font-size: 18pt; font-weight: 200; mar=
+gin: 30px 0 10px 0; line-height: 1.2em; word-wrap:break-word; max-width:600=
+px; ">
+                            <a href=3D"https://gosp-x.jiveon.com/docs/DOC-2=
+241" style=3D"color: #505050; text-decoration: none;">
+                                <img src=3D"https://gosp-x.jiveon.com/image=
+s/jive-icon-wiki-24x24.gif" border=3D"0" style=3D"margin: 0px 3px -3px 0px;=
+" />
+                                O Livro Amarelo e o Livro Negro
+                            </a>
+                        </h2>
+
+                        <!-- display image -->
+
+                        <!-- display author in container.name author.modTim=
+e -->
+                        <span style=3D"font-size: 10pt; margin: 0 0 10px 0;=
+ color: #999999;">
+                                <strong><a href=3D"https://gosp-x.jiveon.co=
+m/people/santannaster@gmail.com" style=3D"color: #505050; text-decoration: =
+none;">ROBERTO DE JESUS SANT ANNA</a></strong>
+                             em
+                            <strong><a href=3D"https://gosp-x.jiveon.com/co=
+mmunity/mural" style=3D"color: #505050; text-decoration: none;">Mural da Re=
+de Social do GOSP</a></strong>
+                            1 ano atr=C3=A1s
+                        </span>
+
+
+                        <!-- display snippet -->
+                                <p style=3D"word-wrap:break-word; max-width=
+:600px; font-weight: 300; margin: 10px 0 20px;">Por muitas vezes nos depara=
+mos com d=C3=BAvidas sobre assuntos que para muitos podem ser meramente um =
+assunto simples, mas, s=C3=A3o de grande relev=C3=A2ncia como os Livros Ama=
+relo e Negro.  Livro Amarelo - =C3=89 o livro onde s=C3=A3o lan=C3=A7ados o=
+s nomes dos candidatos =C3=A0 inicia=C3=A7=C3=A3o ma=C3=A7=C3=B4nica, rejei=
+tados por motivos transit=C3=B3rios e n=C3=A3o infamantes (impedimentos fin=
+anceiros, ...<a href=3D"https://gosp-x.jiveon.com/docs/DOC-2241">Ler mais</=
+a></p>
+
+
+                    </td>
+                    </tr>
+
+                    <!-- Break out of too many entries -->
+
+
+
+                    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0; text-align: left; font-family: Helvetica, Arial, sans-serif;">
+
+
+                        <h2 style=3D"font-size: 18pt; font-weight: 200; mar=
+gin: 30px 0 10px 0; line-height: 1.2em; word-wrap:break-word; max-width:600=
+px; ">
+                            <a href=3D"https://gosp-x.jiveon.com/docs/DOC-2=
+032" style=3D"color: #505050; text-decoration: none;">
+                                <img src=3D"https://gosp-x.jiveon.com/image=
+s/jive-icon-wiki-24x24.gif" border=3D"0" style=3D"margin: 0px 3px -3px 0px;=
+" />
+                                Leve a Rede Social do GOSP no seu celular
+                            </a>
+                        </h2>
+
+                        <!-- display image -->
+
+                        <!-- display author in container.name author.modTim=
+e -->
+                        <span style=3D"font-size: 10pt; margin: 0 0 10px 0;=
+ color: #999999;">
+                                <strong><a href=3D"https://gosp-x.jiveon.co=
+m/people/267561" style=3D"color: #505050; text-decoration: none;">Adriano M=
+arques</a></strong>
+                             em
+                            <strong><a href=3D"https://gosp-x.jiveon.com/co=
+mmunity/mural" style=3D"color: #505050; text-decoration: none;">Mural da Re=
+de Social do GOSP</a></strong>
+                            1 ano atr=C3=A1s
+                        </span>
+
+
+                        <!-- display snippet -->
+                                <p style=3D"word-wrap:break-word; max-width=
+:600px; font-weight: 300; margin: 10px 0 20px;">Boa tarde meus IIr. =C2=A0 =
+ Atrav=C3=A9s de APP's podemos manter conex=C3=A3o com a Rede Social do GOS=
+P atrav=C3=A9s de nossos celulares Android ou IPhone, para isto basta baixa=
+r o aplicativo Jive Daily direto no seu celular. =C2=A0  Nos celulares com =
+Android, basta buscar por Jive Daily no Google Play.  Nos celulares com IOS=
+ (IPhone), basta buscar por Jive Daily na App ...<a href=3D"https://gosp-x.=
+jiveon.com/docs/DOC-2032">Ler mais</a></p>
+
+
+                    </td>
+                    </tr>
+
+                    <!-- Break out of too many entries -->
+
+
+
+                    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0; text-align: left; font-family: Helvetica, Arial, sans-serif;">
+
+
+                        <h2 style=3D"font-size: 18pt; font-weight: 200; mar=
+gin: 30px 0 10px 0; line-height: 1.2em; word-wrap:break-word; max-width:600=
+px; ">
+                            <a href=3D"https://gosp-x.jiveon.com/docs/DOC-1=
+1703-orat=C3=B3ria-para-o-dia-dos-pais" style=3D"color: #505050; text-decor=
+ation: none;">
+                                <img src=3D"https://gosp-x.jiveon.com/image=
+s/jive-icon-wiki-24x24.gif" border=3D"0" style=3D"margin: 0px 3px -3px 0px;=
+" />
+                                ORAT&Oacute;RIA PARA O DIA DOS PAIS
+                            </a>
+                        </h2>
+
+                        <!-- display image -->
+
+                        <!-- display author in container.name author.modTim=
+e -->
+                        <span style=3D"font-size: 10pt; margin: 0 0 10px 0;=
+ color: #999999;">
+                                <strong><a href=3D"https://gosp-x.jiveon.co=
+m/people/279692" style=3D"color: #505050; text-decoration: none;">Samir Lah=
+oud</a></strong>
+                             em
+                            <strong><a href=3D"https://gosp-x.jiveon.com/co=
+mmunity/mural" style=3D"color: #505050; text-decoration: none;">Mural da Re=
+de Social do GOSP</a></strong>
+                            2 dias atr=C3=A1s
+                        </span>
+
+
+                        <!-- display snippet -->
+                                <p style=3D"word-wrap:break-word; max-width=
+:600px; font-weight: 300; margin: 10px 0 20px;">DO ORAD=E2=88=B4 E M=E2=88=
+=B4M=E2=88=B4 DA LOJA UNI=C3=83O E LIBERDADE, 2720...IRM=C3=83O SAMIR BAKHO=
+S LAHOUD.    =C2=A0  Sujeito estranho, =C3=A0s vezes carrancudo e severo, n=
+outras, palha=C3=A7o e brincalh=C3=A3o. O =E2=80=9CPai=E2=80=9D n=C3=A3o te=
+m o brilho iluminado das =E2=80=9Cm=C3=A3es=E2=80=9D, claro, mas =C3=A9 fig=
+ura indispens=C3=A1vel na forma=C3=A7=C3=A3o do car=C3=A1ter dos filhos. N=
+=C3=A3o sabe ser carinhoso e d=C3=B3cil como as m=C3=A3es, mas sabe ser pon=
+tual e ...<a href=3D"https://gosp-x.jiveon.com/docs/DOC-11703-orat=C3=B3ria=
+-para-o-dia-dos-pais">Ler mais</a></p>
+
+
+                    </td>
+                    </tr>
+
+                    <!-- Break out of too many entries -->
+
+
+
+                    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0; text-align: left; font-family: Helvetica, Arial, sans-serif;">
+
+
+                        <h2 style=3D"font-size: 18pt; font-weight: 200; mar=
+gin: 30px 0 10px 0; line-height: 1.2em; word-wrap:break-word; max-width:600=
+px; ">
+                            <a href=3D"https://gosp-x.jiveon.com/thread/144=
+1-sagra=C3=A7=C3=A3o-da-nova-bandeira-do-gob" style=3D"color: #505050; text=
+-decoration: none;">
+                                <img src=3D"https://gosp-x.jiveon.com/image=
+s/jive-icon-forum-24x24.gif" border=3D"0" style=3D"margin: 0px 3px -3px 0px=
+;" />
+                                Sagra&#231;&atilde;o da Nova Bandeira do GOB
+                            </a>
+                        </h2>
+
+                        <!-- display image -->
+
+                        <!-- display author in container.name author.modTim=
+e -->
+                        <span style=3D"font-size: 10pt; margin: 0 0 10px 0;=
+ color: #999999;">
+                                <strong><a href=3D"https://gosp-x.jiveon.co=
+m/people/mozart" style=3D"color: #505050; text-decoration: none;">Mozart So=
+uza Junior</a></strong>
+                             em
+                            <strong><a href=3D"https://gosp-x.jiveon.com/co=
+mmunity/secretarias/grande-secretaria-de-orienta%C3%A7%C3%A3o-ritual%C3%ADs=
+tica" style=3D"color: #505050; text-decoration: none;">Orienta=C3=A7=C3=A3o=
+ Ritual=C3=ADstica</a></strong>
+                            1 m=C3=AAs atr=C3=A1s
+                        </span>
+
+
+                        <!-- display snippet -->
+                                <p style=3D"word-wrap:break-word; max-width=
+:600px; font-weight: 300; margin: 10px 0 20px;">Queridos Irm=C3=A3os, bom d=
+ia! =C2=A0  Em vista ao decreto 1531 emitido pelo nosso EGM este ano, deixo=
+ aqui o seguinte questionamento: =C2=A0  H=C3=81 ALGUM RITUAL DE SAGRA=C3=
+=87=C3=83O OU TROCA DA BANDEIRA DO GOB? =C2=A0  Aguardo retorno, muito obri=
+gado! =C2=A0  Mozart SJ.'. ...<a href=3D"https://gosp-x.jiveon.com/thread/1=
+441-sagra=C3=A7=C3=A3o-da-nova-bandeira-do-gob">Ler mais</a></p>
+
+
+                    </td>
+                    </tr>
+
+                    <!-- Break out of too many entries -->
+
+
+
+                    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0; text-align: left; font-family: Helvetica, Arial, sans-serif;">
+
+
+                        <h2 style=3D"font-size: 18pt; font-weight: 200; mar=
+gin: 30px 0 10px 0; line-height: 1.2em; word-wrap:break-word; max-width:600=
+px; ">
+                            <a href=3D"https://gosp-x.jiveon.com/thread/148=
+8-comendas" style=3D"color: #505050; text-decoration: none;">
+                                <img src=3D"https://gosp-x.jiveon.com/image=
+s/jive-icon-forum-24x24.gif" border=3D"0" style=3D"margin: 0px 3px -3px 0px=
+;" />
+                                Comendas
+                            </a>
+                        </h2>
+
+                        <!-- display image -->
+
+                        <!-- display author in container.name author.modTim=
+e -->
+                        <span style=3D"font-size: 10pt; margin: 0 0 10px 0;=
+ color: #999999;">
+                                <strong><a href=3D"https://gosp-x.jiveon.co=
+m/people/mozart" style=3D"color: #505050; text-decoration: none;">Mozart So=
+uza Junior</a></strong>
+                             em
+                            <strong><a href=3D"https://gosp-x.jiveon.com/co=
+mmunity/secretarias/grande-secretaria-de-orienta%C3%A7%C3%A3o-ritual%C3%ADs=
+tica" style=3D"color: #505050; text-decoration: none;">Orienta=C3=A7=C3=A3o=
+ Ritual=C3=ADstica</a></strong>
+                            18 horas atr=C3=A1s
+                        </span>
+
+
+                        <!-- display snippet -->
+                                <p style=3D"word-wrap:break-word; max-width=
+:600px; font-weight: 300; margin: 10px 0 20px;">Queridos Irm=C3=A3os, boa t=
+arde, =C2=A0  Por acaso existe algum documento descrevendo=C2=A0as honraria=
+s ma=C3=A7=C3=B4nicas (federais e estaduais) e o tempo necess=C3=A1rio (de =
+ordem e de interst=C3=ADcio entre elas) para que o Irm=C3=A3o possa receb=
+=C3=AA-la?  =C2=A0  Obrigado, TFA! ...<a href=3D"https://gosp-x.jiveon.com/=
+thread/1488-comendas">Ler mais</a></p>
+
+
+                    </td>
+                    </tr>
+
+                    <!-- Break out of too many entries -->
+
+
+
+                    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0; text-align: left; font-family: Helvetica, Arial, sans-serif;">
+
+
+                        <h2 style=3D"font-size: 18pt; font-weight: 200; mar=
+gin: 30px 0 10px 0; line-height: 1.2em; word-wrap:break-word; max-width:600=
+px; ">
+                            <a href=3D"https://gosp-x.jiveon.com/thread/100=
+4" style=3D"color: #505050; text-decoration: none;">
+                                <img src=3D"https://gosp-x.jiveon.com/image=
+s/jive-icon-forum-24x24.gif" border=3D"0" style=3D"margin: 0px 3px -3px 0px=
+;" />
+                                O Ir:. &eacute; a favor que seja implementa=
+do os formul&aacute;rios enviados a GSGS todos com preenchimento online ?
+                            </a>
+                        </h2>
+
+                        <!-- display image -->
+
+                        <!-- display author in container.name author.modTim=
+e -->
+                        <span style=3D"font-size: 10pt; margin: 0 0 10px 0;=
+ color: #999999;">
+                                <strong><a href=3D"https://gosp-x.jiveon.co=
+m/people/253168" style=3D"color: #505050; text-decoration: none;">Jeferson =
+Bauer</a></strong>
+                             em
+                            <strong><a href=3D"https://gosp-x.jiveon.com/co=
+mmunity/secretarias/guarda-dos-selos" style=3D"color: #505050; text-decorat=
+ion: none;">Guarda dos Selos</a></strong>
+                            2 anos atr=C3=A1s
+                        </span>
+
+
+                        <!-- display snippet -->
+                                <p style=3D"word-wrap:break-word; max-width=
+:600px; font-weight: 300; margin: 10px 0 20px;">O Ir:. =C3=A9 a favor que s=
+eja implementado os formul=C3=A1rios enviados a GSGS todos com preenchiment=
+o online ? <a href=3D"https://gosp-x.jiveon.com/thread/1004">Ver</a></p>
+
+
+                    </td>
+                    </tr>
+
+                    <!-- Break out of too many entries -->
+
+
+
+                    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0; text-align: left; font-family: Helvetica, Arial, sans-serif;">
+
+
+                        <h2 style=3D"font-size: 18pt; font-weight: 200; mar=
+gin: 30px 0 10px 0; line-height: 1.2em; word-wrap:break-word; max-width:600=
+px; ">
+                            <a href=3D"https://gosp-x.jiveon.com/thread/148=
+7-leitura-e-ata-de-grau-2-ou-3" style=3D"color: #505050; text-decoration: n=
+one;">
+                                <img src=3D"https://gosp-x.jiveon.com/image=
+s/jive-icon-forum-24x24.gif" border=3D"0" style=3D"margin: 0px 3px -3px 0px=
+;" />
+                                Leitura e Ata de Grau 2 ou 3
+                            </a>
+                        </h2>
+
+                        <!-- display image -->
+
+                        <!-- display author in container.name author.modTim=
+e -->
+                        <span style=3D"font-size: 10pt; margin: 0 0 10px 0;=
+ color: #999999;">
+                                <strong><a href=3D"https://gosp-x.jiveon.co=
+m/people/175744" style=3D"color: #505050; text-decoration: none;">WILSON BO=
+NIFACIO DA SILVA JUNIOR</a></strong>
+                             em
+                            <strong><a href=3D"https://gosp-x.jiveon.com/co=
+mmunity/secretarias/grande-secretaria-de-orienta%C3%A7%C3%A3o-ritual%C3%ADs=
+tica" style=3D"color: #505050; text-decoration: none;">Orienta=C3=A7=C3=A3o=
+ Ritual=C3=ADstica</a></strong>
+                            1 dia atr=C3=A1s
+                        </span>
+
+
+                        <!-- display snippet -->
+                                <p style=3D"word-wrap:break-word; max-width=
+:600px; font-weight: 300; margin: 10px 0 20px;">Bom dia! Gostaria de um esc=
+larecimento:  Estando a loja em grau 1 e tendo ata de grau 2 para ser lida,=
+ devemos pedir aos aprendizes para cobrir o templo temporariamente e ler a =
+ata simplesmente, ou temos que transformar a loja em grau 2 e depois ler a =
+ata. =C2=A0Se ato cont=C3=ADnuo, tivermos uma ata de grau 3, segue o mesmo =
+procedimento. Meus ...<a href=3D"https://gosp-x.jiveon.com/thread/1487-leit=
+ura-e-ata-de-grau-2-ou-3">Ler mais</a></p>
+
+
+                    </td>
+                    </tr>
+
+                    <!-- Break out of too many entries -->
+
+            <!-- Display additional recommended items, just as a list. From=
+ 9-18 -->
+                    <tr>
+					<td width=3D"600" class=3D"section_header" style=3D" padding: 50px 0 3=
+0px; font-family: Helvetica, Arial, sans-serif;">
+                        <p class=3D"section_label" style=3D"font-size: 11pt=
+; font-weight: 200; text-transform: uppercase; color: #999999; padding: 10p=
+x; margin: 0; text-align: center; border-top: 1px solid #eaeaea; border-bot=
+tom: 1px solid #eaeaea;">
+                        Atualiza=C3=A7=C3=B5es adicionais do fluxo Seguindo
+                        </p>
+					</td>
+				    </tr>
+				    <tr>
+					<td width=3D"600" style=3D"font-size: 11pt; line-height: 1.5em; paddin=
+g: 0 0 20px; text-align: left; font-family: Helvetica, Arial, sans-serif;">
+
+
+
+
+
+
+
+
+
+                            <p style=3D"margin: 8px 0;">
+                                <a href=3D"https://gosp-x.jiveon.com/docs/D=
+OC-11700-erac-05ago17-1-e-2-macrorregiaojpg" style=3D'text-decoration: none=
+;'>
+                                    <img src=3D"https://gosp-x.jiveon.com/i=
+mages/jive-icon-wiki-24x24.gif" border=3D"0" valign=3D"middle" alt=3D"" hei=
+ght=3D"12" width=3D"12" style=3D"margin: 0px 4px 0px 0px;" />
+                                    ERAC - 05AGO17 - 1 e 2 MACRORREGIAO_.jpg
+                                </a>
+                            </p>
+
+                            <p style=3D"margin: 8px 0;">
+                                <a href=3D"https://gosp-x.jiveon.com/thread=
+/1485-como-solicitar-o-ato-de-telhamento-para-regulariza=C3=A7=C3=A3ofilia=
+=C3=A7=C3=A3o-de-iir-oriundo-da-glesp" style=3D'text-decoration: none;'>
+                                    <img src=3D"https://gosp-x.jiveon.com/i=
+mages/jive-icon-forum-24x24.gif" border=3D"0" valign=3D"middle" alt=3D"" he=
+ight=3D"12" width=3D"12" style=3D"margin: 0px 4px 0px 0px;" />
+                                    Como solicitar o Ato de Telhamento, par=
+a regulariza&#231;&atilde;o/filia&#231;&atilde;o de IIr oriundo da GLESP ?
+                                </a>
+                            </p>
+
+                            <p style=3D"margin: 8px 0;">
+                                <a href=3D"https://gosp-x.jiveon.com/docs/D=
+OC-2807" style=3D'text-decoration: none;'>
+                                    <img src=3D"https://gosp-x.jiveon.com/i=
+mages/jive-icon-wiki-24x24.gif" border=3D"0" valign=3D"middle" alt=3D"" hei=
+ght=3D"12" width=3D"12" style=3D"margin: 0px 4px 0px 0px;" />
+                                    Ritual de Aprendiz - Commercio e Artes =
+na Idade de Ouro 1822.pdf
+                                </a>
+                            </p>
+
+                            <p style=3D"margin: 8px 0;">
+                                <a href=3D"https://gosp-x.jiveon.com/docs/D=
+OC-2951" style=3D'text-decoration: none;'>
+                                    <img src=3D"https://gosp-x.jiveon.com/i=
+mages/jive-icon-wiki-24x24.gif" border=3D"0" valign=3D"middle" alt=3D"" hei=
+ght=3D"12" width=3D"12" style=3D"margin: 0px 4px 0px 0px;" />
+                                    Glap Sorocaba - A&#231;&otilde;es Pr&ea=
+cute;-elei&#231;&otilde;es 2016
+                                </a>
+                            </p>
+
+                            <p style=3D"margin: 8px 0;">
+                                <a href=3D"https://gosp-x.jiveon.com/commun=
+ity/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog/=
+2017/08/09/t%C3%A1vola-guardi%C3%B5es-das-sete-virtudes-realiza-em-amparo-s=
+ess%C3%A3o-de-posse-de-sua-iii-gest%C3%A3o" style=3D'text-decoration: none;=
+'>
+                                    <img src=3D"https://gosp-x.jiveon.com/i=
+mages/jive-icon-blog-24x24.gif" border=3D"0" valign=3D"middle" alt=3D"" hei=
+ght=3D"12" width=3D"12" style=3D"margin: 0px 4px 0px 0px;" />
+                                    T&#193;VOLA "GUARDI&#213;ES DAS SETE VI=
+RTUDES" REALIZA, EM AMPARO, SESS&#195;O DE POSSE DE SUA III GEST&#195;O
+                                </a>
+                            </p>
+
+                            <p style=3D"margin: 8px 0;">
+                                <a href=3D"https://gosp-x.jiveon.com/docs/D=
+OC-2305" style=3D'text-decoration: none;'>
+                                    <img src=3D"https://gosp-x.jiveon.com/i=
+mages/jive-icon-wiki-24x24.gif" border=3D"0" valign=3D"middle" alt=3D"" hei=
+ght=3D"12" width=3D"12" style=3D"margin: 0px 4px 0px 0px;" />
+                                    USOS E COSTUMES
+                                </a>
+                            </p>
+
+                            <p style=3D"margin: 8px 0;">
+                                <a href=3D"https://gosp-x.jiveon.com/commun=
+ity/secretarias/grande-secretaria-de-orienta%C3%A7%C3%A3o-ritual%C3%ADstica=
+/blog/2015/11/11/lojas-laborat%C3%B3rio-treinamento-e-padroniza%C3%A7%C3%A3=
+o-dos-ritos" style=3D'text-decoration: none;'>
+                                    <img src=3D"https://gosp-x.jiveon.com/i=
+mages/jive-icon-blog-24x24.gif" border=3D"0" valign=3D"middle" alt=3D"" hei=
+ght=3D"12" width=3D"12" style=3D"margin: 0px 4px 0px 0px;" />
+                                    Lojas-laborat&oacute;rio: Treinamento e=
+ padroniza&#231;&atilde;o dos Ritos
+                                </a>
+                            </p>
+
+                            <p style=3D"margin: 8px 0;">
+                                <a href=3D"https://gosp-x.jiveon.com/commun=
+ity/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog/=
+2017/08/07/loja-de-pesquisas-e-estudos-de-ribeir%C3%A3o-preto-realiza-pales=
+tra-p%C3%BAblica" style=3D'text-decoration: none;'>
+                                    <img src=3D"https://gosp-x.jiveon.com/i=
+mages/jive-icon-blog-24x24.gif" border=3D"0" valign=3D"middle" alt=3D"" hei=
+ght=3D"12" width=3D"12" style=3D"margin: 0px 4px 0px 0px;" />
+                                    LOJA DE PESQUISAS E ESTUDOS DE RIBEIR&#=
+195;O PRETO REALIZA PALESTRA P&Uacute;BLICA
+                                </a>
+                            </p>
+
+                            <p style=3D"margin: 8px 0;">
+                                <a href=3D"https://gosp-x.jiveon.com/docs/D=
+OC-11694-curso-para-oficiais-7=C2=AA-macrorregi=C3=A3o-s=C3=A3o-jos=C3=A9-d=
+o-rio-preto" style=3D'text-decoration: none;'>
+                                    <img src=3D"https://gosp-x.jiveon.com/i=
+mages/jive-icon-wiki-24x24.gif" border=3D"0" valign=3D"middle" alt=3D"" hei=
+ght=3D"12" width=3D"12" style=3D"margin: 0px 4px 0px 0px;" />
+                                    Curso para Oficiais&#160; -&#160; 7&#17=
+0;&#160; Macrorregi&atilde;o - S&atilde;o Jos&eacute; do Rio Preto
+                                </a>
+                            </p>
+
+					</td>
+					</tr>
+
+
+			</table>
+		</td>
+	</tr>
+</table>
+
+
+<!-- If using default header/footer, remove from here... -->
+</body>
+</html>
+<!-- If using default header/footer, ...to here -->
+                    <p style=3D'color: #666666; margin-top: 20px; font-size=
+: 14px; line-height: 20px; font-family: Helvetica, Arial, sans-serif;'>
+                        Este e-mail foi enviado pela Rede Social do GOSP po=
+rque voc=C3=AA =C3=A9 um usu=C3=A1rio registrado.
+	                        Voc=C3=AA pode <a href=3D"https://gosp-x.jiveon.co=
+m/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0e=
+e232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c">cancelar a assinatura</a=
+> agora mesmo ou ajustar a frequ=C3=AAncia de e-mail nas <a href=3D"https:/=
+/gosp-x.jiveon.com/user-preferences!input.jspa">prefer=C3=AAncias do seu e-=
+mail</a>
+                    </p>
+            </td>
+		</tr>
+	</tbody>
+</table>
+			    </td>
+			</tr>
+		</tbody>
+	</table>
+
+<img src=3D"http://jiveon.jivesoftware.com/wf/open?upn=3DlkDbH7-2FnFH7oeBGC=
+GoMHz9T22eb3DvjuBfkB1ASadAwAtbqNYYkVs4MwAGOqDuR5JlX8CG3yPJGERCJIb8Yc6qZvd-2=
+FTIkHOyZxG1hoQAkIZjgFQt0TX8okt76-2FPdXYO-2FWwr7B4OcsWURxdH-2F10aHiXmzsczMpl=
+9w6yD2V9odbTOUrBXDapeC2Delp7w7xonXsGTKtbyaolv9wjZRPxyKTqjDAkSYWJWYTIbWbgPd-=
+2BsCRJxTu8Hukcmjdxhkj3PFo4ZPU6x8oKUjmG-2BMGpqMHjtHZxiI0mBQLEyOLp9300Gg-3D" =
+alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !importa=
+nt;width:1px !important;border-width:0 !important;margin-top:0 !important;m=
+argin-bottom:0 !important;margin-right:0 !important;margin-left:0 !importan=
+t;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !imp=
+ortant;padding-left:0 !important;"/>
+</body>
+</html>
+
+------=_Part_162041_89874422.1502372290876--
+
+------=_Part_162042_2053318138.1502372290876--
+
+

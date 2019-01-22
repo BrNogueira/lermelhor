@@ -1,0 +1,564 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201206 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2017                
+POS_TIME 2688                
+POS_VISITOR 11166               
+POS_DAY 16684               
+POS_DOMAIN 3455                
+POS_LOGIN 3718                
+POS_ROBOT 3873                
+POS_WORMS 4166                
+POS_EMAILSENDER 4297                
+POS_EMAILRECEIVER 4440                
+POS_SESSION 17493               
+POS_SIDER 17704               
+POS_FILETYPES 4575                
+POS_DOWNLOADS 4757                
+POS_OS 4805                
+POS_BROWSER 4902                
+POS_SCREENSIZE 5145                
+POS_UNKNOWNREFERER 5219                
+POS_UNKNOWNREFERERBROWSER 5306                
+POS_ORIGIN 5388                
+POS_SEREFERRALS 5530                
+POS_PAGEREFS 5685                
+POS_SEARCHWORDS 6005                
+POS_KEYWORDS 6184                
+POS_MISC 2352                
+POS_ERRORS 6270                
+POS_CLUSTER 3574                
+POS_SIDER_404 6369                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120701105821 1 0 9771368277403
+FirstTime 20120601001314
+LastTime 20120630232046
+LastUpdate 20120702113158 1 0 0 0 0
+TotalVisits 202                 
+TotalUnique 139                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 139                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 321 39833 17 21 1497
+1 14 231 358073 15 16 1459
+2 2 58 0 3 4 0
+3 0 0 0 1 2 434
+4 1 1 8474 2 4 440
+5 2 31 441322 6 12 10501
+6 3 35 0 5 7 17602
+7 8 72 74283 5 9 8917
+8 28 246 812562 10 14 6231
+9 43 388 4003741 22 35 30321
+10 28 244 401292 23 37 107338
+11 36 367 188581 26 27 2496
+12 52 830 1064190 50 168 20933
+13 61 1169 1165585 51 55 13216
+14 46 935 884979 53 54 7066
+15 49 968 1187884 46 51 4803
+16 98 986 2453184 66 131 41144
+17 86 1146 2443549 57 179 7036
+18 53 795 1362940 45 146 4549
+19 23 324 964534 28 47 12215
+20 48 595 1622963 22 133 11251
+21 41 792 1823367 38 43 3773
+22 28 539 626713 34 43 24141
+23 21 379 612222 24 27 1685
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+br 777 11387 21657324
+us 7 32 408153
+es 3 33 474794
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+googlebot 38 207460 20120630100246 0
+bot[\s_+:,\.\;\/\\-] 29 37347 20120630190505 0
+no_user_agent 17 493 20120628175431 0
+msnbot\-media 2 29644 20120617161735 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 963 465311 0 0
+php 186 2447277 0 0
+html 601 2554121 0 0
+jpg 8043 16237033 0 0
+js 747 777496 0 0
+gif 912 59033 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 6
+macosx 3
+winxp 9885
+winlong 126
+j2me 26
+linux 1
+win7 1411
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 13
+msie6.0 102
+msie8.0 7072
+mozilla 2
+firefox4.0.1 3
+firefox1.0 1
+firefox10.0 1
+msie7.0 2149
+firefox13.0 526
+msie9.0 1355
+firefox12.0 161
+opera9.80 26
+chrome19.0.1084.52 28
+chrome19.0.1084.56 26
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 515 515
+From1 0 0
+From2 3 3
+From3 82 82
+From4 187 10852
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://36ohk6dgmcd1n-c.c.yom.mail.yahoo.net/om/api/1.0/openmail.app.invoke/36ohk6dgmcd1n/11/1.0.35/br/pt-BR/view.html/0 57 57
+http://br.mg5.mail.yahoo.com/neo/launch 25 25
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+digitalfotoimagem.com.br 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+digitalfotoimagem.com.br 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 841 0
+301 257 64104
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 52
+/dou3/images/block05.gif 2 http://www.digitalfotoimagem.com.br/dou3/Servi%C3%A7os.php
+/dou2/images/bullet01.gif 17 http://www.digitalfotoimagem.com.br/dou2/Filosofia-da-empresa.php
+/robots.txt 54 -
+/dou/images/block04.gif 18 http://www.digitalfotoimagem.com.br/dou/Filosofia-da-Empresa.php
+/dou/images/bullet.gif 18 http://www.digitalfotoimagem.com.br/dou/Filosofia-da-Empresa.php
+/Fundo2.png 4 http://www.digitalfotoimagem.com.br/email.html
+/3rdparty/rvsitebuilder/themes/default/sitebuilder/images/bgblock.gif 15 http://www.digitalfotoimagem.com.br/dou/Servi%C3%A7os.php
+/dou8 7 http://36ohk6dgmcd1n-c.c.yom.mail.yahoo.net/om/api/1.0/openmail.app.invoke/36ohk6dgmcd1n/11/1.0.35/br/pt-BR/view.html/0
+/dou3/images/block03.gif 2 http://www.digitalfotoimagem.com.br/dou3/Servi%C3%A7os.php
+/3rdparty/rvsitebuilder/themes/default/sitebuilder/images/bghead02.gif 17 http://www.digitalfotoimagem.com.br/dou2/Filosofia-da-empresa.php
+/EMAIL 2 -
+/2 1 -
+/3rdparty/rvsitebuilder/themes/default/sitebuilder/images/line.gif 17 http://www.digitalfotoimagem.com.br/dou2/Filosofia-da-empresa.php
+/3rdparty/rvsitebuilder/themes/default/sitebuilder/images/block_ex_r.gif 15 http://www.digitalfotoimagem.com.br/dou/Servi%C3%A7os.php
+/3rdparty/rvsitebuilder/themes/default/sitebuilder/images/right_ex_r.gif 14 http://www.digitalfotoimagem.com.br/dou/Servi%C3%A7os.php
+/dou3/images/block02.gif 2 http://www.digitalfotoimagem.com.br/dou3/Servi%C3%A7os.php
+/dou/images/block03.gif 18 http://www.digitalfotoimagem.com.br/dou/Filosofia-da-Empresa.php
+/dou3/images/block04.gif 2 http://www.digitalfotoimagem.com.br/dou3/Servi%C3%A7os.php
+/3rdparty/rvsitebuilder/themes/default/sitebuilder/images/right_ex_b.gif 14 http://www.digitalfotoimagem.com.br/dou/Servi%C3%A7os.php
+/dou1 1 -
+/dou/images/rightcorner03.gif 14 http://www.digitalfotoimagem.com.br/dou/Servi%C3%A7os.php
+/dou3 2 -
+/DOU1 1 -
+/3rdparty/rvsitebuilder/themes/default/sitebuilder/images/right_ex_l.gif 15 http://www.digitalfotoimagem.com.br/dou/Servi%C3%A7os.php
+/dou9 6 http://36ohk6dgmcd1n-c.c.yom.mail.yahoo.net/om/api/1.0/openmail.app.invoke/36ohk6dgmcd1n/11/1.0.35/br/pt-BR/view.html/0
+/dou3/images/rightcorner02.gif 2 http://www.digitalfotoimagem.com.br/dou3/Servi%C3%A7os.php
+/dou/images/rightcorner02.gif 15 http://www.digitalfotoimagem.com.br/dou/Servi%C3%A7os.php
+/dou/images/rightcorner04.gif 14 http://www.digitalfotoimagem.com.br/dou/Servi%C3%A7os.php
+/dou/images/block02.gif 18 http://www.digitalfotoimagem.com.br/dou/Filosofia-da-Empresa.php
+/dou7 1 -
+/3rdparty/rvsitebuilder/themes/default/sitebuilder/images/block_ex_l.gif 16 http://www.digitalfotoimagem.com.br/dou/Servi%C3%A7os.php
+/dou/images/rightcorner01.gif 17 http://www.digitalfotoimagem.com.br/dou/Filosofia-da-Empresa.php
+/3rdparty/rvsitebuilder/themes/default/sitebuilder/images/block_ex_t.gif 16 http://www.digitalfotoimagem.com.br/dou/Servi%C3%A7os.php
+/1 3 -
+/3rdparty/rvsitebuilder/themes/default/sitebuilder/images/bghead.gif 17 http://www.digitalfotoimagem.com.br/dou2/Filosofia-da-empresa.php
+/dou/images/block05.gif 18 http://www.digitalfotoimagem.com.br/dou/Filosofia-da-Empresa.php
+/dou3/images/right_bullet.gif 2 http://www.digitalfotoimagem.com.br/dou3/Servi%C3%A7os.php
+/3rdparty/rvsitebuilder/themes/default/sitebuilder/images/right_line.gif 13 http://www.digitalfotoimagem.com.br/dou/Servi%C3%A7os.php
+/dou3/images/block06.gif 2 http://www.digitalfotoimagem.com.br/dou3/Servi%C3%A7os.php
+/dou/images/right_bullet.gif 14 http://www.digitalfotoimagem.com.br/dou/Servi%C3%A7os.php
+/3rdparty/rvsitebuilder/themes/default/sitebuilder/images/right_ex_t.gif 14 http://www.digitalfotoimagem.com.br/dou/Servi%C3%A7os.php
+/dou2/images/bullet03.gif 17 http://www.digitalfotoimagem.com.br/dou2/Filosofia-da-empresa.php
+/dou/images/block01.gif 18 http://www.digitalfotoimagem.com.br/dou/Filosofia-da-Empresa.php
+/index.swf 284 http://www.digitalfotoimagem.com.br/
+/dou10 5 -
+/dou3/images/rightcorner01.gif 2 http://www.digitalfotoimagem.com.br/dou3/Servi%C3%A7os.php
+/dou3/images/bullet.gif 2 http://www.digitalfotoimagem.com.br/dou3/Servi%C3%A7os.php
+/3rdparty/rvsitebuilder/themes/default/sitebuilder/images/block_ex_b.gif 14 http://www.digitalfotoimagem.com.br/dou/Servi%C3%A7os.php
+/dou2/images/bullet02.gif 17 http://www.digitalfotoimagem.com.br/dou2/Filosofia-da-empresa.php
+/dou3/images/block01.gif 2 http://www.digitalfotoimagem.com.br/dou3/Servi%C3%A7os.php
+/dou 2 -
+/dou/images/block06.gif 18 http://www.digitalfotoimagem.com.br/dou/Filosofia-da-Empresa.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 139
+187.56.251.134 36 400 639165 20120609185156
+186.245.33.180 30 73 806856 20120620120713
+186.240.155.21 30 135 3995788 20120607100707
+201.13.69.136 29 717 897319 20120615155615
+187.75.121.26 27 514 255895 20120607002917
+177.60.89.186 26 180 805839 20120615162649
+200.144.12.26 25 61 268207 20120615223256
+187.57.247.59 19 489 221353 20120618172443
+187.75.117.194 18 342 646 20120607234753
+187.43.228.64 18 172 530495 20120618201844
+187.42.254.249 18 152 665561 20120615172006
+187.10.190.9 18 247 0 20120601162607
+187.10.191.47 17 234 283350 20120619170745
+177.68.5.92 17 365 94359 20120609014011
+187.75.114.177 16 322 477741 20120628175449
+187.10.190.98 15 292 196471 20120602234647
+186.245.250.205 14 192 971048 20120624132808
+200.144.5.45 13 103 840457 20120627200656
+201.1.99.1 11 237 611317 20120625225353
+187.124.245.77 11 90 293198 20120612172325
+187.75.92.157 11 303 0 20120605222521
+187.124.253.89 10 93 566652 20120610204405
+186.242.102.184 10 93 566652 20120613161804
+187.43.224.175 10 61 258947 20120609181511
+187.101.195.238 10 230 442682 20120622170947
+187.56.253.97 1 29 0 20120628191645
+186.240.48.38 7 42 258081 20120608174109
+189.47.98.244 2 29 0 20120602152141
+187.57.243.238 2 35 17276 20120609210711
+187.101.194.84 3 20 0 20120611130057
+177.68.4.215 4 59 0 20120604213440
+177.32.24.143 1 23 124326 20120615170931
+187.56.251.150 4 55 17276 20120610202542
+189.110.88.170 2 31 0 20120630121436
+189.96.165.232 4 4 44798 20120624205421
+187.56.241.56 1 25 0 20120630232046
+186.243.85.234 1 31 12557 20120606202434
+189.110.90.114 1 24 0 20120616125537
+189.47.99.152 1 29 0 20120608133133
+187.10.184.177 2 56 27276 20120619001348
+187.56.248.9 6 174 0 20120617143614
+186.243.94.242 2 64 194132 20120609173728
+189.69.180.101 9 146 503412 20120619211804
+187.75.113.128 4 47 0 20120629232329
+189.102.244.210 1 11 212607 20120604232122
+187.75.116.236 1 24 0 20120604174854
+187.56.243.237 5 69 0 20120624231742
+201.13.69.42 1 24 0 20120623135826
+187.57.247.70 2 58 397568 20120627233057
+187.56.242.41 8 232 0 20120606092401
+186.245.17.139 1 27 14723 20120617210136
+201.13.68.120 9 174 23899 20120621143710
+187.9.235.167 4 14 122798 20120613101403
+187.101.193.132 2 23 0 20120611123445
+187.75.117.13 2 23 0 20120609102432
+187.101.249.230 6 107 432483 20120602005056
+187.75.88.216 2 45 0 20120618195624
+187.101.248.250 1 24 0 20120603131242
+177.26.160.132 1 32 12557 20120607131423
+187.43.243.41 1 1 12557 20120607135134
+187.77.75.196 1 24 13783 20120619115734
+200.144.12.1 1 1 646 20120627211723
+157.56.92.143 1 1 2048 20120617072707
+2.138.234.124 1 2 33472 20120620155426
+208.90.56.152 3 3 17675 20120601012621
+187.75.125.47 1 10 0 20120613161646
+187.77.95.21 1 28 379669 20120603154539
+186.245.44.107 3 35 45915 20120611211255
+187.101.192.96 4 59 0 20120629134925
+201.13.69.176 2 26 0 20120630160938
+187.56.251.4 2 25 316885 20120630142244
+189.69.182.80 3 75 9301 20120623182823
+189.47.99.88 1 29 0 20120615180523
+83.49.21.13 2 31 441322 20120620055030
+157.55.112.201 1 1 1584 20120630105235
+189.69.182.53 7 69 83019 20120624163104
+187.101.193.129 5 108 0 20120617014213
+187.43.220.215 6 47 72235 20120621070148
+201.93.200.231 1 28 397325 20120621213340
+187.77.79.57 5 41 57978 20120608090335
+187.9.235.166 2 10 124196 20120613101444
+187.75.114.252 2 29 0 20120618194550
+187.56.248.15 2 30 0 20120624223646
+187.56.242.46 1 24 0 20120624235135
+201.13.69.36 1 25 0 20120626120402
+187.75.124.210 2 31 0 20120630094207
+187.75.127.244 2 25 0 20120603120245
+201.1.96.89 3 69 259595 20120628140905
+74.52.245.146 1 1 8474 20120606043237
+189.47.98.164 1 24 0 20120619115559
+187.101.192.205 3 46 522873 20120601182715
+187.57.246.214 7 144 33640 20120608113240
+200.161.46.194 3 80 0 20120614155225
+189.110.89.41 3 30 0 20120613142518
+187.56.254.66 4 88 0 20120603230356
+187.10.187.234 2 17 0 20120611115059
+186.240.253.104 5 41 57978 20120608170523
+200.161.46.218 8 120 38813 20120625190619
+187.75.121.9 3 26 0 20120605124805
+201.13.68.21 6 117 27875 20120628215435
+189.110.89.61 1 29 0 20120626211942
+187.56.240.41 1 25 0 20120625064552
+187.57.245.67 4 70 393401 20120614125831
+187.10.188.99 6 123 340398 20120608021908
+187.77.42.212 5 37 116979 20120609085142
+189.47.97.137 3 26 0 20120630174813
+187.75.122.229 5 82 9146 20120629145258
+187.77.43.191 7 133 239430 20120606171847
+187.75.124.136 2 17 0 20120613154749
+201.1.97.145 1 25 0 20120623133125
+189.110.90.166 1 28 0 20120623122424
+187.57.242.117 5 87 0 20120601012601
+186.246.8.4 4 37 57278 20120611151304
+187.75.115.76 2 57 0 20120617215512
+187.57.240.232 3 52 0 20120617232353
+200.207.101.134 1 28 379669 20120604234732
+187.10.185.210 2 53 0 20120603025758
+187.57.240.146 5 115 0 20120617183125
+187.75.119.228 1 28 0 20120602133512
+189.47.96.74 8 147 23899 20120620172921
+187.75.122.185 1 25 0 20120614185616
+187.101.198.212 2 30 0 20120629172739
+141.0.8.109 1 26 378372 20120626213322
+189.110.89.16 1 24 0 20120623124701
+187.75.112.25 3 63 8985 20120624140307
+177.24.14.230 6 59 74294 20120616084707
+187.56.242.4 3 71 138476 20120626185910
+187.9.235.165 2 7 66005 20120613103604
+187.56.246.103 2 10 0 20120614063352
+187.57.243.242 1 24 0 20120603170449
+187.101.192.245 4 55 0 20120604132507
+189.97.212.21 5 47 249314 20120608192605
+187.57.240.105 1 28 0 20120607005713
+187.56.242.183 2 25 0 20120601013950
+187.75.112.99 1 9 0 20120613170207
+187.101.192.182 2 25 0 20120616110640
+187.75.117.49 2 52 0 20120624211821
+201.13.69.166 5 117 0 20120627164450
+187.57.242.234 1 28 0 20120603003949
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20120601 35 457 973677 12
+20120602 21 408 196471 6
+20120603 12 270 379669 8
+20120604 11 177 592276 8
+20120605 15 330 646 5
+20120606 42 852 504445 10
+20120607 54 598 4034105 12
+20120608 50 774 1091748 10
+20120609 60 678 1226499 10
+20120610 14 148 583928 3
+20120611 14 132 103193 6
+20120612 27 116 450476 2
+20120613 26 191 879651 9
+20120614 11 186 393401 6
+20120615 79 1131 2602036 7
+20120616 12 158 74294 4
+20120617 20 484 16771 7
+20120618 42 763 751848 6
+20120619 33 478 969042 8
+20120620 42 254 1306195 8
+20120621 17 250 494105 6
+20120622 11 231 443328 3
+20120623 7 176 9301 5
+20120624 38 503 1107850 8
+20120625 20 382 650130 6
+20120626 11 228 1213500 6
+20120627 9 177 398860 4
+20120628 26 537 765211 5
+20120629 15 218 9146 4
+20120630 13 165 318469 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 19
+5mn-15mn 16
+30s-2mn 23
+15mn-30mn 15
+2mn-5mn 9
+0s-30s 93
+30mn-1h 27
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 80
+/ 284 152532 130 81
+/email/ 126 18734 27 70
+/dou2/ 27 466452 5 5
+/dou3/ 21 311967 3 4
+/dou7/ 20 298280 4 4
+/dou6/ 18 161730 2 3
+/dou/ 18 302760 8 1
+/dou1/ 16 220528 6 2
+/smc/ 13 163241 7 4
+/dou4/ 11 161623 0 1
+/dou/Filosofia-da-Empresa.php 10 237245 0 0
+/dou/Eventos.php 10 111300 0 0
+/dou/Servi%C3%A7os.php 9 181908 0 0
+/dou2/Eventos.php 9 102267 1 0
+/dou/Contato.php 8 93553 0 2
+/dou2/Filosofia-da-empresa.php 8 183672 0 0
+/dou5/ 8 128912 0 0
+/dou8/ 7 64022 1 0
+/dou2/Servi%C3%A7os.php 7 145390 0 0
+/dou7/Filosofia-da-Empresa.php 6 56082 0 0
+/dou7/Contato.php 6 68712 0 1
+/dou6/Eventos-Realizados.php 6 57324 0 0
+/dou6/Filosofia-da-Empresa.php 6 54642 0 0
+/smc/Servi%C3%A7os.php 6 64842 0 0
+/smc/Eventos.php 6 77310 0 1
+/escola/1.html 1 727 0 1
+/smc/index.php 4 50228 1 0
+/dou6/index.php 4 35940 1 0
+/casamento/paginafoto1.html 1 449 0 0
+/casamento/paginafoto5.html 1 597 0 0
+/casamento/paginafoto7.html 1 773 0 0
+/casamento/paginafotoalbum.html 1 449 0 0
+/dou3/Servi%C3%A7os.php 1 22567 0 0
+/igreja/2.html 1 502 0 0
+/igreja/1.html 1 566 0 0
+/igreja/3ok.html 1 533 0 0
+/dou7/Servi%C3%A7os.php 5 45290 0 2
+/dou9/index.php 1 8902 0 1
+/dou3/Filosofia-da-empresa.php 2 23114 0 0
+/casamento/paginafoto14.html 1 438 0 0
+/dou3/index.php 2 29910 0 0
+/casamento/paginafotolembranca3.html 1 435 0 0
+/dou1/index.php 3 41349 0 0
+/dou4/Eventos.php 2 18378 0 0
+/dou6/Contato.php 3 25836 0 0
+/dou3/Contato.php 1 12585 0 0
+/dou6/Servi%C3%A7os.php 4 36328 0 0
+/casamento/paginafoto3a.html 1 443 0 0
+/dou1/Filosofia-da-empresa.php 5 49495 0 1
+/dou2/index.php 3 51828 0 2
+/dou3/Filosofia-da-Empresa.php 1 25799 0 0
+/dou4/Filosofia-da-empresa.php 2 21122 0 0
+/dou4/index.php 1 14693 0 0
+/casamento/paginafotolembranca.html 1 450 0 0
+/dou5/Eventos.php 1 10615 0 0
+/casamento/paginafoto2a.html 1 436 0 0
+/dou7/index.php 3 44742 0 0
+/casamento/paginafoto11.html 1 450 0 0
+/dou5/Filosofia-da-empresa.php 2 21246 0 1
+/dou5/index.php 1 16114 0 0
+/smc/Contato.php 5 54745 0 2
+/dou1/Eventos.php 5 40310 0 0
+/aniversario/aniversario.html 1 1584 1 1
+/dou3/Eventos.php 3 31581 0 0
+/dou12/index.php 1 9565 0 1
+/casamento/paginacasamento.html 2 4096 1 1
+/dou11/index.php 1 10676 0 0
+/email.html 3 15873 2 1
+/dou7/Eventos.php 6 54510 0 1
+/casamento/paginafotolembranca2.html 1 496 0 0
+/dou8/index.php 1 9146 0 0
+/smc/Filosofia-da-Empresa.php 6 64680 0 0
+/casamento/paginafoto9.html 1 449 0 0
+/dou10/index.php 1 9181 0 0
+/dou/index.php 4 67280 0 1
+/dou10/ 2 18362 0 0
+/escola/pai.html 1 1354 1 1
+/igreja/5.html 1 466 0 0
+/dou9/ 6 53412 1 2
+/dou2/Contato.php 5 55275 0 4
+END_SIDER

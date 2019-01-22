@@ -1,0 +1,524 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201509 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2701                
+POS_VISITOR 9046                
+POS_DAY 14369               
+POS_DOMAIN 3457                
+POS_LOGIN 4188                
+POS_ROBOT 4343                
+POS_WORMS 4690                
+POS_EMAILSENDER 4821                
+POS_EMAILRECEIVER 4964                
+POS_SESSION 15141               
+POS_SIDER 15348               
+POS_FILETYPES 5099                
+POS_DOWNLOADS 5261                
+POS_OS 5309                
+POS_BROWSER 5456                
+POS_SCREENSIZE 5985                
+POS_UNKNOWNREFERER 6059                
+POS_UNKNOWNREFERERBROWSER 6180                
+POS_ORIGIN 6296                
+POS_SEREFERRALS 6435                
+POS_PAGEREFS 6590                
+POS_SEARCHWORDS 6980                
+POS_KEYWORDS 7132                
+POS_MISC 2365                
+POS_ERRORS 7191                
+POS_CLUSTER 4044                
+POS_SIDER_404 7298                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20151001013529 105 23963 9887794487067
+FirstTime 20150901075741
+LastTime 20150930202840
+LastUpdate 20151001093930 105 0 104 0 0
+TotalVisits 193                 
+TotalUnique 130                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 132                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 24 51 410141 51 68 54305
+1 15 70 795367 1 8 0
+2 2 28 387563 6 7 7066
+3 6 60 793234 8 16 25455
+4 4 51 671933 5 9 21998
+5 1 1 8474 15 18 31830
+6 4 58 776286 7 9 13425
+7 9 54 673418 28 39 15676
+8 16 142 1815755 9 15 20089
+9 17 125 1542708 4 18 13534
+10 21 176 2272401 72 86 70956
+11 15 242 3159216 2 7 4167
+12 7 109 1443750 8 14 4016
+13 29 133 1412004 4 11 4811
+14 18 148 1924352 5 14 439
+15 18 28 153466 3 19 8912
+16 6 87 1140939 42 50 68772
+17 5 89 1232216 12 19 33864
+18 11 75 1022146 35 46 46649
+19 5 113 1527150 13 20 34307
+20 9 143 1923831 12 14 12912
+21 8 35 407667 4 11 9542
+22 3 3 9762 1 4 443
+23 13 13 16202 11 24 33085
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 35
+br 165 1099 13310407
+us 44 45 166495
+fr 13 69 884895
+mx 3 41 610256
+gb 3 30 396617
+cn 2 2 16948
+ro 2 29 388143
+cr 2 34 466575
+id 2 49 654985
+it 2 56 759338
+ar 2 49 674070
+nl 2 2 16948
+de 2 2 16948
+il 1 28 379669
+bd 1 28 379669
+pt 1 28 379669
+jp 1 28 379669
+ph 1 28 379669
+es 1 28 379669
+in 1 27 379089
+sg 1 28 379669
+co 1 28 379669
+th 1 28 379669
+hk 1 28 379669
+ir 1 25 377681
+tw 1 28 379669
+gr 1 28 379669
+mv 1 2 12641
+jm 1 23 296293
+ch 1 1 8474
+bg 1 28 379669
+zz 1 1 8474
+nz 1 28 379669
+uy 1 28 379669
+ve 1 28 379669
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+bot[\s_+:,\.\;\/\\-] 244 266375 20150930144146 0
+slurp 41 29258 20150929170640 0
+googlebot 37 214974 20150930235835 0
+spider 14 0 20150928145709 0
+no_user_agent 3 8482 20150921082033 0
+robot 1 8474 20150929231554 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 73 304191 0 0
+html 133 979154 0 0
+jpg 1630 24148189 0 0
+Unknown 133 85652 0 0
+gif 65 2795 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+linuxandroid 1 1
+winxp 11 11
+ios_iphone 1 0
+Unknown 22 21
+linux 7 7
+win7 1992 226
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 24
+chrome44.0.2403.125 1 1
+msie6.0 10 10
+chrome45.0.2454.85 33 33
+chrome45.0.2454.99 7 7
+firefox40.0 2 2
+android 1 1
+chrome43.0.2357.124 1 1
+chrome32.0.1700.107 305 12
+firefox31.0 1 1
+msie8.0 1 1
+msie11.0 3 3
+chrome36.0.1985.143 1373 55
+chrome45.0.2454.101 18 18
+firefox39.0 2 2
+firefox37.0 7 7
+chrome35.0.1916.153 136 5
+chrome45.0.2454.93 32 32
+chrome44.0.2403.157 27 27
+chrome37.0.2062.120 6 6
+chrome10.0.648.204 15 15
+msie9.0 27 3
+chrome47.0.2516.0 3 3
+Unknown 22 21
+safari 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+\ 20150917132127
+M 20150925124304
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+\ 20150917132127
+M 20150925124304
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 186 187
+From1 0 0
+From2 1 1
+From3 77 77
+From4 2 1769
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+http://success-seo.com/try.php 55 55
+http://buttons-for-website.com 10 10
+http://video--production.com 7 7
+http://pizza-tycoon.com 1 1
+http://pizza-imperia.com 1 1
+http://hvd-store.com 1 1
+http://hundejo.com 1 1
+http://burger-imperia.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 1 216
+206 1 8474
+404 112 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 25
+/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/editor/editor/filemanager/connectors/asp/connector.asp 1 -
+/admin/FCKeditor/editor/filemanager/connectors/asp/connector.asp 1 -
+/robots.txt 83 -
+/FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 1 -
+/estatisticas 1 -
+/admin/FCKeditor/editor/filemanager/connectors/php/connector.php 1 -
+/admin/FCKeditor/editor/filemanager/connectors/aspx/connector.aspx 1 -
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 1 -
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 1 -
+/FCKeditor/editor/filemanager/connectors/php/connector.php 1 -
+/FCKeditor/editor/filemanager/connectors/aspx/connector.aspx 1 -
+/FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 1 -
+/editor/editor/filemanager/connectors/php/connector.php 1 -
+/editor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 1 -
+/editor/editor/filemanager/browser/default/connectors/asp/connector.asp 1 -
+/index.swf 4 http://digitalfotoimagem.com.br/
+/awstats/awstats.pl 1 -
+/images/xxu.php 2 -
+/editor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/webalizer 1 -
+/apple-app-site-association 2 -
+/FCKeditor/editor/filemanager/connectors/asp/connector.asp 1 -
+/dxyylc/md5.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 132
+186.239.235.22 28 52 337794 20150930103826
+64.74.215.50 20 21 25759 20150917132127
+67.213.118.194 15 15 127110 20150930085517
+186.239.235.23 13 13 8372 20150915084858
+195.154.146.225 10 10 84740 20150926022748
+201.26.188.253 10 10 6440 20150920103119
+191.8.107.216 6 6 3864 20150909013738
+189.46.231.110 5 5 3220 20150904151258
+201.26.187.104 4 4 2576 20150922164644
+187.35.40.171 4 4 2576 20150910012544
+201.55.31.107 4 4 2576 20150929182249
+187.10.243.21 4 4 2576 20150916144038
+152.250.99.35 4 4 2576 20150904004935
+200.161.110.34 3 3 1932 20150914154819
+187.10.255.124 3 3 1932 20150907231257
+189.110.152.76 3 3 1932 20150903155746
+119.98.239.8 2 2 16948 20150920181741
+187.10.197.1 2 2 1288 20150917151923
+187.101.237.145 2 2 1288 20150924005112
+189.46.230.95 2 2 1288 20150909144436
+187.10.244.174 2 2 1288 20150930135542
+187.10.245.27 2 2 1288 20150926154301
+152.249.151.68 2 2 1288 20150903125042
+187.11.20.172 2 2 1288 20150911010434
+187.10.196.9 2 2 1288 20150923011520
+78.147.107.134 1 28 379669 20150920035357
+109.166.133.70 1 28 379669 20150920110428
+186.229.64.216 1 28 379669 20150916084412
+223.136.189.162 1 28 379669 20150903103924
+62.24.252.133 1 1 8474 20150920035429
+179.189.65.130 1 1 8474 20150925084333
+85.138.19.203 1 28 379669 20150905090402
+207.182.140.210 1 1 8474 20150925124304
+179.111.87.96 1 28 379669 20150927172214
+201.2.53.211 1 23 236188 20150904132326
+201.41.241.71 1 28 379669 20150903191223
+186.15.138.42 1 28 379669 20150915001724
+36.74.85.99 1 28 379669 20150920141943
+201.55.31.66 1 28 379669 20150923091139
+190.14.175.82 1 22 294981 20150920124606
+179.199.85.142 1 24 316239 20150924114051
+187.35.62.187 1 1 644 20150913004010
+104.255.64.26 1 1 8474 20150921181941
+177.205.102.123 1 28 379669 20150917105809
+177.33.51.60 1 28 379669 20150908121237
+189.71.98.186 1 28 379669 20150929063532
+190.90.28.247 1 28 379669 20150919130427
+5.196.66.162 1 1 8474 20150912011946
+126.175.27.251 1 28 379669 20150929190549
+176.126.252.11 1 1 8474 20150920014053
+187.35.45.94 1 1 644 20150905211910
+179.228.35.29 1 1 644 20150907154626
+187.15.161.228 1 28 379669 20150930202302
+177.189.104.125 1 1 644 20150920214315
+62.204.141.3 1 28 379669 20150917012451
+189.68.254.105 1 1 644 20150927010057
+189.46.75.145 1 1 644 20150921150118
+37.77.116.136 1 28 379669 20150916083321
+187.4.166.169 1 28 379669 20150911074254
+179.228.117.50 1 19 281411 20150901075741
+179.215.24.95 1 28 379669 20150921203541
+191.222.11.237 1 11 155188 20150926184139
+201.43.141.61 1 1 644 20150924141344
+186.238.31.22 1 24 358554 20150912102436
+85.65.87.181 1 28 379669 20150917011121
+78.110.173.202 1 1 8474 20150920035357
+186.226.162.75 1 28 379669 20150913090653
+187.75.107.179 1 1 644 20150910142154
+177.142.2.66 1 28 379669 20150926113236
+202.156.155.5 1 28 379669 20150928090940
+202.89.74.10 1 27 379089 20150908020825
+179.25.192.173 1 28 379669 20150916163900
+114.79.29.93 1 21 275316 20150911045015
+179.155.228.95 1 28 379669 20150913110503
+90.38.15.104 1 20 272947 20150919084507
+222.166.42.112 1 28 379669 20150922042150
+119.46.176.222 1 28 379669 20150917061541
+177.226.214.194 1 1 8474 20150905003226
+62.212.73.49 1 1 8474 20150903071538
+201.66.82.196 1 27 365397 20150924082942
+176.9.50.43 1 1 8474 20150926050727
+191.17.15.49 2 2 1288 20150902140101
+176.10.104.243 1 1 8474 20150921213450
+138.97.199.68 1 24 316239 20150904145031
+131.0.48.2 1 25 377681 20150919100816
+179.234.19.158 1 28 379669 20150910111839
+179.185.226.154 1 1 8474 20150919031944
+5.79.68.161 1 1 8474 20150913184322
+189.69.160.117 2 2 1288 20150928003727
+189.46.159.252 1 1 644 20150930003219
+187.10.248.67 1 1 644 20150911230537
+201.19.116.187 1 28 379669 20150920102123
+152.249.153.153 2 2 1288 20150903224302
+201.26.155.218 2 2 1288 20150902005250
+177.189.25.57 2 2 1288 20150903004018
+72.27.106.183 1 23 296293 20150908114745
+177.189.58.193 1 28 379669 20150908162457
+186.235.170.6 1 24 316239 20150910112143
+191.6.125.238 0 1 20466 
+103.15.165.238 1 28 379669 20150901133111
+200.220.194.74 1 28 379669 20150926112437
+189.31.54.199 1 28 379669 20150915123119
+187.10.199.157 1 1 644 20150930202840
+177.13.233.23 1 28 379669 20150930085338
+201.43.242.217 2 2 1288 20150925012344
+200.101.95.68 1 21 294996 20150925180015
+187.181.231.140 1 28 379669 20150928193147
+189.110.138.239 1 1 644 20150927151027
+191.253.40.9 1 11 134688 20150917150428
+125.238.49.110 1 28 379669 20150927031032
+186.193.157.230 1 26 377498 20150902174913
+78.219.148.208 1 15 210969 20150918141428
+88.13.135.225 1 28 379669 20150927140036
+151.48.3.193 1 28 379669 20150930171517
+177.205.218.207 1 28 379669 20150916212354
+177.101.4.1 1 28 379669 20150916145820
+201.18.159.248 1 28 379669 20150929181620
+200.84.253.104 1 28 379669 20150910124621
+186.18.91.236 1 27 379089 20150913204719
+186.4.58.142 1 6 86906 20150919175704
+201.42.26.100 1 1 644 20150928234122
+191.17.77.103 1 28 379669 20150901193452
+79.131.48.56 1 28 379669 20150910162058
+186.218.112.182 0 7 155821 
+187.191.10.10 1 12 222113 20150901141524
+121.54.54.188 1 28 379669 20150904203756
+179.111.65.23 2 2 1288 20150901143414
+179.177.156.48 1 28 379669 20150914104427
+27.114.166.69 1 2 12641 20150919015215
+177.87.201.4 1 1 8474 20150930100231
+177.132.156.230 1 28 379669 20150930132103
+189.79.242.249 1 28 379669 20150925202500
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20150901 8 91 1265438 6
+20150902 9 34 390480 6
+20150903 18 72 793132 12
+20150904 12 84 945722 8
+20150905 3 30 388787 3
+20150906 1 2 28940 1
+20150907 6 6 19524 5
+20150908 9 111 1437940 8
+20150909 8 8 20812 5
+20150910 11 115 1475414 8
+20150911 6 53 657561 5
+20150912 3 26 375502 3
+20150913 7 87 1148833 6
+20150914 3 30 388787 3
+20150915 3 57 759982 3
+20150916 14 149 1911971 9
+20150917 33 152 1699935 12
+20150918 7 45 542425 5
+20150919 10 86 1148724 9
+20150920 15 144 1867077 13
+20150921 5 32 397905 5
+20150922 9 36 392651 6
+20150923 4 31 381601 3
+20150924 8 57 693330 6
+20150925 8 55 694189 8
+20150926 8 79 1097057 7
+20150927 5 86 1140295 5
+20150928 7 61 770388 6
+20150929 13 94 1145447 5
+20150930 13 121 1540132 12
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+5mn-15mn 6
+15mn-30mn 5
+2mn-5mn 1
+30s-2mn 2
+0s-30s 171
+30mn-1h 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 21
+/email 133 85652 79 80
+/ 114 966036 114 112
+/escola/1.html 1 727 0 0
+/casamento/paginafoto14.html 1 438 0 0
+/escola/mae.html 1 1645 0 0
+/casamento/paginacasamento.html 1 2048 0 0
+/casamento/paginafoto2a.html 1 436 0 0
+/escola/paginafoto5.html 1 434 0 0
+/casamento/paginafoto1.html 1 449 0 0
+/casamento/paginafoto5.html 1 597 0 0
+/casamento/paginafotolembranca2.html 1 496 0 0
+/casamento/paginafoto7.html 1 773 0 0
+/escola/paginafoto27.html 1 450 0 1
+/casamento/paginafoto9.html 1 449 0 0
+/casamento/paginafoto8.html 1 440 0 0
+/casamento/paginafoto6.html 1 436 0 0
+/escola/paginafoto26a.html 1 435 0 0
+/casamento/paginafoto3a.html 1 443 0 0
+/igreja/2.html 1 502 0 0
+/escola/pai.html 1 1354 0 0
+/igreja/1.html 1 566 0 0
+END_SIDER

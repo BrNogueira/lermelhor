@@ -1,0 +1,403 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201706 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2693                
+POS_VISITOR 8595                
+POS_DAY 10302               
+POS_DOMAIN 3393                
+POS_LOGIN 3700                
+POS_ROBOT 3855                
+POS_WORMS 4243                
+POS_EMAILSENDER 4374                
+POS_EMAILRECEIVER 4517                
+POS_SESSION 10886               
+POS_SIDER 11065               
+POS_FILETYPES 4652                
+POS_DOWNLOADS 4757                
+POS_OS 4805                
+POS_BROWSER 4978                
+POS_SCREENSIZE 5529                
+POS_UNKNOWNREFERER 5603                
+POS_UNKNOWNREFERERBROWSER 5749                
+POS_ORIGIN 5831                
+POS_SEREFERRALS 5965                
+POS_PAGEREFS 6109                
+POS_SEARCHWORDS 6364                
+POS_KEYWORDS 6516                
+POS_MISC 2357                
+POS_ERRORS 6575                
+POS_CLUSTER 3556                
+POS_SIDER_404 6669                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170701011812 5 786 9107538070086
+FirstTime 20170601001744
+LastTime 20170630024125
+LastUpdate 20170701093903 5 0 4 0 0
+TotalVisits 64                  
+TotalUnique 42                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 42                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 13 13 54515 25 38 37464
+1 6 6 50844 14 21 9044
+2 7 7 27164 8 13 55015
+3 2 2 16948 18 39 132155
+4 3 3 25422 23 38 91537
+5 1 1 8474 8 13 56444
+6 0 0 0 8 16 60963
+7 8 8 35638 6 13 27920
+8 3 3 17591 18 30 73420
+9 6 6 35182 18 30 45953
+10 5 5 42370 9 18 59744
+11 0 0 0 7 15 35480
+12 1 1 8474 3 8 21565
+13 10 10 36924 16 26 59513
+14 5 5 11046 5 14 42370
+15 18 18 41238 5 19 17679
+16 8 8 11974 4 11 31234
+17 10 10 36924 14 18 34331
+18 13 13 22190 71 80 80541
+19 3 3 17591 22 27 76011
+20 0 0 0 63 70 64593
+21 3 3 1929 74 84 89955
+22 2 2 9117 30 38 52127
+23 2 2 16948 35 52 75987
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 66 66 366360
+br 29 29 18647
+nl 23 23 50282
+gb 6 6 50844
+ca 3 3 25422
+tw 1 1 8474
+pl 1 1 8474
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+bot[\s_+:,\.\;\/\\-] 156 472803 20170629022732 0
+crawl 128 102764 20170615213618 0
+googlebot 107 652135 20170630193013 0
+checker 42 28748 20170623210026 0
+slurp 11 23723 20170626060834 0
+no_user_agent 8 8502 20170612143349 0
+robot 5 42370 20170627134435 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 100 509856 0 0
+Unknown 29 18647 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+macosx9 15 15
+linux 9 9
+macosx 2 2
+winxp 28 28
+win7 63 63
+win8.1 6 6
+Unknown 2 2
+linuxandroid 1 1
+winnt 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 26
+chrome35.0.1916.114 3 3
+chrome40.0.2214.115 1 1
+chrome37.0.2062.120 4 4
+msie10.0 5 5
+firefox29.0 8 8
+chrome58.0.2988.0 14 14
+chrome45.0.2454.94 1 1
+firefox3.5.0 6 6
+safari7.0.3 5 5
+firefox21.0 5 5
+chrome10.0.648.204 5 5
+chrome34.0.1847.137 2 2
+firefox30.0 2 2
+chrome50.0.2663.87 1 1
+firefox52.0 2 2
+firefox27.3 1 1
+firefox45.0 1 1
+msie9.0 6 6
+chrome59.0.3071.115 2 2
+chrome58.0.3029.110 15 15
+msie6.0 22 22
+mozilla 2 2
+firefox28.0 2 2
+chrome34.0.1847.131 11 11
+firefox5.02 1 1
+chrome55.0.2883.95 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20170612010355
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 53 53
+From1 0 0
+From2 0 0
+From3 4 4
+From4 72 72
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://pizza-imperia.com 1 1
+http://hvd-store.com 1 1
+http://hundejo.com 1 1
+http://burger-imperia.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 237 0
+301 2 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 45
+/casamento/album.jpg 4 -
+/new/wp-admin/setup-config.php 1 -
+/administrator///wp-login.php 1 -
+/blog/wordpress/wp-admin/setup-config.php 1 -
+/images/wedding.jpg 2 -
+/cms/setup-config.php 1 -
+/blog/wp-admin/setup-config.php 1 -
+/robots.txt 150 -
+//license.php 2 http://digitalfotoimagem.com.br//wp-admin/
+/administrator/wp-login.php 1 -
+/images/m2.jpg 1 -
+/uploadify/uploadify.php 7 http://digitalfotoimagem.com.br/wp-admin/
+/images/contact.jpg 2 -
+/blogs/wp-admin/setup-config.php 1 -
+//uploadify/uploadify.php 2 http://digitalfotoimagem.com.br//wp-admin/
+/test/wp-admin/setup-config.php 1 -
+/images/enter.jpg 2 -
+//wp-content/uploads/51217766.php 2 -
+/teste.swf 1 -
+/casamento/mensagem.jpg 2 -
+/wordpress/wp-admin/setup-config.php 1 -
+/images/m3.jpg 1 -
+/wp-content/uploads/51217766.php 4 -
+/index.swf 4 -
+/wp-login.php 3 http://digitalfotoimagem.com.br/wp-login.php
+/casamento/11.jpg 3 -
+/wp-content/plugins/revslider/temp/update_extract/conf.php 1 http://digitalfotoimagem.com.br/wp-content/plugins/revslider/temp/update_extract/conf.php
+/old/wp-admin/setup-config.php 1 -
+/images/wel1.jpg 2 -
+/casamento/15.jpg 3 -
+/wp/wp-admin/setup-config.php 1 -
+/sitemap.xml 1 -
+/jm-ajax/upload_file/ 1 -
+/images/m1.jpg 2 -
+/license.php 6 http://www.digitalfotoimagem.com.br/wp-admin/
+/images/1eucaristia.jpg 2 -
+/images/m5.jpg 1 -
+/wp-admin/admin-ajax.php 6 http://www.digitalfotoimagem.com.br/wp-admin/
+/news/wp-admin/setup-config.php 1 -
+/beta/wp-admin/setup-config.php 1 -
+/administrator/robots.txt 1 -
+/ 1 -
+/images/m6.jpg 2 -
+/libraries/sfn.php 1 -
+//wp-admin/admin-ajax.php 2 http://digitalfotoimagem.com.br//wp-admin/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 42
+37.48.68.247 22 22 41808 20170615160721
+201.6.231.203 20 20 12860 20170629213943
+45.55.225.156 6 6 18690 20170605075003
+138.197.111.234 6 6 18690 20170607154839
+159.203.96.193 6 6 18690 20170622170720
+138.197.104.18 6 6 18690 20170612131248
+45.55.254.180 6 6 18690 20170610020121
+45.55.255.72 6 6 18690 20170603005023
+163.172.4.153 4 4 33896 20170619141814
+201.55.31.210 4 4 2572 20170623212352
+201.6.230.133 4 4 2572 20170607161120
+192.187.100.58 4 4 33896 20170625094137
+158.69.225.34 3 3 25422 20170612010356
+173.208.203.172 2 2 16948 20170625043256
+142.54.183.226 2 2 16948 20170608014341
+52.87.86.158 2 2 16948 20170623235252
+138.197.111.192 1 1 8474 20170625000219
+199.166.30.62 1 1 8474 20170626105554
+138.197.111.142 1 1 8474 20170621103228
+52.90.249.49 1 1 8474 20170605191516
+138.197.111.188 1 1 8474 20170620105619
+51.15.74.121 1 1 8474 20170630024125
+138.197.111.59 1 1 8474 20170624162958
+138.197.111.115 1 1 8474 20170601001744
+74.85.220.177 1 1 8474 20170603130631
+74.85.210.68 1 1 8474 20170616031145
+23.22.151.184 1 1 8474 20170607102115
+138.197.111.64 1 1 8474 20170609191043
+65.19.167.131 1 1 8474 20170611131301
+198.240.103.248 1 1 8474 20170621000947
+163.172.73.56 1 1 8474 20170607095622
+208.94.228.54 1 1 8474 20170605082437
+104.236.57.129 1 1 8474 20170618044633
+178.217.187.39 1 1 8474 20170607035121
+60.249.120.230 1 1 8474 20170629003805
+138.197.111.122 1 1 8474 20170605122648
+77.247.181.165 1 1 8474 20170602104110
+45.32.130.173 1 1 8474 20170615073857
+201.55.31.39 1 1 643 20170629085624
+35.185.239.191 1 1 8474 20170618010716
+34.226.206.133 1 1 8474 20170625080314
+54.173.240.61 1 1 8474 20170620221105
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20170601 2 2 9117 2
+20170602 4 4 26065 3
+20170603 8 8 35638 3
+20170605 11 11 45398 5
+20170607 11 11 53229 6
+20170608 3 3 17591 2
+20170609 3 3 9760 2
+20170610 6 6 18690 1
+20170611 12 12 29378 2
+20170612 9 9 44112 2
+20170613 1 1 8474 1
+20170615 12 12 29378 2
+20170616 1 1 8474 1
+20170618 2 2 16948 2
+20170619 4 4 10403 3
+20170620 3 3 17591 3
+20170621 3 3 17591 3
+20170622 11 11 21905 4
+20170623 4 4 18234 3
+20170624 1 1 8474 1
+20170625 6 6 50844 4
+20170626 3 3 9760 2
+20170628 3 3 1929 2
+20170629 5 5 11046 4
+20170630 1 1 8474 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+15mn-30mn 2
+30s-2mn 4
+30mn-1h 1
+0s-30s 57
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 12
+/ 50 423700 43 35
+/email 29 18647 21 21
+/igreja/1.html 8 4528 0 2
+/casamento/paginacasamento.html 8 16384 0 1
+/email.html 8 42328 0 1
+/aniversario/aniversario.html 8 12672 0 1
+/escola/1.html 8 5816 0 1
+/aniversario/paginafoto1.html 2 886 0 2
+/casamento/paginafoto2a.html 2 872 0 0
+/aniversario/paginafoto2.html 2 886 0 0
+/casamento/paginafoto1.html 2 898 0 0
+/casamento/paginafoto3a.html 2 886 0 0
+END_SIDER

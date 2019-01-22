@@ -1,0 +1,825 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201806 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/ssl/awstats.lermelhor.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2034                
+POS_TIME 2705                
+POS_VISITOR 19447               
+POS_DAY 25322               
+POS_DOMAIN 3579                
+POS_LOGIN 4133                
+POS_ROBOT 4288                
+POS_WORMS 5030                
+POS_EMAILSENDER 5161                
+POS_EMAILRECEIVER 5304                
+POS_SESSION 26089               
+POS_SIDER 26274               
+POS_FILETYPES 5439                
+POS_DOWNLOADS 5730                
+POS_OS 5778                
+POS_BROWSER 6122                
+POS_SCREENSIZE 8692                
+POS_UNKNOWNREFERER 8766                
+POS_UNKNOWNREFERERBROWSER 9006                
+POS_ORIGIN 9241                
+POS_SEREFERRALS 9381                
+POS_PAGEREFS 9576                
+POS_SEARCHWORDS 9852                
+POS_KEYWORDS 10004               
+POS_MISC 2368                
+POS_ERRORS 10063               
+POS_CLUSTER 3989                
+POS_SIDER_404 10213               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180701000710 363 103204 14283595195809
+FirstTime 0
+LastTime 20180630192508
+LastUpdate 20180701094132 363 0 362 0 0
+TotalVisits 205                 
+TotalUnique 107                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 169                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 35 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 15 89 988850 44 120 1167380
+1 12 13 207608 66 159 1689693
+2 9 11 207638 43 138 1703831
+3 15 15 31550 39 87 714035
+4 12 12 24828 80 166 1872613
+5 18 18 41974 72 204 2303762
+6 13 29 611879 43 123 1605636
+7 12 12 25240 33 85 1133338
+8 11 35 1032243 73 206 1879114
+9 9 26 981501 65 163 1730579
+10 17 67 2236081 40 109 1155961
+11 93 239 5710018 99 190 2748394
+12 51 129 5533317 155 212 2680536
+13 12 95 2666297 58 173 2261903
+14 21 101 2311623 90 236 2908043
+15 34 47 1748619 120 207 3416528
+16 13 153 5032950 124 261 3183968
+17 7 272 13790455 105 216 2345664
+18 15 142 3283193 72 114 1086087
+19 14 17 265993 76 106 1651619
+20 11 48 698586 55 128 1148296
+21 12 51 1361504 106 221 2886024
+22 17 19 254163 85 159 1891383
+23 21 22 100405 85 200 1697624
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 24
+br 185 952 29014594
+ua 94 94 55998
+de 61 61 7879
+us 32 97 2896405
+la 22 22 64878
+eg 20 20 58980
+th 16 16 47184
+es 8 8 23592
+cn 6 6 14814
+ec 4 4 11796
+be 4 80 2145868
+it 2 2 5898
+mx 2 4 360486
+ge 2 2 4938
+in 2 2 5898
+dk 1 1 2469
+pt 1 1 2469
+kr 1 1 2469
+ru 1 34 1426433
+gb 0 1 177294
+ca 0 240 12055267
+cr 0 1 38080
+ao 0 12 545532
+au 0 1 177294
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+Googlebot/ 1519 13275902 20180630185403 288
+bingbot/ 345 8248269 20180630173543 79
+MJ12bot/ 335 5511440 20180630180447 81
+feed 194 693550 20180630055445 0
+DotBot/ 95 590832 20180630212401 69
+YandexBot/ 61 511009 20180629194417 31
+AhrefsBot/ 56 763992 20180630035648 25
+bingpreview 11 207712 20180628214450 0
+facebookexternalhit/ 11 910324 20180628164943 0
+Googlebot\-Image/ 8 187875 20180626230039 0
+unknown 3 201 20180630172525 3
+microsoft.*discovery 2 0 20180628194101 0
+spbot/ 1 67 20180626051826 1
+no_user_agent 1 3575 20180620010801 0
+java 1 0 20180630172527 0
+Python\-urllib/ 1 1132742 20180626152942 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+svg 1 1055 0 0
+Unknown 9 242147 0 0
+html 28 1050522 0 0
+png 45 1410315 0 0
+xml 1 1045 0 0
+jpg 264 17888003 0 0
+woff 1 17484 0 0
+css 488 11076401 0 0
+js 338 11756216 0 0
+jpeg 31 2046122 0 0
+php 425 3628769 0 0
+gif 31 28436 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+macosx 11 9
+Unknown 57 57
+win2003 3 3
+macosx4 15 15
+macosx5 2 2
+macosx11 12 12
+macosx10 14 14
+linuxandroid 63 2
+winlong 12 12
+macosx8 8 8
+win2000 10 10
+linux 38 38
+ios_iphone 6 5
+win7 246 30
+win8 448 131
+unix 1 0
+win8.1 109 42
+macosx12 8 8
+win10 524 31
+winxp 50 33
+macosx9 25 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 120
+opera42.0.5377.9005 1 1
+chrome49.0.2623.112 17 0
+chrome57.5.9023.4851 1 1
+opera41.9.4641.8379 1 1
+chrome67.0.3396.87 472 112
+firefox48.0 6 6
+chrome54.8.3467.9739 1 1
+firefox45.58.05 1 1
+safari5.5.1 1 1
+msie6.0 1 1
+firefox45.0 14 14
+firefox46.0 9 9
+chrome55.0.2888.94 2 2
+firefox52.52.05 1 1
+chrome57.4.9213.5585 1 1
+chrome54.8.3223.8596 1 1
+chrome49.0.2624.61 2 2
+edge36 11 11
+opera42.9.4842.9570 1 1
+opera44.5.0681.5953 1 1
+chrome52.0.2743.116 240 0
+edge16 1 0
+msie11.0 6 4
+chrome55.0.2912.81 2 2
+msie10.0 24 8
+chrome41.0.2224.3 1 1
+edge37 1 1
+chrome53.0.2799.74 2 2
+firefox45.79.22 1 1
+safari4.7.2 2 2
+chrome53.7.3115.8487 1 1
+safari5.5.0 1 1
+chrome66.0.3359.181 124 2
+chrome55.0.2885.71 2 2
+firefox52.57.10 1 1
+chrome41.0.2228.0 3 0
+firefox45.77.20 1 1
+msie9.0 14 14
+opera44.5.0586.5858 1 1
+chrome51.0.2704.39 2 2
+chrome49.0.2629.93 2 2
+opera42.0.5598.9226 1 1
+msie7.0 118 5
+opera42.0.5007.9734 1 1
+chrome54.0.2840.99 2 1
+safari9.1.3 23 0
+chrome49.0.2647.79 2 2
+chrome49.0.2626.42 2 2
+chrome56.0.2925.45 2 2
+chrome52.0.2743.10 2 2
+edge34 11 11
+firefox52.58.01 1 1
+chrome53.8.3463.8736 1 1
+chrome57.5.0401.4139 1 1
+Unknown 57 57
+chrome52.0.2756.66 2 2
+chrome49.0.2643.62 2 2
+safari5.4.8 3 3
+chrome67.0.3396.62 2 0
+chrome53.5.0911.5649 1 1
+opera44.5.0970.5242 1 1
+firefox45.65.12 1 1
+chrome51.0.2714.19 2 2
+firefox52.0 40 3
+firefox52.55.07 1 1
+safari5.2.7 2 2
+chrome45.0.2454.95 1 1
+chrome54.8.3883.8056 1 1
+chrome54.0.2844.32 2 2
+firefox49.0 16 16
+chrome57.5.0762.4490 2 2
+chrome56.0.2955.68 2 2
+chrome57.5.0139.5867 1 1
+firefox52.51.08 1 1
+chrome40.0.2214.85 3 3
+chrome53.7.3621.8993 1 1
+chrome49.0.2649.27 2 2
+chrome57.5.0091.5829 1 1
+chrome52.0.2783.96 2 2
+firefox29.0 10 10
+firefox45.66.19 1 1
+opera44.5.0898.5160 1 1
+chrome51.0.2738.13 2 2
+safari4.6.1 5 5
+chrome53.5.0805.5533 1 1
+safari5.3.8 6 6
+chrome52.0.2743.77 2 2
+iphone 6 5
+chrome53.6.1294.5922 1 1
+chrome55.0.2913.83 2 2
+firefox51.0 8 8
+chrome53.5.0672.5309 1 1
+firefox35.0 1 1
+chrome56.0.2931.44 2 2
+chrome54.8.3631.9903 1 1
+chrome50.0.2679.98 2 2
+chrome54.8.3201.9574 1 1
+chrome50.0.2661.75 1 1
+chrome49.0.2647.3 2 2
+chrome66.0.3359.139 1 0
+chrome68.0.3440.33 1 0
+firefox40.1 1 1
+firefox45.78.21 1 1
+chrome51.0.2710.59 2 2
+safari11.1 1 0
+firefox47.0 5 5
+edge17 2 0
+chrome52.0.2746.4 2 2
+opera42.9.4157.9885 1 1
+firefox50.0 12 12
+chrome53.0.2831.92 2 2
+chrome67.0.3396.79 61 3
+chrome67.0.3396.99 42 1
+firefox45.61.18 1 1
+firefox57.0 69 9
+chrome53.6.0621.5358 1 1
+firefox60.0 103 7
+chrome56.0.2982.43 2 2
+chrome53.0.2811.64 2 2
+chrome57.5.0039.4767 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+runscope/0.1 20180619183150
+Rome_Client_(http://tinyurl.com/64t5n)_Ver:_UNKNOWN 20180621152627
+WordPress/4.7.10;_https://lermelhor.com.br 20180630144014
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+WordPress/4.7.10;_https://lermelhor.com.br 20180630144014
+Rome_Client_(http://tinyurl.com/64t5n)_Ver:_UNKNOWN 20180621152627
+runscope/0.1 20180619183150
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 108 116
+From1 1 1
+From2 9 51
+From3 7 7
+From4 339 1487
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_com 2 9
+www_google_com_br 7 36
+bing 0 6
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://m.facebook.com 6 6
+https://h9.servidorhh.com:2083/cpsess3111018421/frontend/paper_lantern/softaculous/index.live.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+404 370 6466958
+302 91 0
+400 85 0
+206 2 8028
+301 420 9136
+500 336 8340399
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 165
+/wp-admin/home.bak.php 1 lermelhor.com.br
+/copied-contato.php 1 -
+/web 1 -
+/user/ 1 -
+/config.php 1 -
+/wp-config.save 1 http://lermelhor.com.br/wp-config.save
+/promocional/Para%20come%C3%A7ar%20%22click%20aqui%22%20para%20fazer%20a%20sess%C3%A3o%20do%20modelo%20de%20coaching. 11 -
+/modules/modules/version.php 1 -
+/wp-content/plugins/tassembly/js/js.php 1 lermelhor.com.br
+/wp-content/uploads/wp-dbs.php 1 -
+/libraries/ 1 -
+/wp-config.php.orig 1 http://lermelhor.com.br/wp-config.php.orig
+/wp-config.old 1 http://lermelhor.com.br/wp-config.old
+/wp-admin/includes/wp-cods.php 1 lermelhor.com.br
+/tmp.php 3 -
+/wp-content/wp-object-cache.php 1 lermelhor.com.br
+/.well-known/assetlinks.json 15 -
+/wp-content/plugins/showbiz/showbiz-plugin/css/settings.css 1 lermelhor.com.br
+/wp-config.php_bak 1 http://lermelhor.com.br/wp-config.php_bak
+/imdex.php 1 -
+/wp-includes/images/hon2our.php 1 lermelhor.com.br
+/wp-content/plugins/woocommerce-products-designer/admin/css/wpd-admin.css 2 -
+/matriz/documents/ProjetoLeitura.doc 1 -
+/ral.php 1 lermelhor.com.br
+/hxcdm/cdm/hxcdm.php 1 -
+/M%C3%B3dulo-3/js/publishNavigator/ddsmoothmenu.css 1 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/Modulo3 1 -
+/wp-content/plugins/easyrotator-for-wordpress/cache.php 1 -
+/wp-includes/class.wp-tmps.php 1 lermelhor.com.br
+/ads.txt 72 -
+/m%C3%83%C2%B3dulo-2/rvsindex.php 10 -
+/wp-content/uploader.php 1 http://lermelhor.com.br/wp-content/uploader.php
+/wp-config.orig 1 http://lermelhor.com.br/wp-config.orig
+/wp-content/plugins/pluginsamonsters/data/ 1 lermelhor.com.br
+/wp-content/plugins/ls-oembed/data/ 1 lermelhor.com.br
+/wp-datas.php 1 -
+/wp-content/plugins/kingcomposer/assets/css/kc.fonts.css 1 -
+/Modulo-3/Para%20come%C3%A7ar%20%22click%20aqui%22%20para%20fazer%20a%20sess%C3%A3o%20do%20modelo%20de%20coaching. 10 -
+/primeirasessao/sitemap_index.xml 1 -
+/wp-content/plugins/wp-cache.php 1 lermelhor.com.br
+/error-logs.php 1 lermelhor.com.br
+/wp-content/plugins/woocommerce-catalog-enquiry/assets/frontend/js/chosen.js 1 -
+/wp-content/themes/twentyseventeen/thumb.php 2 http://lermelhor.com.br/wp-content/themes/twentyseventeen/thumb.php
+/wp-content/plugins/assembly/js/js.php 1 lermelhor.com.br
+/M%C3%B3dulo-3/rvsincludefile/rvsheadpage.js 1 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/wp-content/plugins/pluginmonsters/data/ 1 lermelhor.com.br
+/wp-content/plugins/wpfw_menus_management/styles/menus.css 1 lermelhor.com.br
+/wp-index.php 1 lermelhor.com.br
+/wp-content/plugins/arforms/js/filedrag/filedrag.js 1 lermelhor.com.br
+/smalls.php 1 lermelhor.com.br
+/wp-content/plugins/wp_edit_pro/includes/helpers/font_uploader.php 1 lermelhor.com.br
+/curso/index.html/index.html/index.html/index.html/index.html/index.html/admin/setup.php 1 http://lermelhor.com.br/curso/index.html/index.html/index.html/index.html/index.html/index.html/
+/matriz/images/Gab.Ver.Ari.jpeg 6 -
+/wp-content/plugins/xcalendar/data/lefttopcorner.gif 1 lermelhor.com.br
+/copia/images/img_02.jpg 1 -
+/wp-checking.php 1 lermelhor.com.br
+/wp-includes/pomo/w7388n.php 1 lermelhor.com.br
+/videos/2%C3%82%C2%BA---Modelo-coaching-Perdas-e-Ganhos.php 2 -
+/wp-content/plugins/woo-thank-you-page-nextmove-lite/readme.txt 1 lermelhor.com.br
+/ 5 -
+/author/Ler%20Melhor/ 1 -
+/treinamento/promocional/Para%20come%C3%A7ar%20%22click%20aqui%22%20para%20fazer%20a%20sess%C3%A3o%20do%20modelo%20de%20coaching. 1 -
+/M%C3%B3dulo-3/rvsincludefile/rvscustomopenwindow.js 2 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/wp-content/plugins/kingcomposer/readme.txt 1 lermelhor.com.br
+/wp-content/themes/famous/style.css 1 http://lermelhor.com.br/wp-content/themes/famous/style.css
+/administrator/includes/readmy.php 1 lermelhor.com.br
+/wp-custm.php 1 -
+/videos/images/FernandesSoares.jpg 5 https://www.google.com.br/
+/11.php 1 -
+/m%C3%B3dulo-2/optimizer.php 1 https://lermelhor.com.br/m%C3%B3dulo-2/rvsindex.php
+/wp-content/plugins/kingcomposer/assets/frontend/css/kingcomposer.css 4 -
+/documents/ProjetoLeitura.doc 2 -
+/indax.php 1 lermelhor.com.br
+/videos/images/FlavioAugusto.jpg 5 http://lermelhor.com.br/videos/Portf%C3%B3lio.php
+/wp-config.bak 1 http://lermelhor.com.br/wp-config.bak
+/wp-config.php.original 1 http://lermelhor.com.br/wp-config.php.original
+/wp-content/plugins/wp-customize-login-page/readme.txt 1 lermelhor.com.br
+/neuroci%C3%83%C2%AAncias/promocional/O-que-voc%C3%83%C2%AA-sabe-.php 11 -
+/modules/modules/path.php 1 -
+/wp-sbb.php 1 lermelhor.com.br
+/wp-content/themes/error-log.php 1 lermelhor.com.br
+/wp-content/plugins/all-in-one-wp-security-and-firewall/data/ 1 lermelhor.com.br
+/modules/modules/modules.php 1 -
+/author/LerMelhor/ 4 lermelhor.com.br
+/wp-config.original 1 http://lermelhor.com.br/wp-config.original
+/M%C3%B3dulo-3/js/jquery-ui/external/responsivecarousel/responsiveslides.min.js 1 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/wp-content/plugins/groupsassembly/js/js.php 1 lermelhor.com.br
+/blog/ 2 http://lermelhor.com.br/
+/videos/Modelo-coaching.php 1 -
+/wp-includes/class.wp-times.php 1 lermelhor.com.br
+/wp-content/themes/twentyseventeen/timthumb.php 2 http://lermelhor.com.br/wp-content/themes/twentyseventeen/timthumb.php
+/M%C3%B3dulo-3/js/publishNavigator/ddsmoothmenu-v.css 1 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/wp-config.php.save 1 http://lermelhor.com.br/wp-config.php.save
+/wp-admin/images/wp-upload.php 1 lermelhor.com.br
+/wp-content/plugins/pluginsmonsters/data/ 1 lermelhor.com.br
+/wysiwyg/fckeditor/editor/filemanager/connectors/asp/connector.asp 1 -
+/safnofifaewmer923 1 lermelhor.com.br
+/images/livro800x800.jpg 2 -
+/MKT/images/6.jpg 1 -
+/wp-pols.php 3 -
+/copia/images/img_03.jpg 1 -
+/modules/modules.php 1 lermelhor.com.br
+/overlay.php 1 -
+/wp-config.php.bak 1 http://lermelhor.com.br/wp-config.php.bak
+/demonstracao/ 2 -
+/themes/rvtheme/user/%7Buser.image_url%7D 1 -
+/wp-content/upgrade/theme-compat/popup-pomo.php 3 -
+/wp-config.php- 1 https://lermelhor.com.br/wp-config.php-
+/wp-content/plugins/sitespeed/sitespeed-update.php 1 lermelhor.com.br
+/M%C3%B3dulo-3/js/jquery-ui/jquery.min.js 1 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/acoes-2017/ 2 -
+/Parab 1 -
+/wp-config.php~ 2 http://lermelhor.com.br/wp-config.php~
+/wp-includes/css/modules.php 1 -
+/wp-admin/includes/rnnvhs.php 1 lermelhor.com.br
+/wp-config.php.old 1 http://lermelhor.com.br/wp-config.php.old
+/blog/xmlrpc.php 1 http://lermelhor.com.br/
+/copia/js/jquery-ui/ui/minified/jquery-ui.min.js 1 http://lermelhor.com.br/copia/rvsindex.php
+/wp-content/plugins/SwiftSecurity/Documentation/index.html 1 lermelhor.com.br
+/copia/images/img_01.jpg 1 -
+/wp-content/plugins/szalog.php 1 lermelhor.com.br
+/hivcxa.php 1 lermelhor.com.br
+/administrator/ 1 -
+/upgrade-network.php 3 -
+/neurociencias/promocional/Para%20come%C3%A7ar%20%22click%20aqui%22%20para%20fazer%20a%20sess%C3%A3o%20do%20modelo%20de%20coaching. 11 -
+/wp-content/plugins/DAP-WP-LiveLinks/includes/css/autocanceltemplate.css 1 lermelhor.com.br
+/wp-installation.php 1 -
+/blog/wp-login.php 1 http://lermelhor.com.br/
+/wp-content/themes/wp-conns.php 1 lermelhor.com.br
+/copia/documents/ProjetoLeitura.doc 1 -
+/copia/images/spacer.gif 1 -
+/configbak.php 1 -
+/wp-content/plugins/background-image-cropper/image/ico/search.php 1 lermelhor.com.br
+/wp-includes/js/js.php 1 lermelhor.com.br
+/dex.php 1 lermelhor.com.br
+/wp-content/plugins/upgrade-network.php 1 lermelhor.com.br
+/images/MetodoCoaching.jpg 1 -
+/wp-content/plugins/class-wp-upgrader/updater.php 1 -
+/wp-content/plugins/xaisyndicate/idx.php 2 -
+/M%C3%83%C2%B3dulo-3/rvsindex.php 10 -
+/videos/images/2/DiarioRegional.png 3 http://lermelhor.com.br/videos/Portf%C3%B3lio.php
+/acoes-2018/ 3 -
+/promocional/Para%20come%C3%83%C2%A7ar%20\"click%20aqui\"%20para%20fazer%20a%20sess%C3%83%C2%A3o%20do%20modelo%20de%20coaching. 3 -
+/wp-content/plugins/delete-all-comments/readme.txt 1 lermelhor.com.br
+/videos/images/fotoDiadema.jpg 3 http://lermelhor.com.br/videos/Portf%C3%B3lio.php
+/yjh.php 1 lermelhor.com.br
+/wp-includes/js/tinymce/plugins/wpview/diff.php 1 lermelhor.com.br
+/videos/images/Epitacio.jpg 4 http://lermelhor.com.br/videos/Portf%C3%B3lio.php
+/wp-admin/includes/lock46.php 1 lermelhor.com.br
+/videos/documents/ProjetoLeitura.doc 1 -
+/wp-content/plugins/wp-photo-seller/css/WPS.css 1 lermelhor.com.br
+/wp-content/plugins/easyrotator-for-wordpress/Marvins.php 1 -
+/search.php 1 lermelhor.com.br
+/modules/modules/joomla-resize.php 1 -
+/videos/images/Jo%C3%A3emenina.jpg 4 https://www.google.com.br/
+/themes/rvtheme/user/%7Buser.path_image%7D 1 -
+/wp-content/plugins/easyrotator-for-wordpress/wj.php 1 -
+/configuration.php 4 -
+/themes/default/default/%7BmakeUrl( 1 -
+/wp-content/plugins/myshe.php 1 lermelhor.com.br
+/components/modules.php 1 -
+/images/2.jpg 1 -
+/videos/images/2/12516850_1054248367966191_1231618284_o1.jpg 4 http://lermelhor.com.br/videos/Portf%C3%B3lio.php
+/templates/protostar/js/templateDetails.php 1 lermelhor.com.br
+/wp-admin/includes/class-wp-ms-remove-table.php 1 lermelhor.com.br
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 169
+201.81.161.207 114 364 13071856 20180620154017
+46.148.22.210 87 87 35835 20180630192508
+93.104.215.69 54 54 0 20180630144014
+192.3.105.198 9 35 1107551 20180602114703
+197.51.3.161 4 4 11796 20180619153819
+143.255.153.99 4 4 11796 20180619190301
+201.48.72.112 4 4 11796 20180619231804
+189.59.69.3 4 4 11796 20180619173942
+177.38.190.95 4 4 11796 20180619165846
+176.101.79.222 4 4 11796 20180620004210
+180.183.250.116 4 4 11796 20180620071312
+143.255.153.51 4 4 11796 20180620000020
+187.16.55.87 4 4 11796 20180619202441
+5.158.223.247 4 4 11796 20180619215012
+41.38.56.90 4 4 11796 20180619210731
+189.114.93.17 4 4 11796 20180619182056
+189.74.49.227 3 40 806994 20180627134013
+197.45.92.225 2 2 5898 20180618073454
+183.88.238.69 2 2 5898 20180618155436
+194.9.70.97 2 2 5898 20180620055651
+5.133.62.149 2 2 5898 20180618171854
+197.50.71.235 2 2 5898 20180620054111
+136.243.73.151 2 2 7150 20180619183150
+191.251.15.143 2 36 438446 20180606202651
+189.114.95.17 2 2 5898 20180618101927
+189.6.23.28 1 39 1069990 20180629165539
+188.250.174.17 1 1 2469 20180616121522
+191.183.74.25 0 1 38080 
+189.68.251.24 1 1 47645 20180611231830
+177.64.156.205 0 1 177294 
+187.115.123.74 2 2 5898 20180620015631
+138.68.254.101 0 17 699823 
+37.204.211.30 0 1 26711 
+202.137.155.143 2 2 5898 20180618134721
+202.137.155.206 2 2 5898 20180619112637
+191.187.41.89 0 1 38080 
+180.183.251.242 2 2 5898 20180619141657
+186.178.204.98 2 2 5898 20180618093854
+198.199.92.66 0 17 699823 
+196.202.94.26 2 2 5898 20180618192323
+201.81.161.171 1 1 47651 20180622191901
+158.69.165.200 0 240 12055267 
+187.3.200.9 0 1 38080 
+197.50.129.190 2 2 5898 20180619055048
+179.159.100.168 1 2 194479 20180604104846
+189.115.155.209 0 1 38080 
+220.164.2.120 1 1 2469 20180602053541
+138.246.253.19 2 2 0 20180614184659
+177.19.163.109 2 2 5898 20180619133502
+189.187.166.127 0 1 177294 
+143.255.153.190 2 2 5898 20180619104245
+220.163.44.184 1 1 2469 20180602053802
+179.211.64.126 0 1 38080 
+103.10.230.180 2 2 5898 20180620040856
+186.251.166.249 2 2 5898 20180619120921
+179.212.90.32 1 39 1069983 20180616210940
+189.45.207.216 0 1 177294 
+115.84.91.38 2 2 5898 20180620031112
+189.59.70.3 0 1 38080 
+178.140.119.41 0 1 3646 
+138.186.3.51 0 1 38080 
+177.38.190.201 2 2 5898 20180620012720
+177.58.249.60 0 1 126678 
+177.83.139.40 0 1 38080 
+114.251.212.251 1 1 2469 20180629111639
+148.251.147.24 1 1 403 20180620151412
+186.194.32.115 0 2 76160 
+220.225.7.55 2 2 5898 20180620014205
+201.17.159.252 0 1 38080 
+97.113.200.255 0 1 25836 
+52.169.156.233 1 1 2469 20180629113716
+128.69.217.153 0 1 5332 
+186.214.16.247 0 2 76160 
+201.1.87.153 0 21 831169 
+191.248.164.227 2 40 469110 20180622000520
+187.11.32.55 1 1 47653 20180621000254
+91.201.170.95 2 2 5898 20180618180016
+95.220.77.35 0 1 169937 
+46.118.116.42 1 1 2469 20180616165252
+143.255.153.107 2 2 5898 20180618151342
+183.88.237.211 2 2 5898 20180619075708
+187.34.195.178 0 1 177294 
+187.190.239.214 2 2 5898 20180620042410
+177.13.152.25 0 1 38080 
+177.104.242.90 2 2 5898 20180620034046
+201.48.98.137 0 2 76160 
+220.164.2.76 1 1 2469 20180622092214
+178.254.22.161 1 1 326 20180611124723
+177.40.115.237 0 1 177294 
+197.45.163.117 2 2 5898 20180619125343
+54.243.53.148 1 1 3575 20180621152627
+202.137.155.193 2 2 5898 20180618143110
+115.84.92.3 2 2 5898 20180620065740
+177.38.190.120 2 2 5898 20180620062651
+177.91.120.221 1 1 47615 20180601183335
+5.228.148.155 0 1 10231 
+177.206.124.25 1 39 442262 20180625181106
+188.32.5.225 0 17 823870 
+91.201.170.140 2 2 5898 20180620051026
+187.182.114.77 1 1 47675 20180603213810
+201.15.50.194 1 36 414665 20180602003521
+86.185.123.114 0 1 177294 
+121.128.135.74 1 1 2469 20180622115621
+187.18.214.208 0 1 38080 
+23.80.147.25 1 1 3575 20180624220711
+177.104.242.170 2 2 5898 20180618081603
+89.186.174.13 1 1 2469 20180626164242
+179.154.140.208 0 1 38080 
+177.104.242.100 2 2 5898 20180618184159
+202.137.141.224 2 2 5898 20180619063444
+177.104.242.148 2 2 5898 20180618163734
+143.255.154.18 2 2 5898 20180620035430
+60.190.240.102 1 1 2469 20180629132810
+128.72.107.149 0 1 97184 
+179.180.145.100 0 1 38080 
+177.201.142.181 0 1 177294 
+176.193.185.243 0 1 86422 
+187.60.38.94 1 39 1069987 20180610180058
+138.204.75.21 2 78 2139970 20180615143349
+189.191.163.226 0 1 177294 
+186.239.235.56 0 1 38080 
+203.217.150.77 0 1 177294 
+201.13.20.100 0 1 38080 
+79.111.93.0 0 1 52163 
+177.142.155.9 0 1 38080 
+138.204.70.251 2 2 5898 20180618114208
+115.84.92.192 2 2 5898 20180619091730
+186.239.235.57 2 40 1117624 20180625180511
+143.255.153.44 2 2 5898 20180619100053
+201.55.31.83 0 88 3241770 
+37.204.43.40 0 2 60213 
+177.159.99.89 2 2 5898 20180618130545
+143.255.153.98 2 2 5898 20180619083713
+46.42.164.194 0 1 11414 
+179.201.92.17 1 1 47622 20180627212428
+138.246.253.5 1 1 0 20180623002404
+54.205.227.65 0 3 256693 
+202.137.154.149 2 2 5898 20180620011144
+132.255.30.136 0 1 177294 
+134.19.230.129 1 1 2469 20180617161014
+95.220.93.6 0 1 10330 
+95.28.174.252 0 1 135 
+202.137.154.190 2 2 5898 20180620032600
+221.12.137.6 1 1 2469 20180617150128
+186.249.19.180 0 1 38080 
+46.161.9.9 1 1 21410 20180617105853
+176.193.185.206 0 1 35955 
+134.19.230.112 1 1 2469 20180617132607
+170.254.127.29 0 1 38080 
+183.88.235.217 2 2 5898 20180620052553
+187.180.204.187 0 1 177294 
+128.69.225.174 0 1 10056 
+189.40.103.62 0 1 177294 
+202.137.134.99 2 2 5898 20180620045438
+128.69.216.234 0 1 1424 
+115.84.92.204 2 2 5898 20180620024200
+177.19.164.147 2 2 5898 20180620061209
+177.38.190.203 2 2 5898 20180620022713
+181.112.140.74 2 2 5898 20180619071520
+177.38.192.35 2 2 5898 20180618204640
+187.72.2.145 0 1 38080 
+180.183.244.223 2 2 5898 20180618085740
+177.134.131.27 0 1 177294 
+200.204.164.239 2 18 738193 20180607124026
+143.255.153.149 2 2 5898 20180620064224
+186.204.172.142 0 23 974409 
+187.67.190.227 0 1 38080 
+154.241.37.1 0 12 545532 
+197.50.25.153 2 2 5898 20180619145758
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20180601 3 4 85695 3
+20180602 12 88 2313896 4
+20180603 2 2 47675 2
+20180604 2 5 409853 2
+20180605 4 6 215374 4
+20180606 4 42 729980 3
+20180607 5 21 741768 4
+20180608 4 22 664419 2
+20180609 2 3 38080 2
+20180610 3 43 1202704 3
+20180611 3 64 2288089 3
+20180612 3 5 215374 3
+20180613 3 60 2306975 3
+20180614 5 64 2280309 5
+20180615 5 82 2178050 4
+20180616 5 44 1201599 5
+20180617 5 23 864101 5
+20180618 47 92 1794619 24
+20180619 59 61 389991 30
+20180620 161 336 10593780 31
+20180621 4 27 1025637 4
+20180622 7 46 698993 6
+20180623 1 4 253454 1
+20180624 4 4 3575 4
+20180625 14 91 1601665 7
+20180626 32 33 52085 8
+20180627 26 64 1039326 10
+20180628 13 17 296478 7
+20180629 15 54 1119597 10
+20180630 11 255 12493374 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+1h+ 4
+5mn-15mn 2
+30mn-1h 3
+0s-30s 195
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 29
+/wp-login.php 165 480345 89 89
+/xmlrpc.php 89 37074 30 29
+/wp-admin/admin-ajax.php 78 226571 0 2
+/wp-cron.php 54 0 53 53
+/M%C3%B3dulo-1/ 14 636536 12 12
+/wp-admin/async-upload.php 11 18162 0 0
+/wp-admin/post.php 7 1420306 1 0
+/webmail 7 237741 4 4
+/wp-admin/load-scripts.php 6 662231 0 0
+/feed/ 5 17875 4 4
+/Copied-contato.php 3 69188 2 2
+/ 3 0 3 3
+/wp-admin/edit.php 2 215098 0 0
+/wp-json/oembed/1.0/embed 2 4406 0 0
+/wp-admin/load-styles.php 2 200926 0 0
+/contato.php 2 42618 1 1
+/m%C3%B3dulo-2/optimizer.php 2 28773 0 1
+/Processo-de-cria%C3%A7%C3%A3o.php 1 18119 1 1
+/wp-json/ 1 57726 0 0
+/wp-includes/wlwmanifest.xml 1 1045 0 0
+/wp-admin/ 1 131023 1 0
+/Modulo-3/ 1 178174 1 1
+/comments/feed/ 1 1658 0 0
+/neuroci%c3%aancias/promocional/ 1 27204 0 1
+/wp-includes/js/tinymce/wp-tinymce.php 1 182891 0 0
+/wp-includes/Text/ 1 326 1 1
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 17484 0 0
+/m%C3%B3dulo-2/rvsindex.php 1 5057 1 0
+/terceira_fase/rvsindex.php 1 21410 1 1
+END_SIDER

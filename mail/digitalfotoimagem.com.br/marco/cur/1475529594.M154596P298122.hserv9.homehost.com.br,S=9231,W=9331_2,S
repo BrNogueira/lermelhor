@@ -1,0 +1,100 @@
+Return-Path: <no-reply.sed01@educacao.sp.gov.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id eZjdB3rL8leKjAQAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Mon, 03 Oct 2016 18:19:54 -0300
+Return-path: <no-reply.sed01@educacao.sp.gov.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Mon, 03 Oct 2016 18:19:54 -0300
+Received: from mail-bn3nam01on0106.outbound.protection.outlook.com ([104.47.33.106]:35264 helo=NAM01-BN3-obe.outbound.protection.outlook.com)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <no-reply.sed01@educacao.sp.gov.br>)
+	id 1brAeP-001FNg-QN
+	for marco@digitalfotoimagem.com.br; Mon, 03 Oct 2016 18:19:54 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=seesp.onmicrosoft.com;
+ s=selector1-educacao-sp-gov-br;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=wcWTQ1kefgq7WtrKD2CMSicKo3guxBNjRgyHYLUBd8s=;
+ b=J4yg9ab+MymwxNCNBp9t7ANAJpXtZUIhPkdRcUXwTvICGHrE+366WEjG/7EFT666LQOPVahtG6lXGU9Z4v8wjzyqVgKE5aCzfsxtsdXRbZsdxX1OAIeNlXYiwUHMRyOEJWBIA2fHrpLC53FKaFoRCoI3vB7pcibjoImKw+cTA+c=
+Authentication-Results: spf=none (sender IP is )
+ smtp.mailfrom=no-reply.sed01@educacao.sp.gov.br; 
+Received: from sedsee-web3 (13.68.19.110) by
+ BLUPR80MB1251.lamprd80.prod.outlook.com (10.164.89.143) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.649.16; Mon, 3 Oct 2016 21:19:05 +0000
+MIME-Version: 1.0
+From: "no-reply@educacao.sp.gov.br" <no-reply.sed01@educacao.sp.gov.br>
+To: "no-reply@educacao.sp.gov.br" <marco@digitalfotoimagem.com.br>
+Date: Mon, 3 Oct 2016 18:19:04 -0300
+Subject: =?utf-8?B?U2VuaGEgcGFyYSBBdXRlbnRpY2HDp8OjbyBuYSBTZWNyZXRh?=
+ =?utf-8?B?cmlhIEVzY29sYXIgRGlnaXRhbA==?=
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+X-Originating-IP: [13.68.19.110]
+X-ClientProxiedBy: DM5PR02CA0053.namprd02.prod.outlook.com (10.168.192.15) To
+ BLUPR80MB1251.lamprd80.prod.outlook.com (10.164.89.143)
+Message-ID:
+	<BLUPR80MB1251AAB6D52C291BE26DC6DCA1C20@BLUPR80MB1251.lamprd80.prod.outlook.com>
+X-MS-Office365-Filtering-Correlation-Id: 4e60892a-0f39-4d24-2ac7-08d3ebd2e7fc
+X-Microsoft-Exchange-Diagnostics:
+	1;BLUPR80MB1251;2:mJRidUDCA/HZdMDN9AoR6l7Lyn1wW2Uy+Q4KElg0uM0eWbVLalki13FDv2GPkCdUcI3hIynUS7U2I9qXrHcdukvwozyyLCpIa29LE+m07BreamQJWTSDoo/7TcADN8NpvIohpU4XjsCzAewqwaQqEsehN7y7mQV+NIKK4ZM4c4By2hoL3YOKtKzlyB7H4TLFh66h3W8iU0Cc4lbn5P5LMA==;3:4/BOxFH0GKqeEPuBjTZXwrIiH9AhuhTJYDpRsYQmd6sr0Pv21OEXqcqhJ4SbywqdpZDV187Bp2cEl23neJWJ2jgOonJBz1y2zz+ysHhgf1kvu5WEYGivoLXQT+w7y1xTEQfYAAEuZDposIlM3A3unQ==
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BLUPR80MB1251;
+X-Microsoft-Exchange-Diagnostics:
+	1;BLUPR80MB1251;25:HLzYBLrYJJNg90j0yyeBaG2Ps97hgYuQbQ6+1Gdagoq3WxRZzFWFPBQFEiBhJt/xVwkNoR0MrnBrXSNDH5X2SfInE9mGTt3ixZWTCtcREFi7A+xTwZVBIndTQu6dpQUYswT3PofxjTlMUWUOxzg0ORVSp+j3spAcusi/w6jWsv5jEcXGZPgCuS9mXYMsPLZn50/0yqsXrAHDSSsaiqSVYciUQa0ajNfW1hwDWZXsGNqV35x9Ehg3ptJTx+GbxcG2rqM3p37vySLKck2N98iAwEwYFT4i8pUT6NyMzDOXwyFVQxUMkckJmP/4GpJCSLWgQZvv5PQiyJ5ZqEWrys9TmZ5J9KjNtT3saf0ybH0qv/v9dlOCZMM7l8TMc9sqJd0yg1Z/j0mMbMVA4FgtZaEufPKmKCN7jbuqhsm34Nnl2Lvr/SDUagRo2baRDE4raPft8/j8p9crdmbUQan5P8j22ghBOIc08AVMcHd7uVAUdJ+51kTTAadI1uC5FKLpncEo7qJMT1U9rEue2b6iNVASjmlouePAZZQPMDmSvDdyhSXCnU3b5wYGByH7xyQWc7hmi4hGI76goZseXVn/ITSfO4NFjpzXbRuUf6UDhdPnDfkto6vcJDzyPhLS2piYu10OAZhYMtH6A8cc7x78gFrxkuRPEWFWxlaJHcYrs9H7xg5F6JtJ1zBtHmnxrYqoLGDYcIM+HI/Wfufk9LE6Y+t2VFqnrRsaHBM0JtZJ2rECX8nyiCuasEuwX/64xVbWL5+VUNVGq6Lfjq7htbS6/lSdrS5CL02utcwpJ6LunBO2ar8=
+X-Microsoft-Exchange-Diagnostics:
+	1;BLUPR80MB1251;31:lOHWoeXd2jKdaoG05XbLgn4pxGFduvT3rLaJ84SMYrcMb1S70R69ZLSFnIbXzNsUB3gpC2GouL9pdEj07VnSJ9TFttvM5g75HaqbPEKG72U/7MuKd+jvOXKYYxlOYfv98fy8dOaVtIlL47qdtt929i1cGaVHzwTjaQJtJXGnjCrMW06DPJWuyJk28Bu1TdH04JFjuRD3CbX7TUW4IM0iX5dkVCQs/2KRYvoIfkrCF2EERnkaONFIQC3ufUefMK9r;4:3XUrexmFUdMkfH4HSAhePmiOdkhjRemv1whtUBu0kx5L/8EHvO+bN/utOjxsDXh8hvzcs5DeR3Cnvq49iTx8XlAlpCk3WKDP/+U75eMI4Q1TXcgvIp9epvIljmYSJBneFBDU80cuVFn5Zy1GOqIU4F9HxRylMKc/JIBYfrPGgAA1XjGj9gmDvHRBK6Px7mrhue1svgM/T3lIb7zGS83RyuZ4kfwKgw+RIWY7r9Goy10hOtRRlUKZctD7uMKoD1jgThJ2do76ICE9kBTZJU0v74MMhx5BklLzzLlS3fU7nL+ttycmBVif0XMNzT39ug2XQZNylTrVeLH7HKE6rHpiKL/wL6HrjRBSUmB/Jske4vQnUZvJr9mbTDoZlE8x3ZJR3uTks+sl+23RWlfOQZ6/Qw==
+X-Microsoft-Antispam-PRVS:
+	<BLUPR80MB1251B6C738F1EB30D300332BA1C20@BLUPR80MB1251.lamprd80.prod.outlook.com>
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test:
+	BCL:0;PCL:0;RULEID:(6040176)(601004)(2401047)(8121501046)(5005006)(3002001)(10201501046);SRVR:BLUPR80MB1251;BCL:0;PCL:0;RULEID:;SRVR:BLUPR80MB1251;
+X-Forefront-PRVS: 008421A8FF
+X-Forefront-Antispam-Report:
+	SFV:NSPM;SFS:(10019020)(4630300001)(6009001)(7916002)(199003)(189002)(50466002)(42186005)(74316002)(6116002)(92566002)(3846002)(81156014)(77096005)(2906002)(54356999)(50986999)(33656002)(586003)(81166006)(75922002)(450100001)(224303003)(9686002)(7846002)(66066001)(305945005)(74482002)(105586002)(106356001)(229853001)(86362001)(2351001)(7736002)(42882006)(189998001)(97736004)(110136003)(6916009)(107886002)(558084003)(101416001)(23676002)(23846002)(5660300001)(76576001)(68736007)(89072001)(107986001)(491001);DIR:OUT;SFP:1102;SCL:1;SRVR:BLUPR80MB1251;H:sedsee-web3;FPR:;SPF:None;PTR:InfoNoRecords;A:0;MX:1;LANG:pt;
+Received-SPF: None (protection.outlook.com: educacao.sp.gov.br does not
+ designate permitted sender hosts)
+X-Microsoft-Exchange-Diagnostics:
+	=?utf-8?B?MTtCTFVQUjgwTUIxMjUxOzIzOklmeTdTaW8zZmNwOU9VcFJUWmg4NnFDajh6?=
+ =?utf-8?B?d3I2OUVyNFJ6dE1EdVdCZ05kQ0dWQ3pKVG9Zcyt1NXFZY0kzNXAxNjFIMWVN?=
+ =?utf-8?B?elRkMHhJZFRGT051Q25GQlB3RUVBQXdpRks2RkxvL2dObWYvTWpsNmFWc2Mv?=
+ =?utf-8?B?RjFJU0pXaWZCM1RqTlJWZWJHWFVqT01SOWtMcnVVWmFkaW1XVUVqVDZDeUx3?=
+ =?utf-8?B?L3BkTzBVTkE0d3NvTy9xMXNVRXhFalRvQk8rdDIwZVpnWkJFVVo3QUZYN3F0?=
+ =?utf-8?B?Q1RmZUxrc0pyUHR5OEFNeEhab0s5KytEa2VURGJvNEpINWlQMUxuMElqRWR6?=
+ =?utf-8?B?WjBNOXNYWmhvTit3UjhlVkx6WVdrYjl1REJwZ3dNeHUwbEZ6SHNjS0ltWlg3?=
+ =?utf-8?B?YjZSejRmcm9BakdMRXRZcXBNVDVBc3BTc0dRQ0VwUGphOElDUXBhMlVpZ2U3?=
+ =?utf-8?B?aFM1aVIwZkMvM2ZtdmNHNjNnQzMvSzRhRTVYSk4yMUpvVnNyYW5PZGljcDhm?=
+ =?utf-8?B?VXhUcUpnRVV5Q2U5NHdHRmxKTDNWTmJHOG5HSGVLYVZwNlFkbUhZQ21WMjRN?=
+ =?utf-8?B?TkIwdkpzVndsOWdSMUFRY2tsMVpUUUpzUmNqT1V3VGtZWGoxK2IrM1dybVdX?=
+ =?utf-8?B?b3JuYXh0Zk9zS2RLVmI1V09zL21hb3o2dlk3S0tXVStta1hhS0FUR215V0lO?=
+ =?utf-8?B?dUQvWG96S3RFNjNjbG8wOW11QkFiTmNUZjN0NVQvZGhzRHZ3R1hkcjhPL1hD?=
+ =?utf-8?B?Ny9SOStPYzBmREpWTE1FWExhcWtmR25XanJQWTIwYkszWWxCYmwxSmZPQUUr?=
+ =?utf-8?B?c0RRTjdYSHpqTFlmd0FUcWk5NTNFOVBkSFBUSXZMNnZxazdqSWEzMFdHemlX?=
+ =?utf-8?B?UXFZTVNndzljNGlsRkpIaTVXL0huemI1b2pZMktXdUlSbGxkbnlKWWRhNWhH?=
+ =?utf-8?B?elgxb2tkbWRPRkYzWGdyaU90S2VCRmtwRjV1dlhxelVkWjM1T1FtdDhjU25k?=
+ =?utf-8?B?cXVyT29mU3h6b1FhU0FRbWh1R1dqeVhzZmNJbmR5QXFyQmp1UzhhK0xiNlBB?=
+ =?utf-8?B?QjhMcjU2K2JFWm1nV0QzM2E0TUtIQmw3WHEvZXpQNHlpSnJrUDgyT0UzdUo5?=
+ =?utf-8?B?SHBUaEdua2t2NXdYWklwV21wS2NCcWoySkFXeHlOVGRmWFVwdUt1STIwSXk4?=
+ =?utf-8?B?dnZOT3JMYTdYOW9KZ0hIQ3ljdStYbHl1cVVONUg0NmJZeis1d0lPbjJHVjkw?=
+ =?utf-8?B?VUhmVGRkSnpRVXhCalBWSll0UlRvQjRIcFk3M01HSlYxVFpkUmJ1VjFBOXVC?=
+ =?utf-8?B?eEZ4UnpwRDFpVFBMNDA2UGlXOCszQ1FCOUZFRDNXdzFLeHF0QXZWWjRVcVI0?=
+ =?utf-8?B?QUxXdW5nNERpaE5lME9UdzUweC9nVXBzcWFRWHBwTFZNWk02QUdRS3crb2lX?=
+ =?utf-8?B?bS9XbnVsNm44N3hpOXNpcDNSbFlSQ3RlQ0RUZFZrOFAvVVNpTjdvdjVTYkw4?=
+ =?utf-8?B?WVpoYlZmUkQ3cm9JYkpoekpqQk14M2YxN3Y5aU1NWU11WktnRHlPYzZIanlD?=
+ =?utf-8?B?VXJxZDl1V2xDUkk0ajJJaGZQUnlaZWc3NUJpMVlBQnJaYTRSem5BakFKTWxz?=
+ =?utf-8?Q?m5cCaW7kRFamneEFkblF?=
+X-Microsoft-Exchange-Diagnostics:
+	1;BLUPR80MB1251;6:1wZ6nLewLxTnqGk3+N/JOaAl53/sS9TCwP2VQ4Cfm+TqGoDf6LfL6q2MUU9CtSgu+NDDj9Wp2tOCbOowsUOuSPAVr49OrnpaFnESxBqgUYZvvvQNNelFph/+1S/LV/vGdp4GhjwQXKvATiyfc1XEIMcu7JoUD0jlocJgxcbjaXRgY8VOBqL22neOg47EEvOh+/pKOYU65/h5roGTBib/Rgy8s16BDfAi/ZqPQOCSBPOlqoaKd7cLGbMZWO7ND1ODH1iJ3ashLuKYzUR+m1rlTnZD23urFjfKNVqtxhdMpTXm/+OLFYKxxrH0mdHAbNlN;5:gFIrIFX34ZF+XlgKyduMhsanbA+mq2sRbxFiGPY6yPZHgc77a7Ez31y8oFpyVecIVvKVmrnQwZbpWb4LUBK5xQ7C3kOPDZWESqeFo9TJFyJ1xvWynL786Z7z76GFssnYAQ0F10h0EgKsitxfHBBGc28q+9FnoH3I8vTQKeI9Zlc=;24:8QFiuO4B9Nof4+r8vtINwKOFxSU9HWHN6/drpNcQmSgFQepRXVn0ZHcSnr3BEEBOX4GASFVQ+3F9HA5M0RlWbdpkrCJBVUKVDu6fApJhxZg=;7:iEx7gX2VOSJ8uRDAorbx3fvSCYPwJp/a3vLiCISOIIRihZRj6xcqh3kI2d/Lp1Tezm4MeJHrFmmLq1CkPbIc0wgBLfk8kKnK8sX1ronELb2kiK0GUjOrMO5CaafR9GsYeJ0F1paouTScBixdU+Gy4JIKjgZ9HnsjnGyNuHrareqeYISKTuq74ncoAjQQuRH3r1dI9aa2BRGvJNfWB4D9Jld17wMrzOAGjGPXFwYZCD13P3zV9fxcuK2OIS0WdEl6ukh397qNCidkRiv6EPIMsSmjRd3P1HcMAINjuql91otbUJYnJowekidHQ9CIFQcJSyyY31DSOWTYwY/0l+rwjA==
+SpamDiagnosticOutput: 1:99
+SpamDiagnosticMetadata: NSPM
+X-Microsoft-Exchange-Diagnostics:
+	1;BLUPR80MB1251;20:yfxPvJi6ZJAkTSf5dHuod/ggSEOF7TcORyzpWTs64ngo1ndJ7mVFc79rjeZUvU2SqtD8MFtjBy8qaVlBW1qbJyJ6GvSs4e1oXyFlbN7mK1YZmM5t0ifiQ6j2xhXV4BlMxrw3XFEkz/KbWc/FOtJgNv51ea91NVvscXaXKMtUmgY=
+X-OriginatorOrg: educacao.sp.gov.br
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 03 Oct 2016 21:19:05.4962 (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLUPR80MB1251
+
+PHA+U2V1IGxvZ2luIHBhcmEgb3Mgc2lzdGVtYXMgZGEgU2VjcmV0YXJpYSBFc2NvbGFy
+IERpZ2l0YWwgw6kgIHJnMTA4OTAzODg2c3A8L3A+IDxwPlN1YSBzZW5oYSBwYXJhIGF1
+dGVudGljYcOnw6NvIMOpIEFpUVF4UEhWPC9wPg==
+

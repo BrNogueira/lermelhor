@@ -1,0 +1,78 @@
+Return-Path: <>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from h9.servidorhh.com
+	by h9.servidorhh.com with LMTP id UNdmJj4y51v6JgcArjWGVg
+	for <marco@digitalfotoimagem.com.br>; Sat, 10 Nov 2018 17:32:14 -0200
+Return-path: <>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sat, 10 Nov 2018 17:32:14 -0200
+Received: from mailnull by h9.servidorhh.com with local (Exim 4.91)
+	id 1gLYzO-0021a4-CM
+	for marco@digitalfotoimagem.com.br; Sat, 10 Nov 2018 17:32:14 -0200
+X-Failed-Recipients: diplocanudos@uol.com.br
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@h9.servidorhh.com>
+To: marco@digitalfotoimagem.com.br
+Content-Type: multipart/report; report-type=delivery-status; boundary=1541878334-eximdsn-411851740
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1gLYzO-0021a4-CM@h9.servidorhh.com>
+Date: Sat, 10 Nov 2018 17:32:14 -0200
+
+--1541878334-eximdsn-411851740
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  diplocanudos@uol.com.br
+    host mx.uol.com.br [200.147.36.15]
+    SMTP error from remote mail server after RCPT TO:<diplocanudos@uol.com.br>:
+    450 4.1.8 <marco@digitalfotoimagem.com.br>: Sender address rejected:
+    Domain not found: retry timeout exceeded
+
+--1541878334-eximdsn-411851740
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; h9.servidorhh.com
+
+Action: failed
+Final-Recipient: rfc822;diplocanudos@uol.com.br
+Status: 5.0.0
+Remote-MTA: dns; mx.uol.com.br
+Diagnostic-Code: smtp; 450 4.1.8 <marco@digitalfotoimagem.com.br>: Sender address rejected: Domain not found: retry timeout exceeded
+
+--1541878334-eximdsn-411851740
+Content-type: message/rfc822
+
+Return-path: <marco@digitalfotoimagem.com.br>
+Received: from [::1] (port=33426 helo=h9.servidorhh.com)
+	by h9.servidorhh.com with esmtpa (Exim 4.91)
+	(envelope-from <marco@digitalfotoimagem.com.br>)
+	id 1gK6An-001X5F-Gh
+	for diplocanudos@uol.com.br; Tue, 06 Nov 2018 16:34:07 -0200
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+Date: Tue, 06 Nov 2018 16:33:57 -0200
+From: marco@digitalfotoimagem.com.br
+To: diplocanudos@uol.com.br
+Subject: Canudos de formatura
+Message-ID: <dd5aac5d9e5d3333fe5f8bc33062c2d9@digitalfotoimagem.com.br>
+X-Sender: marco@digitalfotoimagem.com.br
+User-Agent: Roundcube Webmail/1.3.3
+X-OutGoing-Spam-Status: No, score=0.2
+
+Boa tarde Daiana a empresa estava com este email digitalfotoimagem.
+
+Mas por favor responda com cópia neste  email: parise@lermelhor.com.br
+
+Canudos de formatura para E.E. Prof. Fernandes Soares
+
+Marco Parise:
+98950-0303
+
+--1541878334-eximdsn-411851740--

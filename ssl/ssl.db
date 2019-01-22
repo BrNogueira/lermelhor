@@ -1,0 +1,40 @@
+--- 
+files: 
+  certificate: 
+    lermelhor_com_br_e05f2_d62bf_1551760799_058ea97f5cc163d06e6fda958de025f1: 
+      created: '1543988400'
+      domains: 
+        - lermelhor.com.br
+        - mail.lermelhor.com.br
+        - www.lermelhor.com.br
+      friendly_name: lermelhor.com.br, mail.lermelhor.com.br e www.lermelhor.com.br
+      id: lermelhor_com_br_e05f2_d62bf_1551760799_058ea97f5cc163d06e6fda958de025f1
+      is_self_signed: 0
+      issuer.commonName: Let's Encrypt Authority X3
+      issuer.organizationName: Let's Encrypt
+      modulus: e05f212be1697bfe36663c33acc0effd3b152916cbd112899f0ce711c43d496e49ac1d96c59cc4198d6022734c646ab95242e35c69d72aed7459a08f1bde7008b9a16b750a1e7aaeece82cc85283608c7200bba9acdef5cc507532ab473649d73420014ffc10d497c2ea3707d0261af3b3d52cc39687b23629afb6e1663c45c8c68db4701ee2bbb92df5cc1befee7d567392b7493d4351522b7584d3aad796231c1225a3fda6d1019f0abb7d2c7f43adf898381cc82c255bc935e53f542b23a0d4e643b13af921d1edb2faaecf199dc6543c8d0a183c896ff418cee36208b7f70f8249f13a7a64508c413883e0897824cabde638361ec54074a2e762478d62bf
+      modulus_length: 2048
+      not_after: '1551760799'
+      not_before: '1543984799'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: lermelhor.com.br
+      validation_type: dv
+  key: {}
+
+indexes: 
+  certificate: 
+    modulus: 
+      e05f212be1697bfe36663c33acc0effd3b152916cbd112899f0ce711c43d496e49ac1d96c59cc4198d6022734c646ab95242e35c69d72aed7459a08f1bde7008b9a16b750a1e7aaeece82cc85283608c7200bba9acdef5cc507532ab473649d73420014ffc10d497c2ea3707d0261af3b3d52cc39687b23629afb6e1663c45c8c68db4701ee2bbb92df5cc1befee7d567392b7493d4351522b7584d3aad796231c1225a3fda6d1019f0abb7d2c7f43adf898381cc82c255bc935e53f542b23a0d4e643b13af921d1edb2faaecf199dc6543c8d0a183c896ff418cee36208b7f70f8249f13a7a64508c413883e0897824cabde638361ec54074a2e762478d62bf: 
+        lermelhor_com_br_e05f2_d62bf_1551760799_058ea97f5cc163d06e6fda958de025f1: ~
+    subject.commonName: 
+      lermelhor.com.br: 
+        lermelhor_com_br_e05f2_d62bf_1551760799_058ea97f5cc163d06e6fda958de025f1: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      lermelhor.com.br, mail.lermelhor.com.br e www.lermelhor.com.br: lermelhor_com_br_e05f2_d62bf_1551760799_058ea97f5cc163d06e6fda958de025f1
+  key: 
+    friendly_name: {}
+
+    modulus: {}
+

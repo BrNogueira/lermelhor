@@ -1,0 +1,327 @@
+Return-Path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id ITgIIr8mr1glzwMAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Thu, 23 Feb 2017 15:15:27 -0300
+Return-path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 23 Feb 2017 15:15:27 -0300
+Received: from e.gospmail.org.br ([177.139.181.238]:63301 helo=gospmail.org.br)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>)
+	id 1cgxvK-0013Ts-RX
+	for marco@digitalfotoimagem.com.br; Thu, 23 Feb 2017 15:15:27 -0300
+Received: from localhost (e [127.0.0.1])
+	by gospmail.org.br (Postfix) with ESMTP id 7B2D01BE2EE3
+	for <marco@digitalfotoimagem.com.br>; Thu, 23 Feb 2017 15:14:39 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at gospmail.org.br
+X-Amavis-Alert: BAD HEADER SECTION, Non-encoded 8-bit data (char E7 hex):
+	List-ID: Comunica\347\343o e Imprensa
+Received: from gospmail.org.br ([127.0.0.1])
+	by localhost (gospmail.org.br [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id E8dbVIOdV2oD; Thu, 23 Feb 2017 15:14:36 -0300 (BRT)
+Received: from o3.jiveon.jivesoftware.com (o3.jiveon.jivesoftware.com [167.89.36.126])
+	by gospmail.org.br (Postfix) with ESMTPS id BA6021BE533E
+	for <288380@gospmail.org.br>; Thu, 23 Feb 2017 14:05:51 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=jiveon.jivesoftware.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-id; 
+	s=smtpapi; bh=rn2h4Fv7L4ip2UBwt/yiymyXn9k=; b=sOUPs8/eQgR9BnPifA
+	m/chg69qh5A6YLtU5I1+rfcIF0lErgIIWPXscEycO8CEH6DnZHQdw1C6Bey8gFxu
+	FtE7JMkCml806y3Iui6OrJ3UlbUf5pe6TyuCAJtXDoiuhbKnhejrasc+Y8xz0GPA
+	xPzDrmkJI8enJqaR9rmxL/jFo=
+Received: by filter0038p1las1.sendgrid.net with SMTP id filter0038p1las1-4892-58AF166D-19
+        2017-02-23 17:05:49.705753773 +0000 UTC
+Received: from jiveon-mx3-out.phx1.jivehosted.com (jiveon-mail.phx1.jivehosted.com [204.93.64.13])
+	by ismtpd0003p1las1.sendgrid.net (SG) with ESMTP id Jq7ZkIhxRYqJ_rDBSsDoFA
+	for <288380@gospmail.org.br>; Thu, 23 Feb 2017 17:05:49.596 +0000 (UTC)
+Received: from gosp-x-jc-t-wa01.dynphx1.jivehosted.com (ip54-vlb1-services.phx1.jivehosted.com [10.160.25.54])
+	by jiveon-mx3-out.phx1.jivehosted.com (Postfix) with ESMTP id BA06C25071
+	for <288380@gospmail.org.br>; Thu, 23 Feb 2017 17:05:48 +0000 (GMT)
+Date: Thu, 23 Feb 2017 14:05:49 -0300
+From: 179837 <gosp-x@jiveon.com>
+Reply-To: jive-2051250212-7qj-12-1w6@mail.gosp-x.jiveon.com
+To: Marco Parise <288380@gospmail.org.br>
+Message-ID: <38-2454-3-2403-1487868525162.jive.jivemailuser@https://gosp-x.jiveon.com>
+Subject: =?UTF-8?Q?[Comunica=C3=A7=C3=A3o_e_Imprensa]_?=
+ =?UTF-8?Q?-_ARLS_TEMPL=C3=81RIOS_DO_S=C3=89TIM?=
+ =?UTF-8?Q?O_MIL=C3=8ANIO_INICIA_DOIS_NOVO?=
+ =?UTF-8?Q?S_IRM=C3=83OS_EM_RIBEIR=C3=83O_PRETO?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_37533_2027967171.1487869549253"
+Auto-Submitted: auto-replied
+X-Auto-Response-Suppress: OOF
+List-ID: Comunicação e Imprensa
+Content-Disposition: inline
+X-Jive-Office: jive-2051250212-7qj-12-1w6@mail.gosp-x.jiveon.com
+X-SG-EID: MC+mAxPPER372lmDFdFHyMxARzYmaHZCEvHbMx1UJ2gcpi+7HEXP5FPKoyigLIUKcb8gORHVl8qXux
+ Fzp8yEFC5oYqL0BKcYDFs1D+3KCy4PELK6F5s+WJFaEf3Zyb8bzgLeSF5D2wh9hfJnV0a3JbT9BAiF
+ gdNaOGJJLz4CfvS8zAZGQL52TdgrIXK9Wt+lvEbyD8I9dKCptxcSnFAQfA==
+X-SG-ID: 6Iv2lwEhBxW0L1FeqtuSgBOmISLrKUu9Fa/YMNgnbEH7q/ej1uAa0ra5fG4wBOwChhZ/Vr8IkdnZdE
+ 02uG/BZtsAjM1UFsYdAxoDs7l3rl8=
+
+------=_Part_37533_2027967171.1487869549253
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_37532_934132354.1487869549253"
+
+------=_Part_37532_934132354.1487869549253
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+S=C3=A9rgio Ayres [https://gosp-x.jiveon.com/people/179837?et=3Dwatches.ema=
+il.blog] criou a postagem de blog:
+"ARLS TEMPL=C3=81RIOS DO S=C3=89TIMO MIL=C3=8ANIO INICIA DOIS NOVOS IRM=C3=
+=83OS EM RIBEIR=C3=83O PRETO"=20
+
+Para visualizar a postagem do blog, visite: https://gosp-x.jiveon.com/commu=
+nity/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog=
+/2017/02/23/arls-templ%C3%A1rios-do-s%C3%A9timo-mil%C3%AAnio-inicia-dois-no=
+vos-irm%C3%A3os-em-ribeir%C3%A3o-preto?et=3Dwatches.email.blog
+
+--------------------------------------------------------------
+https://gosp-x.jiveon.com/servlet/JiveServlet/showImage/38-2454-89613/2.jpg=
+  https://gosp-x.jiveon.com/servlet/JiveServlet/downloadImage/38-2454-89613=
+/2.jpg  https://gosp-x.jiveon.com/servlet/JiveServlet/showImage/38-2454-896=
+14/3.jpg  https://gosp-x.jiveon.com/servlet/JiveServlet/downloadImage/38-24=
+54-89614/3.jpg=20
+
+*Oficina recebe dois novos Aprendizes.*
+=C2=A0
+Foi realizada, no dia 22 de fevereiro, na ARLS Templ=C3=A1rios do S=C3=A9ti=
+mo Mil=C3=AAnio 3449, em seu Templo situado na Rua Francisca Massaro Farinh=
+a, 385, Oriente de Ribeir=C3=A3o Preto, Sess=C3=A3o Magna de Inicia=C3=A7=
+=C3=A3o.
+=C2=A0
+Comandada pelo seu Vener=C3=A1vel Mestre, Irm=C3=A3o Silvio Aparecido Prado=
+ Garcia, nela foram Iniciados os Irm=C3=A3os Luiz Guilherme Hernandes Ferna=
+ndes e Guilherme Lu=C3=ADs de Oliveira.
+=C2=A0
+A cerim=C3=B4nia contou com a presen=C3=A7a de 26 Irm=C3=A3os do Quadro mai=
+s 05 Irm=C3=A3os Visitantes.
+=C2=A0
+*+Secretaria Estadual de Comunica=C3=A7=C3=A3o e Imprensa - GOSP+*
+*+Irm=C3=A3o Ant=C3=B3nio El=C3=B3i Berto+*
+*+Oficial de Comunica=C3=A7=C3=A3o e Imprensa da 6=C2=AA Macrorregi=C3=A3o+*
+--------------------------------------------------------------
+
+Comente respondendo a este e-mail ou v=C3=A1 para a postagem do blog em RED=
+E SOCIAL DO GOSP
+[https://gosp-x.jiveon.com/community/secretarias/grande-secretaria-de-comun=
+ica%C3%A7%C3%A3o-e-imprensa/blog/2017/02/23/arls-templ%C3%A1rios-do-s%C3%A9=
+timo-mil%C3%AAnio-inicia-dois-novos-irm%C3%A3os-em-ribeir%C3%A3o-preto]
+
+
+Este e-mail foi enviado pela REDE SOCIAL DO GOSP porque voc=C3=AA =C3=A9 um=
+ usu=C3=A1rio registrado.
+Voc=C3=AA pode cancelar a assinatura agora mesmo em https://gosp-x.jiveon.c=
+om/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0=
+ee232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c ou ajustar a frequ=C3=AA=
+ncia de e-mail nas prefer=C3=AAncias do seu e-mail (https://gosp-x.jiveon.c=
+om/user-preferences!input.jspa).
+
+------=_Part_37532_934132354.1487869549253
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+=09
+	<title></title>
+	<style type=3D"text/css">
+    * {
+		margin: 0;
+		padding: 0;
+	}
+	a {
+		color: #3778C7 !important;
+	}
+	body {
+		font-family: Helvetica, Arial, sans-serif;
+		-webkit-text-size-adjust: 100%;
+	}
+	/* Webkit */
+	h1, h2, h3, h4, h5, h6, p, hr {
+		-webkit-margin-before: 0;
+		-webkit-margin-after: 0;
+		-webkit-margin-start: 0;
+		-webkit-margin-end: 0;
+	}
+	.button td {
+		background-image: -moz-linear-gradient(top, #75B7E3 0%, #5498D6 50%, #408=
+BD0 51%, #387AC8 100%) !important;
+		background-image: -webkit-gradient(linear, left top, left bottom, color-s=
+top(0%,#75B7E3), color-stop(50%,#5498D6), color-stop(51%,#408BD0), color-st=
+op(100%,#387AC8)) !important;
+		-webkit-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !impo=
+rtant;
+		-moz-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !importa=
+nt;
+	}
+	</style>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+</head>
+<body style=3D"width:100% !important; -webkit-font-smoothing: antialiased; =
+-webkit-text-size-adjust: 100%;">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff=
+" width=3D"100%" style=3D"background-color: #ffffff; margin: 0; padding: 0;=
+">
+		<tbody>
+			<tr>
+				<td style=3D"padding: 20px 20px 20px 20px;">
+<table class=3D"header" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wi=
+dth=3D"100%">
+	<tbody>
+		<tr>
+			<td valign=3D"top" align=3D"left">
+				<h1 style=3D"color: #333333; margin: 0 0 20px 0; font-weight: normal; f=
+ont-size: 24px; font-family: Helvetica, Arial, sans-serif; text-shadow: rgb=
+a(255,255,255,.9) 0 1px 0;">
+					<!-- To have a header image/logo replace the name below with your img =
+tag -->
+					<!-- Email clients will render the images when the message is read so =
+any image -->
+					<!-- must be made available on a public server, so that all recipients=
+ can load the image. -->
+					<a href=3D"https://gosp-x.jiveon.com/?et=3Dwatches.email.blog" style=
+=3D"color:#333333 !important; text-decoration: none;">
+							<font color=3D"#333333" style=3D"color:#333333;">REDE SOCIAL DO GOSP=
+</font>
+					</a>
+				</h1>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class=3D"content" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ff=
+ffff" border=3D"0" width=3D"100%" style=3D"width: 100%; -moz-border-radius:=
+ 8px; -webkit-border-radius: 8px; border-radius: 8px;">
+	<tbody>
+		<tr>
+			<td valign=3D"middle" style=3D"padding-top: 10px; padding-right: 0px; pa=
+dding-bottom: 20px; padding-left: 0px;"><h2 style=3D'color: #666666; margin=
+: 0 0 0 0; font-weight: normal; font-size: 24px; font-family: Helvetica, Ar=
+ial, sans-serif;'>
+    ARLS TEMPL=C3=81RIOS DO S=C3=89TIMO MIL=C3=8ANIO INICIA DOIS NOVOS IRM=
+=C3=83OS EM RIBEIR=C3=83O PRETO
+</h2>
+
+<p style=3D'color: #999999; margin-bottom: 20px; font-size: 12px; line-heig=
+ht: 18px; font-family: Helvetica, Arial, sans-serif;'>
+criado por <a href=3D"https://gosp-x.jiveon.com/people/179837?et=3Dwatches.=
+email.blog" style=3D'color: #3778C7; text-decoration: none;'>S=C3=A9rgio Ay=
+res</a> em <i>Comunica=C3=A7=C3=A3o e Imprensa</i> - <a href=3D"https://gos=
+p-x.jiveon.com/community/secretarias/grande-secretaria-de-comunica%C3%A7%C3=
+%A3o-e-imprensa/blog/2017/02/23/arls-templ%C3%A1rios-do-s%C3%A9timo-mil%C3%=
+AAnio-inicia-dois-novos-irm%C3%A3os-em-ribeir%C3%A3o-preto?et=3Dwatches.ema=
+il.blog" style=3D'color: #3778C7; text-decoration: none;'>Visualize a posta=
+gem de blog completa</a></p>
+
+<hr style=3D'background-color: #cccccc; height: 1px; margin-bottom: 20px; b=
+order: none;'>
+
+<div style=3D'color: #666666; margin-bottom: 20px; font-size: 14px; line-he=
+ight: 20px; font-family: Helvetica, Arial, sans-serif;'>
+<div class=3D"jive-rendered-content"><p><a href=3D"https://gosp-x.jiveon.co=
+m/servlet/JiveServlet/showImage/38-2454-89613/2.jpg"><span> https://gosp-x.=
+jiveon.com/servlet/JiveServlet/downloadImage/38-2454-89613/2.jpg </span></a=
+><a href=3D"https://gosp-x.jiveon.com/servlet/JiveServlet/showImage/38-2454=
+-89614/3.jpg"><span> https://gosp-x.jiveon.com/servlet/JiveServlet/download=
+Image/38-2454-89614/3.jpg </span></a></p><p style=3D"min-height: 8pt; paddi=
+ng: 0px;">&#160;</p><p style=3D"margin: 0cm 0cm 0pt;"><strong style=3D"font=
+-size: 12pt;">Oficina recebe dois novos Aprendizes.</strong></p><p style=3D=
+"margin: 0cm 0cm 0pt;"><span style=3D"font-size: 12pt;">&#160;</span></p><p=
+ style=3D"margin: 0cm 0cm 0pt;"><span style=3D"font-size: 12pt;">Foi realiz=
+ada, no dia 22 de fevereiro, na ARLS Templ&aacute;rios do S&eacute;timo Mil=
+&ecirc;nio 3449, em seu Templo situado na Rua Francisca Massaro Farinha, 38=
+5, Oriente de Ribeir&atilde;o Preto, Sess&atilde;o Magna de Inicia&#231;&at=
+ilde;o.</span></p><p style=3D"margin: 0cm 0cm 0pt;"><span style=3D"font-siz=
+e: 12pt;">&#160;</span></p><p style=3D"margin: 0cm 0cm 0pt;"><span style=3D=
+"font-size: 12pt;">Comandada pelo seu Vener&aacute;vel Mestre, Irm&atilde;o=
+ Silvio Aparecido Prado Garcia, nela foram Iniciados os Irm&atilde;os Luiz =
+Guilherme Hernandes Fernandes e Guilherme Lu&#237;s de Oliveira.</span></p>=
+<p style=3D"margin: 0cm 0cm 0pt;"><span style=3D"font-size: 12pt;">&#160;</=
+span></p><p style=3D"margin: 0cm 0cm 0pt;"><span style=3D"font-size: 12pt;"=
+>A cerim&ocirc;nia contou com a presen&#231;a de 26 Irm&atilde;os do Quadro=
+ mais 05 Irm&atilde;os Visitantes.</span></p><p style=3D"margin: 0cm 0cm 0p=
+t;"><span style=3D"font-size: 12pt;">&#160;</span></p><p style=3D"margin: 0=
+cm 0cm 0pt;"><strong><em style=3D"font-size: 12pt;">Secretaria Estadual de =
+Comunica&#231;&atilde;o e Imprensa - GOSP</em></strong></p><p style=3D"marg=
+in: 0cm 0cm 0pt;"><strong><em style=3D"font-size: 12pt;">Irm&atilde;o Ant&o=
+acute;nio El&oacute;i Berto</em></strong></p><p style=3D"margin: 0cm 0cm 0p=
+t;"><strong><em style=3D"font-size: 12pt;">Oficial de Comunica&#231;&atilde=
+;o e Imprensa da 6&#170; Macrorregi&atilde;o</em></strong></p></div>
+</div>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" bgco=
+lor=3D"#f5f5f5" style=3D'padding: 10px; margin-top: 40px;'>
+<tbody>
+	<tr>
+    <td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-heigh=
+t: 20px; font-family: Helvetica, Arial, sans-serif;'>
+	Comente respondendo a este e-mail ou <a href=3D"https://gosp-x.jiveon.com/=
+community/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa=
+/blog/2017/02/23/arls-templ%C3%A1rios-do-s%C3%A9timo-mil%C3%AAnio-inicia-do=
+is-novos-irm%C3%A3os-em-ribeir%C3%A3o-preto?et=3Dwatches.email.blog" style=
+=3D'color: #3778C7; text-decoration: none;'>v=C3=A1 para a postagem do blog=
+ em REDE SOCIAL DO GOSP</a>
+    </td>
+    </tr>
+
+
+    <tr>
+    <td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-heigh=
+t: 20px; font-family: Helvetica, Arial, sans-serif;'>
+		Seguindo <a href=3D"https://gosp-x.jiveon.com/community/secretarias/grand=
+e-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog?et=3Dwatches.email.bl=
+og" style=3D'color: #3778C7; text-decoration: none;'>Comunica=C3=A7=C3=A3o =
+e Imprensa</a> nestes fluxos:
+     Comunica=C3=A7=C3=A3o e Imprensa
+    </td>
+    </tr>
+</tbody>
+</table>
+<br><br>
+                    <p style=3D'color: #666666; margin-top: 20px; font-size=
+: 14px; line-height: 20px; font-family: Helvetica, Arial, sans-serif;'>
+                        Este e-mail foi enviado pela Rede Social do GOSP po=
+rque voc=C3=AA =C3=A9 um usu=C3=A1rio registrado.
+	                        Voc=C3=AA pode <a href=3D"https://gosp-x.jiveon.co=
+m/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0e=
+e232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c">cancelar a assinatura</a=
+> agora mesmo ou ajustar a frequ=C3=AAncia de e-mail nas <a href=3D"https:/=
+/gosp-x.jiveon.com/user-preferences!input.jspa">prefer=C3=AAncias do seu e-=
+mail</a>
+                    </p>
+            </td>
+		</tr>
+	</tbody>
+</table>
+			    </td>
+			</tr>
+		</tbody>
+	</table>
+
+<img src=3D"http://jiveon.jivesoftware.com/wf/open?upn=3DlkDbH7-2FnFH7oeBGC=
+GoMHz9T22eb3DvjuBfkB1ASadAwAtbqNYYkVs4MwAGOqDuR5N49BZM9PLfhYH64a-2FtseS4DVe=
+2KYtEKG1jtQxJcampzNQ-2FP5-2BV3C9TQsAIOB8SUu-2FPGIJhWiCPpAr0s6g8ngsdkPWBHxM7=
+rBYGFn7wGB8A8-2BwnZILIua3BKIMyYSlNivfURhqykVsV3vAeWd1LOGpy9-2FPGvoOy6f5nvPl=
+xjkCFdGZC9e0mSvFAocTp-2BanV0Ry-2FQW4g7MB7Td-2BnEKlNZJC2P8FC1et8R-2Bd-2BBBlm=
+pf2fF2oAshngnzeBgoSmQeygNwn9wT-2BXNQnQ-2Bqajg1WPaxBQ-3D-3D" alt=3D"" width=
+=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !=
+important;border-width:0 !important;margin-top:0 !important;margin-bottom:0=
+ !important;margin-right:0 !important;margin-left:0 !important;padding-top:=
+0 !important;padding-bottom:0 !important;padding-right:0 !important;padding=
+-left:0 !important;"/>
+</body>
+</html>
+
+------=_Part_37532_934132354.1487869549253--
+
+------=_Part_37533_2027967171.1487869549253--
+

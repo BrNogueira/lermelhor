@@ -1,0 +1,246 @@
+Return-Path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br with LMTP id 0MT6GlEgElqRjwgAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Sun, 19 Nov 2017 22:22:41 -0200
+Return-path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sun, 19 Nov 2017 22:22:41 -0200
+Received: from e.gospmail.org.br ([177.139.181.238]:13932 helo=gospmail.org.br)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>)
+	id 1eGZrE-002Mku-Se
+	for marco@digitalfotoimagem.com.br; Sun, 19 Nov 2017 22:22:41 -0200
+Received: from localhost (e [127.0.0.1])
+	by gospmail.org.br (Postfix) with ESMTP id 7BD301E6C1F4
+	for <marco@digitalfotoimagem.com.br>; Sun, 19 Nov 2017 22:21:52 -0200 (BRST)
+X-Virus-Scanned: amavisd-new at gospmail.org.br
+Received: from gospmail.org.br ([127.0.0.1])
+	by localhost (gospmail.org.br [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 8eE0hEGOFGNh; Sun, 19 Nov 2017 22:21:51 -0200 (BRST)
+Received: from o3.jiveon.jivesoftware.com (o3.jiveon.jivesoftware.com [167.89.36.126])
+	by gospmail.org.br (Postfix) with ESMTPS id 3D6BD1E6C1EC
+	for <288380@gospmail.org.br>; Sun, 19 Nov 2017 22:21:51 -0200 (BRST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=jiveon.jivesoftware.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-id; 
+	s=smtpapi; bh=zlk6ajSTqR3ns/vt1teNBFQhE2A=; b=nCWs23OwXxvzwEjqWq
+	FSd4gpXP9dAyo7phBgDkKSBBynxpfJ/MbbNeNWzhEczh7kkOMyTXcQqGZDSTsC6u
+	kAUdFPesjgY1XpH6D0UZUJpOe4FKP3tYlESCY0ZE6JsukbMKdLbsYfRhHj3iOxAb
+	ry2Dovv7V+kOLyNuxyI4d7NDQ=
+Received: by filter0022p1las1.sendgrid.net with SMTP id filter0022p1las1-6005-5A12201C-10
+        2017-11-20 00:21:48.739397331 +0000 UTC
+Received: from jiveon-mx4-out.phx1.jivehosted.com (jiveon-mail.phx1.jivehosted.com [204.93.64.13])
+	by ismtpd0003p1sjc2.sendgrid.net (SG) with ESMTP id Fy_j15M4STOLJ5vErbSmFg
+	for <288380@gospmail.org.br>; Mon, 20 Nov 2017 00:21:48.690 +0000 (UTC)
+Received: from gosp-x-jc-t-wa02.dynphx1.jivehosted.com (ip51-vlb1-services.phx1.jivehosted.com [10.160.25.51])
+	by jiveon-mx4-out.phx1.jivehosted.com (Postfix) with ESMTP id 6FC7128282
+	for <288380@gospmail.org.br>; Mon, 20 Nov 2017 00:21:48 +0000 (GMT)
+Date: Mon, 20 Nov 2017 00:21:48 +0000 (UTC)
+From: Alexandre Hussni <gosp-x@jiveon.com>
+Reply-To: jive-703383286-7qj-2x-1isv@mail.gosp-x.jiveon.com
+To: Marco Parise <288380@gospmail.org.br>
+Message-ID: <2010529765.390361511137308452@gosp-x-jc-t-wa02.dynphx1.jivehosted.com>
+Subject: =?UTF-8?Q?Voc=C3=AA_foi_mencionado_por_Alexandre_Hussni_em_Question?=
+ =?UTF-8?Q?ario_de_Aprendiz_Ma=C3=A7om=5FV1.doc_em_REDE_SOCIAL_DO_GOSP?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_366317_2061824249.1511137308431"
+Auto-Submitted: auto-replied
+X-Auto-Response-Suppress: OOF
+List-ID: null
+Content-Disposition: inline
+X-Jive-Office: jive-703383286-7qj-2x-1isv@mail.gosp-x.jiveon.com
+X-SG-EID: MC+mAxPPER372lmDFdFHyMxARzYmaHZCEvHbMx1UJ2h4FfPk03Zct4yTUkAfFs27b3oxqTdfjSeEAV
+ lQ8M00I8rqvZxumAl3FJVfk/pquc95hzjPvsI7OR7a7O8blhMdpxucAQx0NJEA+J/PCCWUdkdnkJUN
+ UUIqOOqCuq/UGhT9X2Sjm/xvfLWD6wbDq8k0O3KVxr9QjNMTwIfoDlcDR6hKQPwEQe5NEGoWzyIz2d
+ w=
+X-SG-ID: 6Iv2lwEhBxW0L1FeqtuSgBMPbanLSbFojqJhDQrWT67/QUmp9fWB6bcXfGXjMuoc6CZm8EVDe/3UfR
+ BBR1n6Sd8FP0T9052XnP6QxzrlvlfwJUkNriCd62AaTxy+FGKd
+
+------=_Part_366317_2061824249.1511137308431
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_366316_11342673.1511137308431"
+
+------=_Part_366316_11342673.1511137308431
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+Alexandre Hussni mencionou voc=C3=AA em [Questionario de Aprendiz Ma=C3=A7o=
+m_V1.doc], em REDE SOCIAL DO GOSP.
+
+Participe da conversa respondendo a este e-mail, ou para ver a refer=C3=AAn=
+cia de Alexandre Hussni a voc=C3=AA, visite: https://gosp-x.jiveon.com/docs=
+/DOC-8097-questionario-de-aprendiz-ma=C3=A7omv1doc?commentID=3D71023&et=3Dn=
+otification.mention#comment-71023
+
+Este e-mail foi enviado pela REDE SOCIAL DO GOSP porque voc=C3=AA =C3=A9 um=
+ usu=C3=A1rio registrado.
+Voc=C3=AA pode cancelar a assinatura agora mesmo em https://gosp-x.jiveon.c=
+om/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0=
+ee232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c ou ajustar a frequ=C3=AA=
+ncia de e-mail nas prefer=C3=AAncias do seu e-mail (https://gosp-x.jiveon.c=
+om/user-preferences!input.jspa).
+
+------=_Part_366316_11342673.1511137308431
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+=09
+	<title></title>
+	<style type=3D"text/css">
+    * {
+		margin: 0;
+		padding: 0;
+	}
+	a {
+		color: #3778C7 !important;
+	}
+	body {
+		font-family: Helvetica, Arial, sans-serif;
+		-webkit-text-size-adjust: 100%;
+	}
+	/* Webkit */
+	h1, h2, h3, h4, h5, h6, p, hr {
+		-webkit-margin-before: 0;
+		-webkit-margin-after: 0;
+		-webkit-margin-start: 0;
+		-webkit-margin-end: 0;
+	}
+	.button td {
+		background-image: -moz-linear-gradient(top, #75B7E3 0%, #5498D6 50%, #408=
+BD0 51%, #387AC8 100%) !important;
+		background-image: -webkit-gradient(linear, left top, left bottom, color-s=
+top(0%,#75B7E3), color-stop(50%,#5498D6), color-stop(51%,#408BD0), color-st=
+op(100%,#387AC8)) !important;
+		-webkit-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !impo=
+rtant;
+		-moz-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !importa=
+nt;
+	}
+	</style>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+</head>
+<body style=3D"width:100% !important; -webkit-font-smoothing: antialiased; =
+-webkit-text-size-adjust: 100%;">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff=
+" width=3D"100%" style=3D"background-color: #ffffff; margin: 0; padding: 0;=
+">
+		<tbody>
+			<tr>
+				<td style=3D"padding: 20px 20px 20px 20px;">
+<table class=3D"header" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wi=
+dth=3D"100%">
+	<tbody>
+		<tr>
+			<td valign=3D"top" align=3D"left">
+				<h1 style=3D"color: #333333; margin: 0 0 20px 0; font-weight: normal; f=
+ont-size: 24px; font-family: Helvetica, Arial, sans-serif; text-shadow: rgb=
+a(255,255,255,.9) 0 1px 0;">
+					<!-- To have a header image/logo replace the name below with your img =
+tag -->
+					<!-- Email clients will render the images when the message is read so =
+any image -->
+					<!-- must be made available on a public server, so that all recipients=
+ can load the image. -->
+					<a href=3D"https://gosp-x.jiveon.com/?et=3Dnotification.mention" style=
+=3D"color:#333333 !important; text-decoration: none;">
+							<font color=3D"#333333" style=3D"color:#333333;">REDE SOCIAL DO GOSP=
+</font>
+					</a>
+				</h1>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class=3D"content" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ff=
+ffff" border=3D"0" width=3D"100%" style=3D"width: 100%; -moz-border-radius:=
+ 8px; -webkit-border-radius: 8px; border-radius: 8px;">
+	<tbody>
+		<tr>
+			<td valign=3D"middle" style=3D"padding-top: 10px; padding-right: 0px; pa=
+dding-bottom: 20px; padding-left: 0px;"><h2 style=3D'color: #666666; margin=
+: 0 0 0 0; font-weight: normal; font-size: 24px; font-family: Helvetica, Ar=
+ial, sans-serif;'>
+    Voc=C3=AA foi mencionado
+</h2>
+<p style=3D'color: #999999; margin-bottom: 20px; font-size: 12px; line-heig=
+ht: 18px; font-family: Helvetica, Arial, sans-serif;'>
+				por <a href=3D"https://gosp-x.jiveon.com/people/169273?et=3Dnotificatio=
+n.mention">Alexandre Hussni</a> <i>em Questionario de Aprendiz Ma=C3=A7om_V=
+1.doc em REDE SOCIAL DO GOSP</i> - <a href=3D"https://gosp-x.jiveon.com/doc=
+s/DOC-8097-questionario-de-aprendiz-ma=C3=A7omv1doc?commentID=3D71023&et=3D=
+notification.mention#comment-71023">Visualize a refer=C3=AAncia de Alexandr=
+e Hussni a voc=C3=AA</a>
+</p>
+
+<hr style=3D'background-color: #cccccc; height: 1px; margin-bottom: 20px; b=
+order: none;'>
+
+	<div style=3D'color: #666666; margin-bottom: 20px; font-size: 14px; line-h=
+eight: 20px; font-family: Helvetica, Arial, sans-serif;'>
+	<div class=3D"jive-rendered-content"><p>Obrigado pelo compartilhamento de =
+suas Luzes, Ir.: <a class=3D"jive-link-profile-small jiveTT-hover-user" dat=
+a-containerId=3D"-1" data-containerType=3D"-1" data-objectId=3D"10027" data=
+-objectType=3D"3" href=3D"https://gosp-x.jiveon.com/people/parise">Marco Pa=
+rise</a></p></div>
+	</div>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" bgco=
+lor=3D"#f5f5f5" style=3D'padding: 10px; margin-top: 40px;'>
+<tbody>
+<tr>
+<td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-height: 2=
+0px; font-family: Helvetica, Arial, sans-serif;'>
+Participe da conversa respondendo a este e-mail
+</td>
+</tr>
+</tbody>
+</table>
+
+<br><br>
+                    <p style=3D'color: #666666; margin-top: 20px; font-size=
+: 14px; line-height: 20px; font-family: Helvetica, Arial, sans-serif;'>
+                        Este e-mail foi enviado pela Rede Social do GOSP po=
+rque voc=C3=AA =C3=A9 um usu=C3=A1rio registrado.
+	                        Voc=C3=AA pode <a href=3D"https://gosp-x.jiveon.co=
+m/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0e=
+e232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c">cancelar a assinatura</a=
+> agora mesmo ou ajustar a frequ=C3=AAncia de e-mail nas <a href=3D"https:/=
+/gosp-x.jiveon.com/user-preferences!input.jspa">prefer=C3=AAncias do seu e-=
+mail</a>
+                    </p>
+            </td>
+		</tr>
+	</tbody>
+</table>
+			    </td>
+			</tr>
+		</tbody>
+	</table>
+
+<img src=3D"http://jiveon.jivesoftware.com/wf/open?upn=3DlkDbH7-2FnFH7oeBGC=
+GoMHz9T22eb3DvjuBfkB1ASadAwAtbqNYYkVs4MwAGOqDuR5ohsn5Z8K4rPaSLHiCK-2BXANhr7=
+WNllqRFLc9gE-2Fh-2BaKbvpsIBaI9CSOWSrakhbxthok5WQsxxEJjco1L2O0UcytgWRv7vn98x=
+BWCJxMm1ALl-2BkIHltuy4vhOZhE6E4FnTksR4WhnH8B7RbdDYhEkxxayWhBg7VK5F-2Bn7qm2P=
+01Qb3D7eefRdjpQwkq3OFCw4r6uM7HXFJLphqQhHPpRoEnPui2tdxTg-2BU8g2-2B71cx5Hdxky=
+MHxdaF0wXT6IJDtUGKMSJ1etQegFV6HZLy-2Bf-2F2ig-3D-3D" alt=3D"" width=3D"1" he=
+ight=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !important=
+;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !importa=
+nt;margin-right:0 !important;margin-left:0 !important;padding-top:0 !import=
+ant;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !=
+important;"/>
+</body>
+</html>
+
+------=_Part_366316_11342673.1511137308431--
+
+------=_Part_366317_2061824249.1511137308431--
+

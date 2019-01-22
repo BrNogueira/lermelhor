@@ -1,0 +1,353 @@
+Return-Path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from h9.servidorhh.com
+	by h9.servidorhh.com with LMTP id 2KE0HzCP2FrOyAYArjWGVg
+	for <marco@digitalfotoimagem.com.br>; Thu, 19 Apr 2018 09:44:32 -0300
+Return-path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 19 Apr 2018 09:44:32 -0300
+Received: from e.gospmail.org.br ([177.139.181.238]:20252 helo=gospmail.org.br)
+	by h9.servidorhh.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89_1)
+	(envelope-from <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>)
+	id 1f98vP-001s1G-8v
+	for marco@digitalfotoimagem.com.br; Thu, 19 Apr 2018 09:44:32 -0300
+Received: from localhost (e [127.0.0.1])
+	by gospmail.org.br (Postfix) with ESMTP id 5F92B2D21541
+	for <marco@digitalfotoimagem.com.br>; Thu, 19 Apr 2018 09:34:04 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at gospmail.org.br
+X-Amavis-Alert: BAD HEADER SECTION, Non-encoded 8-bit data (char E7 hex):
+	List-ID: Comunica\347\343o e Imprensa
+Received: from gospmail.org.br ([127.0.0.1])
+	by localhost (gospmail.org.br [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Wd94cKVs9gmD; Thu, 19 Apr 2018 09:34:03 -0300 (BRT)
+Received: from o3.jiveon.jivesoftware.com (o3.jiveon.jivesoftware.com [167.89.36.126])
+	by gospmail.org.br (Postfix) with ESMTPS id 8E3162D21AB1
+	for <288380@gospmail.org.br>; Thu, 19 Apr 2018 09:13:34 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=jiveon.jivesoftware.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-id; 
+	s=smtpapi; bh=f34Vz623yUE8RHZv0tehQLaToZw=; b=rC9mXOXlMs5DJGDk5R
+	Kc0tPoBxSnz4c9ZMnC11s+W4VQ3lLlG2d/YbteFlCJxAoPJSEkuIRaYdD1kOFY53
+	W8B0VPywpMfdeE9jYGcMfdjss85K7tikkJAO2xQkPig4138a8uZMjU5Q9qG33O2C
+	r9vFwWXxKJjXJjaY7GKnmhPGU=
+Received: by filter0130p1iad2.sendgrid.net with SMTP id filter0130p1iad2-6788-5AD88784-48
+        2018-04-19 12:11:49.042139773 +0000 UTC
+Received: from jiveon-mx4-out.phx1.jivehosted.com (jiveon-mail.phx1.jivehosted.com [204.93.64.13])
+	by ismtpd0007p1sjc2.sendgrid.net (SG) with ESMTP id Yskq8xsyRBW1tvVH_elhMg
+	for <288380@gospmail.org.br>; Thu, 19 Apr 2018 12:11:48.919 +0000 (UTC)
+Received: from gosp-x-jc-t-wa01.dynphx1.jivehosted.com (ip54-vlb1-services.phx1.jivehosted.com [10.160.25.54])
+	by jiveon-mx4-out.phx1.jivehosted.com (Postfix) with ESMTP id B308726D43
+	for <288380@gospmail.org.br>; Thu, 19 Apr 2018 12:11:48 +0000 (GMT)
+Date: Thu, 19 Apr 2018 12:11:49 +0000 (UTC)
+From: 268366 <gosp-x@jiveon.com>
+Reply-To: jive-1587155576-7qj-12-2yp@mail.gosp-x.jiveon.com
+To: Marco Parise <288380@gospmail.org.br>
+Message-ID: <38-3841-3-2319-1524139121302.jive.jivemailuser@https://gosp-x.jiveon.com>
+Subject: =?UTF-8?Q?[Comunica=C3=A7=C3=A3o_e_Imprensa]_-_ARLS_INTEL?=
+ =?UTF-8?Q?IG=C3=8ANCIA,_N=C2=BA_14,_ORIENTE_DE_PORTO_FELIZ?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_35571_441704657.1524139908691"
+Auto-Submitted: auto-replied
+X-Auto-Response-Suppress: OOF
+List-ID: Comunicação e Imprensa
+Content-Disposition: inline
+X-Jive-Office: jive-1587155576-7qj-12-2yp@mail.gosp-x.jiveon.com
+X-CSA-Complaints: whitelist-complaints@eco.de
+X-SG-EID: MC+mAxPPER372lmDFdFHyMxARzYmaHZCEvHbMx1UJ2hsI6fwkDq1rIC+9ZH0LN/QfkQ4pSOITUKFrY
+ IaynOH8MEJ9pdOLRqYEOgk1aTSk2LT7ztVol1FBVGNZm4cPFF6f+T1S6GAnin/7SAnHl3zYjhR7Ljn
+ 453vANqF30lFG/jPxztOo1KGsET93sbYag4XcF6Tx6ufm0lW0bjMlE5ANw==
+X-SG-ID: 6Iv2lwEhBxW0L1FeqtuSgBOmISLrKUu9Fa/YMNgnbEH7q/ej1uAa0ra5fG4wBOwChhZ/Vr8IkdnZdE
+ 02uG/BZtsAjM1UFsYdAxoDs7l3rl8=
+
+------=_Part_35571_441704657.1524139908691
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_35570_119911007.1524139908691"
+
+------=_Part_35570_119911007.1524139908691
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+Carlos Pinto Neto [https://gosp-x.jiveon.com/people/268366?et=3Dwatches.ema=
+il.blog] criou a postagem de blog:
+"ARLS INTELIG=C3=8ANCIA, N=C2=BA 14, ORIENTE DE PORTO FELIZ"=20
+
+Para visualizar a postagem do blog, visite: https://gosp-x.jiveon.com/commu=
+nity/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog=
+/2018/04/19/arls-intelig%C3%AAncia-n%C2%BA-14-oriente-de-porto-feliz?et=3Dw=
+atches.email.blog
+
+--------------------------------------------------------------
+https://gosp-x.jiveon.com/servlet/JiveServlet/showImage/38-3841-107997/past=
+edImage_1.png  https://gosp-x.jiveon.com/servlet/JiveServlet/downloadImage/=
+38-3841-107997/pastedImage_1.png=20
+
+*Loja fortalece coluna dos aprendizes.*
+=C2=A0
+Na =C3=BAltima ter=C3=A7a-feira (17), foi realizada, na ARLS Intelig=C3=AAn=
+cia, n=C2=B0 14, (REAA), Oriente de Porto Feliz, Sess=C3=A3o Magna de Inici=
+a=C3=A7=C3=A3o, capitaneada pelo Vener=C3=A1vel Mestre Irm=C3=A3o *Marcos A=
+ur=C3=A9lio Membrive* e seus Vigilantes Irm=C3=A3os *Odisseu Bello* e *Marc=
+io A. Couto*, sendo iniciado o ne=C3=B3fito *Rafael Henrique Taborda*.
+=C2=A0
+Contra relevo ressaltar a presen=C3=A7a do Vener=C3=A1vel Irm=C3=A3o *Arlin=
+do Quevedo Bonel* (Coordenador Regional de Rela=C3=A7=C3=B5es Internas pela=
+ 5=C2=AA Macrorregi=C3=A3o =E2=80=93 =C3=81rea 7) bem como Irm=C3=A3os do Q=
+uadro e Visitantes.=20
+=C2=A0
+Ao final dos trabalhos, todos foram recepcionados no Sal=C3=A3o de Banquete=
+s da Oficina, para um fraternal =C3=A1gape.=20
+=C2=A0
+*=C2=A0*
+*SECRETARIA ESTADUAL DE COMUNICA**=C3=87=C3=83**O E IMPRENSA DO* *GOSP*
+=C2=A0
+Irm=C3=A3o *Carlos Pinto* Neto
+Secret=C3=A1rio Estadual Comunica=C3=A7=C3=A3o e Imprensa Adjunto pela 5=C2=
+=AA Macrorregi=C3=A3o
+=C2=A0
+--------------------------------------------------------------
+
+Comente respondendo a este e-mail ou v=C3=A1 para a postagem do blog em RED=
+E SOCIAL DO GOSP
+[https://gosp-x.jiveon.com/community/secretarias/grande-secretaria-de-comun=
+ica%C3%A7%C3%A3o-e-imprensa/blog/2018/04/19/arls-intelig%C3%AAncia-n%C2%BA-=
+14-oriente-de-porto-feliz]
+
+
+Este e-mail foi enviado pela REDE SOCIAL DO GOSP porque voc=C3=AA =C3=A9 um=
+ usu=C3=A1rio registrado.
+Voc=C3=AA pode cancelar a assinatura agora mesmo em https://gosp-x.jiveon.c=
+om/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0=
+ee232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c ou ajustar a frequ=C3=AA=
+ncia de e-mail nas prefer=C3=AAncias do seu e-mail (https://gosp-x.jiveon.c=
+om/user-preferences!input.jspa).
+
+------=_Part_35570_119911007.1524139908691
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+=09
+	<title></title>
+	<style type=3D"text/css">
+    * {
+		margin: 0;
+		padding: 0;
+	}
+	a {
+		color: #3778C7 !important;
+	}
+	body {
+		font-family: Helvetica, Arial, sans-serif;
+		-webkit-text-size-adjust: 100%;
+	}
+	/* Webkit */
+	h1, h2, h3, h4, h5, h6, p, hr {
+		-webkit-margin-before: 0;
+		-webkit-margin-after: 0;
+		-webkit-margin-start: 0;
+		-webkit-margin-end: 0;
+	}
+	.button td {
+		background-image: -moz-linear-gradient(top, #75B7E3 0%, #5498D6 50%, #408=
+BD0 51%, #387AC8 100%) !important;
+		background-image: -webkit-gradient(linear, left top, left bottom, color-s=
+top(0%,#75B7E3), color-stop(50%,#5498D6), color-stop(51%,#408BD0), color-st=
+op(100%,#387AC8)) !important;
+		-webkit-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !impo=
+rtant;
+		-moz-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !importa=
+nt;
+	}
+	</style>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+</head>
+<body style=3D"width:100% !important; -webkit-font-smoothing: antialiased; =
+-webkit-text-size-adjust: 100%;">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff=
+" width=3D"100%" style=3D"background-color: #ffffff; margin: 0; padding: 0;=
+">
+		<tbody>
+			<tr>
+				<td style=3D"padding: 20px 20px 20px 20px;">
+<table class=3D"header" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wi=
+dth=3D"100%">
+	<tbody>
+		<tr>
+			<td valign=3D"top" align=3D"left">
+				<h1 style=3D"color: #333333; margin: 0 0 20px 0; font-weight: normal; f=
+ont-size: 24px; font-family: Helvetica, Arial, sans-serif; text-shadow: rgb=
+a(255,255,255,.9) 0 1px 0;">
+					<!-- To have a header image/logo replace the name below with your img =
+tag -->
+					<!-- Email clients will render the images when the message is read so =
+any image -->
+					<!-- must be made available on a public server, so that all recipients=
+ can load the image. -->
+					<a href=3D"https://gosp-x.jiveon.com/?et=3Dwatches.email.blog" style=
+=3D"color:#333333 !important; text-decoration: none;">
+							<font color=3D"#333333" style=3D"color:#333333;">REDE SOCIAL DO GOSP=
+</font>
+					</a>
+				</h1>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class=3D"content" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ff=
+ffff" border=3D"0" width=3D"100%" style=3D"width: 100%; -moz-border-radius:=
+ 8px; -webkit-border-radius: 8px; border-radius: 8px;">
+	<tbody>
+		<tr>
+			<td valign=3D"middle" style=3D"padding-top: 10px; padding-right: 0px; pa=
+dding-bottom: 20px; padding-left: 0px;"><h2 style=3D'color: #666666; margin=
+: 0 0 0 0; font-weight: normal; font-size: 24px; font-family: Helvetica, Ar=
+ial, sans-serif;'>
+    ARLS INTELIG=C3=8ANCIA, N=C2=BA 14, ORIENTE DE PORTO FELIZ
+</h2>
+
+<p style=3D'color: #999999; margin-bottom: 20px; font-size: 12px; line-heig=
+ht: 18px; font-family: Helvetica, Arial, sans-serif;'>
+criado por <a href=3D"https://gosp-x.jiveon.com/people/268366?et=3Dwatches.=
+email.blog" style=3D'color: #3778C7; text-decoration: none;'>Carlos Pinto N=
+eto</a> em <i>Comunica=C3=A7=C3=A3o e Imprensa</i> - <a href=3D"https://gos=
+p-x.jiveon.com/community/secretarias/grande-secretaria-de-comunica%C3%A7%C3=
+%A3o-e-imprensa/blog/2018/04/19/arls-intelig%C3%AAncia-n%C2%BA-14-oriente-d=
+e-porto-feliz?et=3Dwatches.email.blog" style=3D'color: #3778C7; text-decora=
+tion: none;'>Visualize a postagem de blog completa</a></p>
+
+<hr style=3D'background-color: #cccccc; height: 1px; margin-bottom: 20px; b=
+order: none;'>
+
+<div style=3D'color: #666666; margin-bottom: 20px; font-size: 14px; line-he=
+ight: 20px; font-family: Helvetica, Arial, sans-serif;'>
+<div class=3D"jive-rendered-content"><p><a href=3D"https://gosp-x.jiveon.co=
+m/servlet/JiveServlet/showImage/38-3841-107997/pastedImage_1.png"><span> ht=
+tps://gosp-x.jiveon.com/servlet/JiveServlet/downloadImage/38-3841-107997/pa=
+stedImage_1.png </span></a></p><p style=3D"min-height: 8pt; padding: 0px; b=
+ackground: white;">&#160;</p><p style=3D"background: white;"><strong style=
+=3D"border: none windowtext 1.0pt; : ; padding: 0cm; color: #454545; text-d=
+ecoration: underline; font-size: 12.0pt;">Loja fortalece coluna dos aprendi=
+zes.</strong></p><p><span style=3D"font-size: 12.0pt; color: #454545;">&#16=
+0;</span></p><p style=3D"text-indent: 4cm; text-align: justify;"><span styl=
+e=3D"font-size: 12.0pt; color: #454545;">Na &uacute;ltima ter</span><span s=
+tyle=3D"font-size: 12.0pt; color: #454545;">&#231;</span><span style=3D"fon=
+t-size: 12.0pt; color: #454545;">a-feira</span><span style=3D"font-size: 12=
+.0pt; color: #454545;"> (17), foi realizada, na ARLS Intelig&ecirc;ncia, n&=
+#176; 14, (REAA), Oriente de Porto Feliz, Sess&atilde;</span><span style=3D=
+"font-size: 12.0pt; color: #454545;">o Magna de Inicia&#231;&atilde;o, </sp=
+an><span style=3D"font-size: 12.0pt; color: #454545;">capitaneada pelo Vene=
+r&aacute;vel Mestre Irm</span><span style=3D"font-size: 12.0pt; color: #454=
+545;">&atilde;</span><span style=3D"font-size: 12.0pt; color: #454545;">o <=
+strong>Marcos Aur&eacute;lio Membrive</strong> e seus Vigilantes Irm</span>=
+<span style=3D"font-size: 12.0pt; color: #454545;">&atilde;</span><span sty=
+le=3D"font-size: 12.0pt; color: #454545;">os <strong>Odisseu Bello</strong>=
+ e <strong>Marcio A. Couto</strong></span><span style=3D"font-size: 12.0pt;=
+ color: #454545;">, sendo iniciado o ne&oacute;fito <strong>Rafael Henrique=
+ Taborda</strong>.</span></p><p style=3D"text-indent: 4cm; text-align: just=
+ify;"><span style=3D"font-size: 12.0pt; color: #454545;">&#160;</span></p><=
+p style=3D"text-indent: 4cm; text-align: justify;"><span style=3D"font-size=
+: 12.0pt; color: #454545;">Contra relevo ressaltar a presen</span><span sty=
+le=3D"font-size: 12.0pt; color: #454545;">&#231;</span><span style=3D"font-=
+size: 12.0pt; color: #454545;">a </span><span style=3D"font-size: 12.0pt; c=
+olor: #454545;">do Vener&aacute;vel Irm</span><span style=3D"font-size: 12.=
+0pt; color: #454545;">&atilde;</span><span style=3D"font-size: 12.0pt; colo=
+r: #454545;">o <strong>Arlindo Quevedo Bonel</strong> (Coordenador Regional=
+ de Rela</span><span style=3D"font-size: 12.0pt; color: #454545;">&#231;&ot=
+ilde;</span><span style=3D"font-size: 12.0pt; color: #454545;">es Internas =
+pela 5&#170; Macrorregi&atilde;o &#8211; &#193;rea 7) bem como Irm</span><s=
+pan style=3D"font-size: 12.0pt; color: #454545;">&atilde;</span><span style=
+=3D"font-size: 12.0pt; color: #454545;">os do Quadro e Visitantes. </span><=
+/p><p style=3D"text-indent: 4cm; text-align: justify;"><span style=3D"font-=
+size: 12.0pt; color: #454545;">&#160;</span></p><p style=3D"text-indent: 4c=
+m; text-align: justify;"><span style=3D"font-size: 12.0pt; color: #454545;"=
+>Ao final dos trabalhos, todos foram recepcionados no Sal&atilde;o de Banqu=
+etes da Oficina, para um fraternal </span><span style=3D"font-size: 12.0pt;=
+ color: #454545;">&aacute;gape. </span></p><p style=3D"text-align: justify;=
+"><span style=3D"font-size: 14.0pt; color: #454545;">&#160;</span></p><p><s=
+trong style=3D"color: #454545; font-size: 18.0pt;">&#160;</strong></p><p><s=
+trong style=3D"color: #454545; font-size: 16.0pt;">SECRETARIA ESTADUAL DE C=
+OMUNICA</strong><strong style=3D"color: #454545; font-size: 16.0pt;">&#199;=
+&#195;</strong><strong style=3D"color: #454545; font-size: 16.0pt;">O E IMP=
+RENSA DO </strong><strong style=3D"color: #454545; font-size: 16.0pt;">GOSP=
+</strong></p><p><span style=3D"font-size: 16.0pt; color: #454545;">&#160;</=
+span></p><p><span style=3D"font-size: 12.0pt; color: #454545;">Irm</span><s=
+pan style=3D"font-size: 12.0pt; color: #454545;">&atilde;</span><span style=
+=3D"font-size: 12.0pt; color: #454545;">o <strong>Carlos Pinto</strong> Net=
+o</span></p><p><span style=3D"font-size: 10.0pt;">Secret&aacute;rio Estadua=
+l Comunica&#231;&atilde;o e Imprensa Adjunto pela 5&#170; Macrorregi&atilde=
+;o</span></p><p><span>&#160;</span></p></div>
+</div>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" bgco=
+lor=3D"#f5f5f5" style=3D'padding: 10px; margin-top: 40px;'>
+<tbody>
+	<tr>
+    <td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-heigh=
+t: 20px; font-family: Helvetica, Arial, sans-serif;'>
+	Comente respondendo a este e-mail ou <a href=3D"https://gosp-x.jiveon.com/=
+community/secretarias/grande-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa=
+/blog/2018/04/19/arls-intelig%C3%AAncia-n%C2%BA-14-oriente-de-porto-feliz?e=
+t=3Dwatches.email.blog" style=3D'color: #3778C7; text-decoration: none;'>v=
+=C3=A1 para a postagem do blog em REDE SOCIAL DO GOSP</a>
+    </td>
+    </tr>
+
+
+    <tr>
+    <td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-heigh=
+t: 20px; font-family: Helvetica, Arial, sans-serif;'>
+		Seguindo <a href=3D"https://gosp-x.jiveon.com/community/secretarias/grand=
+e-secretaria-de-comunica%C3%A7%C3%A3o-e-imprensa/blog?et=3Dwatches.email.bl=
+og" style=3D'color: #3778C7; text-decoration: none;'>Comunica=C3=A7=C3=A3o =
+e Imprensa</a> nestes fluxos:
+     Comunica=C3=A7=C3=A3o e Imprensa
+    </td>
+    </tr>
+</tbody>
+</table>
+<br><br>
+                    <p style=3D'color: #666666; margin-top: 20px; font-size=
+: 14px; line-height: 20px; font-family: Helvetica, Arial, sans-serif;'>
+                        Este e-mail foi enviado pela Rede Social do GOSP po=
+rque voc=C3=AA =C3=A9 um usu=C3=A1rio registrado.
+	                        Voc=C3=AA pode <a href=3D"https://gosp-x.jiveon.co=
+m/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0e=
+e232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c">cancelar a assinatura</a=
+> agora mesmo ou ajustar a frequ=C3=AAncia de e-mail nas <a href=3D"https:/=
+/gosp-x.jiveon.com/user-preferences!input.jspa">prefer=C3=AAncias do seu e-=
+mail</a>
+                    </p>
+            </td>
+		</tr>
+	</tbody>
+</table>
+			    </td>
+			</tr>
+		</tbody>
+	</table>
+
+<img src=3D"http://jiveon.jivesoftware.com/wf/open?upn=3DlkDbH7-2FnFH7oeBGC=
+GoMHz9T22eb3DvjuBfkB1ASadAwAtbqNYYkVs4MwAGOqDuR5N49BZM9PLfhYH64a-2FtseS4DVe=
+2KYtEKG1jtQxJcampxSeYG3vUmGGuZfbxBslafmb4ZyhftOJ7nSYfWQRNRU-2FKFYY6cM4osBWm=
+A-2FuuzL0xnERiEFtdit-2FgIUqI-2BwGazy0b3LhZMh9xE6M1FysX4yzzRCmeXcjh-2BVn3beR=
+Hpa25QlDqqOxdIZ21iuqSVizVQALPCV2dr9kJRNw5bVMXvQWpmsj5R7CqGAStmQbuHGPn-2BBXI=
+qFxfwGWrTrWcGX-2FAN5X-2FR8q4junRqineJZ8vNakw-3D-3D" alt=3D"" width=3D"1" he=
+ight=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !important=
+;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !importa=
+nt;margin-right:0 !important;margin-left:0 !important;padding-top:0 !import=
+ant;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !=
+important;"/>
+</body>
+</html>
+
+------=_Part_35570_119911007.1524139908691--
+
+------=_Part_35571_441704657.1524139908691--
+

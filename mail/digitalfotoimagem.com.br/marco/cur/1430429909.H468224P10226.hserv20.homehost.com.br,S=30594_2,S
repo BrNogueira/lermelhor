@@ -1,0 +1,413 @@
+Return-path: <cleber.maximiliano@yahoo.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 30 Apr 2015 18:38:29 -0300
+Received: from nm24-vm4.bullet.mail.gq1.yahoo.com ([98.136.217.99]:56059)
+	by hserv20.homehost.com.br with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.85)
+	(envelope-from <cleber.maximiliano@yahoo.com.br>)
+	id 1Ynw9u-0002XR-CU
+	for marco@digitalfotoimagem.com.br; Thu, 30 Apr 2015 18:38:29 -0300
+Received: from [216.39.60.183] by nm24.bullet.mail.gq1.yahoo.com with NNFMP; 30 Apr 2015 21:38:08 -0000
+Received: from [98.137.12.226] by tm19.bullet.mail.gq1.yahoo.com with NNFMP; 30 Apr 2015 21:38:08 -0000
+Received: from [127.0.0.1] by omp1034.mail.gq1.yahoo.com with NNFMP; 30 Apr 2015 21:38:08 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 273761.26889.bm@omp1034.mail.gq1.yahoo.com
+Received: (qmail 79408 invoked by uid 60001); 30 Apr 2015 21:38:08 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com.br; s=s1024; t=1430429888; bh=UXYO5hbLKoX3jHDDii7I5CL1RXJq23fLd/G3EUFApDc=; h=Message-ID:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding; b=ZnubCrrpE6k11xp8x804eGbNH2G/MXLIUTC5NFbrQ0nJ0s7iOit1URkluiDS9t5P0AD9xqIQ02uzErRAL2RDV7iAFrwj5YD0iSZkKlbCOF5ExMYA6sBHTpxNEgVeFVlmhDJwIUsF1GCGhRtlJvmdMmydtLupTWyx7LpSnhnLa6s=
+X-YMail-OSG: vM802_MVM1myqqbodv6Wux217_dUEKsMM97MH9OKkwRJAdA
+ 9Hq9ndknh5yjD0koCr8EJxbEem.D66JlikkqYaHrvMJRnMETD33kMz9vNXlc
+ 4qUSCo1yRd5LTq3ULz0pIbfz5toqFB9d0H8N3zID.KnpH8pWWbWGcS7sFEyb
+ 52W2ZWeLv3U_NW_sP.Djg.PoV9D9vP6Ei1rrZFcMFOfvaOIpbddxx6NkVoil
+ m5M_mDE_9a0UyroPT_X1RhwdudXAck7q9S40lvue0APIL8OvQWULUF.ou0XB
+ M9Sx1QEFhJnXzC7sGKAVz7tC884XCLitjtQoB9.EOjUBHCnX6SYZVuMuFymw
+ kkucAGFm__VevENi6sLp9aHHI7vhyg7GxKVRujbzkI.oabW9g1W8MRiTMpCq
+ 4UbPsyEtVPyi2Dh8laOcWSzJAKtv6ykLE4zqtONlrGTdpb6_GV7Gb3IpyjWv
+ Ppq7.h4C_eMNxvj_GFTphd4oRBKlv6ziC6s7AD7_hdrnmOTSrJP8tyeM4.U0
+ SMpzM8Y.Aa2MrqMD16VqeEOl4TxfoSei56DCh0k5AXwXbjB7OJf2uwtHrOZ4
+ Nx2HBySXln6MlVOI7
+Received: from [201.81.43.59] by web163302.mail.gq1.yahoo.com via HTTP; Thu, 30 Apr 2015 14:38:07 PDT
+X-Rocket-MIMEInfo: 002.001,RXN0w6EgYcOtIGEgYXR1YWxpemHDp8OjbyBkZSBmZXZlcmVpcm8gTWFyY28sIHRhIGNvcnJpZG8gcHJhIHBhc3NhciBhaSBkZSB0YXJkZSBhIG5vaXRlIHZvY8OqIG7Do28gZXN0w6EgYcOtIG7Do28gY29uc2lnbyBwZWdhciBvIGFwYXJlbGhvIHZvdSB2ZXIgc2UgcGFzc28gZXN0ZSBmaW0gZGUgc2VtYW5hQWJyYcOnbyBFbnZpYWRvIGRvIFlhaG9vIE1haWwgcGFyYSBpUGFkLS0tLSBCZWdpbiBGb3J3YXJkZWQgTWVzc2FnZSAtLS0tRGU6IFBST0JPWCAyMDE1RGF0YTogMDEvMDMvMjAxNSAwMjoyNjowMFBhcmEBMAEBAQE-
+X-Mailer: YahooMailIosMobile/0.0 YahooMailWebService/0.8.203.740
+Message-ID: <1430429887.72587.YahooMailIosMobile@web163302.mail.gq1.yahoo.com>
+Date: Thu, 30 Apr 2015 14:38:07 -0700
+From: cleber silva <cleber.maximiliano@yahoo.com.br>
+Subject: EN: PROBOX 2012
+To: "marco@digitalfotoimagem.com.br" <marco@digitalfotoimagem.com.br>
+In-Reply-To: <089e013a13902690760510333ef2@google.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=1.2
+X-Spam-Score: 12
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "hserv20.homehost.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Está aí a atualização de fevereiro Marco, ta corrido pra passar
+    ai de tarde a noite você não está aí não consigo pegar o aparelho vou ver
+    se passo este fim de semana Abraço Enviado do Yahoo Mail para iPad [...] 
+ 
+ Content analysis details:   (1.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: bp.blogspot.com]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (cleber.maximiliano[at]yahoo.com.br)
+  1.5 SUBJ_ALL_CAPS          Subject is all capitals
+  0.0 HTML_IMAGE_RATIO_06    BODY: HTML has a low ratio of text to image area
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.7 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.0 UPPERCASE_50_75        message body is 50-75% uppercase
+  1.0 FREEMAIL_REPLY         From and body contain different freemails
+X-Spam-Flag: NO
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tr><td valign=3D"t=
+op"><div id=3D'yahoo__compose_area' style=3D"background-color:white; displa=
+y:block; font-family:HelveticaNeue-Regular,Helvetica;">Est=E1 a=ED a atuali=
+za=E7=E3o de fevereiro Marco, ta corrido pra passar ai de tarde a noite voc=
+=EA n=E3o est=E1 a=ED n=E3o consigo pegar o aparelho vou ver se passo este =
+fim de semana<div><br></div><div>Abra=E7o <br><br><br><a href=3D"https://yh=
+o.com/footer0">Enviado do Yahoo Mail para iPad</a></div></div><div id=3D'ya=
+hoo__original_message' class=3D'yQTDBase'><br>---- Begin Forwarded Message =
+----<blockquote style=3D"margin:0 0 0 .8ex; border-left:1px #ccc solid; pad=
+ding-left:1ex; "><b>De: </b>PROBOX 2015<'noreply+feedproxy@google.com'><br>=
+<b>Data: </b>01/03/2015 02:26:00<br><b>Para: </b><'cleber.maximiliano@yahoo=
+.com.br'><br><b>Assunto: </b>PROBOX 2012<br><div id=3D"yiv7432751867">=0A=
+=0A=0A =0A<title>PROBOX 2015</title>=0A=0A<div>=0A<style type=3D"text/css">=
+=0A=0A#yiv7432751867 h1 a:hover {background-color:#888;color:#fff important=
+;}=0A=0A#yiv7432751867 div#yiv7432751867emailbody table#yiv7432751867itemco=
+ntentlist tr td div ul {=0Alist-style-type:square;padding-left:1em;}=0A=0A#=
+yiv7432751867 div#yiv7432751867emailbody table#yiv7432751867itemcontentlist=
+ tr td div blockquote {=0Apadding-left:6px;border-left:6px solid #dadada;ma=
+rgin-left:1em;}=0A=0A#yiv7432751867 div#yiv7432751867emailbody table#yiv743=
+2751867itemcontentlist tr td div li {=0Amargin-bottom:1em;margin-left:1em;}=
+=0A=0A=0A#yiv7432751867 table#yiv7432751867itemcontentlist tr td a:link, #y=
+iv7432751867 table#yiv7432751867itemcontentlist tr td a:visited, #yiv743275=
+1867 table#yiv7432751867itemcontentlist tr td a:active, #yiv7432751867 ul#y=
+iv7432751867summarylist li a {=0Acolor:#000099;font-weight:bold;text-decora=
+tion:none;}=0A=0A#yiv7432751867 img {border:none;}=0A=0A=0A</style>=0A<div =
+id=3D"yiv7432751867emailbody" style=3D"margin:0 2em;font-family:Georgia, He=
+lvetica, Arial, Sans-Serif;line-height:140%;font-size:13px;color:#000000;">=
+=0A<table style=3D"border:0;padding:0;margin:0;width:100%;">=0A<tbody><tr>=
+=0A<td style=3D"vertical-align:top;" width=3D"99%">=0A<h1 style=3D"margin:0=
+;padding-bottom:6px;">=0A<a rel=3D"nofollow" style=3D"color:#888;font-size:=
+22px;font-family:Arial, Helvetica, Sans-Serif;font-weight:normal;text-decor=
+ation:none;" target=3D"_blank" href=3D"http://probox2012.blogspot.com/" tit=
+le=3D"(http://probox2012.blogspot.com/)">PROBOX 2012</a>=0A</h1>=0A</td>=0A=
+<td width=3D"1%">=0A</td></tr>=0A</tbody></table>=0A<hr style=3D"border:1px=
+ solid #ccc;padding:0;margin:0;">=0A<ul style=3D"clear:both;padding:0 0 0 1=
+.2em;width:100%;" id=3D"yiv7432751867summarylist">=0A<li>=0A<a rel=3D"nofol=
+low" href=3D"#1">IMFORMAMOS QUE N=C3O OUVE RENOVA=C7=C3O DE PARCERIA DE BAN=
+NER 28/02/2015</a>=0A</li>=0A<li>=0A<a rel=3D"nofollow" href=3D"#2">NOVA AT=
+UALIZA=C7=C3O DO RECEPTOR GIGABOX IPLUS 28/02/2015</a>=0A</li>=0A<li>=0A<a =
+rel=3D"nofollow" href=3D"#3">NOVA ATUALIZA=C7=C3O DO RECEPTOR AZAMERICA S92=
+6 28/02/2015</a>=0A</li>=0A<li>=0A<a rel=3D"nofollow" href=3D"#4">ATUALIZA=
+=C7=C3O ORIGINAL RECEPTOR AZAMERICA S1001 28/02/2015</a>=0A</li>=0A<li>=0A<=
+a rel=3D"nofollow" href=3D"#5">ATUALIZA=C7=C3O PARA RECEPTOR AZAMERICA S100=
+1 PLUS 28/02/2015</a>=0A</li>=0A<li>=0A<a rel=3D"nofollow" href=3D"#6">ATUA=
+LIZA=C7=C3O AZAMERICA S1001 FAKE 27/02/2015</a>=0A</li>=0A<li>=0A<a rel=3D"=
+nofollow" href=3D"#7">ATUALIZA=C7=C3O PARA RECEPTOR AZAMERICA S1005 28/02/2=
+015</a>=0A</li>=0A<li>=0A<a rel=3D"nofollow" href=3D"#8">ATUALIZA=C7=C3O PA=
+RA RECEPTOR AZAMERICA S2015 28/02/2015</a>=0A</li>=0A</ul>=0A<table id=3D"y=
+iv7432751867itemcontentlist">=0A<tbody><tr>=0A<td style=3D"margin-bottom:0;=
+line-height:1.4em;">=0A<p style=3D"margin:1em 0 3px 0;">=0A<a rel=3D"nofoll=
+ow" name=3D"1" style=3D"font-family:Arial, Helvetica, Sans-Serif;font-size:=
+18px;" target=3D"_blank" href=3D"http://feedproxy.google.com/~r/Probox2012/=
+~3/IC9oEi1WvoI/imformamos-que-nao-ouve-renovacao-de.html?utm_source=3Dfeedb=
+urner&utm_medium=3Demail">IMFORMAMOS QUE N=C3O OUVE RENOVA=C7=C3O DE PARCER=
+IA DE BANNER 28/02/2015</a>=0A</p>=0A<p style=3D"font-size:13px;color:#555;=
+margin:9px 0 3px 0;font-family:Georgia, Helvetica, Arial, Sans-Serif;line-h=
+eight:140%;font-size:13px;">=0A<span>Posted:</span> 28 Feb 2015 02:20 PM PS=
+T</p>=0A<div style=3D"margin:0;font-family:Georgia, Helvetica, Arial, Sans-=
+Serif;line-height:140%;font-size:13px;color:#000000;"><div style=3D"text-al=
+ign:center;">IMFORMAMOS QUE N=C3O OUVE RENOVA=C7=C3O DE PARCERIA DE BANNER =
+28/02/2015</div><div style=3D"text-align:center;"><img alt=3D"Resultado de =
+imagem para BANNER" src=3D"https://encrypted-tbn1.gstatic.com/images?q=3Dtb=
+n:ANd9GcRBMGY_ut-iu6RkaUl7TPtNSl75Ho-sd_7Qcf7Vo1-WNgy_Vkk8"></div><div styl=
+e=3D"text-align:center;">DEPOIS DE VARIAS TENTATIVAS DE CONTATOS SEM SUCE=
+=C7O RETIRAMOS OS ANUNCIOS DOS SITES DE VENDAS.</div><div style=3D"text-ali=
+gn:center;">http://www.lojasaturno.com/</div><div style=3D"text-align:cente=
+r;"><br></div><div class=3D"yiv7432751867feedflare">=0A<a rel=3D"nofollow" =
+target=3D"_blank" href=3D"http://feeds.feedburner.com/~ff/Probox2012?a=3DIC=
+9oEi1WvoI:6EjeRSBVZaY:yIl2AUoC8zA"><img src=3D"http://feeds.feedburner.com/=
+~ff/Probox2012?d=3DyIl2AUoC8zA" border=3D"0"></a>=0A</div><img src=3D"http:=
+//feeds.feedburner.com/~r/Probox2012/~4/IC9oEi1WvoI?utm_source=3Dfeedburner=
+&utm_medium=3Demail" height=3D"1" width=3D"1" alt=3D""></div>=0A</td>=0A</t=
+r>=0A<tr>=0A<td style=3D"margin-bottom:0;line-height:1.4em;">=0A<p style=3D=
+"margin:1em 0 3px 0;">=0A<a rel=3D"nofollow" name=3D"2" style=3D"font-famil=
+y:Arial, Helvetica, Sans-Serif;font-size:18px;" target=3D"_blank" href=3D"h=
+ttp://feedproxy.google.com/~r/Probox2012/~3/2mdfnHAm8NI/nova-atualizacao-do=
+-receptor-gigabox_28.html?utm_source=3Dfeedburner&utm_medium=3Demail">NOVA =
+ATUALIZA=C7=C3O DO RECEPTOR GIGABOX IPLUS 28/02/2015</a>=0A</p>=0A<p style=
+=3D"font-size:13px;color:#555;margin:9px 0 3px 0;font-family:Georgia, Helve=
+tica, Arial, Sans-Serif;line-height:140%;font-size:13px;">=0A<span>Posted:<=
+/span> 28 Feb 2015 01:27 PM PST</p>=0A<div style=3D"margin:0;font-family:Ge=
+orgia, Helvetica, Arial, Sans-Serif;line-height:140%;font-size:13px;color:#=
+000000;"><div style=3D"text-align:center;">NOVA ATUALIZA=C7=C3O DO RECEPTOR=
+ GIGABOX IPLUS 28/02/2015</div><div style=3D"text-align:center;"><br></div>=
+<div class=3D"yiv7432751867separator" style=3D"clear:both;text-align:center=
+;"><a rel=3D"nofollow" target=3D"_blank" href=3D"https://images-blogger-ope=
+nsocial.googleusercontent.com/gadgets/proxy?url=3Dhttp%3A%2F%2F3.bp.blogspo=
+t.com%2F-0aeVcV5awOk%2FVOR_G7nTmgI%2FAAAAAAAABVY%2F6pUoW9ZfKmk%2Fs1600%2F1.=
+bmp&container=3Dblogger&gadget=3Da&rewriteMime=3Dimage%2F*" style=3D"margin=
+-left:1em;margin-right:1em;"><img border=3D"0" height=3D"182" src=3D"https:=
+//images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=3Dhttp%=
+3A%2F%2F3.bp.blogspot.com%2F-0aeVcV5awOk%2FVOR_G7nTmgI%2FAAAAAAAABVY%2F6pUo=
+W9ZfKmk%2Fs1600%2F1.bmp&container=3Dblogger&gadget=3Da&rewriteMime=3Dimage%=
+2F*" width=3D"400"></a></div><div class=3D"yiv7432751867separator"
+ style=3D"clear:both;text-align:center;"><br></div><br><div style=3D"text-a=
+lign:center;"><a rel=3D"nofollow" target=3D"_blank" href=3D"http://www.myla=
+tbox.com/iPlus.zip" style=3D"background-color:white;color:#007bc4;font-fami=
+ly:Arial, Helvetica, sans-serif;font-size:13px;outline:none;text-decoration=
+:none;"><span style=3D"font-size:large;">Download</span></a></div><span sty=
+le=3D"background-color:white;color:#51555c;font-family:Arial, Helvetica, sa=
+ns-serif;font-size:large;"></span><br><div style=3D"text-align:center;"><sp=
+an style=3D"background-color:white;color:#51555c;font-family:Arial, Helveti=
+ca, sans-serif;font-size:large;"><span style=3D"font-size:x-small;">  iPlus=
+</span></span></div><div style=3D"text-align:center;">  release 01.007</div=
+><span style=3D"background-color:white;color:#51555c;font-family:Arial, Hel=
+vetica, sans-serif;font-size:large;"><span style=3D"font-size:x-small;"><sp=
+an style=3D"font-size:x-small;"></span></span></span><br><div style=3D"text=
+-align:center;"><div
+ style=3D"margin:0px;">  (2015,Feb,27)</div></div><div class=3D"yiv74327518=
+67feedflare">=0A<a rel=3D"nofollow" target=3D"_blank" href=3D"http://feeds.=
+feedburner.com/~ff/Probox2012?a=3D2mdfnHAm8NI:kSRCuj369NE:yIl2AUoC8zA"><img=
+ src=3D"http://feeds.feedburner.com/~ff/Probox2012?d=3DyIl2AUoC8zA" border=
+=3D"0"></a>=0A</div><img src=3D"http://feeds.feedburner.com/~r/Probox2012/~=
+4/2mdfnHAm8NI?utm_source=3Dfeedburner&utm_medium=3Demail" height=3D"1" widt=
+h=3D"1" alt=3D""></div>=0A</td>=0A</tr>=0A<tr>=0A<td style=3D"margin-bottom=
+:0;line-height:1.4em;">=0A<p style=3D"margin:1em 0 3px 0;">=0A<a rel=3D"nof=
+ollow" name=3D"3" style=3D"font-family:Arial, Helvetica, Sans-Serif;font-si=
+ze:18px;" target=3D"_blank" href=3D"http://feedproxy.google.com/~r/Probox20=
+12/~3/qjqrmQjAZ60/nova-atualizacao-do-receptor-azamerica.html?utm_source=3D=
+feedburner&utm_medium=3Demail">NOVA ATUALIZA=C7=C3O DO RECEPTOR AZAMERICA S=
+926 28/02/2015</a>=0A</p>=0A<p style=3D"font-size:13px;color:#555;margin:9p=
+x 0 3px 0;font-family:Georgia, Helvetica, Arial, Sans-Serif;line-height:140=
+%;font-size:13px;">=0A<span>Posted:</span> 28 Feb 2015 12:25 PM PST</p>=0A<=
+div style=3D"margin:0;font-family:Georgia, Helvetica, Arial, Sans-Serif;lin=
+e-height:140%;font-size:13px;color:#000000;"><div style=3D"text-align:cente=
+r;"><span style=3D"font-size:large;">NOVA ATUALIZA=C7=C3O DO RECEPTOT AZAME=
+RICA S926 28/02/2015</span></div><div style=3D"text-align:center;"><br></di=
+v><div class=3D"yiv7432751867separator" style=3D"clear:both;text-align:cent=
+er;"><a rel=3D"nofollow" target=3D"_blank" href=3D"https://images-blogger-o=
+pensocial.googleusercontent.com/gadgets/proxy?url=3Dhttp%3A%2F%2F2.bp.blogs=
+pot.com%2F-hc44bhznNvk%2FVOMz9gLI7HI%2FAAAAAAAABUI%2FY-7uCQrTKI4%2Fs1600%2F=
+1.bmp&container=3Dblogger&gadget=3Da&rewriteMime=3Dimage%2F*" style=3D"marg=
+in-left:1em;margin-right:1em;"><img border=3D"0" height=3D"156" src=3D"http=
+s://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=3Dhtt=
+p%3A%2F%2F2.bp.blogspot.com%2F-hc44bhznNvk%2FVOMz9gLI7HI%2FAAAAAAAABUI%2FY-=
+7uCQrTKI4%2Fs1600%2F1.bmp&container=3Dblogger&gadget=3Da&rewriteMime=3Dimag=
+e%2F*" width=3D"400"></a></div><div
+ class=3D"yiv7432751867separator" style=3D"clear:both;text-align:center;"><=
+br></div><div class=3D"yiv7432751867separator" style=3D"clear:both;text-ali=
+gn:center;"><span style=3D"font-size:large;"><a rel=3D"nofollow" target=3D"=
+_blank" href=3D"http://az-world.sytes.net/download/S926_V1.88_28-02-2015.zi=
+p">S926_V1.88_28-02-2015.zip 28-Feb- 2015</a></span></div><div style=3D"tex=
+t-align:center;"><br></div><div class=3D"yiv7432751867feedflare">=0A<a rel=
+=3D"nofollow" target=3D"_blank" href=3D"http://feeds.feedburner.com/~ff/Pro=
+box2012?a=3DqjqrmQjAZ60:pRHm3oj3pp0:yIl2AUoC8zA"><img src=3D"http://feeds.f=
+eedburner.com/~ff/Probox2012?d=3DyIl2AUoC8zA" border=3D"0"></a>=0A</div><im=
+g src=3D"http://feeds.feedburner.com/~r/Probox2012/~4/qjqrmQjAZ60?utm_sourc=
+e=3Dfeedburner&utm_medium=3Demail" height=3D"1" width=3D"1" alt=3D""></div>=
+=0A</td>=0A</tr>=0A<tr>=0A<td style=3D"margin-bottom:0;line-height:1.4em;">=
+=0A<p style=3D"margin:1em 0 3px 0;">=0A<a rel=3D"nofollow" name=3D"4" style=
+=3D"font-family:Arial, Helvetica, Sans-Serif;font-size:18px;" target=3D"_bl=
+ank" href=3D"http://feedproxy.google.com/~r/Probox2012/~3/fSzVjJCNdv4/atual=
+izacao-original-receptor-azamerica.html?utm_source=3Dfeedburner&utm_medium=
+=3Demail">ATUALIZA=C7=C3O ORIGINAL RECEPTOR AZAMERICA S1001 28/02/2015</a>=
+=0A</p>=0A<p style=3D"font-size:13px;color:#555;margin:9px 0 3px 0;font-fam=
+ily:Georgia, Helvetica, Arial, Sans-Serif;line-height:140%;font-size:13px;"=
+>=0A<span>Posted:</span> 28 Feb 2015 09:12 AM PST</p>=0A<div style=3D"margi=
+n:0;font-family:Georgia, Helvetica, Arial, Sans-Serif;line-height:140%;font=
+-size:13px;color:#000000;"><div style=3D"text-align:center;"><span style=3D=
+"font-size:large;"><b>ATUALIZA=C7=C3O ORIGINAL RECEPTOR AZAMERICA S1001 28/=
+02/2015</b></span></div><div style=3D"text-align:center;"><br></div><div cl=
+ass=3D"yiv7432751867separator" style=3D"clear:both;text-align:center;"><a r=
+el=3D"nofollow" target=3D"_blank" href=3D"https://images-blogger-opensocial=
+.googleusercontent.com/gadgets/proxy?url=3Dhttp%3A%2F%2F2.bp.blogspot.com%2=
+F-hc44bhznNvk%2FVOMz9gLI7HI%2FAAAAAAAABUI%2FY-7uCQrTKI4%2Fs1600%2F1.bmp&con=
+tainer=3Dblogger&gadget=3Da&rewriteMime=3Dimage%2F*" style=3D"margin-left:1=
+em;margin-right:1em;"><img border=3D"0" height=3D"156" src=3D"https://image=
+s-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=3Dhttp%3A%2F%2=
+F2.bp.blogspot.com%2F-hc44bhznNvk%2FVOMz9gLI7HI%2FAAAAAAAABUI%2FY-7uCQrTKI4=
+%2Fs1600%2F1.bmp&container=3Dblogger&gadget=3Da&rewriteMime=3Dimage%2F*"
+ width=3D"400"></a></div><div class=3D"yiv7432751867separator" style=3D"cle=
+ar:both;text-align:center;"><br></div><div class=3D"yiv7432751867separator"=
+ style=3D"clear:both;text-align:center;"><br></div><div style=3D"text-align=
+:center;"><span style=3D"font-size:large;"><a rel=3D"nofollow" target=3D"_b=
+lank" href=3D"http://az-world.sytes.net/download/S1001_V1.09.13701_20150228=
+.zip">S1001_V1.09.13701_20150228.zip 28-Feb- 2015</a></span></div><div styl=
+e=3D"text-align:center;"><br></div><div class=3D"yiv7432751867feedflare">=
+=0A<a rel=3D"nofollow" target=3D"_blank" href=3D"http://feeds.feedburner.co=
+m/~ff/Probox2012?a=3DfSzVjJCNdv4:OMfAp5nNZs0:yIl2AUoC8zA"><img src=3D"http:=
+//feeds.feedburner.com/~ff/Probox2012?d=3DyIl2AUoC8zA" border=3D"0"></a>=0A=
+</div><img src=3D"http://feeds.feedburner.com/~r/Probox2012/~4/fSzVjJCNdv4?=
+utm_source=3Dfeedburner&utm_medium=3Demail" height=3D"1" width=3D"1" alt=3D=
+""></div>=0A</td>=0A</tr>=0A<tr>=0A<td style=3D"margin-bottom:0;line-height=
+:1.4em;">=0A<p style=3D"margin:1em 0 3px 0;">=0A<a rel=3D"nofollow" name=3D=
+"5" style=3D"font-family:Arial, Helvetica, Sans-Serif;font-size:18px;" targ=
+et=3D"_blank" href=3D"http://feedproxy.google.com/~r/Probox2012/~3/ByyylY0t=
+y1U/atualizacao-para-receptor-azamerica_26.html?utm_source=3Dfeedburner&utm=
+_medium=3Demail">ATUALIZA=C7=C3O PARA RECEPTOR AZAMERICA S1001 PLUS 28/02/2=
+015</a>=0A</p>=0A<p style=3D"font-size:13px;color:#555;margin:9px 0 3px 0;f=
+ont-family:Georgia, Helvetica, Arial, Sans-Serif;line-height:140%;font-size=
+:13px;">=0A<span>Posted:</span> 28 Feb 2015 09:12 AM PST</p>=0A<div style=
+=3D"margin:0;font-family:Georgia, Helvetica, Arial, Sans-Serif;line-height:=
+140%;font-size:13px;color:#000000;"><div style=3D"text-align:center;"><span=
+ style=3D"font-size:large;"><b>ATUALIZA=C7=C3O PARA RECEPTOR AZAMERICA S100=
+1 PLUS 28/02/2015</b></span></div><div style=3D"text-align:center;"><br></d=
+iv><div class=3D"yiv7432751867separator" style=3D"clear:both;text-align:cen=
+ter;"><a rel=3D"nofollow" target=3D"_blank" href=3D"https://images-blogger-=
+opensocial.googleusercontent.com/gadgets/proxy?url=3Dhttp%3A%2F%2F2.bp.blog=
+spot.com%2F-hc44bhznNvk%2FVOMz9gLI7HI%2FAAAAAAAABUI%2FY-7uCQrTKI4%2Fs1600%2=
+F1.bmp&container=3Dblogger&gadget=3Da&rewriteMime=3Dimage%2F*" style=3D"mar=
+gin-left:1em;margin-right:1em;"><img border=3D"0" height=3D"156" src=3D"htt=
+ps://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=3Dht=
+tp%3A%2F%2F2.bp.blogspot.com%2F-hc44bhznNvk%2FVOMz9gLI7HI%2FAAAAAAAABUI%2FY=
+-7uCQrTKI4%2Fs1600%2F1.bmp&container=3Dblogger&gadget=3Da&rewriteMime=3Dima=
+ge%2F*"
+ width=3D"400"></a></div><div class=3D"yiv7432751867separator" style=3D"cle=
+ar:both;text-align:center;"><br></div><div class=3D"yiv7432751867separator"=
+ style=3D"clear:both;text-align:center;"><a rel=3D"nofollow" target=3D"_bla=
+nk" href=3D"http://az-world.sytes.net/download/S1001_PLUS_V1.09.13701_20150=
+228.zip" style=3D"font-size:x-large;">S1001_PLUS_V1.09.13701_20150228.zip 2=
+8-Feb- 2015</a></div><div><br></div><div class=3D"yiv7432751867feedflare">=
+=0A<a rel=3D"nofollow" target=3D"_blank" href=3D"http://feeds.feedburner.co=
+m/~ff/Probox2012?a=3DByyylY0ty1U:8eSaVCMQmjo:yIl2AUoC8zA"><img src=3D"http:=
+//feeds.feedburner.com/~ff/Probox2012?d=3DyIl2AUoC8zA" border=3D"0"></a>=0A=
+</div><img src=3D"http://feeds.feedburner.com/~r/Probox2012/~4/ByyylY0ty1U?=
+utm_source=3Dfeedburner&utm_medium=3Demail" height=3D"1" width=3D"1" alt=3D=
+""></div>=0A</td>=0A</tr>=0A<tr>=0A<td style=3D"margin-bottom:0;line-height=
+:1.4em;">=0A<p style=3D"margin:1em 0 3px 0;">=0A<a rel=3D"nofollow" name=3D=
+"6" style=3D"font-family:Arial, Helvetica, Sans-Serif;font-size:18px;" targ=
+et=3D"_blank" href=3D"http://feedproxy.google.com/~r/Probox2012/~3/3LHotyEs=
+HhU/atualizacao-azamerica-s1001-fake.html?utm_source=3Dfeedburner&utm_mediu=
+m=3Demail">ATUALIZA=C7=C3O AZAMERICA S1001 FAKE 27/02/2015</a>=0A</p>=0A<p =
+style=3D"font-size:13px;color:#555;margin:9px 0 3px 0;font-family:Georgia, =
+Helvetica, Arial, Sans-Serif;line-height:140%;font-size:13px;">=0A<span>Pos=
+ted:</span> 28 Feb 2015 04:22 AM PST</p>=0A<div style=3D"margin:0;font-fami=
+ly:Georgia, Helvetica, Arial, Sans-Serif;line-height:140%;font-size:13px;co=
+lor:#000000;"><div style=3D"text-align:center;"><span style=3D"font-size:la=
+rge;"><b>ATUALIZA=C7=C3O AZAMERICA S1001</b></span><b style=3D"font-size:x-=
+large;"> FAKE 27/02/2015</b></div><div style=3D"text-align:center;"><br></d=
+iv><div class=3D"yiv7432751867separator" style=3D"clear:both;text-align:cen=
+ter;"><a rel=3D"nofollow" target=3D"_blank" href=3D"https://images-blogger-=
+opensocial.googleusercontent.com/gadgets/proxy?url=3Dhttp%3A%2F%2F2.bp.blog=
+spot.com%2F-hc44bhznNvk%2FVOMz9gLI7HI%2FAAAAAAAABUI%2FY-7uCQrTKI4%2Fs1600%2=
+F1.bmp&container=3Dblogger&gadget=3Da&rewriteMime=3Dimage%2F*" style=3D"mar=
+gin-left:1em;margin-right:1em;"><img border=3D"0" height=3D"156" src=3D"htt=
+ps://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=3Dht=
+tp%3A%2F%2F2.bp.blogspot.com%2F-hc44bhznNvk%2FVOMz9gLI7HI%2FAAAAAAAABUI%2FY=
+-7uCQrTKI4%2Fs1600%2F1.bmp&container=3Dblogger&gadget=3Da&rewriteMime=3Dima=
+ge%2F*"
+ width=3D"400"></a></div><div class=3D"yiv7432751867separator" style=3D"cle=
+ar:both;text-align:center;"><span style=3D"font-size:large;"><br></span></d=
+iv><div class=3D"yiv7432751867separator" style=3D"clear:both;text-align:cen=
+ter;"><span style=3D"font-size:large;">S1001_V1.09.13467_20150227.zip</span=
+></div><div class=3D"yiv7432751867separator" style=3D"clear:both;text-align=
+:center;">VI QUE ESSA ATUALIZA=C7=C3O DO AZAMERICA S1001 FOI POSTADA EM ALG=
+UNS SITES,</div><div class=3D"yiv7432751867separator" style=3D"clear:both;t=
+ext-align:center;"><br></div><div class=3D"yiv7432751867separator" style=3D=
+"clear:both;text-align:center;"><span style=3D"color:red;">N=C3O ATUALIZEM =
+COM ESSA ATUALIZA=C7=C3O ELA N=C3O =C9 OFIAL N=C3O SEI O QUE PODE ACONTECER=
+ A SEU S1001.</span></div><div class=3D"yiv7432751867feedflare">=0A<a rel=
+=3D"nofollow" target=3D"_blank" href=3D"http://feeds.feedburner.com/~ff/Pro=
+box2012?a=3D3LHotyEsHhU:p_Hjk0XSkYY:yIl2AUoC8zA"><img src=3D"http://feeds.f=
+eedburner.com/~ff/Probox2012?d=3DyIl2AUoC8zA" border=3D"0"></a>=0A</div><im=
+g src=3D"http://feeds.feedburner.com/~r/Probox2012/~4/3LHotyEsHhU?utm_sourc=
+e=3Dfeedburner&utm_medium=3Demail" height=3D"1" width=3D"1" alt=3D""></div>=
+=0A</td>=0A</tr>=0A<tr>=0A<td style=3D"margin-bottom:0;line-height:1.4em;">=
+=0A<p style=3D"margin:1em 0 3px 0;">=0A<a rel=3D"nofollow" name=3D"7" style=
+=3D"font-family:Arial, Helvetica, Sans-Serif;font-size:18px;" target=3D"_bl=
+ank" href=3D"http://feedproxy.google.com/~r/Probox2012/~3/E4ZolwGA9yY/atual=
+izacao-para-receptor-azamerica_28.html?utm_source=3Dfeedburner&utm_medium=
+=3Demail">ATUALIZA=C7=C3O PARA RECEPTOR AZAMERICA S1005 28/02/2015</a>=0A</=
+p>=0A<p style=3D"font-size:13px;color:#555;margin:9px 0 3px 0;font-family:G=
+eorgia, Helvetica, Arial, Sans-Serif;line-height:140%;font-size:13px;">=0A<=
+span>Posted:</span> 28 Feb 2015 04:12 AM PST</p>=0A<div style=3D"margin:0;f=
+ont-family:Georgia, Helvetica, Arial, Sans-Serif;line-height:140%;font-size=
+:13px;color:#000000;"><div style=3D"text-align:center;"><span style=3D"font=
+-size:large;"><b>ATUALIZA=C7=C3O PARA RECEPTOR AZAMERICA S1005 28/02/2015</=
+b></span></div><div style=3D"text-align:center;"><br></div><div class=3D"yi=
+v7432751867separator" style=3D"clear:both;text-align:center;"><a rel=3D"nof=
+ollow" target=3D"_blank" href=3D"https://images-blogger-opensocial.googleus=
+ercontent.com/gadgets/proxy?url=3Dhttp%3A%2F%2F2.bp.blogspot.com%2F-hc44bhz=
+nNvk%2FVOMz9gLI7HI%2FAAAAAAAABUI%2FY-7uCQrTKI4%2Fs1600%2F1.bmp&container=3D=
+blogger&gadget=3Da&rewriteMime=3Dimage%2F*" style=3D"margin-left:1em;margin=
+-right:1em;"><img border=3D"0" height=3D"156" src=3D"https://images-blogger=
+-opensocial.googleusercontent.com/gadgets/proxy?url=3Dhttp%3A%2F%2F2.bp.blo=
+gspot.com%2F-hc44bhznNvk%2FVOMz9gLI7HI%2FAAAAAAAABUI%2FY-7uCQrTKI4%2Fs1600%=
+2F1.bmp&container=3Dblogger&gadget=3Da&rewriteMime=3Dimage%2F*"
+ width=3D"400"></a></div><div class=3D"yiv7432751867separator" style=3D"cle=
+ar:both;text-align:center;"><br></div><div class=3D"yiv7432751867separator"=
+ style=3D"clear:both;text-align:center;"><span style=3D"font-size:large;"><=
+a rel=3D"nofollow" target=3D"_blank" href=3D"http://az-world.sytes.net/down=
+load/S1005_V1.09.13728_20150228.zip">S1005_V1.09.13728_20150228.zip 28-Feb-=
+ 2015</a></span></div><div><br></div><div class=3D"yiv7432751867feedflare">=
+=0A<a rel=3D"nofollow" target=3D"_blank" href=3D"http://feeds.feedburner.co=
+m/~ff/Probox2012?a=3DE4ZolwGA9yY:tiB6ymafC1Y:yIl2AUoC8zA"><img src=3D"http:=
+//feeds.feedburner.com/~ff/Probox2012?d=3DyIl2AUoC8zA" border=3D"0"></a>=0A=
+</div><img src=3D"http://feeds.feedburner.com/~r/Probox2012/~4/E4ZolwGA9yY?=
+utm_source=3Dfeedburner&utm_medium=3Demail" height=3D"1" width=3D"1" alt=3D=
+""></div>=0A</td>=0A</tr>=0A<tr>=0A<td style=3D"margin-bottom:0;line-height=
+:1.4em;">=0A<p style=3D"margin:1em 0 3px 0;">=0A<a rel=3D"nofollow" name=3D=
+"8" style=3D"font-family:Arial, Helvetica, Sans-Serif;font-size:18px;" targ=
+et=3D"_blank" href=3D"http://feedproxy.google.com/~r/Probox2012/~3/NS_MZJEN=
+wKA/atualizacao-para-receptor-azamerica.html?utm_source=3Dfeedburner&utm_me=
+dium=3Demail">ATUALIZA=C7=C3O PARA RECEPTOR AZAMERICA S2015 28/02/2015</a>=
+=0A</p>=0A<p style=3D"font-size:13px;color:#555;margin:9px 0 3px 0;font-fam=
+ily:Georgia, Helvetica, Arial, Sans-Serif;line-height:140%;font-size:13px;"=
+>=0A<span>Posted:</span> 28 Feb 2015 04:08 AM PST</p>=0A<div style=3D"margi=
+n:0;font-family:Georgia, Helvetica, Arial, Sans-Serif;line-height:140%;font=
+-size:13px;color:#000000;"><div style=3D"text-align:center;"><span style=3D=
+"font-size:large;"><b>ATUALIZA=C7=C3O PARA RECEPTOR AZAMERICA S2015 28/02/2=
+015</b></span></div><div style=3D"text-align:center;"><br></div><div class=
+=3D"yiv7432751867separator" style=3D"clear:both;text-align:center;"><a rel=
+=3D"nofollow" target=3D"_blank" href=3D"https://images-blogger-opensocial.g=
+oogleusercontent.com/gadgets/proxy?url=3Dhttp%3A%2F%2F2.bp.blogspot.com%2F-=
+hc44bhznNvk%2FVOMz9gLI7HI%2FAAAAAAAABUI%2FY-7uCQrTKI4%2Fs1600%2F1.bmp&conta=
+iner=3Dblogger&gadget=3Da&rewriteMime=3Dimage%2F*" style=3D"margin-left:1em=
+;margin-right:1em;"><img border=3D"0" height=3D"156" src=3D"https://images-=
+blogger-opensocial.googleusercontent.com/gadgets/proxy?url=3Dhttp%3A%2F%2F2=
+.bp.blogspot.com%2F-hc44bhznNvk%2FVOMz9gLI7HI%2FAAAAAAAABUI%2FY-7uCQrTKI4%2=
+Fs1600%2F1.bmp&container=3Dblogger&gadget=3Da&rewriteMime=3Dimage%2F*"
+ width=3D"400"></a></div><div class=3D"yiv7432751867separator" style=3D"cle=
+ar:both;text-align:center;"></div><br><br><br><div style=3D"text-align:cent=
+er;"><a rel=3D"nofollow" target=3D"_blank" href=3D"http://az-world.sytes.ne=
+t/download/S2005/S2005_V1.09.13728_20150228.zip"><span style=3D"font-size:l=
+arge;">S2005_V1.09.13728_20150228.zip 28-Feb- 2015</span></a></div><div cla=
+ss=3D"yiv7432751867feedflare">=0A<a rel=3D"nofollow" target=3D"_blank" href=
+=3D"http://feeds.feedburner.com/~ff/Probox2012?a=3DNS_MZJENwKA:HoiRLuGDlcI:=
+yIl2AUoC8zA"><img src=3D"http://feeds.feedburner.com/~ff/Probox2012?d=3DyIl=
+2AUoC8zA" border=3D"0"></a>=0A</div><img src=3D"http://feeds.feedburner.com=
+/~r/Probox2012/~4/NS_MZJENwKA?utm_source=3Dfeedburner&utm_medium=3Demail" h=
+eight=3D"1" width=3D"1" alt=3D""></div>=0A</td>=0A</tr>=0A</tbody></table>=
+=0A<table style=3D"border-top:1px solid #999;padding-top:4px;margin-top:1.5=
+em;width:100%;" id=3D"yiv7432751867footer">=0A<tbody><tr>=0A<td style=3D"te=
+xt-align:left;font-family:Helvetica, Arial, Sans-Serif;font-size:11px;margi=
+n:0 6px 1.2em 0;color:#333;">You are subscribed to email updates from <a re=
+l=3D"nofollow" target=3D"_blank" href=3D"http://probox2012.blogspot.com/">P=
+ROBOX 2015</a>=0A<br>To stop receiving these emails, you may <a rel=3D"nofo=
+llow" target=3D"_blank" href=3D"https://feedburner.google.com/fb/a/mailunsu=
+bscribe?k=3DwGRIlRks9OQIIVUU6ekDZ3yXm8o">unsubscribe now</a>.</td>=0A<td st=
+yle=3D"font-family:Helvetica, Arial, Sans-Serif;font-size:11px;margin:0 6px=
+ 1.2em 0;color:#333;text-align:right;vertical-align:top;">Email delivery po=
+wered by Google</td>=0A</tr>=0A<tr>=0A<td colspan=3D"2" style=3D"text-align=
+:left;font-family:Helvetica, Arial, Sans-Serif;font-size:11px;margin:0 6px =
+1.2em 0;color:#333;">Google Inc., 1600 Amphitheatre Parkway, Mountain View,=
+ CA 94043, United States</td>=0A</tr>=0A</tbody></table>=0A</div>=0A</div>=
+=0A</div><div></div></blockquote></div></html></td></tr></table>

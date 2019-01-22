@@ -1,0 +1,109 @@
+Return-Path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.solbiz.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from h9.servidorhh.com
+	by h9.servidorhh.com with LMTP id wIjFGZj+WVuhJBwArjWGVg
+	for <marco@digitalfotoimagem.com.br>; Thu, 26 Jul 2018 14:02:16 -0300
+Return-path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.solbiz.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 26 Jul 2018 14:02:16 -0300
+Received: from o2.mailsg.leadlovers.com ([167.89.66.44]:38702)
+	by h9.servidorhh.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.solbiz.com.br>)
+	id 1fijea-007kRm-40
+	for marco@digitalfotoimagem.com.br; Thu, 26 Jul 2018 14:02:16 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=solbiz.com.br; 
+	h=content-type:from:mime-version:subject:to:list-unsubscribe; 
+	s=m1; bh=+M1CmbIkp5MrB9DB+8TPLxv2lOs=; b=wxU46X7aHMsPLpgqIjr66nD
+	f+97iLdnacBwkRuXDgScHo199qF3ETpbaL3/Vky6WNgX7+2PqDGHLEIqdonfZqth
+	puD0yS/e9KLHmhKIirZlM+1bOT1UQRulrvScmqy9Iuj2ShdLu8iPu1BkONR+uwEs
+	9hgIHVj7xyCASzqkKZBc=
+Received: by filter0049p3iad2.sendgrid.net with SMTP id filter0049p3iad2-23352-5B59FE4C-C6
+        2018-07-26 17:01:01.535729153 +0000 UTC m=+64842.452741168
+Received: from MjM4NDgwOQ (m3640.contabo.host [5.189.178.140])
+	by ismtpd0002p1lon1.sendgrid.net (SG) with HTTP id HbL8RKvOR6SlM66PRf-Yrw
+	Thu, 26 Jul 2018 17:01:00.851 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=d3d2c86ddfac7b11d7e399eb8b46c685489eba9ed4bdc5176ebbeb566014
+Date: Thu, 26 Jul 2018 17:01:24 +0000 (UTC)
+From: "Paulo Gerhardt" <paulo.gerhardt@solbiz.com.br>
+Mime-Version: 1.0
+Subject: =?UTF-8?B?QWNobyBxdWUgdm9jw6ogbsOjbyB2aXUhIFdvcmtzaG9wIEdSQVRVSVRPIHBhcmEgbXVkYXIgc2V1cyByZXN1bHRhZG9zIGrDoSE=?=
+To: <marco@digitalfotoimagem.com.br>
+Message-ID: <HbL8RKvOR6SlM66PRf-Yrw@ismtpd0002p1lon1.sendgrid.net>
+List-Unsubscribe: <mailto:unsubscribe@mailsg.solbiz.com.br?subject=https://u2384809.ct.sendgrid.net/wf/unsubscribe*q*upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiNL5UQMZXcoi6mKHrHRQ0FNts4ZdW-2Bx29C9Sc0hkSfpF1pbM8WSzO1-2F9-2BodY-2BFlKiLdFziVlR4qZQUYoPGKdFon26FZWGHuOCTF78arEvH0iIWh12iU2xhKRdf5bZTInzCJd4aFn736JpGygY-2ByQ4i428R4Uho7pmmjGX-2F7tCF1qycbR4BTJKuf8NRTwtpA9rN9JsY2hHnrCuspzpRewkjaVrOxry7SNzgHneRe7gdinpml41-2BvW8g-2BDOA7hTz6ezcmtd3lTG2wkPoSesRKfgokqhB9nedncHRG1z95VBQTKPLcAfdXSC3EXQpPNbWqd-2BdUW-2FTcYG1Qottygt2Qkf-2BCYkQRc1fB0Cho-2FeJhVwDemnI-2Bh1V-2Fr4mC4eD3cSbfjo>
+X-SG-EID: Hch+2AQw5UfQtHqV+P/3h94kWa/z3uc7aT9t1ffNJX6ejfdpfjs1c7IIdtNthFh9GJYH4WVsn+stVU
+ 9nnWU1mQATNsBYj/pLdCFXm8HBky3/ihTRDDckxmP6Fz4VmYTfn62stMkICPXxGfqUKKxgcQAwoVwk
+ 6mNirYvXoj+gKUCvp1epJtsoqtBfn2aDxw2Eai9qB70wl55MqyBKrWltQjZbbSh7NtP+zP0yLgeAtN
+ smwK83BC2vheJJnbPwTbyu
+X-SG-ID: lkbpAUns11GO9BdGkh+MdPP+BXXlMe7d4SouUdiBXwtVj3+KcAHBeQ9YJ+6gURmPiopwczu7dI1IN2
+ 3hv7mPkpzQR35+4YaCdLxoEY5j+D/8qxvXgbdaLGb/ChBXZigObzjIIrLZJCtJ6OVhZHKtTapDDKk8
+ 3BOhXyh7fEKabTUmRuvHtwePfcozR+NyBHeaZ8eu0e3pNunFnt1tgtpmUBdxm5tg/fMQp1+ADMr+fl
+ E=
+
+--d3d2c86ddfac7b11d7e399eb8b46c685489eba9ed4bdc5176ebbeb566014
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+=0D=0DOl=C3=A1, =0D=0DTudo bem? Voc=C3=AA sabe que =C3=A9 o mindset? Ele =
+=C3=A9 o respons=C3=A1vel pelo seu sucesso ou pelo seu fracasso. Voc=C3=AA =
+sabe que pode mudar seus resultados se adotar o mindset adequado? Queremos =
+te ajudar, por isto, criamos o Workshop O Mindset do Sucesso, que vamos rea=
+lizar no dia 31/07. Vamos selecionar apenas 50 empres=C3=A1rios e profissio=
+nais liberais. Se tens interesse em participar fa=C3=A7a sua inscri=C3=A7=
+=C3=A3o no link abaixo. =0D=0Dhttp://solbiz.com.br/workshop-o-mindset-do-su=
+cesso. =0D=0DVoc=C3=AA pode ler, estudar, participar de cursos e semin=C3=
+=A1rios, aprender novas t=C3=A9cnicas e at=C3=A9 desenvolver novas habilida=
+des, no entanto isto n=C3=A3o garante a mudan=C3=A7a dos teus resultados. =
+=C3=A9 preciso adquirir uma nova atitude mental. Sabe como conseguir isto? =
+Ent=C3=A3o ter=C3=A1s a chance de aprender. =0D=0DFaz a tua inscri=C3=A7=C3=
+=A3o aqui e torce para ser um dos 50 escolhidos. =0D=0DN=C3=A3o adianta fic=
+ar reclamando ou colocando a culpa nos outros ou na situa=C3=A7=C3=A3o. A m=
+udan=C3=A7a come=C3=A7a por voc=C3=AA. Mude seu mindset e mudar=C3=A1 seus =
+resultados =0D=0DSe candidata aqui. =0D=0DAbra=C3=A7os =0D=0DPaulo Gerhardt=
+ Ajudo Empresas a Alcan=C3=A7ar Resultados SuperioresClique aqui para n=C3=
+=A3o receber mais e-mails dessa lista (Unsubscribe).
+
+--d3d2c86ddfac7b11d7e399eb8b46c685489eba9ed4bdc5176ebbeb566014
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE><p>Ol&aacute;,</p>
+<p>Tudo bem? Voc&ecirc; sabe que &eacute; o mindset? Ele &eacute; o respons=
+&aacute;vel pelo seu sucesso ou pelo seu fracasso. Voc&ecirc; sabe que pode=
+ mudar seus resultados se adotar o mindset adequado? Queremos te ajudar, po=
+r isto, criamos o Workshop &ldquo;O Mindset do Sucesso&rdquo;, que vamos re=
+alizar no dia 31/07. Vamos selecionar apenas 50 empres&aacute;rios e profis=
+sionais liberais. Se tens interesse em participar fa&ccedil;a sua inscri&cc=
+edil;&atilde;o no link abaixo.</p>
+<p><a href=3D"http://click.pagina.services/redirect/redirect.aspx?A=3DR&l=
+=3D5E275C29-AA38-44AB-8387-06C6FE260043&u=3DEEC26BE2-50CC-445A-960A-EB0D694=
+1D82A" target=3D"_blank" rel=3D"noopener noreferrer">http://solbiz.com.br/w=
+orkshop-o-mindset-do-sucesso.</a></p>
+<p>Voc&ecirc; pode ler, estudar, participar de cursos e semin&aacute;rios, =
+aprender novas t&eacute;cnicas e at&eacute; desenvolver novas habilidades, =
+no entanto isto n&atilde;o garante a mudan&ccedil;a dos teus resultados. &E=
+acute; preciso adquirir uma nova atitude mental. Sabe como conseguir isto? =
+Ent&atilde;o ter&aacute;s a chance de aprender.</p>
+<p><a href=3D"http://click.pagina.services/redirect/redirect.aspx?A=3DR&l=
+=3D5E275C29-AA38-44AB-8387-06C6FE260043&u=3DEEC26BE2-50CC-445A-960A-EB0D694=
+1D82A" target=3D"_blank" rel=3D"noopener noreferrer">Faz a tua inscri&ccedi=
+l;&atilde;o aqui e torce para ser um dos 50 escolhidos.</a></p>
+<p>N&atilde;o adianta ficar reclamando ou colocando a culpa nos outros ou n=
+a situa&ccedil;&atilde;o. A mudan&ccedil;a come&ccedil;a por voc&ecirc;. Mu=
+de seu mindset e mudar&aacute; seus resultados</p>
+<p><a href=3D"http://click.pagina.services/redirect/redirect.aspx?A=3DR&l=
+=3D5E275C29-AA38-44AB-8387-06C6FE260043&u=3DEEC26BE2-50CC-445A-960A-EB0D694=
+1D82A" target=3D"_blank" rel=3D"noopener noreferrer">Se candidata aqui.</a>=
+</p>
+<p>Abra&ccedil;os</p>
+<p>Paulo Gerhardt<br /> Ajudo Empresas a Alcan&ccedil;ar Resultados Superio=
+res</p><a href=3D"http://click.pagina.services/redirect/redirect.aspx?A=3DU=
+&u=3DEEC26BE2-50CC-445A-960A-EB0D6941D82A" target=3D"_blank">Clique aqui pa=
+ra n&atilde;o receber mais e-mails dessa lista (Unsubscribe).</a><br /><img=
+ alt=3D"" src=3D"http://click.pagina.services/redirect/redirect.aspx?A=3DV&=
+u=3DEEC26BE2-50CC-445A-960A-EB0D6941D82A&IMG=3Dhttps://leadlovers.com/conte=
+nt/images/1px.png" />
+
+--d3d2c86ddfac7b11d7e399eb8b46c685489eba9ed4bdc5176ebbeb566014--

@@ -1,0 +1,1857 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201707 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/ssl/awstats.lermelhor.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2034                
+POS_TIME 2719                
+POS_VISITOR 23140               
+POS_DAY 65110               
+POS_DOMAIN 3663                
+POS_LOGIN 4206                
+POS_ROBOT 4361                
+POS_WORMS 5026                
+POS_EMAILSENDER 5157                
+POS_EMAILRECEIVER 5300                
+POS_SESSION 66027               
+POS_SIDER 66241               
+POS_FILETYPES 5435                
+POS_DOWNLOADS 5795                
+POS_OS 6103                
+POS_BROWSER 6438                
+POS_SCREENSIZE 10319               
+POS_UNKNOWNREFERER 10393               
+POS_UNKNOWNREFERERBROWSER 11004               
+POS_ORIGIN 11511               
+POS_SEREFERRALS 11659               
+POS_PAGEREFS 11816               
+POS_SEARCHWORDS 13895               
+POS_KEYWORDS 14047               
+POS_MISC 2381                
+POS_ERRORS 14106               
+POS_CLUSTER 4062                
+POS_SIDER_404 14284               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170801000950 671 226676 16881940264799
+FirstTime 20170701005955
+LastTime 20170731235638
+LastUpdate 20170801102653 671 0 670 0 0
+TotalVisits 1649                
+TotalUnique 995                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 1083                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 882 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 101 507 23017008 86 384 13125312
+1 47 173 5481220 60 175 5865058
+2 32 33 661636 85 125 5017754
+3 25 25 785616 61 121 2014618
+4 29 29 1014566 76 124 2343001
+5 43 47 722687 88 157 2163089
+6 17 18 386320 44 107 1521503
+7 51 187 6243814 375 506 8433814
+8 188 515 19182658 69 159 1505582
+9 151 879 32103407 108 279 12010720
+10 108 157 6738036 59 98 2077564
+11 121 305 11553864 73 181 5481445
+12 217 643 23749915 107 271 2596324
+13 126 614 22170664 61 177 3652565
+14 148 665 24219600 70 150 4158218
+15 159 471 19742212 103 179 4378154
+16 360 928 31743974 132 327 4631252
+17 494 1244 63305282 143 492 7203075
+18 369 817 29569667 128 356 6219426
+19 180 780 26183690 97 302 10321657
+20 258 559 24009548 67 216 5400327
+21 183 479 18612900 84 205 3409922
+22 250 571 37968744 113 241 5268239
+23 141 407 16739646 88 248 6293471
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 22
+br 3004 9607 399849006
+de 444 449 10210663
+us 154 763 26648331
+ua 128 128 664436
+my 13 51 1276633
+ca 12 12 758774
+ar 6 6 354843
+gb 6 6 471994
+cl 5 5 287766
+pt 4 4 242584
+ch 3 3 175810
+jp 3 3 222555
+th 2 2 124283
+es 2 2 133500
+za 2 2 121208
+cn 2 2 81576
+ru 2 2 154298
+au 2 2 111920
+co 1 1 2468
+fr 1 1 66750
+ao 1 1 2468
+uy 1 1 66750
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+googlebot 1137 15141022 20170731165828 212
+bot[\s_+:,\.\;\/\\-] 1045 23956556 20170731221103 239
+php 271 32002385 20170731184118 0
+bingpreview 238 9060689 20170730025646 0
+no_user_agent 141 15005490 20170729073143 0
+robot 86 3103598 20170731191855 23
+crawl 47 2600493 20170726072103 1
+google[_+\s]web[_+\s]preview 40 806991 20170712130323 0
+googlebot\-image 32 2313776 20170725064121 0
+slurp 15 96560 20170724000810 12
+unknown 4 268 20170716133637 4
+netcraft 3 230762 20170709070021 0
+[\s_+:,\.\;\/\\-]bot 1 140991 20170717140035 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 15
+pdf 18 22711990 0 0
+gif 289 263453 0 0
+html 2101 110151898 0 0
+png 427 10307430 0 0
+jpeg 98 5425223 0 0
+woff 7 122388 0 0
+php 1668 60920617 0 0
+svg 12 22507 0 0
+swf 8 92267 0 0
+jpg 1260 135502896 0 0
+woff2 3 64464 0 0
+css 3008 39143699 0 0
+Unknown 9 5787 0 0
+xml 2 2442 0 0
+js 2143 57291555 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/wp-content/uploads/2017/07/Roda-do-aprendizado-6-1.pdf 5 0 7667145
+/wp-content/uploads/2017/07/Untitled-1.pdf 4 3 537124
+/wp-content/uploads/2017/07/Roda-do-aprendizado-teste.pdf 4 55 13081562
+/wp-content/uploads/2017/07/Roda-do-aprendizado-6.pdf 1 0 1533429
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 19
+win8.1 107 34
+macosx5 5 5
+win8 55 21
+win2000 18 18
+winnt 1280 419
+Unknown 230 223
+ios_iphone 570 45
+winphone 76 2
+linuxandroid 2887 1068
+win7 5390 1786
+macosx 124 44
+winlong 16 16
+ios_ipad 22 1
+macosx9 2 2
+macosx4 10 9
+macosx8 1 1
+linux 115 49
+winxp 198 50
+win2003 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 175
+chrome59.0.3071.92 1 1
+chrome53.6.1536.6808 1 1
+chrome52.0.2743.116 104 5
+firefox45.74.27 2 2
+opera40.6.2643.7915 1 1
+opera42.0.4298.9026 1 1
+chrome47.0.2526.100 1 1
+chrome59.0.3071.122 4 4
+chrome57.4.0744.5016 1 1
+chrome53.6.0301.5039 1 1
+chrome57.5.1559.6821 2 2
+safari5.5.1 1 1
+opera44.5.0860.5132 1 1
+safari5.4.8 1 1
+msie7.0 3 1
+opera42.0.5713.9441 1 1
+chrome49.0.2623.75 43 43
+firefox45.0 1 1
+safari5.2.7 1 1
+chrome57.5.0557.4285 1 1
+opera44.5.0236.5508 2 2
+chrome55.1.6351.0089 1 1
+safari5.3.7 1 1
+chrome57.4.9517.5889 1 1
+firefox45.65.18 2 2
+opera44.5.1627.6999 1 1
+opera42.1.5766.0494 1 1
+firefox45.67.04 1 1
+firefox45.66.13 1 1
+chrome56.2.7545.1273 1 1
+chrome59.0.3071.125 1290 706
+chrome45.0.2454.94 1 1
+firefox3.6.3 1 1
+chrome53.6.1794.7066 1 1
+firefox52.57.00 1 1
+chrome53.6.1242.7514 1 1
+chrome57.5.0865.5137 1 1
+firefox52.55.08 2 2
+opera41.9.4154.8881 1 1
+chrome59.0.3071.112 43 1
+chrome53.8.3260.8532 1 1
+firefox52.55.02 1 1
+chrome57.5.0309.5671 1 1
+chrome45.0.2454.95 4 4
+chrome57.4.0979.5241 1 1
+safari 22 1
+netscape5.0 1 1
+chrome53.8.3267.8539 1 1
+chrome59.0.3071.115 5004 1450
+chrome61.0.3159.6 1 0
+firefox45.69.16 1 1
+chrome56.0.2924.87 103 23
+firefox45.63.16 1 1
+Unknown 205 198
+chrome53.6.0587.5215 1 1
+firefox45.68.11 1 1
+chrome56.3.7339.2067 1 1
+chrome57.0.2987.133 49 5
+chrome43.0.2357.93 1 0
+safari4.7.2 2 2
+firefox45.67.10 1 1
+chrome33.0.1750.152 1 1
+chrome57.4.9298.4561 1 1
+safari5.4.9 1 1
+opera41.9.3575.8203 1 1
+chrome58.0.3029.81 1 1
+firefox52.52.00 1 1
+chrome56.2.6081.1719 1 1
+opera42.0.5146.0874 1 1
+chrome33.0.1750.146 295 295
+firefox52.60.13 1 1
+chrome48.0.2564.106 2 2
+chrome50.0.2661.102 6 5
+firefox54.0 75 3
+safari6.0 1 1
+firefox27.0 1 1
+safari10.0 401 16
+chrome53.7.2503.8875 1 1
+msie9.0 2 2
+chrome56.1.6704.1432 1 1
+chrome57.5.0905.5277 2 2
+chrome58.0.3029.110 21 9
+chrome49.0.2623.112 182 36
+safari5.5.0 1 1
+chrome57.0.2987.132 785 62
+firefox21.0 1 1
+opera44.5.0356.5629 1 1
+mozilla 21 21
+firefox52.59.96 1 1
+firefox45.69.12 1 1
+netscape 32 32
+msie6.0 1 1
+opera44.5.1772.6044 1 1
+opera41.9.4596.9224 1 1
+chrome55.1.5970.0608 1 1
+chrome55.1.6217.1945 1 1
+chrome53.6.1307.6679 1 1
+firefox45.67.20 2 2
+chrome56.3.7569.2297 3 2
+safari5.6.1 6 6
+chrome57.4.9519.4246 1 1
+opera44.5.0095.6367 1 1
+firefox 1 1
+chrome46.0.2490.76 2 2
+chrome40.0.2214.93 1 1
+opera44.5.0836.6108 1 1
+chrome30.0.0.0 51 51
+safari9.0 73 3
+safari5.3.8 2 2
+opera41.9.4305.9033 1 1
+chrome42.0.2311.138 2 2
+msie11.0 162 15
+chrome55.0.2883.87 1 0
+chrome54.8.4267.9539 2 2
+chrome38.0.2125.102 126 14
+chrome53.0.2785.143 1 0
+firefox53.0 3 3
+chrome57.4.9700.4072 1 1
+opera40.6.1861.6033 1 1
+chrome55.1.6224.1952 2 2
+opera41.9.4288.9915 2 2
+firefox45.65.02 1 1
+iphone 96 26
+firefox11.0 2 0
+safari4.6.2 3 3
+chrome56.2.7438.2166 1 1
+chrome57.4.9920.4658 1 1
+chrome39.0.0.0 2 2
+opera41.9.4066.8794 1 1
+chrome57.4.9231.4969 1 1
+chrome54.0.2840.85 9 9
+safari7.0.3 1 1
+chrome51.0.2704.106 72 3
+firefox52.53.16 1 1
+chrome58.0.3029.83 164 65
+chrome43.0.2357.81 43 1
+chrome50.0.2661.86 5 5
+chrome53.8.3058.8320 2 2
+firefox52.54.07 1 1
+firefox52.53.00 1 1
+chrome54.0.2840.99 8 8
+chrome53.7.3639.8901 2 2
+firefox52.51.08 2 2
+chrome53.0.2785.124 4 4
+chrome57.4.9470.5742 1 1
+chrome56.2.7494.2132 1 1
+chrome52.0.2743.82 1 1
+android 36 17
+opera12.16 1 1
+chrome43.0.2357.121 1 1
+safari4.6.1 5 5
+chrome33.0.0.0 81 47
+chrome60.0.3112.78 2 0
+firefox12.0 1 1
+chrome44.0.2403.117 1 1
+chrome57.4.9820.5092 1 1
+chrome58.0.2988.0 1143 400
+chrome38.0.1025.166 109 10
+chrome51.0.2704.81 2 2
+firefox45.64.17 1 1
+firefox45.69.22 1 1
+opera44.5.0216.6589 1 1
+chrome57.5.1691.6963 1 1
+chrome59.0.3071.104 33 5
+chrome57.5.0155.4883 1 1
+chrome55.0.2883.91 27 27
+opera44.5.0071.5343 1 1
+chrome26.0.1410.64 1 1
+chrome53.6.1845.7117 1 1
+firefox29.0 3 3
+chrome57.4.9781.4419 2 2
+chrome42.0.2311.137 1 1
+msie8.0 1 1
+chrome51.0.2704.91 1 1
+chrome56.1.6276.1904 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+WhatsApp/2.17.190_A 20170724214553
+runscope/0.1 20170731225804
+Mozilla/5.0_(compatible;_ips-agent) 20170716133702
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com;_webmaster@moreover.com) 20170708190840
+WordPress/4.7.5;_https://lermelhor.com.br 20170731223522
+Outlook/15.0_(15.0.4937.1000;_MSI;_x86) 20170708154127
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20170707040620
+WhatsApp/0.2.5093_N 20170719153107
+Go_1.1_package_http 20170719094727
+Go-http-client/1.1 20170726025238
+Mozilla 20170708182509
+Ruby 20170704092653
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+WhatsApp/0.2.5093_N 20170719153107
+Go_1.1_package_http 20170719094727
+AdobeUxTechC4-Async/3.0.12_(win32) 20170725171043
+Go-http-client/1.1 20170726025238
+Ruby 20170704092653
+Microsoft_Office/15.0_(Windows_NT_6.1;_MAPI_15.0.4937;_Pro) 20170708154127
+WhatsApp/2.17.190_A 20170724214553
+runscope/0.1 20170731225804
+WordPress/4.7.5;_https://lermelhor.com.br 20170731223522
+Outlook/15.0_(15.0.4937.1000;_MSI;_x86) 20170708154127
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 435 527
+From1 0 0
+From2 10 47
+From3 1067 1067
+From4 2286 9470
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 10 47
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 23
+http://m.facebook.com 906 906
+http://m.facebook.com 70 70
+https://www.facebook.com 53 53
+https://hserv9.homehost.com.br:2083/cpsess6969390255/3rdparty/rvsitebuilder/index.php 6 6
+https://hserv9.homehost.com.br:2083/cpsess1025616513/frontend/paper_lantern/softaculous/index.live.php 4 4
+http://192.168.0.16:33333/Preview/website-12/index.html 3 3
+https://hserv9.homehost.com.br:2083/cpsess2404147372/frontend/paper_lantern/softaculous/index.live.php 3 3
+https://hserv9.homehost.com.br:2083/cpsess1661126355/frontend/paper_lantern/softaculous/index.live.php 3 3
+https://l.facebook.com/l.php 2 2
+https://hserv9.homehost.com.br:2083/cpsess3270164989/frontend/paper_lantern/softaculous/index.live.php 2 2
+https://hserv9.homehost.com.br:2083/cpsess0220779309/3rdparty/rvsitebuilder/index.php 2 2
+https://hserv9.homehost.com.br:2083/cpsess8656175791/3rdparty/rvsitebuilder/index.php 2 2
+https://hserv9.homehost.com.br:2083/cpsess1156155640/frontend/paper_lantern/softaculous/index.live.php 1 1
+https://hserv9.homehost.com.br:2083/cpsess7836304248/frontend/paper_lantern/softaculous/index.live.php 1 1
+https://hserv9.homehost.com.br:2083/cpsess0991780434/3rdparty/rvsitebuilder/index.php 1 1
+https://hserv9.homehost.com.br:2083/cpsess5310437946/frontend/paper_lantern/softaculous/index.live.php 1 1
+https://hserv9.homehost.com.br:2083/cpsess4845516346/3rdparty/rvsitebuilder/index.php 1 1
+https://hserv9.homehost.com.br:2083/cpsess8169810094/frontend/paper_lantern/softaculous/index.live.php 1 1
+https://googleweblight.com 1 1
+https://hserv9.homehost.com.br:2083/cpsess5258358912/frontend/paper_lantern/softaculous/index.live.php 1 1
+https://hserv9.homehost.com.br:2083/cpsess6969390255/frontend/paper_lantern/softaculous/index.live.php 1 1
+https://hserv9.homehost.com.br:2083/cpsess9260889499/3rdparty/rvsitebuilder/index.php 1 1
+https://hserv9.homehost.com.br:2083/cpsess4845516346/frontend/paper_lantern/softaculous/index.live.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+405 4 84
+302 238 221307
+301 967 18052
+508 12 87444
+206 116 4951121
+500 35 0
+400 2 96
+404 264 15354405
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 123
+/M%C3%B3dulo-3/customcss/cssProjectefd5c7b6a0a61a174df37cdfd2c3037e.css 4 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/plugins/uploadify/uploadify.swf 1 https://lermelhor.com.br/plugins/uploadify/uploadify.swf
+/sitemap_index.xml 2 -
+/M%C3%83%C2%B3dulo-3/rvsindex.php 10 -
+/Modulo-3/M%25C3%25B3dulo---3.php 1 -
+/system_info.php.suspected 1 http://lermelhor.com.br/system_info.php.suspected
+/images/azulok.jpg 1 -
+/images/curso2016.jpg 1 -
+/segmod/images/2/Rodadeaprendizagem.jpg 1 -
+/neurociencias/jfjoxigir1hlkio68ajfkr7s0ytaya0t.php 2 -
+/Modul 1 -
+/M%C3%B3dulo-3/js/jquery-ui/themes/base/ui.all.css 5 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/neurociencias/mwmfeynydezmfybr57d99ms6ooijrdre.php 3 -
+/M%C3%B3dulo-3/customcss/cssProjectPage8456e88a19aadc17610b509d0b80265e.css 4 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/M%C3%B3dulo-3/js/jquery-ui/external/responsivecarousel/autoinit.js 4 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/images/pag1teste.jpg 1 -
+/wp-content/system_info.php.suspected 1 http://lermelhor.com.br/wp-content/system_info.php.suspected
+/images/dec31shymrz.gif 1 -
+/images/dec31shymrz.txt 1 -
+/wp-content/uploads/8d4c2c146c1829c.php 1 -
+/8d4ccbf185d3e97.php 1 -
+/wp-content/uploads/8d4ccbf0307683b.php 1 -
+/blogs/wp-admin/setup-config.php 1 -
+/neuroci%C3%AAncias/promocional/Para%20come%C3%A7ar%20%22click%20aqui%22%20para%20fazer%20a%20sess%C3%A3o%20do%20modelo%20de%20coaching. 1 -
+/author/Ler%20Melhor/ 10 https://lermelhor.com.br/2017/06/02/swf/
+/Compra/images/video10porcento.jpg 1 -
+/images/2/DEMONSTRA%C3%87%C3%83O.jpg 1 -
+/neuroci%C3%AAncias/promocional/Para%20come%C3%A7ar%20&quot 4 https://lermelhor.com.br/neuroci\xc3\xaancias/promocional/index.php
+/download/roda-de-aprendizagem/feed/ 1 -
+/wp-admin/system_info.php 1 http://lermelhor.com.br/wp-admin/system_info.php
+/M%C3%B3dulo-3/js/jquery-ui/external/responsivecarousel/responsiveslides.css 4 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/wp-content/plugins/revslider/temp/update_extract/8d4c2c156e9eb8c.php 1 -
+/Modulo-3/optimizer.php 3 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/Modulo-1/ 1 -
+/images/GabineteVer.Ari_copy_1.jpg 3 -
+/segunda_fase/images/headerbanner/header_banner.jpg 2 https://lermelhor.com.br/teste/rvsindex.php
+/beta/wp-admin/setup-config.php 1 -
+/blog/wordpress/wp-admin/setup-config.php 1 -
+/neuroci%C3%AAncias/promocional/%3Ciframe%20src=%22player.vimeo.com/video/188327982%22%20width=%22640%22%20height=%22480%22%20frameborder=%220%22%20webkitallowfullscreen%20mozallowfullscreen%20allowfullscreen%3E%3C/iframe%3E%20%3Cp%3E%3Ca%20href=%22vimeo.c 2 -
+/Modulo- 1 -
+/up.php 2 -
+/Compra/images/pag2teste.jpg 1 -
+/M%25C3%25B3dulo-1/Teste.php 1 -
+/M 1 -
+/MKT/images/6.jpg 1 -
+/M%C3%B3dulo-3/js/publishNavigator/ddsmoothmenu.css 4 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/new/wp-admin/setup-config.php 1 -
+/images/Sinapse.jpg 1 -
+/neurociencias/promocional/&lt 1 -
+/M%C3%B3dulo-3/wysiwyg/fckeditor/editor/filemanager/connectors/uploadtest.html 2 -
+/neuroci\xeancias/promocional/ 1 -
+/promocional/Para%20come%C3%A7ar%20%22click%20aqui%22%20para%20fazer%20a%20sess%C3%A3o%20do%20modelo%20de%20coaching. 10 -
+/Mo 1 -
+/M%C3%B3dulo-3/rvsincludefile/rvsheadpage.js 5 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/shop/ 3 lermelhor.com.br/shop/
+/neuroci%C3%AAncias/promocional/%3Ciframe%20src=%22https:/player.vimeo.com/video/188313814%22%20width=%22640%22%20height=%22480%22%20frameborder=%220%22%20webkitallowfullscreen%20mozallowfullscreen%20allowfullscreen%3E%3C/iframe%3E%20%3Cp%3E%3Ca%20href=%22 1 -
+/admin/lib/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/wp-content/plugins/revslider/temp/update_extract/8d4ccbf148476e6.php 1 -
+/modulo-2/ 1 -
+/images/2/3.jpg 1 -
+/js/tests/%3C 2 http://lermelhor.com.br/js/tests/sample2.js.html
+/Modu 1 -
+/8d4ccbf103248f3.php 1 -
+/logo_img.php 1 http://lermelhor.com.br/logo_img.php
+/images/in%C3%ADcio.jpg 1 -
+/Compra/images/5/16.jpg 2 -
+/Modulo 1 -
+/neurociencias/promocional/Para%20come%C3%A7ar%20&quot 1 https://lermelhor.com.br/neurociencias/promocional/
+/neuroci%25C3%25AAncias/promocional/ 3 -
+/wp-includes/system_info.php.suspected 1 http://lermelhor.com.br/wp-includes/system_info.php.suspected
+/admin/uploadify/uploadify.swf 1 https://lermelhor.com.br/admin/uploadify/uploadify.swf
+/Mod 1 -
+/js/uploadify/uploadify.swf 1 https://lermelhor.com.br/js/uploadify/uploadify.swf
+/static/js/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/images/2/2.jpg 1 -
+/cms/uploadify/uploadify.swf 1 https://lermelhor.com.br/cms/uploadify/uploadify.swf
+/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php 1 http://lermelhor.com.br/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php
+/8d4c2c1537a8b5d.php 1 -
+/neurociencias/promocional/Para%20come%C3%A7ar%20%22click%20aqui%22%20para%20fazer%20a%20sess%C3%A3o%20do%20modelo%20de%20coaching. 9 -
+/copia/js/jquery-ui/ui/minified/jquery-ui.min.js 6 http://lermelhor.com.br/copia/rvsindex.php
+/logo_img.php.suspected 1 http://lermelhor.com.br/logo_img.php.suspected
+/wp-content/plugins/wp-db-ajax-made1/wp-ajax.php.suspected 1 http://lermelhor.com.br/wp-content/plugins/wp-db-ajax-made1/wp-ajax.php.suspected
+/M%C3%B3dulo-3/js/publishNavigator/ddsmoothmenu-v.css 4 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/wp-includes/logo_img.php.suspected 1 http://lermelhor.com.br/wp-includes/logo_img.php.suspected
+/m%C3%B3dulo-2/optimizer.php 1 https://lermelhor.com.br/m%C3%B3dulo-2/rvsindex.php
+/searchreplacedb2.php 1 http://lermelhor.com.br/searchreplacedb2.php
+/uploadify/uploadify.swf 1 https://lermelhor.com.br/uploadify/uploadify.swf
+/M%C3%B3dulo-3/css/rvwysiwyg-ui.css 5 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/includes/uploadify/uploadify.swf 1 https://lermelhor.com.br/includes/uploadify/uploadify.swf
+/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/wp-content/plugins/wp-db-ajax-made-1/wp-ajax.php.suspected 1 http://lermelhor.com.br/wp-content/plugins/wp-db-ajax-made-1/wp-ajax.php.suspected
+/neuroci%C3%AAncias/promocional/%3Ciframe%20src=%22https:/player.vimeo.com/video/188327982%22%20width=%22640%22%20height=%22480%22%20frameborder=%220%22%20webkitallowfullscreen%20mozallowfullscreen%20allowfullscreen%3E%3C/iframe%3E%20%3Cp%3E%3Ca%20href=%22 1 -
+/images/Vermelho.jpg 1 -
+/images/Amarelo.jpg 1 -
+/videos/Modelo-coaching.php 2 -
+/images/Empoderamento2.jpg 1 -
+/M%25C3%25B3dulo-1 1 -
+/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/.well-known/apple-app-site-association 8 -
+/M%C3%B3dulo-3/js/jquery-ui/external/responsivecarousel/responsiveslides.min.js 4 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/inc/uploadify/uploadify.swf 1 https://lermelhor.com.br/inc/uploadify/uploadify.swf
+/lib/uploadify/uploadify.swf 1 https://lermelhor.com.br/lib/uploadify/uploadify.swf
+/M%25C3%25B3dulo-1/Teste.ph 1 -
+/neuroci%C3%AAncias/promocional/%3Ciframe%20src=%22player.vimeo.com/video/188313814%22%20width=%22640%22%20height=%22480%22%20frameborder=%220%22%20webkitallowfullscreen%20mozallowfullscreen%20allowfullscreen%3E%3C/iframe%3E%20%3Cp%3E%3Ca%20href=%22vimeo.c 2 -
+/wp-admin/system_info.php.suspected 1 http://lermelhor.com.br/wp-admin/system_info.php.suspected
+/images/Rodadeaprendizagem5%C2%BAano.jpg 1 -
+/M%C3%B3dulo-3/js/jquery-ui/ui/minified/jquery-ui.min.js 4 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/wp-content/plugins/wp-crm/third-party/uploadify/uploadify.css 1 http://lermelhor.com.br/wp-content/plugins/wp-crm/third-party/uploadify/uploadify.css
+/images/2/jejacomoadquirir.jpg 1 -
+/wp-content/system_info.php 1 http://lermelhor.com.br/wp-content/system_info.php
+/M%C3%B3dulo-3/js/jquery-ui/jquery.min.js 4 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/author/LerMelhor/ 2 https://lermelhor.com.br/
+/neurociencias/&lt 1 -
+/8d4c2c159d6096b.php 1 -
+/wp-admin/logo_img.php 1 http://lermelhor.com.br/wp-admin/logo_img.php
+/neuroci%c3%aancias/promocional/Para%20come%C3%A7ar%20&quot 4 https://lermelhor.com.br/neuroci%c3%aancias/promocional/
+/wp-content/plugins/insert-php/readme.txt 2 http://lermelhor.com.br/wp-content/plugins/insert-php/readme.txt
+/M%C3%B3dulo-3/rvsincludefile/rvscustomopenwindow.js 4 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/depoimento-2016/embed/# 2 -
+/M%C3%B3dulo-3/js/jquery-ui/external/responsivecarousel/themes/themes.css 4 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/MonteiroLobato/images/GabineteVer.Ari_copy_1.jpg 1 -
+/teste-swf/untitled.swfhttps:/lermelhor.com.br/wp-content/uploads/2017/06/SAMPLE.swf 2 -
+/m%C3%83%C2%B3dulo-2/rvsindex.php 16 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1083
+201.6.231.203 1134 3450 142162201 20170712093135
+201.6.231.52 381 1772 74063334 20170731163501
+136.243.56.239 352 352 3599114 20170731225804
+189.62.156.164 285 607 17614867 20170712005058
+91.200.12.22 124 124 424644 20170731204209
+187.38.123.66 93 163 6654109 20170725190410
+93.104.215.69 88 92 6133716 20170731223522
+200.162.176.5 32 32 1623973 20170708182509
+201.6.227.129 22 257 8356385 20170724215949
+179.78.68.155 14 205 7013970 20170712165842
+189.100.47.12 13 86 3642605 20170723222733
+66.249.83.159 12 12 498655 20170722212945
+167.114.172.223 12 12 758774 20170707040622
+66.249.83.129 12 12 711182 20170715223158
+189.69.182.123 12 56 1768051 20170726205418
+179.34.142.24 11 42 1901531 20170724185304
+54.183.46.199 11 11 348541 20170704092700
+69.58.178.58 10 10 730058 20170716133702
+201.26.191.117 8 78 3017939 20170719073732
+66.249.83.131 7 7 181058 20170722212945
+189.40.74.18 7 36 1281572 20170710174208
+23.80.147.25 6 6 315860 20170709110357
+138.99.204.52 6 73 2906198 20170726214802
+113.210.57.35 6 18 368857 20170706200308
+187.10.245.242 5 39 128769 20170721084544
+177.9.241.88 2 30 1009284 20170727121129
+191.178.162.168 1 1 66750 20170726204538
+189.19.100.13 1 1 66750 20170726215455
+201.21.32.93 1 1 66750 20170726213541
+152.238.130.180 1 1 54519 20170717192254
+191.248.75.168 1 1 66750 20170731205836
+183.239.32.166 1 1 2468 20170730090427
+186.220.41.81 1 1 66750 20170725094217
+201.82.31.21 1 1 66750 20170727112955
+177.134.9.153 1 1 76454 20170707165029
+179.241.211.41 1 44 1694159 20170703133201
+170.0.150.40 1 1 54458 20170712155238
+66.102.7.129 0 6 14633 
+206.71.239.140 1 1 66750 20170727154131
+179.213.130.185 1 1 45157 20170708214505
+191.214.26.170 1 1 66750 20170731215836
+191.35.188.50 1 1 66750 20170731202532
+187.56.215.250 1 1 54510 20170717185825
+179.158.97.157 1 1 45156 20170708222441
+177.36.200.2 1 1 66750 20170726200846
+189.13.91.209 1 1 45193 20170708120015
+179.104.229.245 1 1 54529 20170717161236
+78.46.156.169 1 1 83764 20170729150522
+186.217.190.21 1 1 66750 20170731201935
+136.243.17.161 1 1 83764 20170722030430
+186.251.229.5 1 1 66750 20170726203055
+191.205.110.170 1 1 45151 20170708121527
+186.206.50.182 1 1 66750 20170729121548
+201.93.31.159 1 1 54545 20170717214423
+177.195.13.193 2 2 99708 20170717205327
+54.153.5.249 0 1 56671 
+131.255.133.254 1 1 54536 20170717140924
+186.226.186.238 1 1 66750 20170726212022
+177.36.83.104 1 1 66750 20170726210235
+179.181.232.103 1 1 66750 20170731232208
+179.125.122.188 1 1 45162 20170709100528
+177.23.165.92 1 1 54529 20170717100638
+187.14.176.22 1 1 54501 20170717174057
+168.197.60.48 1 1 66750 20170726205157
+186.249.8.189 1 1 54508 20170717140436
+177.205.42.7 0 1 38080 
+201.6.131.173 3 73 2884975 20170724182659
+187.66.82.22 1 1 45200 20170709073530
+179.208.93.184 2 2 133622 20170721233142
+179.211.98.54 1 1 66750 20170731205858
+179.113.40.158 1 1 77860 20170709184427
+179.157.111.182 1 1 66750 20170731210802
+201.43.185.236 1 1 54504 20170717195734
+177.68.229.109 1 1 54493 20170713024359
+191.6.127.249 1 1 66750 20170731202357
+170.239.26.2 2 2 121267 20170728222828
+187.94.118.87 1 1 66750 20170726221630
+173.252.123.184 0 5 250326 
+201.33.197.84 1 1 66750 20170727120953
+177.94.185.197 1 1 54533 20170718173524
+173.252.91.247 0 1 169937 
+187.4.247.64 1 1 66750 20170726201424
+201.6.230.44 1 1 66750 20170729174245
+190.13.106.126 1 1 2468 20170731054858
+82.202.221.7 1 1 79108 20170717102251
+173.252.84.87 1 14 335507 20170717095850
+187.121.51.196 2 2 121277 20170726204531
+177.99.103.121 1 1 66750 20170726200816
+201.1.181.167 1 1 54527 20170711203239
+201.17.52.53 0 1 38080 
+177.68.22.52 1 1 45161 20170709102120
+191.26.205.118 1 1 66750 20170726200024
+186.216.176.140 1 1 66750 20170727010146
+191.6.126.31 1 1 66750 20170731220230
+170.244.218.11 1 1 54496 20170718074911
+189.69.148.83 1 1 66750 20170725191435
+177.179.60.101 1 1 66750 20170726225154
+200.203.217.26 1 1 54529 20170711194009
+173.252.90.166 1 20 463165 20170704144819
+201.77.134.34 1 1 76451 20170705133108
+177.45.151.251 1 1 79108 20170731112519
+191.185.212.137 1 1 66750 20170731202555
+187.56.117.6 0 1 161853 
+177.188.181.223 1 1 45161 20170708125332
+177.70.213.120 1 1 66750 20170726205725
+189.80.74.46 0 1 34219 
+177.102.20.73 1 1 76697 20170704223832
+177.192.148.128 1 1 45191 20170708195704
+187.37.169.96 1 1 47777 20170716194937
+191.201.103.159 1 1 45181 20170708220933
+173.252.91.248 0 3 92550 
+201.6.131.137 1 1 66750 20170731074255
+189.54.184.155 1 1 45172 20170709084953
+191.44.28.104 1 1 66750 20170726201139
+189.115.90.191 0 1 38080 
+187.41.37.251 1 1 66750 20170726202043
+189.33.133.215 1 1 47779 20170730104046
+191.205.99.206 2 30 1008036 20170709153736
+177.79.44.124 1 26 889576 20170719153154
+177.33.40.219 1 1 66750 20170726202033
+187.55.152.56 3 73 2883605 20170711222753
+191.5.199.98 0 1 38080 
+189.62.231.238 2 30 958268 20170730215616
+187.92.109.82 1 1 76451 20170706213943
+187.85.49.183 1 1 66750 20170727083840
+189.55.188.230 1 1 66750 20170727032227
+179.211.96.207 1 1 66750 20170727191812
+189.75.176.12 1 1 66750 20170727125635
+200.153.132.167 4 32 1980713 20170725111714
+138.0.0.242 1 1 54521 20170712143702
+187.182.17.11 1 1 47759 20170711201122
+201.6.229.194 1 1 47780 20170701094100
+187.87.204.200 1 1 45185 20170708175923
+189.55.214.244 1 1 76697 20170704221937
+186.231.116.31 1 1 66750 20170725114455
+189.79.81.24 1 1 76697 20170704215618
+191.249.8.15 1 1 66750 20170726202903
+200.142.178.225 1 1 45172 20170708222547
+191.253.120.211 1 1 66750 20170726203229
+187.63.78.20 1 1 54506 20170717104137
+191.190.70.105 1 1 66750 20170726210236
+177.140.158.228 1 1 54561 20170718103754
+201.42.48.187 1 1 79108 20170730142342
+179.98.165.139 1 1 45182 20170708225922
+189.34.246.112 1 1 45174 20170708234704
+201.148.126.74 1 1 66750 20170726220917
+186.197.191.253 1 43 1875500 20170710173347
+52.53.176.23 0 1 56671 
+179.104.221.37 1 1 54539 20170717195720
+187.20.7.117 1 1 66750 20170726200130
+187.106.168.112 1 1 79108 20170725213435
+187.13.139.150 1 1 66750 20170726201544
+201.6.135.148 1 1 54527 20170712160747
+177.104.243.10 1 1 76454 20170707161833
+201.87.113.71 1 1 45172 20170708233910
+189.18.41.230 1 1 54566 20170711213143
+189.101.242.96 1 1 45197 20170708105216
+187.85.49.118 3 3 198091 20170708190304
+186.195.10.190 0 1 38080 
+177.104.240.21 1 1 54477 20170718065622
+201.68.99.21 1 1 66750 20170725094222
+168.232.246.31 1 1 45190 20170708212442
+189.110.85.170 1 1 66750 20170725190004
+177.192.159.119 1 1 66750 20170725132443
+179.241.192.106 1 3 73494 20170711080015
+200.221.128.95 1 1 76449 20170701132253
+177.40.234.160 1 1 66750 20170727211930
+179.212.91.231 1 43 1875531 20170718141658
+179.99.252.35 1 1 47752 20170707182107
+189.62.251.171 2 2 152908 20170707164502
+189.58.37.239 1 1 66750 20170726235730
+131.108.247.74 1 1 66750 20170726215557
+177.128.104.21 1 1 66750 20170727140908
+66.102.8.199 2 28 635309 20170726205319
+179.236.182.239 1 1 66750 20170731210942
+165.131.175.221 0 1 38080 
+191.250.215.150 1 1 54528 20170717201847
+89.114.70.108 2 2 121304 20170728003658
+177.207.100.41 2 2 109067 20170711212348
+177.182.42.190 2 2 133500 20170727132152
+192.140.120.47 1 1 76454 20170707160649
+66.220.156.144 0 6 100529 
+177.140.222.79 1 1 66750 20170729204827
+152.249.179.219 2 2 145858 20170725100525
+138.94.192.72 1 1 45178 20170709111511
+187.56.250.253 1 1 79108 20170725090653
+152.232.218.101 1 1 66750 20170726222857
+177.141.88.254 2 2 99661 20170717225434
+163.172.4.153 4 4 313778 20170725032511
+143.0.196.8 2 2 111899 20170727002152
+201.21.62.124 1 1 66750 20170726212536
+177.106.231.61 1 1 54535 20170717194245
+187.95.177.105 1 1 45186 20170708184208
+201.6.226.115 1 1 76454 20170707214701
+191.193.222.198 1 1 54553 20170718120406
+177.102.31.102 1 1 66750 20170727113222
+189.46.27.235 1 1 66750 20170726201002
+189.121.218.48 1 1 66750 20170727115233
+189.40.91.78 1 1 33960 20170712170421
+189.110.177.137 1 1 76697 20170704215535
+168.227.12.158 1 1 45162 20170708200924
+186.226.131.40 1 1 45162 20170708192324
+186.247.83.175 1 1 66750 20170726201056
+203.219.56.19 1 1 45170 20170709073831
+177.35.153.185 1 1 45185 20170708212206
+187.55.51.62 1 1 54561 20170717160556
+201.52.165.10 2 15 685350 20170719072027
+66.220.145.153 0 13 191370 
+143.202.238.14 3 3 188633 20170726200104
+201.55.31.42 1 1 54524 20170718111727
+168.232.162.196 2 2 121294 20170726000552
+177.79.103.80 1 24 1053725 20170711190320
+187.84.241.169 1 1 66750 20170727122029
+132.255.49.218 1 1 66750 20170731213319
+189.48.166.28 1 1 66750 20170726200106
+45.7.57.3 1 1 66750 20170726220102
+189.35.186.192 1 1 66750 20170728204515
+189.69.254.222 1 1 45156 20170708200417
+177.185.73.97 1 1 45148 20170708224335
+191.6.126.3 1 1 66750 20170726201700
+177.79.102.171 0 21 160038 
+177.32.189.99 5 33 1135204 20170710181209
+191.189.120.149 1 1 66750 20170726214052
+177.45.208.137 1 1 54521 20170711183910
+138.94.116.48 1 1 66750 20170725171246
+201.17.211.242 1 1 66750 20170726213320
+189.25.251.92 1 1 66750 20170726200844
+187.15.245.75 1 1 54511 20170711195122
+201.42.182.150 1 1 66750 20170726200824
+177.156.72.29 1 1 54548 20170717205908
+66.220.156.150 0 7 152692 
+177.10.45.244 1 1 47766 20170709204406
+177.138.209.226 0 1 38080 
+173.252.90.170 0 25 879537 
+170.239.46.66 1 1 54543 20170713154744
+177.80.242.90 5 5 344891 20170730000530
+168.121.151.148 1 1 45175 20170709111511
+201.29.140.6 1 1 66750 20170728203311
+66.102.8.43 0 1 38080 
+170.81.201.124 1 1 66750 20170726224624
+177.73.81.43 1 1 45152 20170708224222
+186.223.163.187 1 1 66750 20170730105834
+189.120.53.10 1 1 45167 20170708114449
+61.91.179.102 1 1 79108 20170729143652
+179.187.177.58 1 1 45184 20170709163045
+189.19.133.99 1 1 66750 20170725142657
+189.27.144.89 1 1 66750 20170726201928
+177.0.148.199 1 1 54485 20170718051845
+187.106.182.162 1 1 79108 20170730114913
+168.227.12.19 1 1 66750 20170725111740
+186.231.137.153 1 1 66750 20170725111121
+177.69.236.33 0 1 38080 
+191.44.19.190 1 1 66750 20170726215521
+189.120.174.147 1 1 54561 20170718085627
+177.221.246.210 1 1 66750 20170729225658
+66.102.8.201 3 27 117506 20170726205317
+201.0.111.205 1 1 66750 20170726210313
+187.106.150.227 1 1 79108 20170730230524
+191.179.253.18 1 1 66750 20170726200210
+84.187.101.245 0 1 146615 
+179.113.62.91 1 1 79108 20170718165047
+152.238.143.50 1 1 54507 20170717103129
+186.226.160.178 1 1 66750 20170725225536
+189.63.215.150 3 65 1905912 20170708093451
+189.79.116.119 1 1 66750 20170726203416
+66.220.156.147 0 3 112467 
+179.221.94.29 1 1 66750 20170726214428
+177.81.204.160 1 1 76697 20170704222026
+187.127.21.222 1 1 45186 20170708113943
+189.69.16.156 1 1 54532 20170717203146
+177.138.57.101 1 1 66750 20170726200904
+179.225.192.51 1 1 54490 20170718154723
+186.216.188.24 1 1 66750 20170725183316
+179.113.194.207 2 2 133500 20170726221254
+201.75.89.178 1 1 66750 20170727010616
+177.105.186.88 1 1 76451 20170705141352
+177.102.102.21 1 1 76449 20170702121551
+187.65.182.83 1 1 66750 20170726201119
+187.34.184.40 1 1 66750 20170727173856
+187.75.92.34 1 1 45151 20170708120348
+173.252.90.171 2 13 412682 20170710191724
+189.79.155.60 1 1 76697 20170704215725
+179.111.91.168 1 1 45175 20170708183820
+179.191.155.119 1 1 54530 20170717195350
+201.17.16.179 1 1 66750 20170727125510
+177.102.254.207 1 1 76449 20170701203614
+186.207.242.116 1 1 45159 20170708232908
+170.84.58.228 1 1 54545 20170717175608
+187.121.3.218 1 1 54524 20170711185614
+54.158.16.13 1 1 10222 20170719094727
+191.37.195.227 1 1 66750 20170726205303
+189.106.188.198 1 1 54529 20170718085756
+179.233.173.80 1 1 54539 20170711195401
+173.252.90.169 0 13 418165 
+191.176.64.114 1 43 1875550 20170711221849
+189.59.55.220 1 1 66750 20170726200539
+179.235.164.230 1 1 66750 20170727164219
+191.191.237.188 0 1 38080 
+177.18.124.229 1 1 66750 20170726200954
+179.209.221.206 1 1 45206 20170708144653
+200.171.39.243 1 1 45162 20170709103501
+177.104.48.3 2 2 121237 20170725135029
+201.93.247.36 1 1 66750 20170726200903
+179.197.101.119 1 1 66750 20170726230206
+177.47.51.212 1 1 66750 20170725200658
+189.101.96.243 1 1 66750 20170731203818
+187.66.2.89 1 1 54559 20170717173647
+152.249.176.215 1 1 54508 20170712213707
+177.131.125.10 0 1 38080 
+179.99.186.36 2 2 100318 20170713184308
+186.231.123.90 1 1 47797 20170728215202
+173.252.84.89 0 7 134377 
+189.106.26.176 1 1 76697 20170705080828
+143.107.118.13 1 1 66750 20170731212750
+201.27.77.41 1 1 54517 20170712195940
+201.40.215.112 1 1 66750 20170731211158
+142.54.177.250 2 2 158216 20170718221606
+201.33.253.255 1 1 66750 20170726200723
+173.252.90.167 0 17 737856 
+201.26.19.140 0 1 38080 
+191.6.16.226 1 1 66750 20170726203629
+189.55.49.63 1 1 66750 20170726200757
+187.74.75.186 1 1 66750 20170727124031
+201.6.231.16 1 1 66750 20170727092818
+177.58.227.125 5 11 1640218 20170709102606
+143.137.215.1 1 1 66750 20170729125458
+186.205.172.43 1 1 66750 20170731202401
+143.0.209.2 2 2 121289 20170725104246
+177.208.145.169 1 1 45184 20170708202717
+179.99.96.101 1 1 76454 20170707181946
+177.32.136.157 1 1 79108 20170721094845
+138.0.206.110 1 1 45161 20170708161923
+138.99.200.33 1 1 54568 20170717144036
+187.35.149.117 1 1 66750 20170731150115
+191.191.13.9 1 1 45170 20170708143938
+177.142.201.111 1 1 66750 20170726232942
+179.105.196.171 1 1 66750 20170726234924
+179.155.219.199 1 1 66750 20170726221514
+201.80.208.15 1 1 66750 20170731204229
+177.141.253.29 1 1 47769 20170717203217
+189.102.110.102 1 1 45156 20170709091340
+177.192.226.239 1 1 66750 20170725094929
+201.68.96.10 1 1 54547 20170717133632
+189.97.83.2 1 1 45171 20170709081016
+131.221.22.19 1 1 54694 20170721191936
+201.80.1.3 1 1 54735 20170720202753
+189.60.84.133 1 1 66750 20170726215313
+189.72.60.215 1 1 54583 20170717181227
+54.215.217.8 1 1 76449 20170703092759
+179.198.229.226 1 1 45182 20170708214524
+177.130.32.41 1 1 54544 20170717225303
+66.220.145.154 0 9 563391 
+177.134.154.5 1 1 47758 20170718082646
+189.8.211.181 0 1 177294 
+189.18.134.83 1 1 54538 20170717150138
+189.18.16.171 0 1 161853 
+177.72.177.38 1 1 66750 20170731211213
+177.68.48.37 1 1 66750 20170729160330
+177.157.13.212 1 1 54536 20170711195827
+189.33.134.122 1 1 47771 20170720153500
+189.121.224.198 1 1 66750 20170731183601
+179.113.206.56 1 1 54523 20170711201524
+179.104.1.199 1 1 45184 20170708225542
+138.36.230.150 1 1 76451 20170705123419
+187.114.29.184 1 1 54550 20170717100921
+186.204.91.122 1 1 45176 20170709031633
+189.29.132.210 1 1 54518 20170718092829
+191.34.100.213 1 1 66750 20170727081904
+23.27.248.16 1 1 54535 20170711235355
+138.185.236.42 4 4 221588 20170717105253
+177.47.51.222 1 1 54528 20170717170329
+187.101.24.108 1 1 54527 20170717112226
+179.228.55.2 2 2 121887 20170708121220
+177.208.185.118 1 1 54512 20170717122352
+187.33.254.186 1 1 45186 20170709092202
+177.96.13.30 1 1 66750 20170726202259
+189.14.236.225 1 1 45173 20170708194531
+54.202.52.246 1 1 76451 20170706145436
+66.220.145.151 0 5 300855 
+66.220.145.148 1 4 56131 20170717201951
+217.129.232.39 1 1 54530 20170717185349
+179.125.96.216 1 1 66750 20170727104345
+200.193.47.119 1 1 66750 20170726235553
+177.95.97.208 2 2 90365 20170709183315
+201.42.74.42 1 1 66750 20170727172917
+179.253.140.5 0 1 38080 
+189.82.96.8 1 1 66750 20170727114219
+186.247.18.238 1 1 66750 20170731202514
+177.73.69.96 0 1 38080 
+189.46.204.106 1 1 66750 20170726221611
+187.37.182.102 1 1 54529 20170717231201
+186.210.152.119 2 8 124588 20170709131831
+201.13.96.164 1 1 47801 20170717201413
+187.57.131.3 3 31 1078613 20170726155650
+189.24.52.18 1 1 54541 20170717155707
+69.30.244.10 1 1 79108 20170725023911
+138.97.41.30 1 1 66750 20170725184437
+201.1.164.92 1 1 79108 20170725153842
+200.146.242.53 1 1 54497 20170717150321
+179.208.82.62 2 2 121620 20170708162128
+179.113.222.46 1 1 79108 20170719232835
+177.21.119.131 1 1 54533 20170717144116
+168.90.229.143 1 1 66750 20170726212946
+201.77.133.12 1 1 76454 20170707184413
+187.41.222.147 1 1 66750 20170726214220
+186.206.98.13 1 1 76454 20170707173953
+66.249.83.79 2 2 84161 20170725093855
+179.254.1.174 1 1 66750 20170726214713
+177.189.106.23 1 1 79108 20170723233611
+179.104.82.175 1 1 66750 20170726201147
+52.36.92.73 1 1 79108 20170717234023
+191.205.176.58 1 1 45162 20170708202633
+179.104.155.150 3 3 200250 20170731203245
+177.131.28.87 2 2 133500 20170726221013
+187.93.126.66 0 1 38080 
+179.90.38.210 1 1 66750 20170726222501
+189.48.72.151 1 1 54545 20170717100124
+177.1.187.139 1 1 66750 20170727080124
+177.129.255.250 1 1 54544 20170711230106
+177.18.134.15 1 1 66750 20170726200817
+201.162.96.159 1 1 54553 20170717225327
+189.29.66.195 1 1 45173 20170708150137
+168.227.12.92 1 1 66750 20170726204218
+191.184.196.98 1 1 66750 20170726220635
+66.220.156.151 1 7 244879 20170721190838
+191.205.213.209 1 1 66750 20170726212739
+149.255.104.160 2 2 158216 20170726145212
+187.57.246.251 1 1 79108 20170725165148
+187.95.33.226 1 1 66750 20170726225503
+177.205.69.106 1 1 66750 20170726202731
+201.68.208.92 1 1 45185 20170709125837
+187.79.7.249 1 1 66750 20170731232630
+191.223.111.111 1 1 66750 20170726220019
+177.68.124.108 1 1 76697 20170705002745
+187.19.221.196 1 1 66750 20170731202032
+186.231.131.23 1 1 45779 20170713193712
+189.110.200.178 0 1 161853 
+191.23.98.232 1 1 79108 20170730104403
+187.44.47.73 1 1 66750 20170726200206
+191.189.137.211 1 1 66750 20170727032656
+186.50.44.204 1 1 66750 20170725215552
+177.35.224.120 1 1 66750 20170727083048
+186.216.175.75 1 1 66750 20170725132253
+179.99.81.190 1 1 66750 20170726202400
+187.54.11.209 1 1 45177 20170709074956
+187.180.92.113 1 1 66750 20170727162125
+177.202.102.50 1 1 54507 20170718172741
+189.110.179.148 1 1 45179 20170708143126
+187.59.181.69 1 1 66750 20170725153858
+191.193.167.120 1 1 66750 20170725111420
+187.255.72.24 2 2 99720 20170717163932
+191.6.110.56 2 2 133500 20170726101603
+187.53.73.214 1 1 54519 20170717161740
+179.220.137.84 1 1 66750 20170726210929
+179.99.24.230 1 1 54513 20170712010501
+189.106.41.153 1 1 66750 20170726203803
+173.252.121.113 0 2 17913 
+177.159.61.106 1 1 66750 20170726203056
+177.73.71.210 1 1 66750 20170725120033
+187.127.49.209 1 1 54528 20170717224416
+201.6.231.103 2 2 145858 20170726071116
+201.6.130.11 1 1 45153 20170709100711
+179.211.120.85 1 1 66750 20170731222920
+201.68.244.116 1 1 54537 20170717152907
+177.206.63.4 1 1 45207 20170708165657
+187.67.130.84 1 1 45177 20170708221739
+187.1.64.32 1 1 54513 20170717143910
+170.78.50.203 1 1 54520 20170717203321
+191.253.54.48 2 44 1930066 20170717131616
+201.69.99.134 1 1 77894 20170713030612
+200.172.242.150 1 1 66750 20170731204304
+179.214.74.118 1 1 54515 20170712230232
+170.84.244.222 1 1 54526 20170717174331
+201.74.147.23 1 1 77860 20170709133228
+189.110.164.107 1 1 54527 20170717210636
+177.68.172.69 1 1 54528 20170717121242
+189.101.23.187 0 1 38080 
+191.8.34.138 1 1 47747 20170717215412
+201.92.9.137 1 1 66750 20170725221526
+177.79.15.133 1 1 66750 20170725110313
+177.66.194.158 1 1 66750 20170726222151
+189.121.176.48 1 22 396798 20170719233735
+201.13.54.146 1 1 47743 20170717200730
+152.238.124.147 1 1 66750 20170726204305
+179.34.82.217 1 1 54555 20170718075020
+189.47.221.78 2 2 158216 20170725000338
+167.249.124.6 1 1 54523 20170717184639
+177.128.31.1 2 2 90344 20170708202903
+177.101.12.223 1 1 45149 20170709104557
+200.195.148.99 1 1 66750 20170731222619
+66.220.145.155 0 7 382840 
+201.81.17.32 1 1 54499 20170717181914
+66.249.83.223 3 3 89226 20170724121215
+179.156.31.79 1 1 66750 20170726121358
+177.181.16.245 1 1 54539 20170718230435
+89.114.28.147 1 1 66750 20170727082954
+201.95.91.108 1 1 66750 20170725235500
+187.10.157.168 1 1 66750 20170731202842
+187.37.86.8 1 1 66750 20170727003253
+179.110.226.89 1 1 66750 20170727105451
+186.225.242.32 1 1 66750 20170727102352
+200.186.31.46 0 1 38080 
+189.82.82.31 0 1 38080 
+130.211.214.12 1 1 79108 20170714123931
+177.82.10.108 1 1 54560 20170711194612
+179.192.149.112 1 1 54535 20170717213148
+191.35.181.0 1 1 66750 20170731205657
+179.104.238.182 1 1 66750 20170726202348
+189.35.188.214 1 1 66750 20170727024339
+201.77.132.93 1 1 66750 20170727054553
+191.8.12.209 1 1 54515 20170718005250
+179.113.152.162 3 3 237324 20170730195101
+177.131.23.192 1 1 66750 20170727005530
+168.227.100.219 2 2 130997 20170717175632
+189.32.77.221 1 1 66750 20170726232423
+187.15.34.89 1 1 54532 20170717203832
+200.53.209.218 1 1 54574 20170712002626
+179.212.90.225 1 1 66750 20170725104118
+191.185.202.47 1 1 54543 20170718190309
+189.83.26.64 1 1 66750 20170727130313
+191.180.54.246 1 1 77894 20170712131048
+173.252.123.181 0 14 296086 
+177.126.243.194 2 2 158216 20170729004917
+201.74.23.120 1 1 66750 20170727134759
+187.38.177.61 1 1 47773 20170705132432
+179.54.238.165 1 1 47762 20170703154618
+179.208.104.102 1 1 54553 20170712014007
+189.79.21.127 2 2 99099 20170710194131
+201.75.171.203 1 1 79108 20170726131633
+170.231.113.11 1 36 423688 20170717172136
+201.17.67.13 1 1 66750 20170726203217
+191.178.165.174 1 1 45188 20170708233229
+191.179.246.63 1 1 66750 20170726012535
+173.252.123.183 0 10 331187 
+201.75.170.117 1 1 76449 20170702012520
+201.6.171.65 1 1 54503 20170717110849
+173.252.84.88 0 8 175453 
+179.99.38.107 2 2 121855 20170709055606
+201.34.117.71 1 1 45168 20170708183654
+189.90.38.20 1 1 66750 20170728155049
+179.109.83.35 1 1 54534 20170717160506
+201.6.231.132 3 3 187993 20170731210204
+186.236.126.80 1 1 45196 20170708183711
+173.252.91.252 0 3 24367 
+177.32.178.63 1 1 45194 20170708234959
+187.64.228.119 1 1 54520 20170711225234
+179.212.131.15 1 1 45163 20170709163543
+189.100.192.199 1 1 66750 20170731183755
+177.131.23.154 5 5 333750 20170731235638
+189.12.53.153 1 1 66750 20170726201005
+187.34.129.114 1 1 54539 20170711195758
+152.238.64.125 1 1 54554 20170717152345
+201.83.139.139 1 1 66750 20170725100742
+179.99.11.171 1 1 45175 20170707203743
+177.194.69.165 1 1 66750 20170726200957
+200.158.30.133 1 1 54498 20170712125150
+179.126.107.50 1 1 66750 20170726201205
+179.183.86.198 1 1 66750 20170726200649
+143.208.252.10 1 1 45188 20170708194622
+191.182.230.86 1 1 54504 20170711234413
+187.20.103.50 1 1 54542 20170718133210
+177.64.97.51 1 1 54526 20170711184105
+138.94.112.5 1 1 76449 20170704093822
+91.200.12.91 2 2 81576 20170730213142
+177.83.181.72 1 1 79108 20170713225539
+201.8.171.168 1 1 54525 20170718001628
+189.62.178.196 2 2 111906 20170725105355
+189.46.197.45 1 1 47771 20170707172751
+189.78.250.46 1 1 54494 20170717100037
+177.198.127.21 1 1 66750 20170726201447
+179.236.96.110 1 1 66750 20170726201320
+66.220.145.152 0 2 127116 
+66.220.156.146 1 3 112594 20170721190842
+189.120.230.124 1 1 66750 20170726204053
+187.2.140.20 1 1 77894 20170713132926
+201.6.132.24 0 2 76160 
+179.34.235.201 1 1 66750 20170729005220
+138.97.134.190 1 1 45175 20170709015541
+187.33.191.174 1 1 47777 20170724123323
+201.6.227.50 1 1 76454 20170707163011
+138.0.52.34 4 4 245430 20170731202414
+168.205.250.90 1 1 76454 20170707183426
+187.34.125.116 1 1 76697 20170704215338
+168.232.13.42 1 1 66750 20170726223113
+177.52.24.55 1 1 76449 20170703144820
+200.97.111.66 4 74 2956058 20170724082355
+201.26.126.204 1 1 45173 20170708201801
+187.60.33.118 1 1 66750 20170727013303
+189.33.77.38 1 1 54537 20170711210153
+173.252.90.168 0 20 977883 
+173.252.84.86 3 14 670057 20170721014126
+138.118.101.26 1 1 45199 20170709111831
+186.226.64.242 1 1 66750 20170726201106
+201.95.206.29 1 1 54531 20170717164841
+87.216.98.249 1 1 66750 20170725201455
+189.110.66.170 1 1 66750 20170726202557
+177.22.251.1 1 1 54473 20170711220037
+177.32.232.17 1 1 66750 20170731095136
+191.17.40.187 1 1 79108 20170731143452
+177.8.184.227 1 1 66750 20170726200240
+177.87.73.22 1 1 45157 20170709154735
+189.120.220.156 3 74 2884986 20170724094724
+186.193.25.14 1 1 66750 20170727215032
+187.74.93.101 1 1 45172 20170708233223
+191.6.19.130 1 1 66750 20170727114358
+177.182.96.154 1 1 66750 20170727111008
+177.70.161.2 1 1 45757 20170710185503
+189.125.3.138 1 1 54536 20170711222527
+191.181.90.77 2 30 1009284 20170720085547
+179.34.200.111 1 1 45168 20170708114104
+177.189.25.205 1 1 45190 20170708181007
+131.108.32.21 1 1 66750 20170727001044
+177.50.33.204 2 30 1687209 20170725084909
+191.35.28.248 1 1 45165 20170709160847
+191.193.41.150 1 1 66750 20170726205923
+173.252.123.180 1 16 963109 20170713093914
+189.83.177.130 1 1 45209 20170708152417
+177.114.135.243 4 32 1057127 20170725094121
+200.158.250.172 1 1 54509 20170713161949
+179.153.220.65 2 2 90356 20170708223700
+177.34.213.146 1 1 45182 20170708114244
+189.54.145.92 1 1 66750 20170731221835
+203.220.94.173 1 1 66750 20170725081638
+177.235.107.109 1 1 45169 20170708222821
+143.0.233.118 1 1 66750 20170727182432
+189.126.25.25 1 1 54547 20170717183701
+179.99.201.68 1 1 47758 20170701155021
+191.19.213.14 1 1 66750 20170726200932
+177.156.131.73 1 1 66750 20170726200515
+66.102.7.131 0 10 17345 
+189.15.241.44 1 1 47786 20170720105652
+177.148.193.136 1 1 66750 20170726180554
+189.46.98.207 1 1 66750 20170726200506
+187.22.213.144 1 1 66750 20170725094209
+201.6.226.215 2 76 1630319 20170718073352
+191.33.118.166 1 1 66750 20170726200445
+90.77.186.227 1 1 66750 20170726195941
+187.38.58.121 1 1 66750 20170725122449
+143.137.224.156 1 1 76697 20170704215425
+179.35.76.19 1 1 76697 20170704215549
+189.110.190.69 1 1 47795 20170727203607
+187.183.34.137 1 1 79108 20170725054531
+179.154.16.70 1 1 45191 20170709025039
+179.34.44.232 0 1 38080 
+173.252.121.114 0 6 125679 
+189.74.99.119 1 1 54552 20170717183735
+191.193.221.34 1 1 45184 20170709001212
+173.252.121.117 0 1 3754 
+191.189.8.28 1 1 66750 20170731220246
+177.23.248.133 1 1 66750 20170726200858
+177.177.19.64 1 1 66750 20170726200011
+179.97.44.162 0 1 38080 
+187.122.65.87 1 1 45158 20170709073812
+131.255.8.106 1 1 66750 20170726215729
+187.21.97.46 1 1 45186 20170709094703
+186.241.217.224 1 1 66750 20170726201009
+189.73.236.139 1 1 66750 20170725102205
+191.17.175.31 1 1 77894 20170712173337
+179.208.208.113 1 43 1875513 20170711183133
+173.252.123.185 1 9 363475 20170707005726
+177.45.196.24 1 1 54534 20170717171118
+189.12.183.242 1 1 66750 20170727072259
+191.254.141.210 1 1 66750 20170725221529
+187.121.92.194 4 4 254759 20170728170710
+177.1.194.176 0 1 38080 
+186.235.84.134 1 1 54516 20170717200023
+200.186.65.134 1 1 66750 20170726201647
+191.6.110.238 1 1 66750 20170731221539
+201.93.25.48 3 72 3550130 20170710195616
+189.40.72.2 0 15 272918 
+179.97.246.174 1 1 45158 20170709003425
+186.204.100.130 1 1 66750 20170726213655
+189.31.208.27 1 1 66750 20170731213105
+177.9.134.230 1 1 54533 20170712163854
+189.82.9.214 1 1 54533 20170718081944
+170.245.8.2 1 43 1875545 20170717095519
+187.182.55.38 1 1 54537 20170717190824
+177.140.211.101 1 1 54517 20170711192059
+187.37.206.186 1 1 54531 20170718101105
+201.24.151.128 1 1 66750 20170726222001
+138.121.207.2 1 1 66750 20170726204920
+177.107.126.247 1 1 54521 20170711181940
+177.182.156.232 0 1 38080 
+179.125.219.141 1 1 54554 20170717141057
+179.234.102.152 1 1 66750 20170726203045
+66.249.83.193 2 3 196296 20170724121215
+173.252.121.116 1 4 41163 20170704144746
+177.92.36.236 0 1 38080 
+186.216.177.234 1 1 66750 20170725174222
+189.103.226.62 1 1 66750 20170728174454
+187.19.107.164 1 1 66750 20170726201445
+132.255.81.58 1 1 45169 20170708115035
+187.35.51.195 1 1 47758 20170723221511
+179.247.145.182 1 1 76697 20170704215638
+132.255.50.5 1 1 66750 20170727082602
+177.177.115.186 1 1 66750 20170731202233
+200.171.172.199 1 1 66750 20170726214537
+191.6.126.120 1 1 66750 20170725132409
+187.112.128.176 1 1 45152 20170708222435
+187.181.164.219 1 1 66750 20170726200327
+177.79.42.230 1 10 409856 20170725150028
+168.205.45.211 1 1 79108 20170718190619
+170.81.201.15 1 1 54538 20170717114423
+187.66.215.180 0 1 38080 
+201.78.172.184 1 1 66750 20170731211714
+189.54.145.100 1 1 54704 20170724154132
+179.187.161.118 1 1 54545 20170718195329
+177.177.213.198 1 1 45165 20170709115007
+191.205.40.105 1 1 44579 20170707082802
+66.249.83.195 3 3 163283 20170726164020
+189.15.247.252 1 1 66750 20170727194953
+200.101.238.242 1 1 54516 20170711205407
+66.102.8.203 5 33 820069 20170726205319
+200.9.124.89 1 1 45164 20170709070349
+179.99.57.192 1 1 76697 20170704223328
+191.183.101.209 1 1 54516 20170717152007
+186.240.175.54 1 1 76697 20170704215809
+52.53.251.226 2 24 627032 20170704092705
+177.19.116.102 1 1 66750 20170731203338
+177.79.23.118 0 19 821827 
+177.195.185.13 1 1 54544 20170718092748
+191.193.217.147 1 1 47745 20170710222427
+45.59.254.98 1 1 66750 20170727111607
+177.42.76.3 1 1 76451 20170706074710
+200.161.183.85 3 73 2884923 20170726143804
+201.19.246.76 1 1 45155 20170708190140
+186.208.13.167 1 1 66750 20170731204154
+186.225.176.46 1 1 66750 20170726200556
+5.9.112.6 2 2 163690 20170712152419
+187.75.112.89 1 1 47782 20170717230115
+187.95.29.134 1 1 66750 20170727181937
+191.7.212.56 1 1 66750 20170727113229
+187.110.227.170 1 1 66750 20170727225116
+201.77.134.187 1 1 45181 20170708141808
+181.213.246.172 1 43 1875539 20170711204352
+115.164.212.149 2 24 786782 20170710095525
+189.41.139.176 1 1 45176 20170708195004
+177.33.95.136 1 1 54535 20170711182623
+66.220.156.145 0 2 19002 
+186.223.82.237 1 1 45165 20170708194219
+187.183.41.7 1 1 66750 20170727125428
+189.83.171.35 1 1 66750 20170726200520
+201.41.14.85 1 1 66750 20170726210835
+201.82.146.156 1 1 54533 20170712110809
+179.97.11.58 1 1 66750 20170727104410
+191.183.101.193 1 1 76697 20170704224526
+187.87.77.14 1 1 45179 20170709085041
+179.210.104.208 1 1 66750 20170726212046
+189.68.193.207 1 1 45169 20170708224108
+179.176.43.246 1 1 66750 20170731210244
+201.6.125.178 0 1 38080 
+189.55.110.230 1 1 77893 20170710153912
+186.208.216.1 1 1 45159 20170708224207
+179.232.166.44 1 1 54544 20170717200008
+189.107.38.146 1 1 54519 20170711191546
+201.6.227.66 1 1 45185 20170708113817
+177.151.169.54 2 2 135028 20170712172637
+179.178.74.123 1 1 76451 20170705142909
+179.208.73.55 1 1 66750 20170727004007
+186.203.14.172 1 1 45169 20170708181501
+179.110.182.114 1 1 76697 20170704194643
+189.27.206.168 1 1 66750 20170726200901
+168.205.69.19 1 1 54531 20170717104920
+177.9.119.209 1 1 79108 20170724213854
+187.106.151.247 1 1 77894 20170710232819
+177.68.0.229 1 1 47761 20170705192821
+187.74.204.25 1 1 54496 20170717192117
+173.252.84.91 0 5 118776 
+177.8.169.58 1 1 54539 20170717163714
+201.92.130.226 1 1 66750 20170726205137
+177.200.48.38 1 1 66750 20170726210042
+189.106.61.190 1 1 66750 20170727012807
+201.81.141.140 2 2 132443 20170712221949
+201.93.238.156 1 1 54512 20170717202355
+138.99.68.28 1 1 66750 20170727020710
+168.181.51.207 1 1 54701 20170719155615
+191.180.187.147 1 1 76454 20170707191255
+189.102.120.6 1 1 54523 20170712010109
+191.254.28.240 1 1 66750 20170727091448
+179.35.223.193 5 34 1149591 20170724220016
+187.3.122.116 1 1 66750 20170726210650
+187.75.114.99 2 2 95588 20170730195446
+177.97.217.49 1 1 66750 20170727155704
+201.27.163.119 1 1 66750 20170725203037
+177.47.82.78 1 1 66750 20170726200131
+200.168.13.77 1 1 66750 20170725115429
+187.19.232.91 1 1 54524 20170710192630
+201.20.65.223 1 1 66750 20170726204122
+27.153.132.52 1 1 79108 20170723093835
+189.71.41.203 1 1 66750 20170726200545
+187.3.212.80 1 1 76697 20170704215306
+179.208.60.174 1 1 54562 20170711195542
+177.65.27.191 1 1 66750 20170726200628
+186.241.210.22 1 1 66750 20170726202313
+189.107.49.178 0 1 38080 
+200.168.152.53 1 1 47789 20170710221721
+189.83.25.137 1 1 66750 20170725111504
+186.203.15.138 1 1 54523 20170717101248
+187.56.239.151 1 1 77894 20170711103739
+186.206.76.87 1 1 66750 20170726200203
+191.6.127.183 1 1 66750 20170725100004
+201.162.88.216 1 1 66750 20170726205214
+191.8.121.141 1 1 66750 20170725100552
+152.237.209.53 1 1 45171 20170708223136
+177.197.72.169 1 43 1875527 20170713134856
+201.6.226.238 1 1 66750 20170731151953
+177.32.166.203 1 1 66750 20170725230619
+189.12.193.174 1 1 54510 20170718073520
+189.113.233.203 1 1 45182 20170708113719
+191.17.67.237 1 1 66750 20170727012515
+138.121.186.165 1 1 66750 20170731202147
+179.195.21.198 1 24 785294 20170725112637
+179.158.253.61 1 1 54520 20170711183306
+191.7.92.2 0 1 38080 
+201.50.38.60 1 1 76697 20170704220151
+170.84.51.23 1 1 66750 20170728202031
+187.56.232.181 1 1 54505 20170712222507
+177.66.114.119 1 1 66750 20170726212033
+177.220.175.125 0 1 38080 
+177.177.205.145 1 1 66750 20170726200844
+189.45.95.32 1 1 45174 20170708231855
+201.79.25.21 1 1 66750 20170731202506
+177.89.126.214 1 1 66750 20170726214728
+115.164.182.74 1 1 69892 20170710171536
+173.252.91.253 1 6 325845 20170731184122
+177.139.50.67 1 1 66750 20170726212132
+189.0.199.56 1 1 66750 20170725200641
+200.186.31.45 0 1 38080 
+173.252.123.186 0 7 216759 
+177.9.207.7 1 1 79108 20170731094705
+200.188.236.6 1 1 66750 20170726202941
+173.252.91.250 0 3 47364 
+177.125.27.66 1 1 79108 20170729164936
+177.205.137.139 1 1 66750 20170731213817
+201.50.53.181 1 1 66750 20170726201907
+189.26.94.43 1 1 66750 20170726202433
+168.181.48.52 1 1 76697 20170704215325
+177.183.6.81 1 1 79108 20170730221700
+186.193.202.226 1 1 45173 20170709215139
+189.54.144.244 1 1 76454 20170707163019
+201.1.37.105 1 1 54573 20170711214247
+177.138.55.169 1 1 45770 20170710180423
+173.252.91.249 0 6 242629 
+189.26.200.174 1 1 66750 20170726200857
+187.56.217.211 1 1 54556 20170717160122
+187.37.186.153 1 1 54519 20170711230133
+187.109.208.118 1 1 66750 20170726221650
+189.68.119.227 1 1 54537 20170717134515
+177.79.103.70 1 17 185567 20170712181722
+177.188.9.111 1 1 45176 20170709004539
+8.28.16.254 2 2 158216 20170731122904
+189.68.208.199 1 1 66750 20170725095219
+189.58.21.188 1 1 66750 20170727004210
+187.20.88.209 1 1 66750 20170731202423
+177.143.232.175 1 1 54542 20170717184540
+70.39.246.37 1 1 10222 20170708190840
+186.210.178.92 1 1 45742 20170710225423
+179.215.137.3 0 1 82612 
+201.69.226.62 1 1 66750 20170730091346
+179.127.109.38 1 1 66750 20170726202033
+187.108.216.105 1 1 54553 20170711215926
+189.103.239.80 1 1 66750 20170727112033
+201.26.189.200 1 1 54525 20170712062839
+191.193.0.120 1 1 66750 20170727005606
+187.11.37.61 0 1 161853 
+187.66.154.236 1 43 1875541 20170713133916
+189.49.159.131 1 1 66750 20170725161344
+177.75.50.138 1 1 66750 20170726221122
+179.183.104.114 1 1 66750 20170726220925
+168.227.12.58 1 1 45184 20170709075424
+177.79.45.155 1 10 326447 20170725150023
+201.25.97.32 0 1 38080 
+201.83.97.104 1 1 66750 20170726211542
+177.135.190.96 2 2 99722 20170717121508
+179.234.49.198 1 1 79108 20170715104607
+189.47.197.231 1 1 45188 20170708133741
+179.176.254.104 1 1 54538 20170717114742
+177.75.120.34 1 1 66750 20170726211353
+186.222.6.232 1 1 66750 20170725125535
+173.252.84.90 0 5 258817 
+189.46.34.167 1 1 47785 20170702221101
+143.137.71.60 1 1 79108 20170721180230
+177.39.95.240 1 1 66750 20170726200110
+187.183.32.35 1 1 54520 20170718043624
+186.216.191.26 1 1 66750 20170731202705
+34.211.210.248 1 1 79108 20170722215923
+168.181.48.237 1 1 54543 20170717210749
+191.7.209.86 3 3 188035 20170731212209
+177.184.115.229 1 1 66750 20170728173719
+177.80.42.250 3 73 2833966 20170724231115
+201.32.5.192 1 1 54505 20170712005520
+54.94.255.216 1 1 66750 20170726204351
+179.232.160.175 1 1 54549 20170718075258
+187.87.245.49 1 1 54530 20170717212849
+179.192.172.135 1 1 45178 20170709211522
+177.191.10.40 1 1 47792 20170730185313
+191.183.7.225 1 1 66750 20170731202235
+189.127.248.65 1 1 54546 20170712102508
+115.164.210.136 4 8 51102 20170711055300
+173.252.123.182 0 12 256168 
+177.44.136.74 2 2 143447 20170726213453
+191.205.47.225 1 1 66750 20170725210132
+191.179.255.35 1 1 66750 20170731213610
+177.97.194.84 1 1 66750 20170726200430
+193.169.135.167 2 2 158216 20170726025238
+179.97.7.250 1 1 66750 20170726202520
+179.208.85.247 2 2 133500 20170726222951
+191.6.109.114 1 1 66750 20170726200040
+189.34.145.247 1 1 45176 20170709070030
+187.114.2.152 1 1 66750 20170728003346
+179.35.8.187 1 1 54522 20170717222635
+179.153.216.26 1 1 47775 20170702183730
+189.24.180.135 1 1 66750 20170726201100
+179.215.250.44 1 1 66750 20170726223634
+200.232.219.70 1 1 79108 20170726204526
+177.65.139.45 1 1 66750 20170725200214
+187.255.50.2 1 1 79108 20170731091951
+200.94.243.72 1 1 66750 20170727003314
+191.33.69.73 1 1 54516 20170717110224
+41.210.223.10 1 1 2468 20170730085409
+177.192.166.73 2 2 99703 20170717214804
+66.249.83.9 1 1 5066 20170722081939
+168.205.201.139 1 1 76451 20170706182202
+179.198.50.127 1 1 66750 20170731203408
+177.32.184.139 1 1 54525 20170718084625
+189.110.125.199 1 1 54528 20170718074012
+189.33.197.155 1 1 45743 20170710153857
+189.101.186.166 1 1 54517 20170717151749
+179.110.61.78 1 1 54554 20170712093407
+191.36.184.136 1 1 76454 20170707180318
+201.6.131.33 1 1 54544 20170711191002
+173.252.121.115 0 3 229422 
+186.244.227.72 1 1 45179 20170709071730
+177.64.52.41 1 1 45162 20170708150301
+186.244.172.84 1 1 66750 20170731205209
+177.124.162.77 1 1 66750 20170726201431
+187.180.218.174 1 1 54557 20170717095625
+179.209.170.214 1 1 66750 20170725152000
+189.123.130.169 1 1 76451 20170707160404
+201.14.251.71 1 1 66750 20170726200845
+201.51.226.83 1 1 54530 20170717102516
+179.113.126.161 1 1 69101 20170719211759
+38.80.23.223 1 1 76451 20170706142826
+191.6.110.59 1 1 66750 20170727170500
+173.252.121.119 1 5 154572 20170704144739
+189.19.132.216 1 1 76451 20170705181852
+66.102.7.159 0 5 306356 
+189.18.70.117 1 1 47758 20170707151841
+179.110.98.22 1 1 79108 20170725102334
+189.55.120.24 1 1 79108 20170716164945
+189.110.218.232 1 1 66750 20170725200459
+187.66.29.180 1 1 45194 20170708113906
+168.195.147.10 1 1 45160 20170708213253
+177.136.97.66 1 1 47759 20170701163820
+138.118.220.1 1 1 66750 20170727030819
+191.176.209.53 1 1 66750 20170727162058
+187.38.16.190 3 51 2354173 20170724191232
+177.17.52.119 1 1 76451 20170707160403
+179.157.114.105 1 1 66750 20170731210208
+201.69.204.226 2 2 133500 20170725142305
+177.128.237.47 1 1 66750 20170726203844
+201.159.26.189 1 1 45173 20170709050022
+200.101.126.114 1 1 45148 20170709214041
+191.6.110.213 1 1 66750 20170725181513
+64.215.22.69 0 1 38080 
+177.95.236.29 1 1 66750 20170725094413
+186.216.175.87 1 1 66750 20170725201416
+201.55.31.82 2 24 657729 20170706150723
+201.13.67.217 1 1 45179 20170709165440
+131.72.164.13 1 1 66750 20170727221041
+191.177.77.177 1 1 54544 20170711211006
+191.182.56.107 1 1 66750 20170727224618
+177.64.153.3 1 1 54557 20170717203026
+66.220.145.150 0 3 253823 
+173.252.91.251 0 2 60411 
+187.44.81.6 1 1 66750 20170726230148
+187.74.9.207 1 1 66750 20170731220504
+52.91.147.50 1 1 79108 20170730071117
+177.181.5.112 1 1 45172 20170709092400
+186.225.45.194 1 1 54510 20170717203859
+185.112.157.30 1 1 75190 20170717042803
+191.182.18.43 1 1 54562 20170718000817
+179.235.110.130 1 1 47766 20170716003336
+201.35.253.112 1 1 76454 20170707172248
+132.255.168.102 1 1 66750 20170727102209
+177.140.34.123 1 1 47770 20170717230050
+201.27.98.70 0 1 38080 
+168.197.152.10 1 1 66750 20170726200907
+168.232.161.4 1 1 54532 20170717135828
+179.219.82.93 1 1 66750 20170726195957
+179.54.163.20 4 4 246285 20170726171844
+54.193.68.199 0 1 56671 
+177.185.246.174 1 1 66750 20170727193125
+201.93.223.83 1 12 181906 20170731144309
+177.84.147.96 1 1 54519 20170711182725
+189.0.95.37 1 1 54511 20170717120057
+191.240.12.131 1 1 66750 20170726231412
+173.252.114.118 1 1 45153 20170707193829
+77.229.1.39 1 1 66750 20170727112653
+191.180.186.69 4 4 242552 20170727064046
+173.252.90.164 1 23 927526 20170717001027
+177.104.48.2 1 1 54525 20170714091411
+179.215.189.96 1 1 54527 20170711194636
+189.25.18.12 1 1 66750 20170726211134
+173.252.90.165 1 17 214696 20170704144834
+201.6.142.68 1 1 66750 20170731154648
+131.108.32.20 1 1 54581 20170711230640
+191.254.136.159 1 1 77860 20170710123522
+66.220.156.149 0 3 268545 
+177.192.155.16 1 1 66750 20170731205046
+173.252.121.118 0 4 86648 
+186.216.174.153 1 1 66750 20170727102142
+187.102.67.31 1 1 54480 20170718052956
+177.192.248.89 1 1 54468 20170717102103
+179.106.176.201 1 1 79108 20170730171113
+187.38.162.233 3 73 2833944 20170724194058
+173.252.84.92 0 10 339843 
+187.182.145.62 1 1 54541 20170717150502
+201.158.108.252 1 1 54500 20170717144200
+173.252.123.187 0 11 446002 
+191.6.109.15 1 1 66750 20170725211620
+179.212.91.129 1 1 45169 20170708180812
+187.17.172.91 1 1 17805 20170718143417
+177.183.31.123 1 1 66750 20170731202325
+187.56.232.16 2 2 145858 20170725084212
+179.54.228.57 1 1 54546 20170711184027
+187.6.3.47 1 1 66750 20170726065007
+201.21.34.78 1 1 66750 20170731230547
+201.75.176.82 1 1 79108 20170718204657
+189.107.52.31 1 1 45176 20170709100346
+177.128.204.2 1 1 54504 20170717183144
+179.96.198.225 1 1 66750 20170727074652
+177.32.159.117 1 1 66750 20170731201938
+189.51.96.246 1 1 66750 20170726203942
+179.228.218.155 1 1 66750 20170725115254
+189.100.212.250 1 1 66750 20170730181529
+143.202.52.112 1 1 76449 20170701232041
+186.220.55.95 3 3 176455 20170710234454
+191.19.100.42 1 42 1869566 20170711114614
+168.194.164.94 1 1 66750 20170726211046
+66.249.83.7 1 1 79108 20170722081939
+201.87.93.25 2 24 775294 20170726210943
+177.215.100.3 1 1 66750 20170730163332
+189.71.78.109 1 1 66750 20170726200409
+179.213.235.182 1 1 54545 20170717171833
+177.124.72.154 1 1 54558 20170712103736
+186.220.28.228 2 44 1930047 20170712004756
+191.183.101.26 1 1 47758 20170718013325
+187.56.131.164 1 1 66750 20170731223521
+189.40.54.255 1 1 45172 20170708172935
+177.64.44.170 1 1 66750 20170727194417
+201.42.44.42 1 1 54496 20170711195546
+187.113.31.68 1 1 66750 20170726215511
+187.84.143.63 1 1 66750 20170726201127
+187.20.248.42 1 1 66750 20170727094733
+187.22.181.5 2 2 109056 20170718142744
+189.4.52.108 1 1 54533 20170711191250
+191.183.100.64 2 2 99682 20170717221949
+177.91.219.84 1 1 66750 20170731204354
+201.19.240.41 1 1 54559 20170717205432
+187.102.117.232 1 1 45197 20170708234228
+191.191.225.35 1 1 66750 20170727230036
+189.54.145.184 1 1 66750 20170725153114
+132.255.48.211 2 2 133500 20170727101454
+177.21.250.139 1 1 45163 20170709202150
+186.214.123.117 1 1 66750 20170726121704
+179.104.117.172 1 1 66750 20170726080337
+168.181.48.150 1 1 66750 20170731230136
+201.8.243.30 1 1 66750 20170726220658
+187.66.109.248 1 1 54571 20170717095937
+201.6.195.172 1 1 66750 20170726195946
+177.215.103.39 1 1 66750 20170725131035
+131.255.165.14 2 2 121310 20170731201933
+177.102.147.19 1 1 54522 20170711205724
+107.22.136.175 1 1 79108 20170731071643
+179.110.5.137 1 1 66750 20170731204703
+200.20.225.239 2 2 133500 20170726230358
+201.222.29.38 1 1 66750 20170727083441
+191.180.35.179 1 1 45150 20170709100039
+173.252.91.254 0 3 21893 
+177.159.85.44 1 1 45138 20170709214906
+128.201.141.146 1 1 66750 20170731202644
+189.84.118.105 1 1 66750 20170726200902
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20170701 24 67 2273016 19
+20170702 19 19 354298 15
+20170703 334 779 26617327 31
+20170704 345 653 27455129 49
+20170705 226 401 13216353 40
+20170706 57 263 9988191 27
+20170707 123 592 20890465 52
+20170708 407 840 39678574 116
+20170709 116 223 8802762 74
+20170710 215 938 44404568 38
+20170711 211 857 35209467 74
+20170712 62 374 13152453 43
+20170713 138 510 23580830 35
+20170714 25 25 422351 19
+20170715 22 64 2168423 18
+20170716 30 30 1092967 17
+20170717 144 489 19819628 136
+20170718 63 248 9125236 58
+20170719 47 372 13817724 25
+20170720 22 53 1470513 20
+20170721 52 212 6051572 31
+20170722 28 97 2980765 24
+20170723 41 192 6774258 23
+20170724 113 817 34339615 40
+20170725 202 440 20962381 110
+20170726 262 605 26095136 219
+20170727 102 135 6770171 99
+20170728 39 91 3273770 35
+20170729 32 33 1051503 28
+20170730 39 110 4187878 37
+20170731 258 524 19879350 97
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 22
+15mn-30mn 21
+30mn-1h 44
+30s-2mn 17
+2mn-5mn 12
+0s-30s 1514
+5mn-15mn 19
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 94
+/wp-admin/admin-ajax.php 688 1683720 2 11
+/scienceclub/ 445 29770186 434 431
+/ 374 27945522 237 176
+/feed/ 356 3640004 287 285
+/neuroci%C3%AAncias/promocional/ 270 14653059 250 242
+/Modulo-3/optimizer.php 210 7462800 1 4
+/neurociencias/promocional/ 188 8480587 154 160
+/depoimento-2016/embed/ 157 3086752 5 42
+/wp-login.php 128 434516 99 100
+/Modulo-3/rvsindex.php 112 588095 24 20
+/wp-admin/post.php 101 18505183 2 0
+/wp-admin/load-scripts.php 91 8235104 0 0
+/wp-cron.php 88 0 75 75
+/M%C3%B3dulo-1/ 43 2054155 41 39
+/wp-admin/edit.php 36 5354197 0 0
+/m%C3%B3dulo-2/optimizer.php 33 1622736 0 1
+/wp-admin/ 30 2586753 5 0
+/teste-pdf/ 28 2137678 0 1
+/depoimentos-20132014/ 25 1409657 6 6
+/neuroci%c3%aancias/promocional/ 23 1256693 3 12
+/wp-admin/admin.php 21 1329986 0 0
+/wp-admin/load-styles.php 20 1984250 0 0
+/depoimento-2016/ 20 685802 0 2
+/depoimento-2015/ 15 487309 1 0
+/como-adquirir/ 14 986610 1 3
+/email 9 5787 1 5
+/teste/optimizer.php 1 9917 0 0
+/2017/06/02/teste-swf/ 1 71054 0 0
+/neurociencias/promocional/Contate-nos.php 1 21353 0 0
+/wp-admin/media-new.php 1 38043 0 0
+/neurociencias/ 1 73051 0 0
+/wp-admin/edit-comments.php 1 63853 0 0
+/M%C3%B3dulo-1/Teste.php 4 135816 3 4
+/teste/rvsindex.php 1 5047 0 0
+/m\xc3\xb3dulo-2/Contate-nos.php 1 22984 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 10 1828400 0 0
+/wp-admin/post-new.php 7 1404043 0 0
+/principios/ 11 678475 1 1
+/formulario/ 1 76859 0 0
+/modulo-1/ 1 284 0 0
+/wp-admin/customize.php 11 3071593 0 0
+/m%C3%B3dulo-2/wysiwyg/fckeditor/editor/filemanager/connectors/php/upload.php 1 364 0 1
+/wp-admin/upload.php 3 279351 0 0
+/wysiwyg/fckeditor/editor/filemanager/connectors/uploadtest.html 2 10776 0 0
+/Modulo-3/rvssetup.php 2 111626 1 0
+/autodiscover/autodiscover.xml 2 2442 1 0
+/neurociencias/promocional/Teste.php 2 69061 1 0
+/m\xc3\xb3dulo-2/rvsindex.php 4 71642 0 1
+/Modulo-3/ 11 1549068 0 1
+/neuroci%C3%AAncias/promocional/Promocional.php 1 54683 0 0
+/m\xc3\xb3dulo-2/Tire-suas-duvidas.php 1 23011 0 0
+/teste-formulario/ 2 135028 1 1
+/Modulo-3/index.php 3 438365 0 0
+/Modulo-3/M%C3%B3dulo---3.php 14 1990133 0 5
+/wp-admin/plugin-editor.php 1 157000 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 7 122388 0 0
+/wp-admin/nav-menus.php 6 1635952 0 0
+/Copied-Suporte.php 1 27142 1 1
+/M%C3%B3dulo-3/rvsindex.php 5 34727 4 0
+/wp-admin/index.php 4 377651 0 0
+/m%C3%B3dulo-2/wysiwyg/fckeditor/editor/filemanager/connectors/uploadtest.html 1 5388 0 0
+/wysiwyg/fckeditor/editor/filemanager/connectors/php/upload.php 2 708 0 1
+/neurociencias/promocional/Promocional.php 1 45186 0 0
+/wp-admin/plugin-install.php 3 297598 0 0
+/teste-swf/ 5 390626 1 0
+/neurociencias/promocional/media/SAMPLE.swf 3 26362 0 0
+/wp-admin/about.php 1 49056 0 0
+/wp-content/uploads/2017/06/SAMPLE.swf 5 65905 0 0
+/wp-admin/async-upload.php 6 5021 0 0
+/m%C3%B3dulo-2/rvsindex.php 14 86600 1 0
+/neurociencias/promocional/index.php 1 45158 0 0
+/segunda_fase/optimizer.php 1 18856 0 0
+/acoes-2018/ 11 752242 3 3
+/neuroci%C3%AAncias/promocional/Teste.php 4 138682 1 2
+/353-2/ 5 267814 0 1
+/Modulo-3/themes/default/css/installer.php 2 17636 0 0
+/sobre/ 14 855595 1 1
+/2017/06/02/swf/ 3 210953 0 2
+/neuroci%C3%AAncias/promocional/rvthankform_ae145e63d49f110dd46ba78d6df271a0.php 2 24618 0 0
+/roda-do-aprendizado-6-2/ 1 81223 0 0
+/wp-content/plugins/download-manager/assets/font-awesome/fonts/fontawesome-webfont.woff2 3 64464 0 0
+/neurociencias/promocional/Tire-suas-duvidas.php 1 21350 0 0
+/processo-de-criacao/ 6 439267 0 1
+/download/roda-de-aprendizagem/ 2 3066858 1 2
+/wp-admin/plugins.php 5 405242 0 0
+/wp-admin/themes.php 8 541383 0 0
+/demonstracao/ 9 619256 0 3
+/wp-admin/profile.php 1 51700 0 0
+/neuroci%C3%AAncias/promocional/rvthankform_348e09712da94cbbe7a6e2bc1b708059.php 1 12042 0 0
+/uma-seccao-da-pagina-inicial/ 12 756174 0 1
+/2017/03/31/hello-world/ 1 70498 0 0
+/category/uncategorized/ 9 591907 0 1
+/fale-conosco/ 4 268735 0 1
+/m%C3%B3dulo-2/M%C3%B3dulo---2.php 1 87437 0 0
+END_SIDER

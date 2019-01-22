@@ -1,0 +1,130 @@
+Return-path: <ttturi@terra.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 14 Apr 2015 10:16:18 -0300
+Received: from if02-mail-sr02-mia.mta.terra.com ([208.84.243.29]:38865)
+	by hserv20.homehost.com.br with esmtp (Exim 4.85)
+	(envelope-from <ttturi@terra.com.br>)
+	id 1Yi0h7-0000M3-4Q
+	for marco@digitalfotoimagem.com.br; Tue, 14 Apr 2015 10:16:17 -0300
+Received: from mail-smtp08-mia.tpn.terra.com (unknown [10.235.200.39])
+	by mail-sr02-mia.tpn.terra.com (Postfix) with ESMTP id BE28520022E0;
+	Tue, 14 Apr 2015 13:15:57 +0000 (UTC)
+X-Terra-Karma:         -2%
+X-Terra-Hash: a19554423386457f36f734e36141ec1c
+Received: from localhost (1ge.terra.com [208.84.242.165])
+	(authenticated user ttturi!terra)
+	by mail-smtp08-mia.tpn.terra.com (Postfix) with ESMTPA id 3412A802073A;
+	Tue, 14 Apr 2015 13:15:49 +0000 (UTC)
+reply-to: ttturi@terra.com.br
+date: Tue, 14 Apr 15 13:15:49 +0000
+cc: marco@digitalfotoimagem.com.br,chancelaria@crivodarazao.org.br,=?UTF-8?B?IkFsZXhhbmRyZSBEaWFzIGRlIENhc3RybyI=?=<xandedias.castro@gmail.com>,=?UTF-8?B?IkFudG9uaW8gRmluYXJkaSI=?=<ma.finardi@hotmail.com>,=?UTF-8?B?IkVuZWRpbm8gQWx2ZXMgQmFyYm9zYSBGaWxobyI=?=<dino.abf@gmail.com>,=?UTF-8?B?IkZsw6F2aW8gRmVycmVyIg==?=<flavio@crivodarazao.org.br>,=?UTF-8?B?Ikpvc8OpIERvbmlzZXRpIEx1aXoi?=<josedonisetiluiz@yahoo.com.br>,=?UTF-8?B?Ik1hcmN1cyBXZWxiaSBNb250ZSBWZXJkZSI=?=<marcuswelbi@crivodarazao.org.br>,=?UTF-8?B?Ik9zd2FsZG8gZG9zIFNhbnRvcyBKdW5pb3Ii?=<oswaldosantosjunior@gmail.com>,=?UTF-8?B?IkVuZWRpbm8gQWx2ZXMgQmFyYm9zYSBGaWxobyI=?=<enedino@crivodarazao.org.br>,=?UTF-8?B?IlZlbmVyYXZlbCBNZXN0cmUi?=<crivodarazao@crivodarazao.org.br>,=?UTF-8?B?IkFudG9uaW8gQ2FybG9zIEtyZW1lIg==?=<ackack1969@yahoo.com.br>,=?UTF-8?B?IkFudG9uaW8gQ2FybG9zIFJvc3NldGki?=<carlos.rossetti@uol.com.br>,=?UTF-8?B?IkFyc2VuaW8gZGUgUGFpdmEgTG9wZXMi?=<arsenio.p.lopes@gmail.com>,=?UTF-8?B?IlJpY2FyZG8gZGUgTcOqbyBGZXJuYW5kZXM
+ i?=<valdes@uol.com.br>,=?UTF-8?B?Ikpvw6NvIEdhbWJldHRpIE5ldG8i?=<gambetti@gambetti.com.br>,=?UTF-8?B?Ik1hcmNpbGlvIE1hcmNoaVRlc3RhIg==?=<mmtesta@uol.com.br>,=?UTF-8?B?IkRlamFpciBCaWFuY2hpIg==?=<dejair.bianchi@uol.com.br>,=?UTF-8?B?IldhbmRlcmxleSBDYWxkYW5hIg==?=<w.caldana@uol.com.br>,=?UTF-8?B?Ikx1aXogQ2FybG9zIEJ1ZW5vIg==?=<fallcar@hotmail.com>,=?UTF-8?B?Ikx1aXMgTWF1cmljaW8gUm9kcmlndWVzIg==?=<luiz_ma@hotmail.com>,=?UTF-8?B?IkphaXJvIERpYXMi?=<Jairo@rooftec.com.br>,=?UTF-8?B?IkhlbGlvIEZlbGl4Ig==?=<helioamandara@uol.com.br>,=?UTF-8?B?Ik1hcmNvcyBQYXRyaW5pYW5pIg==?=<marckopat@live.com>,=?UTF-8?B?Ik5hdGFuYWVsIENvc3RhIg==?=<ncosta@usa.com>,=?UTF-8?B?Ik9yZGFsaW5vIGRlIFNvdXphIGUgU2lsdmEi?=<titoss@ig.com.br>,=?UTF-8?B?Ik1hcmNvIFR1bGlvIGRlIE1lbGxvIg==?=<tmello@demello.net.br>,=?UTF-8?B?IldsYW1pciBMb3BlcyBTYW5jaGVzIg==?=<wladsmozz@hotmail.com>,=?UTF-8?B?IkZhYnLDrWNpbyBUYWtlc2hpIE11cmFrYW1pIg==?=<fabricio@crivodarazao.org.br>,=?UTF-8?B?IlJvZ8OpcmlvIGRvcyBTYW50b3MgT3RhIg==?=<rogerio@crivodar
+ azao.org.br>,=?UTF-8?B?IkZlcm5hbmRvIENvbGFjaW9wcG8i?=<falecom@redecolmeia.com.br>,=?UTF-8?B?IkRvdWdsYXMgS2xlaW4gQmFzc28i?=<douglas.klein@gmail.com>,=?UTF-8?B?IkdpbGJlcnRvIERhbnRlIg==?=<gilbertodante@hotmail.com>,=?UTF-8?B?IkVybmFuaSBGbGF1c2lubyI=?=<ecobom@ig.com.br>,=?UTF-8?B?IlJvbnkgU2lsdmlvIFBlcmVpcmEgZGUgU291emEi?=<ronysilvio@gmail.com>
+to: =?UTF-8?B?IkJlbmVkaXRvIENhcmxvcyBGbGFtaW5pbyAtIENsYXJvIFNQIC0i?=<benedito.flaminio@claro.com.br>
+in-reply-to: <89AD786C323CB940AF23DDCA30A8E2772B1D874D@camapua.claro.com.br> <4072d9d21c7f6df1f77e2952e7cb2307@digitalfotoimagem.com.br>
+references: <89AD786C323CB940AF23DDCA30A8E2772B1D874D@camapua.claro.com.br> <4a10f47077fe56e5509cc17dc981edfd@crivodarazao.org.br> <4072d9d21c7f6df1f77e2952e7cb2307@digitalfotoimagem.com.br>
+subject: =?UTF-8?B?UmU6IFJFUzogW1NQRiBTb2Z0ZmFpbF0gQU5JVkVSU8OBUklBTlRFUyA=?=
+ =?UTF-8?B?LyBDUklWTyBEQSBSQVrDg08=?=
+message-id: <OID_1429017312435186_0ttturi@terra.com.br>
+X-Priority: 3
+x-msmail-priority: normal
+importance: normal
+priority: normal
+x-origin: 201.27.182.180
+from: =?UTF-8?B?IkNMQVVESU8gVFVSSSI=?= <ttturi@terra.com.br>
+content-type: text/html; charset=utf-8
+content-transfer-encoding: QUOTED-PRINTABLE
+mime-version: 1.0
+X-CMAE-Score: 0
+X-Spam-Status: No, score=3.2
+X-Spam-Score: 32
+X-Spam-Bar: +++
+X-Ham-Report: Spam detection software, running on the system "hserv20.homehost.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Confirmo. Turi eu mais uma pessoa.(total duas). Em Ter 14/04/15
+    09:14, Benedito Carlos Flaminio - Claro SP - CONFIRMO MINHA PRESENÇA, 4
+   PESSOAS E DUAS CRIANÇAS. [...] 
+ 
+ Content analysis details:   (3.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: claro.com.br]
+  1.1 INVALID_DATE           Invalid Date: header (not RFC 2822)
+  0.0 BAD_ENC_HEADER         Message has bad MIME encoding in the header
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (ttturi[at]terra.com.br)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.7 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.4 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+  1.9 MISSING_MIMEOLE        Message has X-MSMail-Priority, but no X-MimeOLE
+  1.0 FROM_EXCESS_BASE64     From: base64 encoded unnecessarily
+X-Spam-Flag: NO
+
+Confirmo.<br>Turi eu mais uma pessoa.(total duas).<br><p>Em Ter 14/04/15 09=
+:14, Benedito Carlos Flaminio - Claro SP - benedito.flaminio@claro.com.br e=
+screveu:</p><blockquote>CONFIRMO MINHA PRESEN=C3=87A, 4 PESSOAS E DUAS CRIA=
+N=C3=87AS.<br><br>-----Mensagem original-----<br>De: marco@digitalfotoimage=
+m.com.br [mailto:marco@digitalfotoimagem.com.br]<br>Enviada em: segunda-fei=
+ra, 13 de abril de 2015 20:11<br>Para: chancelaria@crivodarazao.org.br<br>C=
+c: Alexandre Dias de Castro; Antonio Finardi; Enedino Alves Barbosa Filho; =
+Fl=C3=A1vio Ferrer; Jos=C3=A9 Doniseti Luiz; Marcus Welbi Monte Verde; Oswa=
+ldo dos Santos Junior; Enedino Alves Barbosa Filho; Veneravel Mestre; Anton=
+io Carlos Kreme; Antonio Carlos Rosseti; Arsenio de Paiva Lopes; Ricardo de=
+ M=C3=AAo Fernandes; Jo=C3=A3o Gambetti Neto; Marcilio MarchiTesta; Dejair =
+Bianchi; Claudio Auricchio Turi; Wanderley Caldana; Luiz Carlos Bueno; Bene=
+dito Carlos Flaminio - Claro SP -; Luis Mauricio Rodrigues; Jairo Dias; Hel=
+io Felix; Marcos Patriniani; Natanael Costa; Ordalino de Souza e Silva; Mar=
+co Tulio de Mello; Wlamir Lopes Sanches; Fabr=C3=ADcio Takeshi Murakami; Ro=
+g=C3=A9rio dos Santos Ota; Fernando Colacioppo; Douglas Klein Basso; Gilber=
+to Dante; Ernani Flausino; Rony Silvio Pereira de Souza<br>Assunto: [SPF So=
+ftfail] ANIVERS=C3=81RIANTES / CRIVO DA RAZ=C3=83O<br><br>Boa noite meus II=
+r.`.<br><br><br>Na ultima se=C3=A7=C3=A3o foi levantado a quest=C3=A3o da d=
+ata do dia 18/04 o qual ter=C3=A1 um feriado na sequ=C3=AAncia dia 21/04.<b=
+r><br>Pois a altera=C3=A7=C3=A3o para o dia 1=C2=BA de Maio comprometeu dua=
+s fam=C3=ADlias comparecerem.<br><br><br><br>E n=C3=A3o foi feito o levanta=
+mento se alguma fam=C3=ADlia n=C3=A3o ir=C3=A1 no dia 1=C2=BA.<br><br><br>S=
+olicito a confirma=C3=A7=C3=A3o para meu e_mail quem ira no dia 1=C2=BA.<br=
+><br>Conversei com o Ir.`.Caca e assim na pr=C3=B3xima se=C3=A7=C3=A3o defi=
+niremos se ser=C3=A1<br>melhor trocar a data ou manter o dia 21/04.<br><br>=
+<br>Ass. Parise<br><br>T.`.F.`.A.`.<br><br>________________________________=
+<br><br>Esta mensagem, incluindo seus eventuais anexos, pode conter informa=
+=C3=A7=C3=B5es confidenciais, de uso restrito e/ou legalmente protegidas. S=
+e voc=C3=AA recebeu esta mensagem por engano, n=C3=A3o deve usar, copiar, d=
+ivulgar, distribuir ou tomar qualquer atitude com base nestas informa=C3=A7=
+=C3=B5es. Solicitamos que voc=C3=AA elimine a mensagem imediatamente de seu=
+ sistema e avise-nos, enviando uma mensagem diretamente para o remetente e =
+para postmaster@claro.com.br. Todas as opini=C3=B5es, conclus=C3=B5es ou in=
+forma=C3=A7=C3=B5es contidas nesta mensagem somente ser=C3=A3o consideradas=
+ como provenientes da Claro ou de suas subsidi=C3=A1rias quando efetivament=
+e confirmadas, formalmente, por um de seus representantes legais, devidamen=
+te autorizados para tanto.<br>---------------------------------------------=
+---------------------------------<br>Este mensaje, incluyendo sus eventuale=
+s archivos adjuntos, puede contener informaciones confidenciales, de uso re=
+stringido y/o legalmente protegidas. Si usted ha recibido este mensaje por =
+error, no debe utilizar, copiar, divulgar, distribuir o tomar cualquier act=
+itud basada en estas informaciones. Solicitamos la inmediata eliminaci=C3=
+=B3n del mensaje de su sistema y el env=C3=ADo de un informe en forma direc=
+ta al remitente y a postmaster@claro.com.br. Todas las opiniones, conclusio=
+nes o informaciones contenidas en este mensaje solamente ser=C3=A1n conside=
+radas como provenientes de Claro o de sus subsidiarias cuando sean efectiva=
+mente confirmadas, formalmente, a trav=C3=A9s de uno de sus representantes =
+legales debidamente autorizados a tal fin.<br>-----------------------------=
+-------------------------------------------------<br>This message, includin=
+g all attachments transmitted with it may include restricted, legally privi=
+leged, and/or confidential information. If you received this message by mis=
+take or in error you are hereby notified that you must not use, publicize, =
+copy, distribute, resend, or take any action based on the information conta=
+ined in the message. We ask you to delete the message immediately from your=
+ system and advise us by sending a message directly</blockquote>

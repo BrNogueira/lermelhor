@@ -1,0 +1,116 @@
+Return-Path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id aU8MD9t7pFjskwkAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Wed, 15 Feb 2017 14:03:39 -0200
+Return-path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Wed, 15 Feb 2017 14:03:39 -0200
+Received: from o4.mailsg.leadlovers.com ([167.89.66.87]:16736)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>)
+	id 1ce23O-002dCQ-TW
+	for marco@digitalfotoimagem.com.br; Wed, 15 Feb 2017 14:03:39 -0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=leadlovers.com.br; 
+	h=content-type:from:mime-version:subject:to:list-unsubscribe; 
+	s=m1; bh=sUmJWivPSw9MoZ1OoDN2bclGkxU=; b=urUy+hUytUT0omRGbWx0QnH
+	dJwligIYWmlASOLqVhe94RbLT4fNVgtegtHhSPxncmvqdgGYlqnKK6kjkeDj2LMF
+	ileyMWNiAFbM/q2F3bnbahsmr/Oyfn8syi1HGX1qMHFJk5K4zm56tbkMC0aTxUbW
+	U2HhO+qxaD7W3QsEXIUU=
+Received: by filter0960p1mdw1.sendgrid.net with SMTP id filter0960p1mdw1-3248-58A47B54-3A
+        2017-02-15 16:01:25.151490218 +0000 UTC
+Received: from MjM4NDgwOQ (m3640.contabo.host [5.189.178.140])
+	by ismtpd0002p1lon1.sendgrid.net (SG) with HTTP id LHjbQoB2QkSZmeJiKf0sMg
+	Wed, 15 Feb 2017 16:01:24.823 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=bf72c2b83808de3c9077c401812f53351fa988bbdc6f35ce1540d2d833a2
+Date: Wed, 15 Feb 2017 16:01:24 +0000
+From: "Paulo Gerhardt" <paulo.gerhardt@solbiz.com.br>
+Mime-Version: 1.0
+Subject: =?UTF-8?B?W1bDrWRlb10gUG9yIHF1ZSBhbGd1bnMgZXN0w6NvIHZlbmRlbmRvLCBlIGV1IG7Do28/?=
+To: <marco@digitalfotoimagem.com.br>
+Message-ID: <LHjbQoB2QkSZmeJiKf0sMg@ismtpd0002p1lon1.sendgrid.net>
+List-Unsubscribe: <https://u2384809.ct.sendgrid.net/wf/unsubscribe?upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiWoKQFOF-2FXBopiL-2BYaC-2B-2BVqdzIjVxf7Lu91Zxzhei-2B-2BsaBBXHVuf6LPI5LZmdGAO81wrOFjYKoPJJYy-2BEN-2FWyvg-2BhAVYuAKH6yOc0QSmkmk72gZe9n5W0tgoS2JC-2BOTdsIyyvviy1cCbj-2BOwE9EBVVYuoN99RdcGnpyLO16d-2BALEdkCgtsGUdwYFUJa1mjt0TL-2BHL2PUq13VWe2KhMRW-2FpxA8pingoHHp-2B-2BaQNiRSPpM-3D>, <mailto:unsubscribe@mailsg.leadlovers.com.br?subject=https://u2384809.ct.sendgrid.net/wf/unsubscribe*q*upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiWoKQFOF-2FXBopiL-2BYaC-2B-2BVqdzIjVxf7Lu91Zxzhei-2B-2BsaBBXHVuf6LPI5LZmdGAO81wrOFjYKoPJJYy-2BEN-2FWyvg-2BhAVYuAKH6yOc0QSmkmk72gZe9n5W0tgoS2JC-2BOTdsIyyvviy1cCbj-2BOwE9EBVVYuoN99RdcGnpyLO16d-2BALEdkCgtsGUdwYFUJa1mjt0TL-2BHL2PUq13VWe2KhMRW-2FpxA8pingoHHp-2B-2BaQNiRSPpM-3D>
+X-SG-EID: Hch+2AQw5UfQtHqV+P/3h94kWa/z3uc7aT9t1ffNJX6ejfdpfjs1c7IIdtNthFh9JzY0sZtM8K5cbp
+ qZET8CDRUnWvj0rcGcEXGp/86G0AKNjDhvPvJyEg9nLBzIUJV5DWydc3Gdeh+CYbpifQ0El6RLLfuX
+ 2yoNBurD7ddtiRdXDUJSnysp662e8G6K/zAtFOIMFre9Ied4WtoutgzP/KEgG9SXoJVu1ulJmfVluq
+ JyRhCDecz155KgyVvyDILk
+X-SG-ID: YDTqBOjidbCUo/ar1oAtZhh/JgaIUjcYvoMkTQKQyYiG/E9EVJUGrBMFXu4Kl9fp
+
+--bf72c2b83808de3c9077c401812f53351fa988bbdc6f35ce1540d2d833a2
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+=0D=0DOl=C3=A1Tudo bem? Voc=C3=AA j=C3=A1 deve ter assistido algum dos meus=
+ v=C3=ADdeos, ou ainda, lido um dos meus artigos. Se j=C3=A1 pode acompanha=
+r algum dos meus conte=C3=BAdos, deve ter percebido que falo constantemente=
+ que o problema de n=C3=A3o se vender como antes n=C3=A3o =C3=A9 exclusivid=
+ade da crise.=0D=0DConfira o meu v=C3=ADdeo e saiba porque.=0D=0DMuitas emp=
+resas e profissionais est=C3=A3o tendo muito sucesso, atualmente, neste mes=
+mo cen=C3=A1rio que a maioria reclama que est=C3=A1 em crise. O que eles fa=
+zem para ter este sucesso? =0D=0DAssista o meu v=C3=ADdeo e entenda o que e=
+st=C3=A3o fazendo.=0D=0DA resposta para a crise est=C3=A1 nas suas atitudes=
+. Se continuar fazendo as coisas do mesmo jeito em um cen=C3=A1rio que =C3=
+=A9 muito diferente, n=C3=A3o ter=C3=A1 o resultado esperado. Ent=C3=A3o, q=
+uais devem ser as atitudes mais adequadas neste momento? =0D=0DVeja aqui no=
+ meu v=C3=ADdeo.=0D=0DAbra=C3=A7os=0D=0DPaulo Gerhardt=0D=0DCriador da Meto=
+dologia do Coaching de VendasClique aqui para n=C3=A3o receber mais e-mails=
+ dessa lista (Unsubscribe).
+
+--bf72c2b83808de3c9077c401812f53351fa988bbdc6f35ce1540d2d833a2
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE><table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" id=3D=
+"LLCenteredColumn" style=3D"border:none;"><tbody><tr><td style=3D"border:no=
+ne;"><table class=3D"table01 k-table" style=3D"background-color:#ffffff;mar=
+gin:auto;width:650px;"><tbody><tr><td id=3D"LLCenteredColumn01" style=3D"bo=
+rder:none;margin:0px;padding:20px;text-align:left;white-space:normal;"><p><=
+span style=3D"font-size:14.0pt;font-family:'Arial','sans-serif';">Ol&aacute=
+;<br /></span><span style=3D"font-family:Arial, sans-serif;font-size:14pt;t=
+ext-align:justify;"><br />Tudo bem? Voc&ecirc; j&aacute; deve ter assistido=
+ algum dos meus v&iacute;deos, ou ainda, lido um dos meus artigos. Se j&aac=
+ute; pode acompanhar algum dos meus conte&uacute;dos, deve ter percebido qu=
+e falo constantemente que o problema de n&atilde;o se vender como antes n&a=
+tilde;o &eacute; exclusividade da crise.</span><span style=3D"font-size:14.=
+0pt;font-family:'Arial','sans-serif';"><br /></span></p><p style=3D"text-al=
+ign:justify;"><span style=3D"font-size:14.0pt;font-family:'Arial','sans-ser=
+if';color:red;"><a href=3D"http://leadloversclick02.com/redirect/redirect.a=
+spx?A=3DR&l=3DA69D1E90-252D-4534-BD97-85A1C58513AC&u=3De1fc859d-6a8b-4ded-9=
+be9-68e50bc2e42f" target=3D"_blank">Confira o meu v&iacute;deo e saiba porq=
+ue.</a></span></p><p style=3D"text-align:justify;"><span style=3D"font-size=
+:14.0pt;font-family:'Arial','sans-serif';"><br />Muitas empresas e profissi=
+onais est&atilde;o tendo muito sucesso, atualmente, neste mesmo cen&aacute;=
+rio que a maioria reclama que est&aacute; em crise. O que eles fazem para t=
+er este sucesso?&nbsp;&nbsp;&nbsp; </span></p><p style=3D"text-align:justif=
+y;"><span style=3D"font-size:14.0pt;font-family:'Arial','sans-serif';color:=
+red;"><a href=3D"http://leadloversclick02.com/redirect/redirect.aspx?A=3DR&=
+l=3DA69D1E90-252D-4534-BD97-85A1C58513AC&u=3De1fc859d-6a8b-4ded-9be9-68e50b=
+c2e42f" target=3D"_blank"><br />Assista o meu v&iacute;deo e entenda o que =
+est&atilde;o fazendo.</a></span></p><p style=3D"text-align:justify;"><span =
+style=3D"font-size:14.0pt;font-family:'Arial','sans-serif';"><br />A respos=
+ta para a crise est&aacute; nas suas atitudes. Se continuar fazendo as cois=
+as do mesmo jeito em um cen&aacute;rio que &eacute; muito diferente, n&atil=
+de;o ter&aacute; o resultado esperado. Ent&atilde;o, quais devem ser as ati=
+tudes mais adequadas neste momento? <br /></span></p><p style=3D"text-align=
+:justify;"><span style=3D"font-size:14.0pt;font-family:'Arial','sans-serif'=
+;color:red;"><a href=3D"http://leadloversclick02.com/redirect/redirect.aspx=
+?A=3DR&l=3DA69D1E90-252D-4534-BD97-85A1C58513AC&u=3De1fc859d-6a8b-4ded-9be9=
+-68e50bc2e42f" target=3D"_blank">Veja aqui no meu v&iacute;deo.</a></span><=
+/p><p><span style=3D"font-size:14.0pt;font-family:'Arial','sans-serif';"><b=
+r />Abra&ccedil;os</span></p><p style=3D"margin-bottom:0cm;margin-bottom:.0=
+001pt;"><span style=3D"font-size:14.0pt;font-family:'Arial','sans-serif';">=
+Paulo Gerhardt</span></p><p style=3D"margin-bottom:0cm;margin-bottom:.0001p=
+t;"><span style=3D"font-size:14.0pt;font-family:'Arial','sans-serif';">Cria=
+dor da Metodologia do Coaching de Vendas</span></p></td></tr></tbody></tabl=
+e></td></tr></tbody></table><a href=3D"http://leadloversclick02.com/redirec=
+t/redirect.aspx?A=3DU&u=3De1fc859d-6a8b-4ded-9be9-68e50bc2e42f" target=3D"_=
+blank">Clique aqui para n&atilde;o receber mais e-mails dessa lista (Unsubs=
+cribe).</a><br /><img alt=3D"" src=3D"http://leadloversclick02.com/redirect=
+/redirect.aspx?A=3DV&u=3De1fc859d-6a8b-4ded-9be9-68e50bc2e42f&IMG=3Dhttps:/=
+/leadlovers.com/content/images/1px.png" />
+
+--bf72c2b83808de3c9077c401812f53351fa988bbdc6f35ce1540d2d833a2--

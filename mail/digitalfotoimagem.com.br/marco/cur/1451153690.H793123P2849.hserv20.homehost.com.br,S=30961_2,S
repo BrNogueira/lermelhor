@@ -1,0 +1,804 @@
+Return-path: <cobranca@ultracenter.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sat, 26 Dec 2015 16:14:50 -0200
+Received: from smtp2.ultracenter.com.br ([200.229.132.50]:44636)
+	by hserv20.homehost.com.br with esmtp (Exim 4.86)
+	(envelope-from <cobranca@ultracenter.com.br>)
+	id 1aCtMf-0000eg-JT
+	for marco@digitalfotoimagem.com.br; Sat, 26 Dec 2015 16:14:50 -0200
+Received: from localhost (unknown [200.206.41.210])
+	by smtp2.ultracenter.com.br (Postfix) with ESMTP id 20005180208
+	for <marco@digitalfotoimagem.com.br>; Sat, 26 Dec 2015 16:14:03 -0200 (BRST)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=ultracenter.com.br;
+	s=mail; t=1451153643;
+	bh=wRvoH3+PNaoBTeX108Krp427Dk3hzUDKZXvdwcUhcVE=;
+	h=Date:To:From:Subject:From;
+	b=ixLE3BoLyz9cPA/QbgG9TvoAhlCKaOXJclEtZiQpyydF8kPKjNnEsfkWLkUWUIV5D
+	 7MsiU2Og+y0QJRMDpxvqo+yiJnCebac6Nc28OJP1djxxbHPUnJP2d5Ycb2CFX61WJB
+	 mWhYEUhBrTkiI/KD7974rQUfUifQEUauSJupsDX8=
+Date: Sat, 26 Dec 2015 16:14:03 -0200
+To: marco@digitalfotoimagem.com.br
+From: Vivo - Ultracenter <cobranca@ultracenter.com.br>
+Subject: Boleto Vivo
+Message-ID: <d897faeed98be7c289df3acabb0f40aa@localhost>
+X-Priority: 1
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="iso-8859-1"
+
+			<meta charset='utf-8'>
+			<html>
+				<head>
+					<title>Boleto</title>
+				</head>
+				<body ><center>
+				<div style="width:720px">
+					<table border='0' style="width:720px" cellpadding='0' cellspacing='0'>
+						<tr>
+							<td bgcolor='#FFFFFF' style='height:10px;'>
+								<img src='http://www.ultracenter.com.br/images/Mkt_Emails/Mkt_Boletagem_Vivo_Logo.png' width='880px'>
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor='#FFFFFF' style='height:20px;'>
+								<p style='margin-left:10px;margin-top:10px;'>
+									<font size=4>
+										<b>
+											Prezado(a) Cliente: Angela Salino<br>
+											Contrato: 256154611-123732381-01<br><br>
+										</b>
+									</font>
+								</p>
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor='#FFFFFF' style='height:20px;'>
+								<p style='margin-left:10px;margin-top:10px;width:720px' ALIGN="CENTER">
+									<font size=5 face=arial>
+										<b>
+											<b>&Uacute;LTIMO AVISO DE NOTIFICA&Ccedil;&Atilde;O DE COBRAN&Ccedil;A</b>
+										</b>
+									</font>
+																						
+								</p>
+								<p style='margin-left:10px;margin-top:10px;width:720px' align='justify'>
+									<font size=2 face=arial>
+											Prezado Cliente, <br>
+											Apesar de contatos anteriores sem sucesso, n&oacute;s da  queremos que voc&ecirc; continue utilizando os nossos servi&ccedil;os, para isso voc&ecirc; precisa fazer o pagamento deste boleto <b>Urgente!</b>
+											<br><br>
+									</font>
+								</p>
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor='#FFFFFF' style='height:20px;' valign="top">
+								<p style='margin-left:10px;margin-top:0px;width:720px'>
+									<table border=0 style='border:1px solid #000000;' width='100%' height='50px' cellpadding='0' cellspacing='0' >
+																			</table>
+								</p>
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor='#FFFFFF' style='height:20px;'>
+								<p style='margin-left:10px;margin-top:10px;width:720px' align='justify'>
+									<font size=2 face=arial>
+											Pague suas contas em atraso, evite o bloqueio da sua linha e tamb&eacute;m os transtornos que isso acarretar&aacute;.<br>
+											Para sua maior comodidade, o pagamento pode ser efetuado com este boleto ou com a sua fatura original em qualquer ag&ecirc;ncia 
+												banc&aacute;ria, no seu banco, pela internet acessando a op&ccedil;&atilde;o "Concession&aacute;rias" e nos caixas eletr&ocirc;nicos.<br>
+												Tamb&eacute;m nas casas lot&eacute;ricas e na rede credenciada.
+											<br>
+									</font>
+								</p>
+								<p style='margin-left:10px;margin-top:10px;width:720px' align='justify'>
+									<font size=2 face=arial>
+										<b>
+											N&atilde;o perca esta oportunidade. Pague este boleto e evite que seu nome seja incluso nos org&atilde;os de prote&ccedil;&atilde;o ao cr&eacute;dito - SPC e SERASA.
+											<br><br>
+										</b>
+									</font>
+								</p>
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor='#FFFFFF' style='height:20px' valign="top">
+								<B>
+									<p style="margin-left:10px">
+										ATEN&Ccedil;&Atilde;O: ESTE BOLETO S&Oacute; PODER&Aacute; SER PAGO AT&Eacute; 29/12/2015									</p>
+								<B>
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor='#FFFFFF' style='height:20px' valign="top">
+								<B>
+									<p style="margin-left:10px">
+										<font size=3 face=arial>
+											Central de Atendimento: 										</font>
+									</p>
+								<B>
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor='#FFFFFF' style='height:20px;'>
+								<p style='margin-left:10px;margin-top:10px;width:720px' align='justify'>
+									<font size=1 face=arial>
+											Cobran&ccedil;a de juros e multas sobre a(s) fatura(s) em atraso poder&aacute; ocorrer posteriormente.<br><br>
+											Sr. Cliente, aten&ccedil;&atilde;o: A VIVO, ou qualquer empresa em nome da VIVO, n&atilde;o recebe pagamento de fatura atrav&eacute;s de 
+												dep&oacute;sito em conta-corrente.<br>
+											Todo pagamento de servi&ccedil;os &agrave; VIVO dever&aacute; ser efetuado via boleto, com c&oacute;digo de barras.<br><br>
+											Caso j&aacute; esteja pago, favor desconsiderar esse boleto e aceite nossas desculpas.
+											<br><br>
+									</font>
+								</p>
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor='#FFFFFF' style='height:20px' valign="top">
+								<B>
+									<p style="margin-left:10px">
+										<font size=3 face=arial>
+											SR. CAIXA<br>
+											N&Atilde;O ACEITAR CHEQUE, N&Atilde;O COBRAR JUROS E MULTA.<br>
+											Sr. Caixa, Fatura prorragada at&eacute;: 29/12/2015										</font>
+									</p>
+								<B>
+							</td>
+						</tr>
+						
+															<tr>
+										<td bgcolor='#FFFFFF' style='height:20px;'  valign="top">
+											<p style='margin-left:10px;margin-top:0px;width:720px'>
+												<b>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</b>
+											</p>
+										</td>
+									</tr>
+									<tr>
+										<td bgcolor='#FFFFFF' valign='top'  style='height:20px;'>
+											<p style='margin-left:10px;margin-top:0px;width:700px'>
+											
+																										<table border=0 style='border:0px solid #FFFFFF;'  width='100%' cellpadding='0' cellspacing='0' >
+														<tr>
+															<td style='border:1px solid #000000;'>CONTRATO</td>
+															<td style='border:1px solid #000000;'>NOME</td>
+															<td style='border:1px solid #000000;'>VENCIMENTO</td>
+															<td style='border:1px solid #000000;'>VALOR TOTAL</td>
+														</tr>
+														<tr>
+															<td style='border:1px solid #000000;'>
+																	<b>256154611-123732381-01</b>															</td>
+															<td style='border:1px solid #000000;'>
+																	<b>Angela Salino</b><br>															</td>
+															<td style='border:1px solid #000000;'>
+																	<b></b><br>															</td>
+															<td style='border:1px solid #000000;' bgcolor='#EEEEEE' align='center'>
+																<p style='margin-left:0px'>
+																	<b>153.17</b>																</p>
+															</td>
+														</tr>
+														<tr>
+															<td colspan='4' align='center'>
+																846900000015531710291232732381012010509239999998<br>
+																
+																		<img src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0>
+		<img src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0>
+		<img src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0>
+		<img src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0>
+		<img 
+				
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=3 height=50 border=0><img 
+			
+				src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0><img 
+		 
+		
+		src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0><img 
+			
+	src="http://ultracenter.com.br/images/boleto/p.png" width=3 height=50 border=0>
+	<img src="http://ultracenter.com.br/images/boleto/b.png" width=1 height=50 border=0>
+	<img src="http://ultracenter.com.br/images/boleto/p.png" width=1 height=50 border=0> 
+	   
+															</td>
+														</tr>
+													</table>
+											</p>
+										</td>
+									</tr>
+													</table>
+				</div>	
+				</body>
+			</html>
+			
+
+

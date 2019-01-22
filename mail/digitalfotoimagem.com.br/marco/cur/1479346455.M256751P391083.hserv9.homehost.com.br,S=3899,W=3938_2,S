@@ -1,0 +1,39 @@
+Return-Path: <cobranca@ultracenter.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id EbrSDRcJLVir9wUAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Wed, 16 Nov 2016 23:34:15 -0200
+Return-path: <cobranca@ultracenter.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Wed, 16 Nov 2016 23:34:15 -0200
+Received: from smtp2-2.ultracenter.com.br ([200.229.132.52]:53914 helo=smtp2.ultracenter.com.br)
+	by hserv9.homehost.com.br with esmtp (Exim 4.87)
+	(envelope-from <cobranca@ultracenter.com.br>)
+	id 1c7Bag-001dcR-Vm
+	for marco@digitalfotoimagem.com.br; Wed, 16 Nov 2016 23:34:15 -0200
+Received: from localhost.localdomain (unknown [200.206.41.210])
+	by smtp2.ultracenter.com.br (Postfix) with ESMTP id 2D53A189EC8
+	for <marco@digitalfotoimagem.com.br>; Wed, 16 Nov 2016 23:33:26 -0200 (BRST)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=ultracenter.com.br;
+	s=mail; t=1479346406;
+	bh=FX7COcryjAFG1OhgsogdqmAvKextuTgVpguHOrfR+kM=;
+	h=Date:To:From:Subject:From;
+	b=wR1Z9L04OFYbyQyxcPdMvvBbZfwvrKQo3+y5R35WhyKCqESMxxHddQsNTidEacZ3m
+	 nYgGm6q27rGv4TShpN4oE++sfLqA9ghY7+KobX10X+dGBqIo0uCrh9CYdEJWSdE0O/
+	 yDFuDp1SACz3D///VKgl1OPqGnEk1UTawBWxi5pY=
+Date: Wed, 16 Nov 2016 23:33:26 -0200
+To: marco@digitalfotoimagem.com.br
+From: =?iso-8859-1?Q?N=E3o_identificamos_o_pagamento_da_sua_fatura_VIVO=2E?= <cobranca@ultracenter.com.br>
+Subject: =?iso-8859-1?Q?N=E3o_identificamos_o_pagamento_da_sua_fatura_VIVO.?=
+Message-ID: <852d22d8df6d65a2ee8501fa29cc71f2@localhost.localdomain>
+X-Priority: 1
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="iso-8859-1"
+
+<div style="font-family: Arial, Verdana; font-weight: normal; font-size: 10pt; text-align: center;"><img src="http://192.168.9.11/admin/clientes/files/11136/email/campanhas/imagens/capa.jpg" style="font-size: 10pt;"></div><div style="font-family: Arial, Verdana; font-weight: normal; font-size: 10pt; text-align: center;"><br></div><div style="text-align: center;"><font size="5" color="#ff9900" face="Tahoma"><b>Prezado(a):</b> Marco Antonio Pedrosa Parise</font></div><div style="text-align: center;"><font size="5" color="#ff9900" face="Tahoma"><b>CPF/CNPJ:</b> 5217094826</font></div><div style="font-weight: normal; text-align: center;"><p style="text-align: center; background-color: rgb(255, 255, 255);"><font face="Tahoma">Nós da Vivo, queremos estar cada vez mais próximo de você.</font></p><p style="text-align: center; background-color: rgb(255, 255, 255);"><font face="Tahoma">Identificamos que sua fatura está vencida há alguns dias.&nbsp;</font></p><p style="text-align: center;
+background-color: rgb(255, 255, 255);"><font face="Tahoma">Regularize agora, ligando no número&nbsp;<font size="5"><strong><a href="tel:+5508007715041" data-mce-href="tel:+5508007715041" data-mce-style="color: #ff9900; text-decoration: none;" style="color: rgb(255, 153, 0); text-decoration: none;">0800 774 1515</a>&nbsp;</strong></font></font></p><p style="text-align: center; background-color: rgb(255, 255, 255);"><font face="Tahoma">e continue usufruindo de nossos serviços.</font></p><p style="text-align: center; background-color: rgb(255, 255, 255);"><font face="Tahoma">Afinal, você é muito importante para nós!&nbsp;</font></p><p style="text-align: center; background-color: rgb(255, 255, 255);"><font size="2" face="Tahoma">Caso seu débito tenha sido quitado, desconsidere esse lembrete.</font></p><p style="font-family: arial, helvetica, sans-serif; text-align: center; background-color: rgb(255, 255, 255);"><img
+src="http://192.168.9.11/admin/clientes/files/11136/email/campanhas/imagens/capa1.jpg"></p></div><span style="display:none"><img src="http://www.ultracenter.com.br/Leitura_Email.php?id=77450636" style="width:1px;height:1px;"/></span>
+
+

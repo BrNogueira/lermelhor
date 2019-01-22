@@ -1,0 +1,1658 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201705 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/ssl/awstats.lermelhor.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2034                
+POS_TIME 2723                
+POS_VISITOR 25623               
+POS_DAY 57083               
+POS_DOMAIN 3684                
+POS_LOGIN 4190                
+POS_ROBOT 4345                
+POS_WORMS 5017                
+POS_EMAILSENDER 5148                
+POS_EMAILRECEIVER 5291                
+POS_SESSION 58027               
+POS_SIDER 58240               
+POS_FILETYPES 5426                
+POS_DOWNLOADS 5737                
+POS_OS 5881                
+POS_BROWSER 6227                
+POS_SCREENSIZE 8492                
+POS_UNKNOWNREFERER 8566                
+POS_UNKNOWNREFERERBROWSER 9151                
+POS_ORIGIN 9648                
+POS_SEREFERRALS 9795                
+POS_PAGEREFS 9972                
+POS_SEARCHWORDS 12005               
+POS_KEYWORDS 12157               
+POS_MISC 2384                
+POS_ERRORS 12216               
+POS_CLUSTER 4046                
+POS_SIDER_404 12398               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170601001005 2627 836741 12012606166842
+FirstTime 20170501010318
+LastTime 20170531224419
+LastUpdate 20170601065728 2627 0 2626 0 0
+TotalVisits 969                 
+TotalUnique 743                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 812                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 2000 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 175 549 18090636 81 134 2096971
+1 171 408 14281376 44 94 1580598
+2 66 373 12976567 22 72 1221658
+3 4 68 2445092 36 65 1612625
+4 14 34 931471 39 101 1873234
+5 21 84 4100119 49 96 1860354
+6 26 106 4251237 73 168 4706856
+7 22 101 3215154 49 115 4068138
+8 77 528 20008465 82 207 5463783
+9 490 1800 60475859 72 309 8295543
+10 335 1584 42101552 109 453 19957739
+11 375 1080 36416843 101 308 9943960
+12 155 440 15660360 62 195 5708596
+13 134 581 21897338 53 170 4238857
+14 233 1521 55766091 95 381 7710234
+15 240 742 26329745 109 263 7681775
+16 226 1225 44756997 108 304 4869600
+17 131 902 31954817 69 242 4406521
+18 171 703 32149026 108 340 12715697
+19 1358 3833 126986756 415 988 8213817
+20 1156 3046 106312115 339 787 8037526
+21 781 2751 88226716 294 618 6762164
+22 763 1905 73376738 233 558 8652066
+23 214 719 20230700 106 247 8654051
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 20
+br 7079 24499 843285508
+us 85 348 13683006
+de 57 57 160
+ua 57 57 356047
+it 13 13 903245
+ie 11 31 1267136
+ru 9 47 1681063
+th 5 5 289812
+nl 5 9 347566
+gb 4 4 250200
+ar 4 4 279111
+no 1 1 68145
+ca 1 1 68487
+ao 1 1 70208
+sk 1 1 70204
+jp 1 1 70208
+bo 1 1 46545
+za 1 1 68487
+pt 1 1 68487
+pl 1 1 68145
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+googlebot 860 12940328 20170531233601 53
+bot[\s_+:,\.\;\/\\-] 680 12938914 20170531211126 241
+php 474 49027864 20170531235129 0
+robot 116 4503154 20170531232308 20
+bingpreview 90 3002056 20170531211139 0
+no_user_agent 43 5919810 20170524081126 0
+slurp 37 368040 20170531221413 24
+crawl 26 1195046 20170515200337 1
+googlebot\-image 21 2209182 20170525081312 0
+netcraft 5 349661 20170527141812 0
+[\s_+:,\.\;\/\\-]bot 5 37264 20170510040637 0
+unknown 2 134 20170524080030 2
+msnbot\-media 1 68145 20170505205325 0
+checker 1 0 20170525121621 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+html 1650 101903678 0 0
+php 5638 169870405 0 0
+svg 20 18841 0 0
+js 4825 111359321 0 0
+jpeg 187 10680374 0 0
+png 736 20996823 0 0
+gif 752 527651 0 0
+eot 6 129817 0 0
+css 7141 57731188 0 0
+txt 4 3180 0 0
+Unknown 44 28292 0 0
+jpg 4080 389692200 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/wp-content/plugins/contact-form-7/license.txt 4 0 3180
+/documents/ProjetoLeitura.doc 1 0 45056
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+macosx4 14 14
+win2000 5 5
+win7 19217 6019
+winlong 4 4
+win2003 5 5
+win8 56 11
+macosx 24 24
+ios_ipad 120 4
+macosx5 1 1
+linux 223 21
+Unknown 112 112
+winxp 106 25
+macosx6 1 0
+java 7 7
+linuxubuntu 68 2
+winphone 20 1
+linuxandroid 2898 774
+winnt 1939 213
+win8.1 101 17
+ios_iphone 162 79
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 101
+chrome56.2.7822.2550 1 1
+chrome53.6.1410.6782 1 1
+chrome46.0.2490.76 2 2
+chrome41.0.2228.0 1 1
+firefox3.6.8 10 10
+chrome57.5.0245.5517 2 2
+Unknown 107 107
+chrome43.0.2357.93 68 5
+chrome54.0.2840.59 187 6
+chrome56.0.2924.87 28 28
+firefox17.0 1 1
+firefox45.61.14 1 1
+chrome49.0.2627.64 1 0
+chrome58.0.2988.0 582 98
+chrome10.0.649.0 1 0
+chrome40.0.2214.93 3 3
+chrome42.0.2311.138 2 2
+chrome57.5.0175.5447 1 1
+safari5.3.8 3 3
+chrome49.0.2623.112 22 1
+chrome28.0.1500.94 45 1
+opera44.5.0370.5642 2 2
+chrome56.2.6651.1389 1 1
+safari10.0.3 1 1
+chrome53.6.1414.6786 1 1
+msie11.0 708 142
+msie9.0 108 4
+chrome37.0.2062.120 4 4
+android 3 3
+chrome57.5.0185.5457 1 1
+chrome45.0.2454.95 2 1
+chrome58.0.3029.96 1034 118
+chrome53.0.2785.124 5 5
+chrome52.0.2766.5 1 1
+chrome54.0.2856.66 1 1
+opera42.0.5408.0136 2 2
+chrome50.0.2661.102 81 18
+chrome49.0.2623.105 3 3
+safari5.5.1 2 2
+chrome56.0.2924.78 1 1
+firefox19.0 6 6
+links 2 2
+firefox45.0 21 1
+firefox45.65.18 2 2
+chrome54.8.3223.9595 1 1
+chrome12.0.742.68 1 0
+chrome33.0.0.0 39 39
+chrome54.8.3847.8119 2 2
+chrome57.5.0318.4045 2 2
+chrome17.0.963.66 1 1
+opera44.4.0819.5181 1 1
+chrome58.0.3029.83 1011 436
+safari4.6.1 1 1
+chrome53.6.1513.6885 1 1
+safari 120 4
+chrome52.0.2743.116 214 15
+chrome53.8.3616.8989 1 1
+chrome52.0.2743.98 25 6
+chrome54.8.3616.9988 1 1
+firefox 2 2
+chrome51.0.2704.84 6262 2293
+firefox52.58.01 1 1
+firefox45.76.29 2 2
+chrome57.0.2987.132 1359 122
+firefox3.6.3 1 1
+safari4.6.2 1 1
+chrome58.0.3029.110 4293 1173
+firefox3.0.5 1 1
+chrome56.2.7815.2543 2 2
+opera41.9.4421.9159 1 1
+chrome57.0.2987.133 1252 332
+firefox51.0 1 0
+chrome57.5.0698.5960 1 1
+opera40.6.1118.6480 1 1
+iphone 120 77
+opera44.6.1375.6647 1 1
+firefox47.0 350 124
+chrome54.0.2840.85 5 5
+chrome50.0.2661.86 4 4
+chrome53.7.3142.8414 2 2
+opera41.9.3128.8856 4 4
+chrome55.0.2883.95 1 1
+safari10.0 42 2
+firefox44.0 2 2
+firefox52.0 1 1
+chrome49.0.2623.75 8 8
+opera40.6.1265.7537 2 2
+chrome57.5.0115.5487 4 4
+chrome57.5.0290.5928 1 1
+chrome58.0.3029.81 204 25
+chrome30.0.0.0 60 60
+mozilla 10 10
+firefox53.0 6314 1905
+chrome55.0.2883.91 172 47
+chrome43.0.2357.121 4 4
+firefox11.0 1 0
+chrome57.5.0557.6829 1 1
+chrome56.3.7574.2202 2 2
+chrome53.7.3254.8526 2 2
+chrome38.0.2125.102 60 1
+msie8.0 44 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+WhatsApp/2.17.196_A 20170521202023
+facebookexternalhit/1.1 20170512130126
+WordPress/4.7.4;_https://lermelhor.com.br 20170515151443
+Mozilla/5.0_(compatible;_ips-agent) 20170524080051
+WhatsApp/2.17.195_A 20170519185636
+WhatsApp/2.17.190_A 20170529123015
+WhatsApp/2.17.146_A 20170522161402
+Mozilla/5.0_(compatible;_Google-Youtube-Links) 20170517090252
+WordPress/4.7.5;_https://lermelhor.com.br/neurociencias 20170529145237
+WordPress/4.7.5;_https://lermelhor.com.br 20170531224419
+Ruby 20170503092631
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+Java/1.8.0_121 20170531103711
+WhatsApp/2.17.196_A 20170521202023
+facebookexternalhit/1.1 20170512130126
+WordPress/4.7.4;_https://lermelhor.com.br 20170515151443
+WordPress/4.7.5;_https://lermelhor.com.br/neurociencias 20170529145237
+WordPress/4.7.5;_https://lermelhor.com.br 20170531224419
+Ruby 20170503092631
+WhatsApp/2.17.146_A 20170522161402
+WhatsApp/2.17.190_A 20170529123015
+WhatsApp/2.17.195_A 20170519185636
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 702 709
+From1 9 9
+From2 41 47
+From3 775 794
+From4 5811 23524
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+live 1 1
+yandex 3 3
+google 37 43
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 28
+http://m.facebook.com 684 684
+https://www.facebook.com 27 27
+https://hserv9.homehost.com.br:2083/cpsess9868073602/3rdparty/rvsitebuilder/index.php 10 10
+http://m.facebook.com 9 9
+https://l.facebook.com/l.php 6 6
+https://hserv9.homehost.com.br:2083/cpsess9870079558/3rdparty/rvsitebuilder/index.php 5 5
+https://hserv9.homehost.com.br:2083/cpsess4019725894/3rdparty/rvsitebuilder/index.php 4 4
+https://hserv9.homehost.com.br:2083/cpsess5247106843/3rdparty/rvsitebuilder/index.php 4 4
+https://hserv9.homehost.com.br:2083/cpsess8045689535/3rdparty/rvsitebuilder/index.php 2 2
+https://l.facebook.com 2 2
+https://hserv9.homehost.com.br:2083/cpsess4951992271/3rdparty/rvsitebuilder/index.php 2 2
+https://hserv9.homehost.com.br:2083/cpsess3633932514/frontend/paper_lantern/softaculous/index.live.php 2 2
+https://hserv9.homehost.com.br:2083/cpsess8410282486/3rdparty/rvsitebuilder/index.php 2 2
+https://m.facebook.com 2 21
+http://pizza-imperia.com 1 1
+https://hserv9.homehost.com.br:2083/cpsess9801620497/frontend/paper_lantern/softaculous/index.live.php 1 1
+https://hserv9.homehost.com.br:2083/cpsess0975712165/frontend/paper_lantern/softaculous/index.live.php 1 1
+http://hvd-store.com 1 1
+https://hserv9.homehost.com.br:2083/cpsess3226296320/3rdparty/rvsitebuilder/index.php 1 1
+https://hserv9.homehost.com.br:2083/cpsess7884686328/frontend/paper_lantern/softaculous/index.live.php 1 1
+http://burger-imperia.com 1 1
+http://www.facebook.com/l.php 1 1
+https://hserv9.homehost.com.br:2083/cpsess3633932514/3rdparty/rvsitebuilder/index.php 1 1
+http://hundejo.com 1 1
+https://hserv9.homehost.com.br:2083/cpsess1403169953/frontend/paper_lantern/softaculous/index.live.php 1 1
+https://hserv9.homehost.com.br:2083/cpsess8283539792/3rdparty/rvsitebuilder/index.php 1 1
+https://mg.mail.yahoo.com/neo/launch 1 1
+https://hserv9.homehost.com.br:2083/cpsess6439828996/3rdparty/rvsitebuilder/index.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+508 44 320628
+302 1064 1265042
+301 715 42240
+403 1 3608
+404 810 49262331
+500 7 0
+400 21 0
+206 192 6878916
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 238
+/web/wp-admin/setup-config.php 2 -
+/M%C3%B3dulo%20-1 1 -
+/segunda_fase/images/headerbanner/1%C2%BAvideo.jpg 3 https://lermelhor.com.br/segunda_fase/M%C3%B3dulo---4.php
+/terceira_fase/images/headerbanner/header_banner.jpg 1 -
+/MKT/images/6.jpg 3 -
+/wp-content/plugins/mobile-app-builder-by-wappress/readme.txt 1 -
+/m%C3%B3dulo-3 2 -
+/en/wp-admin/setup-config.php 2 -
+/M%C3%B3dulo-3/js/jquery-ui/external/responsivecarousel/autoinit.js 8 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/modulo-1/images/2.jpg 10 -
+/wp-content/plugins/front-end-upload/destination.php 4 -
+/Modulo0-3 1 -
+/MonteiroLobato/compras 1 -
+/Modulo-3/testesuporte 1 -
+/logo_img.php 1 http://lermelhor.com.br/logo_img.php
+/M%C3%B3dulo-3/images/headerbanner/Rodadeaprendizagem2.jpg 16 http://lermelhor.com.br/M%C3%B3dulo-3/
+/M%C3%B3dulo-3/customcss/cssProjectefd5c7b6a0a61a174df37cdfd2c3037e.css 4 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/segmod/images/2/Rodadeaprendizagem.jpg 1 http://lermelhor.com.br/segmod/Copied-In%C3%ADcio.php
+/M%C3%B3dulo-3/customcss/cssProjectPage8456e88a19aadc17610b509d0b80265e.css 4 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/copia/images/2/2.jpg 5 http://lermelhor.com.br/copia/In%C3%ADcio.php
+/M%C3%B3dulo-3/images/headerbanner/FrenteCat%C3%A3oSite.jpg 21 http://lermelhor.com.br/M%C3%B3dulo-3/
+/copia/images/curso2016.jpg 5 http://lermelhor.com.br/copia/In%C3%ADcio.php
+/segunda_fase/images/headerbanner/Valores2.jpg 3 https://lermelhor.com.br/segunda_fase/M%C3%B3dulo---4.php
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 1 -
+/MonteiroLobato/images/2/Rodadeaprendizagem.jpg 2 http://lermelhor.com.br/MonteiroLobato/In%C3%ADcio.php
+/m%C3%83%C2%B3dulo-2/themes/default/css/installer.php 2 https://lermelhor.com.br/m%C3%B3dulo-2/rvssetup.php
+/index.php_bak 1 -
+/wp-content/plugins/wp2android-turn-wp-site-into-android-app/readme.txt 1 -
+/MKT/images/2a.jpg 1 -
+/wp-content/uploads/2017/04/M%C3%B3dulo-3-Empoderamento--1024x447.jpg 1 https://lermelhor.com.br/comprar/
+/M%C3%B3dulo-3/js/jquery-ui/jquery.min.js 4 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 1 -
+/wp-admin/ms-head.php 1 http://lermelhor.com.br/wp-admin/ms-head.php
+/wp-content/uploads/2017/03/M%C3%B3dulo-1-livro.jpg 2 -
+/copia/images/2/jejacomoadquirir.jpg 6 http://lermelhor.com.br/copia/In%C3%ADcio.php
+/copia/images/%C3%81readoalunook.jpg 5 http://lermelhor.com.br/copia/In%C3%ADcio.php
+/wp-content/uploads/2017/04/cropped-Logo-2.jpg 77 -
+/copia/images/2/DEMONSTRA%C3%87%C3%83O.jpg 5 http://lermelhor.com.br/copia/In%C3%ADcio.php
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 1 -
+/wp-content/uploads/2017/03/M%C3%B3dulo-3-Empoderamento-.jpg 7 -
+/Modelo-3 4 -
+/M\xf3dulo-3 1 -
+/M%C3%B3dulo-3/rvsincludefile/rvsheadpage.js 8 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/modulo-1/images/curso2016.jpg 10 -
+/Modolo-3 2 -
+/segmod/images/depoimento2016jpg.jpg 1 http://lermelhor.com.br/segmod/Depoimentos.php
+/author/LerMelhor/ 1 http://lermelhor.com.br/
+/Compra/images/Comprar2.jpg 1 -
+/wp/wp-admin/setup-config.php 2 -
+/copia/images/MetodoCoaching.jpg 6 http://lermelhor.com.br/copia/In%C3%ADcio.php
+/Modulo-1 1 -
+/promocional/Para%20come%C3%A7ar%20%22click%20aqui%22%20para%20fazer%20a%20sess%C3%A3o%20do%20modelo%20de%20coaching. 8 -
+/M%C3%83%C2%B3dulo-3/rvsindex.php 9 -
+/modulo 1 -
+/Modulo3 15 -
+/wp-content/themes/gray-whale/db.php 1 http://lermelhor.com.br/wp-content/themes/gray-whale/db.php
+/promoc 2 -
+/m%C3%B3dulo2 1 -
+/wp-content/plugins/nextgen-gallery/changelog.txt 2 -
+/wp-content/plugins/wp-db-ajax-made/wp-ajax.php 1 http://lermelhor.com.br/wp-content/plugins/wp-db-ajax-made/wp-ajax.php
+/Modulo-1/ 5 -
+/modulo-3 35 -
+/M%C3%B3dulo1 1 -
+/modulo-1/images/2/M%C3%B3dulo-1.jpg 10 -
+/Modulo-3-testesuporte/images/headerbanner/Rodadeaprendizagem2.jpg 1 https://lermelhor.com.br/Modulo-3-testesuporte/
+/wp-content/plugins/webapp-builder/readme.txt 1 -
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 1 -
+/M%C3%B3dulo-3/css/rvwysiwyg-ui.css 8 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/promocio 2 -
+/test/wp-admin/setup-config.php 2 -
+/M%C3%B3dulo-3/images/headerbanner/header_d829cbc671005eee68985cfd68ed8918.jpg 2 https://lermelhor.com.br/M%C3%B3dulo-3/M%C3%B3dulo---3.php
+/segunda_fase/images/headerbanner/azulok.jpg 3 https://lermelhor.com.br/segunda_fase/M%C3%B3dulo---4.php
+/copia/images/livro800x800.jpg 6 http://lermelhor.com.br/copia/In%C3%ADcio.php
+/images/06793a7843e2ff15dfd6817f495c91c9.jpg 2 https://lermelhor.com.br/rvsindex.php
+/M%C3%B3dulo-3/js/jquery-ui/ui/minified/jquery-ui.min.js 4 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/depoimentos-20132014/RK=1/RS=vrWpyoysmA0cmVWTUYXVxM26uo8- 1 -
+/images/Tempestadedeideias.jpg 1 -
+/copia/images/tooltip_arrow.gif 1 http://lermelhor.com.br/copia/contato.php
+/M%25C3%25B3dulo-1/ 1 -
+/segunda_fase/images/headerbanner/Lilas.jpg 3 https://lermelhor.com.br/segunda_fase/M%C3%B3dulo---4.php
+/mModulo-3 1 -
+/%20Modulo-3 1 -
+/cms/wp-admin/setup-config.php 2 -
+/wp-content/plugins/wysija-newsletters/readme.txt 1 http://lermelhor.com.br/
+/M%C3%B3dulo-3/js/jquery-ui/themes/base/ui.all.css 4 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/mdulo-1 3 -
+/wp-content/plugins/auto-attachments/a-a.css 2 -
+/copia/images/2/3.jpg 5 http://lermelhor.com.br/copia/In%C3%ADcio.php
+/segmod/images/depoimento2013-20104.jpg 1 http://lermelhor.com.br/segmod/Depoimentos.php
+/M%C3%B3dulo-2 3 -
+/wp-content/uploads/2017/03/M%C3%B3dulo.1.-livros.jpg 3 -
+/wp-includes/Text/Temp.php 1 http://lermelhor.com.br/wp-includes/Text/Temp.php
+/author/Ler%20Melhor/ 5 https://lermelhor.com.br/2017/03/31/hello-world/
+/promo 2 -
+/modulo-1/images/2/Fun%C3%A7%C3%A3odosolhos.jpg 10 -
+/Mdulo-3 3 -
+/modulo3/register 1 -
+/M%C3%B3dulo-3/images/headerbanner/header_1d2e70f0c9d1a632ac53033c2bbb5636.jpg 2 https://lermelhor.com.br/M%C3%B3dulo-3/M%C3%B3dulo---3.php
+/m%C3%B3dulo-1/ 2 -
+/blog/wp-admin/setup-config.php 2 -
+/wp-content/plugins/zen-mobile-app-native/readme.txt 1 -
+/wp-content/themes/sketch/system_ml.php 1 http://lermelhor.com.br/wp-content/themes/sketch/system_ml.php
+/modulo%20-3 1 -
+/ 2 https://lermelhor.com.br
+/modulo-1/images/2/Quersabermais.jpg 10 -
+/Modulo-3-testesuporte/images/headerbanner/FrenteCat%C3%A3oSite.jpg 1 https://lermelhor.com.br/Modulo-3-testesuporte/
+/modulo1/ 1 -
+/M%C3%B3dulo-3/rvsincludefile/rvscustomopenwindow.js 8 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 1 -
+/.well-known/apple-app-site-association 9 -
+/modulo%201 2 -
+/modulo-3/rvsindex.php 1 -
+/wp-content/plugins/wpstorecart/lgpl.txt 1 -
+/modulo3 17 -
+/compras/images/Comprar2.jpg 1 http://lermelhor.com.br/compras/
+/wp-content/plugins/user-avatar/readme.txt 1 -
+/modulo4 1 -
+/m%C3%B3dulo-1 1 -
+/m%C3%B3dulo-3/ 1 -
+/M%C3%B3dulo-1/Para%20come%C3%A7ar%20&quot 1 https://lermelhor.com.br/M%C3%B3dulo-1/
+/wp-content/plugins/user-photo/admin.css 2 -
+/neurociencias/iwsgstkchyustuw3xtvjfp02w347yase.php 1 -
+/rvsindex.phpdWxvLnBocA%3D%3D/ 1 -
+/face 1 -
+/blogs/wp-admin/setup-config.php 2 -
+/wp-content/themes/sketch/404.php 1 http://lermelhor.com.br/wp-content/themes/sketch/404.php
+/wp-content/plugins/nmedia-user-file-uploader/readme.txt 1 -
+/wp-content/plugins/wp-image-news-slider/functions.php 2 -
+/M%C3%B3dulo-1/para 1 -
+/main/wp-admin/setup-config.php 2 -
+/copia/images/pag1teste.jpg 6 http://lermelhor.com.br/copia/In%C3%ADcio.php
+/m%C3%B3dulo4 1 -
+/m%C3%B3dulo-4 1 -
+/m%C3%83%C2%B3dulo-2/themes/default/images/progress_bar.gif 2 https://lermelhor.com.br/m%C3%B3dulo-2/rvssetup.php
+/Compra/images/5/16.jpg 1 -
+/wp-includes/cache-template.php 1 http://lermelhor.com.br/wp-includes/cache-template.php
+/neurociencias/ansnazrenkmt7kl6xwsmjlgwriyqoewn.php 3 -
+/copia/images/2.jpg 5 http://lermelhor.com.br/copia/In%C3%ADcio.php
+/M%C3%B3dulo-3/js/jquery-ui/external/responsivecarousel/responsiveslides.min.js 8 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/prom 2 -
+/modulo-1/images/MetodoCoaching.jpg 10 -
+/EMAIL 1 -
+/wp-content/themes/theme/info.php 1 http://lermelhor.com.br/wp-content/themes/theme/info.php
+/m%C3%83%C2%B3dulo-2/rvsindex.php 9 -
+/segunda_fase/images/headerbanner/Laranja.jpg 3 https://lermelhor.com.br/segunda_fase/M%C3%B3dulo---4.php
+/modulo%201/ 1 -
+/M%C3%B3dulo-2/ 2 -
+/M%C3%B3dulo2 1 -
+/images/BOTONINICIO.png 1 -
+/Curso 2 -
+/neurociencias/promocional/ 11 -
+/copia/images/06793a7843e2ff15dfd6817f495c91c9.jpg 9 https://lermelhor.com.br/copia/
+/wp-content/plugins/fcchat/default.png 2 -
+/M%C3%B3dulo-3/js/jquery-ui/external/responsivecarousel/responsiveslides.css 8 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/M\xf3dulo-1 1 -
+/molulo-3 1 -
+/segunda_fase/images/headerbanner/BOTONINICIO.png 3 https://lermelhor.com.br/segunda_fase/M%C3%B3dulo---4.php
+/m%C3%B3dulo-3/rvsindex.php 1 -
+/wp/pt6wbqlyukpokqj8zgplriqlaukn4hyy.php 1 -
+/wp-content/plugins/custom-content-type-manager/index.html 1 -
+/wp-admin/logo_img.php 1 http://lermelhor.com.br/wp-admin/logo_img.php
+/Copia 1 -
+/modulo-1/images/depoimentos.jpg 10 -
+/images/2/M%C3%B3dulo1a.jpg 1 -
+/modulo%203 1 -
+/M\xf3dulo-1/ 6 -
+/wp-content/plugins/zingiri-web-shop/admin.css 2 -
+/M%C3%B3dulo-3/js/jquery-ui/external/responsivecarousel/themes/themes.css 8 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/wp-content/plugins/wp-filemanager/fm.php 2 -
+/pnl 1 -
+/promocion 2 -
+/mudulo-3 1 -
+/m%C3%B3dulo%201/ 1 -
+/Mudulo-3 1 -
+/wp-content/uploads/2017/03/pensamento-elevado-1024x530.jpg 1 -
+/wp-content/plugins/simple-dropbox-upload-form/ 2 -
+/m%C3%B3dulo1 1 -
+/wp-content/plugins/user-meta/readme.txt 2 -
+/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js 1 -
+/optimizer.php 2 http://lermelhor.com.br/rvsindex.php
+/news/wp-admin/setup-config.php 2 -
+/M%C3%B3dulo-4 1 -
+/Modulo-3/optimizer.php 2 https://lermelhor.com.br/Modulo-3/rvsindex.php
+/segunda_fase/images/headerbanner/Sinapse.jpg 3 https://lermelhor.com.br/segunda_fase/M%C3%B3dulo---4.php
+/modulo-4 1 -
+/M%C3%B3dulo-3/m%C3%B3dulo---3.php 1 -
+/segunda_fase/images/headerbanner/Vermelho.jpg 3 https://lermelhor.com.br/segunda_fase/M%C3%B3dulo---4.php
+/segunda_fase/images/headerbanner/Verde.jpg 3 https://lermelhor.com.br/segunda_fase/M%C3%B3dulo---4.php
+/M%C3%B3dulo-3/js/publishNavigator/ddsmoothmenu.css 8 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/modulo-1/images/%C3%81readoalunook.jpg 10 -
+/modulo-1/images/livro800x800.jpg 10 -
+/segunda_fase/images/headerbanner/Amarelo.jpg 3 https://lermelhor.com.br/segunda_fase/M%C3%B3dulo---4.php
+/mODULO-3 1 -
+/promoci 2 -
+/segmod/images/BOTONINICIOcopy.jpg 2 http://lermelhor.com.br/segmod/Depoimentos.php
+/segunda_fase/images/headerbanner/matriz-swotcopy.jpg 3 https://lermelhor.com.br/segunda_fase/M%C3%B3dulo---4.php
+/wp-content/plugins/wpmarketplace/readme.txt 1 -
+/segmod/images/depoimento2015.jpg 1 http://lermelhor.com.br/segmod/Depoimentos.php
+/mudulo%20-%203 1 -
+/m%C3%B3dulo%201 1 -
+/neurociencias/1zejp3kejuunjqiqzrinwleugv0gawky.php 1 -
+/copia/images/2/Fun%C3%A7%C3%A3odosolhos.jpg 6 http://lermelhor.com.br/copia/In%C3%ADcio.php
+/wp-content/uploads/2017/04/cropped-Logo-Ler-Melhor-6.jpg 13 -
+/M%C3%B3dulo-1/images/headerbanner/Rodadeaprendizagem2.jpg 2 -
+/images/GabineteVer.Ari_copy_1.jpg 1 -
+/wp-content/plugins/magic-fields/MF_Constant.php 1 -
+/modulo-2 1 -
+/promocional/Para%20come%C3%A7ar%20&quot 3 -
+/Modulo-4 1 -
+/site/wp-admin/setup-config.php 2 -
+/wp-content/plugins/wp-property/action_hooks.php 2 -
+/wp-content/plugins/ninja-forms/ninja_forms.php 1 -
+/neurociencias/zfq2vdytucoseikducgzk0bloqmadp1e.php 2 -
+/wp-content/plugins/wp-symposium/readme.txt 2 http://lermelhor.com.br/
+/wp-content/plugins/wp-homepage-slideshow/functions.php 1 -
+/segunda_fase/images/headerbanner/header_banner.jpg 6 https://lermelhor.com.br/segunda_fase/M%C3%B3dulo---4.php
+/new/wp-admin/setup-config.php 2 -
+/wp-content/uploads/2017/03/M%C3%B3dulo-2-Brandstory-copy-1024x447.jpg 2 -
+/wp-content/uploads/2017/03/M%C3%B3dulo-2-Brandstory-1024x447.jpg 1 https://lermelhor.com.br/comprar/
+/Medulo-3 1 -
+/modolu3 1 -
+/wp-content/uploads/2017/03/M%C3%B3dulo-2-Brandstory.jpg 3 -
+/wordpress/wp-admin/setup-config.php 2 -
+/M%25C3%25B3dulo-1/Teste.php 2 -
+/Molulo-3 3 -
+/m%C3%B3dulo-2/optimizer.php 1 https://lermelhor.com.br/m%C3%B3dulo-2/rvsindex.php
+/copia/images/2/Comproveoteste.jpg 6 http://lermelhor.com.br/copia/In%C3%ADcio.php
+/M%C3%B3dulo-2/rvsindex.php 1 -
+/home/wp-admin/setup-config.php 2 -
+/promociona 2 -
+/Modulo 1 -
+/wp-content/plugins/wp-e-commerce/license.txt 1 -
+/wp-content/uploads/2017/03/M%C3%B3dulo-3-Empoderamento-1-1024x447.jpg 2 -
+/modulo-3register/ 1 -
+/wp-content/plugins/font-uploader/font-uploader-free.php 1 -
+/wp-includes/Text/Diff/class.php 1 http://lermelhor.com.br/wp-includes/Text/Diff/class.php
+/M%C3%B3dulo-3/js/publishNavigator/ddsmoothmenu-v.css 8 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/videos/2%C3%82%C2%BA---Modelo-coaching-Perdas-e-Ganhos.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 812
+201.55.31.212 3219 8550 290692426 20170531214154
+201.6.228.84 2138 8053 254261505 20170530014540
+201.6.230.118 414 1334 37415913 20170504134700
+201.55.31.210 157 964 34280602 20170531185928
+93.104.215.69 57 57 160 20170531224419
+91.200.12.91 56 56 285839 20170531204743
+201.6.230.133 56 505 17388065 20170531180433
+189.47.223.101 44 152 5660798 20170529224727
+189.63.230.103 33 159 6805873 20170508172834
+186.239.235.53 25 164 6734327 20170530134723
+187.57.246.182 24 137 5741382 20170530144738
+191.165.225.172 21 85 3519304 20170527155723
+189.18.224.23 20 68 2598662 20170522153036
+179.99.174.170 20 126 5139427 20170520194824
+189.18.111.23 19 282 10673588 20170531141138
+201.42.30.57 18 93 3069766 20170502165423
+177.188.137.192 17 125 5387279 20170506183253
+189.110.152.156 16 118 5137486 20170515140944
+213.183.146.74 13 13 903245 20170514051714
+201.6.142.229 13 59 2291521 20170527170109
+54.193.31.64 11 11 315164 20170503092639
+54.153.126.7 11 11 315164 20170503092526
+54.193.112.124 11 11 315164 20170503092556
+69.58.178.58 10 10 666723 20170524080051
+191.165.237.41 10 75 2477514 20170509101250
+177.207.204.67 3 89 2717767 20170531092742
+189.54.145.227 5 65 1884689 20170523204357
+152.250.236.219 1 1 71647 20170531141056
+152.252.95.41 1 20 631364 20170516163137
+179.208.69.214 1 18 204499 20170501111553
+187.74.185.241 1 1 70379 20170526000636
+188.255.16.216 0 1 135 
+189.69.143.219 1 1 71647 20170531084423
+191.8.30.174 1 1 70208 20170524041015
+177.189.61.9 1 1 70208 20170520234711
+177.9.148.235 1 1 70379 20170527190701
+37.147.236.161 0 1 1398 
+177.68.161.11 1 1 70208 20170517193200
+191.193.0.82 1 1 70208 20170522080930
+177.81.135.91 1 1 68487 20170512185903
+177.68.14.171 1 1 68487 20170511185411
+170.231.234.255 1 1 39599 20170524194504
+177.25.90.220 1 1 70208 20170514154808
+189.54.145.47 1 1 49190 20170502191130
+201.95.68.196 1 1 71634 20170529115311
+178.140.118.30 0 1 97184 
+177.137.42.41 1 1 39573 20170521015932
+186.210.188.72 1 1 39576 20170525191026
+201.13.204.138 1 1 49170 20170501190402
+177.68.120.6 1 1 68487 20170511191224
+173.252.88.217 0 1 1398 
+173.252.84.58 0 4 141758 
+201.75.171.253 1 1 70208 20170520142624
+177.80.136.127 1 1 70208 20170524080307
+191.36.174.138 1 1 68487 20170509201656
+177.83.254.181 1 1 68487 20170511181809
+200.153.152.21 1 1 68487 20170511201748
+179.241.201.90 3 23 1599618 20170519185636
+187.34.214.168 1 1 46564 20170508145659
+186.207.33.29 1 1 46521 20170508225739
+179.247.152.51 1 1 70208 20170523200855
+201.43.10.251 1 1 68487 20170510231012
+179.55.227.141 1 1 69795 20170513090924
+190.226.197.6 1 1 70208 20170513225459
+179.211.99.109 1 1 70208 20170523182107
+189.126.182.140 1 1 70208 20170518133605
+201.55.31.139 2 2 138695 20170523164301
+187.33.201.10 1 1 68487 20170511184721
+179.234.181.66 1 17 380942 20170501171508
+189.63.200.77 1 20 751391 20170511225011
+177.159.141.30 1 1 70208 20170523164225
+177.139.9.202 1 1 68487 20170511215104
+189.33.222.59 1 1 70379 20170525233508
+179.209.194.233 1 1 39589 20170511210403
+191.37.42.6 1 1 70208 20170518220639
+201.52.219.95 1 1 70208 20170514124035
+177.81.177.188 1 1 69795 20170513075142
+31.13.113.198 0 2 55185 
+191.193.3.106 1 1 69431 20170512200635
+177.129.214.106 1 1 70379 20170527191312
+138.99.68.11 1 1 70208 20170523213254
+177.9.167.88 1 1 70208 20170523163954
+46.242.30.55 1 1 65517 20170529222626
+152.249.40.169 1 1 70379 20170526131310
+189.18.189.189 1 1 46554 20170509152622
+186.204.201.158 2 2 109797 20170514001555
+179.153.106.35 1 1 70379 20170526213106
+189.59.198.110 1 1 68487 20170511203929
+201.43.184.104 5 77 3086512 20170502111425
+152.249.46.58 1 1 70208 20170523181032
+189.79.23.71 1 1 70208 20170522053102
+177.193.115.148 3 3 210624 20170523175406
+179.213.146.238 1 1 68487 20170511214944
+177.45.225.233 1 1 68487 20170511190649
+189.63.123.137 1 1 70208 20170524081734
+173.252.91.104 0 2 22930 
+177.188.101.45 2 2 136974 20170511201145
+191.165.234.26 1 1 46546 20170505161902
+187.95.31.24 1 1 70208 20170515035543
+179.212.140.194 2 2 79209 20170516222253
+201.0.23.6 1 1 39609 20170513064126
+177.148.207.94 1 1 70208 20170523195113
+85.30.248.113 1 20 827366 20170511065233
+177.131.23.154 3 23 884013 20170523165059
+179.111.53.178 5 70 2429878 20170519173257
+177.75.112.38 1 1 39611 20170519203505
+177.68.177.83 1 1 68487 20170511195330
+191.178.194.58 1 1 49182 20170501231558
+201.92.216.56 3 3 205461 20170511191112
+201.76.27.40 1 1 42257 20170519100230
+179.211.97.9 1 1 70208 20170523170337
+179.113.98.158 1 1 70208 20170522003133
+186.207.34.175 1 1 46541 20170504192850
+179.99.183.106 2 2 109817 20170514160946
+201.6.142.192 2 2 115079 20170511205012
+66.249.83.129 1 1 70379 20170527210008
+187.23.10.188 2 2 93070 20170510131401
+152.249.136.239 1 1 70208 20170517222805
+187.34.204.112 1 1 39585 20170520205344
+179.93.36.156 1 1 42233 20170519101247
+179.111.24.89 1 1 69431 20170512201249
+187.86.117.159 2 2 109807 20170518231741
+193.90.12.87 1 1 68145 20170505134017
+179.110.209.119 1 1 70208 20170523231342
+201.6.229.35 1 1 70206 20170513161812
+189.63.198.2 1 1 68487 20170511205352
+201.1.209.150 2 2 136974 20170511200709
+138.255.10.241 1 1 70208 20170514110142
+177.131.28.87 1 1 70208 20170523225333
+177.45.116.152 1 1 68487 20170512112742
+187.85.218.199 1 21 562689 20170518174534
+187.56.215.251 1 1 70208 20170516230735
+187.37.48.172 1 1 69795 20170513063021
+187.10.45.172 1 1 68487 20170512000706
+189.110.168.179 1 1 70208 20170523163400
+189.120.37.244 1 1 70194 20170512215705
+179.228.116.157 1 1 70208 20170519203553
+187.101.195.103 1 1 70379 20170528153620
+173.252.88.218 1 3 74822 20170511224037
+189.46.11.8 1 1 70206 20170513152940
+177.102.70.184 1 1 70208 20170521124416
+187.101.17.213 1 1 68487 20170510161448
+179.110.40.202 1 1 49167 20170502173451
+179.99.197.247 1 21 613705 20170522133236
+179.198.90.94 1 1 42263 20170522145820
+5.62.152.161 1 1 70379 20170525112639
+163.172.4.153 2 2 140416 20170524181320
+189.100.240.9 1 1 70208 20170523183842
+179.247.247.242 2 2 109806 20170523194649
+173.252.84.55 0 6 404963 
+189.51.153.97 1 1 70208 20170516113538
+200.141.235.167 1 17 503759 20170505175401
+201.13.57.1 1 1 70208 20170519201819
+66.249.89.203 1 1 70208 20170517090248
+191.178.66.201 1 1 39613 20170517112821
+138.59.242.244 1 1 70208 20170523115532
+173.252.102.112 1 8 238695 20170501171554
+189.120.152.43 2 2 109381 20170513085358
+177.65.230.113 1 1 70379 20170527000027
+201.33.193.139 1 1 70208 20170524203606
+177.16.224.122 1 1 68145 20170503214027
+179.111.76.170 1 1 70194 20170512204902
+189.0.37.94 1 1 70208 20170523174110
+200.101.227.219 1 1 68487 20170510222211
+191.54.150.64 1 1 68487 20170511181907
+186.216.75.214 3 66 2383654 20170505145629
+201.13.205.60 1 1 46560 20170510183626
+201.95.45.223 1 1 69431 20170512200217
+177.45.100.119 1 1 70208 20170523221034
+177.102.125.251 1 1 68487 20170511182502
+189.33.202.21 1 1 70208 20170515084907
+179.157.77.43 1 1 68487 20170509130549
+31.13.113.193 0 5 73286 
+66.249.83.7 2 2 140587 20170525135314
+187.33.56.189 1 1 70208 20170522210107
+200.53.209.181 2 2 115007 20170510225221
+179.99.100.52 1 1 70208 20170517132201
+201.75.141.126 1 1 46567 20170507165818
+191.6.127.139 1 1 70208 20170523223125
+191.254.74.247 1 1 68487 20170512102155
+200.148.97.111 1 1 68487 20170512164222
+177.80.242.90 4 4 259510 20170530203204
+177.148.235.212 1 1 39629 20170522202341
+66.249.88.21 0 1 130987 
+54.67.106.65 1 1 67686 20170503092612
+187.11.99.55 1 1 42223 20170519100342
+179.110.52.242 1 1 68487 20170512135931
+191.8.78.98 1 1 46575 20170507115032
+177.130.85.188 1 1 49183 20170502212003
+66.102.8.11 2 15 60014 20170525200645
+177.79.59.71 1 1 70208 20170523180958
+189.78.61.105 1 17 503759 20170502062825
+109.63.172.211 0 1 3646 
+201.95.106.190 1 1 70208 20170516091016
+37.147.116.71 0 1 10330 
+177.33.179.182 1 1 70208 20170523234646
+173.252.124.119 1 1 42253 20170511174649
+189.68.193.135 1 21 1497065 20170517094519
+186.214.82.108 1 1 70208 20170523165631
+177.6.182.99 1 1 68487 20170511181455
+177.138.42.128 1 1 70208 20170523170104
+46.242.71.26 0 1 1606 
+189.33.247.244 1 1 70208 20170523202125
+179.228.82.231 4 55 2294395 20170520231521
+187.96.191.137 2 4 54357 20170529154935
+79.164.122.96 0 1 81817 
+200.100.21.8 1 1 70208 20170521234239
+201.55.31.82 1 1 46565 20170508123620
+200.100.184.182 1 1 68487 20170511212955
+189.90.41.212 1 1 70208 20170524000918
+186.239.235.55 3 67 2463969 20170518164649
+189.69.176.123 1 1 49158 20170501220150
+201.1.38.205 1 1 68487 20170509194738
+189.40.89.189 2 21 745088 20170526134820
+201.6.130.207 1 1 70208 20170523185152
+131.108.230.192 1 1 70208 20170523194204
+138.94.112.5 1 1 68487 20170510125920
+177.33.26.40 1 1 70208 20170516191136
+189.5.245.2 1 1 68487 20170511235519
+201.7.143.99 1 1 70208 20170523170818
+46.188.32.103 0 1 683 
+179.111.110.224 2 2 108096 20170512140431
+187.105.148.74 1 1 68487 20170510121804
+189.111.95.188 1 1 68487 20170511180239
+173.252.102.114 0 6 456223 
+189.5.226.240 1 1 68487 20170511180710
+179.179.195.112 1 1 70208 20170523190609
+177.102.59.254 3 76 4338943 20170506140917
+187.56.246.44 1 1 70208 20170515174501
+187.11.4.143 9 12 504278 20170521180300
+186.251.3.233 1 1 68487 20170512080404
+177.81.89.137 1 1 70208 20170517004057
+190.1.44.112 1 1 70208 20170515141141
+201.6.142.10 1 1 70208 20170522082452
+179.34.206.120 1 1 47780 20170531203843
+143.137.45.139 1 1 70208 20170521221237
+191.188.131.218 1 1 49192 20170501123301
+201.83.97.104 1 1 70208 20170522131033
+191.205.10.145 1 1 70208 20170524084313
+189.15.205.0 1 1 39597 20170519124624
+179.211.103.201 1 1 70208 20170523163127
+128.72.13.125 0 1 13676 
+187.35.15.121 1 1 70208 20170516102128
+173.252.84.57 0 4 158348 
+187.37.12.103 1 1 39605 20170520001743
+200.232.172.196 1 1 70208 20170515172415
+187.4.87.2 1 17 503759 20170504182227
+189.120.153.42 1 1 70379 20170529063003
+177.31.60.244 1 32 539634 20170519202337
+179.209.99.76 1 1 39622 20170511150728
+179.189.29.196 1 44 1692693 20170503213434
+213.125.9.242 2 4 137880 20170504061227
+201.93.124.21 1 1 49132 20170501230025
+201.69.222.98 1 1 39615 20170519170917
+177.140.145.244 1 1 70379 20170528200107
+177.125.200.95 2 2 140587 20170528150605
+187.56.220.183 1 1 70379 20170525142144
+179.235.236.53 1 1 70208 20170523164355
+201.67.105.154 1 1 70208 20170523162638
+189.40.75.139 0 13 1173434 
+177.102.92.88 2 2 109795 20170516201802
+177.189.28.87 1 1 70379 20170529074329
+189.105.108.18 1 1 68487 20170512111510
+189.107.51.98 1 1 42241 20170522105824
+189.102.127.177 1 1 70208 20170522012013
+201.93.36.209 1 1 68487 20170511194215
+201.6.231.192 1 1 46570 20170511120236
+177.97.134.171 1 1 39616 20170523064022
+191.17.157.27 1 1 70208 20170523194400
+187.11.120.250 0 1 161853 
+187.33.194.156 1 1 70208 20170517192929
+191.8.12.218 1 1 70208 20170522052420
+189.69.159.48 1 1 49160 20170502163924
+189.102.83.192 1 1 70379 20170527173716
+201.26.110.194 1 1 68487 20170511184955
+173.252.102.119 1 11 234929 20170511224038
+177.72.128.22 1 1 70379 20170527095619
+201.26.88.99 2 2 109796 20170524170718
+177.34.215.230 1 1 70208 20170523165950
+179.34.234.11 2 2 93088 20170506224632
+152.249.249.143 2 65 2304448 20170531160535
+201.6.164.211 1 1 49131 20170501173231
+189.19.167.14 1 1 39610 20170515231754
+179.34.172.79 1 44 1688672 20170519101040
+177.10.8.42 1 1 70208 20170523172658
+201.213.166.172 1 1 70208 20170517171423
+104.238.136.96 1 1 39607 20170521162824
+177.155.180.0 1 1 70208 20170523162737
+179.156.113.33 1 1 68487 20170511183137
+189.91.27.28 1 17 503759 20170505145421
+189.21.163.173 2 65 2303806 20170529135352
+90.215.191.40 2 2 109784 20170520170320
+191.184.13.71 1 1 42239 20170522114044
+201.6.143.114 3 24 1693072 20170508215229
+189.109.49.4 1 1 70208 20170522135936
+179.233.240.246 1 1 70208 20170524105653
+187.101.196.73 1 1 70379 20170525114350
+176.193.97.174 0 1 7682 
+179.110.199.120 1 1 70208 20170513210212
+66.220.145.151 0 2 206822 
+187.10.221.9 1 1 46555 20170510125658
+173.252.84.54 1 8 399383 20170501171554
+189.0.88.4 1 1 68487 20170511215144
+152.249.180.25 1 1 46552 20170509185721
+177.95.230.187 1 1 70208 20170517190115
+201.43.21.26 1 1 70208 20170522234515
+187.74.243.219 2 2 109809 20170515113003
+179.157.254.42 2 2 95725 20170505141557
+170.78.92.74 1 1 70208 20170524005024
+177.154.65.7 1 21 1466370 20170521180855
+189.126.182.145 1 1 70208 20170522064828
+177.139.148.113 1 1 39597 20170515121520
+179.97.182.179 1 1 69431 20170512201021
+179.34.251.162 1 1 69795 20170513104447
+200.100.72.233 1 1 46552 20170508230448
+177.95.145.204 3 66 2344610 20170524173244
+177.139.120.128 1 1 70208 20170521234535
+177.138.253.83 1 1 70208 20170523185506
+177.105.221.11 1 1 70208 20170523190118
+189.121.67.131 1 1 70208 20170523065253
+179.208.94.183 1 1 49172 20170501173625
+187.255.27.43 1 1 70208 20170523205057
+86.110.118.142 2 2 72676 20170519071121
+201.75.180.196 1 1 70379 20170526193853
+179.212.91.137 1 1 70208 20170524003330
+189.100.47.81 1 44 46578 20170510172517
+191.188.58.228 1 1 70379 20170526222548
+179.110.254.151 1 1 70208 20170516201102
+187.13.16.65 1 1 49181 20170501132138
+179.219.35.67 1 1 70208 20170524065524
+201.83.90.125 2 45 1758889 20170522063438
+201.75.170.55 1 1 68487 20170512172013
+186.231.115.62 1 1 46535 20170511054028
+179.111.181.214 1 1 39592 20170519235258
+186.235.232.10 1 1 68487 20170511223551
+177.148.245.173 1 1 39565 20170519194613
+189.35.181.241 1 1 46573 20170510161935
+189.1.148.80 1 1 68487 20170512001000
+189.34.229.171 1 1 70208 20170524104915
+187.37.35.54 1 1 71647 20170531214353
+177.45.118.84 1 1 70208 20170523194301
+89.234.68.88 5 5 323473 20170511224328
+201.13.138.87 9 74 3081490 20170511110702
+186.231.135.7 1 1 70208 20170522234616
+177.9.149.52 1 1 70208 20170523205852
+191.254.104.186 4 87 2948408 20170518155730
+173.252.84.52 0 8 149646 
+179.110.90.210 0 16 303987 
+170.81.203.43 1 1 46561 20170508223137
+173.252.88.215 0 3 15965 
+191.180.65.79 2 65 2302367 20170518162816
+201.69.191.49 1 1 70208 20170518233136
+187.2.115.245 1 1 70208 20170516183926
+191.178.200.100 1 1 49195 20170501124651
+186.204.118.153 2 2 115063 20170509220605
+187.75.80.241 1 1 49155 20170501110657
+179.99.58.145 1 1 70208 20170523182628
+191.254.212.66 1 1 68487 20170511202911
+201.27.75.100 1 1 39637 20170525154921
+179.79.10.122 1 17 356295 20170501221451
+177.9.176.67 1 1 39611 20170526084506
+189.120.187.143 1 1 70208 20170523172306
+177.138.243.96 1 1 68487 20170512061610
+177.41.115.69 1 1 68487 20170511224247
+201.93.189.209 1 1 70208 20170515135533
+179.189.29.195 2 18 356394 20170502073417
+187.35.7.250 1 1 46557 20170511072745
+201.68.254.1 1 1 68487 20170512000120
+177.11.202.86 1 1 70208 20170523165002
+83.71.247.36 5 5 329958 20170521005511
+201.52.104.27 3 3 158960 20170521200601
+186.219.160.30 1 1 70208 20170522204850
+187.102.64.28 1 1 70208 20170520185059
+179.34.205.43 1 1 71647 20170531103904
+179.153.195.201 1 1 70208 20170522071023
+94.62.6.100 1 1 68487 20170511201301
+201.13.15.228 1 1 46569 20170507130621
+52.205.71.42 1 1 71647 20170531103711
+177.125.24.46 1 1 71634 20170529102437
+177.68.217.57 1 1 68487 20170512134121
+201.6.230.150 1 1 68487 20170511231024
+201.55.31.39 1 44 1688660 20170515164835
+201.6.131.159 1 1 70208 20170522141803
+201.95.80.34 1 1 68487 20170511200820
+187.0.169.27 0 1 38080 
+179.157.102.222 1 1 70208 20170523223614
+187.34.115.145 1 1 70208 20170523183811
+191.254.59.158 1 1 39613 20170513152830
+201.0.65.131 1 1 70194 20170512204758
+201.75.170.72 1 1 70208 20170523190504
+187.101.48.32 2 2 109789 20170523215852
+143.107.178.50 1 1 42255 20170522110512
+177.1.107.16 0 1 371729 
+66.220.145.155 0 7 231023 
+177.52.24.61 1 1 70379 20170525192119
+186.193.93.134 1 1 68487 20170512104936
+66.249.83.9 3 3 213502 20170531150901
+187.33.58.66 1 1 70379 20170528144214
+187.74.200.7 2 2 115043 20170511062321
+190.103.70.154 1 1 46545 20170505164007
+52.53.166.19 1 1 67686 20170503092449
+189.5.214.117 1 1 68487 20170511222657
+178.140.13.197 0 1 3646 
+201.1.186.10 1 1 39605 20170512094012
+186.203.0.126 4 47 1866060 20170525071319
+177.76.169.104 1 1 70208 20170515200831
+179.104.106.184 1 1 47770 20170528173558
+31.13.113.195 0 2 11436 
+186.216.161.26 0 1 82612 
+186.203.11.52 1 1 46554 20170508193721
+173.252.91.105 0 1 1398 
+201.69.27.197 1 1 70208 20170523175454
+201.6.142.214 1 1 70208 20170522013214
+179.142.203.123 1 1 70208 20170523165120
+187.43.130.164 1 45 1688720 20170520222142
+177.102.37.49 2 2 115070 20170509204214
+89.178.91.242 0 1 1424 
+177.83.218.15 1 44 1694199 20170528145406
+177.148.200.19 2 23 634503 20170521202641
+189.69.231.2 1 1 70208 20170523190742
+31.13.113.196 0 2 1741 
+179.247.181.223 1 1 70208 20170514142455
+179.98.154.28 1 1 70208 20170522142504
+189.65.15.185 1 1 68487 20170512145256
+77.37.220.219 0 1 97184 
+187.101.137.18 1 1 46567 20170508065427
+66.249.83.131 1 1 70208 20170524120733
+191.6.127.171 1 1 70208 20170523202014
+179.34.174.32 1 1 69439 20170512203347
+189.69.66.215 1 1 68487 20170511165518
+179.217.184.241 1 1 68487 20170511180229
+189.126.182.143 1 1 70379 20170528034115
+189.6.19.65 1 1 68487 20170511225605
+201.29.138.129 1 1 49204 20170502015131
+189.46.35.69 1 1 70208 20170513200927
+200.53.200.226 1 1 71647 20170531194527
+186.204.168.182 1 1 49161 20170502132410
+191.34.234.100 1 1 70208 20170523163722
+187.52.24.198 1 1 70208 20170524054139
+186.217.153.222 1 1 70208 20170523171331
+201.13.208.107 1 1 71647 20170530164815
+179.209.34.158 2 2 115052 20170510220801
+177.103.223.42 1 1 49201 20170502130047
+201.1.51.106 1 1 68487 20170511195505
+177.11.187.222 1 1 39621 20170512152541
+187.44.43.159 1 17 503759 20170501010318
+187.85.197.215 1 1 68487 20170511213154
+177.68.163.83 2 2 119396 20170530214949
+187.35.43.246 1 1 70208 20170523162035
+66.220.145.154 0 7 298424 
+201.83.214.188 1 1 39589 20170511214554
+131.108.105.234 1 1 68487 20170509120340
+189.41.12.245 1 1 39613 20170513183422
+46.73.245.165 0 1 11414 
+187.22.199.182 1 1 68487 20170511194507
+177.32.87.7 1 1 46554 20170509002309
+177.140.35.197 1 1 39583 20170526013835
+186.221.45.82 1 22 696317 20170518193410
+189.69.90.28 0 2 292840 
+201.26.54.49 2 2 95693 20170504205228
+66.220.145.152 1 5 209067 20170511224039
+186.216.177.176 1 1 70208 20170523223609
+177.189.8.9 1 1 70379 20170527094033
+177.139.101.117 1 1 68487 20170511182458
+66.220.145.149 0 6 44200 
+173.252.102.116 0 5 130879 
+201.49.77.222 1 1 46563 20170506151149
+191.248.166.106 1 1 68487 20170512164956
+177.94.14.53 1 1 68487 20170511123420
+168.90.218.241 1 1 68487 20170511190014
+194.44.247.218 1 1 70208 20170524064120
+179.212.133.53 1 1 70208 20170524114951
+66.220.156.147 1 1 61981 20170512130126
+189.103.210.108 1 1 70208 20170523184554
+201.6.228.196 1 1 49134 20170501224933
+189.63.211.120 1 1 68487 20170511210902
+187.101.15.63 1 1 70208 20170515124330
+201.6.226.95 1 1 46569 20170510103535
+173.252.102.115 0 7 50011 
+191.205.154.18 2 2 115044 20170509221256
+179.208.77.191 1 1 39615 20170518175824
+187.182.183.57 1 1 70208 20170523211513
+177.140.127.12 1 1 71647 20170531171854
+177.189.219.178 1 1 47784 20170531131715
+189.0.34.37 1 1 70379 20170526203358
+177.13.162.123 1 1 46558 20170504165237
+66.220.145.150 0 6 215609 
+66.102.8.7 4 15 429045 20170525200645
+179.212.91.255 1 1 70208 20170524002835
+177.189.4.121 1 1 70208 20170517181852
+201.54.228.4 1 1 70208 20170523163359
+179.153.99.71 1 1 68487 20170511224412
+179.110.99.161 1 1 69431 20170512201146
+187.96.222.205 1 1 70208 20170515211705
+177.104.48.5 1 1 70208 20170523170730
+179.191.95.178 1 1 70208 20170523124452
+186.250.215.250 1 1 70208 20170519224640
+179.99.6.234 1 1 68487 20170511213730
+173.252.91.102 0 2 5360 
+186.203.9.115 1 1 70208 20170523163455
+177.72.177.38 1 1 70208 20170523203027
+189.55.20.162 1 1 46559 20170508131159
+201.6.131.233 1 1 39609 20170519200919
+189.54.144.176 1 1 39624 20170517200829
+187.101.199.10 1 1 68487 20170511203506
+177.193.116.12 1 1 70208 20170523222624
+179.211.97.242 1 1 70208 20170523165316
+168.121.172.21 3 3 180017 20170524214919
+191.36.170.99 1 1 70208 20170516001450
+201.50.134.119 1 1 68487 20170511204751
+201.37.161.5 1 1 70208 20170523233320
+201.6.231.22 1 1 70208 20170521234842
+179.208.123.20 1 1 70208 20170523174406
+208.104.222.112 1 1 70208 20170523193705
+152.249.36.91 1 1 70208 20170514124933
+176.195.125.115 0 1 15248 
+85.248.227.163 1 1 70204 20170513115335
+201.92.234.145 1 1 71647 20170530165445
+201.1.89.241 1 1 46568 20170510012330
+201.74.147.23 1 1 70379 20170528001812
+200.221.128.95 2 2 140416 20170524022622
+201.6.227.173 1 1 49174 20170501202618
+191.8.34.210 1 1 39600 20170525211501
+173.252.84.53 0 7 397844 
+186.204.104.155 1 1 47760 20170529154127
+201.49.90.26 1 1 70208 20170522144826
+179.228.8.7 1 1 68487 20170511215419
+191.254.221.5 1 1 70379 20170526115022
+31.13.113.194 0 4 179503 
+177.154.83.74 1 1 70379 20170529002642
+201.81.130.200 1 1 70208 20170523191727
+201.17.176.33 1 1 70208 20170523204106
+177.79.60.81 1 1 70208 20170524133528
+177.80.96.86 1 1 46538 20170506002544
+177.9.129.145 2 2 140416 20170516215115
+187.74.13.151 1 1 46546 20170509234305
+187.38.10.229 2 2 138695 20170518012523
+179.159.124.34 1 1 49152 20170501101015
+191.53.25.104 1 1 70208 20170523164809
+179.211.126.48 1 1 70208 20170523183311
+179.217.142.41 1 1 68487 20170512001104
+201.68.104.46 1 4 63938 20170525120231
+46.101.139.248 1 1 71704 20170529170056
+189.69.182.6 1 1 70208 20170522134559
+179.228.81.28 1 1 70208 20170521234753
+179.97.171.156 1 1 70204 20170513124439
+176.14.220.5 1 1 68487 20170509143317
+201.42.155.198 1 1 70208 20170514084554
+189.5.209.44 1 1 68487 20170509121949
+179.99.196.245 1 1 70208 20170522195840
+177.97.245.229 1 1 46550 20170508173314
+187.57.179.46 1 17 503759 20170501221400
+186.250.221.130 1 1 70208 20170523234916
+200.149.174.207 1 1 70379 20170527223557
+201.6.128.95 2 2 138695 20170517065517
+187.123.117.159 1 1 70379 20170525202737
+54.193.30.197 1 1 67686 20170503092528
+201.1.12.4 1 1 71647 20170529192620
+31.13.113.192 0 1 40130 
+187.182.235.32 2 2 109821 20170512230650
+177.188.7.203 1 1 70208 20170517004850
+192.99.13.206 1 1 68487 20170511213802
+187.41.23.200 1 1 70208 20170523162816
+201.74.23.254 1 1 42231 20170519100434
+189.79.113.244 1 1 70208 20170521192716
+179.104.119.242 1 1 39618 20170520094352
+189.69.92.50 1 1 49160 20170501103136
+189.92.218.23 1 44 1686036 20170524090052
+201.6.142.50 1 1 46574 20170509175904
+186.239.235.50 8 136 5048041 20170524093859
+189.5.222.90 1 1 68487 20170511191038
+31.13.113.199 0 1 59728 
+189.78.219.26 1 1 70208 20170524083045
+201.68.102.99 1 1 68487 20170511211842
+187.65.52.202 1 20 751049 20170504185825
+186.205.244.120 1 1 68487 20170511215502
+179.177.46.246 1 1 68487 20170511182701
+173.252.91.103 0 4 89927 
+173.252.88.212 0 2 199143 
+187.56.97.75 1 1 70208 20170520151211
+192.241.225.199 1 23 1456607 20170501172010
+186.216.177.192 1 1 70208 20170524010457
+179.34.195.255 1 1 39578 20170519124640
+187.56.66.181 1 1 70379 20170526212415
+31.13.113.197 1 4 192696 20170524081024
+187.1.111.132 1 1 64483 20170517173658
+173.252.102.113 0 9 506695 
+191.193.66.52 1 1 70208 20170523163841
+201.6.143.246 1 1 46536 20170508101515
+138.97.45.59 1 1 70208 20170521013647
+191.34.90.117 1 1 68487 20170511184147
+189.5.230.145 1 1 68487 20170511180517
+189.110.206.194 1 1 49179 20170502184608
+179.35.21.14 2 22 625729 20170519185831
+189.63.201.61 1 1 68487 20170511201640
+179.35.230.63 6 94 3494385 20170510191426
+177.80.101.244 1 1 68145 20170503190326
+200.206.253.245 1 1 70208 20170519234412
+191.6.109.91 1 1 70208 20170524172531
+189.126.182.148 1 1 70208 20170521211753
+173.252.88.216 0 4 18119 
+189.0.73.139 8 107 4358963 20170504203138
+179.217.178.128 1 1 68487 20170511180807
+187.10.59.169 1 21 562689 20170519215048
+201.83.217.5 1 1 49153 20170502064818
+188.244.45.91 0 1 1606 
+189.102.124.165 1 1 46577 20170504194137
+201.19.69.150 1 1 70379 20170526190358
+189.68.116.183 1 1 70208 20170521123211
+201.6.130.205 1 1 70208 20170514215708
+179.157.114.52 1 1 47769 20170529113426
+186.214.114.192 1 1 68487 20170509232242
+177.44.136.218 1 1 70208 20170523201454
+177.45.83.36 5 5 268343 20170515155021
+177.25.92.75 2 2 140587 20170527221421
+177.102.15.146 1 1 68487 20170511235633
+152.250.243.252 2 2 109981 20170526123146
+177.139.113.107 1 1 70379 20170528223723
+152.250.135.219 1 1 70208 20170516163756
+143.107.182.231 1 1 70208 20170523163454
+152.249.155.249 1 1 70208 20170525081050
+179.156.101.250 1 1 68487 20170511190357
+189.62.254.120 1 1 71647 20170529185406
+191.193.255.193 1 1 68487 20170511183048
+177.32.140.69 5 68 3275294 20170519055957
+191.17.60.45 0 1 161853 
+177.82.69.103 1 1 68487 20170511213109
+179.211.97.254 1 1 70208 20170524062622
+191.36.174.125 1 1 68487 20170511125334
+189.8.95.190 1 1 39636 20170519193626
+189.63.253.26 1 1 68487 20170511203553
+191.17.54.66 1 1 70208 20170523205045
+189.68.58.175 1 1 70379 20170528170837
+37.145.8.142 0 1 3754 
+191.240.148.249 1 31 512582 20170527110949
+187.38.233.237 4 67 2437064 20170515090228
+162.236.127.63 3 3 183525 20170511213208
+186.207.13.113 2 2 115033 20170511123400
+189.46.45.31 1 1 46587 20170508101136
+46.161.9.12 2 2 136666 20170516222337
+191.19.16.108 1 1 49173 20170502170232
+187.14.96.97 1 1 46579 20170506154528
+190.183.178.137 1 1 68487 20170512163725
+173.252.102.117 0 7 26425 
+154.118.220.228 1 1 70208 20170523201527
+95.213.204.30 1 1 71647 20170530010324
+189.102.164.83 1 1 70208 20170524084400
+189.83.123.29 1 1 42229 20170522105634
+189.123.114.82 1 1 68487 20170511175938
+201.83.198.54 1 1 46548 20170508220158
+187.74.4.59 1 1 70194 20170512214041
+189.29.212.157 1 1 70208 20170523165946
+177.181.8.50 1 1 68487 20170509184941
+187.75.88.51 1 1 71647 20170531184124
+191.19.218.170 2 2 109808 20170517140045
+201.6.231.232 4 20 479548 20170502180520
+191.6.109.67 1 1 70208 20170523205626
+187.33.63.94 1 1 70208 20170522200012
+177.189.97.85 1 1 46555 20170510114558
+187.33.191.174 1 1 46566 20170505230352
+187.106.168.12 1 1 70208 20170520181215
+200.100.226.145 1 1 70208 20170513224143
+191.180.107.56 1 1 70208 20170523100702
+189.110.25.191 2 65 2520237 20170501112718
+179.98.50.126 1 1 70208 20170523190908
+179.104.111.44 1 1 39609 20170526202113
+189.15.200.231 1 1 49168 20170502145710
+186.231.113.138 1 1 70208 20170522002216
+186.204.90.252 2 2 109793 20170515182732
+177.33.175.46 1 1 46586 20170503215227
+187.3.46.160 1 1 39580 20170519224553
+201.17.210.189 1 1 70208 20170523170310
+189.78.20.16 1 1 70208 20170523195838
+109.252.83.126 0 1 10056 
+173.252.91.107 0 1 683 
+66.249.89.201 1 1 70208 20170517090252
+186.221.80.213 1 1 39595 20170515193600
+177.81.78.35 1 1 68487 20170511222646
+186.207.217.206 1 1 49167 20170502130826
+186.196.149.44 1 44 1688701 20170513231631
+186.216.177.58 1 1 70208 20170523192403
+187.56.243.177 1 1 70208 20170517223733
+177.95.94.156 1 1 70208 20170516125106
+189.120.92.235 1 1 70379 20170525154913
+191.6.109.132 1 1 70208 20170523223315
+201.75.141.150 1 1 46559 20170503171644
+177.183.50.212 1 1 70208 20170523175301
+138.59.243.95 1 1 70379 20170527074321
+187.38.121.254 2 46 1885196 20170501140041
+200.49.46.44 1 1 70208 20170518212918
+177.139.126.109 1 1 68487 20170511232237
+201.83.21.63 1 1 71634 20170529103242
+201.6.143.205 1 1 46577 20170511010900
+191.8.17.136 1 1 70208 20170523170901
+189.47.50.133 2 2 109986 20170525171520
+189.126.182.150 2 2 138691 20170513115442
+189.18.180.107 1 1 49164 20170501120904
+200.137.238.39 1 1 68487 20170512115451
+128.68.216.167 0 1 5836 
+179.113.7.43 2 2 136974 20170512024945
+177.8.189.87 1 1 68487 20170511182432
+177.32.192.138 2 2 115063 20170510212351
+177.68.36.45 1 1 70208 20170516205920
+173.252.102.118 0 11 545947 
+173.252.88.213 0 1 97184 
+189.47.35.109 1 1 69431 20170512194203
+191.7.209.86 1 1 70208 20170523165158
+66.102.8.9 0 16 656685 
+66.249.83.11 1 1 71634 20170529122417
+177.94.50.82 1 1 70194 20170512220219
+189.18.88.138 1 1 70379 20170525180414
+189.5.227.48 1 1 68487 20170511180512
+177.139.54.75 1 1 69431 20170512200137
+179.110.228.4 1 1 70208 20170523223436
+189.115.200.240 1 1 70208 20170524132339
+54.146.43.253 1 1 70208 20170519112426
+187.66.247.233 1 1 46593 20170510140515
+173.252.91.100 0 1 135 
+173.252.91.106 1 2 75657 20170511224036
+186.224.203.6 1 1 70208 20170514222626
+177.35.194.212 1 1 39617 20170514122927
+187.57.96.244 1 1 70379 20170525154847
+187.34.211.95 1 1 70379 20170525125952
+179.153.18.231 2 2 116756 20170522104100
+179.209.24.219 1 1 70208 20170525013439
+177.143.150.52 1 1 70208 20170516214656
+177.52.24.81 2 2 143294 20170530201959
+186.216.165.211 1 1 70208 20170524081835
+201.75.170.244 1 1 70208 20170523171508
+217.67.224.89 1 3 69837 20170501102748
+187.56.210.22 1 1 70208 20170522082048
+186.203.201.199 1 1 70208 20170522070348
+177.11.161.227 1 1 70208 20170523101429
+201.68.60.70 1 1 68487 20170511215832
+201.42.40.73 1 1 39594 20170518024653
+177.94.83.77 1 1 70194 20170512211650
+187.94.153.212 1 1 70208 20170521023412
+177.157.128.64 1 1 69795 20170512234241
+143.107.118.102 2 2 140416 20170523180108
+189.39.92.3 1 1 39625 20170515222126
+201.92.2.51 1 1 70208 20170516125626
+179.99.74.132 1 1 69431 20170512193547
+170.81.164.34 1 20 827024 20170503124721
+186.239.235.56 1 1 47762 20170529132055
+179.110.238.215 1 1 68487 20170511090302
+62.212.68.156 1 1 68145 20170505062643
+177.181.21.34 1 1 68487 20170511181453
+179.181.242.178 1 1 70208 20170522090223
+177.81.186.106 1 1 70208 20170521191827
+138.0.52.34 1 1 68487 20170512051815
+177.99.113.166 1 1 46586 20170508073018
+177.13.255.34 1 1 70208 20170523171139
+191.8.16.213 1 1 68487 20170512180408
+191.55.68.226 1 1 46548 20170508220019
+168.121.172.12 2 2 109795 20170517085005
+177.191.7.162 1 1 46571 20170505123947
+201.27.227.176 1 1 39613 20170513171743
+187.101.68.89 1 1 68081 20170502162333
+201.6.228.98 6 6 187968 20170527185154
+189.35.229.41 1 1 70208 20170516205100
+173.252.88.214 0 3 97200 
+187.57.250.106 1 21 562689 20170521234543
+186.247.60.5 1 20 751049 20170503125054
+201.37.163.199 1 1 70208 20170523213309
+186.216.176.116 1 1 70208 20170523174522
+177.192.251.226 1 1 68487 20170511191800
+177.139.178.110 3 66 2365765 20170525143741
+200.100.192.89 1 1 70208 20170516154052
+187.33.56.72 1 1 70208 20170522193224
+201.27.73.6 1 1 70208 20170515232902
+191.241.138.140 1 1 68487 20170510191438
+66.220.145.148 0 4 104167 
+189.47.77.72 1 1 70208 20170523212741
+177.95.193.74 1 1 70208 20170519231005
+201.42.173.120 1 1 70208 20170522010643
+177.9.135.159 1 1 68487 20170511214542
+179.55.139.80 1 1 70208 20170523165406
+179.156.98.195 1 1 68487 20170511205414
+177.9.8.68 2 21 690301 20170503181307
+179.111.129.19 1 1 68487 20170510212236
+201.69.243.228 1 1 39588 20170522144435
+177.189.2.129 1 1 70208 20170522101738
+173.252.84.56 0 4 5705 
+189.102.164.41 1 1 70208 20170523213558
+191.183.100.12 1 1 70208 20170525092123
+201.93.87.109 1 1 70208 20170523210724
+173.252.91.101 0 4 307741 
+191.19.78.86 1 1 68487 20170512102648
+177.206.21.208 2 2 109407 20170513003951
+177.52.24.67 2 2 142026 20170530001921
+187.10.228.251 1 1 39591 20170524125458
+186.231.142.210 1 1 70208 20170522023718
+201.6.228.190 1 1 46556 20170510212642
+179.209.68.226 1 1 70208 20170523182712
+201.95.9.11 1 1 70208 20170514013514
+173.252.84.59 0 4 178369 
+170.81.152.27 2 2 112468 20170523165635
+201.27.192.153 1 1 70208 20170523164028
+191.205.72.114 1 1 68487 20170512104422
+177.80.228.230 1 21 613705 20170524193657
+179.187.137.57 1 1 70208 20170523173727
+66.220.145.153 0 7 379378 
+189.111.85.161 1 1 68487 20170511214821
+186.207.7.16 1 1 46567 20170505212642
+189.58.102.145 1 1 68487 20170512160218
+189.24.196.230 1 1 39611 20170512125733
+179.241.202.70 1 1 70208 20170522083038
+179.110.19.226 1 1 68487 20170511223101
+187.35.55.156 1 1 70208 20170523144636
+178.217.187.39 1 1 68145 20170507063208
+187.64.233.69 1 1 70208 20170523200901
+187.74.11.4 2 2 109843 20170522161715
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20170501 89 661 23779639 32
+20170502 336 928 23765522 27
+20170503 116 361 11586650 21
+20170504 22 239 9009820 15
+20170505 52 200 7238898 14
+20170506 109 513 20617617 13
+20170507 15 87 2687901 8
+20170508 86 578 23330185 23
+20170509 401 1218 40070809 26
+20170510 124 391 13056566 29
+20170511 240 931 36581466 104
+20170512 485 835 22063408 57
+20170513 220 576 25689447 31
+20170514 153 616 19960990 16
+20170515 50 498 17374264 25
+20170516 45 360 14664207 25
+20170517 33 122 5681397 23
+20170518 64 561 20712852 24
+20170519 74 541 20362267 35
+20170520 36 262 10351741 14
+20170521 49 226 7794711 29
+20170522 83 543 20844927 53
+20170523 144 354 15772052 125
+20170524 810 2220 79832820 45
+20170525 761 2061 59822286 34
+20170526 911 2993 111568918 22
+20170527 115 580 18507290 22
+20170528 65 203 6736437 13
+20170529 1179 3081 92968174 26
+20170530 100 439 15371331 16
+20170531 371 1905 65137178 22
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 23
+30mn-1h 24
+1h+ 18
+15mn-30mn 17
+5mn-15mn 24
+0s-30s 834
+30s-2mn 29
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 124
+/Modulo-3/optimizer.php 2219 68953421 1 14
+/Modulo-3/rvsindex.php 1029 6266041 12 2
+/wp-admin/admin-ajax.php 950 3446923 0 6
+/ 904 62744480 629 553
+/M%C3%B3dulo-1/ 223 9930102 154 182
+/Modulo-3/M%C3%B3dulo---3.php 175 23309083 0 1
+/m%C3%B3dulo-2/optimizer.php 156 5915310 0 1
+/M%C3%B3dulo-3/optimizer.php 134 7073175 0 2
+/promocional/ 109 4515074 26 40
+/wp-admin/load-scripts.php 103 8026548 0 0
+/M%C3%B3dulo-3/rvsindex.php 101 477206 3 0
+/wp-admin/post.php 99 12805508 1 0
+/m%C3%B3dulo-2/rvsindex.php 64 270539 9 0
+/wp-login.php 53 170182 19 12
+/wp-cron.php 53 0 49 48
+/como-adquirir/ 51 3326388 0 6
+/uma-seccao-da-pagina-inicial/ 46 2754739 2 3
+/email 44 28292 14 18
+/wp-admin/load-styles.php 44 3704117 0 5
+/wp-admin/admin.php 42 3011902 0 0
+/wp-admin/edit.php 40 3441667 0 0
+/353-2/ 35 2184243 3 4
+/fale-conosco/ 35 1946582 12 15
+/Modulo-3/rvthankform_392f2e9b2fcc7d80d3900f417767f25c.php 35 406245 0 0
+/M%c3%b3dulo-1/ 29 1283670 7 11
+/M%C3%B3dulo-3/M%C3%B3dulo---3.php 22 1990807 0 0
+/m%C3%B3dulo-2/ 1 87491 0 0
+/M%C3%B3dulo-1/rvthankform_95db00f929ac80bdbe751850d0069ed9.php 1 11625 0 0
+/promocional/Tire-suas-duvidas.php 1 20815 0 0
+/wp-admin/post-new.php 3 362562 0 0
+/promocional/rvthankform_348e09712da94cbbe7a6e2bc1b708059.php 1 11621 0 1
+/wp-admin/plugins.php 5 317074 0 0
+/teste/rvsindex.php 1 5047 0 0
+/neurociencias/promocional/Teste.php 1 34517 0 0
+/inicio/pensamento-elevado-2/ 1 71980 0 0
+/sobre/ 22 1200271 0 1
+/segunda_fase/rvsindex.php 1 5064 0 0
+/m%c3%b3dulo-2/ 2 174799 0 1
+/neurociencias/promocional/Promocional.php 1 42903 0 0
+/m%C3%B3dulo-2/index.php 3 236379 1 3
+/videos/Fase-3.php 8 220768 0 0
+/wp-admin/options-general.php 3 200600 0 0
+/neurociencias/promocional/ 10 429392 2 2
+/wp-admin/ 25 1448708 9 0
+/promocional/index.php 2 84525 0 0
+/m%C3%B3dulo-2/rvthankform_6c5869cc0b2b2c77de5bbeb0ec5e3410.php 2 23270 0 0
+/wp-admin/async-upload.php 22 37165 0 0
+/wp-admin/plugin-editor.php 4 362416 0 0
+/demonstracao/ 18 1138326 2 4
+/principios/ 13 622740 0 1
+/acoes-2018/ 11 734063 0 0
+/videos/optimizer.php 12 236352 0 0
+/wp-admin/upload.php 3 250314 0 0
+/promocional/Teste.php 3 101946 0 1
+/promocional/Promocional.php 1 42233 0 0
+/xmlrpc.php 13 5356 1 10
+/2017/03/31/hello-world/ 2 136666 1 1
+/wp-admin/theme-editor.php 8 873412 0 0
+/neurociencias/promocional/rvthankform_348e09712da94cbbe7a6e2bc1b708059.php 1 12013 0 0
+/rvsindex.php 2 9970 0 0
+/Modulo-3/rvthankform_33296527a6752b3a5eac29cc70783f03.php 1 11607 0 0
+/M%C3%B3dulo-1/rvthankform_39269fea2109fa58d0cb84cbd1969264.php 5 58130 0 1
+/wp-admin/nav-menus.php 18 3937921 0 0
+/wp-content/plugins/really-simple-ssl/testssl/serverhttpson/ssl-test-page.html 1 159 1 1
+/Modulo-3/ 12 1595071 0 0
+/m%C3%B3dulo-2/Contate-nos.php 3 66032 1 0
+/Modulo-3-testesuporte/ 1 95174 0 0
+/promocional/Contate-nos.php 3 62454 0 0
+/videos/Copied-Fechamento-do-1%C2%BA-Modelo-coaching.php 1 30116 0 0
+/depoimento-2015/ 20 1408824 0 0
+/M%C3%B3dulo-1/Teste.php 11 374490 2 0
+/wp-admin/update.php 2 46589 0 0
+/videos/rvsindex.php 6 32069 1 0
+/M%c3%b3dulo-3/ 3 119009 0 0
+/m%C3%B3dulo-2/rvssetup.php 2 111646 1 0
+/M%C3%B3dulo-1/Contate-nos.php 1 20782 0 0
+/wp-admin/revision.php 3 101295 0 0
+/modulo-1/ 10 242444 1 0
+/M%C3%B3dulo-1/1%C2%BA-Modelo-de-Coaching.php 3 132697 0 1
+/teste/optimizer.php 1 9917 0 0
+/copia/ 6 156798 1 1
+/Copied-Suporte.php 1 27142 0 0
+/neurociencias/ 10 730510 0 0
+/depoimento-2016/ 12 889987 1 1
+/neurociencias/wp-cron.php 2 0 0 1
+/depoimentos-20132014/ 3 234591 0 0
+/m%C3%B3dulo-2/M%C3%B3dulo---2.php 24 1990246 1 7
+/M%C3%B3dulo-3/ 5 225612 0 1
+/Modulo-3/Contate-nos.php 8 180788 0 0
+/wp-admin/index.php 4 227804 0 0
+/wp-admin/edit-tags.php 2 96803 0 0
+/segunda_fase/M%C3%B3dulo---4.php 3 153007 0 0
+/m%C3%B3dulo-2/Tire-suas-duvidas.php 4 88044 1 0
+/M%C3%B3dulo-3/themes/rvtheme/images/ 1 1423 0 0
+/wp-admin/plugin-install.php 6 454161 0 0
+/videos/Copied-1%C2%BA---Modelo-coaching2.php 1 28148 0 0
+/segunda_fase/optimizer.php 3 47629 0 0
+/wp/ 1 71962 0 0
+/Modulo-3/index.php 9 1196237 0 0
+/wp-admin/widgets.php 4 308225 0 0
+/wp-admin/tools.php 1 36600 0 0
+/copia/optimizer.php 2 58950 0 0
+/M%C3%B3dulo-1/rvthankform_71e5a600c4038e549082ea750924956e.php 3 35594 0 0
+/wp-admin/customize.php 11 2835362 0 0
+/wp-admin/upgrade.php 1 1 1 1
+/wp-admin/update-core.php 6 244434 0 0
+/wp-admin/options-reading.php 1 33531 0 0
+/category/uncategorized/ 18 935974 0 5
+/comprar/ 2 124058 0 1
+/wp-admin/edit-comments.php 1 57284 0 0
+/optimizer.php 2 19834 0 0
+/wp-admin/themes.php 5 253495 0 0
+/M%C3%B3dulo-1/Tire-suas-duvidas.php 2 41562 0 0
+/processo-de-criacao/ 4 268860 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.eot 1 17572 0 0
+/Modulo-3/themes/default/css/installer.php 15 132270 0 0
+/wp-includes/fonts/dashicons.eot 5 112245 0 0
+/escola/ 1 69260 0 0
+/Modulo-3/Tire-suas-duvidas.php 3 65939 0 0
+/wp-admin/users.php 1 37474 0 0
+/wp-admin/profile.php 3 50520 0 0
+/Modulo-3/rvssetup.php 15 837195 0 0
+/Modulo-3/themes/rvtheme/images/ 3 4248 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 14 2559760 0 0
+END_SIDER

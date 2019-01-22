@@ -1,0 +1,22 @@
+.pathway{	
+	background-color:#ffffff; 
+	border:2px solid #FF0000;
+	margin:0 3px;  
+	width:3px; 
+	height:2px;
+	padding:0;
+}
+
+/******** Photo Album **********/
+.imagethumb{
+	padding:3px;
+	margin:5px;
+	border:#BFBFBF solid 1px;  
+	background-color:#FFF;
+}
+.imagethumb:hover{
+	padding:3px;
+	margin:5px;
+	border:#000 solid 1px;  
+	background-color:#FFF;
+}

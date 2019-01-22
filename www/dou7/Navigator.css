@@ -1,0 +1,88 @@
+/****  tab_middle ****/
+
+.navigator{
+	margin: 0px;
+	padding: 0px;
+}
+.navigator ul{	
+	margin: 0px;
+	padding: 0px;
+	color: #e3efff;
+}
+.navigator li {
+	display:inline; 
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	float:left;
+} 
+
+
+.navigator li a {text-decoration: none; font-weight : bold; white-space:nowrap;}
+
+.navigator li a.normal{
+	padding: 10px 12px 9px 12px;
+	color: #e3efff;
+	border-right: 1px solid #B6D2EB;
+	display:block;
+}
+.navigator li a.normal:hover{
+	background-color: #164065;
+	color: #B6D2EB;
+}
+.navigator li a#current{
+	background-color: #164065;
+	color: #B6D2EB;
+	padding: 10px 12px 9px 12px;
+	border-right: 1px solid #B6D2EB;
+	display:block;
+}
+
+
+/*  css for PHP Layers Menu 3.2.0-rc (C) 2001-2004 Marco Pratesi - http://www.marcopratesi.it/  */
+
+
+.submenu {
+	left: 0px; 
+	top: 0px;
+	visibility: hidden; 
+	position: absolute;
+	padding:0 0 0 5px;
+	z-index:25;
+}
+.subframe {
+	border: #081724 1px solid; 
+	display: block; 
+	filter: alpha(opacity=95); 
+	position: absolute;
+	background-color: #ffffff;
+	text-indent: 5px;
+}
+.item {
+	white-space: nowrap; 
+	text-align: left;
+	border-bottom: 1px solid #164065;
+	margin-top: 0px;
+}
+.item a {
+	font-weight: normal; 
+	color:#000000; 
+	text-decoration: none;
+	position: relative;
+	display:block;
+	padding:3px 0;
+}
+.item a:hover {
+	font-weight:normal; 
+	color:#ffffff; 
+	text-decoration:none; 
+	background-color:#638db2;
+	position: relative;
+	display:block;
+	padding:3px 0;
+}
+.item .fwdarr {
+	right: 7px;
+	top: 5px; 
+	position: absolute;	
+}

@@ -1,0 +1,342 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 200904 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2544                
+POS_VISITOR 6460                
+POS_DAY 7580                
+POS_DOMAIN 3232                
+POS_LOGIN 3492                
+POS_ROBOT 3647                
+POS_WORMS 3815                
+POS_EMAILSENDER 3946                
+POS_EMAILRECEIVER 4089                
+POS_SESSION 8167                
+POS_SIDER 8373                
+POS_FILETYPES 4224                
+POS_OS 4428                
+POS_BROWSER 4499                
+POS_SCREENSIZE 4616                
+POS_UNKNOWNREFERER 4690                
+POS_UNKNOWNREFERERBROWSER 4777                
+POS_ORIGIN 4859                
+POS_SEREFERRALS 4998                
+POS_PAGEREFS 5142                
+POS_SEARCHWORDS 5290                
+POS_KEYWORDS 5442                
+POS_MISC 2207                
+POS_ERRORS 5501                
+POS_CLUSTER 3348                
+POS_SIDER_404 5624                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20090501122422 102 31568 25507173301
+FirstTime 20090401102702
+LastTime 20090430200323
+LastUpdate 20090501190117 102 0 101 0 0
+TotalVisits 46                  
+TotalUnique 25                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 25                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 23 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 28 379930 5 5 17470
+1 0 0 0 3 3 17470
+2 0 0 0 2 2 8735
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 2 2 0
+6 0 0 0 0 0 0
+7 1 1 8735 17 17 7594
+8 5 48 816280 2 4 8735
+9 58 436 4278220 19 39 2213
+10 74 500 1362501 14 35 446
+11 90 444 12287628 18 25 876
+12 0 0 0 0 0 0
+13 6 59 1076623 7 8 0
+14 3 44 715696 1 2 0
+15 49 349 1003700 18 26 10503
+16 29 141 1736461 7 26 446
+17 85 547 2659617 22 45 11092
+18 79 552 12959486 18 35 884
+19 121 635 5148565 20 68 40002
+20 60 220 3230073 20 37 63368
+21 58 445 2466915 13 41 438
+22 10 88 1518110 4 10 0
+23 13 90 1517114 33 43 13235
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+br 727 4612 53138999
+jp 11 11 14080
+us 4 4 12575
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+ia_archiver 1 8735 20090425151118 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 137 375151 0 0
+png 860 728562 0 0
+php 520 32365230 0 0
+html 205 356343 0 0
+jpg 840 17490376 0 0
+js 122 1582604 0 0
+xml 17 18337 0 0
+gif 1926 249051 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 3
+winxp 2428
+winlong 2198
+linux 1
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 5
+msie6.0 1026
+msie8.0 28
+firefox1.0 1
+msie7.0 3369
+firefox3.0.8 203
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 107 255
+From1 0 0
+From2 0 0
+From3 0 0
+From4 635 4372
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 103 429
+206 62 185941
+301 20 8402
+404 287 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 10
+/email/themes/css/none.css 38 http://www.digitalfotoimagem.com.br/email/src/login.php
+/escola/12.jpg 85 http://www.digitalfotoimagem.com.br/escola/mae.html
+/robots.txt 6 http://www.whois.sc/
+/emal 1 -
+/index.swf 37 http://www.digitalfotoimagem.com.br/
+/escola/finaldeano.html 1 -
+/escola/pai.html 15 http://www.digitalfotoimagem.com.br/escola/1.html
+/Fundo2.png 4 http://www.digitalfotoimagem.com.br/email.html
+/email/skins/bluehive/left_inbox_bar.gif 99 http://www.digitalfotoimagem.com.br/email/src/right_main.php
+/emai 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 25
+200.144.5.29 395 2423 19487581 20090430200323
+200.136.79.15 104 592 12816613 20090428114054
+200.144.5.41 86 653 3451404 20090430093104
+187.10.186.46 24 116 2725167 20090422204133
+200.171.13.75 17 87 1748447 20090406090916
+189.121.2.16 16 74 1437791 20090426163524
+189.18.219.131 12 62 1137184 20090423230731
+187.27.53.170 12 62 1094310 20090413214344
+189.121.209.184 11 50 1041970 20090427194549
+187.10.204.164 10 57 948470 20090422191204
+187.10.128.147 9 60 1138180 20090415221258
+150.70.84.24 9 9 11520 20090428114527
+189.102.196.160 7 56 969405 20090407180836
+189.30.52.17 6 59 1076623 20090408130213
+189.62.168.230 5 48 816280 20090415082731
+189.110.196.78 5 48 805255 20090423174402
+201.43.62.35 3 44 715696 20090402143319
+201.83.204.185 2 37 588833 20090413214022
+150.70.84.171 2 2 2560 20090408151431
+216.104.15.134 2 2 2560 20090428115828
+187.10.196.144 1 28 379930 20090411221700
+201.11.202.236 1 28 379930 20090413001316
+187.27.9.33 1 28 379930 20090406230134
+74.52.245.146 1 1 8735 20090416070418
+216.104.15.142 1 1 1280 20090428115303
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 21
+20090401 14 176 679537 1
+20090402 27 181 874926 2
+20090403 27 177 398976 2
+20090406 18 115 2128377 2
+20090407 75 548 2065907 4
+20090408 34 221 1623528 4
+20090409 110 543 1602028 1
+20090411 1 28 379930 1
+20090413 43 294 2560740 4
+20090414 28 153 549534 1
+20090415 27 175 2052006 3
+20090416 1 1 8735 1
+20090417 17 71 177952 1
+20090422 47 240 3972307 3
+20090423 17 110 1942439 2
+20090424 6 59 109496 1
+20090426 16 74 1437791 1
+20090427 23 137 2956891 2
+20090428 86 459 12552625 6
+20090429 92 718 12930090 2
+20090430 33 147 2161839 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 1
+5mn-15mn 8
+15mn-30mn 4
+0s-30s 8
+30s-2mn 14
+2mn-5mn 9
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 44
+/email/src/right_main.php 131 2819764 1 13
+/email/src/read_body.php 79 887642 2 4
+/email/src/compose.php 65 985847 0 0
+/email/src/left_main.php 60 269212 0 0
+/email/plugins/check_quota/images/gd_bar.php 58 5780 0 4
+/email/src/login.php 41 180359 22 1
+/email/src/webmail.php 40 16840 0 0
+/email/src/download.php 36 27169374 2 2
+/email/plugins/html_mail/fckeditor/editor/ 25 59944 0 1
+/ 19 165965 19 4
+/email/plugins/html_mail/fckeditor/editor/fckblank.html 18 720 0 1
+/email/plugins/html_mail/fckeditor/editor/fckeditor.html 18 29520 0 0
+/email/plugins/html_mail/fckeditor/fckstyles.xml 17 18337 0 0
+/escola/1.html 13 9451 0 0
+/escola/mae.html 12 19740 0 1
+/escola/paginafoto15.html 9 3915 0 1
+/escola/paginafoto7.html 8 3472 0 0
+/escola/paginafoto14.html 7 3150 0 0
+/escola/paginafoto22a.html 7 3038 0 1
+/escola/paginafoto6.html 7 3038 0 0
+/email/src/image.php 6 23436 0 0
+/escola/final%20de%20ano.html 6 5994 0 4
+/escola/paginafoto8.html 6 2604 0 0
+/escola/paginafoto2b.html 5 2170 0 0
+/escola/paginafoto26a.html 5 2175 0 0
+/email/plugins/check_quota/images/gd_bar.php 2 198 0 1
+/escola/paginafoto13.html 4 1740 0 0
+/casamento/paginafotoalbum.html 1 449 0 0
+/casamento/paginafoto7.html 1 718 0 0
+/igreja/2.html 1 502 0 0
+/escola/paginafoto12.html 3 1305 0 1
+/email/src/view_text.php 1 5538 0 0
+/igreja/1.html 2 1132 0 0
+/aniversario/aniversario.html 3 4752 0 1
+/email/src/redirect.php 1 1240 0 0
+/casamento/paginacasamento.html 3 6144 0 1
+/email.html 3 15873 0 1
+/casamento/paginafotolembranca2.html 1 496 0 0
+/escola/paginafoto27.html 4 1800 0 1
+/escola/paginafoto24a.html 3 1305 0 0
+/mensagem.html 1 881 0 1
+/escola/paginafoto25a.html 4 1740 0 0
+/escola/paginafoto19.html 1 435 0 0
+/escola/paginafoto23a.html 5 2175 0 1
+END_SIDER

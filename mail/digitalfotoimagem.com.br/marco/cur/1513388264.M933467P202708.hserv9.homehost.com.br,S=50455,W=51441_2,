@@ -1,0 +1,986 @@
+Return-Path: <ctt3843@egoshi.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br with LMTP id wFOCN+h4NFrUFwMAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Fri, 15 Dec 2017 23:37:44 -0200
+Return-path: <ctt3843@egoshi.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Fri, 15 Dec 2017 23:37:44 -0200
+Received: from mxgw3.sili.com.br ([200.170.82.213]:62241 helo=mxgw.sili.com.br)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89_1)
+	(envelope-from <ctt3843@egoshi.com.br>)
+	id 1eQ1Q7-000s11-Vy
+	for marco@digitalfotoimagem.com.br; Fri, 15 Dec 2017 23:37:44 -0200
+Received: from plsk7.com.br ([138.97.105.160])
+        by mxgw.sili.com.br (IceWarp 12.0.2.1 x64) with ESMTP (SSL) id 201712152336483731;
+        Fri, 15 Dec 2017 23:36:48 -0200
+Received: from EgoshiCOREi3 (unknown [177.9.156.254])
+	by plsk7.com.br (Postfix) with ESMTPA id A5902466B8;
+	Fri, 15 Dec 2017 23:36:45 -0200 (-02)
+From: "Egoshi da CTT3843" <ctt3843@egoshi.com.br>
+To: "'Egoshi da CTT3843'" <ctt3843@egoshi.com.br>,
+	"'Jair Airton Felix'" <j.felix10@bol.com.br>,
+	"'Andre Luis Pereira de Godoi'" <andrelpgodoi@gmail.com>,
+	"'Antonio  Finardi'" <ma.finardi@hotmail.com>,
+	"'Antonio Celso Tessari'" <celsotessari@gmail.com>,
+	"'Antonio Kossei Takara'" <takar2@terra.com.br>,
+	=?iso-8859-1?Q?'Benedito_Carlos_Flam=EDnio'?= <carlos.flaminio@gmail.com>, 
+	"'Carlos Mave de Campos Assis'" <cmave96@gmail.com>,
+	=?iso-8859-1?Q?'Carlos_Rosseti_=28Kak=E1=29'?=
+	<carlos.rossetti@uol.com.br>, 
+	=?iso-8859-1?Q?'Dem=E9trio_Muniz_Pendek'?= <demetriopendek@hotmail.com>,
+	"'Eduardo Camacho'" <eduardocamacho@uol.com.br>,
+	"'Eduardo Lopes'" <ebernardinolopes@uol.com.br>,
+	"'Ernani Flausino'" <ernani.flausino@terra.com.br>,
+	"'Everth Alves Bonavolonta'" <everth@mixlav.com.br>,
+	=?iso-8859-1?Q?'F=E1bio_Roberto_Faria'?= <szfaria@gmail.com>,
+	"'Fernando Ziesmann Fortes'" <fernandozf@hotmail.com>,
+	"'Gilberto Campos'" <gdcampos@uol.com.br>,
+	=?iso-8859-1?Q?'H=E9lio_Alvarez_Felix'?= <helioamandara@uol.com.br>,
+	"'Hideraldo Rodrigues Gomes'" <enghgomes@gmail.com>,
+	"'Humberto de Oliveira Serrano'" <humberto.serrano@hotmail.com>,
+	"'Jair Airton Felix'" <j.felix10@bol.com.br>,
+	"'Johannes Kozlowski'" <jkozlowski@uol.com.br>,
+	=?iso-8859-1?Q?'Jos=E9_Carlos_de_Lima'?= <jcl@tech-air.com.br>,
+	=?iso-8859-1?Q?'J=FAlio_Cesar_Mattos_de_Faria'?=
+	<mattosfaria@terra.com.br>, 
+	"'Marcelo Eloy Fernandes'" <marceloeloyfernandes@gmail.com>,
+	"'Marcilio Marques Testa'" <mmtesta43@gmail.com>,
+	"'Marco Antonio Patriniani'" <marckopat@live.com>,
+	=?iso-8859-1?Q?'Marco_Ant=F4nio_Pedrosa_Parise'?=
+	<marco@digitalfotoimagem.com.br>, 
+	"'Marcus Welbi'" <marcuswelbi@crivodarazao.org.br>,
+	"'Natanael Costa'" <ncosta@usa.com>,
+	"'Nelson Pendek'" <nelpendek@hotmail.com>,
+	"'Ricardo C. A. Carvalho'" <ricardocarvalho930@gmail.com>,
+	=?iso-8859-1?Q?'Sebasti=E3o_Rubens_Costa'?= <rubens@linart.com.br>,
+	"'Silvio Verdiani'" <sverdiani@terra.com.br>,
+	"'Sylvio Quintino Junior'" <squintinoj@gmail.com>,
+	"'Wanderley Santana dos Santos'" <wanderleyssamtos@gmail.com>,
+	"'Wellington Alfano Rodrigues Silva'" <alfanohi@gmail.com>,
+	"'Wladimir Viveiro'" <wviveiro@live.com>,
+	=?iso-8859-1?Q?'S=E9rgio_Fosque'?= <sergio@aresultado.adm.br>,
+	=?iso-8859-1?Q?'Andr=E9_Rivail_Medrado_'?= <professor@medrado.adv.br>, 
+	"'Alexandre Dellamura Sarmento '" <dellamura@uol.com.br>,
+	"'Everth Alves Bonavolonta'" <everth@mixlav.com.br>,
+	"'Humberto de Oliveira Serrano'" <humberto.serrano@hotmail.com>,
+	"'Antonio Kossei Takara'" <takar2@terra.com.br>,
+	<luiz.cruz@teleperformance.com>,
+	"'Marcilio Marques Testa'" <mmtesta43@gmail.com>,
+	"'Luiz Eduardo Cruz'" <luiz.cruz@teleperformance.com>
+References: <005501d30c0a$390dac40$ab2904c0$@com.br>	<003501d375a7$494d5770$dbe80650$@com.br>
+	<010d01d375f1$4c13cad0$e43b6070$@com.br> 
+In-Reply-To: 
+Subject: =?iso-8859-1?Q?Festa_de_Confraterniza=E7=E3o_da_CTT3843_-_Quem_Antes_Ch?=
+	=?iso-8859-1?Q?egar=2C_Escolhe_o_Lugar_e_a_Mesa?=
+Date: Fri, 15 Dec 2017 23:36:45 -0200
+Message-ID: <014101d3760e$56ebccb0$04c36610$@com.br>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0142_01D375FD.9362FCB0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdMH64fab5v1DYr0QlaJPktm0+74ZgEE/iFgAAKxEkABc4g9MAHiWPxAB61N+9AFF+og0AAyQSVAAMOWFyACcuzp8AAKBDwwBItEJoACSorv8AADdiogAAicR3AAAbNfsAAIOSsgAAWOpkAAAO8+QA==
+Content-Language: pt-br
+X-MS-TNEF-Correlator: 000000009002D793406ADB46BEA81707F94EFC26041D6A00
+X-Antivirus: Avast (VPS 171215-2, 15/12/2017), Outbound message
+X-Antivirus-Status: Clean
+X-PPP-Message-ID: <20171216013649.3107.56881@plsk7.com.br>
+X-PPP-Vhost: egoshi.com.br
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0142_01D375FD.9362FCB0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Quem Antes Chegar, Escolhe o Lugar e a Mesa.
+
+ 
+
+Determina=E7=E3o do Ven\ M\.
+
+ 
+
+Egoshi 
+
+ 
+
+De: Egoshi da CTT3843 [mailto:ctt3843@egoshi.com.br] 
+Enviada em: sexta-feira, 15 de dezembro de 2017 23:11
+Para: 'Egoshi da CTT3843'; 'Jair Airton Felix'; 'Andre Luis Pereira de
+Godoi'; 'Antonio Finardi'; 'Antonio Celso Tessari'; 'Antonio Kossei Takara'=
+;
+'Benedito Carlos Flam=EDnio'; 'Carlos Mave de Campos Assis'; 'Carlos Rosset=
+i
+(Kak=E1)'; 'Dem=E9trio Muniz Pendek'; 'Eduardo Camacho'; 'Eduardo Lopes';
+'Ernani Flausino'; 'Everth Alves Bonavolonta'; 'F=E1bio Roberto Faria';
+'Fernando Ziesmann Fortes'; 'Gilberto Campos'; 'H=E9lio Alvarez Felix';
+'Hideraldo Rodrigues Gomes'; 'Humberto de Oliveira Serrano'; 'Jair Airton
+Felix'; 'Johannes Kozlowski'; 'Jos=E9 Carlos de Lima'; 'J=FAlio Cesar Matto=
+s de
+Faria'; 'Marcelo Eloy Fernandes'; 'Marcilio Marques Testa'; 'Marco Antonio
+Patriniani'; 'Marco Ant=F4nio Pedrosa Parise'; 'Marcus Welbi'; 'Natanael
+Costa'; 'Nelson Pendek'; 'Ricardo C. A. Carvalho'; 'Sebasti=E3o Rubens Cost=
+a';
+'Silvio Verdiani'; 'Sylvio Quintino Junior'; 'Wanderley Santana dos Santos'=
+;
+'Wellington Alfano Rodrigues Silva'; 'Wladimir Viveiro'; 'S=E9rgio Fosque';=
+
+'Andr=E9 Rivail Medrado '; 'Alexandre Dellamura Sarmento '; 'Everth Alves
+Bonavolonta'; 'Humberto de Oliveira Serrano'; 'Antonio Kossei Takara';
+'luiz.cruz@teleperformance.com'; 'Marcilio Marques Testa'; 'Luiz Eduardo
+Cruz'
+Assunto: RES: Lista de Irm=E3os & Convidados que ir=E3o transformar a
+Confraterniza=E7=E3o em uma Festa de Arromba da CTT3843 - Vers=E3o 4.0
+
+ 
+
+Segue vers=E3o 4.0, =FAltima.
+
+ 
+
+Egoshi 
+
+ 
+
+ 
+
+De: Egoshi da CTT3843 [mailto:ctt3843@egoshi.com.br] 
+Enviada em: sexta-feira, 15 de dezembro de 2017 20:09
+Para: 'Egoshi da CTT3843'; 'Jair Airton Felix'; 'Andre Luis Pereira de
+Godoi'; 'Antonio Finardi'; 'Antonio Celso Tessari'; 'Antonio Kossei Takara'=
+;
+'Benedito Carlos Flam=EDnio'; 'Carlos Mave de Campos Assis'; 'Carlos Rosset=
+i
+(Kak=E1)'; 'Dem=E9trio Muniz Pendek'; 'Eduardo Camacho'; 'Eduardo Lopes';
+'Ernani Flausino'; 'Everth Alves Bonavolonta'; 'F=E1bio Roberto Faria';
+'Fernando Ziesmann Fortes'; 'Gilberto Campos'; 'H=E9lio Alvarez Felix';
+'Hideraldo Rodrigues Gomes'; 'Humberto de Oliveira Serrano'; 'Jair Airton
+Felix'; 'Johannes Kozlowski'; 'Jos=E9 Carlos de Lima'; 'J=FAlio Cesar Matto=
+s de
+Faria'; 'Marcelo Eloy Fernandes'; 'Marcilio Marques Testa'; 'Marco Antonio
+Patriniani'; 'Marco Ant=F4nio Pedrosa Parise'; 'Marcus Welbi'; 'Natanael
+Costa'; 'Nelson Pendek'; 'Ricardo C. A. Carvalho'; 'Sebasti=E3o Rubens Cost=
+a';
+'Silvio Verdiani'; 'Sylvio Quintino Junior'; 'Wanderley Santana dos Santos'=
+;
+'Wellington Alfano Rodrigues Silva'; 'Wladimir Viveiro'; 'S=E9rgio Fosque';=
+
+'Andr=E9 Rivail Medrado '; 'Alexandre Dellamura Sarmento '; 'Everth Alves
+Bonavolonta'; 'Humberto de Oliveira Serrano'; 'Antonio Kossei Takara';
+luiz.cruz@teleperformance.com; 'Marcilio Marques Testa'; 'Luiz Eduardo Cruz=
+'
+Assunto: RES: Lista de Irm=E3os & Convidados que ir=E3o transformar a
+Confraterniza=E7=E3o em uma Festa de Arromba da CTT3843
+
+ 
+
+Segue vers=E3o 3.0, considerando =FAltimas exclus=F5es e inclus=F5es.
+
+ 
+
+Egoshi 
+
+ 
+
+ 
+
+De: Egoshi da CTT3843 [mailto:ctt3843@egoshi.com.br] 
+Enviada em: sexta-feira, 15 de dezembro de 2017 16:13
+Para: 'Egoshi da CTT3843'; 'Jair Airton Felix'; 'Andre Luis Pereira de
+Godoi'; 'Antonio Finardi'; 'Antonio Celso Tessari'; 'Antonio Kossei Takara'=
+;
+'Benedito Carlos Flam=EDnio'; 'Carlos Mave de Campos Assis'; 'Carlos Rosset=
+i
+(Kak=E1)'; 'Dem=E9trio Muniz Pendek'; 'Eduardo Camacho'; 'Eduardo Lopes';
+'Ernani Flausino'; 'Everth Alves Bonavolonta'; 'F=E1bio Roberto Faria';
+'Fernando Ziesmann Fortes'; 'Gilberto Campos'; 'H=E9lio Alvarez Felix';
+'Hideraldo Rodrigues Gomes'; 'Humberto de Oliveira Serrano'; 'Jair Airton
+Felix'; 'Johannes Kozlowski'; 'Jos=E9 Carlos de Lima'; 'J=FAlio Cesar Matto=
+s de
+Faria'; 'Marcelo Eloy Fernandes'; 'Marcilio Marques Testa'; 'Marco Antonio
+Patriniani'; 'Marco Ant=F4nio Pedrosa Parise'; 'Marcus Welbi'; 'Natanael
+Costa'; 'Nelson Pendek'; 'Ricardo C. A. Carvalho'; 'Sebasti=E3o Rubens Cost=
+a';
+'Silvio Verdiani'; 'Sylvio Quintino Junior'; 'Wanderley Santana dos Santos'=
+;
+'Wellington Alfano Rodrigues Silva'; 'Wladimir Viveiro'; 'S=E9rgio Fosque';=
+
+'Andr=E9 Rivail Medrado '; 'Alexandre Dellamura Sarmento '; 'Everth Alves
+Bonavolonta'; 'Humberto de Oliveira Serrano'; 'Antonio Kossei Takara';
+'luiz.cruz@teleperformance.com'; 'Marcilio Marques Testa'; 'Luiz Eduardo
+Cruz'
+Assunto: RES: Lista de Irm=E3os & Convidados que ir=E3o transformar a
+Confraterniza=E7=E3o em uma Festa de Arromba da CTT3843
+
+ 
+
+Segue vers=E3o mais recente, considerando o adendo do Luiz Eduardo.
+
+ 
+
+Egoshi 
+
+ 
+
+De: Egoshi da CTT3843 [mailto:ctt3843@egoshi.com.br] 
+Enviada em: sexta-feira, 15 de dezembro de 2017 15:44
+Para: 'Egoshi da CTT3843'; 'Jair Airton Felix'; 'Andre Luis Pereira de
+Godoi'; 'Antonio Finardi'; 'Antonio Celso Tessari'; 'Antonio Kossei Takara'=
+;
+'Benedito Carlos Flam=EDnio'; 'Carlos Mave de Campos Assis'; 'Carlos Rosset=
+i
+(Kak=E1)'; 'Dem=E9trio Muniz Pendek'; 'Eduardo Camacho'; 'Eduardo Lopes';
+'Ernani Flausino'; 'Everth Alves Bonavolonta'; 'F=E1bio Roberto Faria';
+'Fernando Ziesmann Fortes'; 'Gilberto Campos'; 'H=E9lio Alvarez Felix';
+'Hideraldo Rodrigues Gomes'; 'Humberto de Oliveira Serrano'; 'Jair Airton
+Felix'; 'Johannes Kozlowski'; 'Jos=E9 Carlos de Lima'; 'J=FAlio Cesar Matto=
+s de
+Faria'; 'Marcelo Eloy Fernandes'; 'Marcilio Marques Testa'; 'Marco Antonio
+Patriniani'; 'Marco Ant=F4nio Pedrosa Parise'; 'Marcus Welbi'; 'Natanael
+Costa'; 'Nelson Pendek'; 'Ricardo C. A. Carvalho'; 'Sebasti=E3o Rubens Cost=
+a';
+'Silvio Verdiani'; 'Sylvio Quintino Junior'; 'Wanderley Santana dos Santos'=
+;
+'Wellington Alfano Rodrigues Silva'; 'Wladimir Viveiro'; 'S=E9rgio Fosque';=
+
+'Andr=E9 Rivail Medrado '; 'Alexandre Dellamura Sarmento '; 'Everth Alves
+Bonavolonta'; 'Humberto de Oliveira Serrano'; 'Antonio Kossei Takara';
+'luiz.cruz@teleperformance.com'; 'Marcilio Marques Testa'; 'Luiz Eduardo
+Cruz'
+Assunto: Lista de Irm=E3os & Convidados que ir=E3o transformar a
+Confraterniza=E7=E3o em uma Festa de Arromba da CTT3843
+
+ 
+
+Por enquanto, s=F3 62 (sessenta e dois).  At=E9 =E0 noite deve somar mais g=
+ente.
+
+ 
+
+Se forem mais uns 10 fora dessa lista, vai lotar o restaurante.
+
+ 
+
+Quem levar crian=E7as at=E9 10 anos, favor informar (crian=E7as at=E9 5 ano=
+s n=E3o
+pagam e de 6 a 10, pagam 50%).
+
+ 
+
+Confira!
+
+ 
+
+Egoshi 
+
+ 
+
+ 
+
+De: Egoshi da CTT3843 [mailto:ctt3843@egoshi.com.br] 
+Enviada em: sexta-feira, 15 de dezembro de 2017 11:19
+Para: 'Egoshi da CTT3843'; 'Jair Airton Felix'; 'Andre Luis Pereira de
+Godoi'; 'Antonio Finardi'; 'Antonio Celso Tessari'; 'Antonio Kossei Takara'=
+;
+'Benedito Carlos Flam=EDnio'; 'Carlos Mave de Campos Assis'; 'Carlos Rosset=
+i
+(Kak=E1)'; 'Dem=E9trio Muniz Pendek'; 'Eduardo Camacho'; 'Eduardo Lopes';
+'Ernani Flausino'; 'Everth Alves Bonavolonta'; 'F=E1bio Roberto Faria';
+'Fernando Ziesmann Fortes'; 'Gilberto Campos'; 'H=E9lio Alvarez Felix';
+'Hideraldo Rodrigues Gomes'; 'Humberto de Oliveira Serrano'; 'Jair Airton
+Felix'; 'Johannes Kozlowski'; 'Jos=E9 Carlos de Lima'; 'J=FAlio Cesar Matto=
+s de
+Faria'; 'Marcelo Eloy Fernandes'; 'Marcilio Marques Testa'; 'Marco Antonio
+Patriniani'; 'Marco Ant=F4nio Pedrosa Parise'; 'Marcus Welbi'; 'Natanael
+Costa'; 'Nelson Pendek'; 'Ricardo C. A. Carvalho'; 'Sebasti=E3o Rubens Cost=
+a';
+'Silvio Verdiani'; 'Sylvio Quintino Junior'; 'Wanderley Santana dos Santos'=
+;
+'Wellington Alfano Rodrigues Silva'; 'Wladimir Viveiro'; 'S=E9rgio Fosque';=
+
+Andr=E9 Rivail Medrado ; 'Alexandre Dellamura Sarmento '; 'Everth Alves
+Bonavolonta'; 'Humberto de Oliveira Serrano'; 'Antonio Kossei Takara';
+luiz.cruz@teleperformance.com; 'Marcilio Marques Testa'; Luiz Eduardo Cruz
+Assunto: RES: Convite ao Almo=E7o de Confraterniza=E7=E3o da CTT3843 no
+Restaurante Ed Carnes - Vers=E3o em PowerPoint
+
+ 
+
+Vers=E3o Original em PowerPoint, pra quem n=E3o tem Leitor de PDF (Acrobat
+Reader) instalado.
+
+ 
+
+De: Egoshi da CTT3843 [mailto:ctt3843@egoshi.com.br] 
+Enviada em: sexta-feira, 15 de dezembro de 2017 09:54
+Para: 'Egoshi da CTT3843'; 'Jair Airton Felix'; 'Andre Luis Pereira de
+Godoi'; 'Antonio Finardi'; 'Antonio Celso Tessari'; 'Antonio Kossei Takara'=
+;
+'Benedito Carlos Flam=EDnio'; 'Carlos Mave de Campos Assis'; 'Carlos Rosset=
+i
+(Kak=E1)'; 'Dem=E9trio Muniz Pendek'; 'Eduardo Camacho'; 'Eduardo Lopes';
+'Ernani Flausino'; 'Everth Alves Bonavolonta'; 'F=E1bio Roberto Faria';
+'Fernando Ziesmann Fortes'; 'Gilberto Campos'; 'H=E9lio Alvarez Felix';
+'Hideraldo Rodrigues Gomes'; 'Humberto de Oliveira Serrano'; 'Jair Airton
+Felix'; 'Johannes Kozlowski'; 'Jos=E9 Carlos de Lima'; 'J=FAlio Cesar Matto=
+s de
+Faria'; 'Marcelo Eloy Fernandes'; 'Marcilio Marques Testa'; 'Marco Antonio
+Patriniani'; 'Marco Ant=F4nio Pedrosa Parise'; 'Marcus Welbi'; 'Natanael
+Costa'; 'Nelson Pendek'; 'Ricardo C. A. Carvalho'; 'Sebasti=E3o Rubens Cost=
+a';
+'Silvio Verdiani'; 'Sylvio Quintino Junior'; 'Wanderley Santana dos Santos'=
+;
+'Wellington Alfano Rodrigues Silva'; 'Wladimir Viveiro'; 'S=E9rgio Fosque';=
+
+Andr=E9 Rivail Medrado ; 'Alexandre Dellamura Sarmento '; 'Everth Alves
+Bonavolonta'; 'Humberto de Oliveira Serrano'; 'Antonio Kossei Takara';
+'luiz.cruz@teleperformance.com'; 'Marcilio Marques Testa'; Luiz Eduardo Cru=
+z
+Assunto: Convite ao Almo=E7o de Confraterniza=E7=E3o da CTT3843 no Restaura=
+nte Ed
+Carnes
+
+ 
+
+PPrez\ IIr\:
+
+ 
+
+Segue Convite com todas as principais informa=E7=F5es necess=E1rias, para a=
+ nossa
+grande confraterniza=E7=E3o de amanh=E3, 16/12/2017, =E0s 11:30 horas.
+
+ 
+
+Fraternalmente
+
+ 
+
+Fernando & Egoshi
+
+ 
+
+ 
+
+De: Egoshi da CTT3843 [mailto:ctt3843@egoshi.com.br] 
+Enviada em: segunda-feira, 4 de dezembro de 2017 00:02
+Para: 'Egoshi da CTT3843'; 'Jair Airton Felix'; 'Andre Luis Pereira de
+Godoi'; 'Antonio Finardi'; 'Antonio Celso Tessari'; 'Antonio Kossei Takara'=
+;
+'Benedito Carlos Flam=EDnio'; 'Carlos Mave de Campos Assis'; 'Carlos Rosset=
+i
+(Kak=E1)'; 'Dem=E9trio Muniz Pendek'; 'Eduardo Camacho'; 'Eduardo Lopes';
+'Ernani Flausino'; 'Everth Alves Bonavolonta'; 'F=E1bio Roberto Faria';
+'Fernando Ziesmann Fortes'; 'Gilberto Campos'; 'H=E9lio Alvarez Felix';
+'Hideraldo Rodrigues Gomes'; 'Humberto de Oliveira Serrano'; 'Jair Airton
+Felix'; 'Johannes Kozlowski'; 'Jos=E9 Carlos de Lima'; 'J=FAlio Cesar Matto=
+s de
+Faria'; 'Marcelo Eloy Fernandes'; 'Marcilio Marques Testa'; 'Marco Antonio
+Patriniani'; 'Marco Ant=F4nio Pedrosa Parise'; 'Marcus Welbi'; 'Natanael
+Costa'; 'Nelson Pendek'; 'Ricardo C. A. Carvalho'; 'Sebasti=E3o Rubens Cost=
+a';
+'Silvio Verdiani'; 'Sylvio Quintino Junior'; 'Wanderley Santana dos Santos'=
+;
+'Wellington Alfano Rodrigues Silva'; 'Wladimir Viveiro'; 'S=E9rgio Fosque';=
+
+Andr=E9 Rivail Medrado ; 'Alexandre Dellamura Sarmento '; 'Everth Alves
+Bonavolonta'; 'Humberto de Oliveira Serrano'; 'Antonio Kossei Takara';
+'luiz.cruz@teleperformance.com'; 'Marcilio Marques Testa'; Luiz Eduardo Cru=
+z
+Assunto: Festa de Arromba da CTT3843 no Restaurante Ed Carnes - 1 
+
+ 
+
+PPrez\ IIr\:
+
+ 
+
+No dia 11/11/2017, n=F3s da CTT3843 resolvemos nos confraternizar no
+Restaurante Ed Carnes.
+
+ 
+
+Assim decidido, desde ent=E3o estamos c=E1 nos organizando e preparando o e=
+spa=E7o
+no restaurante, para curtirmos a nossa grande confraterniza=E7=E3o no dia
+16/12/2017, das 11 =E0s 16 horas, com nossas fam=EDlias, parentes e amigos.=
+
+
+ 
+
+Continuando essa organiza=E7=E3o para preparar o espa=E7o no restaurante, =
+=E9
+necess=E1rio que cada Ir\ nos preencha a ficha anexa e nos devolva preenchi=
+da,
+para previamente determinarmos a quantidade de lugares a serem confirmadas.=
+
+Se o Ir\ preferir, pode preencher online a mesma ficha, no endere=E7o Inter=
+net
+<https://docs.google.com/forms/d/e/1FAIpQLSfbqBS3P_DIGQ-ffgeZZs3-O5HsqotUWZ=
+q
+H3vwpUPaXPiWMAw/viewform>. 
+
+ 
+
+Solicitamos que cada Ir\ nos preencha essa ficha o mais r=E1pido poss=EDvel=
+ at=E9
+a pr=F3xima 6=AA-feira, dia 08/12/2017. Para que no s=E1bado de 09/12/2017,=
+
+possamos confirmar ao restaurante a quantidade mais exata poss=EDvel de
+lugares a serem reservadas (e outras provid=EAncias a serem tomadas).
+
+ 
+
+De antem=E3o, informamos que os IIr\ Fernando e Egoshi estiveram no dia
+25/11/2017 no Restaurante Ed Carnes, para antecipadamente reservar 40
+lugares e tratar de detalhes do evento.
+
+ 
+
+Adicionalmente informamos:
+
+ 
+
+1 - que o valor por pessoa =E9 aquele mesmo proposto, de R$ 45,00, conforme=
+
+anexo;
+
+ 
+
+2 - que crian=E7as at=E9 5 anos n=E3o pagam e de 6 a 10, pagam 50%;
+
+ 
+
+3 - que  h=E1 estacionamento no local - na pr=F3xima mensagem informaremos =
+sobre
+o mesmo, em detalhes.
+
+ 
+
+Demais informa=E7=F5es e detalhes prestaremos na pr=F3xima mensagem. At=E9 =
+l=E1, para
+dirimir d=FAvidas e prestar esclarecimentos, estaremos ao dispor dos IIr\, =
+por
+este e-mail e grupo de Whatsapp "CTT chancelaria".    
+
+ 
+
+RSVP
+
+(r=E9pondez s'il vous pla=EEt =3D responda por favor)
+
+ 
+
+Fraternalmente
+
+ 
+
+Fernando & Egoshi
+
+ 
+
+ 
+
+De: Egoshi da CTT3843 [mailto:ctt3843@egoshi.com.br] 
+Enviada em: sexta-feira, 10 de novembro de 2017 16:02
+Para: 'Egoshi da CTT3843'; 'Jair Airton Felix'; 'Andre Luis Pereira de
+Godoi'; 'Antonio Finardi'; 'Antonio Celso Tessari'; 'Antonio Kossei Takara'=
+;
+'Benedito Carlos Flam=EDnio'; 'Carlos Mave de Campos Assis'; 'Carlos Rosset=
+i
+(Kak=E1)'; 'Dem=E9trio Muniz Pendek'; 'Eduardo Camacho'; 'Eduardo Lopes';
+'Ernani Flausino'; 'Everth Alves Bonavolonta'; 'F=E1bio Roberto Faria';
+'Fernando Ziesmann Fortes'; 'Gilberto Campos'; 'H=E9lio Alvarez Felix';
+'Hideraldo Rodrigues Gomes'; 'Humberto de Oliveira Serrano'; 'Jair Airton
+Felix'; 'Johannes Kozlowski'; 'Jos=E9 Carlos de Lima'; 'J=FAlio Cesar Matto=
+s de
+Faria'; 'Marcelo Eloy Fernandes'; 'Marcilio Marques Testa'; 'Marco Antonio
+Patriniani'; 'Marco Ant=F4nio Pedrosa Parise'; 'Marcus Welbi'; 'Natanael
+Costa'; 'Nelson Pendek'; 'Ricardo C. A. Carvalho'; 'Sebasti=E3o Rubens Cost=
+a';
+'Silvio Verdiani'; 'Sylvio Quintino Junior'; 'Wanderley Santana dos Santos'=
+;
+'Wellington Alfano Rodrigues Silva'; 'Wladimir Viveiro'; 'S=E9rgio Fosque';=
+
+Andr=E9 Rivail Medrado ; 'Alexandre Dellamura Sarmento '; 'Everth Alves
+Bonavolonta'; 'Humberto de Oliveira Serrano'; 'Antonio Kossei Takara';
+'luiz.cruz@teleperformance.com'; 'Marcilio Marques Testa'
+Assunto: Festa de Confraterniza=E7=E3o da CTT3843 no Ed Carlos
+
+ 
+
+Meus PPrez\ IIr\:
+
+ 
+
+Proponho um Almo=E7o de Confraterniza=E7=E3o no S=E1bado Dia 16/12/2017, en=
+tre n=F3s,
+nossos familiares e amigos, no Restaurante Ed Carnes do meu amigo Ed Carlos=
+,
+cantor da Jovem Guarda.
+
+ 
+
+Dentre alguns atrativos do Ed Carnes, temos:
+
+ 
+
+1 - Pre=E7o bem em conta de R$ 45,00 por pessoa - incluindo almo=E7o =E0 vo=
+ntade
+com =E1gua e refrigerante, exceto bebidas alco=F3licas e sucos;
+
+ 
+
+2 - Card=E1pio Bem Brasileiro (como Feijoada, Rabada, Bisteca e Churrasco),=
+
+variado e extenso,  com 30 tipos de pratos quentes e 30 tipos de saladas,
+folhas e legumes;
+
+ 
+
+3 - M=FAsica ao Vivo com  <https://www.youtube.com/watch?v=3D1kXU_jws7nc>
+Marquinhos Oi <clique aqui e curta Marquinhos Oi cantando Roberta
+<https://www.youtube.com/watch?v=3D1kXU_jws7nc> >;  
+
+ 
+
+4 - Endere=E7o F=E1cil e Acess=EDvel a Todos, l=E1 no tradicional bairro do=
+ Cambuci;
+
+ 
+
+5 -Ambiente Bem Familiar e Aconchegante a Adultos e Crian=E7as;
+
+ 
+
+6 - O =FAnico trabalho ser=E1 o de ir l=E1 passear e degustar uma gostosa c=
+omida
+tipicamente brasileira, e o que =E9 ainda melhor, curtir o Mais Aconchegant=
+e
+=C1gape Fraternal, ao lado de IIr\, Familiares e Amigos!!!
+
+ 
+
+Fraternalmente por 3 Vezes
+
+ 
+
+RSVP
+
+ 
+
+IIr\ Koiti Egoshi
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+---
+Este email foi escaneado pelo Avast antiv=EDrus.
+https://www.avast.com/antivirus
+
+------=_NextPart_000_0142_01D375FD.9362FCB0
+Content-Type: application/ms-tnef;
+	name="winmail.dat"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="winmail.dat"
+
+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
+XzOfRK81uHIP/3MZTbFloFr3m+FCD0MfRC//RT9GT6aUVuFaADEBn99JH+ElhlJFUzp5QTwxYxCk
+IGFlIm1vbQE3QRO9rRFmkKBjEF1AIcBhrgL/fQQmeYQic1KKoVCAVlBa8PtUEmvCLX7CbPJ9MTyg
+R6D/bEAI0LMwgCH2j/ef+48aj38bn/6//88A36a/Av+kgzD9DmEvBIyfL75Pv1/Abw5f/w9vwt+0
+X/gf+S/GT7W/uY//up+7r7y/7t/EX8Vvz18gP+/0L9NP1FKyaE9nIU/RMAC7swtAIHBOUXLxC4Bu
+fQR7YxALgEw/4AkAalBWQVD5CfEoQZvQYMB40LDRCpC5CNApIJZi0xCJMS7G7//H/7X/tw+4H7kv
+zW/Of9Rf/9Cf0a/Sv9PP1N/V79b/64//3w/Ib8l/yo/gb+F/4o/jn//kr+W/8//n3wO/7u/7nwbv
+/wf/CQ8KHwsv/n//j+l/6o//Bq+nf6iPCq8gnyGvIr8jz/8JnxoP9t/Cj6pfFW8Wfw4//w9PEF8R
+bxJ/Jb8mz5GfMO//Kf+VT5ZfIn8uP5oPMF8nf/8yf55fGN81r6Q/pU8uHwsvfww/PA8W/y1/Pz9A
+T0FUMPA5OjU0MC8xPzJPM1//NG9HXzbvN/9Kj0ufTK9Nv/9Oz0/fUO+Pb1MPVB9VL1Y//1dPWF9Z
+b1p/W49cn12vjA//X89g32HvYv9kD2UfZi9nP/+Nn2lfRf9rf2yPbZ9ur2+//3DPcd9y73P/dQ92
+H3cveD//eU96X3tvfH99j36ff6+Av/+Bz4Lfg++E/4YPhx+IL4k//4pPi19Yz2Hfjo9L30zkm4//
+lAprr6Ivoz88Dz0fPi8/P/9AT6mfQj9DT60fri+vP7BP/7Fc8D/xT/U/FD8VT/hv+X//+o+SL/yv
+wT+h78CfqG+pf/8HnwivCb+db5//8m/zf57P/8xPo6+kv7Rvpt+tb6537XYLXMA5QC1oYWduOmrz
+V4BR4GZ5Hj+475MfDH/9v+11wOspq8J/7T/uT77s/FBQXzGgT6FfxJ/KCcOK/8uvlf/Nz8UvwM/Q
+38Lvw/+/0/8aLxxIeUCHQMcQO8cP+8gfouFczu/Kr9ZP11/Gv/Parx82SUm4cdxv3X/ej//M7+Uv
+zw/nT+hf0j/TT9Rf/9Vv7X/fr9if2a/hr9vP4+//6h/on+cf+E/pP/pv8M/gP//0H78KlYyxP7Uv
++1/3H6Jv/7avt7/9b7nfuu+uTwDv/e///v8ADw6/Aj+xr7K/s88Dn/8UzwW/Bs8H3wjvCf8LDwwf
+/w0vEk8e/xBfEW8i7xwQYyD3YPGYJyvRIGlANiBpYClx/nBukYzwHMBHgX0gi8OahPxmNYYBTWBq
+cCHwUlJbAX5zOdAcwTYwNjBXsEshIP5nY1FP8SXgmd+a45iRXEEGaHayOdE2LzEyLzc7EjnQZrEw
+aWCQMDoz5xwQVXBM4HMuE68Uvxiv/xm/Gs8b3xzvHf8j3yAfIS//Ij8jTyRfJW8mfz8PMo8VL/8W
+PxdPM+80/zYPNx84Lzk/30d/O188b7vsvYM9anCcgXtkALzPOlM0Qk9L7EcQcb5j7/9AD0EfQi9X
+hkYuJP8+IITCkZFD30lPSN9J70r//0wPTR9OL08/UE9RX1JvU3//VI9Vn1avZW9Yz1nfa89Dn/9d
+70W/Rs9yT19PYF9hb2J//2OPZJ9lr2a/Z89o32nvav//bA9tH33fbz9wT4Q/XABcUl8toJlgc+8v
+gHUqJuJ5RfJnLSBoaXJ/c493f3iP/3mfeq97v3zPho9+73//Pc//ca+HD4gfiS+bb47vc/91D/92
+H5BPkV+Sb5N/lI+Vn6Pf/5e/mM+Z357/m/+dD54fr5//oD+lr6Jfo2+kf6WPpp+nr1+ov6nPqt+r
+77pdNvxAZHxpdrM/v+/CRrHW82Byry9QspAtECugO8XkLSlADHA6rqCBoGQgI0IgNUM0REYwIC4w
+KHB0O72wZMKQbmfjMXDIQiAwYykgyXWzL//Dz62/rs/K7+uf7K/O7/GPhfKRcy6AZToxMMhDMfJ6
+IlRhMbDNgCIsMiItQG5z09BcUGlm9iLKL9FkRNQQum+7f9Ev//vP2g/Rz9Lf0+/U/9YP1x+HjgUv
+QC1QQ1RUM7bQGDMgW92vLVBocmV4Zj0izYDy8ClAg3B0WnTk4kAoMI4yLikBLghiciLQO2ZpZWw6
+ZLSyZumgKoCx4HtIAFlQRVJMSU5LZiDmz+fbfX3pUemgcsJzuXBcY2Yx78zrP1/n6dxvhSrc/9i6
+YY/AXd+0jDFQwmHocNA5XIGgK6Dvv3/Pb9B/90JFKKHIoC1Q/GVt2E/cH42H4jAoQC2g8mHgwGVp
+LYAwELbgL1F7L1Df4G3ocC8zMJLJYDD4OjAy9I/1n/av97/4z70CxFAssfrf+++NhyfkH7QnOwiw
+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
+bO51OMD80TzRc/4w/TD9s8M8gYbxcy4gU0Pw/sD/hz+fP6Lfo++Qv7jfpe+Tr/+tP65Pr1+wb6Vf
+s7+a0jmB/mb+MDyAfB+2D7cfjP+OD8+/H7ivmR9yfHBvPaGbVXv+MDiQbkMAAAA80ahwc/9wEJv0
+vHD+sTbwNpDEMHrU9kn/Yf/xdLyfva/Bb6F//8tPwg/DH7n/mi1ir2YQY/l+PM5Pv8/A39V/zUA9
+QGgJvAE9ImQgdHBzOjQvLzkwY6xQREBvZ7XQcC5B4S+xgDyQc9pABC9l8dBGQUlwUQBMU2ZicUJT
+M0BQX0RJR1GxwGYAZ2VaWnMzLU8ANUhzcW90VVcAWnFIM3Z3cFUAUGFYUGlXTUGkdy+oQGV321Ii
+1rvRnABlbGRhUmbhEHegAdBAe0hZUEVSTPBJTksg2c/a39vv3P8z3g/fHn194MHhEHJzgWYQXGNm
+MVx1cDD/16jir+O/5M/l3+bv3yzNr/dpmc4vyethZu/NT/LfYyf6Z9QqPk05YS9iP2Yvyc//yt9p
+X2pva3/2/22fbq9vv/9wz3HfAk/Pj9CfB+8I//rP/2MfZC8M//wv/T/+T/9fAG//AX8CjwOfBK8F
+vwbPC+8Yn7/WX9dvCW/DT8RfIaVTsoD9nBBpN6SGrxN/FI8h3/WP/ylvH88g3yx/sJ+xryPvtA//
+Kh8oby6/L88jnzMfmt94I1ecBD9QHCBpqZByhiJw754QeXFCMULCduEAqaDpgIeFgnnCELBmM3hp
+x4HqNhCxYTFgZavwx/HhkAnZUDA47MAyLzIw/DE3NH81jzafKo9DDzc//zhPC19M/UafLa9GCO/A
+ebF3JqLIIYYTYibwyDCqUTB+OUDWp6E9sSZTq7Z6UGH/e0uprDyznIESMD2bqo+rkH97YakAnXCs
+MUQfRS86lihZrJF1dHvAmzJvqEBk3z3hQpAmIFkRqzZ07ACsIvwpLg1PDl8ST0GfQq8Vf/8Wjxef
+Rm8ZvxrPG98c70lP/2O/R19Ib2lfEW9cPw8/EE//bm9dn16vX79gz2HfYu9j//9lD2YfZy9oP21f
+eg9rb2x/eX+vIETHEaiR8NA98DO+b7xwqTDsMiZXqYFJJz//dW9F74EfML+yL4MfM6+HX7+Ib4l/
+io+Cj43fOtJGyUHXkHA9cSbAReuAc54AO9H/fxA+IFkAq5DIIUByc8DswBYxQQPIElJRSUVkIPZD
+d9DJYHOnpVGiJiB3wO8nAKh0VWXGoDR3EKq2JsDfWPFzkMagqlNzkGzGgKmQ95ZyPiCokG9bT2+v
+c5+Pb/+Qf3bPd99475Gvew98H30v/34/f0+nb5Kfk6+tD64fn+//cI9xn7IfoU+iX6NvpH+lj/+m
+n6evqL+pz6rfq++xD72/768fsC/DX7rQQUBwJiCLsPfCQJuEhcg6sm+zf7dvuH//uY+6n7uvvL/E
+T77fv+/A///CD8cv0p/FP8ZP2D+2j8sf/7RftW/dT8x/zY/On8+v0L//0c/S39Pv1P/WD9cf3D/o
+7yfaT9tf7o8gMe+fJiPsODKYcOBLOT+gOngmov/jX+Rv7w9LT0xf+b/wnzk/f+7qnoBVsPGRPZEA
+sTvhb/88cD6EJqHxMDygVLAmYFkyTz2hWsBAUSbAUiScYDX4LDAwmnBQYuxBhOLtIP5v9x/4L/vv
+Vn8Gr/yP/Z/78c/uzDvdj96f4o8FPwZP/+W/5s/n3woP6f/rD+wf7S//DO8Wzwr/DA8cb+GvD0/f
+f//gjyF/EK8RvxLPE98U7xX//xcPGB8ZLxo/G08gby0fHn//H48yv5gwM8/03/Xv9v8of38Jj/ov
++z89zzSv/m8y/GOqcloAblOxN1oSdAGDfjWa0VAxRMKFgJqBVIBt/ztPPF9AHwgvSJ9Av0HPNf//
+lS07L0ffS38+Xz9vUv9ND/dCnzL8nbE2mtDzoAPhRpP5RaAwJVB/UY9VT0ofXK//Ve9W/05fDX8h
+3ydPJt9bX/9e/yoPKx8sLy0/Lk8vXzBv/zF/Yw9s72EfYi9yjyGvZW//I88k3yXvZs9n32jvaf9r
+D/9sH20vbj9vT3BfcW92j3OP93Sfda+I3jOJzzkPOh9QXf95/3sPfZ9+r5OfU79Uz5bf94rfV/+J
+KWgBgfOwAlB8oK/Iw8kiRnBF4CCLwGOHkP+UL5U/mP9eL6DvmZ+ar4v/f09tkU+PH5AsyPACkZNA
+ZpgzeGmGkAIxbnN4YD5lWqDJhZvAyfGl0G9if5vAAEECQ1pArOEDQHygbPpoAlAud794z3y/n3+g
+j/9/74D/gg+kT4QvhT+GT4df/6cvt/+lP6ZPvZ9737B/kc//kt/Cr7Hfsu+z/7UPth+3L/+4P7lP
+ul+7b7x/wZ/OT5e/X5jPvx/AL8E/1xhErOBh3mlFIK0VRNKr8TUCUFBB/68GApGdwq2Eq6+ss8i/
+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
+jus/NO81/+DP4d/qz7eP37if9T/sX7vP90hNAyFBQcV7gWECQFZpdo7/83//9I/C7/5v99/47+1f
+Sj6fj//9nwE/9W/2fwjfAs/5r+pPiwv+e5BoDhBmPSLdwIB0cHM6Ly93EcAALnlvdXR1YmUOLktB
+EbCp4GNoP3YAPTFrWFVfancgczduYyIOW2ZpqGVsZNryZhUAaZxQAHR7SFlQRVJMcElOSyARPxJP
+E1l9Jn0UsRUAcnPfsFxj4GYxXHVsCz8MTw1fXw5v+3PkAKowFZBoqWFPfmkGfweP4s8hvwg/H99h
+/+CPIL8kT//fJ+8bDxwfBB/vBS/vf9+w3Zk8Kw8Jrwq//zI/EK8XDxgfE98U7xX/Nw/vOB8ZLxo9
+6PBpqjH8QB8h/bQBY46Q38Ae7OjgJ5DfwPJum8FSbzzwQXEqbyOfXzSvJb8pj0UPL89nMOo+/8iJ
+Se/dT95f2x/Kj+AfJt//SM/jT+Rf5W/mf+eP6J/pr/9XvywvLT8uT1y/UD9M/04P/2C/UZ9Sr1O/
+VM9V31bvZS//WQ9aH1svYE9dT15fX29w6f9jcGKf8I/xn2cvaD9xLzL/3zQPca9yvx1ffadFQuBD
+UFJlZJBlN5vQRoJhMUxjaRpgm/BBY7+gcxmCYWR2OkD8QCBUb0ubwL6RbILSIG6b0HQnqdA60IMQ
+b25wECBiHGFpjqCb0JvBQ2Ft/GJ1gxB4z3nffZ9H34jv/34/f09zv8hPYU9mv2ZPh5//iz9pf2qP
+a59sr22/bs9v3/9w74zvjf+PD52/kT9iz2Pf/6G/kp+Tr5S/lc+W35fvpi//mg+bH5wvoU+eT59f
+oG+x6/41sq92z3fcqB+pL7k/e//ffQ+8f7OvgD+x+kGG4Dow00Kwg1BCZQZQRobQgyCeaatwg0OF
+0D2QZWdCoWtAwYNgZBpQdB9xg1BD+nLEMG6CYrCAud+6776v/4pvyI+/T8BftN+Pv6Jvp9//p2/H
+P8rfqp+rr6y/rc+u3/+v77D/sg/Mj82fzq/dX9Df/6PvpP/hX9I/00/UX9Vv1n//14/lz9mv2r/b
+z+Dv3e/e//vgD/GLNvJPt+933+ff6O9/8d+9L74//E/zb8Fv/lhPveVBZvrAhaCFQ4YgbB9g//Og
+gjCE44Zxg1CGQITF6wDN8DBlxEOCIGd187DEQfJ18MAgZ4SQxcFBkD0hxGlkQZB0aXCFoIbQVcNT
+YoVwc4MgZYZAYd+EsINQhqBAooThOUDQH0D3B5EIIAPBcoSwQVIE0YagnR7waR+AxJvlUGMxxQDa
+cINQRoVww3ByheGEsJ5hhqDwEELxBKFJSeyx//mv+r/+f8ovEJ/8b/1/E6/L/5/0AGaF0HQtAwDE
+AbB5OlN5huD0MDsAz/nxbVxcEY8P3xYvFz8Af/8aj+pBhLDD5oOQg0LEAAbR/xvvHP8eDxH/JX8e
+rx+/9H/98XwhLSDh7+L/5u8kDyUf/+of6y/sPyjf7l/vb/B/8Y//KV8qbyt/Ok8tz+Nv5H/lj/8v
+LzA/MU8yXzNvNH9CvzafjzevOLuEMMQgZ249g4Bvw2HEUDxFw3B4GMBOEzrPTnQ9j0csQlBxYxYf
+O09fPF89b1LGDTcIJHBVQCDgMyBWZXqDkD7/QA//Q/9FD0YfRy9IP0lPUw9Lb/9Mf02PTp9Pr1Y/
+Uc9hT1Pv/1T/Z69qL1nPQN9B724vWy//XD9dT15fX29gf2GPYp9jr/9kv2XPZt9tb2j/eb9rH2wv
+w4AfdtFSU1ZQbn9vj/9zf3SPdZ92r3e/eM+Cj3rv/3v/fQ9+H38vhb+BT49vg2//hH+Vz5hPh+9w
+X3FvnE+JT/+KX4tvjH+Nj46fj6+Qv5HP/5Lfk++U/5uPlx+n35k/mk//rj+k8Q6fo08oT7EvGB8Z
+Lv+zHxr/tU+2X7dvuH+yj7vPkfkkS29pB8AgRQbR/GhpnJ+dr6GfvY++n6TP/6Xfpu+/z6kPqh85
+D5vPwE//wV/Cb9HfxV+eH58voD/Gv//Hz8jfye/K/8wP2k/OL88//9BP1W/Sb9N/1I/mD9av3B//
+2M/Z39rv2//dD94f3y/gP//hT+Jf42/kf+WP9k/nr+i///o/7y/r7+z/7g//T/Av8T//8k/zX/Rv
+9X/2j/ef+K/5v//+3/vf/O/9/w9/AB8BLwI//xN/BF8FbwZ/B48InwmvF+8TC88YtTEwDVEvZGlG
+dhs/H19nNTgncm90ZHnGPjcZURbyxjB9ASbAAwANNP0/pQYDAA80/T+lBgIBFDQBAAAAEAAAAE5J
+VEH5v7gBAKoAN9luAAACAX8AAQAAADEAAAAwMDAwMDAwMDkwMDJENzkzNDA2QURCNDZCRUE4MTcw
+N0Y5NEVGQzI2MDQxRDZBMDAAAAAAAwAGEKdRDvEDAAcQei4AAAMAEBAAAAAAAwAREAAAAAAeAAgQ
+AQAAAGUAAABRVUVNQU5URVNDSEVHQVIsRVNDT0xIRU9MVUdBUkVBTUVTQURFVEVSTUlOQefjT0RP
+VkVOTUVHT1NISURFOkVHT1NISURBQ1RUMzg0M01BSUxUTzpDVFQzODQzQEVHT1NISUNPAAAAAIoC
+
+------=_NextPart_000_0142_01D375FD.9362FCB0--
+

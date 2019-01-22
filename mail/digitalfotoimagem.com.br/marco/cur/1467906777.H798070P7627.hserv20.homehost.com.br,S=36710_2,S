@@ -1,0 +1,701 @@
+Return-path: <gambetti@gambetti.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 07 Jul 2016 12:52:57 -0300
+Received: from gateway30.websitewelcome.com ([192.185.197.25]:32768)
+	by hserv20.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <gambetti@gambetti.com.br>)
+	id 1bLBbl-0001ru-5p
+	for marco@digitalfotoimagem.com.br; Thu, 07 Jul 2016 12:52:57 -0300
+Received: from cm6.websitewelcome.com (cm6.websitewelcome.com [108.167.139.19])
+	by gateway30.websitewelcome.com (Postfix) with ESMTP id 71DCF541E4549
+	for <marco@digitalfotoimagem.com.br>; Thu,  7 Jul 2016 10:52:13 -0500 (CDT)
+Received: from br460.hostgator.com.br ([216.172.172.65])
+	by cm6.websitewelcome.com with 
+	id FrsC1t0021R15Qg01rsDG5; Thu, 07 Jul 2016 10:52:13 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=gambetti.com.br; s=default; h=Content-Type:MIME-Version:Message-ID:Date:
+	Subject:In-Reply-To:References:Cc:From;
+	bh=YICq/NwvNZ0DmQZegC3A0oYtPEUrF1d8Zn+/IdAQTqY=; b=IXbO6AsMa6DdEGFX86WKEskXyH
+	OH0k9jQiky2bwUShdBe0N7gHGPS1+kTGUU0HWHEOv0xyFOZ7iKKEy55UuqvBo0Nm3Ty0vl1sCLWnd
+	jxU99Z5lbfyZKbqRdbiUlySuiGobbDlILfBfmVggQkx5q2ryAg3kTv5fC9XJ7cIkrr88=;
+Received: from [186.204.161.171] (port=59967 helo=MEGAPC)
+	by br460.hostgator.com.br with esmtpa (Exim 4.86_1)
+	(envelope-from <gambetti@gambetti.com.br>)
+	id 1bLBay-0005QL-6f; Thu, 07 Jul 2016 12:52:08 -0300
+From: "J.Gambetti \(Gambetti\)" <gambetti@gambetti.com.br>
+Cc: "'Alexandre Dias de Castro'" <xandedias.castro@gmail.com>,
+	"'Antonio Finardi'" <ma.finardi@hotmail.com>,
+	"'Enedino Alves Barbosa Filho'" <dino.abf@gmail.com>,
+	=?UTF-8?Q?'Fl=C3=A1vio_Ferrer'?= <flavio@crivodarazao.org.br>,
+	=?UTF-8?Q?'Jos=C3=A9_Doniseti_Luiz'?= <josedonisetiluiz@yahoo.com.br>,
+	"'Marcus Welbi Monte Verde'" <marcuswelbi@crivodarazao.org.br>,
+	"'Oswaldo dos Santos Junior'" <oswaldosantosjunior@gmail.com>,
+	"'Enedino Alves Barbosa Filho'" <enedino@crivodarazao.org.br>,
+	"'Veneravel Mestre'" <crivodarazao@crivodarazao.org.br>,
+	"'Tesouraria'" <tesouraria@crivodarazao.org.br>,
+	"'Antonio Carlos Rosseti'" <carlos.rossetti@uol.com.br>,
+	"'Arsenio de Paiva Lopes'" <arsenio.p.lopes@gmail.com>,
+	=?UTF-8?Q?'Ricardo_de_M=C3=AAo_Fernandes'?= <valdes@uol.com.br>,
+	"'Marcilio MarchiTesta'" <mmtesta@uol.com.br>,
+	"'Dejair Bianchi'" <dejair.bianchi@uol.com.br>,
+	"'Claudio Auricchio Turi'" <ttturi@terra.com.br>,
+	"'Wanderley Caldana'" <w.caldana@uol.com.br>,
+	"'Luiz Carlos Bueno'" <fallcar@hotmail.com>,
+	"'Benedito Carlos Flaminio'" <benedito.flaminio@claro.com.br>,
+	"'Luis Mauricio Rodrigues'" <luiz_ma@hotmail.com>,
+	"'Jairo Dias'" <Jairo@rooftec.com.br>,
+	"'Helio Felix'" <helioamandara@uol.com.br>,
+	"'Marcos Patriniani'" <marckopat@live.com>,
+	"'Natanael Costa'" <ncosta@usa.com>,
+	"'Ordalino de Souza e Silva'" <titoss@ig.com.br>,
+	"'Marco Tulio de Mello'" <tmello@demello.net.br>,
+	"'Wlamir Lopes Sanches'" <wladsmozz@hotmail.com>,
+	=?UTF-8?Q?'Fabr=C3=ADcio_Takeshi_Murakami'?= <fabricio@crivodarazao.org.br>,
+	=?UTF-8?Q?'Rog=C3=A9rio_dos_Santos_Ota'?= <rogerio@crivodarazao.org.br>,
+	"'Fernando Colacioppo'" <falecom@redecolmeia.com.br>,
+	"'Gilberto Dante'" <gilbertodante@hotmail.com>,
+	"'Ernani Flausino'" <ecobom@ig.com.br>,
+	"'Rony Silvio Pereira de Souza'" <ronysilvio@gmail.com>,
+	"'Antonio Carlos Kreme'" <kreme1969@gmail.com>,
+	"'Fernando C. Terra'" <fernando.c.terra@gmail.com>,
+	"'Douglas Klein Basso'" <douglas.klein@gmail.com>,
+	<marco@digitalfotoimagem.com.br>,
+	<chancelaria@crivodarazao.org.br>
+References: <399493f6a10a33a72cb647bc40509049@crivodarazao.org.br> <8b07017d96c9407f2dbb4103cd6d3d2b@digitalfotoimagem.com.br>
+In-Reply-To: <8b07017d96c9407f2dbb4103cd6d3d2b@digitalfotoimagem.com.br>
+Subject: =?UTF-8?Q?ARLS_Guardi=C3=B5es_da_Arca_da_Alian=C3=A7?=
+	=?UTF-8?Q?a_-_4167_-_Sess=C3=A3o_Magna_de_Insta?=
+	=?UTF-8?Q?la=C3=A7=C3=A3o_HOJE_07_de_Julho_de_2016?=
+Date: Thu, 7 Jul 2016 12:51:53 -0300
+Message-ID: <012a01d1d867$7fcf2cd0$7f6d8670$@com.br>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_012B_01D1D84E.5A81F4D0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdC05jlEJtlXfTwWQS2peypHo75z6EjgP4wg
+Content-Language: pt-br
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - br460.hostgator.com.br
+X-AntiAbuse: Original Domain - digitalfotoimagem.com.br
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - gambetti.com.br
+X-BWhitelist: no
+X-Source-IP: 186.204.161.171
+X-Exim-ID: 1bLBay-0005QL-6f
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Source-Sender: (MEGAPC) [186.204.161.171]:59967
+X-Source-Auth: gambetti@gambetti.com.br
+X-Email-Count: 21
+X-Source-Cap: Z2FtYmUyOTU7Z2FtYmUyOTU7YnI0NjAuaG9zdGdhdG9yLmNvbS5icg==
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_012B_01D1D84E.5A81F4D0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_012C_01D1D84E.5A81F4D0"
+
+
+------=_NextPart_001_012C_01D1D84E.5A81F4D0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+
+
+cid:image001.jpg@01D1CC8E.688E8CD0
+
+=C3=80 GL=C3=93RIA DO GRANDE ARQUITETO DO UNIVERSO
+
+=20
+
+A.=C2=B7.R.=C2=B7.L.=C2=B7.S.=C2=B7.GUARDI=C3=95ES DA ARCA DA =
+ALIAN=C3=87A - 4167
+
+=20
+
+FILIADA AO GRANDE ORIENTE DE S=C3=83O PAULO
+
+FEDERADA AO GRANDE ORIENTE DO BRASIL
+
+=20
+
+Avenida Paulista, N=C2=BA 568, Bela Vista =E2=80=93 S=C3=A3o Paulo =
+=E2=80=93 Capital -  CEP: 01310-000
+
+Sess=C3=B5es =C3=A0s primeiras quintas-feiras do m=C3=AAs
+
+Fundada em 20 de Junho de 2011 da E.=C2=B7. V.=C2=B7. -  =
+R.=C2=B7.E.=C2=B7.A.=C2=B7.A.=C2=B7.
+
+=20
+
+=20
+
+A A.=C2=B7.R.=C2=B7.L.=C2=B7.S.=C2=B7. GUARDI=C3=95ES DA ARCA DA =
+ALIAN=C3=87A n=C2=BA 4167, tem o prazer e a honra de convid=C3=A1-lo =
+para a
+
+=20
+
+SESS=C3=83O MAGNA DE INSTALA=C3=87=C3=83O
+
+=20
+
+do R.=C2=B7.Ir.=C2=B7. Jo=C3=A3o Gambetti Neto e posse da =
+administra=C3=A7=C3=A3o eleita para a Gest=C3=A3o 2016/2017, a =
+realizar-se no dia 07 de Julho de 2016 E.=C2=B7.V.=C2=B7., =C3=A0s 20h, =
+no TEMPLO situado na Avenida Paulista n=C2=BA 568, 1=C2=BA andar, =
+Conjunto A, S=C3=83O PAULO, SP.
+
+=20
+
+Sem a vossa presen=C3=A7a a Sess=C3=A3o n=C3=A3o ter=C3=A1 o mesmo =
+brilho.
+
+=20
+
+=20
+
+Fraternalmente Ven.=C2=B7.Mestre:
+
+
+            Waldecir Pimenta
+
+
+=20
+
+S=C3=A3o Paulo, 22 de Junho de 2016.  E.=C2=B7.V.=C2=B7.
+
+=20
+
+COMISS=C3=83O INSTALADORA
+
+=20
+
+Presidente: Johannes Kozlowski
+
+
+=20
+
+
+                   1=C2=BA Vig.=C2=B7.: Marco Ant=C3=B4nio Patriniani    =
+                                                    2=C2=BA Vig.=C2=B7.: =
+Natanael Vicente Da Costa
+
+=20
+
+=20
+
+ARLS Guardi=C3=B5es da Arca da Alian=C3=A7a =E2=80=93 4167  =
+endere=C3=A7o, Avenida Paulista n=C2=BA 568, 1=C2=BA andar, Conjunto A, =
+esquina com Avenida Brigadeiro Luis Antonio, a 50 metros da sa=C3=ADda =
+da esta=C3=A7=C3=A3o Brigadeiro do Metro, com estacionamento no Paulista =
+Park, Av. Paulista  n=C2=BA 620 a 648 subsolo (primeiro pr=C3=A9dio =
+ap=C3=B3s o cruzamento da Av. Brigadeiro Luis Antonio, sentido =
+para=C3=ADso->consola=C3=A7=C3=A3o
+
+=20
+
+
+------=_NextPart_001_012C_01D1D84E.5A81F4D0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)"><!--[if =
+!mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+h1
+	{mso-style-priority:9;
+	mso-style-link:"T=C3=ADtulo 1 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	page-break-after:avoid;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{mso-style-priority:99;
+	mso-style-link:"Texto sem Formata=C3=A7=C3=A3o Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.5pt;
+	font-family:Consolas;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Texto de bal=C3=A3o Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.TextosemFormataoChar
+	{mso-style-name:"Texto sem Formata=C3=A7=C3=A3o Char";
+	mso-style-priority:99;
+	mso-style-link:"Texto sem Formata=C3=A7=C3=A3o";
+	font-family:Consolas;}
+span.Ttulo1Char
+	{mso-style-name:"T=C3=ADtulo 1 Char";
+	mso-style-priority:9;
+	mso-style-link:"T=C3=ADtulo 1";
+	font-family:"Times New Roman","serif";
+	font-weight:bold;
+	font-style:italic;}
+span.EstiloDeEmail21
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.TextodebaloChar
+	{mso-style-name:"Texto de bal=C3=A3o Char";
+	mso-style-priority:99;
+	mso-style-link:"Texto de bal=C3=A3o";
+	font-family:"Tahoma","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"2050" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DPT-BR link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0 width=3D964 =
+style=3D'width:723.0pt;margin-left:14.2pt;border-collapse:collapse'><tr =
+style=3D'height:177.1pt'><td width=3D208 =
+style=3D'width:155.9pt;background:white;padding:0cm 3.5pt 0cm =
+0cm;height:177.1pt'><h1 align=3Dleft style=3D'text-align:left'><span =
+style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif";font-style:n=
+ormal'><img width=3D187 height=3D193 id=3D"Imagem_x0020_5" =
+src=3D"cid:image001.jpg@01D1D84E.55CCAA20" =
+alt=3D"cid:image001.jpg@01D1CC8E.688E8CD0"></span><span =
+style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif";font-style:n=
+ormal'><o:p></o:p></span></h1></td><td width=3D756 valign=3Dtop =
+style=3D'width:567.1pt;padding:0cm 3.5pt 0cm 0cm;height:177.1pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:3.55pt;text-align:center;text-indent:3.5pt'><b><span=
+ style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'>=C3=80 =
+GL=C3=93RIA DO GRANDE ARQUITETO DO UNIVERSO</span></b><b><span =
+style=3D'font-family:"Verdana","sans-serif"'><o:p></o:p></span></b></p><p=
+ class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:3.55pt;text-align:center;text-indent:3.5pt'><b><span=
+ =
+style=3D'font-family:"Verdana","sans-serif"'><o:p>&nbsp;</o:p></span></b>=
+</p><p class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:3.55pt;text-align:center;text-indent:3.5pt'><b><span=
+ =
+style=3D'font-size:13.0pt;font-family:"Verdana","sans-serif"'>A</span></b=
+><span =
+style=3D'font-size:13.0pt;font-family:"Verdana","sans-serif"'>.=C2=B7.<b>=
+R</b>.=C2=B7.<b>L</b>.=C2=B7.<b>S</b>.=C2=B7.<b>GUARDI=C3=95ES DA ARCA =
+DA ALIAN=C3=87A - 4167<o:p></o:p></b></span></p><p class=3DMsoNormal =
+align=3Dcenter =
+style=3D'margin-left:3.55pt;text-align:center;text-indent:3.5pt'><b><span=
+ =
+style=3D'font-family:"Verdana","sans-serif"'><o:p>&nbsp;</o:p></span></b>=
+</p><p class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:3.55pt;text-align:center;text-indent:3.5pt'><b><span=
+ style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'>FILIADA =
+AO GRANDE ORIENTE DE S=C3=83O PAULO</span></b><b><span =
+style=3D'font-family:"Verdana","sans-serif"'><o:p></o:p></span></b></p><p=
+ class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:3.55pt;text-align:center;text-indent:3.5pt'><b><span=
+ style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'>FEDERADA =
+AO GRANDE ORIENTE DO BRASIL</span></b><b><span =
+style=3D'font-family:"Verdana","sans-serif"'><o:p></o:p></span></b></p><p=
+ class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:3.55pt;text-align:center;text-indent:3.5pt'><b><span=
+ =
+style=3D'font-family:"Verdana","sans-serif"'><o:p>&nbsp;</o:p></span></b>=
+</p><p class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:3.55pt;text-align:center;text-indent:3.5pt'><span =
+style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'>Avenida =
+Paulista, N=C2=BA 568, Bela Vista =E2=80=93 S=C3=A3o Paulo =E2=80=93 =
+Capital -&nbsp; CEP: 01310-000</span><span =
+style=3D'font-family:"Verdana","sans-serif"'><o:p></o:p></span></p><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:3.55pt;text-align:center;text-indent:3.5pt'><span =
+style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'>Sess=C3=B5e=
+s =C3=A0s primeiras quintas-feiras do m=C3=AAs</span><span =
+style=3D'font-family:"Verdana","sans-serif"'><o:p></o:p></span></p><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:3.55pt;text-align:center;text-indent:3.5pt'><span =
+style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'>Fundada em =
+20 de Junho de 2011 da E.=C2=B7. V.=C2=B7. -&nbsp; =
+R.=C2=B7.E.=C2=B7.A.=C2=B7.A.=C2=B7.</span><span =
+style=3D'font-family:"Verdana","sans-serif"'><o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-left:3.55pt;text-indent:3.5pt'><b><span =
+style=3D'font-family:"Verdana","sans-serif"'><o:p>&nbsp;</o:p></span></b>=
+</p></td></tr></table><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p><p class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:42.55pt;text-align:center;text-autospace:none'><span=
+ style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'>A =
+<b>A</b>.=C2=B7.<b>R</b>.=C2=B7.<b>L</b>.=C2=B7.<b>S</b>.=C2=B7.<b> =
+GUARDI=C3=95ES DA ARCA DA ALIAN=C3=87A n=C2=BA 4167</b>, tem o prazer e =
+a honra de convid=C3=A1-lo para a<o:p></o:p></span></p><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:42.55pt;text-align:center;text-autospace:none'><span=
+ =
+style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p><p class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:42.55pt;text-align:center;text-autospace:none'><b><s=
+pan =
+style=3D'font-size:14.0pt;font-family:"Verdana","sans-serif"'>SESS=C3=83O=
+ MAGNA DE INSTALA=C3=87=C3=83O<o:p></o:p></span></b></p><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:42.55pt;text-align:center;text-autospace:none'><b><s=
+pan =
+style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;=
+</o:p></span></b></p><p class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:42.55pt;text-align:center;text-autospace:none'><span=
+ style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'>do =
+<b>R</b>.=C2=B7.<b>Ir</b>.=C2=B7. <b>Jo=C3=A3o Gambetti Neto</b> e posse =
+da administra=C3=A7=C3=A3o eleita para a Gest=C3=A3o 2016/2017, a =
+realizar-se no dia <b>07 de Julho de 2016 E.=C2=B7.V</b>.=C2=B7., =
+=C3=A0s 20h, no TEMPLO situado na <strong><span =
+style=3D'font-family:"Verdana","sans-serif"'>Avenida =
+Paulista&nbsp;n=C2=BA 568, 1=C2=BA</span></strong>&nbsp;<strong><span =
+style=3D'font-family:"Verdana","sans-serif"'>andar, Conjunto =
+A</span></strong>, S=C3=83O PAULO, SP.<o:p></o:p></span></p><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:42.55pt;text-align:center;text-autospace:none'><span=
+ =
+style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p><p class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:42.55pt;text-align:center;text-autospace:none'><span=
+ style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'>Sem a =
+vossa presen=C3=A7a a Sess=C3=A3o n=C3=A3o ter=C3=A1 o mesmo =
+brilho.<o:p></o:p></span></p><p class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:42.55pt;text-align:center;text-autospace:none'><span=
+ =
+style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p><p class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:42.55pt;text-align:center;text-autospace:none'><span=
+ =
+style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p><p class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:42.55pt;text-align:center;text-autospace:none'><span=
+ =
+style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'>Fraternalme=
+nte Ven.=C2=B7.Mestre:<o:p></o:p></span></p><h1><span =
+style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif";font-weight:=
+normal'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+; </span><span style=3D'font-size:14.0pt'>Waldecir =
+Pimenta<o:p></o:p></span></h1><p class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:42.55pt;text-align:center;text-autospace:none'><span=
+ =
+style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p><p class=3DMsoNormal align=3Dcenter =
+style=3D'margin-left:42.55pt;text-align:center;text-autospace:none'><span=
+ style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'>S=C3=A3o =
+Paulo, 22 de Junho de 2016.&nbsp; =
+E.=C2=B7.V.=C2=B7.<o:p></o:p></span></p><p class=3DMsoNormal =
+align=3Dcenter =
+style=3D'margin-left:42.55pt;text-align:center;text-autospace:none'><span=
+ =
+style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><b><span =
+style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'>COMISS=C3=83=
+O INSTALADORA<o:p></o:p></span></b></p><p class=3DMsoNormal =
+align=3Dcenter style=3D'text-align:center'><b><span =
+style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;=
+</o:p></span></b></p><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:14.0pt'>Presidente:</span><b><span =
+style=3D'font-size:11.0pt;font-family:"Verdana","sans-serif"'> =
+</span></b><b><i><span style=3D'font-size:14.0pt;color:black'>Johannes =
+Kozlowski</span></i></b><span class=3DTtulo1Char><span =
+style=3D'font-size:14.0pt'><o:p></o:p></span></span></p><h1><span =
+style=3D'font-size:12.0pt'><o:p>&nbsp;</o:p></span></h1><p =
+class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span =
+style=3D'font-size:14.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1=C2=BA =
+Vig.=C2=B7.: <b><i>Marco Ant=C3=B4nio Patriniani<span =
+class=3DTtulo1Char>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></i></b>2=C2=BA Vig.=C2=B7.:<b> <i>Natanael Vicente Da Costa<span =
+class=3DTtulo1Char><o:p></o:p></span></i></b></span></p><p =
+class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span =
+class=3DTtulo1Char><span =
+style=3D'font-size:14.0pt'><o:p>&nbsp;</o:p></span></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><b><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:red'>A=
+RLS Guardi=C3=B5es da Arca da Alian=C3=A7a =E2=80=93 4167=C2=A0 =
+endere=C3=A7o, Avenida Paulista n=C2=BA 568, 1=C2=BA andar, Conjunto A, =
+esquina com Avenida Brigadeiro Luis Antonio, a 50 metros da sa=C3=ADda =
+da esta=C3=A7=C3=A3o Brigadeiro do Metro, com estacionamento no Paulista =
+Park, Av. Paulista=C2=A0 n=C2=BA 620 a 648 subsolo (primeiro pr=C3=A9dio =
+ap=C3=B3s o cruzamento da Av. Brigadeiro Luis Antonio, sentido =
+para=C3=ADso-&gt;consola=C3=A7=C3=A3o<o:p></o:p></span></b></p><p =
+class=3DMsoPlainText><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_001_012C_01D1D84E.5A81F4D0--
+
+------=_NextPart_000_012B_01D1D84E.5A81F4D0
+Content-Type: image/jpeg;
+	name="image001.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <image001.jpg@01D1D84E.55CCAA20>
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIf
+IiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7
+Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCADBALsDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2aiii
+gAooooAKKKzdW16x0cIk7PJcS8Q20K75ZT7KP5nigDSrK1HxLpWmTfZpbgy3R+7a26mWU/8AAVyR
++NcpcavrXiK4e1txIFBw1pYSgBPaa56Kf9lMn3rT03wSY4dl9dCKJuWtNPzDG3++/wDrJPxP4UAQ
+X/jW9WTyore009j0W8lMs5/7YxZP5kVVEniXU+Q2tzKf+eccVhH+bbnrq47XSvD8EcdnZRQGVxHG
+kKANIx7Z79Ccn0pmo6ne2KRu1tEiNcxRFjJu+V2C5A45BIoA5n/hFdYueZrK3Of+fzVrmY/kuBS/
+8IHcty1h4dz/ALVvM36l66m+luY/tMaXBRpI1EBWMEoxJGcd8da5/UNbu3t9PnDXSSGG4S6gt8Bh
+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
+
+------=_NextPart_000_012B_01D1D84E.5A81F4D0--
+

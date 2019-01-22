@@ -1,0 +1,425 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201201 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2017                
+POS_TIME 2678                
+POS_VISITOR 7531                
+POS_DAY 10717               
+POS_DOMAIN 3376                
+POS_LOGIN 3650                
+POS_ROBOT 3805                
+POS_WORMS 4101                
+POS_EMAILSENDER 4232                
+POS_EMAILRECEIVER 4375                
+POS_SESSION 11354               
+POS_SIDER 11560               
+POS_FILETYPES 4510                
+POS_DOWNLOADS 4648                
+POS_OS 4696                
+POS_BROWSER 4772                
+POS_SCREENSIZE 4934                
+POS_UNKNOWNREFERER 5008                
+POS_UNKNOWNREFERERBROWSER 5095                
+POS_ORIGIN 5177                
+POS_SEREFERRALS 5314                
+POS_PAGEREFS 5458                
+POS_SEARCHWORDS 5606                
+POS_KEYWORDS 5758                
+POS_MISC 2342                
+POS_ERRORS 5817                
+POS_CLUSTER 3506                
+POS_SIDER_404 5937                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120201000537 4 765 13944014292231
+FirstTime 0
+LastTime 20120131180407
+LastUpdate 20120201113148 4 0 3 0 0
+TotalVisits 107                 
+TotalUnique 83                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 83                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 60 312348 10 16 76039
+1 3 30 449 7 11 9851
+2 2 29 0 8 11 10483
+3 1 1 1645 3 7 449
+4 1 1 449 4 8 17101
+5 0 0 0 3 5 0
+6 2 2 3402 43 56 40218
+7 2 29 380118 6 18 1584
+8 0 0 0 3 15 9040
+9 8 128 379669 17 29 13419
+10 7 104 9120 15 27 12433
+11 2 2 449 9 26 38667
+12 12 220 379669 53 64 750
+13 13 272 597 13 30 250
+14 13 217 449 15 36 41149
+15 9 107 10058 10 18 943
+16 13 196 762032 17 37 1500
+17 13 155 148612 18 31 89788
+18 19 242 759338 22 46 127455
+19 11 89 975299 10 20 30214
+20 3 13 0 8 15 55432
+21 13 113 7053 12 13 1233
+22 12 119 319073 17 26 90025
+23 5 95 0 6 8 816
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+br 145 2171 4021825
+us 20 20 24334
+ua 5 5 24001
+gb 1 28 379669
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+googlebot 141 477474 20120131024948 0
+bot[\s_+:,\.\;\/\\-] 50 25857 20120131084314 0
+msnbot\-media 6 119129 20120116060131 0
+no_user_agent 2 16948 20120122172843 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 101 45837 0 0
+html 171 151491 0 0
+jpg 1865 4252071 0 0
+gif 87 430 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 4
+winxp 2151
+win2003 1
+linux 1
+win7 71
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 8
+msie6.0 3
+msie8.0 1064
+chrome16.0.912.75 28
+mozilla 18
+firefox1.0 1
+msie7.0 960
+firefox9.0.1 94
+firefox8.0.1 56
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 163 163
+From1 0 0
+From2 0 0
+From3 0 0
+From4 8 2061
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 1 233
+206 2 16948
+404 303 0
+301 49 12250
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 44
+//phpMyAdmin-2.5.6-rc2/index.php 2 -
+//phpMyAdmin-2.5.5-pl1/index.php 2 -
+//phpmyadmin/scripts/setup.php 1 -
+/robots.txt 120 -
+//web/phpMyAdmin/index.php 2 -
+//phpMyAdmin-2.5.7-pl1/index.php 2 -
+//dbadmin/index.php 2 -
+//scripts/setup.php 1 -
+/Fundo2.png 1 http://www.digitalfotoimagem.com.br/email.html
+//myadmin/index.php 2 -
+//php-my-admin/index.php 4 -
+//mysqladmin/index.php 2 -
+/muieblackcat 3 -
+//phpMyAdmin-2.5.1/index.php 2 -
+//phpMyAdmin-2.5.4/index.php 2 -
+//phpMyAdmin/index.php 3 -
+//phpmyadmin1/index.php 2 -
+//web/index.php 2 -
+//phpmyadmin/index.php 4 -
+//admin/pma/index.php 2 -
+//index.php 2 -
+//phpMyAdmin-2.2.3/index.php 2 -
+//phpMyAdmin-2.5.6/index.php 2 -
+//pma/index.php 2 -
+//phpmyadmin2/index.php 2 -
+//typo3/phpmyadmin/index.php 2 -
+//phpadmin/index.php 2 -
+//phpMyAdmin-2.5.6-rc1/index.php 2 -
+//phpMyAdmin-2.5.5/index.php 2 -
+//xampp/phpmyadmin/index.php 2 -
+//phpMyAdmin-2.5.5-rc1/index.php 2 -
+//phpMyAdmin-2.5.5-rc2/index.php 2 -
+//phpMyAdmin-2/index.php 2 -
+//phpMyAdmin-2.2.6/index.php 2 -
+//websql/index.php 2 -
+//phpMyAdmin-2.5.7/index.php 2 -
+//admin/phpmyadmin/index.php 2 -
+//db/index.php 2 -
+//phpMyAdmin/scripts/setup.php 1 -
+//mysql/scripts/setup.php 1 -
+/index.swf 99 -
+//mysql/index.php 2 -
+//admin/index.php 2 -
+//pma/scripts/setup.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 83
+189.110.89.7 13 339 0 20120110161120
+201.13.70.205 11 94 311009 20120106000934
+187.75.120.237 10 85 0 20120104212649
+187.75.92.18 9 163 139695 20120109215524
+187.56.246.146 6 118 0 20120110182128
+187.75.121.164 6 144 0 20120111142921
+187.101.194.193 5 115 379669 20120106174357
+187.77.4.161 4 8 561143 20120128193737
+187.75.126.111 4 112 0 20120107232808
+187.75.121.59 4 71 0 20120111011713
+178.210.211.254 3 3 7053 20120104213357
+187.101.196.250 3 74 0 20120129140844
+187.101.195.128 3 57 0 20120108163949
+187.75.112.195 3 53 0 20120103182307
+201.1.97.170 3 25 0 20120111214719
+187.75.116.220 2 24 646 20120107222356
+201.1.96.62 2 2 0 20120115145335
+189.69.183.116 2 37 0 20120110190251
+207.46.204.215 2 2 3632 20120129065926
+157.55.112.208 2 2 2497 20120111165713
+201.13.71.170 2 2 0 20120116153115
+187.75.125.89 2 2 0 20120120095314
+187.56.248.17 2 2 0 20120112183052
+187.57.247.187 2 40 0 20120107102915
+189.121.44.184 2 25 316885 20120126220332
+187.75.114.208 1 28 0 20120107105720
+74.52.245.146 1 1 8474 20120108100429
+187.42.212.242 1 28 379669 20120105091424
+207.46.204.166 1 1 1354 20120118064624
+207.46.12.74 1 1 502 20120121220542
+187.57.244.45 1 1 0 20120116161044
+207.46.204.211 1 1 566 20120123001520
+187.101.199.56 1 1 0 20120121121615
+207.46.204.218 1 1 449 20120105015244
+187.10.185.147 1 28 0 20120129025805
+187.101.251.164 1 1 0 20120118112917
+187.56.246.202 1 27 0 20120107003741
+207.46.204.163 1 1 566 20120105194942
+187.10.185.195 1 15 0 20120103185733
+186.243.65.81 1 28 379669 20120128163945
+207.46.12.26 1 1 597 20120129220448
+187.56.244.189 1 1 0 20120128025657
+187.75.94.110 1 1 0 20120114105347
+187.101.192.109 1 1 646 20120117162347
+187.56.253.173 1 1 646 20120117102403
+207.46.204.209 1 1 597 20120125130404
+31.41.11.164 1 1 8474 20120109153745
+201.1.96.11 1 1 0 20120113185947
+187.101.254.52 1 28 379669 20120128183335
+157.55.112.209 1 1 449 20120128145754
+207.46.204.171 1 1 773 20120120000424
+187.10.188.251 1 1 0 20120116015631
+187.57.245.150 1 23 0 20120109222909
+207.46.204.164 1 1 443 20120111174459
+177.68.5.197 1 1 0 20120117201854
+207.46.204.167 1 1 449 20120109195755
+201.13.68.103 1 13 0 20120103185426
+187.57.245.202 1 1 0 20120114181515
+85.237.212.12 1 28 379669 20120124070839
+187.57.241.211 1 11 0 20120105002346
+187.101.197.119 1 28 0 20120108213423
+207.46.204.173 1 1 449 20120122111307
+31.41.13.41 1 1 8474 20120108171501
+207.46.204.212 1 1 449 20120116073742
+187.75.89.54 1 1 0 20120127165232
+157.55.112.205 1 1 1645 20120108030819
+187.101.193.28 2 56 0 20120107145059
+187.57.246.99 1 28 0 20120108180651
+187.57.241.31 1 1 0 20120131180407
+186.240.128.35 2 30 413141 20120123193735
+189.110.88.48 1 1 0 20120121180731
+200.138.221.88 1 28 379669 20120122184208
+187.56.249.248 1 1 0 20120120185742
+187.101.250.121 1 1 0 20120114134624
+187.75.94.9 1 23 0 20120109101048
+187.10.184.101 2 2 0 20120119002625
+186.242.101.132 1 28 379669 20120104161530
+187.75.114.160 1 28 0 20120110092407
+187.10.185.162 2 51 0 20120103095952
+187.101.194.101 1 1 0 20120118182955
+189.47.97.224 2 2 0 20120113222600
+187.56.249.84 2 29 0 20120103092009
+207.46.12.69 1 1 443 20120106224704
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20120103 9 161 0 5
+20120104 14 116 386722 7
+20120105 15 118 381133 11
+20120106 8 135 692705 6
+20120107 12 287 646 7
+20120108 8 116 18593 7
+20120109 13 211 148618 7
+20120110 25 565 0 7
+20120111 12 199 2491 5
+20120112 2 2 0 1
+20120113 3 3 0 3
+20120114 3 3 0 3
+20120115 2 2 0 1
+20120116 5 5 449 5
+20120117 3 3 1292 3
+20120118 3 3 1354 3
+20120119 2 2 0 1
+20120120 4 4 773 3
+20120121 3 3 502 3
+20120122 2 29 380118 2
+20120123 3 31 413707 2
+20120124 1 28 379669 1
+20120125 1 1 597 1
+20120126 2 25 316885 1
+20120127 1 1 0 1
+20120128 8 66 1320930 5
+20120129 6 104 2645 5
+20120131 1 1 0 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 5
+5mn-15mn 7
+0s-30s 81
+2mn-5mn 3
+30s-2mn 3
+15mn-30mn 3
+30mn-1h 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 18
+/ 99 118636 60 51
+/email/ 45 2584 26 34
+/casamento/paginafotoalbum.html 5 2245 5 5
+/igreja/1.html 3 1698 3 2
+/casamento/paginacasamento.html 2 4096 2 2
+/email.html 2 10582 1 1
+/casamento/paginafoto5.html 2 1194 2 2
+/mensagem.html 2 1762 0 1
+/igreja/2.html 2 1004 1 1
+/aniversario/aniversario.html 1 1584 1 1
+/aniversario/paginafoto4.html 1 443 1 1
+/escola/mae.html 1 1645 1 1
+/aniversario/paginafoto7.html 1 449 1 1
+/aniversario/paginafoto22.html 1 443 1 1
+/casamento/paginafoto7.html 1 773 1 1
+/escola/pai.html 1 1354 1 1
+/igreja/5.html 1 466 0 1
+/igreja/3ok.html 1 533 0 0
+END_SIDER

@@ -1,0 +1,192 @@
+Return-path: <pagamento@pagseguro.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Mon, 21 Sep 2015 15:13:57 -0300
+Received: from a2-seldon3-2.uol.com.br ([200.147.34.237]:36566 helo=smtp.uol.com.br)
+	by hserv20.homehost.com.br with esmtp (Exim 4.85)
+	(envelope-from <pagamento@pagseguro.com.br>)
+	id 1Ze5b9-00069w-EC
+	for marco@digitalfotoimagem.com.br; Mon, 21 Sep 2015 15:13:56 -0300
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by a2-seldon3-2.uol.com.br (Postfix) with ESMTP id B35051C00953
+	for <marco@digitalfotoimagem.com.br>; Mon, 21 Sep 2015 15:13:50 -0300 (BRT)
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+Received: from a6-jaiminho1 (a6-jaiminho1.host.intranet [10.135.16.16])
+	by a2-seldon3-2.uol.com.br (Postfix) with ESMTP id A09A61C0091E
+	for <marco@digitalfotoimagem.com.br>; Mon, 21 Sep 2015 15:13:50 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=pagseguro.com.br;
+	s=uolrp; t=1442859230;
+	bh=wxI++E5ofVUf6fDB92Fq0skPUxwfZ5iEz79kEcbY1xY=; h=From:To:Subject;
+	b=NOZAThuDcDwHkrII5fj89tsVzw9hxibC6dXSxLXe0aGGElpQO5BF3D8h1kWBIB1As
+	 gKRCZL/nCZsFgRfgEyk7OdsBgF5lFJ2UyoI2Tspjz5tGq83vUIYGnm8lWqjy/rB+hg
+	 4qSLQeyhnHiMr9tIOpwZqjRCEHOnQEKW3bk1DnpM=
+Message-ID: <14509077.1442859230355.JavaMail.no-reply@uol.com.br>
+From: PagSeguro <pagamento@pagseguro.com.br>
+To: marco@digitalfotoimagem.com.br
+Subject: Pague o boleto gerado
+Mime-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_20075037_11410607.1442859230354"
+X-SIG5: 982deb6c589c9448c130509e87dcd3bb
+Date: Mon, 21 Sep 2015 15:13:50 -0300 (BRT)
+
+------=_Part_20075037_11410607.1442859230354
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <meta http-equiv=3D"Content-type" content=3D"text/html; charset=3Diso-8=
+859-1">
+    <title>Boleto aguardando pagamento</title>
+  </head>
+
+  <body><font face=3D"Arial" size=3D"2">
+    <!-- Boleto aguardando pagamento -->
+    <table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" width=3D"55=
+0" summary=3D"">
+      <thead>
+=09=09=09<tr><!-- cabecalho:inicio -->
+=09=09<td align=3D"center">
+=09=09=09<font face=3D"arial"><img src=3D"https://p.simg.uol.com.br/out/pag=
+seguro/i/email/pagseguro_uol.gif?091125" alt=3D"PagSeguro UOL" width=3D"266=
+" height=3D"66" /></font>
+=09=09=09<hr />
+=09=09</td>
+=09</tr><!-- cabecalho:fim -->
+      </thead>
+      <tbody>
+=09<tr>
+=09  <td>
+=09    <p><font color=3D"#449C38" face=3D"arial" size=3D"+1"><b>=09Ol&aacut=
+e;&nbsp;Marco Antonio Pedrosa Parise,
+</b></font></p>
+=09    <p><font face=3D"arial" size=3D"2">Um boleto de R$ 51,00 para Paulo =
+Marcos Tombesi Gerhardt foi gerado atrav=E9s do PagSeguro.</font></p>
+=09    <p><font face=3D"arial" size=3D"2">Ganhe tempo: Para concluir o paga=
+mento, <a href=3D"http://pagseguro.uol.com.br/checkout/imprimeBoleto.jhtml?=
+resizeBooklet=3Dn&code=3D7921AC5B-AC62-4439-9071-EB3FB1C1E6BD">imprima o bo=
+leto</a> e pague at=E9 o vencimento. </font></p>
+=09  </td>
+=09</tr>
+=09=09<tr>
+=09  =09<td>
+=09=09=09<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" style=3D"margin:15px 0;">
+=09=09=09=09<tr height=3D"20" valign=3D"middle">
+=09=09=09=09=09<td align=3D"left" width=3D"150"><font face=3D"arial" size=
+=3D"2"><strong>Status:</strong></font></td>
+=09=09=09=09=09<td><font face=3D"arial" size=3D"2"> Aguardando pagamento</f=
+ont></td>
+=09=09=09=09</tr>
+=09=09=09=09<tr height=3D"20" valign=3D"middle">
+=09=09=09=09=09<td align=3D"left" width=3D"150"><font face=3D"arial" size=
+=3D"2"><strong>C=F3digo:</strong></font></td>
+=09=09=09=09=09<td><font face=3D"arial" size=3D"2"> 7921AC5B-AC62-4439-9071=
+-EB3FB1C1E6BD</font></td>
+=09=09=09=09</tr>
+
+=09=09=09=09=09=09=09=09
+=09=09=09=09
+=09=09=09=09<tr height=3D"20" valign=3D"middle">
+=09=09=09=09=09<td align=3D"left" width=3D"150"><font face=3D"arial" size=
+=3D"2"><strong>E-mail:</strong></font></td>
+=09=09=09=09=09<td><font face=3D"arial" size=3D"2"> <a href=3D"mailto:paulo=
+@treinar.com.br">paulo@treinar.com.br</a></font></td>
+=09=09=09=09</tr>
+=09=09=09=09
+=09=09=09=09=09=09=09=09=09<tr height=3D"20" valign=3D"middle">
+=09=09=09=09=09=09<td align=3D"left" width=3D"150"><font face=3D"arial" siz=
+e=3D"2"><strong>Telefone:</strong></font></td>
+=09=09=09=09=09=09<td><font face=3D"arial" size=3D"2"> 51 32231201</font></=
+td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</table>
+=09=09</td>
+=09</tr>
+
+=09=09=09
+<tr><!-- carrinho:inicio -->
+=09<td>
+=09=09<font face=3D"Arial" size=3D"2">
+=09=09<br /><br />
+=09=09<table cellspacing=3D"0" cellpadding=3D"5" rules=3D"groups" border=3D=
+"0" bordercolor=3D"#DBDBDB" style=3D"width:100%" summary=3D"carrinho">
+=09=09<thead>
+=09=09=09=09<tr bgcolor=3D"#EEEEEE">
+=09=09=09=09=09=09=09=09=09<th><font color=3D"#515151">ITENS DO PEDIDO</fon=
+t></th>
+=09=09=09=09=09<th><font color=3D"#515151">QUANTIDADE</font></th>
+=09=09=09=09=09<th><font color=3D"#515151">VALOR&nbsp;(R$)</font></th>
+=09=09=09=09=09<th><font color=3D"#515151">TOTAL&nbsp;(R$)</font></th>
+=09=09=09=09=09=09=09=09</tr>
+=09=09</thead>
+=09=09<tbody align=3D"right">
+=09=09<tr align=3D"left"><td><p><font face=3D"arial" size=3D"-1">Livro Coac=
+hing de Vendas</font></p></td><td align=3D"center"><p><font face=3D"arial" =
+size=3D"-1">  1</font></p></td><td align=3D"right"><p><font face=3D"arial" =
+size=3D"-1"> 50,00</font></p></td><td align=3D"right"><p><font face=3D"aria=
+l" size=3D"-1"> 50,00</font></p></td></tr>
+=09=09</tbody>
+=09=09<tfoot align=3D"right">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09<td colspan=3D"4">*Tarifa de boleto: R$&nbsp;1,00</td>
+=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td colspan=3D"4"><b>Total geral: R$&nbsp;51,00</b><hr=
+ size=3D"1" color=3D"#449c38"/></td>
+=09=09=09=09=09=09</tr>
+=09=09</tfoot>
+=09=09</table>
+=09=09</font>
+=09</td>
+</tr>
+<tr><td><p><font face=3D"arial" size=3D"1" color=3D"#999">*Tarifa aplicada =
+para cobrir os custos de gest=E3o de risco do meio de pagamento.</font></p>=
+</td></tr>
+<!-- carrinho:fim -->
+=09<tr>
+=09  <td>
+=09    <p><font face=3D"arial" size=3D"2">Facilite sua vida: PagSeguro =E9 =
+a melhor maneira de fazer pagamentos e receber valores na internet com a se=
+guran=E7a dos seus dados garantida.</font></p>
+=09  </td>
+=09</tr>
+=09=09<tr><!-- rodape:inicio -->
+=09=09<td>
+=09=09=09<font face=3D"arial" size=3D"-1">
+=09=09=09=09<br>Atenciosamente,<br>Equipe PagSeguro.<br><br>
+=09=09=09=09<strong>PagSeguro.</strong> Sua compra protegida.
+=09=09=09</font>
+=09=09</td>
+=09</tr>
+=09<tr>
+=09=09<td align=3D"center">
+=09=09=09<hr size=3D"2" color=3D"#EFEFEF">
+=09=09=09<font face=3D"arial" size=3D"-1">
+=09=09=09D=DAVIDAS? Acesse =09=09=09<a href=3D"http://www.pagseguro.com.br/=
+atendimento">http://www.pagseguro.com.br/atendimento</a>
+=09=09=09</font>
+=09=09</td>
+=09</tr>
+=09<tr>
+=09=09<td align=3D"center">
+=09=09=09<hr size=3D"2" color=3D"#EFEFEF">
+=09=09=09<font face=3D"arial" size=3D"-1">Este =E9 um e-mail autom=E1tico d=
+isparado pelo sistema. Favor n=E3o respond=EA-lo, pois esta conta n=E3o =E9=
+ monitorada.</font>
+=09=09</td>
+=09</tr>
+=09<tr>
+=09=09<td background=3D"https://p.simg.uol.com.br/out/pagseguro/i/email/deg=
+_rodapemail.gif">&nbsp;</td>
+=09</tr><!-- rodape:fim -->
+      </tbody>
+    </table>=09 =20
+    <!-- MB01 -->
+  </font></body>
+</html>
+
+------=_Part_20075037_11410607.1442859230354--
+

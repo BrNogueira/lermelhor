@@ -1,0 +1,12 @@
+
+                
+<IfModule mod_rewrite.c>
+  RewriteEngine  on
+  RewriteRule ^Portf\xF3lio\.(.*)$ /dou9/Portf\%C3\%B3lio.$1 [R=301,NC,NE,QSA,L]
+#rvs append   
+   # http://httpd.apache.org/docs/2.2/mod/mod_rewrite.html#rewriterule
+   # R - redirect with response code
+   # NE - (no URI escaping of output) will not convert \% to %25 but will show as %
+   # QSA - query string append, for photo album, guestbook
+   # L - last, stop and not processs other rules
+</IfModule>

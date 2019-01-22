@@ -1,0 +1,73 @@
+Return-Path: <suporte@homehost.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id qXa4AC9cB1jnQQwAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Wed, 19 Oct 2016 09:42:39 -0200
+Return-path: <suporte@homehost.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Wed, 19 Oct 2016 09:42:39 -0200
+Received: from mailalt.homehost.com.br ([177.85.98.241]:57621)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <suporte@homehost.com.br>)
+	id 1bwpGY-003Pue-Eo
+	for marco@digitalfotoimagem.com.br; Wed, 19 Oct 2016 09:42:38 -0200
+Received: from homehost-admin2 (www.homehost.com.br [177.184.2.204])
+	(using TLSv1.2 with cipher DHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by mailalt.homehost.com.br (Postfix) with ESMTPS id 73F4A5444C02
+	for <marco@digitalfotoimagem.com.br>; Wed, 19 Oct 2016 09:39:10 -0200 (BRST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=homehost.com.br;
+	s=defaultkey; t=1476877151;
+	bh=KWmleP2UIU9b9E2mNn9Y3ooa+At1+oHMa4EqKU2YVik=;
+	h=Date:To:From:Subject;
+	b=nl8ZMQw3lo/erXOsjMn48dPxbPcWRlGez9yvjyiEChuBhsNTeD8AYZ0xKJ9CwZ+4J
+	 DiXh2NWTt7Fa81sul3otMp6OnMRIw9irhyNf2iWuGWtXQu3tIrr80RNANVZKjMIkbJ
+	 /jWirLQChlIWOMJxoOH4S3htm+3QxsojAyjl2jtA=
+Date: Wed, 19 Oct 2016 09:42:32 -0200
+To: marco@digitalfotoimagem.com.br
+From: Homehost <suporte@homehost.com.br>
+Subject: =?windows-1250?Q?Re:_[#1542685]_Bom_dia,_meu_dominio_=C3=A9_digitalfotoim?=
+ =?windows-1250?Q?agem.com.br?=
+Message-ID: <67871c4b7c4564080c9a2bc8e2f4afee@homehost-admin2>
+X-Mailer: PHPMailer 5.2.15 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=windows-1250
+Content-Transfer-Encoding: 8bit
+
+Bom dia Marco,
+
+Conforme conversamos via chat, o problema estava no arquivo com nome "backup-9.10.2016_14-43-58_gfotobr.tar.gz" que o senhor estava enviando pela opção "Reposição de projeto".
+
+Esse arquivo se refere à um backup feito no caminho "Área de cliente/Painel de controle/Backup", onde é feito um backup total de sua conta de hospedagem, que incluí: Todos seus e-mails, banco de dados e arquivos dos seus sites.
+
+A maneira correta de efetuar o backup do seu projeto atual, seria dentro do construtor onde o senhor está desenvolvimento o seu projeto, que no caso seria o RvSiteBuilder, na opção "Faça backup", conforme imagem abaixo:
+
+Imagem: http://i.imgur.com/N6FQEpC.png
+
+Assim ele  irá criar um arquivo de backup para o senhor baixar, onde ele segue um padrão de nomeação, começando sempre pelo seu nome de usuário.
+
+Segue abaixo o teste que eu fiz e o passo a passo realizado após ter clicado na opção "Faça backup":
+
+- Assim que ele gerar o backup, lhe dará a opção de baixar: http://i.imgur.com/B03N1nQ.png
+- Quando o arquivo estiver sido baixado, terá um nome semelhante à este: http://i.imgur.com/f5QgzY9.png
+- Para restaurar, vamos na opção "Reposição de projeto" e enviamos este arquivo: http://i.imgur.com/TwnZe2S.png
+- Após o envio, ele lhe pedirá para escolher uma das formas de restauração: http://i.imgur.com/YcF3gjy.png
+- Restauração concluída com êxito, sem erros: http://i.imgur.com/sLA9q2v.png
+
+
+
+
+
+Estou disponivel para qualquer esclarecimento adicional.
+
+
+---
+Atenciosamente,
+Diego Souza
+Suporte Técnico Homehost
+
+
+Consulte sempre nosso base de tutoriais de ajuda em https://www.homehost.com.br/suporte#faqSec
+Disponibilizamos diversos artigos e guias em nosso Blog.
+

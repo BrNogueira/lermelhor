@@ -1,0 +1,70 @@
+Return-Path: <>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv6.homehost.com.br
+	by hserv6.homehost.com.br (Dovecot) with LMTP id afNJI5WhzVf16AkANprIEw
+	for <marco@digitalfotoimagem.com.br>; Mon, 05 Sep 2016 13:47:17 -0300
+Return-path: <>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Mon, 05 Sep 2016 13:47:17 -0300
+Received: from mailnull by hserv6.homehost.com.br with local (Exim 4.87)
+	id 1bgx3F-002kbQ-6U
+	for marco@digitalfotoimagem.com.br; Mon, 05 Sep 2016 13:47:17 -0300
+X-Failed-Recipients: carlos.roset@uol.com.br
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@hserv6.homehost.com.br>
+To: marco@digitalfotoimagem.com.br
+Content-Type: multipart/report; report-type=delivery-status; boundary=1473094037-eximdsn-1320688548
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1bgx3F-002kbQ-6U@hserv6.homehost.com.br>
+Date: Mon, 05 Sep 2016 13:47:17 -0300
+
+--1473094037-eximdsn-1320688548
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  carlos.roset@uol.com.br
+    host mx.uol.com.br [200.147.36.15]
+    SMTP error from remote mail server after RCPT TO:<carlos.roset@uol.com.br>:
+    550 5.1.1 <carlos.roset@uol.com.br>: Recipient address rejected:
+    User unknown in relay recipient table
+
+--1473094037-eximdsn-1320688548
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; hserv6.homehost.com.br
+
+Action: failed
+Final-Recipient: rfc822;carlos.roset@uol.com.br
+Status: 5.0.0
+Remote-MTA: dns; mx.uol.com.br
+Diagnostic-Code: smtp; 550 5.1.1 <carlos.roset@uol.com.br>: Recipient address rejected: User unknown in relay recipient table
+
+--1473094037-eximdsn-1320688548
+Content-type: text/rfc822-headers
+
+Return-path: <marco@digitalfotoimagem.com.br>
+Received: from hserv6ho by hserv6.homehost.com.br with local (Exim 4.87)
+	(envelope-from <marco@digitalfotoimagem.com.br>)
+	id 1bgx3C-002kYi-6t
+	for carlos.roset@uol.com.br; Mon, 05 Sep 2016 13:47:14 -0300
+To: carlos.roset@uol.com.br
+Subject: I ERAC DA I e II MACRO  01-10-2016
+X-PHP-Script: hserv6.homemail.com.br/index.php for 201.6.228.171, 201.6.228.171
+X-PHP-Filename: /home/hserv6ho/public_html/index.php
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="=_784f58a5576f09ec516a8d0760642ff4"
+Date: Mon, 05 Sep 2016 13:47:13 -0300
+From: marco@digitalfotoimagem.com.br
+Message-ID: <08e241d43b16fea729ed971d29ed5f13@digitalfotoimagem.com.br>
+X-Sender: marco@digitalfotoimagem.com.br
+User-Agent: Roundcube Webmail/1.0.1
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1473094037-eximdsn-1320688548--

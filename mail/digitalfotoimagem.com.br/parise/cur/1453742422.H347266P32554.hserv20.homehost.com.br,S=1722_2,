@@ -1,0 +1,42 @@
+Return-path: <contato@www2.credcobrancas.ru>
+Envelope-to: parise@digitalfotoimagem.com.br
+Delivery-date: Mon, 25 Jan 2016 15:20:22 -0200
+Received: from www2.credcobrancas.ru ([185.58.193.119]:59277)
+	by hserv20.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.86)
+	(envelope-from <contato@www2.credcobrancas.ru>)
+	id 1aNkoQ-0008HY-50
+	for parise@digitalfotoimagem.com.br; Mon, 25 Jan 2016 15:20:22 -0200
+Received: by www2.credcobrancas.ru (Postfix, from userid 0)
+	id E8CCB128CB305; Mon, 25 Jan 2016 02:33:13 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=credcobrancas.ru;
+	s=www2; t=1453740888;
+	bh=qr5nKdgCCoE/d8mbs2gVmiOSAVlt9gXW+sym3nruOm0=;
+	h=From:To:Subject:Date:From;
+	b=AgpRDk3CmdQuOB+b/1G24h0gQVtrQdJRcP+aTer94Kjq+ZGl2uOeTe1v+ZlCDxjlB
+	 vYEzfPoKJUHv3UcwDus7zDXDmwx2oFL5g5rcL59Bpi1Jl4LZi/mJrVI4/tkwD6LAr6
+	 NaKbwx6sn0A5N3q5bP4CdSS4pK3lat5A0wEqsBAs=
+From: DEPARTAMENTO JURÍDICO <contato@credcobrancas.ru>
+To: parise@digitalfotoimagem.com.br
+Subject: ÚLTIMO AVISO: Boleto de Cobrança
+Content-Type: multipart/mixed; boundary="c80b7bbe-0d8e-42ec-8a83-b652feeb73e9/8bf41ae860d6"
+MIME-Version: 1.0
+Message-Id: <20160125165448.E8CCB128CB305@www2.credcobrancas.ru>
+Date: Mon, 25 Jan 2016 02:33:13 +0000 (UTC)
+
+This is a multi-part message in MIME format.
+--c80b7bbe-0d8e-42ec-8a83-b652feeb73e9/8bf41ae860d6
+Content-Type: text/html; charset="iso-8859-1"
+Content-Disposition: inline
+
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"></head>
+<body>
+  <p>Prezado(a) PARISE</p>
+
+  <p><a href=http://www.credcobrancas.ru/>boleto_23012016.pdf</p></a>
+</body>
+</html>
+
+--c80b7bbe-0d8e-42ec-8a83-b652feeb73e9/8bf41ae860d6--

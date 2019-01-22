@@ -1,0 +1,73 @@
+Return-path: <ari.rafa.gabi@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Mon, 26 Jan 2015 09:59:22 -0200
+Received: from mail-wg0-f43.google.com ([74.125.82.43]:42867)
+	by hserv20.homehost.com.br with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80.1)
+	(envelope-from <ari.rafa.gabi@gmail.com>)
+	id 1YFiJr-0001jc-2A
+	for marco@digitalfotoimagem.com.br; Mon, 26 Jan 2015 09:59:21 -0200
+Received: by mail-wg0-f43.google.com with SMTP id y19so8562728wgg.2
+        for <marco@digitalfotoimagem.com.br>; Mon, 26 Jan 2015 03:58:54 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=eQn6+yFVdjuUGfHYhDZVQWDuGgeR0XzBPelO5PUjf50=;
+        b=huv7RMEa/YZLIUPHvc13SY2n6DiIYvyxHA6CWHUheK9Tod5z+lSCq73AcBGJHA1VuF
+         JhrlaHva7+Bmr3rxVUWf6ZnSdZBMF2DJ5KJkNiSotBt3G5GhUIN3Fw8s8rUXilmqAQjt
+         ngaPHnWSu5eaHPDpzqHM0vHddpvWGzXPUaWQ3f/5nCf3TSCxgPGpbgXA+jS9aH+VInEr
+         lU2f/J4Ia9De0A80UzxBq3VOMLuV7vap814OQaUp4wqsS0ipPte/bURJOPvLhWVhV+m4
+         c2Cvdef756UZKb05vjHuMmOxFqbAcFexF1EWf7G4gjhoOc1mA158qYL3V8oqxyjt+W3J
+         6i6A==
+MIME-Version: 1.0
+X-Received: by 10.180.21.161 with SMTP id w1mr28092812wie.44.1422273534402;
+ Mon, 26 Jan 2015 03:58:54 -0800 (PST)
+Received: by 10.217.90.129 with HTTP; Mon, 26 Jan 2015 03:58:54 -0800 (PST)
+In-Reply-To: <f46d0434bfc238104b050c4e081a@google.com>
+References: <CAFAGTwf9M3xqK7nYTwKRaoGjW3friVptCRUQTSkBv7aagPr7xw@mail.gmail.com>
+	<f46d0434bfc238104b050c4e081a@google.com>
+Date: Mon, 26 Jan 2015 09:58:54 -0200
+Message-ID: <CAFAGTwf0kFQbDbj8vZVtEDJePHW98JBCWd7n=XxqLc0utCh6Ug@mail.gmail.com>
+Subject: Fwd: Delivery Status Notification (Failure)
+From: Ariane Saiur <ari.rafa.gabi@gmail.com>
+To: marco@digitalfotoimagem.com.br
+Content-Type: multipart/alternative; boundary=047d7b6dc074caa81b050d8cdc71
+X-Spam-Status: No, score=-2.0
+X-Spam-Score: -19
+X-Spam-Bar: --
+X-Ham-Report: Spam detection software, running on the system "hserv20.homehost.com.br", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  [...] 
+ 
+ Content analysis details:   (-2.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (ari.rafa.gabi[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+X-Spam-Flag: NO
+
+--047d7b6dc074caa81b050d8cdc71
+Content-Type: text/plain; charset=UTF-8
+
+
+
+--047d7b6dc074caa81b050d8cdc71
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr"><br><div class="gmail_quote"><br></div></div>
+
+--047d7b6dc074caa81b050d8cdc71--

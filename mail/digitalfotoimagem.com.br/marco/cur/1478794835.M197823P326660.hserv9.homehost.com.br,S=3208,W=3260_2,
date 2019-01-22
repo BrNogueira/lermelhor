@@ -1,0 +1,52 @@
+Return-Path: <010001584f09a621-5e77b3d5-4021-475f-b0cf-68d61032ed5c-000000@amazonses.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id ycZMC1OeJFgE/AQAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Thu, 10 Nov 2016 14:20:35 -0200
+Return-path: <010001584f09a621-5e77b3d5-4021-475f-b0cf-68d61032ed5c-000000@amazonses.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 10 Nov 2016 14:20:35 -0200
+Received: from a8-176.smtp-out.amazonses.com ([54.240.8.176]:42465)
+	by hserv9.homehost.com.br with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.87)
+	(envelope-from <010001584f09a621-5e77b3d5-4021-475f-b0cf-68d61032ed5c-000000@amazonses.com>)
+	id 1c4s5b-001Mjb-2B
+	for marco@digitalfotoimagem.com.br; Thu, 10 Nov 2016 14:20:35 -0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=lb4w4liwt2jisfigcabqng6ofptt5cfd; d=connectamericas.com;
+	t=1478794782;
+	h=Date:Message-Id:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Sender:From;
+	bh=qJVKm55jlocidiidqPvtMNNbWM3za0+nx4OtnAKNYsA=;
+	b=cI9cOP0FyHzrsVoo0EkRwBhKRJL38uEQB7tigR5B/yvlLs7nECsmLaZp2erifvrq
+	4d5ydQKtVhs55PExN4PxmF7B0S6z6fWSjuknzr8ppOQNdiZuww00FxoVLY8Q1fsASmX
+	ckjbW1Vyc+VJUmMiWsIpJv5OaG3AkHZs5/ao9gCE=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1478794782;
+	h=Date:Message-Id:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Sender:From:Feedback-ID;
+	bh=qJVKm55jlocidiidqPvtMNNbWM3za0+nx4OtnAKNYsA=;
+	b=zzLa+Mi8XwtpErp+vrWMExfZaQFHKGtcZ49LkaD5+DuWZoCjuyGQIjyPX7xunYfu
+	G+72lQC2j9kz4E1AKYsnXNx2TBg/F4Vz3La4sKONX5Ms6scHtDytzU/KE4lPY4blfX2
+	1jK7rBnz9eYe+tKFBYTclPJ7W4N3gAJNmYh/pJk4=
+Date: Thu, 10 Nov 2016 16:19:42 +0000
+Message-ID: <010001584f09a621-5e77b3d5-4021-475f-b0cf-68d61032ed5c-000000@email.amazonses.com>
+X-Authentication-Warning: prodrupal-i-87b83b0e.connectamericas.net: deployer set sender to noreply@connectamericas.com using -f
+To: marco@digitalfotoimagem.com.br
+Subject: ConnectAmericas - Email verification
+X-PHP-Originating-Script: 505:htmlmail.mail.inc
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Sender: noreply@connectamericas.com
+From: "ConnectAmericas" <noreply@connectamericas.com>
+X-SES-Outgoing: 2016.11.10-54.240.8.176
+Feedback-ID: 1.us-east-1.mYlkgRODUEKK1AYOXXNNaYmZhsfVMsQgiqEsbgI1IbY=:AmazonSES
+
+<div class="htmlmail-body">
+<div style="width:100%;">
+  <p style="font-size: 16px;">Hi Marco,</p>
+  <p>We have received your registration request at ConnectAmericas. Please active your account.</p>
+  <p style="text-align: center; margin: 35px 0;"><a href="https://connectamericas.com/user/registrationpassword/84561/1478794781/CUZr2eYHUfpyfRabQtAgAXInd6jo0YArKMfYxp17GCI" style="background-color: #007E8E;font-family:Arial; font-size: 14px; color: #FFFFFF;padding-left: 15px; padding-right:15px; padding-top: 11px; padding-bottom: 10px;display:inline-block;border-radius: 3px; text-decoration: none;">ACTIVATE ACCOUNT</a></p>
+  <p style="font-size: 13px; color: #888;">If you haven't registered, ignore this email.</p>
+</div></div>
+

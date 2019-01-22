@@ -1,0 +1,345 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201303 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2017                
+POS_TIME 2690                
+POS_VISITOR 7312                
+POS_DAY 8663                
+POS_DOMAIN 3360                
+POS_LOGIN 3679                
+POS_ROBOT 3834                
+POS_WORMS 4204                
+POS_EMAILSENDER 4335                
+POS_EMAILRECEIVER 4478                
+POS_SESSION 9252                
+POS_SIDER 9448                
+POS_FILETYPES 4613                
+POS_DOWNLOADS 4778                
+POS_OS 4826                
+POS_BROWSER 4903                
+POS_SCREENSIZE 5130                
+POS_UNKNOWNREFERER 5204                
+POS_UNKNOWNREFERERBROWSER 5291                
+POS_ORIGIN 5373                
+POS_SEREFERRALS 5508                
+POS_PAGEREFS 5652                
+POS_SEARCHWORDS 5872                
+POS_KEYWORDS 6024                
+POS_MISC 2354                
+POS_ERRORS 6083                
+POS_CLUSTER 3535                
+POS_SIDER_404 6181                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130401001302 4 531 9844994440160
+FirstTime 20130301134731
+LastTime 20130331143651
+LastUpdate 20130401094322 4 0 3 0 0
+TotalVisits 75                  
+TotalUnique 33                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 35                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 0 10 25 57503
+1 3 3 502 6 18 94262
+2 0 0 0 9 20 87798
+3 0 0 0 6 16 96352
+4 0 0 0 5 17 101972
+5 0 0 0 4 11 50719
+6 1 2 12641 6 11 23754
+7 1 1 8474 8 25 425692
+8 1 1 646 6 23 97542
+9 1 1 646 9 35 338408
+10 1 28 379669 5 26 131312
+11 16 16 18690 10 28 64217
+12 8 8 646 13 53 384807
+13 9 9 9120 11 80 32507
+14 6 6 646 11 35 117597
+15 1 1 8474 1 41 88466
+16 3 3 0 8 66 100725
+17 10 10 16948 13 39 57693
+18 14 84 730522 10 52 70404
+19 9 9 1938 18 71 85217
+20 4 4 0 13 36 100407
+21 4 4 1938 10 54 112832
+22 2 2 0 6 60 89790
+23 3 3 0 6 16 54679
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+br 88 185 1134245
+us 5 6 38565
+ru 3 3 8474
+cn 2 2 2775
+hu 1 1 5291
+kr 1 1 0
+ng 1 1 566
+co 1 1 0
+bg 1 1 1584
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+googlebot 90 100424 20130331024740 0
+msnbot\-media 80 2383556 20130330134713 0
+bot[\s_+:,\.\;\/\\-] 65 302028 20130331113429 0
+[\s_+:,\.\;\/\\-]bot 16 32889 20130330203514 0
+robot 2 16948 20130317231613 0
+netcraft 1 8474 20130309000525 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+php 2 34322 0 0
+css 10 20926 0 0
+html 101 135791 0 0
+js 5 16148 0 0
+jpg 76 983053 0 0
+gif 7 1260 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 4
+winlong 2
+winxp 148
+win2003 3
+win7 48
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 11
+msie6.0 4
+msie8.0 66
+chrome13.0.782.107 12
+msie7.0 4
+chrome25.0.1364.172 1
+firefox16.0 29
+chrome25.0.1364.152 5
+firefox8.0 1
+firefox3.6.3 1
+firefox19.0 77
+chrome21.0.1180.89 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 92 92
+From1 0 0
+From2 0 0
+From3 1 1
+From4 10 108
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://www.shi.com.br/proclib/10_2007/digitalfotoimagem.com.br.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 189 0
+301 82 20336
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 9
+/dou2/images/bullet01.gif 1 http://www.digitalfotoimagem.com.br/dou2/Filosofia-da-empresa.php
+/robots.txt 179 -
+/3rdparty/rvsitebuilder/themes/default/sitebuilder/images/bghead.gif 1 http://www.digitalfotoimagem.com.br/dou2/Filosofia-da-empresa.php
+/3rdparty/rvsitebuilder/themes/default/sitebuilder/images/line.gif 1 http://www.digitalfotoimagem.com.br/dou2/Filosofia-da-empresa.php
+/dou2/images/bullet03.gif 1 http://www.digitalfotoimagem.com.br/dou2/Filosofia-da-empresa.php
+/index.swf 3 http://www.digitalfotoimagem.com.br/
+/Fundo2.png 1 http://www.digitalfotoimagem.com.br/email.html
+/dou2/images/bullet02.gif 1 http://www.digitalfotoimagem.com.br/dou2/Filosofia-da-empresa.php
+/3rdparty/rvsitebuilder/themes/default/sitebuilder/images/bghead02.gif 1 http://www.digitalfotoimagem.com.br/dou2/Filosofia-da-empresa.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 35
+201.6.63.100 12 12 0 20130307181220
+201.55.31.107 11 11 4522 20130328193450
+201.6.60.41 10 10 0 20130325201225
+201.6.71.43 8 8 646 20130320130026
+179.229.253.15 7 77 729230 20130310181849
+187.38.240.238 7 7 0 20130314170954
+189.33.183.77 6 6 0 20130304001559
+201.6.70.117 6 6 646 20130329211537
+201.6.74.184 4 4 0 20130316203550
+187.37.5.236 3 3 646 20130302204549
+189.33.180.103 3 3 0 20130327012118
+187.9.235.167 2 17 275916 20130326100659
+187.114.227.140 2 2 16948 20130327172222
+187.37.4.25 2 2 646 20130309183140
+187.38.240.60 2 2 0 20130331143651
+79.140.98.222 1 1 0 20130314111526
+200.208.251.210 1 1 0 20130314111329
+107.21.73.213 1 1 8474 20130307073821
+65.55.212.89 1 1 8474 20130330061400
+209.160.65.104 1 1 8474 20130304152456
+190.0.17.202 1 1 0 20130314111356
+131.253.26.245 1 1 502 20130315010627
+95.87.231.130 1 1 1584 20130314111430
+85.113.141.251 1 1 8474 20130314111321
+221.235.188.235 1 1 727 20130314111512
+186.207.142.27 1 1 0 20130314111514
+218.203.107.169 1 1 2048 20130314111332
+187.9.235.165 0 6 61562 
+121.66.95.156 1 1 0 20130314111505
+199.187.122.91 1 1 8474 20130315133805
+41.75.201.146 1 1 566 20130314111523
+187.9.235.166 1 7 43483 20130326095312
+91.120.127.127 1 1 5291 20130314111543
+195.64.211.173 1 1 0 20130314111320
+131.253.26.243 0 1 4167 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20130301 6 6 646 3
+20130302 1 1 0 1
+20130303 2 2 0 1
+20130304 15 15 8474 6
+20130305 2 2 646 2
+20130307 2 2 8474 2
+20130308 1 1 646 1
+20130309 2 2 646 2
+20130310 7 77 729230 1
+20130311 1 1 0 1
+20130312 2 2 646 2
+20130313 4 4 646 3
+20130314 16 16 19982 15
+20130315 5 5 9622 5
+20130316 2 2 0 2
+20130318 4 4 646 3
+20130319 1 1 0 1
+20130320 3 3 0 2
+20130322 3 3 0 2
+20130323 3 3 0 2
+20130324 1 1 0 1
+20130325 3 3 0 2
+20130326 4 31 380315 4
+20130327 5 5 16948 4
+20130328 3 3 646 3
+20130329 2 2 646 1
+20130330 1 2 12641 1
+20130331 2 2 0 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 1
+5mn-15mn 5
+0s-30s 58
+15mn-30mn 5
+30s-2mn 1
+30mn-1h 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/email/ 76 8398 55 55
+/ 10 76266 8 8
+/email.html 3 10582 2 3
+/igreja/1.html 3 1132 2 2
+/escola/1.html 2 727 2 2
+/aniversario/aniversario.html 2 1584 2 2
+/dou2/ 2 34552 1 0
+/casamento/paginacasamento.html 2 2048 2 2
+/dou2/Filosofia-da-empresa.php 1 22959 0 0
+/igreja/2.html 1 502 1 1
+/dou2/Eventos.php 1 11363 0 0
+END_SIDER

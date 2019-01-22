@@ -1,0 +1,32 @@
+<?php
+$aLang['The form was not submitted for the following reasons:'] = '表格因为以下的理由不被提交:';
+$aLang['Please click'] = '请点击';
+$aLang['here'] = '这里';
+$aLang['to return to the form and try again.'] = '返回形式再试试。';
+$aLang['Missing:'] = '遗漏：';
+$aLang['Could not find online form configuration file ID='] = '不能找在线表格配置文件ID=';
+$aLang[' for RV SiteBuilder formmail.'] = '为 RV SiteBuilder 程式。';
+$aLang['I NEED VALID RECIPIENT EMAIL ADDRESS'] = '我需要有效受方电子邮件地址';
+$aLang['TO CONTINUE</b>'] = '继续</b>>';
+$aLang['your <b>email address'] = '您的<b>电子邮件地址';
+$aLang['</b> is invalid.'] = '</b> 不正确。';
+$aLang['your <b>zip/postal code</b> is invalid'] = '您的<b>邮政编码</b>不正确';
+$aLang['your <b>phone number</b> is invalid'] = '您的<b>电话号码</b>不正确';
+$aLang['your <b>fax number</b> is invalid'] = '您的<b>传真号码</b>不正确';
+$aLang['Thank you for submitting your enquiry'] = '谢谢提交您的调查，我们会经尽快联络您。';
+$aLang['This form is powered by '] = '这形式是驱动由';
+$aLang['Please use your browser back button to return to the form and try again.'] = '请用您的浏览器返回键返回形式和再试试。';
+$aLang['This form is powered by'] = '这形式是驱动由';
+$aLang['You are using from a <b>banned email address.</b>'] = '您是用从一个<b>禁止电子邮件地址。';
+$aLang['You are coming from an'] = '您是来自一';
+$aLang['You are coming from an <b>unauthorized domain.</b>'] = '您是来自一个<b>未经许可领域。</b>';
+$aLang['Spam mail detected.'] = '检测到垃圾邮件。';
+$aLang['Your message never be sent.'] = '您的信息未发送。';
+$aLang['If you accidentally get this error, please contact us for the resolution.'] = '如果您偶然得这错误请联系我们以解决。';
+$aLang['This was an INVALID submission. You have acted like a spambot!'] = '这是个无效提交。您已经像个垃圾邮件发射!';
+$aLang['Cannot connect to sendmail server'] = '不能连接发送邮件服务器。';
+$aLang['Sending email from'] = '发送电子邮件从';
+$aLang['to'] = '到';
+$aLang['failed'] = '失败';
+$aLang['Sorry, your admin disable send mail.'] = 'Sorry, your admin disable send mail.';
+?>

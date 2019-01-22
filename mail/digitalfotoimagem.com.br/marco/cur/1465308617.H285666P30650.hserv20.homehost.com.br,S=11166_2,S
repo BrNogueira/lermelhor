@@ -1,0 +1,256 @@
+Return-path: <>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 07 Jun 2016 11:10:17 -0300
+Received: from mailnull by hserv20.homehost.com.br with local (Exim 4.87)
+	id 1bAHhx-0007y9-1n
+	for marco@digitalfotoimagem.com.br; Tue, 07 Jun 2016 11:10:17 -0300
+X-Failed-Recipients: dantas7700@yahoo.com.br,
+  rodrigues-silva@bol.com.br,
+  mayracosta@hotmail.com,
+  wanderkeywkm@hotmail.com,
+  fabikisses@ig.com.br,
+  edson.rn@ig.com.br,
+  mcs-76@ig.com.br,
+  irene-cristina@ig.com.br,
+  adrianaresende@ig.com.br,
+  historiadorapaula@ig.com.br,
+  cireia@ig.com.br,
+  rosemi_silva@ig.com.br,
+  lainasena@yhaoo.com.br
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@hserv20.homehost.com.br>
+To: marco@digitalfotoimagem.com.br
+Content-Type: multipart/report; report-type=delivery-status; boundary=1465308617-eximdsn-58990682
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1bAHhx-0007y9-1n@hserv20.homehost.com.br>
+Date: Tue, 07 Jun 2016 11:10:17 -0300
+
+--1465308617-eximdsn-58990682
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  dantas7700@yahoo.com.br
+    host mta6.am0.yahoodns.net [98.136.216.25]
+    SMTP error from remote mail server after end of data:
+    554 delivery error: dd This user doesn't have a yahoo.com.br account (dantas7700@yahoo.com.br) [0] - mta1142.mail.gq1.yahoo.com
+  rodrigues-silva@bol.com.br
+    host mx3.bol.com.br [200.147.36.13]
+    SMTP error from remote mail server after RCPT TO:<rodrigues-silva@bol.com.br>:
+    550 5.1.1 <rodrigues-silva@bol.com.br>: Recipient address rejected:
+    User unknown in relay recipient table
+  mayracosta@hotmail.com
+    host mx2.hotmail.com [65.54.188.72]
+    SMTP error from remote mail server after RCPT TO:<mayracosta@hotmail.com>:
+    550 Requested action not taken: mailbox unavailable
+  wanderkeywkm@hotmail.com
+    host mx4.hotmail.com [65.54.188.94]
+    SMTP error from remote mail server after RCPT TO:<wanderkeywkm@hotmail.com>:
+    550 Requested action not taken: mailbox unavailable
+  fabikisses@ig.com.br
+    host mx1.ig.correio.biz [177.153.23.241]
+    SMTP error from remote mail server after RCPT TO:<fabikisses@ig.com.br>:
+    550 5.1.1 <fabikisses@ig.com.br>: Recipient address rejected:
+    User unknown in virtual mailbox table
+  edson.rn@ig.com.br
+    host mx1.ig.correio.biz [177.153.23.241]
+    SMTP error from remote mail server after RCPT TO:<edson.rn@ig.com.br>:
+    550 5.1.1 <edson.rn@ig.com.br>: Recipient address rejected:
+    User unknown in virtual mailbox table
+  mcs-76@ig.com.br
+    host mx1.ig.correio.biz [177.153.23.241]
+    SMTP error from remote mail server after RCPT TO:<mcs-76@ig.com.br>:
+    550 5.1.1 <mcs-76@ig.com.br>: Recipient address rejected:
+    User unknown in virtual mailbox table
+  irene-cristina@ig.com.br
+    host mx1.ig.correio.biz [177.153.23.241]
+    SMTP error from remote mail server after RCPT TO:<irene-cristina@ig.com.br>:
+    550 5.1.1 <irene-cristina@ig.com.br>: Recipient address rejected:
+    User unknown in virtual mailbox table
+  adrianaresende@ig.com.br
+    host mx1.ig.correio.biz [177.153.23.241]
+    SMTP error from remote mail server after RCPT TO:<adrianaresende@ig.com.br>:
+    550 5.1.1 <adrianaresende@ig.com.br>: Recipient address rejected:
+    User unknown in virtual mailbox table
+  historiadorapaula@ig.com.br
+    host mx1.ig.correio.biz [177.153.23.241]
+    SMTP error from remote mail server after RCPT TO:<historiadorapaula@ig.com.br>:
+    550 5.1.1 <historiadorapaula@ig.com.br>: Recipient address rejected:
+    User unknown in virtual mailbox table
+  cireia@ig.com.br
+    host mx1.ig.correio.biz [177.153.23.241]
+    SMTP error from remote mail server after RCPT TO:<cireia@ig.com.br>:
+    550 5.1.1 <cireia@ig.com.br>: Recipient address rejected:
+    User unknown in virtual mailbox table
+  rosemi_silva@ig.com.br
+    host mx1.ig.correio.biz [177.153.23.241]
+    SMTP error from remote mail server after RCPT TO:<rosemi_silva@ig.com.br>:
+    550 5.1.1 <rosemi_silva@ig.com.br>: Recipient address rejected:
+    User unknown in virtual mailbox table
+  lainasena@yhaoo.com.br
+    The mail server could not deliver mail to lainasena@yhaoo.com.br.  The account or domain may not exist, they may be blacklisted, or missing the proper dns entries.
+
+--1465308617-eximdsn-58990682
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; hserv20.homehost.com.br
+
+Action: failed
+Final-Recipient: rfc822;lainasena@yhaoo.com.br
+Status: 5.0.0
+
+Action: failed
+Final-Recipient: rfc822;rosemi_silva@ig.com.br
+Status: 5.0.0
+Remote-MTA: dns; mx1.ig.correio.biz
+Diagnostic-Code: smtp; 550 5.1.1 <rosemi_silva@ig.com.br>: Recipient address rejected: User unknown in virtual mailbox table
+
+Action: failed
+Final-Recipient: rfc822;cireia@ig.com.br
+Status: 5.0.0
+Remote-MTA: dns; mx1.ig.correio.biz
+Diagnostic-Code: smtp; 550 5.1.1 <cireia@ig.com.br>: Recipient address rejected: User unknown in virtual mailbox table
+
+Action: failed
+Final-Recipient: rfc822;historiadorapaula@ig.com.br
+Status: 5.0.0
+Remote-MTA: dns; mx1.ig.correio.biz
+Diagnostic-Code: smtp; 550 5.1.1 <historiadorapaula@ig.com.br>: Recipient address rejected: User unknown in virtual mailbox table
+
+Action: failed
+Final-Recipient: rfc822;adrianaresende@ig.com.br
+Status: 5.0.0
+Remote-MTA: dns; mx1.ig.correio.biz
+Diagnostic-Code: smtp; 550 5.1.1 <adrianaresende@ig.com.br>: Recipient address rejected: User unknown in virtual mailbox table
+
+Action: failed
+Final-Recipient: rfc822;irene-cristina@ig.com.br
+Status: 5.0.0
+Remote-MTA: dns; mx1.ig.correio.biz
+Diagnostic-Code: smtp; 550 5.1.1 <irene-cristina@ig.com.br>: Recipient address rejected: User unknown in virtual mailbox table
+
+Action: failed
+Final-Recipient: rfc822;mcs-76@ig.com.br
+Status: 5.0.0
+Remote-MTA: dns; mx1.ig.correio.biz
+Diagnostic-Code: smtp; 550 5.1.1 <mcs-76@ig.com.br>: Recipient address rejected: User unknown in virtual mailbox table
+
+Action: failed
+Final-Recipient: rfc822;edson.rn@ig.com.br
+Status: 5.0.0
+Remote-MTA: dns; mx1.ig.correio.biz
+Diagnostic-Code: smtp; 550 5.1.1 <edson.rn@ig.com.br>: Recipient address rejected: User unknown in virtual mailbox table
+
+Action: failed
+Final-Recipient: rfc822;fabikisses@ig.com.br
+Status: 5.0.0
+Remote-MTA: dns; mx1.ig.correio.biz
+Diagnostic-Code: smtp; 550 5.1.1 <fabikisses@ig.com.br>: Recipient address rejected: User unknown in virtual mailbox table
+
+Action: failed
+Final-Recipient: rfc822;wanderkeywkm@hotmail.com
+Status: 5.0.0
+Remote-MTA: dns; mx4.hotmail.com
+Diagnostic-Code: smtp; 550 Requested action not taken: mailbox unavailable
+
+Action: failed
+Final-Recipient: rfc822;mayracosta@hotmail.com
+Status: 5.0.0
+Remote-MTA: dns; mx2.hotmail.com
+Diagnostic-Code: smtp; 550 Requested action not taken: mailbox unavailable
+
+Action: failed
+Final-Recipient: rfc822;rodrigues-silva@bol.com.br
+Status: 5.0.0
+Remote-MTA: dns; mx3.bol.com.br
+Diagnostic-Code: smtp; 550 5.1.1 <rodrigues-silva@bol.com.br>: Recipient address rejected: User unknown in relay recipient table
+
+Action: failed
+Final-Recipient: rfc822;dantas7700@yahoo.com.br
+Status: 5.0.0
+Remote-MTA: dns; mta6.am0.yahoodns.net
+Diagnostic-Code: smtp; 554 delivery error: dd This user doesn't have a yahoo.com.br account (dantas7700@yahoo.com.br) [0] - mta1142.mail.gq1.yahoo.com
+
+--1465308617-eximdsn-58990682
+Content-type: message/rfc822
+
+Return-path: <marco@digitalfotoimagem.com.br>
+Received: from hserv20h by hserv20.homehost.com.br with local (Exim 4.87)
+	(envelope-from <marco@digitalfotoimagem.com.br>)
+	id 1bAHhS-0007o9-2D; Tue, 07 Jun 2016 11:09:46 -0300
+To: <jpeducarecoord@gmail.com>
+Subject: =?UTF-8?Q?ALTERA=C3=87=C3=83O=20NA=20DATA=20DA=20PR=C3=93XIMA=20A?=  =?UTF-8?Q?ULA?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+Date: Tue, 07 Jun 2016 11:09:46 -0300
+From: marco@digitalfotoimagem.com.br
+Cc: Tais Cesario <taiscesariomend31@gmail.com>, <mayracosta@hotmail.com>,
+ Pedro Lui <n-atalee21@hotmail.com>, <peduardodominko@bol.com.br>,
+ <oliverana1960@bol.com.br>, <allancf82@hotmail.com>, =?UTF-8?Q?SIDNEA_?=
+ =?UTF-8?Q?DOS_SANTOS_LOUREN=C3=87O?= <sidnea2011@gmail.com>,
+ <rosemi_silva@ig.com.br>, "Ricardo M." <menega.surf@yahoo.com.br>,
+ <monigreey@yahoo.com.br>, <profmarlete@hotmail.com>,
+ <vivianeaguiar3788@gmail.com>, <lumemel@hotmail.com>, Raquel Rodrigues
+ <raquelcjsr@msn.com>, <douglasgomes4@hotmail.com>,
+ <andre.lsant@hotmail.com>, <simpatiatatacris@yahoo.com.br>,
+ <dantas7700@yahoo.com.br>, <cireia@ig.com.br>,
+ <historiadorapaula@ig.com.br>, Karen Aliete <karenaliete@hotmail.com>,
+ <adrianaresende@ig.com.br>, =?UTF-8?Q?Gra=C3=A7a_Lima?=
+ <gracinha2005@hotmail.com>, Robson Silva <robsonlslr00@gmail.com>, cleber
+ romanovas <kleber-bio@hotmail.com>, <sarinhaung@terra.com.br>, "Rebeca ..."
+ <rebecacarolinebrito@hotmail.com>, Fernanda Rodrigues
+ <fezinha.carpediem@gmail.com>, =?UTF-8?Q?Ivelize_Tha=C3=ADs_Ferreira_I?=
+ =?UTF-8?Q?ve_Ferreira?= <ivislene@gmail.com>, <irene-cristina@ig.com.br>,
+ <givanildopmoura@bol.com.br>, "r.fragoso" <r.fragoso@bol.com.br>,
+ <ago_vieira@hotmail.com>, <talita.jardim@yahoo.com.br>, maria jose sales
+ santana <mariajosesantana02@hotmail.com>, <rodrigues-silva@bol.com.br>,
+ <ro_delia@yahoo.com.br>, <dannyelabarbosa2013@hotmail.com>,
+ <moisesantana@yahoo.com.br>, <lainasena@yhaoo.com.br>,
+ <janejaklusca@bol.com.br>, <mcs-76@ig.com.br>, Josi Oliveira
+ <josi.oliveira@bol.com.br>, "Valdir E. Carmo" <valdirdocarmo@gmail.com>,
+ diegomes <diegomes@hotmail.com>, <noemiarcampos@hotmail.com>, Maria Santa
+ Carvalho Peixoto <santapeixoto@gmail.com>, Cristian Vieira
+ <nelly_vieira@hotmail.com>, <edson.rn@ig.com.br>, Andersson Bispo
+ <anderssonbispo2015@gmail.com>, <fabikisses@ig.com.br>, Daniela Nascimento
+ Scarpellini <dani.scarpellini@gmail.com>, <dinda.castilho@bol.com.br>,
+ <claudecys@bol.com.br>, <wanderkeywkm@hotmail.com>,
+ <reisdouglas@ibest.com.br>, Jean Roveri <jeanroveri@gmail.com>, "Tania K.
+ Lima" <tania.k.f.lima@gmail.com>, nelson silva ramos
+ <nelsinho.sr@hotmail.com>, Mariana Baptista <mariana_bap_tista@hotmail.com>,
+ <rosinha.educacaofisica@hotmail.com>, <elenice.acdc@hotmail.com>, Thiago
+ Serejo <thiagoserejo@yahoo.com.br>
+In-Reply-To: <CAD3WFZucdpuODVrwG9M2TCbV2-zwwSuCdt5gDuBDXPCTYVBQhQ@mail.gmail.com>
+References: <CAD3WFZucdpuODVrwG9M2TCbV2-zwwSuCdt5gDuBDXPCTYVBQhQ@mail.gmail.com>
+Message-ID: <ae7279869514f05268e3d88840942753@digitalfotoimagem.com.br>
+X-Sender: marco@digitalfotoimagem.com.br
+User-Agent: Roundcube Webmail/0.5.4
+
+Ok recebido
+
+
+On Tue, 7 Jun 2016 09:48:30 -0300, JP EDUCARE CURSOS wrote:
+> Bom dia Pessoal!
+> Haverá uma alteração na data da próxima aula, passando do dia 25
+> para o dia 18 DE JUNHO , pois a maioria terá sábado letivo no estado
+> e festa junina.
+> Já avisamos alguns alunos pelo whatsApp , e estamos mandando para o e
+> mail de todos .
+>  
+>
+> ATT,
+>
+> Letícia
+> Administrativo JP EDUCARE
+>
+> 2568-0221/94033-0898 
+>
+> ***POR FAVOR CONFIRMAR O RECEBIMENTO DESSE EMAIL***
+
+
+--1465308617-eximdsn-58990682--

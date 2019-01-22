@@ -1,0 +1,110 @@
+Return-Path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id eRxbLqenWljuvQIAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Wed, 21 Dec 2016 14:02:47 -0200
+Return-path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Wed, 21 Dec 2016 14:02:47 -0200
+Received: from o9.mailsg.leadlovers.com ([167.89.30.234]:8052)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>)
+	id 1cJjLr-000m6I-Fy
+	for marco@digitalfotoimagem.com.br; Wed, 21 Dec 2016 14:02:47 -0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=leadlovers.com.br; 
+	h=content-type:from:mime-version:subject:to:list-unsubscribe; 
+	s=s1; bh=rhIWhM0QTSPidLGoBQY4DfgfOCI=; b=IhvFzebmb8smUkoERiPBnXE
+	UOW7B+0Yly7btuCRCl9PKCv9VURSUZPkT8JoJOPksUPVhH+YoWucSCIJSOxzDxfT
+	AXg0wAp35KzB3cbMoI2DS9HazT7AdHAT93achp9AG0QDNFPKGgvr7ZTfjc2HIBbD
+	c7Jvxt678D/lTItNiNj4=
+Received: by filter0987p1mdw1.sendgrid.net with SMTP id filter0987p1mdw1-700-585AA75B-B3
+        2016-12-21 16:01:32.401891918 +0000 UTC
+Received: from MjM4NDgwOQ (m3640.contabo.host [5.189.178.140])
+	by ismtpd0004p1lon1.sendgrid.net (SG) with HTTP id 98k0RanKTbKo-hZcqkExcw
+	Wed, 21 Dec 2016 16:01:31.915 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=ddc7d4ada52b04f43e473cfb4b817b24551d3d844ea4948ffd4f1f6f4563
+Date: Wed, 21 Dec 2016 16:01:31 +0000
+From: "Paulo Gerhardt" <paulo.gerhardt@solbiz.com.br>
+Mime-Version: 1.0
+Subject: =?UTF-8?B?W0FydGlnb10gNSBUw6F0aWNhcyBBbmltYWlzIHBhcmEgVmVuY2VyIGVtIDIwMTch?=
+To: <marco@digitalfotoimagem.com.br>
+Message-ID: <98k0RanKTbKo-hZcqkExcw@ismtpd0004p1lon1.sendgrid.net>
+List-Unsubscribe: <https://u2384809.ct.sendgrid.net/wf/unsubscribe?upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiWoKQFOF-2FXBopiL-2BYaC-2B-2BVkFmaYIMVq0GBtNgGoWOTSbS42ez-2FI-2BL0a0-2BkkYJZK05BljlG-2BLhfHcLXMNSRA2ysio7qShJeRTMw9I-2BqOdOeyQ0gbMikYPz62-2FgLFb3rQNolTY6FT8xhaR98yGE6Y6r2e1N1-2FIfXjFO-2FjzkpxI8S3aVTpAoKyUEg2xqTOtJfOFDJQbvqTfNuJ-2FgGhWFfbkBeA-3D-3D>, <mailto:unsubscribe@mailsg.leadlovers.com.br?subject=https://u2384809.ct.sendgrid.net/wf/unsubscribe*q*upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiWoKQFOF-2FXBopiL-2BYaC-2B-2BVkFmaYIMVq0GBtNgGoWOTSbS42ez-2FI-2BL0a0-2BkkYJZK05BljlG-2BLhfHcLXMNSRA2ysio7qShJeRTMw9I-2BqOdOeyQ0gbMikYPz62-2FgLFb3rQNolTY6FT8xhaR98yGE6Y6r2e1N1-2FIfXjFO-2FjzkpxI8S3aVTpAoKyUEg2xqTOtJfOFDJQbvqTfNuJ-2FgGhWFfbkBeA-3D-3D>
+X-SG-EID: Hch+2AQw5UfQtHqV+P/3h94kWa/z3uc7aT9t1ffNJX6ejfdpfjs1c7IIdtNthFh9Z/abPxpt2YnokJ
+ anRN0kYyQ1CxsyKnhKyCIbbz1/Dn78YCfdlOBu7vI5liKmQNoueZObrP1VlG8J8RDQV+B3t8BmvHfu
+ PU7DMLJKXt+t7dCZiC0pZjmDJE5CFO5DRAl0PqNEwOsQlnTx14XSOaEJG2AsOXY3YvLXO2g9QLS+d4
+ w5UvfJAyTQfTWfqTuHpbex
+X-SG-ID: YDTqBOjidbCUo/ar1oAtZlcEiMJ5YIVUw4PyLGgVma8YaT0xon8oJIgpdCcI7IrK
+
+--ddc7d4ada52b04f43e473cfb4b817b24551d3d844ea4948ffd4f1f6f4563
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+=0D=0DOl=C3=A1=0D=0DTudo bem? =C3=A9 final de ano e sempre busco fazer um b=
+alan=C3=A7o do ano que est=C3=A1 terminando e dar algumas dicas para que o =
+pr=C3=B3ximo seja muito melhor.=0D=0DEntre aqui e confira meu =C3=BAltimo a=
+rtigo. Est=C3=A1 animal!=0D=0DSei que para muitos o ano foi bastante compli=
+cado e as previs=C3=B5es para o pr=C3=B3ximo ainda n=C3=A3o s=C3=A3o muito =
+animadoras. No entanto, somos n=C3=B3s que temos que fazer o nosso destino.=
+ =0D=0DEnt=C3=A3o, entre aqui e conhe=C3=A7a as 5 t=C3=A1ticas animais para=
+ 2017. =0D=0DMuitos dizem que 2016 passou em branco e at=C3=A9 querem risc=
+=C3=A1-lo do calend=C3=A1rio. Quais s=C3=A3o os comportamentos que devo ter=
+ em 2017 para que n=C3=A3o passe mais um ano em branco?=0D=0DDescubra aqui =
+no meu artigo.=0D=0DAbra=C3=A7os=0D=0DPaulo GerhardtCriador da Metodologia =
+do Coaching de VendasClique aqui para n=C3=A3o receber mais e-mails dessa l=
+ista (Unsubscribe).
+
+--ddc7d4ada52b04f43e473cfb4b817b24551d3d844ea4948ffd4f1f6f4563
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE><table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" id=3D=
+"LLCenteredColumn" style=3D"border:none;"><tbody><tr><td style=3D"border:no=
+ne;"><table class=3D"table01 k-table" style=3D"margin:auto;width:650px;back=
+ground-color:#ffffff;"><tbody><tr><td id=3D"LLCenteredColumn01" style=3D"bo=
+rder:none;margin:0px;padding:20px;text-align:left;white-space:normal;"><p><=
+span style=3D"font-size:14.0pt;font-family:'Arial','sans-serif';">Ol&aacute=
+;</span></p><p style=3D"text-align:justify;"><span style=3D"font-size:14.0p=
+t;font-family:'Arial','sans-serif';"><br />Tudo bem? &Eacute; final de ano =
+e sempre busco fazer um balan&ccedil;o do ano que est&aacute; terminando e =
+dar algumas dicas para que o pr&oacute;ximo seja muito melhor.<br /></span>=
+</p><p style=3D"text-align:justify;"><span style=3D"font-size:14.0pt;font-f=
+amily:'Arial','sans-serif';color:red;"><a href=3D"http://leadloversclick03.=
+com/redirect/redirect.aspx?A=3DR&l=3D0CFEAF88-4782-443B-B070-04A7C1547782&u=
+=3Dac774497-d11b-4186-8686-7804418e32d7" target=3D"_blank">Entre aqui e con=
+fira meu &uacute;ltimo artigo. Est&aacute; animal!</a></span></p><p style=
+=3D"text-align:justify;"><span style=3D"font-size:14.0pt;font-family:'Arial=
+','sans-serif';"><br />Sei que para muitos o ano foi bastante complicado e =
+as previs&otilde;es para o pr&oacute;ximo ainda n&atilde;o s&atilde;o muito=
+ animadoras. No entanto, somos n&oacute;s que temos que fazer o nosso desti=
+no.&nbsp;&nbsp;<br />&nbsp; &nbsp;&nbsp;</span></p><p style=3D"text-align:j=
+ustify;"><span style=3D"font-size:14.0pt;font-family:'Arial','sans-serif';c=
+olor:red;"><a href=3D"http://leadloversclick03.com/redirect/redirect.aspx?A=
+=3DR&l=3D0CFEAF88-4782-443B-B070-04A7C1547782&u=3Dac774497-d11b-4186-8686-7=
+804418e32d7" target=3D"_blank">Ent&atilde;o, entre aqui e conhe&ccedil;a as=
+ 5 t&aacute;ticas animais para 2017. </a></span></p><p style=3D"text-align:=
+justify;"><span style=3D"font-size:14.0pt;font-family:'Arial','sans-serif';=
+"><br />Muitos dizem que 2016 passou em branco e at&eacute; querem risc&aac=
+ute;-lo do calend&aacute;rio. Quais s&atilde;o os comportamentos que devo t=
+er em 2017 para que n&atilde;o passe mais um ano em branco?<br /></span></p=
+><p style=3D"text-align:justify;"><span style=3D"font-size:14.0pt;font-fami=
+ly:'Arial','sans-serif';color:red;"><a href=3D"http://leadloversclick03.com=
+/redirect/redirect.aspx?A=3DR&l=3D0CFEAF88-4782-443B-B070-04A7C1547782&u=3D=
+ac774497-d11b-4186-8686-7804418e32d7" target=3D"_blank">Descubra aqui no me=
+u artigo.</a></span></p><p><span style=3D"font-size:14.0pt;font-family:'Ari=
+al','sans-serif';"><br />Abra&ccedil;os</span></p><p style=3D"margin-bottom=
+:0cm;margin-bottom:.0001pt;"><span style=3D"font-size:14.0pt;font-family:'A=
+rial','sans-serif';">Paulo Gerhardt</span></p><span style=3D"font-size:14.0=
+pt;font-family:'Arial','sans-serif';">Criador da Metodologia do Coaching de=
+ Vendas</span></td></tr></tbody></table></td></tr></tbody></table><a href=
+=3D"http://leadloversclick03.com/redirect/redirect.aspx?A=3DU&u=3Dac774497-=
+d11b-4186-8686-7804418e32d7" target=3D"_blank">Clique aqui para n&atilde;o =
+receber mais e-mails dessa lista (Unsubscribe).</a><br /><img alt=3D"" src=
+=3D"http://leadloversclick03.com/redirect/redirect.aspx?A=3DV&u=3Dac774497-=
+d11b-4186-8686-7804418e32d7&IMG=3Dhttps://leadlovers.com/content/images/1px=
+.png" />
+
+--ddc7d4ada52b04f43e473cfb4b817b24551d3d844ea4948ffd4f1f6f4563--

@@ -1,0 +1,363 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201707 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.lermelhor.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2030                
+POS_TIME 2709                
+POS_VISITOR 7245                
+POS_DAY 8448                
+POS_DOMAIN 3465                
+POS_LOGIN 3772                
+POS_ROBOT 3927                
+POS_WORMS 4325                
+POS_EMAILSENDER 4456                
+POS_EMAILRECEIVER 4599                
+POS_SESSION 9167                
+POS_SIDER 9375                
+POS_FILETYPES 4734                
+POS_DOWNLOADS 4977                
+POS_OS 5117                
+POS_BROWSER 5289                
+POS_SCREENSIZE 5655                
+POS_UNKNOWNREFERER 5729                
+POS_UNKNOWNREFERERBROWSER 5943                
+POS_ORIGIN 6152                
+POS_SEREFERRALS 6291                
+POS_PAGEREFS 6459                
+POS_SEARCHWORDS 6607                
+POS_KEYWORDS 6759                
+POS_MISC 2371                
+POS_ERRORS 6818                
+POS_CLUSTER 3628                
+POS_SIDER_404 6936                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170801025503 31 6321 8150310733523
+FirstTime 20170701090422
+LastTime 20170731183945
+LastUpdate 20170801102652 31 0 30 0 0
+TotalVisits 117                 
+TotalUnique 21                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 32                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+AddToFavourites 0 138 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 9 3860 32 88 594453
+1 9 9 5980 22 98 307972
+2 390 392 84923556 37 56 63983
+3 342 342 75589596 25 81 296933
+4 1 1 1 33 88 618536
+5 0 0 0 11 65 275803
+6 2 26 429155 39 55 376919
+7 0 0 0 17 46 149914
+8 8 8 4913 11 28 89467
+9 9 9 5556 28 88 357434
+10 6 6 0 23 95 639539
+11 9 9 4501 12 25 74120
+12 9 43 442749 40 73 287870
+13 8 9 152976 20 95 808128
+14 18 20 296539 21 46 81418
+15 11 86 1214655 26 42 136704
+16 12 55 1247455 24 56 215284
+17 15 55 905803 30 83 287209
+18 16 54 636478 20 98 225357
+19 8 8 4913 13 51 509630
+20 5 47 1165912 19 57 242513
+21 4 4 1699 35 68 112657
+22 8 82 902661 23 75 325255
+23 12 12 4501 24 61 474775
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+us 726 726 160505877
+br 132 481 6996604
+de 32 32 13333
+cn 10 10 4120
+my 7 9 6865
+ru 4 28 416660
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 627 4871287 20170731115500 0
+bot[\s_+:,\.\;\/\\-] 108 2109460 20170731065657 0
+no_user_agent 30 165943 20170725134307 0
+googlebot\-image 10 172226 20170731091030 0
+slurp 5 130939 20170720173654 0
+robot 4 82483 20170725231908 0
+php 2 13754 20170730215339 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+jpeg 5 704955 0 0
+Unknown 120 77160 0 0
+txt 2 78 0 0
+css 179 542014 0 0
+js 57 3245317 0 0
+png 1 6436 0 0
+jpg 116 2468622 0 0
+html 7 6787 0 0
+gif 15 933 0 0
+php 784 160891157 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/curso/index.html/index.html/index.html/index.html/index.html/index.html/version.txt 2 0 78
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+ios_iphone 1 0
+win7 1110 854
+winnt 79 4
+Unknown 31 31
+linuxandroid 4 0
+macosx6 10 10
+winxp 4 4
+macosx 47 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 17
+firefox48.0 1 1
+firefox54.0 2 0
+chrome57.20.2987.98 1 0
+chrome54.0.2840.71 1 0
+chrome59.0.3071.115 299 65
+firefox3.6.8 10 10
+firefox3.5.0 2 2
+chrome26.0.1410.43 1 1
+msie8.0 25 1
+chrome49.0.2623.112 1 1
+chrome58.0.2988.0 105 71
+iphone 1 0
+msie9.0 726 726
+firefox52.0 38 1
+safari10.1.1 38 1
+android 4 0
+Unknown 31 31
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WordPress/4.7.5;_http://lermelhor.com.br/neurociencias 20170704165505
+WordPress/4.7.5;_https://lermelhor.com.br 20170731143448
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/4.7.5;_https://lermelhor.com.br 20170731143448
+WordPress/4.7.5;_http://lermelhor.com.br/neurociencias 20170704165505
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 859 864
+From1 0 0
+From2 11 22
+From3 0 0
+From4 41 400
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+yandex 1 1
+google 10 21
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+301 651 2138
+302 38 0
+500 4 3601
+405 1 42
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 32
+69.30.244.10 724 724 160505875 20170725031852
+201.6.231.203 69 103 482203 20170711200848
+201.6.231.52 53 53 34079 20170731163438
+93.104.215.69 31 31 0 20170731143448
+210.51.215.69 10 10 4120 20170716124257
+115.164.49.117 7 9 6865 20170711020149
+82.208.113.33 2 2 2 20170713000740
+177.44.131.210 2 39 480287 20170725184235
+191.0.89.126 1 38 450667 20170716225837
+188.244.37.104 1 25 415822 20170731062645
+208.110.66.130 1 1 1 20170716215416
+201.55.31.210 1 1 643 20170731183945
+186.207.167.225 1 38 450708 20170723225732
+93.120.190.157 1 1 836 20170711011559
+69.30.255.186 1 1 1 20170704044458
+186.230.34.84 1 38 450676 20170726155831
+179.214.29.93 1 38 450683 20170719175738
+179.178.230.50 1 38 610360 20170702151933
+5.9.112.6 1 1 13333 20170709060202
+187.48.63.154 1 43 1092319 20170726165220
+189.6.17.28 1 38 450670 20170719204017
+177.92.42.245 0 1 148706 
+179.90.29.246 0 1 148706 
+179.208.163.133 0 1 148706 
+189.121.91.235 0 4 563964 
+200.100.247.182 0 1 140991 
+177.95.142.98 0 1 148706 
+186.194.233.163 0 1 148706 
+186.221.118.137 0 1 148706 
+191.205.14.166 0 1 148706 
+191.55.225.21 0 1 148706 
+200.140.127.20 0 1 148706 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20170701 7 7 3858 4
+20170702 6 43 612932 3
+20170703 13 47 446195 5
+20170704 10 11 153208 6
+20170705 5 6 151921 2
+20170706 6 7 144206 3
+20170707 15 15 9002 6
+20170708 6 6 3215 4
+20170709 4 4 14619 3
+20170710 7 7 2984 5
+20170711 13 15 10273 6
+20170712 4 5 149530 4
+20170713 9 9 4041 7
+20170714 3 3 824 3
+20170715 5 6 150816 5
+20170716 5 42 452366 4
+20170717 6 6 1929 5
+20170718 2 3 149992 1
+20170719 9 84 1052631 6
+20170720 7 7 3858 4
+20170721 5 5 3215 2
+20170722 6 6 3858 3
+20170723 4 41 451994 3
+20170724 2 2 0 2
+20170725 731 769 161137440 5
+20170726 2 83 1840407 2
+20170727 6 6 3858 3
+20170728 1 1 0 1
+20170729 2 2 643 2
+20170730 2 2 0 2
+20170731 8 36 983644 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 76
+1h+ 3
+30s-2mn 10
+5mn-15mn 5
+15mn-30mn 7
+2mn-5mn 12
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 17
+/xmlrpc.php 734 160510830 11 12
+/email 120 77160 60 59
+/wp-cron.php 30 0 30 30
+/2%C2%BA---Modelo-coaching-Perdas-e-Ganhos.php 8 237033 7 7
+/wp-admin/admin-ajax.php 5 5 4 3
+/curso/index.html/index.html/index.html/index.html/index.html/index.html/media/ 2 446 0 0
+/Modulo-2/optimizer.php 2 39392 0 1
+/curso/index.html/index.html/index.html/index.html/index.html/index.html/js/ 1 1326 0 0
+/curso/index.html/index.html/index.html/index.html/index.html/index.html/tmp/ 1 426 0 1
+/curso/index.html/index.html/index.html/index.html/index.html/index.html/wysiwyg/ 1 480 0 0
+/curso/index.html/index.html/index.html/index.html/index.html/index.html/documents/ 1 438 0 0
+/curso/index.html/index.html/index.html/index.html/index.html/index.html/ 1 3671 1 0
+/videos/Copied-In%C3%ADcio.php 1 32237 1 1
+/Sobre-n%C3%B3s.php 1 13333 1 1
+/neurociencias/wp-cron.php 1 0 1 1
+/videos/Portf%C3%B3lio.php 1 53144 1 1
+/Modulo-2/rvsindex.php 1 5183 0 0
+END_SIDER

@@ -1,0 +1,180 @@
+Return-Path: <aresultado@gmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br with LMTP id 8JlSKEyxQ1rFSQ4AY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Wed, 27 Dec 2017 12:42:20 -0200
+Return-path: <aresultado@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Wed, 27 Dec 2017 12:42:20 -0200
+Received: from mail-wr0-f196.google.com ([209.85.128.196]:46170)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89_1)
+	(envelope-from <aresultado@gmail.com>)
+	id 1eUCuS-003vjp-KB
+	for marco@digitalfotoimagem.com.br; Wed, 27 Dec 2017 12:42:20 -0200
+Received: by mail-wr0-f196.google.com with SMTP id g17so27658444wrd.13
+        for <marco@digitalfotoimagem.com.br>; Wed, 27 Dec 2017 06:41:57 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc;
+        bh=G6ef5X3MF15ADWYuTkGUDKcmSvx7LdkBK5O924p412s=;
+        b=h4H8eaJpj5ysna2WgsiFSLtOJJc0tZ8oz5ZB+LfV4PNSorO51doJvMA2crBIe0oDQq
+         D4G+qrO+DJbRNlrNWUaEhyCkDhqJCBnIly351F+pNJptrXTmvZIccpkH75yMO7GEDGUe
+         bxqHN+SwniILTaVy4rLDdk78a5gr0w5nsDB71U1Xe9wJjN8+GV5x5xG11LUe3OMVy/lV
+         NlG6BTZ7s80LrzzuDv+Ph4QGOgBLgdJMKvj36uIi00+oxfIfsp2A0icyycvlcUxTkfaX
+         XKqiLwfFcuwBVzJPR+Hc0rLQWareD/H++riZifJOf4aNC0IOIiKHjfTJVioBW8Xm+3mZ
+         T5zw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:cc;
+        bh=G6ef5X3MF15ADWYuTkGUDKcmSvx7LdkBK5O924p412s=;
+        b=TNRxdb7i2oeRfGnQHPf6fVQR3sOF/80bozIbeNN76KKenBFDCTFQaH1AUuC+6y5ZJj
+         08yDXT52fuCqmOp/igMP9Dwg5vZoEHVNnWvQbIbXw8vYiqGEVuUG8mjbQWEQewQMx5aa
+         Tu1AZAgXiuJhdfltBlteu5gEBaJLXVL707Ryvy0yANoa3q0erViM0pPYvTvfHR8dB53e
+         nss2DTj997R6c/h8/x+oed4g2ccDXO744CztE0BcDwbS00p/pwfQQu5zm/k38jWA0a31
+         hgObq0e0MNnb0CQB7+csMBn0CHIxb7jycUiBuaNi/d1hEhr07UEIk/FhctFjMwloGHUk
+         p2Xw==
+X-Gm-Message-State: AKGB3mJLoC3OfHPjSdkCf12Cqvv9QzJhXChfAZpf/TtoG+2VOrxMuBVF
+	d2xxAbU0cNBEanMYe8fFzmLjuSMpXfKIlxTjxjs=
+X-Google-Smtp-Source: ACJfBouHVbETelDomaerAANLI96Zish/6O0DuXtBIllzhxHFny1p/F48kEpx70AwD+J1pRa4aWCtqKGrLG/vJDMgytA=
+X-Received: by 10.223.130.144 with SMTP id 16mr27634336wrc.14.1514385697036;
+ Wed, 27 Dec 2017 06:41:37 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.28.178.67 with HTTP; Wed, 27 Dec 2017 06:41:16 -0800 (PST)
+In-Reply-To: <007401d37f0f$83dd6d00$8b984700$@com.br>
+References: <005501d30c0a$390dac40$ab2904c0$@com.br> <017801d35fa2$8e920030$abb60090$@com.br>
+ <023a01d36dd5$fc1cbdc0$f4563940$@com.br> <007401d37f0f$83dd6d00$8b984700$@com.br>
+From: Sergio Fosque <aresultado@gmail.com>
+Date: Wed, 27 Dec 2017 12:41:16 -0200
+Message-ID: <CAPudD=QQ6OTmCizAFsOjGJhfesB5uhXz_FGcc91RNabVBG19YA@mail.gmail.com>
+Subject: =?UTF-8?B?UmU6IFBhcmFiw6lucyBhIFZvY8OqLCBGaW5hcmRpICEgISAh?=
+To: Egoshi da CTT3843 <ctt3843@egoshi.com.br>
+Cc: Antonio Finardi <ma.finardi@hotmail.com>, Antonio Celso Tessari <celsotessari@gmail.com>, 
+	Antonio Kossei Takara <takar2@terra.com.br>, 
+	=?UTF-8?Q?Benedito_Carlos_Flam=C3=ADnio?= <carlos.flaminio@gmail.com>, 
+	Carlos Mave de Campos Assis <cmave96@gmail.com>, =?UTF-8?Q?Carlos_Rosseti_=28Kak=C3=A1=29?= <carlos.rossetti@uol.com.br>, 
+	=?UTF-8?Q?Dem=C3=A9trio_Muniz_Pendek?= <demetriopendek@hotmail.com>, 
+	Eduardo Camacho <eduardocamacho@uol.com.br>, Eduardo Lopes <ebernardinolopes@uol.com.br>, 
+	Ernani Flausino <ernani.flausino@terra.com.br>, 
+	Everth Alves Bonavolonta <everth@mixlav.com.br>, =?UTF-8?Q?F=C3=A1bio_Roberto_Faria?= <szfaria@gmail.com>, 
+	Fernando Ziesmann Fortes <fernandozf@hotmail.com>, Gilberto Campos <gdcampos@uol.com.br>, 
+	=?UTF-8?Q?H=C3=A9lio_Alvarez_Felix?= <helioamandara@uol.com.br>, 
+	Hideraldo Rodrigues Gomes <enghgomes@gmail.com>, 
+	Humberto de Oliveira Serrano <humberto.serrano@hotmail.com>, Jair Airton Felix <j.felix10@bol.com.br>, 
+	Johannes Kozlowski <jkozlowski@uol.com.br>, =?UTF-8?Q?Jos=C3=A9_Carlos_de_Lima?= <jcl@tech-air.com.br>, 
+	=?UTF-8?Q?J=C3=BAlio_Cesar_Mattos_de_Faria?= <mattosfaria@terra.com.br>, 
+	Marcelo Eloy Fernandes <marceloeloyfernandes@gmail.com>, 
+	Marcilio Marques Testa <mmtesta43@gmail.com>, 
+	=?UTF-8?Q?Marco_Ant=C3=B4nio_Pedrosa_Parise?= <marco@digitalfotoimagem.com.br>, 
+	Marcus Welbi <marcuswelbi@crivodarazao.org.br>, Natanael Costa <ncosta@usa.com>, 
+	Nelson Pendek <nelpendek@hotmail.com>, 
+	"Ricardo C. A. Carvalho" <ricardocarvalho930@gmail.com>, 
+	=?UTF-8?Q?Sebasti=C3=A3o_Rubens_Costa?= <rubens@linart.com.br>, 
+	Silvio Verdiani <sverdiani@terra.com.br>, Sylvio Quintino Junior <squintinoj@gmail.com>, 
+	Wanderley Santana dos Santos <wanderleyssamtos@gmail.com>, 
+	Wellington Alfano Rodrigues Silva <alfanohi@gmail.com>, Wladimir Viveiro <wviveiro@live.com>, 
+	=?UTF-8?Q?S=C3=A9rgio_Fosque?= <sergio@aresultado.adm.br>, 
+	=?UTF-8?Q?Andr=C3=A9_Rivail_Medrado?= <professor@medrado.adv.br>, 
+	Alexandre Dellamura Sarmento <dellamura@uol.com.br>, Luiz Eduardo Cruz <luiz.cruz@teleperformance.com>, 
+	Marco Antonio Patriniani <marckopat@live.com>, Andre Luis Pereira de Godoi <andrelpgodoi@gmail.com>
+Content-Type: multipart/alternative; boundary="001a114b42408660ff05615365b4"
+
+--001a114b42408660ff05615365b4
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+MQIr Finardi.
+
+Meus parab=C3=A9ns, desejo-lhe sa=C3=BAde, paz e felicidade.
+TFA
+
+
+Em 27 de dezembro de 2017 10:37, Egoshi da CTT3843 <ctt3843@egoshi.com.br>
+escreveu:
+
+> Parab=C3=A9ns por Tr=C3=AAs Vezes pelo seu anivers=C3=A1rio, Querido Ir\ =
+Finardi ! ! !
+>
+>
+>
+> A voc=C3=AA Querido Ir\ Finardi, =C3=A0 cunhada Maria Tereza e aos sobrin=
+hos Marcelo
+> e
+> Simone, ensejamos nossos mais sinceros votos de felicidade e sucesso na
+> vida
+> em fam=C3=ADlia ! ! !
+>
+>
+>
+> Fraternalmente
+>
+>
+>
+>
+>
+>
+>
+> ---
+> Este email foi escaneado pelo Avast antiv=C3=ADrus.
+> https://www.avast.com/antivirus
+>
+
+
+
+--=20
+Sergio Foschi
+(16) 3421 7648
+(11) 99481 3139
+(16) 98818 3139
+
+--001a114b42408660ff05615365b4
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-size:small">MQI=
+r Finardi.</div><div class=3D"gmail_default" style=3D"font-size:small"><br>=
+</div><div class=3D"gmail_default" style=3D"font-size:small">Meus parab=C3=
+=A9ns, desejo-lhe sa=C3=BAde, paz e felicidade.</div><div class=3D"gmail_de=
+fault" style=3D"font-size:small">TFA</div><div class=3D"gmail_default" styl=
+e=3D"font-size:small"><br></div></div><div class=3D"gmail_extra"><br><div c=
+lass=3D"gmail_quote">Em 27 de dezembro de 2017 10:37, Egoshi da CTT3843 <sp=
+an dir=3D"ltr">&lt;<a href=3D"mailto:ctt3843@egoshi.com.br" target=3D"_blan=
+k">ctt3843@egoshi.com.br</a>&gt;</span> escreveu:<br><blockquote class=3D"g=
+mail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-l=
+eft:1ex">Parab=C3=A9ns por Tr=C3=AAs Vezes pelo seu anivers=C3=A1rio, Queri=
+do Ir\ Finardi ! ! !<br>
+<br>
+<br>
+<br>
+A voc=C3=AA Querido Ir\ Finardi, =C3=A0 cunhada Maria Tereza e aos sobrinho=
+s Marcelo e<br>
+Simone, ensejamos nossos mais sinceros votos de felicidade e sucesso na vid=
+a<br>
+em fam=C3=ADlia ! ! !<br>
+<br>
+<br>
+<br>
+Fraternalmente<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+---<br>
+Este email foi escaneado pelo Avast antiv=C3=ADrus.<br>
+<a href=3D"https://www.avast.com/antivirus" rel=3D"noreferrer" target=3D"_b=
+lank">https://www.avast.com/<wbr>antivirus</a><br>
+</blockquote></div><br><br clear=3D"all"><div><br></div>-- <br><div class=
+=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div dir=3D"ltr"><d=
+iv><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div d=
+ir=3D"ltr"><div><font size=3D"2">Sergio Foschi<br></font></div><div><font s=
+ize=3D"2">(16) 3421 7648</font></div><div><font size=3D"2">(11) 99481 3139<=
+/font></div><div><font size=3D"2">(16) 98818 3139</font></div><div><br></di=
+v></div></div></div></div></div></div></div></div></div></div>
+</div>
+
+--001a114b42408660ff05615365b4--

@@ -1,0 +1,113 @@
+Return-path: <jgambetti@gambetti.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Fri, 26 Feb 2016 13:58:42 -0300
+Received: from gateway32.websitewelcome.com ([192.185.145.182]:34247)
+	by hserv20.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.86)
+	(envelope-from <jgambetti@gambetti.com.br>)
+	id 1aZLiz-0003te-NC
+	for marco@digitalfotoimagem.com.br; Fri, 26 Feb 2016 13:58:42 -0300
+Received: from ham06.websitewelcome.com (unknown [108.179.254.230])
+	by gateway32.websitewelcome.com (Postfix) with ESMTP id 7AAA220D40264
+	for <marco@digitalfotoimagem.com.br>; Fri, 26 Feb 2016 10:57:45 -0600 (CST)
+Received: by ham06.websitewelcome.com (Postfix, from userid 500)
+	id 691624000C; Fri, 26 Feb 2016 10:57:45 -0600 (CST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	ham06.websitewelcome.com
+X-Spam-Flag2999: NO
+X-Spam-Level2999: 
+X-Spam-Status2999: "No, score=-0.1 required=5.0 tests=DKIM_SIGNED,DKIM_VALID,
+	DKIM_VALID_AU,HTML_MESSAGE autolearn=disabled version=3.3.1
+Received: from br460.hostgator.com.br (br460.hostgator.com.br [216.172.172.65])
+	by ham06.websitewelcome.com (Postfix) with ESMTP id D8EF84003B
+	for <marco@digitalfotoimagem.com.br>; Fri, 26 Feb 2016 10:57:43 -0600 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=gambetti.com.br; s=default; h=Content-Type:To:From:Subject:Message-ID:Date:
+	References:In-Reply-To:MIME-Version;
+	bh=/fKNjgGazsFoFzvKKVI4GUMQfusDD2PKdvN7hX9CnSQ=; b=vM9M89RxCMS4DH60YoqJY/zJ3+
+	nSPsTgVq0K/978WTmOe1hH0y5Z4JJqlk0XVtf2mcDuPr1M+ksDnbm/55qDVasbDMpi8IICwMQijab
+	K68kbbgzRUW1jbeX7SEfSCRaOlWzN508c1IblJY7c27xi+uoS+Gi0jb1N1q4KVXcOa3c=;
+Received: from [209.85.192.48] (port=33154 helo=mail-qg0-f48.google.com)
+	by br460.hostgator.com.br with esmtpsa (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.86)
+	(envelope-from <jgambetti@gambetti.com.br>)
+	id 1aZLi2-0003ru-Na
+	for marco@digitalfotoimagem.com.br; Fri, 26 Feb 2016 13:57:42 -0300
+Received: by mail-qg0-f48.google.com with SMTP id d32so13783891qgd.0
+        for <marco@digitalfotoimagem.com.br>; Fri, 26 Feb 2016 08:57:42 -0800 (PST)
+X-Gm-Message-State: AD7BkJLtCisbrPcx2efbOkW2quBCsIaslmqlWGyxBL5TiYuNMWfBxFnHhH1ZYBnibTn6mWq9ogqYuOFKMbtDPA==
+MIME-Version: 1.0
+X-Received: by 10.140.93.247 with SMTP id d110mr3272462qge.28.1456505861961;
+ Fri, 26 Feb 2016 08:57:41 -0800 (PST)
+Received: by 10.140.97.226 with HTTP; Fri, 26 Feb 2016 08:57:41 -0800 (PST)
+Received: by 10.140.97.226 with HTTP; Fri, 26 Feb 2016 08:57:41 -0800 (PST)
+In-Reply-To: <ff37ff884ae0a49e444538a34e241408@digitalfotoimagem.com.br>
+References: <ff37ff884ae0a49e444538a34e241408@digitalfotoimagem.com.br>
+Date: Fri, 26 Feb 2016 13:57:41 -0300
+X-Gmail-Original-Message-ID: <CAHr+RQ6YYkOGgLh_dbjaoxQtv4ehz77XQ42O4+-21=1NUL5sjA@mail.gmail.com>
+Message-ID: <CAHr+RQ6YYkOGgLh_dbjaoxQtv4ehz77XQ42O4+-21=1NUL5sjA@mail.gmail.com>
+Subject: =?UTF-8?B?UmU6IGFjw6FjaWE=?=
+From: =?UTF-8?Q?Jo=C3=A3o_Gambetti?= <jgambetti@gambetti.com.br>
+To: marco@digitalfotoimagem.com.br
+Content-Type: multipart/alternative; boundary=001a113a38e084008b052caf32fc
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - br460.hostgator.com.br
+X-AntiAbuse: Original Domain - digitalfotoimagem.com.br
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - gambetti.com.br
+X-BWhitelist: no
+X-Source-IP: 209.85.192.48
+X-Exim-ID: 1aZLi2-0003ru-Na
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Source-Sender: (mail-qg0-f48.google.com) [209.85.192.48]:33154
+X-Source-Auth: jgambetti@gambetti.com.br
+X-Email-Count: 1
+X-Source-Cap: Z2FtYmUyOTU7Z2FtYmUyOTU7YnI0NjAuaG9zdGdhdG9yLmNvbS5icg==
+
+--001a113a38e084008b052caf32fc
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Desculpe-me.
+Considero o seu projeto excepcional.
+Mas como profissional, minha obriga=C3=A7=C3=A3o =C3=A9 orient=C3=A1-lo a i=
+niciar a
+"constru=C3=A7=C3=A3o" pelos alicerces e n=C3=A3o pelo telhado.
+Infelizmente me comprometi em nosso recesso, que dificultou os contatos,
+que foram retomados ao fim desse per=C3=ADodo.
+Sinceramente repito, se for para come=C3=A7ar errado, estou fora.
+Posso citar parte da matem=C3=A1tica ? Costumo dizer que quando assumo, fa=
+=C3=A7o
+para somar aos demais e nunca para dividir.
+TFA
+J. Gambetti
+Em 26 de fev de 2016 13:23, <marco@digitalfotoimagem.com.br> escreveu:
+
+>
+>
+
+--001a113a38e084008b052caf32fc
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr">Desculpe-me.<br>
+Considero o seu projeto excepcional.<br>
+Mas como profissional, minha obriga=C3=A7=C3=A3o =C3=A9 orient=C3=A1-lo a i=
+niciar a &quot;constru=C3=A7=C3=A3o&quot; pelos alicerces e n=C3=A3o pelo t=
+elhado.<br>
+Infelizmente me comprometi em nosso recesso, que dificultou os contatos, qu=
+e foram retomados ao fim desse per=C3=ADodo.<br>
+Sinceramente repito, se for para come=C3=A7ar errado, estou fora. <br>
+Posso citar parte da matem=C3=A1tica ? Costumo dizer que quando assumo, fa=
+=C3=A7o para somar aos demais e nunca para dividir.<br>
+TFA<br>
+J. Gambetti</p>
+<div class=3D"gmail_quote">Em 26 de fev de 2016 13:23,  &lt;<a href=3D"mail=
+to:marco@digitalfotoimagem.com.br">marco@digitalfotoimagem.com.br</a>&gt; e=
+screveu:<br type=3D"attribution"><blockquote class=3D"gmail_quote" style=3D=
+"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><br>
+</blockquote></div>
+
+--001a113a38e084008b052caf32fc--

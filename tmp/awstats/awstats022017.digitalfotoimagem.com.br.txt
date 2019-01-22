@@ -1,0 +1,414 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201702 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2685                
+POS_VISITOR 8078                
+POS_DAY 10643               
+POS_DOMAIN 3395                
+POS_LOGIN 3713                
+POS_ROBOT 3868                
+POS_WORMS 4299                
+POS_EMAILSENDER 4430                
+POS_EMAILRECEIVER 4573                
+POS_SESSION 11288               
+POS_SIDER 11455               
+POS_FILETYPES 4708                
+POS_DOWNLOADS 4825                
+POS_OS 4873                
+POS_BROWSER 5061                
+POS_SCREENSIZE 5607                
+POS_UNKNOWNREFERER 5681                
+POS_UNKNOWNREFERERBROWSER 5934                
+POS_ORIGIN 6169                
+POS_SEREFERRALS 6303                
+POS_PAGEREFS 6447                
+POS_SEARCHWORDS 6643                
+POS_KEYWORDS 6795                
+POS_MISC 2349                
+POS_ERRORS 6854                
+POS_CLUSTER 3569                
+POS_SIDER_404 6951                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170301015513 18 3478 11443234090845
+FirstTime 0
+LastTime 20170228192744
+LastUpdate 20170301091928 18 0 17 0 0
+TotalVisits 85                  
+TotalUnique 64                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 64                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 5 11046 4 13 17817
+1 17 17 71919 21 38 122822
+2 4 4 26065 3 10 25422
+3 1 1 8474 76 89 84638
+4 2 2 16948 37 47 102444
+5 5 5 42370 23 30 73741
+6 5 5 25422 31 47 123790
+7 10 10 44755 3 9 8474
+8 0 0 0 30 35 56420
+9 15 15 54971 5 9 42370
+10 9 9 44112 12 21 61355
+11 2 2 16948 6 7 42370
+12 1 1 8474 19 36 98211
+13 8 8 27807 13 26 78314
+14 14 14 54328 13 24 32586
+15 2 2 1286 7 14 50704
+16 16 16 63445 8 19 55011
+17 9 9 44112 39 53 95453
+18 6 6 19520 35 51 104148
+19 9 9 28450 26 37 66257
+20 6 6 50844 11 15 31248
+21 7 7 19333 8 22 39367
+22 3 3 17591 5 9 34330
+23 8 8 27807 16 21 28267
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+us 133 133 636258
+br 21 21 13503
+ca 3 3 25422
+de 2 2 8474
+nl 2 2 16948
+ro 1 1 8474
+ru 1 1 8474
+it 1 1 8474
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+bot[\s_+:,\.\;\/\\-] 214 607840 20170228172941 0
+googlebot 67 488516 20170228195609 0
+crawl 65 48087 20170202033550 0
+slurp 27 15796 20170220142445 0
+no_user_agent 17 144058 20170227232704 0
+netcraft 16 135584 20170218052249 0
+checker 15 17444 20170228140036 0
+msnbot\-media 3 9760 20170226063543 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+Unknown 21 13503 0 0
+html 142 712524 0 0
+php 1 0 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+linuxandroid 1 1
+winnt 2 2
+macosx 1 1
+macosx8 2 2
+win8.1 7 7
+win7 104 104
+linux 3 3
+macosx9 38 38
+Unknown 4 4
+winlong 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 26
+firefox41.0 1 1
+chrome55.0.2883.95 1 1
+chrome56.0.2924.87 6 6
+chrome34.0.1847.131 29 29
+firefox51.0 15 15
+mozilla 2 2
+chrome34.0.1847.137 7 7
+msie11.0 1 1
+chrome26.0.1410.65 1 1
+msie8.0 2 2
+chrome10.0.648.204 2 2
+chrome44.0.2403.125 2 2
+Unknown 2 2
+firefox21.0 8 8
+chrome45.0.2454.94 1 1
+firefox28.0 19 19
+firefox29.0 29 29
+netscape5.0 1 1
+msie9.0 5 5
+chrome35.0.1916.114 6 6
+msie10.0 3 3
+chrome40.0.2214.115 3 3
+firefox3.6.3 1 1
+chrome37.0.2062.120 2 2
+safari7.0.3 14 14
+chrome54.0.2840.99 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_zgrab/0.x 20170222175041
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20170226204045
+WordPress/4.7.2;_http://digitalfotoimagem.com.br/teste 20170202063639
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/4.7.2;_http://digitalfotoimagem.com.br/teste 20170202063639
+python-requests/2.3.0_CPython/3.4.0_Linux/4.4.35-33.55.amzn1.x86_64 20170211050136
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 68 68
+From1 0 0
+From2 0 0
+From3 2 2
+From4 94 94
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://hvd-store.com 1 1
+http://hundejo.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 1 8474
+404 210 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 29
+/language/en-gb/en-gb.xml 1 http://digitalfotoimagem.com.br/language/en-gb/en-gb.xml
+/.well-known/apple-app-site-association 7 -
+//modules/mod_simplefileuploadv1.3/elements/udd.php 2 -
+/dumper.php 1 -
+/apple-app-site-association 5 -
+/wp-login.php 1 -
+/blog//wp-login.php 1 -
+/var/log/maxipago.log 1 -
+/wordpress//wp-login.php 1 -
+/images/enter.jpg 1 -
+/administrator%20/index.php 1 -
+/media/logo_img.php 1 http://digitalfotoimagem.com.br/media/logo_img.php
+/sitemap.xml 1 -
+/escola/24.jpg 1 -
+/xmlrpc.php 2 -
+/images/wedding.jpg 1 -
+/images/fam1.jpg 1 -
+/blog/xmlrpc.php 2 -
+/wp//wp-login.php 1 -
+//wp-login.php 1 -
+/var/log/oitoo_cielo.log 1 -
+/admin.php 1 -
+/administrator/ 1 -
+/index.swf 9 -
+/index.php/admin/ 1 -
+/var/log/cerebrum_logger.log 1 -
+/.well-known/assetlinks.json 6 -
+/update.php 1 -
+/robots.txt 156 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 64
+201.6.229.12 14 14 9002 20170222151017
+138.197.111.200 12 12 37380 20170222140333
+138.197.111.235 6 6 18690 20170216073412
+138.197.69.240 6 6 18690 20170227232723
+138.197.104.19 6 6 18690 20170207173300
+138.197.96.199 6 6 18690 20170202141013
+138.197.104.3 6 6 18690 20170225094139
+138.197.111.141 6 6 18690 20170226164242
+138.197.96.208 6 6 18690 20170219131514
+138.197.111.184 6 6 18690 20170204100602
+138.197.96.247 6 6 18690 20170224012631
+138.197.111.210 6 6 18690 20170210195348
+138.197.73.210 6 6 18690 20170221014431
+138.197.96.243 6 6 18690 20170212092020
+138.197.111.195 6 6 18690 20170214160627
+201.55.31.211 5 5 3215 20170222190238
+192.99.44.141 3 3 25422 20170226204046
+138.197.111.55 3 3 25422 20170212103754
+138.197.96.182 2 2 16948 20170217075718
+138.197.96.236 2 2 16948 20170225025614
+138.197.96.197 2 2 16948 20170226180451
+176.9.50.43 1 1 8474 20170224175228
+138.197.6.74 1 1 8474 20170205011915
+166.70.207.2 1 1 8474 20170203204337
+104.156.231.254 1 1 8474 20170222045000
+138.197.111.95 1 1 8474 20170202200614
+62.212.73.49 1 1 8474 20170228192744
+138.197.96.193 1 1 8474 20170220180505
+52.70.48.63 1 1 8474 20170213063525
+130.211.63.54 1 1 8474 20170222175041
+138.197.111.107 1 1 8474 20170224064729
+5.188.211.244 1 1 8474 20170224054710
+93.104.215.69 1 1 0 20170202063639
+104.207.150.177 1 1 8474 20170205170036
+138.197.111.103 1 1 8474 20170207014219
+138.197.65.190 1 1 8474 20170223095601
+35.166.240.211 1 1 0 20170202063637
+138.197.111.46 1 1 8474 20170219020324
+176.126.252.12 1 1 8474 20170207103455
+138.197.66.234 1 1 8474 20170209072520
+138.197.111.123 1 1 8474 20170208011000
+138.197.111.90 1 1 8474 20170228090752
+138.197.111.31 1 1 8474 20170218055913
+2.229.83.32 1 1 8474 20170213111308
+201.55.31.212 1 1 643 20170209214614
+198.240.71.220 1 1 8474 20170213163443
+13.112.173.220 1 1 8474 20170212163023
+104.238.180.234 1 1 8474 20170213205649
+138.197.111.14 1 1 8474 20170222121910
+138.197.111.84 1 1 8474 20170203224408
+107.20.129.103 1 1 8474 20170227115911
+201.6.228.162 1 1 643 20170225224339
+54.215.206.88 1 1 8474 20170209144249
+159.203.170.175 1 1 8474 20170219221255
+138.197.111.113 1 1 8474 20170210052528
+159.203.169.21 1 1 8474 20170206015716
+138.197.111.106 1 1 8474 20170214034843
+209.95.190.145 1 1 8474 20170209102610
+138.197.11.118 1 1 8474 20170225230948
+95.211.138.129 1 1 8474 20170215002011
+138.197.6.55 1 1 8474 20170227132736
+138.197.111.23 1 1 8474 20170215051241
+52.91.39.248 1 1 8474 20170211050136
+23.23.12.5 1 1 8474 20170227045156
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20170201 1 1 8474 1
+20170202 10 10 27807 5
+20170203 3 3 17591 3
+20170204 7 7 19333 2
+20170205 2 2 16948 2
+20170206 1 1 8474 1
+20170207 9 9 36281 4
+20170208 1 1 8474 1
+20170209 5 5 34539 5
+20170210 7 7 27164 2
+20170211 3 3 17591 3
+20170212 9 9 36281 4
+20170213 5 5 34539 5
+20170214 9 9 28450 4
+20170215 2 2 16948 2
+20170216 8 8 27807 3
+20170217 8 8 27807 3
+20170218 1 1 8474 1
+20170219 8 8 35638 3
+20170220 2 2 9117 2
+20170221 8 8 27807 3
+20170222 15 15 47970 8
+20170223 1 1 8474 1
+20170224 9 9 44112 4
+20170225 9 9 36281 4
+20170226 10 10 52586 3
+20170227 9 9 44112 4
+20170228 2 2 16948 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 1
+0s-30s 83
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/ 66 559284 64 49
+/email 21 13503 19 19
+/email.html 15 79365 0 2
+/aniversario/aniversario.html 15 23760 0 2
+/casamento/paginacasamento.html 15 30720 0 2
+/escola/1.html 15 10905 0 4
+/igreja/1.html 15 8490 0 5
+/teste/ 1 0 1 1
+/teste/wp-cron.php 1 0 1 1
+END_SIDER

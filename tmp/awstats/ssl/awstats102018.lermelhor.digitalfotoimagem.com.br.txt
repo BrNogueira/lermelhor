@@ -1,0 +1,325 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201810 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/ssl/awstats.lermelhor.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2034                
+POS_TIME 2699                
+POS_VISITOR 9489                
+POS_DAY 9985                
+POS_DOMAIN 3337                
+POS_LOGIN 3622                
+POS_ROBOT 3777                
+POS_WORMS 4283                
+POS_EMAILSENDER 4414                
+POS_EMAILRECEIVER 4557                
+POS_SESSION 10172               
+POS_SIDER 10325               
+POS_FILETYPES 4692                
+POS_DOWNLOADS 4857                
+POS_OS 4905                
+POS_BROWSER 5053                
+POS_SCREENSIZE 5201                
+POS_UNKNOWNREFERER 5275                
+POS_UNKNOWNREFERERBROWSER 5445                
+POS_ORIGIN 5676                
+POS_SEREFERRALS 5809                
+POS_PAGEREFS 5975                
+POS_SEARCHWORDS 6149                
+POS_KEYWORDS 6301                
+POS_MISC 2363                
+POS_ERRORS 6360                
+POS_CLUSTER 3478                
+POS_SIDER_404 6493                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181008003339 34 5992 12483131429213
+FirstTime 0
+LastTime 20181007230409
+LastUpdate 20181008092150 34 0 34 0 0
+TotalVisits 12                  
+TotalUnique 9                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 12                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 3 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 2469 16 20 288854
+1 3 3 7407 5 7 74018
+2 1 1 2469 26 30 362989
+3 2 2 4938 25 27 246478
+4 2 2 4938 11 19 229723
+5 3 3 7407 8 33 547833
+6 2 2 4938 14 36 328358
+7 2 2 4938 27 56 1614876
+8 3 3 5350 24 46 626407
+9 0 0 0 9 43 736811
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 2 2 4938 4 8 39161
+17 0 0 0 2 4 22323
+18 0 0 0 3 6 26547
+19 1 19 853838 11 35 593333
+20 4 4 52971 9 23 414017
+21 3 3 7407 10 13 222528
+22 5 7 56610 11 21 138858
+23 3 3 5350 8 11 265996
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+us 30 30 67899
+de 3 3 0
+do 1 1 2469
+br 1 21 952719
+kr 1 1 2469
+jp 1 1 412
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+Googlebot/ 93 773177 20181007224055 30
+bingbot/ 71 1709565 20181008003339 12
+MJ12bot/ 43 695369 20181007231411 10
+feed 26 92950 20181007224213 0
+facebookexternalhit/ 20 1160632 20181007074912 0
+DotBot/ 6 50170 20181007040128 4
+no_user_agent 3 460809 20181007074953 0
+Googlebot\-Image/ 2 25836 20181007202427 0
+Exabot/ 1 67 20181005053417 1
+YandexBot/ 1 67 20181001223828 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+js 8 222470 0 0
+jpg 5 255309 0 0
+html 1 47621 0 0
+css 6 344707 0 0
+php 36 73249 0 0
+jpeg 1 82612 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+win7 2 0
+winunknown 2 2
+win8 18 0
+winxp 2 2
+ios_iphone 2 2
+win10 27 27
+Unknown 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+iphone 2 2
+firefox58.0 27 27
+chrome69.0.3497.100 2 0
+firefox62.0 18 0
+Unknown 6 6
+firefox29.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WordPress 20181006205745
+WordPress/4.7.11;_https://lermelhor.com.br 20181006223430
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+WordPress/4.7.11;_https://lermelhor.com.br 20181006223430
+wp-windowsphone 20181007230409
+WordPress 20181006205745
+Windows_Live_Writer 20181007195626
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 33 34
+From1 0 0
+From2 0 2
+From3 1 1
+From4 3 20
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com_br 0 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://m.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 35 0
+500 33 801149
+404 55 1008774
+301 41 545
+400 5 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 36
+/_phpMyAdmin/scripts/setup.php 2 -
+/M%C3%B3dulo-3/rvsincludefile/rvsheadpage.js 1 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/M%C3%B3dulo-3/css/rvwysiwyg-ui.css 1 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/M%C3%B3dulo-3/rvsincludefile/rvscustomopenwindow.js 1 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/M%C3%83%C2%B3dulo-3/rvsindex.php 1 -
+/MonteiroLobato/images/3.jpg 1 -
+/M%C3%B3dulo-3/js/jquery-ui/themes/base/ui.all.css 1 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/neuroci%C3%83%C2%AAncias/promocional/O-que-voc%C3%83%C2%AA-sabe-.php 1 -
+/M%C3%B3dulo-3/js/jquery-ui/external/responsivecarousel/themes/themes.css 1 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/M%C3%B3dulo-3/js/jquery-ui/external/responsivecarousel/autoinit.js 1 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/M%C3%B3dulo-3/js/publishNavigator/ddsmoothmenu.css 1 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/M%C3%B3dulo-3/customcss/cssProjectefd5c7b6a0a61a174df37cdfd2c3037e.css 1 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/neurociencias/promocional/Para%20come%C3%A7ar%20%22click%20aqui%22%20para%20fazer%20a%20sess%C3%A3o%20do%20modelo%20de%20coaching. 1 -
+/scripts/setup.php 2 -
+/status 2 -
+/admin/scripts/setup.php 2 -
+/M%C3%B3dulo-3/customcss/cssProjectPage8456e88a19aadc17610b509d0b80265e.css 1 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/M%C3%B3dulo-3/js/jquery-ui/external/responsivecarousel/responsiveslides.css 1 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/.well-known/assetlinks.json 1 -
+/Modulo-3/optimizer.php 1 https://lermelhor.com.br/Modulo-3/rvsindex.php
+/M%C3%B3dulo-3/js/jquery-ui/external/responsivecarousel/responsiveslides.min.js 1 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/wp-updats.php 1 -
+/Modulo-3/Para%20come%C3%A7ar%20%22click%20aqui%22%20para%20fazer%20a%20sess%C3%A3o%20do%20modelo%20de%20coaching. 1 -
+/pma/scripts/setup.php 2 -
+/M%C3%B3dulo-3/js/publishNavigator/ddsmoothmenu-v.css 1 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/phpmyadmin/scripts/setup.php 2 -
+/M%C3%B3dulo-3/js/jquery-ui/ui/minified/jquery-ui.min.js 1 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/ads.txt 8 -
+/mother.php 1 -
+/license.php 6 https://lermelhor.com.br/license.php
+/wp-content/plugins/WP_Estimation_Form/assets/js/lfb_frontend.js 1 lermelhor.com.br
+/M%C3%B3dulo-3/js/jquery-ui/jquery.min.js 1 https://lermelhor.com.br/M%C3%B3dulo-3/rvsindex.php
+/copia/images/2/Fun%C3%A7%C3%A3odosolhos.jpg 1 -
+/phpMyAdmin/scripts/setup.php 2 -
+/promocional/Para%20come%C3%A7ar%20%22click%20aqui%22%20para%20fazer%20a%20sess%C3%A3o%20do%20modelo%20de%20coaching. 1 -
+/m%C3%83%C2%B3dulo-2/rvsindex.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 12
+18.216.30.179 27 27 66663 20181005083425
+93.104.215.69 3 3 0 20181006223430
+98.142.96.66 1 1 412 20181007083230
+144.217.67.14 1 1 412 20181006205745
+203.237.216.249 1 1 2469 20181007160426
+198.71.227.10 1 1 412 20181007230409
+202.181.97.56 1 1 412 20181007195626
+190.167.98.125 1 1 2469 20181007161301
+179.204.147.221 1 1 47621 20181004203709
+201.81.161.207 0 18 853426 
+186.223.174.254 0 1 25836 
+187.13.251.89 0 1 25836 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20181001 0 1 25836 0
+20181002 1 19 853426 1
+20181004 11 11 69842 3
+20181005 18 18 44442 1
+20181006 2 3 26248 2
+20181007 5 5 6174 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+1h+ 2
+0s-30s 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/wp-login.php 29 71601 4 4
+/xmlrpc.php 4 1648 4 4
+/wp-cron.php 3 0 3 3
+/M%C3%B3dulo-1/ 1 47621 1 1
+END_SIDER

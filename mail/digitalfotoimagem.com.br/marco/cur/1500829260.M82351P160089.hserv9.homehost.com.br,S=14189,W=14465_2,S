@@ -1,0 +1,276 @@
+Return-Path: <marceloeloyfernandes@gmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id 0WM4AkzWdFlZcQIAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Sun, 23 Jul 2017 14:01:00 -0300
+Return-path: <marceloeloyfernandes@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sun, 23 Jul 2017 14:01:00 -0300
+Received: from mail-wm0-f53.google.com ([74.125.82.53]:33209)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <marceloeloyfernandes@gmail.com>)
+	id 1dZKFX-000gdX-Vk
+	for marco@digitalfotoimagem.com.br; Sun, 23 Jul 2017 14:01:00 -0300
+Received: by mail-wm0-f53.google.com with SMTP id c184so5147557wmd.0
+        for <marco@digitalfotoimagem.com.br>; Sun, 23 Jul 2017 10:00:36 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc;
+        bh=9yyAeckDCEUVeI5AkVnvL8LX/yJcBzEa1WViIIy2VdA=;
+        b=Sj1U/rzfK1kHx8UtdTxaF4IykHYxNHCEg780yw2+Pd9ZruYUhWYZupOn7XRbhtF6Sy
+         g2muC+9Nxp7j7jdN79I8OjBk5YopW7H1ASCNbv0k7Be0B9XnoBIxBi5PQsvY3+wNhBwa
+         eJ42YYoeVz0Lyu8psOWSLwdM8DwVHRruQK9DilTqp02jeOubiSi1mdZ4ojgc3YGxx+94
+         wuYssytLgcjK09rWrKBXvkjvvTIPE01yzRLZ/GEGcaLX5m5pGjntgImbKivHOmn6hFeb
+         /mRUX8+cIwo1oh91DV+CQMUC1zJwJZRyNWu0iOJjM4GE2+JhaZzr3p6Z8JLk7QOgfSwV
+         zZ1w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:cc;
+        bh=9yyAeckDCEUVeI5AkVnvL8LX/yJcBzEa1WViIIy2VdA=;
+        b=bkoOFgM/Y1ei66b1WZl/Kj2vr+KTOmXIVbELLFL3mDLFna8Q6bX/3gi5wgiaK3cQtg
+         ssTONf+aJ2b2e/hVXEs/FfaKaJjrE6lkvubRPRZe9u+Geq87stRo+/znB7e3VD7clyKa
+         lWlGeH6tB6jsVvNDjJ7/UqDUlxAkXjmlCTXLIHZKX24hOmgmFp9YIMTJK1pG5//Cx/p9
+         3aoUGziMk8jRNzeUvAefBfuq4YavetZLg3FJsa1E2jQMh5dQSu4wS94mBBJ3HNyTCMw2
+         2WnV6RQzXNc6TuWdUKJrT7th7z2RTZ1UT9ki9eHIuTETgGHImyWn3fDDLD1WemPCxX3G
+         lZiA==
+X-Gm-Message-State: AIVw113ka3GEMr3xh3NO/Uoiw1VyJVfIO8p8Ue3BySl+OvY5V2mBve6F
+	vEGT44v9WL9YJfeo1i/jwddtVQKLxQ==
+X-Received: by 10.80.176.198 with SMTP id j64mr11345094edd.168.1500829215575;
+ Sun, 23 Jul 2017 10:00:15 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.80.167.195 with HTTP; Sun, 23 Jul 2017 10:00:14 -0700 (PDT)
+In-Reply-To: <SN1PR14MB02850CBBC3E790378612ACB8DFA50@SN1PR14MB0285.namprd14.prod.outlook.com>
+References: <BN3PR18MB0610B978CB336C861E90A6E4C8A40@BN3PR18MB0610.namprd18.prod.outlook.com>
+ <SN1PR14MB02850CBBC3E790378612ACB8DFA50@SN1PR14MB0285.namprd14.prod.outlook.com>
+From: Marcelo Eloy <marceloeloyfernandes@gmail.com>
+Date: Sun, 23 Jul 2017 14:00:14 -0300
+Message-ID: <CAO3gwY_sP-ZZDcQVjuCzWx=dZ_=UzHndRLuCi1YMnRr4AXPWwQ@mail.gmail.com>
+Subject: Re: Quadro de Contatos da CTT
+To: Marco Patriniani <marckopat@live.com>
+Cc: Fernando Ziesmann Fortes <fernandozf@hotmail.com>, 
+	"andrelpgodoi@gmail.com" <andrelpgodoi@gmail.com>, "celso@gmail.com" <celso@gmail.com>, 
+	"ma.finardi@hotmail.com" <ma.finardi@hotmail.com>, "takar2@terra.com.br" <takar2@terra.com.br>, 
+	"carlos.flaminio@gmail.com" <carlos.flaminio@gmail.com>, "cmave96@gmail.com" <cmave96@gmail.com>, 
+	"carlos.rossetti@uol.com.br" <carlos.rossetti@uol.com.br>, 
+	"demetriopendek@hotmail.com" <demetriopendek@hotmail.com>, 
+	"eduardocamacho@uol.com.br" <eduardocamacho@uol.com.br>, 
+	"ebernardinolopes@uol.com.br" <ebernardinolopes@uol.com.br>, 
+	"ernani.flausino@terra.com.br" <ernani.flausino@terra.com.br>, 
+	"everth@mixlav.com.br" <everth@mixlav.com.br>, "szfaria@gmail.com" <szfaria@gmail.com>, 
+	"gdcampos@uol.com.br" <gdcampos@uol.com.br>, "helioamandara@uol.com.br" <helioamandara@uol.com.br>, 
+	"enghgomes@gmail.com" <enghgomes@gmail.com>, 
+	"humberto.serrano@hotmail.com" <humberto.serrano@hotmail.com>, 
+	"j.felix10@bol.com.br" <j.felix10@bol.com.br>, "jkozlowski@uol.com.br" <jkozlowski@uol.com.br>, 
+	"jcl@tech-air.com.br" <jcl@tech-air.com.br>, "mattosfaria@terra.com.br" <mattosfaria@terra.com.br>, 
+	"ctt3843@egoshi.com.br" <ctt3843@egoshi.com.br>, "mmtesta43@gmail.com" <mmtesta43@gmail.com>, 
+	"marco@digitalfotoimagem.com.br" <marco@digitalfotoimagem.com.br>, 
+	"agenda@coachingpravoce.com.br" <agenda@coachingpravoce.com.br>, 
+	"marcuswelbi@crivodarazao.org.br" <marcuswelbi@crivodarazao.org.br>, "ncosta@usa.com" <ncosta@usa.com>, 
+	"nelpendek@hotmail.com" <nelpendek@hotmail.com>, 
+	"ricardocarvalho930@gmail.com.br" <ricardocarvalho930@gmail.com.br>, 
+	"rubens@linart.com.br" <rubens@linart.com.br>, 
+	"sergio@aresultado.adm.br" <sergio@aresultado.adm.br>, "squintinoj@gmail.com" <squintinoj@gmail.com>, 
+	"sverdiani@terra.com.br" <sverdiani@terra.com.br>, 
+	"wanderleyssamtos@gmail.com" <wanderleyssamtos@gmail.com>, "alfanohi@gmail.com" <alfanohi@gmail.com>, 
+	"wviveiro@live.com" <wviveiro@live.com>
+Content-Type: multipart/alternative; boundary="94eb2c19512043539b0554ff08b3"
+
+--94eb2c19512043539b0554ff08b3
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Prezados Irm=C3=A3os,
+Meus dados est=C3=A3o corretos.
+*Atenciosamente,*
+
+
+*************************************************
+
+
+** Marcelo Eloy Fernandes                * marceloeloyfernandes@gmail.com
+<marceloeloyfernandes@gmail.com>
+************************************************
+
+
+
+2017-07-21 22:32 GMT-03:00 Marco Patriniani <marckopat@live.com>:
+
+> Confirmado meus dados.
+>
+> Telefones e e-mail, corretos
+>
+>
+> ------------------------------
+> *De:* Fernando Ziesmann Fortes <fernandozf@hotmail.com>
+> *Enviado:* sexta-feira, 21 de julho de 2017 13:13
+> *Para:* andrelpgodoi@gmail.com; celso@gmail.com; ma.finardi@hotmail.com;
+> takar2@terra.com.br; carlos.flaminio@gmail.com; cmave96@gmail.com;
+> carlos.rossetti@uol.com.br; demetriopendek@hotmail.com;
+> eduardocamacho@uol.com.br; ebernardinolopes@uol.com.br;
+> ernani.flausino@terra.com.br; everth@mixlav.com.br; szfaria@gmail.com;
+> Fernando Ziesmann Fortes; gdcampos@uol.com.br; helioamandara@uol.com.br;
+> enghgomes@gmail.com; humberto.serrano@hotmail.com; j.felix10@bol.com.br;
+> jkozlowski@uol.com.br; jcl@tech-air.com.br; mattosfaria@terra.com.br;
+> ctt3843@egoshi.com.br; marceloeloyfernandes@gmail.com; mmtesta43@gmail.co=
+m;
+> marco@digitalfotoimagem.com.br; agenda@coachingpravoce.com.br;
+> marckopat@live.com; marcuswelbi@crivodarazao.org.br; ncosta@usa.com;
+> nelpendek@hotmail.com; ricardocarvalho930@gmail.com.br;
+> rubens@linart.com.br; sergio@aresultado.adm.br; squintinoj@gmail.com;
+> sverdiani@terra.com.br; wanderleyssamtos@gmail.com; alfanohi@gmail.com;
+> wviveiro@live.com
+> *Assunto:* Quadro de Contatos da CTT
+>
+>
+> Caros amigos e Irm=C3=A3os da CTT,
+>
+>
+> Para que tenhamos a certeza de que todos os nossos colaboradores estejam
+> efetivamente recebendo nas comunica=C3=A7=C3=B5es, fizemos uma lista atua=
+lizada de
+> todos os contatos dos irm=C3=A3os que mant=C3=A9m alguma forma de v=C3=AD=
+nculo com a nossa
+> Loja. Caso os irm=C3=A3os constatem alguma imprecis=C3=A3o de dados, ou h=
+aja outras
+> raz=C3=B5es que justifique uma retifica=C3=A7=C3=A3o de nossa lista, pe=
+=C3=A7o a gentileza de
+> encaminhar as solicita=C3=A7=C3=B5es ao nosso Ir.=C2=B4. Egoshi  (cct@ego=
+shi.com.br),
+> que responder=C3=A1 como membro *ad hoc* das obriga=C3=A7=C3=B5es da Chan=
+celaria nessa
+> atual gest=C3=A3o.
+>
+>
+>
+> Fraternalmente,
+>
+>
+> Ir.=C2=B4. Fortes.
+>
+
+--94eb2c19512043539b0554ff08b3
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Prezados Irm=C3=A3os,<div>Meus dados est=C3=A3o corretos.<=
+/div><div><i>Atenciosamente,</i><br></div><div class=3D"gmail_extra"><div><=
+div class=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div dir=
+=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div><span style=3D"font-size:12=
+.8000001907349px"><i><br></i></span></div><div><i><span style=3D"font-size:=
+12.8000001907349px">***********************************************</span><=
+br></i></div><i>* Marcelo Eloy Fernandes=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 <br>* <a href=3D"mailto:marceloeloyfernandes@gmail.com=
+" target=3D"_blank">marceloeloyfernandes@gmail.com</a> <br>****************=
+*******************************</i><br><br><br></div></div></div></div></di=
+v>
+<br><div class=3D"gmail_quote">2017-07-21 22:32 GMT-03:00 Marco Patriniani =
+<span dir=3D"ltr">&lt;<a href=3D"mailto:marckopat@live.com" target=3D"_blan=
+k">marckopat@live.com</a>&gt;</span>:<br><blockquote class=3D"gmail_quote" =
+style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+
+
+
+
+<div dir=3D"ltr">
+<div id=3D"m_4905904578042173970divtagdefaultwrapper" style=3D"font-size:12=
+pt;color:#000000;font-family:Calibri,Helvetica,sans-serif" dir=3D"ltr">
+<p>Confirmado meus dados.</p>
+<p>Telefones e e-mail, corretos<br>
+</p>
+<br>
+<br>
+<div style=3D"color:rgb(0,0,0)">
+<hr style=3D"display:inline-block;width:98%">
+<div id=3D"m_4905904578042173970divRplyFwdMsg" dir=3D"ltr"><font style=3D"f=
+ont-size:11pt" color=3D"#000000" face=3D"Calibri, sans-serif"><b>De:</b> Fe=
+rnando Ziesmann Fortes &lt;<a href=3D"mailto:fernandozf@hotmail.com" target=
+=3D"_blank">fernandozf@hotmail.com</a>&gt;<br>
+<b>Enviado:</b> sexta-feira, 21 de julho de 2017 13:13<span class=3D""><br>
+<b>Para:</b> <a href=3D"mailto:andrelpgodoi@gmail.com" target=3D"_blank">an=
+drelpgodoi@gmail.com</a>; <a href=3D"mailto:celso@gmail.com" target=3D"_bla=
+nk">celso@gmail.com</a>; <a href=3D"mailto:ma.finardi@hotmail.com" target=
+=3D"_blank">ma.finardi@hotmail.com</a>; <a href=3D"mailto:takar2@terra.com.=
+br" target=3D"_blank">takar2@terra.com.br</a>; <a href=3D"mailto:carlos.fla=
+minio@gmail.com" target=3D"_blank">carlos.flaminio@gmail.com</a>; <a href=
+=3D"mailto:cmave96@gmail.com" target=3D"_blank">cmave96@gmail.com</a>; <a h=
+ref=3D"mailto:carlos.rossetti@uol.com.br" target=3D"_blank">carlos.rossetti=
+@uol.com.br</a>; <a href=3D"mailto:demetriopendek@hotmail.com" target=3D"_b=
+lank">demetriopendek@hotmail.com</a>; <a href=3D"mailto:eduardocamacho@uol.=
+com.br" target=3D"_blank">eduardocamacho@uol.com.br</a>; <a href=3D"mailto:=
+ebernardinolopes@uol.com.br" target=3D"_blank">ebernardinolopes@uol.com.br<=
+/a>;
+ <a href=3D"mailto:ernani.flausino@terra.com.br" target=3D"_blank">ernani.f=
+lausino@terra.com.br</a>; <a href=3D"mailto:everth@mixlav.com.br" target=3D=
+"_blank">everth@mixlav.com.br</a>; <a href=3D"mailto:szfaria@gmail.com" tar=
+get=3D"_blank">szfaria@gmail.com</a>; Fernando Ziesmann Fortes; <a href=3D"=
+mailto:gdcampos@uol.com.br" target=3D"_blank">gdcampos@uol.com.br</a>; <a h=
+ref=3D"mailto:helioamandara@uol.com.br" target=3D"_blank">helioamandara@uol=
+.com.br</a>; <a href=3D"mailto:enghgomes@gmail.com" target=3D"_blank">enghg=
+omes@gmail.com</a>; <a href=3D"mailto:humberto.serrano@hotmail.com" target=
+=3D"_blank">humberto.serrano@hotmail.com</a>; <a href=3D"mailto:j.felix10@b=
+ol.com.br" target=3D"_blank">j.felix10@bol.com.br</a>; <a href=3D"mailto:jk=
+ozlowski@uol.com.br" target=3D"_blank">jkozlowski@uol.com.br</a>; <a href=
+=3D"mailto:jcl@tech-air.com.br" target=3D"_blank">jcl@tech-air.com.br</a>;
+ <a href=3D"mailto:mattosfaria@terra.com.br" target=3D"_blank">mattosfaria@=
+terra.com.br</a>; <a href=3D"mailto:ctt3843@egoshi.com.br" target=3D"_blank=
+">ctt3843@egoshi.com.br</a>; <a href=3D"mailto:marceloeloyfernandes@gmail.c=
+om" target=3D"_blank">marceloeloyfernandes@gmail.com</a><wbr>; <a href=3D"m=
+ailto:mmtesta43@gmail.com" target=3D"_blank">mmtesta43@gmail.com</a>; <a hr=
+ef=3D"mailto:marco@digitalfotoimagem.com.br" target=3D"_blank">marco@digita=
+lfotoimagem.com.br</a><wbr>; <a href=3D"mailto:agenda@coachingpravoce.com.b=
+r" target=3D"_blank">agenda@coachingpravoce.com.br</a>; <a href=3D"mailto:m=
+arckopat@live.com" target=3D"_blank">marckopat@live.com</a>; <a href=3D"mai=
+lto:marcuswelbi@crivodarazao.org.br" target=3D"_blank">marcuswelbi@crivodar=
+azao.org.<wbr>br</a>; <a href=3D"mailto:ncosta@usa.com" target=3D"_blank">n=
+costa@usa.com</a>; <a href=3D"mailto:nelpendek@hotmail.com" target=3D"_blan=
+k">nelpendek@hotmail.com</a>;
+ <a href=3D"mailto:ricardocarvalho930@gmail.com.br" target=3D"_blank">ricar=
+docarvalho930@gmail.com.<wbr>br</a>; <a href=3D"mailto:rubens@linart.com.br=
+" target=3D"_blank">rubens@linart.com.br</a>; <a href=3D"mailto:sergio@ares=
+ultado.adm.br" target=3D"_blank">sergio@aresultado.adm.br</a>; <a href=3D"m=
+ailto:squintinoj@gmail.com" target=3D"_blank">squintinoj@gmail.com</a>; <a =
+href=3D"mailto:sverdiani@terra.com.br" target=3D"_blank">sverdiani@terra.co=
+m.br</a>; <a href=3D"mailto:wanderleyssamtos@gmail.com" target=3D"_blank">w=
+anderleyssamtos@gmail.com</a>; <a href=3D"mailto:alfanohi@gmail.com" target=
+=3D"_blank">alfanohi@gmail.com</a>; <a href=3D"mailto:wviveiro@live.com" ta=
+rget=3D"_blank">wviveiro@live.com</a><br>
+<b>Assunto:</b> Quadro de Contatos da CTT</span></font>
+<div>=C2=A0</div>
+</div>
+<div>
+<div id=3D"m_4905904578042173970divtagdefaultwrapper" dir=3D"ltr" style=3D"=
+font-size:12pt;color:#000000;font-family:Calibri,Helvetica,sans-serif">
+<p>Caros amigos e=C2=A0Irm=C3=A3os da CTT,</p><div><div class=3D"h5">
+<p><br>
+</p>
+<p>Para que tenhamos a certeza de que todos os nossos colaboradores estejam=
+ efetivamente recebendo nas comunica=C3=A7=C3=B5es, fizemos uma lista atual=
+izada de todos os contatos dos irm=C3=A3os que mant=C3=A9m alguma forma de =
+v=C3=ADnculo com a nossa Loja. Caso os irm=C3=A3os constatem alguma
+ imprecis=C3=A3o de dados, ou=C2=A0haja outras raz=C3=B5es que=C2=A0justifi=
+que uma retifica=C3=A7=C3=A3o de nossa lista, pe=C3=A7o a gentileza de enca=
+minhar as solicita=C3=A7=C3=B5es ao nosso Ir.=C2=B4. Egoshi =C2=A0(<a href=
+=3D"mailto:cct@egoshi.com.br" target=3D"_blank">cct@egoshi.com.br</a>), que=
+ responder=C3=A1 como membro
+<i><b>ad hoc</b></i> das obriga=C3=A7=C3=B5es da Chancelaria nessa atual ge=
+st=C3=A3o.=C2=A0</p>
+<p><br>
+</p>
+<p><br>
+</p>
+<p>Fraternalmente,</p>
+<p><br>
+</p>
+<p>Ir.=C2=B4. Fortes.=C2=A0=C2=A0</p>
+</div></div></div>
+</div>
+</div>
+</div>
+</div>
+
+</blockquote></div><br></div></div>
+
+--94eb2c19512043539b0554ff08b3--

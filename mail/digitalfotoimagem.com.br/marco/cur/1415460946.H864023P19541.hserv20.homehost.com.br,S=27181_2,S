@@ -1,0 +1,558 @@
+Return-path: <bounces+marco=digitalfotoimagem.com.br@dynect-mailer.net>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sat, 08 Nov 2014 13:35:46 -0200
+Received: from mtaout-042-pao.sendlabs.com ([208.76.63.42]:57341)
+	by hserv20.homehost.com.br with esmtps (UNKNOWN:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.80.1)
+	(envelope-from <bounces+marco=digitalfotoimagem.com.br@dynect-mailer.net>)
+	id 1Xn839-00052n-2Y
+	for marco@digitalfotoimagem.com.br; Sat, 08 Nov 2014 13:35:46 -0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dynect; d=olx.com;
+ h=Date:To:From:Reply-to:Subject:Message-ID:MIME-Version:Content-Type:Sender; i=support@olx.com;
+ bh=XdcAXyu+NC1mEYMIuBw1DXF2O/Y=;
+ b=Gtu/TR9dHPemCp1xMC8amelyGimhwLp+4S3L+qCLHakHVlme1h5Ff9kDz+UccH+dCScuifun5bXY
+   AV2J8Kpf1E8CyYJI6ibxizPODQ5f3IsPROx3hgDRlzd0pH9tV4C1gRUideTB5AtGY+htyADgTc9u
+   dMLACpHRlxJrrTdJE1U=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dynect; d=olx.com;
+ b=vfV9/2N+7Yt159Ag00werBnnTLCcIpwZVQ/jkYCW4FW5X0Z5KOeIX88eHQVc2I73AuYsr28C9vae
+   RGYWmrMQZm8d8UnOIj2QSFHoKR0bDxoFj3dWAvguFnVJjV76I0d72ofmSEAAJVbxjOXF0tcoZKIi
+   MBWSqiqLV6/JsSw21AM=;
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=olx.com; h=date:to:from
+	:reply-to:subject:message-id:mime-version:content-type; s=
+	relay1; bh=5IxYBRj4vjybSxGRuuxUo9xYYpE=; b=Icn3DE3XhCAeBd8lDjCrm
+	tJFS/rHrIoa6SfFA9mdvwWGJun6xX+AoCiBh+emZCjkJhT1OePNQM0Du5057bYeQ
+	C8/E9vYjAqB+9o/FG2YsyYIy6V7WEuK3S5yGDubquSwYVKzswqpOr7EBEz1VV2qP
+	co58ib8w7FdExtHahUT+10=
+DomainKey-Signature: a=rsa-sha1; c=simple; d=olx.com; h=date:to:from
+	:reply-to:subject:message-id:mime-version:content-type; q=dns;
+	 s=relay1; b=Oqw3Gr/hkA05+9oapViy7Hh0/nDurnR/qV6uJPpZJWvFY1ToTpT
+	iGWU+npbmAg+PTCk780juIkgVg7LrCazs1kdQF2MZBtq6jbPxuR98tTL++4i3QDM
+	6iMlBL6r1o4L772g2eBvzm4pEDtQQxV/TTt08z57XyO2C7mdDp7t2LfQ=
+Date: Sat, 8 Nov 2014 10:35:30 -0500
+To: marco@digitalfotoimagem.com.br
+From: OLX <support@olx.com>
+Reply-to: OLX <support@olx.com>
+Subject: =?utf-8?Q?Aproveite!_Seu_an=C3=BAncio,__Ford_Fiesta_1997_,_com_prioridade?=
+ =?utf-8?Q?!?=
+X-DynectEmail-Msg-Key: 20141108153532.06191702B172@mail6-04-ewr.dyndns.com
+Message-ID: <ab8af0a9472520331a6bb9732ce2d4ad@relay1.olx.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+Bounces-To: olx-bounce@olx-inc.com
+X-MailFrom: support@olx.com
+Mail-ID: 1426512880
+Process-Date: Sat, 08 Nov 2014 10:35:30 -0500
+X-Mail-ID: 1426512880
+X-Process-Date: 2014-11-08 10:31:13;2014-11-08T10:35:30-05:00
+X-Mailtype: 77
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_ab8af0a9472520331a6bb9732ce2d4ad"
+Sender: support@olx.com
+X-DynectEmail-Msg-Hash: +siIS2DoQPdXe7MzHa+2uSne9q5+nq3AUxbCE9Fdva2sxab5ARDs6ZhClPfKGdJDexxIacVrGq8ginihRrWdyNuy50dy/uxhjYGVHqZU/nD6uKt7X9l2eA==
+X-DynectEmail-X-Headers: MHw4MjI3NDI6MTQyNjUxMjg4MDsxfDgyMjc0MzoyMDE0LTExLTA4KzEwJTNBMzElM0ExMyUzQjIwMTQtMTEtMDhUMTAlM0EzNSUzQTMwLTA1JTNBMDA7Mnw4MjI3NDQ6Nzc7
+X-Feedback-ID: T2x4Vk1UQXM=:426396:161220:dyn06
+X-Spam-Status: No, score=-2.0
+X-Spam-Score: -19
+X-Spam-Bar: --
+X-Ham-Report: Spam detection software, running on the system "hserv20.homehost.com.br", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Envie o seu anúncio de volta ao topo dos resultados e tenha
+    mais visibilidade! #outlook a {padding:0;}body{width:100% !important; -webkit-text-size-adjust:100%;
+    -ms-text-size-adjust:100%; margin:0; padding:0; text-align: left;} .ExternalClass
+    {width:100%;}.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass
+    font, .ExternalClass td, .ExternalClass div {line-height: 100%;}#backgroundTable
+    {margin:0; padding:0; width:100% !important; line-height: 100% !important;}img
+    {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;} a
+   img {border:none;} .image_fix {display:block;}p {margin: 1em 0;}h1, h2, h3,
+    h4, h5, h6 {color: black !important;}h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {color:
+    blue !important;}h1 a:active, h2 a:active, h3 a:active, h4 a:active, h5 a:active,
+    h6 a:active {color: red !important;}h1 a:visited, h2 a:visited, h3 a:visited,
+    h4 a:visited, h5 a:visited, h6 a:visited {color: purple !important; }table
+    td {border-collapse: collapse;}table { border-collapse:collapse; mso-table-lspace:0pt;
+    mso-table-rspace:0pt; line-height: 20px }a {color: blue;}a:hover{ text-decoration:
+    underline!important;}@media only screen and (max-device-width: 480px) {a[href^="tel"],
+    a[href^="sms"] {text-decoration: none;color: blue;pointer-events: none;cursor:
+    default;}.mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {text-decoration:
+    default;color: blue !important;pointer-events: auto;cursor: default;}}@media
+    only screen and (min-device-width: 768px) and (max-device-width: 1024px)
+   {a[href^="tel"], a[href^="sms"] {text-decoration: none; color: blue; pointer-events:
+    none;cursor: default; }.mobile_link a[href^="tel"], .mobile_link a[href^="sms"]
+    {text-decoration: default;color: blue !important;pointer-events: auto;cursor:
+    default;}} [...] 
+ 
+ Content analysis details:   (-2.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: google-analytics.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+X-Spam-Flag: NO
+
+--b1_ab8af0a9472520331a6bb9732ce2d4ad
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+=20
+
+
+    Envie o seu an=C3=BAncio de volta ao topo dos resultados e tenha
+mais visibilidade!
+
+
+
+
+    #outlook a {padding:0;}body{width:100% !important;
+-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;
+margin:0; padding:0; text-align: left;} .ExternalClass
+{width:100%;}.ExternalClass, .ExternalClass p, .ExternalClass
+span, .ExternalClass font, .ExternalClass td, .ExternalClass div
+{line-height: 100%;}#backgroundTable {margin:0; padding:0;
+width:100% !important; line-height: 100% !important;}img
+{outline:none; text-decoration:none; -ms-interpolation-mode:
+bicubic;} a img {border:none;} .image_fix {display:block;}p
+{margin: 1em 0;}h1, h2, h3, h4, h5, h6 {color: black
+!important;}h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {color: blue
+!important;}h1 a:active, h2 a:active,  h3 a:active, h4 a:active,
+h5 a:active, h6 a:active {color: red !important;}h1 a:visited,
+h2 a:visited,  h3 a:visited, h4 a:visited, h5 a:visited, h6
+a:visited {color: purple !important; }table td {border-collapse:
+collapse;}table { border-collapse:collapse;
+mso-table-lspace:0pt; mso-table-rspace:0pt; line-height: 20px }a
+{color: blue;}a:hover{ text-decoration:
+underline!important;}@media only screen and (max-device-width:
+480px) {a[href^=3D"tel"], a[href^=3D"sms"] {text-decoration:
+none;color: blue;pointer-events: none;cursor:
+default;}.mobile_link a[href^=3D"tel"], .mobile_link
+a[href^=3D"sms"] {text-decoration: default;color: blue
+!important;pointer-events: auto;cursor: default;}}@media only
+screen and (min-device-width: 768px) and (max-device-width:
+1024px) {a[href^=3D"tel"], a[href^=3D"sms"] {text-decoration: none;
+color: blue; pointer-events: none;cursor: default; }.mobile_link
+a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] {text-decoration:
+default;color: blue !important;pointer-events: auto;cursor:
+default;}}   =20
+
+
+
+
+   =20
+        =20
+           =20
+               =20
+                   =20
+                       =20
+                           =20
+                               =20
+                                   =20
+                                       =20
+                                           =20
+                                               =20
+                                                               =20
+  =20
+                                       =20
+                                   =20
+                                   =20
+                                       =20
+                                           =20
+                                               =20
+                                                   =20
+                                                   =20
+                                                   =20
+                                                   =20
+                                               =20
+                                           =20
+                                       =20
+                                                   =20
+                                   =20
+                                       =20
+                                           =20
+                                               =20
+                                                   =20
+                                                           =20
+        Ol=C3=A1 ,
+   =20
+   =20
+
+
+
+            Identificamos que j=C3=A1 faz 23 dias que voc=C3=AA publicou
+o an=C3=BAncio:=20
+   =20
+
+
+
+   =20
+       =20
+           =20
+               =20
+                   =20
+                       =20
+                                                           =20
+                                   =20
+                               =20
+                                                   =20
+                        =20
+                       =20
+                            Ford Fiesta 1997
+                                                           =20
+
+
+                                 R$ 7000 =20
+                               =20
+
+                                                   =20
+                   =20
+               =20
+           =20
+       =20
+   =20
+   =20
+ Ainda n=C3=A3o vendeu? Quer uma ajudinha? Podemos enviar o seu
+an=C3=BAncio para as primeiras p=C3=A1ginas novamente, para isso basta
+voc=C3=AA clicar no bot=C3=A3o abaixo.=20
+               =20
+               =20
+                   =20
+                   =20
+                        Renovar Agora! Gr=C3=A1tis
+                   =20
+                  =20
+               =20
+                Esta op=C3=A7=C3=A3o s=C3=B3 estar=C3=A1 dispon=C3=ADvel =
+pelos
+pr=C3=B3ximos 5 dias.   =20
+   =20
+    Agora se voc=C3=AA j=C3=A1 vendeu, remova o an=C3=BAncio do site, =
+assim
+voc=C3=AA n=C3=A3o receber=C3=A1 mais contatos de compradores =
+interessados.
+Fica a dica!
+   =20
+   =20
+    Remover meu an=C3=BAncio
+   =20
+
+   =20
+
+    Desapega, Desapega!
+   =20
+
+    Equipe OLX
+               =20
+                                                   =20
+                                                       =20
+                                               =20
+                                       =20
+                                   =20
+                     =20
+                               =20
+                           =20
+                       =20
+                           =20
+               =20
+                                               =20
+                   =20
+                       =20
+                                  Por favor, n=C3=A3o responda este
+e-mail. Se tiver d=C3=BAvidas, Fale com a OLX. Para garantir o
+recebimento dos nossos e-mails adicione support@olx.com na sua
+lista de contatos. Se n=C3=A3o deseja receber dicas da OLX, clique
+aqui e desmarque a op=C3=A7=C3=A3o: "Quero receber dicas sobre como
+comprar e vender na OLX".
+                       =20
+                   =20
+                                   =20
+           =20
+        =20
+    =20
+
+
+
+
+
+
+--b1_ab8af0a9472520331a6bb9732ce2d4ad
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">=20
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<title>    Envie o seu an=C3=BAncio de volta ao topo dos resultados e tenha=
+ mais visibilidade!
+</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0"/>
+<style type=3D"text/css">
+    #outlook a {padding:0;}body{width:100% !important; -webkit-text-size-ad=
+just:100%; -ms-text-size-adjust:100%; margin:0; padding:0; text-align: left=
+;} .ExternalClass {width:100%;}.ExternalClass, .ExternalClass p, .ExternalC=
+lass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line=
+-height: 100%;}#backgroundTable {margin:0; padding:0; width:100% !important=
+; line-height: 100% !important;}img {outline:none; text-decoration:none; -m=
+s-interpolation-mode: bicubic;} a img {border:none;} .image_fix {display:bl=
+ock;}p {margin: 1em 0;}h1, h2, h3, h4, h5, h6 {color: black !important;}h1 =
+a, h2 a, h3 a, h4 a, h5 a, h6 a {color: blue !important;}h1 a:active, h2 a:=
+active,  h3 a:active, h4 a:active, h5 a:active, h6 a:active {color: red !im=
+portant;}h1 a:visited, h2 a:visited,  h3 a:visited, h4 a:visited, h5 a:visi=
+ted, h6 a:visited {color: purple !important; }table td {border-collapse: co=
+llapse;}table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-r=
+space:0pt; line-height: 20px }a {color: blue;}a:hover{ text-decoration: und=
+erline!important;}@media only screen and (max-device-width: 480px) {a[href^=
+=3D"tel"], a[href^=3D"sms"] {text-decoration: none;color: blue;pointer-even=
+ts: none;cursor: default;}.mobile_link a[href^=3D"tel"], .mobile_link a[hre=
+f^=3D"sms"] {text-decoration: default;color: blue !important;pointer-events=
+: auto;cursor: default;}}@media only screen and (min-device-width: 768px) a=
+nd (max-device-width: 1024px) {a[href^=3D"tel"], a[href^=3D"sms"] {text-dec=
+oration: none; color: blue; pointer-events: none;cursor: default; }.mobile_=
+link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] {text-decoration: defa=
+ult;color: blue !important;pointer-events: auto;cursor: default;}}   =20
+</style>
+</head>
+<body bgcolor=3D"#f5f5f5">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" id=3D"backgroundTab=
+le" style=3D"font-family:Arial, Helvetica, Sans-Serif; font-size:14px; line=
+-height:100%; color:#333;" bgcolor=3D"#f5f5f5" width=3D"100%" >
+    <tr>
+        <td valign=3D"top" align=3D"center">=20
+            <div style=3D"margin:auto;max-width:600px; min-width:320px;">
+                <div style=3D"border:1px solid #d0d0d0;max-width:600px; min=
+-width:320px;text-align: left;">
+                    <table align=3D"center" width=3D"100%" cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0" align=3D"center" bgcolor=3D"#FFFFFF" style=
+=3D"max-width:600px; min-width:320px;">
+                        <tr>
+                            <td>
+                                <table  width=3D"100%" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" bordercolor=3D"#d0d0d0" align=3D"center" bgcol=
+or=3D"#FFFFFF" style=3D"max-width:600px; min-width:320px;">
+                                    <tr>
+                                        <td width=3D"100%" valign=3D"top">
+                                            <a href=3D"http://link.email.dy=
+nect.net/link.php?H=3D%2BsiIS2DoQPdXe7MzHa%2B2uSne9q5%2Bnq3AUxbCE9Fdva2sxab=
+5ARDs6ZhClPfKGdJDexxIacVrGq8ginihRrWdyNuy50dy%2FuxhjYGVHqZU%2FnD6uKt7X9l2eA=
+%3D%3D&G=3D823&R=3Dhttp%3A%2F%2Fwww.olx.com.br%3Finvite%3DTranEmail-BR_ReBu=
+mp-TopLogoOlx%26utm_source%3Dtran_email%26utm_medium%3Demail%26utm_content%=
+3DTop_Logo_Olx%26utm_campaign%3Drebumb%0D%0A&I=3D20141108153532.06191702B17=
+2%40mail6-04-ewr.dyndns.com&X=3DMHw4MjI3NDI6MTQyNjUxMjg4MDsxfDgyMjc0MzoyMDE=
+0LTExLTA4KzEwJTNBMzElM0ExMyUzQjIwMTQtMTEtMDhUMTAlM0EzNSUzQTMwLTA1JTNBMDA7Mn=
+w4MjI3NDQ6Nzc7" target =3D"_blank" title=3D"Olx Classificados Gr=C3=A1tis" =
+>
+                                                <img style=3D"padding:10px =
+20px;" class=3D"image_fix" src=3D"http://static01.olx-st.com/email/br/asset=
+s/images/logo.gif" alt=3D"Olx Classificados Gr=C3=A1tis" title=3D"Olx Class=
+ificados Gr=C3=A1tis" width=3D"242" height=3D"50" />
+                                            </a>                       =20
+                                        </td>
+                                    </tr>
+                                    <tr border=3D"0">
+                                        <td border=3D"0">
+                                            <table width=3D"100%" cellpaddi=
+ng=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0" >
+                                                <tr>
+                                                    <td width=3D"25%" heigh=
+t=3D"3" bgcolor=3D"#662288"></td>
+                                                    <td width=3D"25%" heigh=
+t=3D"3" bgcolor=3D"#aabb00"></td>
+                                                    <td width=3D"25%" heigh=
+t=3D"3" bgcolor=3D"#ff7700"></td>
+                                                    <td width=3D"25%" heigh=
+t=3D"3" bgcolor=3D"#662288"></td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>               =20
+                                    <tr>
+                                        <td>
+                                            <table width=3D"100%" cellpaddi=
+ng=3D"20" cellspacing=3D"0" align=3D"center" bgcolor=3D"#FFFFFF" >
+                                                <tr>
+                                                    <td>
+                                                            <strong style=
+=3D"font-size:18px;">
+        Ol=C3=A1 ,
+    </strong>
+    <br /><br />
+
+            Identificamos que j=C3=A1 faz 23 dias que voc=C3=AA publicou o =
+an=C3=BAncio:=20
+    <br /><br />
+
+    <table width=3D"100%" border=3D"1" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"border:1px solid #CCC">
+        <tr>
+            <td style=3D"padding:20px 10px">
+                <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                    <tr>
+                        <td align=3D"center" valign=3D"middle" >
+                                                            <div style=3D"b=
+order:1px solid #CCCCCC;text-align:center; width:100px;  line-height:20px;"=
+>
+                                    <img src=3D"http://images03.olx-st.com/=
+ui/24/41/85/1413469821_729683685_1.jpg" alt=3D"Ford Fiesta 1997" style=3D"w=
+idth:100px; " />
+                                </div>
+                                                    </td>
+                        <td>&nbsp;</td>
+                        <td>
+                            <a href=3D"http://link.email.dynect.net/link.ph=
+p?H=3D%2BsiIS2DoQPdXe7MzHa%2B2uSne9q5%2Bnq3AUxbCE9Fdva2sxab5ARDs6ZhClPfKGdJ=
+DexxIacVrGq8ginihRrWdyNuy50dy%2FuxhjYGVHqZU%2FnD6uKt7X9l2eA%3D%3D&G=3D823&R=
+=3Dhttp%3A%2F%2Fwww.olx.com.br%2Fiid-729683685%3Finvite%3DTranEmail-BR_ReBu=
+mp-TopVisualizeAd%26amp%3Butm_source%3Dtran_email%26amp%3Butm_medium%3Demai=
+l%26amp%3Butm_content%3DTOP_visualize_AD%26amp%3Butm_campaign%3Drebumb%0D%0=
+A&I=3D20141108153532.06191702B172%40mail6-04-ewr.dyndns.com&X=3DMHw4MjI3NDI=
+6MTQyNjUxMjg4MDsxfDgyMjc0MzoyMDE0LTExLTA4KzEwJTNBMzElM0ExMyUzQjIwMTQtMTEtMD=
+hUMTAlM0EzNSUzQTMwLTA1JTNBMDA7Mnw4MjI3NDQ6Nzc7" target=3D"_blank" style=3D"=
+color:#3388BB; text-decoration:none;">Ford Fiesta 1997</a>
+                                                            <br /><br />
+                                <strong> R$ 7000  </strong>
+                                <br />
+                                                    </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <br/>
+ <strong>Ainda n=C3=A3o vendeu?</strong> Quer uma ajudinha? Podemos enviar =
+o seu an=C3=BAncio para as primeiras p=C3=A1ginas novamente, para isso bast=
+a voc=C3=AA clicar no bot=C3=A3o abaixo.=20
+                <br/><br/>
+                <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" ali=
+gn=3D"center" >
+                    <tr>
+                    <td width=3D"280" height=3D"51" valign=3D"middle" align=
+=3D"center" bgcolor=3D"#F17201" background=3D"http://static01.olx-st.com/em=
+ail/br/assets/images/bt-orange.gif"  >
+                        <a href=3D"http://link.email.dynect.net/link.php?H=
+=3D%2BsiIS2DoQPdXe7MzHa%2B2uSne9q5%2Bnq3AUxbCE9Fdva2sxab5ARDs6ZhClPfKGdJDex=
+xIacVrGq8ginihRrWdyNuy50dy%2FuxhjYGVHqZU%2FnD6uKt7X9l2eA%3D%3D&G=3D823&R=3D=
+http%3A%2F%2Fwww.olx.com.br%2Fposting_rebump.php%3Fitemid%3D729683685%26amp=
+%3Bhash%3Db264820b3a0f68a6a802be1ce5d8e80d73845ae3%26invite%3DTranEmail-BR_=
+ReBump-MiddleReBump%26utm_source%3Dtran_email%26utm_medium%3Demail%26utm_co=
+ntent%3DMIDDLE_rebump%26utm_campaign%3Drebumb%0D%0A+&I=3D20141108153532.061=
+91702B172%40mail6-04-ewr.dyndns.com&X=3DMHw4MjI3NDI6MTQyNjUxMjg4MDsxfDgyMjc=
+0MzoyMDE0LTExLTA4KzEwJTNBMzElM0ExMyUzQjIwMTQtMTEtMDhUMTAlM0EzNSUzQTMwLTA1JT=
+NBMDA7Mnw4MjI3NDQ6Nzc7" target=3D"_blank" style=3D"font-size:18px;text-deco=
+ration:none; color:#FFF;"><strong>Renovar Agora! Gr=C3=A1tis</strong></a>
+                    </td>
+                   </tr>
+                </table>
+                <span style=3D"margin-top:10px;display:block;text-align:cen=
+ter;color:#999">Esta op=C3=A7=C3=A3o s=C3=B3 estar=C3=A1 dispon=C3=ADvel pe=
+los pr=C3=B3ximos 5 dias.</span>   =20
+    <br/>
+    Agora se voc=C3=AA j=C3=A1 vendeu, remova o an=C3=BAncio do site, assim=
+ voc=C3=AA n=C3=A3o receber=C3=A1 mais contatos de compradores interessados=
+. Fica a dica!
+    <br/>
+    <br/>
+    <a href=3D"http://link.email.dynect.net/link.php?H=3D%2BsiIS2DoQPdXe7Mz=
+Ha%2B2uSne9q5%2Bnq3AUxbCE9Fdva2sxab5ARDs6ZhClPfKGdJDexxIacVrGq8ginihRrWdyNu=
+y50dy%2FuxhjYGVHqZU%2FnD6uKt7X9l2eA%3D%3D&G=3D823&R=3Dhttp%3A%2F%2Fwww.olx.=
+com.br%2Fmyolx%2Fremovead.php%3Fiid%3D729683685%26amp%3Bsk%3D5dc9aa99988777=
+ccdbbbaab000fffeeed%26amp%3Binvite%3DTranEmail-BR_ReBump-BottomExcludeAd%26=
+amp%3Butm_source%3Dtran_email%26amp%3Butm_medium%3Demail%26amp%3Butm_conten=
+t%3DBOTTOM_exclude_ad%26amp%3Butm_campaign%3Drebumb%0D%0A&I=3D2014110815353=
+2.06191702B172%40mail6-04-ewr.dyndns.com&X=3DMHw4MjI3NDI6MTQyNjUxMjg4MDsxfD=
+gyMjc0MzoyMDE0LTExLTA4KzEwJTNBMzElM0ExMyUzQjIwMTQtMTEtMDhUMTAlM0EzNSUzQTMwL=
+TA1JTNBMDA7Mnw4MjI3NDQ6Nzc7" target=3D"_blank" style=3D"display:block;width=
+:280px;margin:0 auto;font-size:18px;text-decoration:none;padding:15px 0;tex=
+t-align:center;border:1px solid #77BBDD;color:#3388BB">Remover meu an=C3=BA=
+ncio</a>
+    <br />
+    <br />
+    Desapega, Desapega!
+    <br />
+    Equipe OLX
+               =20
+                                                    </td>
+                                                </tr>       =20
+                                            </table>   =20
+                                        </td>
+                                    </tr>
+                     =20
+                                </table>
+                            </td>
+                        </tr>
+                    </table>       =20
+                </div>
+                                                <table cellpadding=3D"20" c=
+ellspacing=3D"0" border=3D"0" align=3D"center"  style=3D"max-width:600px; m=
+in-width:320px;font-size:12px;">
+                    <tr>
+                        <td width=3D"100%" valign=3D"top">
+                                  Por favor, n=C3=A3o responda este e-mail.=
+ Se tiver d=C3=BAvidas, <a href=3D"http://link.email.dynect.net/link.php?H=
+=3D%2BsiIS2DoQPdXe7MzHa%2B2uSne9q5%2Bnq3AUxbCE9Fdva2sxab5ARDs6ZhClPfKGdJDex=
+xIacVrGq8ginihRrWdyNuy50dy%2FuxhjYGVHqZU%2FnD6uKt7X9l2eA%3D%3D&G=3D823&R=3D=
+http%3A%2F%2Fwww.olx.com.br%2Fcontacts.php%3Finvite%3DTranEmail-BR_ReBump-B=
+ottomContactOLX%26amp%3Butm_source%3Dtran_email%26amp%3Butm_medium%3Demail%=
+26amp%3Butm_content%3DBottom_Contact_Olx%26amp%3Butm_campaign%3Drebumb%0D%0=
+A&I=3D20141108153532.06191702B172%40mail6-04-ewr.dyndns.com&X=3DMHw4MjI3NDI=
+6MTQyNjUxMjg4MDsxfDgyMjc0MzoyMDE0LTExLTA4KzEwJTNBMzElM0ExMyUzQjIwMTQtMTEtMD=
+hUMTAlM0EzNSUzQTMwLTA1JTNBMDA7Mnw4MjI3NDQ6Nzc7" target=3D"_blank" style=3D"=
+color:#3388BB;text-decoration:none;">Fale com a OLX</a>. Para garantir o re=
+cebimento dos nossos e-mails adicione <a style=3D"color:#3388BB;text-decora=
+tion:none;" href=3D"mailto:support@olx.com">support@olx.com</a> na sua list=
+a de contatos. Se n=C3=A3o deseja receber dicas da OLX, <a href=3D"http://l=
+ink.email.dynect.net/link.php?H=3D%2BsiIS2DoQPdXe7MzHa%2B2uSne9q5%2Bnq3AUxb=
+CE9Fdva2sxab5ARDs6ZhClPfKGdJDexxIacVrGq8ginihRrWdyNuy50dy%2FuxhjYGVHqZU%2Fn=
+D6uKt7X9l2eA%3D%3D&G=3D823&R=3Dhttp%3A%2F%2Fwww.olx.com.br%2Fmyolx%2Femails=
+notification.php%3Finvite%3DTranEmail-BR_ReBump-BottomNotificationOlx%26amp=
+%3Butm_source%3Dtran_email%26amp%3Butm_medium%3Demail%26amp%3Butm_content%3=
+DBottom_Notification_Olx%26amp%3Butm_campaign%3Drebumb%0D%0A&I=3D2014110815=
+3532.06191702B172%40mail6-04-ewr.dyndns.com&X=3DMHw4MjI3NDI6MTQyNjUxMjg4MDs=
+xfDgyMjc0MzoyMDE0LTExLTA4KzEwJTNBMzElM0ExMyUzQjIwMTQtMTEtMDhUMTAlM0EzNSUzQT=
+MwLTA1JTNBMDA7Mnw4MjI3NDQ6Nzc7" target=3D"_blank" style=3D"color:#3388BB;te=
+xt-decoration:none;">clique aqui</a> e desmarque a op=C3=A7=C3=A3o: "Quero =
+receber dicas sobre como comprar e vender na OLX".
+                        </td>
+                    </tr>
+                </table>                   =20
+            </div>
+         </td>
+    </tr>=20
+</table>
+<img width=3D"1" height=3D"1" src=3D"http://www.google-analytics.com/__utm.=
+gif?utmwv=3D5.3.7&amp;utmac=3DUA-2530746-3&amp;utms=3D1&amp;utmn=3D20773704=
+69&amp;utmcs=3DUTF-8&amp;utmsr=3D1x1&amp;utmvp=3D1x1&amp;utmsc=3D24-bit&amp=
+;utmul=3Dpt-br&amp;utmje=3D0&amp;utmfl=3D11.4%20r402&amp;utmhid=3D155608462=
+8&amp;utmcc=3D__utma%3D18082220.367436590.1351890289.1351890289.1351890289.=
+1%3B%2B__utmz%3D18082220.1351890289.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direc=
+t)%7Cutmcmd%3D(none)%3B&amp;utmu=3Dq~&amp;utmr=3Ddigitalfotoimagem.com.br&a=
+mp;utmhn=3Dwww.olx.com.br&amp;utmp=3DcampaignName%3Dad-rebump%26recipientDo=
+main%3Dmarco%40digitalfotoimagem.com.br%26countryUrl%3Dwww.olx.com.br%26cat=
+egory%3D378%26registerdUser%3D%26daysSincePosting%3D0.023002615740741" />
+<img src=3D"http://trk.email.dynect.net/trk.php?a=3D/o2/823/%2BsiIS2DoQPdXe=
+7MzHa%2B2uSne9q5%2Bnq3AUxbCE9Fdva2sxab5ARDs6ZhClPfKGdJDexxIacVrGq8ginihRrWd=
+yNuy50dy%2FuxhjYGVHqZU%2FnD6uKt7X9l2eA%3D%3D/i.gif&i=3D20141108153532.06191=
+702B172%40mail6-04-ewr.dyndns.com&x=3DMHw4MjI3NDI6MTQyNjUxMjg4MDsxfDgyMjc0M=
+zoyMDE0LTExLTA4KzEwJTNBMzElM0ExMyUzQjIwMTQtMTEtMDhUMTAlM0EzNSUzQTMwLTA1JTNB=
+MDA7Mnw4MjI3NDQ6Nzc7" alt=3D"" width=3D"2" height=3D"2" /></body>
+</html>
+
+
+
+--b1_ab8af0a9472520331a6bb9732ce2d4ad--

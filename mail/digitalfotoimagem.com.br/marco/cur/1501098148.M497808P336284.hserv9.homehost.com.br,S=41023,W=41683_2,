@@ -1,0 +1,660 @@
+Return-Path: <fernandozf@hotmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id qV6LHaTweFmcIQUAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Wed, 26 Jul 2017 16:42:28 -0300
+Return-path: <fernandozf@hotmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Wed, 26 Jul 2017 16:42:28 -0300
+Received: from mail-oln040092002079.outbound.protection.outlook.com ([40.92.2.79]:62576 helo=NAM01-SN1-obe.outbound.protection.outlook.com)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <fernandozf@hotmail.com>)
+	id 1daSCS-001Rf9-36
+	for marco@digitalfotoimagem.com.br; Wed, 26 Jul 2017 16:42:28 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=4qdNhfTPmQs/WUzqS3MGYii3XRz4//n41a3O/Xvk+pY=;
+ b=T+EWkthkM0BvjLN9ofRWH2mD8T0L0X+VSDSwHbeH1UZ4lK9kgpFO7PC5aZChodypkBFSpXCdiCtkxGzHACzaWxBfch0sYBG/Sf6ForCxCIEF9ZK5Vi4U1L3T/f1qNoCHcvwA+jSYySP5s5GgbucepRPEM2wJU5Du4Vk/ainhMTSrGrZz0VMpc2/DBfhlZj3vxgllPwKXBNrbqYsP0S3BDsCuCLYDtG/KCdao2eu/BvrFYRyklPpKjnlQUJL0BxeBrWt6O/gc5m1jg466v6rQrUsk4KV5yO++r7Ppx0t6XO4W5u2BDp3xqAiVdIId4EkAN2BV6aYT7c/yrKh1te4kuA==
+Received: from SN1NAM01FT055.eop-nam01.prod.protection.outlook.com
+ (10.152.64.53) by SN1NAM01HT198.eop-nam01.prod.protection.outlook.com
+ (10.152.65.14) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.1240.9; Wed, 26
+ Jul 2017 19:41:40 +0000
+Received: from BN3PR18MB0610.namprd18.prod.outlook.com (10.152.64.55) by
+ SN1NAM01FT055.mail.protection.outlook.com (10.152.65.229) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.1.1240.9 via Frontend Transport; Wed, 26 Jul 2017 19:41:40 +0000
+Received: from BN3PR18MB0610.namprd18.prod.outlook.com ([10.165.116.140]) by
+ BN3PR18MB0610.namprd18.prod.outlook.com ([10.165.116.140]) with mapi id
+ 15.01.1282.021; Wed, 26 Jul 2017 19:41:40 +0000
+From: Fernando Ziesmann Fortes <fernandozf@hotmail.com>
+To: "andrelpgodoi@gmail.com" <andrelpgodoi@gmail.com>,
+	"carlos.flaminio@gmail.com" <carlos.flaminio@gmail.com>, "cmave96@gmail.com"
+	<cmave96@gmail.com>, "demetriopendek@hotmail.com"
+	<demetriopendek@hotmail.com>, "eduardocamacho@uol.com.br"
+	<eduardocamacho@uol.com.br>, "ebernardinolopes@uol.com.br"
+	<ebernardinolopes@uol.com.br>, "everth@mixlav.com.br" <everth@mixlav.com.br>,
+	"szfaria@gmail.com" <szfaria@gmail.com>, Fernando Ziesmann Fortes
+	<fernandozf@hotmail.com>, "enghgomes@gmail.com" <enghgomes@gmail.com>,
+	"humberto.serrano@hotmail.com" <humberto.serrano@hotmail.com>,
+	"j.felix10@bol.com.br" <j.felix10@bol.com.br>, "jcl@tech-air.com.br"
+	<jcl@tech-air.com.br>, "ctt3843@egoshi.com.br" <ctt3843@egoshi.com.br>,
+	"marceloeloyfernandes@gmail.com" <marceloeloyfernandes@gmail.com>,
+	"parise@lermelhor.com.br" <parise@lermelhor.com.br>,
+	"marco@digitalfotoimagem.com.br" <marco@digitalfotoimagem.com.br>,
+	"marckopat@live.com" <marckopat@live.com>, "ncosta@usa.com" <ncosta@usa.com>,
+	"nelpendek@hotmail.com" <nelpendek@hotmail.com>,
+	"ricardocarvalho930@gmail.com.br" <ricardocarvalho930@gmail.com.br>,
+	"squintinoj@gmail.com" <squintinoj@gmail.com>, "wanderleyssamtos@gmail.com"
+	<wanderleyssamtos@gmail.com>, "alfanohi@gmail.com" <alfanohi@gmail.com>
+Subject: Informe sobre a PAEL
+Thread-Topic: Informe sobre a PAEL
+Thread-Index: AQHTBkcZC2Nh4+oql0i5SQwFGtAnBg==
+Date: Wed, 26 Jul 2017 19:41:40 +0000
+Message-ID: <BN3PR18MB06104B0938E815C3FFCE8789C8B90@BN3PR18MB0610.namprd18.prod.outlook.com>
+Accept-Language: pt-BR, en-US
+Content-Language: pt-BR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: gmail.com; dkim=none (message not signed)
+ header.d=none;gmail.com; dmarc=none action=none header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:6755ED48A6DB86FBDE39815EFB9055891BD57ED346EC41838DBDD65E0B7A15C3;UpperCasedChecksum:ECEA4556C70DCA70D6D1B2EA85A54F223FF3856D59AAD562B3D3E1102E3C1285;SizeAsReceived:8187;Count:42
+x-tmn: [dNOhOXtlw5xqJYkp51kReMOLQDf0CSjL]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;SN1NAM01HT198;7:5u/JnN8J35fFIHaFwRtH3HrB1s9hviNd19SsnoLmGAW3eqb3d//UhGfpKXgTRbjXZNRGd6P9kW1+qW1ksCCFfCkr1wuXbqhmmgO0SAXx5apta1O107kTm14GJlPTV4t3Y7RyBHNkWW1zQjJmMtiHwFXMKflP1LwMLYUhX0gFP4UTSJQXjxsZCphPFS08iZ6uRs5jVqBgzGVba+OisIQL/oifMolT0/BDQ+7BTKoB5KAqzxyyfXeimoaLfvyxp0kKoYAmonq6qpmM+6a09jTv4toBRLWM8FlYw7McsUieYWZ/RpOm0lHep5jl9BvMviihImEOxL2+XiIixErsrtgYMCJkLIjRHlpFU7tJYXE5rqeR55Hde+bivxS8q6VzXctl1xPu/QXkkhhMt2RTGluPURie95Lbf9aFJ8rE0q7Rfn8Xbmww+0DHt9/5pQqLn5c8TAD0aIrYgxxRXtIf6HSKiPiCfzHYj8zxmxPNmWz/BVJpRh+u9mRX1APQm91r5j94JKGdMoNsalMFzZBpHmZT+Xprbpfl23wDBH/xup1JWDlAijOlWqN8T6XvA0DaM55pgsmJQLgn/sd4ioONhOLMzPFrxnG7lNWRJWgalYXerepFx1OW4FZb766NBKgaYyRdqkN0W1efcIcTgqyDP7/zLq8T9GCqloD6kMyWu/fcIwE2gDDejr26UCF1LtsrxG7p/NmthF7bDl6x63GgSMoTqpCmGI8v0KzFlElAPbRnQQF8Gtlp30cxPcFjWFtKmmuF2GVQTdYMQcCFvRcv1FguXw==
+x-incomingheadercount: 42
+x-eopattributedmessage: 0
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:SN1NAM01HT198;H:BN3PR18MB0610.namprd18.prod.outlook.com;FPR:;SPF:None;LANG:pt;
+x-ms-office365-filtering-correlation-id: 3b56f260-16bc-4a66-53c8-08d4d45e5620
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(300000500095)(300135000095)(300000501095)(300135300095)(22001)(300000502095)(300135100095)(300000503095)(300135400095)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(201702181274)(2017031322350)(1601125374)(1603101448)(1701031045)(300000504095)(300135200095)(300000505095)(300135600095)(300000506095)(300135500095);SRVR:SN1NAM01HT198;
+x-ms-exchange-slblob-mailprops: GBVYZS+v7b2j48c9SDrzS5WNkyHUeQuyeGBCdFQqh9mdCrBe+4Mxd4qH53PJaCoiig4pjkSVQFdocSB+7j6knjNjBRZ/Sd9wBG4oBclHr9eyFY1ECxHrQFScoaH4aiIvFLSwajke7o95lFhnLW4I65ZDAd4mzXc9Mn0c+zA7LmNMDf9FOoMCqMq59TvIQeZxlwKQcjvawaLCB+7HwMWbxl48gLyiA+QGzjV5AK9/fl2xiStswDDE91YvIlAsi+C0A10jjkJM054FgAZVDLEQogMmBxXbv8Y7qIBHji4Hi5UaexQLDITSjs3NIn9gXFj4ms3D0E/72gvp+/YZmJHijRMSDSbkAFQrMsj4ew+S+QD/ooZXjYfnFBBl4wP33AEx3hsMvYjx6B7XJvWIrmZIhtVb+HNjt94GDBBFJTzwQ/WnWbFhVUD77SipfYR9+Kok//ShYdIOh9t224qdwefgwhtiTd8nzc7NALJukNKHZ2lXMeLIOwcoxgERWt+2PORugwyFJ11gFXLwJxshuWQIrKfZp9CRx8nJbGgGNZRYYHQcu0lPI4U26tGeFz2ct/3lh0k9g+2sxFnPCB9wrn0pvJD1dqoeswCSSo+2M/QeZhaPYYfUocxWvFwGKGI75/j4O5BWWxJUfvYbL0vE3l8UnFdasSN1Eqib2OZ+9b2JshvDBXfb+h7PW6UhEoZwZU2ks0nop0t34EKstPKXEJWlPpF2gZw/roXL1w01W5tAcfQXs0iovzloz+eD71n6v16PfU4xoxUREM1jCcZJhZ2wCFxV9WPTDaQRdVDo6fSlyEy5FBwvvEqbRo8Tws/14Hird1ZqqzNQXFE=
+x-ms-traffictypediagnostic: SN1NAM01HT198:
+x-exchange-antispam-report-test: UriScan:(166494164430575);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(444000031);SRVR:SN1NAM01HT198;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:SN1NAM01HT198;
+x-forefront-prvs: 038002787A
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BN3PR18MB06104B0938E815C3FFCE8789C8B90BN3PR18MB0610namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 26 Jul 2017 19:41:40.2431
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1NAM01HT198
+
+--_000_BN3PR18MB06104B0938E815C3FFCE8789C8B90BN3PR18MB0610namp_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Caros IIr.=B4. da CTT,
+
+A pedido do Deputado Estadual de nossa Loja, Ir.=B4. Patriniani, segue a =
+=EDntegra da convocat=F3ria com o resumo da Ordem do Dia da pr=F3xima sess=
+=E3o da Poderosa Assembleia Estadual Legislativa- PAEL, a ocorrer em 29/07.
+
+Fraternalmente,
+
+Ir.=B4. Fortes,.
+
+
+
+"VVen:.IIr:.DDep:.
+
+
+                                                                           =
+   De ordem do Eminente Presidente, Ir:. RAIMUNDO HERMES BARBOSA, rerratifi=
+cando =E0 CIRCULAR-PAEL/SECR.2017-2019/01, de 12.07.2017, remetemos em anex=
+o, para vosso conhecimento e aprecia=E7=E3o, os Processos abaixo relacionad=
+os  para serem apreciados na Ordem do Dia da  Sess=E3o Ordin=E1ria a ser re=
+alizada no pr=F3ximo dia 29 de julho de 2017, com in=EDcio =E0s 9:00 horas,=
+ no audit=F3rio do Sindicato dos Padeiros, sito =E0 Major Diogo n=BA 126 =
+=96 Bairro Bela Vista, no Or:.de S=E3o Paulo, com a seguinte ORDEM DO DIA:
+
+1.Processo 2017-2019/01 - Indica=E7=E3o do Il:.Ir:. DOUGLAS GARCIA NETO - C=
+IM 214657 =96 Membro ativo e regular da ARLS =93Cavaleiros de S=E3o Jorge=
+=94 - n=BA 3998, ao Or:.de S=E3o Paulo, como Conselheiro junto ao Egr=E9gio=
+ Tribunal Estadual de Contas do Grande Oriente de S=E3o Paulo, em substitui=
+=E7=E3o ao Ir:.Assis Mentor de Mello Filho, com mandato at=E9 2019. Interes=
+sado: Eminente Gr=E3o Mestre, Benedito Marques Ballouk Filho. Expediente an=
+exo.
+
+2.Processo 2017-2019/02 =96 Indica=E7=E3o dos IIL:.IIr:.OSCARLINO MOELLER -=
+ CIM 133481 =96 Membro ativo e regular da ARLS =93Fraternidade Judici=E1ria=
+=94 - n=BA 3614 ao Or:.de S=E3o Paulo, em recondu=E7=E3o, e FLORISVALDO ANT=
+ONIO FORENTINO JUNIOR =96 CIM 242681 =96 Membro ativo e regular da ARLS =93=
+Fraternidade Acad=EAmica Arte, Ci=EAncia e Trabalho=94 =96 n=BA 3272 ao Or:=
+.de Ibitinga, a ser nomeado na vaga do Il:.Ir:.Oldemar Azevedo,como ju=EDze=
+s, junto ao Egr=E9gio Tribunal de Justi=E7a Ma=E7=F4nica do Grande Oriente =
+de S=E3o Paulo, com mandatos at=E9 Junho 2020. Interessado: Eminente Gr=E3o=
+ Mestre, Benedito Marques Ballouk Filho. Expediente anexo.
+
+3.Processo 2017-2019/03 =96 Indica=E7=E3o dos IIL:.IIr:.JOS=C9 ANTONIO FERR=
+EIRA FILHO - CIM 167771 =96 Membro ativo e regular da ARLS =93Ac=E1cia de A=
+ru=E3=94 - n=BA 4037 ao Or:.de Mogi das Cruzes, a ser nomeado na vaga do Il=
+:.Ir:.Jos=E9 Geraldo de Lucena Soares, e MARCELO VIDA DA SILVA =96 CIM 1988=
+26 =96 Membro ativo e regular da ARLS =93Templ=E1rios da Fraternidade=94 =
+=96 n=BA 3757 ao Or:.de Campinas, a ser nomeado na vaga do Il:.Ir:.La=E9rci=
+o Laurelli,como ju=EDzes, junto ao Egr=E9gio Tribunal Estadual Eleitoral do=
+ Grande Oriente de S=E3o Paulo, com mandatos at=E9 Junho 2020.Interessado: =
+Eminente Gr=E3o Mestre, Benedito Marques Ballouk Filho. Expediente anexo.
+
+4.Processo 2017-2019/09 - Indica=E7=E3o do Il:.Ir:.NILTON SIQUEIRA DE MORAE=
+S (Vale do Tiet=EA 2494, Mogi das Cruzes), CIM 171775, a ser nomeado como C=
+onselheiro junto ao Egr:. Tribunal Estadual de Contas do Grande Oriente de =
+S=E3o Paulo, na vaga do Ir:.Reginaldo Martins de Assis, com mandato at=E9 2=
+020. Interessado: Mesa Diretora da PAEL. Expediente anexo.
+
+5.Processo 2017-2019/06 =96 Conv=EAnio m=E9dico que pretende a CLINICA MAGR=
+ASS S=C3O VICENTE firmar com o GOSP nos termos do artigo 49, X da constitui=
+=E7=E3o do Grande Oriente do Brasil, combinado com o artigo 23, XIX da Cons=
+titui=E7=E3o do Grande Oriente de S=E3o Paulo.Interessado: Eminente Gr=E3o =
+Mestre, Benedito Marques Ballouk Filho. Expediente anexo.
+
+6.Processo 2017-2019/07 =96 Conv=EAnio odontol=F3gico que pretende o CONSUL=
+T=D3RIO ODONT=D3LOGIO DIRCEU AGOSTINHO firmar com o GOSP nos termos do arti=
+go 49, X da constitui=E7=E3o do Grande Oriente do Brasil, combinado com o a=
+rtigo 23, XIX da Constitui=E7=E3o do Grande Oriente de S=E3o Paulo.Interess=
+ado: Eminente Gr=E3o Mestre, Benedito Marques Ballouk Filho. Expediente ane=
+xo.
+
+7.Processo 2017-2019/08 =96 Conv=EAnio de hospedagem que pretende o HOTEL M=
+AJESTIC e o HOTEL RECANTO BELA VISTA firmar com o GOSP nos termos do artigo=
+ 49, X da constitui=E7=E3o do Grande Oriente do Brasil, combinado com o art=
+igo 23, XIX da Constitui=E7=E3o do Grande Oriente de S=E3o Paulo. Interessa=
+do:Eminente Gr=E3o Mestre, Benedito Marques Ballouk Filho. Expediente anexo=
+.
+
+8. Outros assuntos, a crit=E9rio da Mesa Diretora.
+
+Expediente: Leitura dos Pedidos de Autoriza=E7=E3o Legislativa do Egr=E9gio=
+ Tribunal de Justi=E7a Ma=E7=F4nica do GOSP relativo aos processos:Processo=
+ 2017-2019/04 - Pedido de autoriza=E7=E3o legislativa para o efeito de pros=
+seguimento da Queixa Crime n=BA19/14, a permitir que seja processado e julg=
+ado o Ven:.Ir:.Dep:.RENATO LEMOS GUIMAR=C3ES =96 CIM 180184 (Cidade da Prai=
+a Grande 2841, Praia Grande) em conformidade com o disposto no artigo 14, p=
+ar=E1grafo 3=BA, da Constitui=E7=E3o do Grande Oriente de S=E3o Paulo; e do=
+Processo 2017-2019/05 - Pedido de autoriza=E7=E3o legislativa para o efeito=
+ de permitir que seja processado e julgado, a A=E7=E3o Ordin=E1ria Discipli=
+nar contra o Ven:.Ir:.Dep:. HAMILTON FERNANDO MORENO BERNAL =96 CIM 179369 =
+(Urim Tumin 4294, Capital) em conformidade com o disposto no artigo 14, par=
+=E1grafo 3=BA, da Constitui=E7=E3o do Grande Oriente de S=E3o Paulo.
+
+Est=E3o convocados para a posse os Deputados j=E1 diplomados pelo Egr:. Tri=
+bunal Estadual Eleitoral e devidamente notificados por esta Secretaria.
+
+No que concerne ao traje, queiram se ater ao artigo 56 do Regimento Interno=
+ e, ao artigo 20, II, quanto ao n=E3o comparecimento para a posse.
+De conformidade com o artigo 55 do Regimento Interno segue anexa a Ata da S=
+ess=E3o Ordin=E1ria de 27/05/2017.
+Solicitamos que toda e qualquer correspond=EAncia destinada =E0 PAEL seja e=
+ndere=E7ada aos nossos cuidados, ao endere=E7o: Pra=E7a Jo=E3o Mendes n=BA =
+42 Sobre Loja =96 S=E3o Paulo =96 SP. CEP. 01501-907. Outros contatos com a=
+ Secretaria podem ser feitos pelos endere=E7os eletr=F4nicos: armandosgf@pa=
+el-sp.org.br<mailto:armandosgf@pael-sp.org.br> / armando.stoianov@gmail.com=
+<mailto:armando.stoianov@gmail.com> ou pelos telefones:  (11) 94598-1400 / =
+(11) 99610-2626."
+
+
+Fraternalmente,
+
+
+
+ARMANDO STOIANOV GUIMAR=C3ES FILHO
+Secret=E1rio
+
+--
+Armando Stoianov Guimar=E3es Filho
+(11) 94598-1400
+(11) 99610-2626 (whatsapp)
+Skype: armando.stoianov
+http://www.pael-sp.org.br<http://www.pael-sp.com.br/>
+________________________________
+
+
+
+--_000_BN3PR18MB06104B0938E815C3FFCE8789C8B90BN3PR18MB0610namp_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p></p>
+<div autoid=3D"_rp_2" role=3D"list" aria-label=3D"Conversa" tabindex=3D"-1"=
+>
+<div tabindex=3D"-1">
+<div autoid=3D"_rp_3" aria-label=3D"Conte=FAdos das Mensagens" role=3D"pres=
+entation" aria-selected=3D"true" tabindex=3D"0">
+<div class=3D"_rp_a5" aria-label=3D"Conte=FAdos das Mensagens Expandidos" t=
+abindex=3D"-1">
+<div autoid=3D"_rp_u" class=3D"_rp_M4 ms-border-color-neutralLight ShowCons=
+esusSchedulingLink ShowReferenceAttachmentsLinks" tabindex=3D"-1">
+<div class=3D"_rp_Z4 _rp_Y4">
+<div role=3D"document">
+<div autoid=3D"_rp_x" class=3D"_rp_O4" id=3D"Item.MessagePartBody">
+<div class=3D"_rp_P4 ms-font-weight-regular ms-font-color-neutralDark rpHig=
+hlightAllClass rpHighlightBodyClass" id=3D"Item.MessageUniqueBody" style=3D=
+"font-family: wf_segoe-ui_normal, &quot;Segoe UI&quot;, &quot;Segoe WP&quot=
+;, Tahoma, Arial, sans-serif, serif, EmojiFont; outline: none;" tabindex=3D=
+"0">
+<div dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper"><font face=3D"Calibri,Helvetica,sans-serif=
+,EmojiFont,Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,=
+Android Emoji,EmojiSymbols" size=3D"3" color=3D"black"><span id=3D"divtagde=
+faultwrapper" style=3D"font-size: 12pt;">
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont">C=
+aros IIr.=B4. da CTT,</font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+br>
+</font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont">A=
+ pedido do&nbsp;Deputado Estadual de nossa Loja,
+ Ir.=B4. Patriniani, segue a =EDntegra da convocat=F3ria com o resumo da Or=
+dem do Dia da pr=F3xima sess=E3o da Poderosa Assembleia Estadual Legislativ=
+a- PAEL, a ocorrer em 29/07.</font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+br>
+</font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont">F=
+raternalmente,</font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+br>
+</font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont">I=
+r.=B4. Fortes,.</font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+br>
+</font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+br>
+</font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+br>
+</font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont">&=
+quot;VVen:.IIr:.DDep:.</font></span></font></div>
+<div align=3D"justify" style=3D"margin: 0px 1.4pt 0px 0px;"><font face=3D"C=
+alibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span style=3D"font=
+-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont">&nbsp;</fon=
+t></span></font></div>
+<div align=3D"justify" style=3D"margin: 0px 1.4pt 0px 0px;"><font face=3D"C=
+alibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span style=3D"font=
+-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont">&nbsp;</fon=
+t></span></font></div>
+<div align=3D"justify" style=3D"margin: 0px 1.4pt 0px 0px;"><font face=3D"C=
+alibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span style=3D"font=
+-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont">&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;
+ De ordem do Eminente Presidente, Ir:. RAIMUNDO HERMES BARBOSA, rerratifica=
+ndo =E0&nbsp;</font><font face=3D"verdana,sans-serif,serif,EmojiFont"><i>CI=
+RCULAR-PAEL/SECR.2017-2019/01, de 12.07.2017</i></font><font face=3D"verdan=
+a,sans-serif,serif,EmojiFont">, remetemos em
+ anexo, para vosso conhecimento e aprecia=E7=E3o, os Processos abaixo relac=
+ionados &nbsp;para serem apreciados na&nbsp;</font><font face=3D"verdana,sa=
+ns-serif,serif,EmojiFont"><b>Ordem do Dia</b></font><font face=3D"verdana,s=
+ans-serif,serif,EmojiFont">&nbsp;da &nbsp;</font><font face=3D"verdana,sans=
+-serif,serif,EmojiFont"><b>Sess=E3o
+ Ordin=E1ria&nbsp;</b></font><font face=3D"verdana,sans-serif,serif,EmojiFo=
+nt">a ser realizada no pr=F3ximo dia&nbsp;</font><font face=3D"verdana,sans=
+-serif,serif,EmojiFont"><b>29 de julho de 2017</b></font><font face=3D"verd=
+ana,sans-serif,serif,EmojiFont">, com in=EDcio =E0s 9:00
+ horas, no audit=F3rio do Sindicato dos Padeiros, sito =E0 Major Diogo n=BA=
+ 126 =96 Bairro Bela Vista, no Or:.de S=E3o Paulo, com a seguinte&nbsp;</fo=
+nt><font face=3D"verdana,sans-serif,serif,EmojiFont"><b><i>ORDEM DO DIA</i>=
+</b></font><font face=3D"verdana,sans-serif,serif,EmojiFont"><b>:</b></font=
+></span></font></div>
+<div align=3D"justify" style=3D"margin: 0px 1.4pt 0px 0px;"><font face=3D"C=
+alibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span style=3D"font=
+-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont">&nbsp;</fon=
+t></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+b>1.Processo 2017-2019/01 - Indica=E7=E3o&nbsp;</b></font><font face=3D"ver=
+dana,sans-serif,serif,EmojiFont">do
+ Il:.Ir:. DOUGLAS GARCIA NETO - CIM 214657 =96 Membro ativo e regular da AR=
+LS =93Cavaleiros de S=E3o Jorge=94 - n=BA 3998, ao Or:.de S=E3o Paulo, como=
+ Conselheiro junto ao Egr=E9gio Tribunal Estadual de Contas do Grande Orien=
+te de S=E3o Paulo, em&nbsp;</font><font face=3D"verdana,sans-serif,serif,Em=
+ojiFont"><b><i>substitui=E7=E3o</i></b></font><font face=3D"verdana,sans-se=
+rif,serif,EmojiFont">&nbsp;ao
+ Ir:.</font><font face=3D"verdana,sans-serif,serif,EmojiFont">Assis Mentor =
+de Mello Filho, com mandato at=E9 2019. Interessado: Eminente Gr=E3o Mestre=
+, Benedito Marques Ballouk Filho.&nbsp;</font><font face=3D"verdana,sans-se=
+rif,serif,EmojiFont"><i>Expediente anexo.</i></font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+b>&nbsp;</b></font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+b>2.Processo 2017-2019/02 =96 Indica=E7=E3o&nbsp;</b></font><font face=3D"v=
+erdana,sans-serif,serif,EmojiFont">dos
+ IIL:.IIr:.OSCARLINO MOELLER - CIM 133481 =96 Membro ativo e regular da ARL=
+S =93Fraternidade Judici=E1ria=94 - n=BA 3614 ao Or:.</font><font face=3D"v=
+erdana,sans-serif,serif,EmojiFont">de S=E3o Paulo,</font><font face=3D"verd=
+ana,sans-serif,serif,EmojiFont"><b><i>&nbsp;em recondu=E7=E3o</i></b></font=
+><font face=3D"verdana,sans-serif,serif,EmojiFont">,
+ e FLORISVALDO ANTONIO FORENTINO JUNIOR =96 CIM 242681 =96 Membro ativo e r=
+egular da ARLS =93Fraternidade Acad=EAmica Arte, Ci=EAncia e Trabalho=94 =
+=96 n=BA 3272 ao Or:.de Ibitinga,</font><font face=3D"verdana,sans-serif,se=
+rif,EmojiFont"><b><i>&nbsp;a ser nomeado</i></b></font><font face=3D"verdan=
+a,sans-serif,serif,EmojiFont">&nbsp;na
+ vaga do Il:.</font><font face=3D"verdana,sans-serif,serif,EmojiFont">Ir:.<=
+/font><font face=3D"verdana,sans-serif,serif,EmojiFont">Oldemar Azevedo,com=
+o ju=EDzes, junto ao Egr=E9gio Tribunal de Justi=E7a Ma=E7=F4nica do Grande=
+ Oriente de S=E3o Paulo, com mandatos at=E9 Junho
+ 2020. Interessado: Eminente Gr=E3o Mestre, Benedito Marques Ballouk Filho.=
+&nbsp;</font><font face=3D"verdana,sans-serif,serif,EmojiFont"><i>Expedient=
+e anexo.</i></font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+b>&nbsp;</b></font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+b>3.Processo 2017-2019/03 =96 Indica=E7=E3o&nbsp;</b></font><font face=3D"v=
+erdana,sans-serif,serif,EmojiFont">dos
+ IIL:.IIr:.JOS=C9 ANTONIO FERREIRA FILHO - CIM 167771 =96 Membro ativo e re=
+gular da ARLS =93Ac=E1cia de Aru=E3=94 - n=BA 4037 ao Or:.de Mogi das Cruze=
+s,</font><font face=3D"verdana,sans-serif,serif,EmojiFont"><b><i>&nbsp;a se=
+r nomeado</i></b></font><font face=3D"verdana,sans-serif,serif,EmojiFont">&=
+nbsp;na
+ vaga do Il:.Ir:.Jos=E9 Geraldo de Lucena Soares, e MARCELO VIDA DA SILVA =
+=96 CIM 198826 =96 Membro ativo e regular da ARLS =93Templ=E1rios da Frater=
+nidade=94 =96 n=BA 3757 ao Or:.de Campinas,</font><font face=3D"verdana,san=
+s-serif,serif,EmojiFont"><b><i>&nbsp;a ser nomeado</i></b></font><font face=
+=3D"verdana,sans-serif,serif,EmojiFont">&nbsp;na
+ vaga do Il:.Ir:.La=E9rcio Laurelli,como ju=EDzes, junto ao Egr=E9gio Tribu=
+nal Estadual Eleitoral do Grande Oriente de S=E3o Paulo, com mandatos at=E9=
+ Junho 2020.Interessado: Eminente Gr=E3o Mestre, Benedito Marques Ballouk F=
+ilho.&nbsp;</font><font face=3D"verdana,sans-serif,serif,EmojiFont"><i>Expe=
+diente
+ anexo.</i></font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+b>&nbsp;</b></font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+b>4.Processo 2017-2019/09 - Indica=E7=E3o&nbsp;</b></font><font face=3D"ver=
+dana,sans-serif,serif,EmojiFont">do
+ Il:.Ir:.NILTON SIQUEIRA DE MORAES (Vale do Tiet=EA 2494, Mogi das Cruzes),=
+ CIM 171775,&nbsp;</font><font face=3D"verdana,sans-serif,serif,EmojiFont">=
+<b><i>a ser nomeado</i></b></font><font face=3D"verdana,sans-serif,serif,Em=
+ojiFont">&nbsp;como Conselheiro junto ao Egr:. Tribunal
+ Estadual de Contas do Grande Oriente de S=E3o Paulo, na vaga do Ir:.Regina=
+ldo Martins de Assis, com mandato at=E9 2020. Interessado: Mesa Diretora da=
+ PAEL.&nbsp;</font><font face=3D"verdana,sans-serif,serif,EmojiFont"><i>Exp=
+ediente anexo.</i></font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+b>&nbsp;</b></font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+b>5.Processo 2017-2019/06 =96 Conv=EAnio&nbsp;</b></font><font face=3D"verd=
+ana,sans-serif,serif,EmojiFont">m=E9dico
+ que pretende a CLINICA MAGRASS S=C3O VICENTE firmar com o GOSP nos termos =
+do artigo 49, X da constitui=E7=E3o do Grande Oriente do Brasil, combinado =
+com o artigo 23, XIX da Constitui=E7=E3o do Grande Oriente de S=E3o Paulo.I=
+nteressado: Eminente Gr=E3o Mestre, Benedito Marques
+ Ballouk Filho.&nbsp;</font><font face=3D"verdana,sans-serif,serif,EmojiFon=
+t"><i>Expediente anexo.</i></font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+b>&nbsp;</b></font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+b>6.Processo 2017-2019/07 =96 Conv=EAnio&nbsp;</b></font><font face=3D"verd=
+ana,sans-serif,serif,EmojiFont">odontol=F3gico
+ que pretende o CONSULT=D3RIO ODONT=D3LOGIO DIRCEU AGOSTINHO firmar com o G=
+OSP nos termos do artigo 49, X da constitui=E7=E3o do Grande Oriente do Bra=
+sil, combinado com o artigo 23, XIX da Constitui=E7=E3o do Grande Oriente d=
+e S=E3o Paulo.Interessado: Eminente Gr=E3o Mestre,
+ Benedito Marques Ballouk Filho.&nbsp;</font><font face=3D"verdana,sans-ser=
+if,serif,EmojiFont"><i>Expediente anexo.</i></font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+b>&nbsp;</b></font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+b>7.Processo 2017-2019/08 =96 Conv=EAnio&nbsp;</b></font><font face=3D"verd=
+ana,sans-serif,serif,EmojiFont">de
+ hospedagem que pretende o HOTEL MAJESTIC e o HOTEL RECANTO BELA VISTA firm=
+ar com o GOSP nos termos do artigo 49, X da constitui=E7=E3o do Grande Orie=
+nte do Brasil, combinado com o artigo 23, XIX da Constitui=E7=E3o do Grande=
+ Oriente de S=E3o Paulo. Interessado:Eminente
+ Gr=E3o Mestre, Benedito Marques Ballouk Filho.&nbsp;</font><font face=3D"v=
+erdana,sans-serif,serif,EmojiFont"><i>Expediente anexo.</i></font></span></=
+font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+b>&nbsp;</b></font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+b>8.</b></font><font face=3D"verdana,sans-serif,serif,EmojiFont">&nbsp;Outr=
+os
+ assuntos, a crit=E9rio da Mesa Diretora.</font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;">&nbsp;</span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+b>Expediente</b></font><font face=3D"verdana,sans-serif,serif,EmojiFont">:&=
+nbsp;</font><font face=3D"verdana,sans-serif,serif,EmojiFont"><i>Leitura
+ dos Pedidos de Autoriza=E7=E3o Legislativa do Egr=E9gio Tribunal de Justi=
+=E7a Ma=E7=F4nica do GOSP relativo aos processos:</i></font><font face=3D"v=
+erdana,sans-serif,serif,EmojiFont"><b>Processo 2017-2019/04 - Pedido de aut=
+oriza=E7=E3o legislativa&nbsp;</b></font><font face=3D"verdana,sans-serif,s=
+erif,EmojiFont">para
+ o efeito de prosseguimento da Queixa Crime n=BA19/14, a permitir que seja =
+processado e julgado o Ven:.Ir:.Dep:.RENATO LEMOS GUIMAR=C3ES =96 CIM 18018=
+4 (Cidade da Praia Grande 2841, Praia Grande) em conformidade com o dispost=
+o no artigo 14, par=E1grafo 3=BA, da Constitui=E7=E3o
+ do Grande Oriente de S=E3o Paulo</font><font face=3D"verdana,sans-serif,se=
+rif,EmojiFont"><i>;&nbsp;</i></font><font face=3D"verdana,sans-serif,serif,=
+EmojiFont">e do</font><font face=3D"verdana,sans-serif,serif,EmojiFont"><b>=
+Processo 2017-2019/05 - Pedido de autoriza=E7=E3o
+ legislativa&nbsp;</b></font><font face=3D"verdana,sans-serif,serif,EmojiFo=
+nt">para o efeito de permitir que seja processado e julgado, a A=E7=E3o Ord=
+in=E1ria Disciplinar contra o Ven:.Ir:.Dep:. HAMILTON FERNANDO MORENO BERNA=
+L =96 CIM 179369 (Urim Tumin 4294, Capital) em
+ conformidade com o disposto no artigo 14, par=E1grafo 3=BA, da Constitui=
+=E7=E3o do Grande Oriente de S=E3o Paulo.</font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;</font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont">E=
+st=E3o convocados para a posse os Deputados j=E1
+ diplomados pelo Egr:. Tribunal Estadual Eleitoral e&nbsp;</font><font face=
+=3D"verdana,sans-serif,serif,EmojiFont"><i>devidamente notificados por esta=
+ Secretaria</i></font><font face=3D"verdana,sans-serif,serif,EmojiFont">.</=
+font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont">&=
+nbsp;</font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+b>No que concerne ao traje</b></font><font face=3D"verdana,sans-serif,serif=
+,EmojiFont">,
+ queiram se ater ao artigo 56 do Regimento Interno&nbsp;</font><font face=
+=3D"verdana,sans-serif,serif,EmojiFont"><b>e</b></font><font face=3D"verdan=
+a,sans-serif,serif,EmojiFont">, ao artigo 20, II,&nbsp;</font><font face=3D=
+"verdana,sans-serif,serif,EmojiFont"><b>quanto ao
+ n=E3o comparecimento para a posse</b></font><font face=3D"verdana,sans-ser=
+if,serif,EmojiFont">.</font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont">D=
+e conformidade com o artigo 55 do Regimento
+ Interno segue anexa a Ata da Sess=E3o Ordin=E1ria de 27/05/2017.</font></s=
+pan></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont">S=
+olicitamos que</font><font face=3D"verdana,sans-serif,serif,EmojiFont"><b>&=
+nbsp;toda
+ e qualquer correspond=EAncia destinada =E0 PAEL&nbsp;</b></font><font face=
+=3D"verdana,sans-serif,serif,EmojiFont">seja endere=E7ada aos nossos cuidad=
+os, ao endere=E7o</font><font face=3D"verdana,sans-serif,serif,EmojiFont"><=
+b>:&nbsp;</b></font><font face=3D"verdana,sans-serif,serif,EmojiFont">Pra=
+=E7a
+ Jo=E3o Mendes n=BA 42 Sobre Loja =96 S=E3o Paulo =96 SP. CEP. 01501-907.&n=
+bsp;</font><font face=3D"verdana,sans-serif,serif,EmojiFont"><b>Outros cont=
+atos com a Secretaria&nbsp;</b></font><font face=3D"verdana,sans-serif,seri=
+f,EmojiFont">podem ser feitos pelos endere=E7os eletr=F4nicos:&nbsp;</font>=
+<a href=3D"mailto:armandosgf@pael-sp.org.br" target=3D"_blank" rel=3D"noope=
+ner noreferrer"><font face=3D"verdana,sans-serif,serif,EmojiFont">armandosg=
+f@pael-sp.org.br</font></a><font face=3D"verdana,sans-serif,serif,EmojiFont=
+">&nbsp;/&nbsp;</font><a href=3D"mailto:armando.stoianov@gmail.com" target=
+=3D"_blank" rel=3D"noopener noreferrer"><font face=3D"verdana,sans-serif,se=
+rif,EmojiFont">armando.stoianov@gmail.com</font></a><font face=3D"verdana,s=
+ans-serif,serif,EmojiFont">&nbsp;ou
+ pelos telefones:&nbsp; (11) 94598-1400 / (11) 99610-2626.&quot;</font></sp=
+an></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont">&=
+nbsp;</font></span></font></div>
+<div align=3D"justify" style=3D"margin-top: 0px; margin-bottom: 0px;"><font=
+ face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><span sty=
+le=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFont">&=
+nbsp;</font></span></font></div>
+<div align=3D"center" style=3D"text-align: center; margin-top: 0px; margin-=
+bottom: 0px;">
+<font face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><spa=
+n style=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFo=
+nt">Fraternalmente,</font></span></font></div>
+<div align=3D"center" style=3D"text-align: center; margin-top: 0px; margin-=
+bottom: 0px;">
+<font face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><spa=
+n style=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFo=
+nt">&nbsp;</font></span></font></div>
+<div align=3D"center" style=3D"text-align: center; margin-top: 0px; margin-=
+bottom: 0px;">
+<font face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><spa=
+n style=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFo=
+nt">&nbsp;</font></span></font></div>
+<div align=3D"center" style=3D"text-align: center; margin-top: 0px; margin-=
+bottom: 0px;">
+<font face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><spa=
+n style=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFo=
+nt">&nbsp;</font></span></font></div>
+<div align=3D"center" style=3D"text-align: center; margin-top: 0px; margin-=
+bottom: 0px;">
+<font face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><spa=
+n style=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFo=
+nt">ARMANDO STOIANOV GUIMAR=C3ES FILHO</font></span></font></div>
+<div align=3D"center" style=3D"text-align: center; margin-top: 0px; margin-=
+bottom: 0px;">
+<font face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><spa=
+n style=3D"font-size: 16px;"><font face=3D"verdana,sans-serif,serif,EmojiFo=
+nt"><i>Secret=E1rio</i></font></span></font></div>
+<div><font face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"=
+><span style=3D"font-size: 16px;">&nbsp;</span></font></div>
+<font face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"><spa=
+n style=3D"font-size: 16px;">--&nbsp;</span></font><br>
+<div><font face=3D"Calibri,Helvetica,sans-serif,serif,EmojiFont" size=3D"2"=
+><span style=3D"font-size: 16px;">
+<div>
+<div>Armando Stoianov Guimar=E3es Filho<br>
+(11) 94598-1400</div>
+(11) 99610-2626 (whatsapp)</div>
+Skype: armando.stoianov<br>
+<a href=3D"http://www.pael-sp.com.br/" target=3D"_blank" rel=3D"noopener no=
+referrer">http://www.pael-sp.org.br</a><br>
+</span></font></div>
+</span></font></div>
+</div>
+</div>
+</div>
+<span class=3D"PersonaPaneLauncher">
+<div ariatabindex=3D"-1" class=3D"_pe_d _pe_32" aria-expanded=3D"false" ari=
+a-haspopup=3D"false" style=3D"width: 1096px;" tabindex=3D"-1">
+</div>
+</span></div>
+<div class=3D"_rp_U4"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class=3D"_rp_f" style=3D"width: 1158px; height: 1px;" tabindex=3D"-1">
+<div class=3D"_qc_F ms-bg-color-white _qc_G">
+<hr class=3D"_qc_B" style=3D"width: 1158px;">
+<br>
+<div class=3D"_qc_y ms-border-color-neutralLight _qc_z" tabindex=3D"-1">
+<div class=3D"_qc_A ms-border-color-neutralLight" style=3D"width: 1158px;">=
+</div>
+</div>
+</div>
+</div>
+</div>
+<br>
+<p></p>
+</div>
+</body>
+</html>
+
+--_000_BN3PR18MB06104B0938E815C3FFCE8789C8B90BN3PR18MB0610namp_--

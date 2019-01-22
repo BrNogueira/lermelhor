@@ -1,0 +1,99 @@
+Return-Path: <pm_bounces@cob-return.homehost.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br with LMTP id cE3GHPtiiFo/MAAAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Sat, 17 Feb 2018 15:14:35 -0200
+Return-path: <pm_bounces@cob-return.homehost.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sat, 17 Feb 2018 15:14:35 -0200
+Received: from mta212a-ord.mtasv.net ([104.245.209.212]:62062)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89_1)
+	(envelope-from <pm_bounces@cob-return.homehost.com.br>)
+	id 1en64J-000497-7f
+	for marco@digitalfotoimagem.com.br; Sat, 17 Feb 2018 15:14:35 -0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=20170928165346pm; d=homehost.com.br;
+ h=Message-ID:MIME-Version:From:To:Date:Subject:Content-Type:Content-Transfer-Encoding; i=suporte@homehost.com.br;
+ bh=ApV8YPF4O6vGnfN5nvCAL9Lc2yA=;
+ b=E50CQEHdmfmUc209jydkVXzCMWzPJSoegNoYP8DwfRFQtS1+TSqjyceexVC6rTOCE2ECGUD/L/Q3
+   HyiPJfNBfZbv8lkS4Wfnxj/GJFwLa/WsJ3/K9EFFFpIzzI86KWkZ6FdthI5LCLNiOzkaDybMwQ3m
+   rCtrc8882/Ua8H4hUNQ=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=pm; d=pm.mtasv.net;
+ h=Message-ID:MIME-Version:From:To:Date:Subject:Content-Type:Content-Transfer-Encoding;
+ bh=ApV8YPF4O6vGnfN5nvCAL9Lc2yA=;
+ b=aeuYgxTIgzAHsEkWCHqQaWhSuF6/QerGxqJS6sHw6ZqazgR96QaoH82X8hKv7nl+GrR2yS9cuNxR
+   UnSlfRNAEIfDF/SjWDvjfO9prY8Zi9Wy6aT4Bqf67QWVD1KVygEXo7XnEzHGCkgjEDToD3KTaOam
+   feRdjQp6khpfoOVvwcY=
+Received: by mta212a-ord.mtasv.net id hh1hfe27tk4p for <marco@digitalfotoimagem.com.br>; Sat, 17 Feb 2018 12:13:49 -0500 (envelope-from <pm_bounces@cob-return.homehost.com.br>)
+X-PM-IP: 104.245.209.212
+Feedback-ID: s3284509-YXZpc28=:s3284509:a147197:postmark
+X-Complaints-To: abuse@postmarkapp.com
+X-PM-Message-Id: ab5ecc36-f0e7-4d6e-8ade-c2f5bcf683c5
+X-PM-Tag: aviso
+X-PM-RCPT: |bTB8MTQ3MTk3fDMyODQ1MDl8bWFyY29AZGlnaXRhbGZvdG9pbWFnZW0uY29tLmJy|
+Message-ID: <ab5ecc36-f0e7-4d6e-8ade-c2f5bcf683c5@mtasv.net>
+MIME-Version: 1.0
+From: "Homehost" <suporte@homehost.com.br>
+To: marco@digitalfotoimagem.com.br
+Date: 17 Feb 2018 12:13:49 -0500
+Subject: =?utf-8?Q?2o_aviso_=2D_A=C3=A7=C3=A3o_neces?=
+ =?utf-8?Q?s=C3=A1ria=3A_Nova_autentica=C3=A7=C3=A3o?=
+ =?utf-8?Q?_de_emails_IMAP=2FPOP=2FSMTP?=
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<table border=3D0 style=3D"width:100%;background-color:#F2F4F6;pa=
+dding-top:10px;padding-bottom:10px;"><tr><td><center>=0A         =
+       <img src=3D"https://www.homehost.com.br/images/homehost_co=
+branca.png" style=3D"width:20%;height:auto;"></center></td></tr><=
+/table><br><br>Prezado Cliente,=0D=0A=0D=0A=0D=0A<br><br>=0D=0A=0D=0A=
+=0D=0ANo intuito de aumentar a seguran=C3=A7a de sua conex=C3=A3o=
+ com nossos servidores de email e evitar que sua senha seja inter=
+ceptada no caminho entre sua rede e nosso servidor, a Homehost ir=
+=C3=A1 aplicar algumas regras diferentes para a conex=C3=A3o por =
+POP, IMAP e SMTP. =0D=0A<br><br>=0D=0A=0D=0A=0D=0AToda conex=C3=A3=
+o precisar=C3=A1 ser feita por SSL, assim sua senha ser=C3=A1 tra=
+nsmitida de forma criptografada e garantindo uma camada extra de =
+seguran=C3=A7a em seu servi=C3=A7o de email. =0D=0A=0D=0A=0D=0A<b=
+r><br>=0D=0A<b>Prorrogamos o prazo para esta implanta=C3=A7=C3=A3=
+o de seguran=C3=A7a. Esta mudan=C3=A7a ter=C3=A1 efeito a partir =
+de 21/02/2018 as 08h00.</b>=0D=0A=0D=0A<br><br>=0D=0A=0D=0A=0D=0A=
+Para que n=C3=A3o tenha problemas de conex=C3=A3o, ser=C3=A1 nece=
+ss=C3=A1rio editar as configura=C3=A7=C3=B5es de seu cliente de e=
+mail para o novo modelo de conex=C3=A3o. =0D=0A<br><br>=0D=0A=0D=0A=
+=0D=0APara facilitar essa configura=C3=A7=C3=A3o estamos disponib=
+ilizando alguns tutoriais dos clientes de email mais usados=0D=0A=
+<br><br>=0D=0A=0D=0A=0D=0AAndroid:=0D=0A<a href=3Dhttps://click.p=
+stmrk.it/2sm/www.homehost.com.br%2Fblog%2Fconfigurar-email-androi=
+d-5%2F/tETFLwE/HR4y/Uc5JrjnGkY/YXZpc28>https://www.homehost.com.b=
+r/blog/configurar-email-android-5/<a>=0D=0A<br><br>=0D=0A=0D=0AIp=
+hone:=0D=0A<a href=3Dhttps://click.pstmrk.it/2sm/www.homehost.com=
+.br%2Fblog%2Faprenda-sincronizar-e-mail-no-android-e-no-ios%2F/tU=
+TFLwE/HR4y/135HbQj7DN/YXZpc28>https://www.homehost.com.br/blog/ap=
+renda-sincronizar-e-mail-no-android-e-no-ios/</a>=0D=0A<br><br>=0D=0A=
+=0D=0A=0D=0AThunderbird: <a href=3Dhttps://click.pstmrk.it/2sm/go=
+o.gl%2FvQS2jV/tkTFLwE/HR4y/mVezZuAl6m/YXZpc28=0D=0A>https://goo.g=
+l/vQS2jV</a>=0D=0A<br><br>=0D=0A=0D=0AOutlook 2013: <a href=3Dhtt=
+ps://click.pstmrk.it/2sm/goo.gl%2FTXZccF/t0TFLwE/HR4y/G0vuyrGyYj/=
+YXZpc28=0D=0A>https://goo.gl/TXZccF=0D=0A</a>=0D=0A<br><br>=0D=0A=
+=0D=0AOutlook 2010: <a href=3Dhttps://click.pstmrk.it/2sm/goo.gl%=
+2F23fKzA/uETFLwE/HR4y/msKamKAPF7/YXZpc28=0D=0A>https://goo.gl/23f=
+KzA</a> =0D=0A<br><br>=0D=0A=0D=0AOutlook 2007: <a href=3Dhttps:/=
+/click.pstmrk.it/2sm/goo.gl%2FUAJzvZ/uUTFLwE/HR4y/qJwR5A27-T/YXZp=
+c28>https://goo.gl/UAJzvZ</a>=0D=0A=0D=0A=0D=0A<br><br>=0D=0A=0D=0A=
+Caso tenha alguma d=C3=BAvida sobre os procedimentos descritos ac=
+ima, entre em contato conosco por um de nossos canais de atendime=
+nto dispon=C3=ADveis no link <a href=3Dhttps://click.pstmrk.it/2s=
+m/www.homehost.com.br%2Fsuporte/ukTFLwE/HR4y/qepx9eDxix/YXZpc28>h=
+ttps://www.homehost.com.br/suporte</a> e converse com um de nosso=
+s t=C3=A9cnicos.=0D=0A<br><br><br><br>=0D=0AAtenciosamente,<br><b=
+r>=0D=0AHomehost - Suporte T=C3=A9cnico<br>=0D=0Ahttps://www.home=
+host.com.br=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=
+=0D=0A=0D=0A=0D=0A=0D=0A<img src=3D"http://ea.pstmrk.it/open/djJf=
+MjAxODAyMTdfMTQ3MTk3XzMyODQ1MDlfYXZpc29fYWI1ZWNjMzYtZjBlNy00ZDZlL=
+ThhZGUtYzJmNWJjZjY4M2M1X21hcmNvQGRpZ2l0YWxmb3RvaW1hZ2VtLmNvbS5icl=
+8iSG9tZWhvc3QiIDxzdXBvcnRlQGhvbWVob3N0LmNvbS5icj5fMm8gYXZpc28gLSB=
+Bw6fDo28gbmVjZXNzw6FyaWE6IE5vdmEgYXV0ZW50aWNhw6fDo28gZGUgZW1haWxz=
+IElNQVAvUE9QL1NNVFA=3D" width=3D"1" height=3D"1" border=3D"0" alt=
+=3D"" />
+

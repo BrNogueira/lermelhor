@@ -1,0 +1,130 @@
+Return-path: <mmtesta@uol.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 14 Apr 2015 12:28:48 -0300
+Received: from a4-shark2-1.uol.com.br ([200.147.97.9]:60301 helo=a4-shark2.uol.com.br)
+	by hserv20.homehost.com.br with esmtp (Exim 4.85)
+	(envelope-from <mmtesta@uol.com.br>)
+	id 1Yi2lY-00058o-B3
+	for marco@digitalfotoimagem.com.br; Tue, 14 Apr 2015 12:28:48 -0300
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by a4-shark2.uol.com.br (Postfix) with ESMTP id 0B2B73800086;
+	Tue, 14 Apr 2015 12:28:40 -0300 (BRT)
+Received: from a4-shark2.host.intranet (localhost.localdomain [127.0.0.1])
+	by a4-shark2.uol.com.br (Postfix) with ESMTP id 9512F380008D;
+	Tue, 14 Apr 2015 12:27:59 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=uol.com.br; s=ubz;
+	t=1429025319; bh=Yecn6NXyZf30uzoOzZR/Qzs5ulD7x1YklFK3l6yKDBI=;
+	h=Date:From:To:Cc:in-reply-to:references:Subject;
+	b=UHiDwVUXAWIhV2AJziTmx7Mfk+b+FauegbAabQXma318sNX06UDgoHGyPWgODU44c
+	 GHVIBugHK9Sqv12gS7eXgR1ItD24ggI8zlwJQJ9d9Ggrh7xZOf2QDCLhsgAAV9pf4W
+	 qcNhIb91HUuc9S9syg2u0JrPEuf3lzZWP8PISLpI=
+Received: from uol.com.br (a4-weasel3.host.intranet [10.131.133.66])
+	by a4-shark2.host.intranet (Postfix) with ESMTP id 67A693800081;
+	Tue, 14 Apr 2015 12:27:59 -0300 (BRT)
+Date: Tue, 14 Apr 2015 12:27:59 -0300
+From: mmtesta <mmtesta@uol.com.br>
+To: marco@digitalfotoimagem.com.br
+Cc: Alexandre Dias de Castro <xandedias.castro@gmail.com>, 
+ Antonio Finardi <ma.finardi@hotmail.com>, 
+ Enedino Alves Barbosa Filho <dino.abf@gmail.com>, 
+ =?UTF-8?B?RmzDoXZpbyBGZXJyZXI=?= <flavio@crivodarazao.org.br>, 
+ =?UTF-8?B?Sm9zw6kgRG9uaXNldGkgTHVpeg==?= <josedonisetiluiz@yahoo.com.br>, 
+ Marcus Welbi Monte Verde <marcuswelbi@crivodarazao.org.br>, 
+ Oswaldo dos Santos Junior <oswaldosantosjunior@gmail.com>, 
+ Enedino Alves Barbosa Filho <enedino@crivodarazao.org.br>, 
+ Veneravel Mestre <crivodarazao@crivodarazao.org.br>, 
+ Antonio Carlos Kreme <ackack1969@yahoo.com.br>, 
+ Antonio Carlos Rosseti <carlos.rossetti@uol.com.br>, 
+ Arsenio de Paiva Lopes <arsenio.p.lopes@gmail.com>, 
+ =?UTF-8?B?UmljYXJkbyBkZSBNw6pvIEZlcm5hbmRlcw==?= <valdes@uol.com.br>, 
+ =?UTF-8?B?Sm/Do28gR2FtYmV0dGkgTmV0bw==?= <gambetti@gambetti.com.br>, 
+ Dejair Bianchi <dejair.bianchi@uol.com.br>, 
+ Claudio Auricchio Turi <ttturi@terra.com.br>, 
+ Wanderley Caldana <w.caldana@uol.com.br>, 
+ Luiz Carlos Bueno <fallcar@hotmail.com>, 
+ Benedito Carlos Flaminio <benedito.flaminio@claro.com.br>, 
+ Luis Mauricio Rodrigues <luiz_ma@hotmail.com>, 
+ Jairo Dias <Jairo@rooftec.com.br>, 
+ Helio Felix <helioamandara@uol.com.br>, 
+ Marcos Patriniani <marckopat@live.com>, 
+ Natanael Costa <ncosta@usa.com>, 
+ Ordalino de Souza e Silva <titoss@ig.com.br>, 
+ Marco Tulio de Mello <tmello@demello.net.br>, 
+ Wlamir Lopes Sanches <wladsmozz@hotmail.com>, 
+ =?UTF-8?B?RmFicsOtY2lvIFRha2VzaGkgTXVyYWthbWk=?= <fabricio@crivodarazao.org.br>, 
+ =?UTF-8?B?Um9nw6lyaW8gZG9zIFNhbnRvcyBPdGE=?= <rogerio@crivodarazao.org.br>, 
+ Fernando Colacioppo <falecom@redecolmeia.com.br>, 
+ Douglas Klein Basso <douglas.klein@gmail.com>, 
+ Gilberto Dante <gilbertodante@hotmail.com>, 
+ Ernani Flausino <ecobom@ig.com.br>, 
+ Rony Silvio Pereira de Souza <ronysilvio@gmail.com>, 
+ chancelaria@crivodarazao.org.br
+Message-ID: <552d31ff4ff3b_68af159a7c0313cc63117@a4-weasel3.mail>
+in-reply-to: ["4072d9d21c7f6df1f77e2952e7cb2307@digitalfotoimagem.com.br"]
+references: ["4a10f47077fe56e5509cc17dc981edfd@crivodarazao.org.br",
+ "4072d9d21c7f6df1f77e2952e7cb2307@digitalfotoimagem.com.br"]
+Subject: =?UTF-8?Q?ANIVERS=C3=81RIANTES_/_CRIVO_DA_RAZ=C3=83O?=
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-SenderIP: 201.13.58.249
+X-SIG5: 735aa99fc6f5575a238d54dc100594a2
+X-Spam-Status: No, score=0.6
+X-Spam-Score: 6
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hserv20.homehost.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Bom Dia, � Confirmo minha presença, apenas eu, irei falar
+    com minha filha e meu neto, se confirmarem presença, eu aviso. TFA, [...]
+    
+ 
+ Content analysis details:   (0.6 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_MSPIKE_H4      RBL: Very Good reputation (+4)
+                             [200.147.97.9 listed in wl.mailspike.net]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (mmtesta[at]uol.com.br)
+ -0.0 T_RP_MATCHES_RCVD      Envelope sender domain matches handover relay
+                             domain
+  1.5 SUBJ_ALL_CAPS          Subject is all capitals
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.7 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.4 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+ -0.0 RCVD_IN_MSPIKE_WL      Mailspike good senders
+X-Spam-Flag: NO
+
+<div>Bom Dia,</div>
+<div>=C2=A0</div>
+<div>Confirmo minha presen=C3=A7a, apenas eu, irei falar com minha filha =
+e meu neto, se confirmarem presen=C3=A7a, eu aviso. TFA,</div>
+<div>=C2=A0</div>
+<div>Marcilio</div>
+<div>=C2=A0</div>
+<div>=C2=A0</div>
+<div>=C2=A0</div>
+<div>=C2=A0</div>
+<div><br />Boa noite meus IIr.`.<br /><br /><br />Na ultima se=C3=A7=C3=A3=
+o foi levantado a quest=C3=A3o da data do dia 18/04 o qual <br />ter=C3=A1=
+ um feriado na sequ=C3=AAncia dia 21/04.<br /><br />Pois a altera=C3=A7=C3=
+=A3o para o dia 1=C2=BA de Maio comprometeu duas fam=C3=ADlias <br />comp=
+arecerem.<br /><br /><br /><br />E n=C3=A3o foi feito o levantamento se a=
+lguma fam=C3=ADlia n=C3=A3o ir=C3=A1 no dia 1=C2=BA.<br /><br /><br />Sol=
+icito a confirma=C3=A7=C3=A3o para meu e_mail quem ira no dia 1=C2=BA.<br=
+ /><br />Conversei com o Ir.`.Caca e assim na pr=C3=B3xima se=C3=A7=C3=A3=
+o definiremos se ser=C3=A1 <br />melhor trocar a data ou manter o dia 21/=
+04.<br /><br /><br />Ass. Parise<br /><br />T.`.F.`.A.`.<br /><br /></div=
+>=

@@ -1,0 +1,50 @@
+Return-path: <comercial@homehost.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Fri, 01 Jul 2016 12:10:36 -0300
+Received: from mailalt.homehost.com.br ([177.85.98.241]:54752)
+	by hserv20.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <comercial@homehost.com.br>)
+	id 1bJ05T-0006cR-Qx
+	for marco@digitalfotoimagem.com.br; Fri, 01 Jul 2016 12:10:35 -0300
+Received: from homehost-admin2 (www.homehost.com.br [177.184.2.204])
+	(using TLSv1.2 with cipher DHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by mailalt.homehost.com.br (Postfix) with ESMTPS id 2043B5444AD2
+	for <marco@digitalfotoimagem.com.br>; Fri,  1 Jul 2016 12:08:09 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=homehost.com.br;
+	s=defaultkey; t=1467385690;
+	bh=w2GYlQGzMh2fZNTxRdl93MqpH6xTdROdeW0JDAkdOdI=;
+	h=Date:To:From:Subject;
+	b=v3nlgAnC+yu6ejIZ8ArAJ95NWFKLHmStisEy34wOjwdARJFt2UwxT+ihPOUF3tMW5
+	 STsArsz50LEgzV7oyTqKCmW+jLEdCOMXfLH6hQ3jSHqVIH2k4lEutEJHv8KIqTMsFm
+	 8sVMT2g9ZWBn/opw+6XkSWthGmfKjwTxWt+FtK9I=
+Date: Fri, 1 Jul 2016 12:09:49 -0300
+To: marco@digitalfotoimagem.com.br
+From: Homehost <comercial@homehost.com.br>
+Subject: Fatura  de hospedagem - WWW.DIGITALFOTOIMAGEM.COM.BR
+Message-ID: <8073a581b697782682efd638e475bc13@homehost-admin2>
+X-Mailer: PHPMailer 5.2.15 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=windows-1250
+Content-Transfer-Encoding: 8bit
+
+Marco,
+
+Segue sua fatura  referente a hospedagem do site WWW.DIGITALFOTOIMAGEM.COM.BR .
+
+Para gerar o boleto, acesse o link abaixo:
+
+http://www.homehost.com.br/bm.php?p=93825458&u=16744
+
+Obs: caso voce nao consiga visualizar, copie e cole a linha a cima em  navegador.
+
+Obs2: pagavel em qualquer banco ate a data do vencimento. Apos esta data, o pagamento so pode ser realizado nas agencias Itau.
+
+Voce tambem pode gerar uma segunda via desta fatura a qualquer momento atraves de nosso site, na opcao Suporte.
+
+Atenciosamente,
+Homehost - Departamento Comercial
+http://www.homehost.com.br
+
+

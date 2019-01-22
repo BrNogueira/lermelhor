@@ -1,0 +1,184 @@
+Return-Path: <bounces+59615-22f2-marco=digitalfotoimagem.com.br@mail.magento.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id kXjzElSsBFhM5Q8AY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Mon, 17 Oct 2016 08:47:48 -0200
+Return-path: <bounces+59615-22f2-marco=digitalfotoimagem.com.br@mail.magento.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Mon, 17 Oct 2016 08:47:48 -0200
+Received: from o16789103x122.outbound-mail.sendgrid.net ([167.89.103.122]:49715)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+59615-22f2-marco=digitalfotoimagem.com.br@mail.magento.com>)
+	id 1bw5SO-0006NN-3M
+	for marco@digitalfotoimagem.com.br; Mon, 17 Oct 2016 08:47:48 -0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=mail.magento.com; 
+	h=to:subject:from:reply-to:content-type:content-transfer-encoding:mime-version; 
+	s=smtpapi; bh=9b8IR23jZdCVo4yMNmQo7pBu/yI=; b=dPmEks/HgKBMT0JQ9W
+	2Ogo28eWA0yQt3yDJ4dC5CRooctaDcX90wGokFTzz5io69mnwmksDnSH6HOZ1Dtk
+	xnVl7pcz2if0aWtjuuPfK9pDiPHePMMo9Vkr7ndkFAEOvLQmFHEyZ1A9IJMvtTQr
+	JGr8AJnqv+pOZ0ypEWj779i6I=
+Received: by filter0995p1mdw1.sendgrid.net with SMTP id filter0995p1mdw1.6885.5804AC2148
+        2016-10-17 10:46:57.519408217 +0000 UTC
+Received: from mail01 (ec2-52-2-161-232.compute-1.amazonaws.com [52.2.161.232])
+	by ismtpd0002p1iad1.sendgrid.net (SG) with ESMTP id TO_7k5gURH6wSLkxG1xTxQ
+	for <marco@digitalfotoimagem.com.br>; Mon, 17 Oct 2016 10:46:57.393 +0000 (UTC)
+Received: from mc-web02 (ip-10-234-3-229.ec2.internal [10.234.3.229])
+	by mail01 (Postfix) with ESMTP id 5ACAA108232C
+	for <marco@digitalfotoimagem.com.br>; Mon, 17 Oct 2016 10:46:57 +0000 (UTC)
+Received: by mc-web02 (Postfix, from userid 2505)
+	id 572CF10809E0; Mon, 17 Oct 2016 10:46:57 +0000 (UTC)
+To: =?utf-8?B?TWFyY28gUGFyaXNl?= <marco@digitalfotoimagem.com.br>
+Subject: =?utf-8?B?V2VsY29tZSwgTWFyY28h?=
+From: Magento <info@magento.com>
+Reply-To: Magento <info@magento.com>
+Date: Mon, 17 Oct 2016 10:46:57 +0000
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+MIME-Version: 1.0
+Message-Id: <20161017104657.572CF10809E0@mc-web02>
+X-SG-EID: Hch+2AQw5UfQtHqV+P/3h94kWa/z3uc7aT9t1ffNJX6ejfdpfjs1c7IIdtNthFh9yAnddh3djB6GOd
+ uDAPy5rZ8Ka4ObXeXzaybtLPhI0+yidWQztaw+LxAjQHu++ysW8MMSIN6+fxAqQ4M6OX8iexCt7SYb
+ K0fNI4b5ioW72XD2W8x4Nw9ybcKgBQaWPzfkEzQbJQZd5jbsqCuzK/8rR+qDoUVygTKr1cUGAOfLEC
+ 8=
+
+
+
+
+
+<body leftmargin=3D"0" topmargin=3D"0" rightmargin=3D"0" bottommargin=3D"0"=
+ marginwidth=3D"0" marginheight=3D"0">
+    <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" height=3D"100%"=
+ width=3D"100%" bgcolor=3D"#f1f1f1">
+        <tr>
+            <td align=3D"center" valign=3D"top" style=3D"padding:20px 0 20p=
+x 0">
+                <table bgcolor=3D"#ffffff" cellspacing=3D"0" cellpadding=3D=
+"0" border=3D"0" width=3D"600">
+                    <!-- [ header starts here] -->
+                    <tr class=3D"header">
+                        <td valign=3D"top" bgcolor=3D"#f1f1f1" colspan=3D"3=
+" style=3D"padding-bottom:20px; ">
+                            <a href=3D"http://mail.magento.com/wf/click?upn=
+=3D2zKPWgAKWQZ-2FZmhqbr2LfASI5AhKrRjJctRI6TqViuOM1V0g-2FVM2axrqiKdkKvghUuC7=
+oq1M9GCebCxoq1pspA-3D-3D_LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYJ30ie4=
+F9S3lbx-2BKa7c2pLAM8LAdD3k0RDlobln1Bnvrlbx1eOp51t8U4ZYLiHCTA0sor-2F3iFZrrqI=
+yVSnPr8RXK8JW2852YQK681qYEAzemkZJo4KynvrsdPG3idb3FP7MVkc-2F0ILnuqcxrot0ZArn=
+C9K5QBU-2Bgm6Earlf8HuRO3I-2FzhJiaoIkEFOUsCtjvFs-3D">
+                                <img src=3D"https://www.magentocommerce.com=
+/magento-connect/skin/frontend/enterprise/mc/images/email/logo_email.gif" a=
+lt=3D"Magento Inc." style=3D"margin:0;" border=3D"0" width=3D"450" height=
+=3D"56" align=3D"left"/>
+                            </a>
+                        </td>
+                    </tr>
+                    <!-- [ middle starts here] -->
+                    <tr class=3D"spacer">
+                        <td valign=3D"top" height=3D"25" colspan=3D"3">
+                            <img style=3D"margin:0;"  border=3D"0" src=3D"h=
+ttps://www.magentocommerce.com/magento-connect/skin/frontend/enterprise/mc/=
+images/email/spacer_v.gif" alt=3D"Magento" width=3D"1" height=3D"25" align=
+=3D"left" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width=3D"30" valign=3D"top">
+                            <img style=3D"margin:0;"  border=3D"0" src=3D"h=
+ttps://www.magentocommerce.com/magento-connect/skin/frontend/enterprise/mc/=
+images/email/spacer.gif" alt=3D"Magento" width=3D"30" height=3D"1" align=3D=
+"left" />
+                        </td>
+                        <td valign=3D"top" align=3D"left" style=3D"font-siz=
+e:13px; font-family: Arial, sans-serif; line-height:18px; color:#555555;">
+                            <h1 style=3D"font-size:28px; font-weight:normal=
+; font-family: Arial, sans-serif; line-height:34px; margin:0; margin-bottom=
+:10px; color:#002D53; ">
+                                Dear Marco,
+                            </h1>
+                            <h2 style=3D"font-size:17px; font-weight:bold; =
+font-family: Arial, sans-serif; line-height:23px; margin:0 0 10px 0; color:=
+#E34500;">Welcome to Magento. We have created your Magento account.</h2>
+                            <p style=3D"font-size:13px; font-family: Arial,=
+ sans-serif; line-height:18px; color:#555555; margin:0; margin-bottom:10px;=
+ ">
+                                You can login to your Magento account by cl=
+icking the login or My Account buttons on the top of the Magentocommerce.co=
+m site and using the username and password below:
+                                <br/>
+                                <b style=3D"color:#000000;">E-mail</b>: mar=
+co@digitalfotoimagem.com.br
+                                <br/>
+                                <b style=3D"color:#000000;">Password</b>: Y=
+our password is the password you created when you registered on the site. I=
+f you forgot your password, you may recover it here: <a href=3D"http://mail=
+.magento.com/wf/click?upn=3D2zKPWgAKWQZ-2FZmhqbr2LfASI5AhKrRjJctRI6TqViuMI3=
+-2BdeC7NGeTI656zc62Of-2B5nt-2BvVnaMjaHgdF5dhBKB-2FC37oiv0TTKnNA-2FpkyVBM-3D=
+_LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYJ30ie4F9S3lbx-2BKa7c2pLAM8LAdD=
+3k0RDlobln1Bnvrv-2FsNu-2BpiFnh4NLBULuuP3m5BSX9uNnCHOskUB9HNRMplaKnQwFWt9Zip=
+LDLcwT3-2F-2BjfaKTa0G-2BXKmV7OtC8A-2BjyDdjRHuGC2qbfW2-2BYAQwXOuBCW4-2BeLdUs=
+zJSnSMrhMKGEqge3ysITXIkOwEX1Y2I-3D" style=3D"text-decoration:none; color:#0=
+068B7;">https://www.magentocommerce.com/products/customer/account/forgotpas=
+sword/</a>
+                            </p>
+                            <p style=3D"font-size:13px; font-family: Arial,=
+ sans-serif; line-height:18px; color:#555555; margin:0; margin-bottom:10px;=
+ ">
+                                With you Magento account, you can quickly a=
+ccess and update important information:
+                            </p>
+                            <ul style=3D"font-size:13px; font-family: Arial=
+, sans-serif; line-height:18px; color:#555555; margin:0; margin-bottom:10px=
+; padding:0;">
+                                <li style=3D"list-style:none inside; paddin=
+g:0 0 0 10px;">&ndash; Place orders quickly using stored contact and billin=
+g information</li>
+                                <li style=3D"list-style:none inside; paddin=
+g:0 0 0 10px;">&ndash; Check Order Status</li>
+                                <li style=3D"list-style:none inside; paddin=
+g:0 0 0 10px;">&ndash; View Order History</li>
+                                <li style=3D"list-style:none inside; paddin=
+g:0 0 0 10px;">&ndash; Update Contact and Billing Details</li>
+                            </ul>
+                            <p style=3D"font-size:13px; font-family: Arial,=
+ sans-serif; line-height:18px; color:#555555;  margin:0; margin-bottom:25px=
+; ">
+                                If you have any questions, please contact u=
+s at <a href=3D"mailto:info@magento.com" style=3D"text-decoration:none; col=
+or:#0068B7;">info@magento.com</a>
+                            </p>
+                        </td>
+                        <td width=3D"30" valign=3D"top">
+                            <img style=3D"margin:0;"  border=3D"0" src=3D"h=
+ttps://www.magentocommerce.com/magento-connect/skin/frontend/enterprise/mc/=
+images/email/spacer.gif" alt=3D"Magento" width=3D"30" height=3D"1" align=3D=
+"left" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan=3D"3" bgcolor=3D"#c8c8c8" align=3D"cent=
+er" style=3D" text-align:center;">
+                            <p style=3D"font-size:13px; color:#000000; marg=
+in:0; padding-top:10px; padding-bottom:10px;">
+                                Thank you,
+                                <br/>
+                                <b>The Magento Team</b>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+<img src=3D"http://mail.magento.com/wf/open?upn=3DLSCheCCiOQ1Sxmnfp3GwDkn4V=
+dUNGq5ltO8idz-2FIzYJ30ie4F9S3lbx-2BKa7c2pLAM8LAdD3k0RDlobln1BnvrkI8swRTYY6z=
+nVB8iUA9Tx95Re1cMghIujtkfTLXbSl7K4H5lVr1UfBNUXPTHrYOUSiRIB3rWgIDTd-2FplLtzi=
+LR5AwFFnYPQxC56oVMAwZpjV7ljqIFuCmaBXu9gT4cU0caY4uzo-2Fts6bzABc9Di7PY-3D" al=
+t=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important=
+;width:1px !important;border-width:0 !important;margin-top:0 !important;mar=
+gin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;=
+padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !impor=
+tant;padding-left:0 !important;"/>
+</body>
+

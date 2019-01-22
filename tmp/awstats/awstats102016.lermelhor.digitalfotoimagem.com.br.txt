@@ -1,0 +1,898 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201610 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.lermelhor.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2030                
+POS_TIME 2720                
+POS_VISITOR 15598               
+POS_DAY 23410               
+POS_DOMAIN 3700                
+POS_LOGIN 4137                
+POS_ROBOT 4292                
+POS_WORMS 4837                
+POS_EMAILSENDER 4968                
+POS_EMAILRECEIVER 5111                
+POS_SESSION 24306               
+POS_SIDER 24519               
+POS_FILETYPES 5246                
+POS_DOWNLOADS 5627                
+POS_OS 8132                
+POS_BROWSER 8384                
+POS_SCREENSIZE 9503                
+POS_UNKNOWNREFERER 9577                
+POS_UNKNOWNREFERERBROWSER 9904                
+POS_ORIGIN 10226               
+POS_SEREFERRALS 10373               
+POS_PAGEREFS 10542               
+POS_SEARCHWORDS 10957               
+POS_KEYWORDS 11165               
+POS_MISC 2384                
+POS_ERRORS 11289               
+POS_CLUSTER 3993                
+POS_SIDER_404 11432               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20161101002258 22237 5974592 13284606890156
+FirstTime 20161001030952
+LastTime 20161031235044
+LastUpdate 20161102013034 22237 0 22236 0 0
+TotalVisits 331                 
+TotalUnique 175                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 198                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 6 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 271 1136 41889095 202 297 13093743
+1 103 401 39459333 106 238 4643577
+2 35 185 13732947 54 105 3558082
+3 6 42 588716 65 181 6915190
+4 8 43 557715 31 104 10031372
+5 2 2 42505 49 126 10888751
+6 5 30 735173 117 202 24401080
+7 15 105 6075644 48 100 11303752
+8 101 791 51512536 94 177 14586247
+9 310 1266 232456508 145 422 19085577
+10 395 1447 160202494 222 548 30198576
+11 179 693 78769033 154 347 16440389
+12 113 474 34108596 139 368 19306123
+13 279 1053 28407286 182 376 13326381
+14 338 1165 75121894 182 314 8671220
+15 215 649 12672305 106 294 7382485
+16 190 951 36728252 135 182 4032869
+17 286 1547 101144747 220 501 14121705
+18 277 1148 74150411 146 431 13156415
+19 362 1296 37256690 137 270 5035477
+20 313 1015 68773311 165 343 16157261
+21 169 897 63054872 126 271 14060496
+22 306 1105 71887848 238 389 6784093
+23 466 1191 15730832 240 536 10199205
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+br 4618 17948 1025376661
+us 41 249 6619643
+de 30 30 240917
+ru 29 344 5492239
+ao 7 7 102532
+fr 5 5 114082
+ua 4 4 101737
+ca 2 2 50371
+pl 2 2 50329
+lu 1 1 24925
+gb 1 1 25627
+sk 1 1 17290
+lt 1 1 25628
+nl 1 1 25406
+pt 1 36 410450
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+googlebot 1495 117723742 20161031233638 1
+no_user_agent 692 25491 20161031215641 0
+php 544 99709092 20161031234934 0
+bot[\s_+:,\.\;\/\\-] 460 14917666 20161031224343 0
+googlebot\-image 250 26493220 20161031125621 0
+bingpreview 201 4961970 20161030203946 0
+slurp 83 8633847 20161031065355 0
+spider 43 937443 20161031055402 0
+[\s_+:,\.\;\/\\-]bot 35 1720404 20161021201045 0
+msnbot\-media 2 53709 20161014211021 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 16
+js 2653 56799245 0 0
+svg 1 1521 0 0
+php 3782 84843143 0 0
+mp4 5 11370410 0 0
+png 77 2921526 0 0
+jpeg 8 1127928 0 0
+Unknown 91 69367 0 0
+css 5901 12711754 0 0
+html 798 19231148 0 0
+jpg 4623 181825797 0 0
+swf 69 2273425 0 0
+mp3 2 5019315 0 0
+flv 85 650713475 0 0
+woff 4 335040 0 0
+gif 531 307851 0 0
+wmv 2 9126892 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 61
+/videos/media/video1OLHO.flv 8 4 8497066
+/media/6.flv 7 0 54018622
+/videos/media/video.flv 7 14 95152798
+/media/7.flv 7 3 75893931
+/videos/media/palavras.flv 6 17 20153934
+/videos/media/1-B.flv 5 4 32093716
+/videos/media/1-A-ok.flv 5 4 32841484
+/media/3.flv 4 0 39456648
+/videos/media/1.wmv 3 4 12913571
+/media/video1OLHO.flv 3 2 3357996
+/documents/ProjetoLeitura.doc 3 0 135168
+/media/4.mp4 2 0 10673029
+/media/1-6min.flv 2 2 19216470
+/videos/media/1-6min.flv 2 14 57297394
+/rvsformdata_10d4ad23afb041c7e0b387920c7d6a18.txt 2 0 10520
+/media/2.flv 2 2 20883102
+/media/1-B.flv 2 0 9968736
+/rvsformdata_eda469ef62ed75d0228bb92c564cd6e0.txt 2 0 21848
+/videos/media/16min.flv 2 0 19216468
+/videos/media/3.flv 2 0 19728324
+/rvsformdata_5ea7e8466fc7fc102c1da2a35c74b55c.txt 2 0 9864
+/videos/media/5Lilas.flv 2 2 13119571
+/videos/media/1.6min.flv 2 0 19216468
+/videos/media/4Vermelho.flv 1 2 9662972
+/videos/media/3Laranja.flv 1 2 4660968
+/rvsformdata_af675740d3c0370cf0c9192a4d5f0b3a.txt 1 0 1696
+/segmod/media/2Amarelo.flv 1 0 3110016
+/videos/media/Filme_0001.flv 1 0 8810218
+/testehomehost/big_buck_bunny_720p_20mb.flv 1 6 81923835
+/MonteiroLobato/media/video.flv 1 0 7318493
+/videos/media/Filme_0003ok.flv 1 2 8653366
+/segmod/media/1-A-ok.flv 1 0 5626968
+/videos/media/Filme.flv 1 1 6068899
+/rvsformdata_28f8ce1ac0bcad0083a3560ece3ad6d8.txt 1 0 3960
+/rvsformdata_60a4b2365667a39e994d2519ac05ad75.txt 1 0 4480
+/curso/media/2.flv 1 0 10441550
+/videos/media/7Verde.flv 1 0 3597919
+/navigatorUnique.txt 1 0 9
+/rvsformdata_3b59da3dbff4159bbb19714cf08c9c5e.txt 1 0 3900
+/videos/media/teste/foradopaine.mp4 1 0 260403
+/videos/media/2.flv 1 0 6956562
+/media/inicio.wmv 1 0 9482235
+/videos/media/teste/android.mp4 1 0 212464
+/version.txt 1 0 39
+/videos/media/6Azul.flv 1 0 3412136
+/curso/media/3.flv 1 0 9864162
+/media/2Amarelo.flv 1 0 3110016
+/testehomehost/big_buck_bunny_720p_5mb.flv 1 2 8993464
+/videos/media/vis%C3%A3o1.flv 1 2 1053757
+/media/audio1.mp3 1 0 5019315
+/rvsformdata_551ce939e1833fadd37e7d85800d0b40.txt 1 0 4984
+/media/1-A.flv 1 0 5626968
+/videos/media/2Amarelo.flv 1 4 8577495
+/videos/media/teste/avi320X2401%C2%BAMEg4.mp4 1 0 224514
+/rvsformdata_3ce07e81c2ea8d7a2c9eeb0b1816b356.txt 1 0 5004
+/media/video.flv 1 0 7318493
+/media/palavras.flv 1 0 1496095
+/rvsformdata_27e5ca4675a1b87e53e2ad8f425d6f18.txt 1 0 4492
+/lermelhor.com.br/media/video.flv 1 0 7318493
+/MonteiroLobato/documents/ProjetoLeitura.doc 1 0 45056
+/curso/media/video.flv 1 0 7318493
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+win2000 1 1
+win8 150 40
+macosx 205 23
+macosx9 55 5
+winxp 366 69
+win7 14051 4023
+winlong 2 1
+win8.1 119 12
+ios_iphone 273 12
+linux 368 61
+Unknown 44 44
+winnt 560 82
+linuxandroid 2531 371
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 51
+safari9.0 138 4
+msie9.0 1 0
+chrome51.0.2681.0 3029 912
+chrome53.0.2785.124 934 154
+chrome49.0.2623.112 1 0
+firefox21.0 5 5
+chrome28.0.1469.0 1 1
+chrome50.0.2645.3 163 45
+chrome37.0.2062.120 10 10
+chrome51.0.2683.0 580 171
+android 111 7
+msie8.0 29 2
+chrome26.0.1410.64 1 1
+chrome55.0.2883.18 44 1
+chrome50.0.2661.89 226 15
+chrome51.0.2704.81 104 3
+chrome54.0.2840.68 65 53
+chrome30.0.0.0 19 19
+chrome33.0.0.0 9 9
+chrome26.0.1410.63 1 1
+firefox11.0 1 0
+chrome28.0.1500.71 1 1
+msie11.0 96 9
+netscape5.0 2 2
+chrome40.0.2214.45 49 10
+chrome31.0.1650.63 44 1
+chrome52.0.2743.116 38 2
+chrome28.0.1500.95 41 5
+firefox3.6.3 1 1
+chrome54.0.2840.71 2633 702
+chrome53.0.2785.116 119 9
+chrome43.0.2357.93 104 3
+firefox49.0 1961 482
+firefox48.0 4 4
+chrome53.0.2785.118 53 6
+chrome41.0.2228.0 3 3
+safari6.0.3 1 1
+chrome9.0.597.107 1 1
+lg\- 88 2
+safari10.0 230 10
+chrome25.0.1364.172 1 1
+firefox25.0 154 14
+Unknown 44 44
+firefox14.0.1 12 12
+msie7.0 1 0
+msie10.0 76 7
+iphone 47 6
+chrome53.0.2785.143 6622 1888
+chrome48.0.2564.95 739 101
+chrome38.0.1025.166 86 2
+chrome52.0.2743.98 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+WordPress/4.6.1;_http://lermelhor.com.br/face 20161031134910
+KickFire 20161030043204
+WordPress/4.6.1;_http://lermelhor.com.br 20161028091754
+Softaculous 20161028201825
+facebookexternalhit/1.1 20161031183700
+Python-urllib/2.7 20161018181759
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Python-urllib/2.7 20161018181759
+Softaculous 20161028201825
+facebookexternalhit/1.1 20161031183700
+KickFire 20161030043204
+WordPress/4.6.1;_http://lermelhor.com.br/face 20161031134910
+WordPress/4.6.1;_http://lermelhor.com.br 20161028091754
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 851 864
+From1 4 4
+From2 20 31
+From3 171 172
+From4 3698 17654
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 6 17
+yandex 14 14
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+http://m.facebook.com 95 95
+https://www.facebook.com 58 58
+http://m.facebook.com 6 6
+http://pizza-tycoon.com 4 4
+http://burger-imperia.com 3 3
+http://burger-imperia.com 2 2
+https://www.facebook.com 1 1
+http://adguard.com/referrer.html 1 2
+http://pizza-tycoon.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+ver+video+de+escoladaniel+trivio+municipio+de+diadema 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 7
+de 4
+video 2
+trivio 2
+escoladaniel 2
+ver 2
+municipio 2
+diadema 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+206 1031 21521396
+301 265 64777
+302 1261 612709
+404 489 0
+500 16 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 95
+/videos/images/Empoderamento2.jpg 1 http://lermelhor.com.br/videos/Faze-3.php
+/js/jscalendar/calendar-win2k-2.css 1 http://lermelhor.com.br/js/jscalendar/
+/documents/ProjetodoSite.doc 1 -
+/js/jscalendar/simple-2.html 1 -
+/shop/ 1 -
+/M\xc3\xb3dulo 1 -
+/wp/ 1 -
+/videos/Faze-3.php&layout=standard&locale=en_US&sdk=joey&send=true&show_faces=true&width=450 1 -
+/videos/media/2.flv 2 http://lermelhor.com.br/videos/teste.php
+/%7BPUBLISH_URL%7D/js/jquery-ui/jquery.min.js 1 http://lermelhor.com.br/rvsMasterCompoDB.php
+/js/jscalendar/simple-3.html 1 -
+/plugins/content/upgrade/ncpf.php 5 -
+http://lermelhor.com.br:80/Flayer-face.php 1 http://m.facebook.com
+/rvs_media_library/config.txt 1 -
+/lermelhor.com.br/documents/ProjetodoSite.doc 1 -
+/videos/teste.php 4 http://lermelhor.com.br/videos/Curso.php
+//login.php 1 -
+/js/jscalendar/calendar-win2k-1.css 1 http://lermelhor.com.br/js/jscalendar/
+/Modulo 4 -
+/vendas/app/etc/local.xml 3 -
+/videos/optimizer.php 10 http://lermelhor.com.br/videos/rvsindex.php
+/administrator/index.php 1 -
+/matriz/images/Carrinho.jpg 2 -
+/wp/wp-login.php 1 http://lerestovientavous.com/wp/wp-login.php
+/flayer 1 -
+/xmlrpc.php 1 -
+/%7BPUBLISH_URL%7D/js/jquery-ui/themes/base/ui.all.css 1 http://lermelhor.com.br/rvsMasterCompoDB.php
+/curso/media/2.flv 3 -
+/img_01.jpg 6 http://lermelhor.com.br/Curso.php
+/vendas 1 -
+/robots.txt 314 -
+/optimizer.php 6 http://lermelhor.com.br/rvsindex.php
+/license.php 2 -
+/templates/beez/index.php 4 -
+/matriz/images/2/12516850_1054248367966191_1231618284_o1.jpg 2 -
+/blog/robots.txt 1 -
+/images/Carrinho.jpg 4 -
+/mysql/ 1 -
+http://lermelhor.com.br:80/ 1 http://m.facebook.com
+/js/jscalendar/simple-1.html 1 -
+/media/Advancewindowstudo.wmv 1 -
+/videos/meida/ 1 -
+/lermelhor.com.br/images/GabineteVer.Ari_copy_1.jpg 1 -
+/wp-content/plugins/dzs-zoomsounds/admin/admin.js 1 -
+/js/jscalendar/doc/reference.pdf 1 -
+/wordpress/ 1 -
+/f176cad3046d338&relation=parent.parent&color_scheme=light&container_width=1575&font=verdana&href= 1 -
+/rbkjiwhu.html 1 -
+/kzhrudruxdkjuqb.html 1 -
+/wp-admin/admin-ajax.php 2 -
+/videos/themes/rvtheme_admin/images/16/module_authweb.gif 3 http://lermelhor.com.br/videos/rvsindex.php
+/zabbix/ 2 -
+/videos/images/splitter_left.gif 2 http://lermelhor.com.br/videos/Faze-3.php
+/js/jscalendar/calendar-win2k-cold-1.css 1 http://lermelhor.com.br/js/jscalendar/
+/videos/Modelo-coaching.php 1 http://lermelhor.com.br/videos/Copied-In%C3%ADcio.php
+/sql/ 1 -
+/images/%C3%81readoaluno2.jpg 1 http://lermelhor.com.br/
+/js/jscalendar/calendar-win2k-cold-2.css 1 http://lermelhor.com.br/js/jscalendar/
+/%7BPUBLISH_URL%7D/js/jquery-ui/ui/minified/jquery-ui.min.js 1 http://lermelhor.com.br/rvsMasterCompoDB.php
+/MonteiroLobato/images/GabineteVer.Ari_copy_1.jpg 1 -
+/ 11 -
+/Adrivx_a.php 1 -
+/aaa/ 1 -
+/images/2/potencializarglobalizado.jpg 3 -
+/adr.htm 1 -
+/js/jscalendar/doc/html/reference.html 1 -
+/videos/Comprove-o-teste.php 9 -
+/2 1 -
+/MKT/inicio.php 1 -
+/Curso 3 http://homehost-admin2/helpdesk/editarTicket.php
+/faze 2 -
+/cpsess3866382183/3rdparty/rvsitebuilder/index.php 1 http://lermelhor.com.br/videos/Copied-Comprove-o-teste.php
+/wp-login.php 2 -
+/images/2/Carrinhoazul.jpg 1 -
+/phpmyadmin/ 1 -
+/curso/optimizer.php 4 http://lermelhor.com.br/curso/rvsindex.php
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__cwbqn.php 1 -
+/m/ 1 -
+/images/2/Clickaqui.jpg 1 -
+/wtqarshsxjsv.html 1 -
+/videos/images/splitter_mid.gif 2 http://lermelhor.com.br/videos/Faze-3.php
+/cgi-bin/ 1 -
+/uukyqnanhsgip.html 1 -
+/Loja/app/etc/local.xml 1 -
+/videos/images/FrenteCat%C3%A3o10X15.jpg 1 http://lermelhor.com.br/videos/Faze-3.php
+/mobile/ 1 -
+/modulo 2 -
+/In 2 -
+/MKT/imagens.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__huqro.php 1 -
+/blog/ 2 -
+/blog/wp-login.php 1 http://lerestovientavous.com/blog/wp-login.php
+/segundo 1 -
+/curso/media/3.flv 3 -
+/MKT/.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 198
+201.6.128.97 1443 4210 355274094 20161017173835
+201.6.128.182 798 2730 73191938 20161024013916
+201.6.128.171 669 2947 52384600 20161031175505
+201.6.128.199 239 617 10873267 20161027105242
+201.55.31.215 215 742 41367342 20161027213323
+201.55.31.210 203 1308 93055132 20161031205935
+201.6.130.26 109 367 12352865 20161028100001
+201.6.130.186 86 355 4783357 20161024165559
+201.6.228.172 86 120 3215716 20161028164551
+201.55.31.211 74 270 10313186 20161014202508
+201.6.130.17 55 123 1969553 20161024113341
+152.250.124.179 54 182 7546966 20161013140440
+201.55.31.71 47 390 9930064 20161025090841
+186.231.115.227 44 153 4919136 20161026172649
+201.55.31.212 42 176 8365110 20161031220317
+201.6.128.179 41 147 3106227 20161024102958
+177.207.204.67 39 388 201250512 20161017103915
+201.6.128.33 38 217 4575689 20161025003945
+191.181.226.235 36 123 3545501 20161023184229
+189.25.253.131 31 232 53453214 20161010084615
+187.11.126.86 27 259 8135841 20161021112824
+201.43.105.22 21 94 1297698 20161012170104
+201.6.128.209 20 57 930320 20161025125131
+93.104.215.69 18 18 33409 20161031134910
+177.206.107.31 12 141 5919117 20161025193859
+89.154.209.186 1 36 410450 20161001120918
+66.249.83.139 0 10 290416 
+177.32.101.166 1 44 1581894 20161022120819
+177.141.175.110 1 1 25207 20161028053608
+201.27.170.29 1 42 1787070 20161030190058
+179.241.198.107 1 44 1581894 20161021183947
+95.221.215.222 1 28 387008 20161005132033
+201.6.131.64 10 49 579836 20161007130146
+187.21.197.79 1 1 12970 20161029145723
+179.223.138.69 0 1 148706 
+209.128.119.32 1 1 26232 20161030043204
+191.193.53.124 3 53 1634086 20161027225902
+186.204.229.223 3 106 3788230 20161021174356
+66.102.8.223 2 15 120075 20161018170417
+66.249.85.31 0 21 1773714 
+177.102.89.15 1 1 14371 20161030150506
+177.79.103.177 1 1 14548 20161029223840
+177.79.41.193 1 26 392757 20161021214606
+191.23.59.117 1 1 26378 20161018134052
+187.38.58.213 3 75 2317852 20161020142418
+144.76.153.198 1 1 15295 20161012004026
+177.157.44.23 0 1 148706 
+177.148.226.253 1 1 13428 20161031010340
+173.252.102.113 1 1 13196 20161030210641
+191.247.226.26 2 10 76911 20161004082020
+178.137.87.242 1 1 26443 20161031154038
+131.0.217.3 1 1 13095 20161030203501
+66.249.83.137 0 12 309235 
+176.195.104.196 3 38 431505 20161012043903
+179.110.60.66 1 1 25444 20161026150617
+128.52.128.105 1 1 25203 20161029042105
+189.5.78.68 1 14 519063 20161004083055
+95.220.185.30 1 1 4964 20161012185832
+163.172.223.200 1 1 25627 20161022210544
+177.81.195.160 1 1 25203 20161029093517
+131.0.217.7 1 1 26291 20161018232035
+179.148.156.52 1 1 12346 20161031202709
+5.9.94.207 2 2 32506 20161028220840
+191.8.15.22 1 1 25406 20161029185350
+177.9.135.208 1 1 12158 20161031172318
+177.107.125.226 1 1 25444 20161026155911
+177.13.42.52 2 47 1608253 20161022114634
+189.102.169.49 1 1 25444 20161027142341
+179.209.33.11 1 1 13196 20161030225216
+177.148.252.50 1 1 14467 20161029221826
+201.69.222.219 2 2 50410 20161028211232
+201.42.197.110 1 1 13095 20161030184616
+177.45.100.119 2 2 24692 20161031223659
+201.81.0.251 1 1 25203 20161028193635
+177.18.215.156 2 55 2187027 20161021161921
+66.102.8.192 0 14 292502 
+143.202.49.246 3 3 36851 20161031190309
+179.228.9.2 1 43 1505832 20161014225546
+66.249.85.27 0 5 3040 
+177.100.74.238 0 1 148706 
+85.25.103.119 1 1 25404 20161025033644
+40.78.146.128 1 1 26291 20161019100950
+189.100.11.142 1 1 25508 20161027212559
+173.252.114.112 1 1 14442 20161029171159
+91.215.152.21 1 1 25628 20161023133403
+189.69.7.172 1 44 1581894 20161022091438
+85.248.227.164 1 1 17290 20161028093522
+187.183.33.172 2 2 39873 20161030012758
+191.39.9.15 1 44 1506013 20161014170705
+201.6.128.194 9 89 2413383 20161024232604
+66.220.146.180 1 1 12159 20161031183700
+177.79.44.52 0 18 1189137 
+177.45.124.61 3 93 2415111 20161022103041
+65.19.167.132 1 1 25627 20161021195717
+189.18.225.29 1 1 25508 20161027211510
+201.42.198.194 3 104 2640757 20161029143938
+201.6.128.236 1 1 14599 20161030204642
+191.8.100.129 1 1 14548 20161029203354
+40.77.167.58 0 1 24411 
+195.154.146.225 3 3 71893 20161022145114
+187.38.196.124 1 1 25207 20161027214821
+179.99.189.192 1 44 1581894 20161022092452
+128.72.70.164 3 38 440903 20161012010509
+201.26.124.180 1 1 25626 20161024134114
+191.39.23.255 1 44 1581894 20161022100325
+177.81.89.14 2 2 50410 20161028191132
+187.38.162.170 3 3 53014 20161029231824
+189.40.90.190 1 44 1581671 20161025080737
+187.22.78.234 0 2 297412 
+66.249.85.28 1 8 62253 20161022141604
+177.79.45.44 1 1 25525 20161018150526
+5.9.112.6 1 1 15388 20161008010640
+66.220.152.33 1 1 12159 20161031183700
+201.54.237.196 0 1 15450 
+131.0.217.22 1 1 12970 20161029144430
+178.217.187.39 2 2 50329 20161025081315
+186.241.7.255 0 1 148706 
+179.209.224.24 1 1 13428 20161031085010
+177.94.80.153 4 4 101535 20161028192321
+178.137.164.171 2 2 49850 20161004045101
+109.63.130.118 3 38 431382 20161012093557
+69.171.228.119 2 2 25555 20161031093453
+54.145.73.87 1 1 25020 20161004131113
+66.249.85.2 0 27 650342 
+187.40.65.58 0 1 140991 
+104.209.188.207 1 1 26291 20161019100947
+78.46.156.169 3 3 45979 20161026213749
+128.69.217.223 3 26 406517 20161010063228
+173.252.122.121 1 1 12789 20161030181914
+69.58.178.58 10 10 209923 20161019071637
+201.1.78.229 1 1 25508 20161027213124
+187.37.174.77 1 1 25207 20161028000844
+66.220.146.147 1 1 12789 20161030181915
+31.185.104.19 1 1 25020 20161004142421
+46.166.148.152 1 1 25406 20161029153300
+187.56.112.145 4 4 101539 20161027225917
+187.105.150.216 1 1 12346 20161031182718
+173.208.136.114 1 1 25752 20161020131158
+201.42.34.35 1 1 25406 20161029231303
+176.193.185.235 1 1 643 20161012091244
+191.87.240.189 1 1 42433 20161025081542
+148.251.54.44 2 2 32528 20161019170808
+37.147.97.26 4 40 551486 20161012175835
+189.103.252.129 9 9 157108 20161030213550
+177.188.219.122 1 1 13844 20161031100404
+167.114.233.118 1 1 25444 20161027002822
+187.56.114.170 2 2 39444 20161029184707
+201.6.128.110 9 16 171769 20161025124249
+200.53.194.191 0 1 100895 
+176.195.100.47 3 38 441207 20161015223713
+187.37.170.153 8 8 152938 20161031235044
+66.102.7.143 1 18 483216 20161018170132
+187.38.32.10 1 44 1581894 20161020201756
+66.249.85.30 0 24 635630 
+66.220.146.226 1 1 12296 20161031093452
+5.9.17.118 1 1 15388 20161008010626
+66.220.146.183 1 1 13428 20161031010226
+177.58.226.5 2 6 53707 20161021191514
+154.118.210.185 7 7 102532 20161031194044
+207.44.132.76 1 1 17298 20161012050948
+198.50.132.10 1 1 24927 20161003213535
+152.249.172.233 3 15 388424 20161029214311
+201.6.231.33 2 2 39670 20161029202010
+66.249.83.135 0 20 439524 
+189.54.20.117 3 3 55151 20161030025452
+94.242.246.24 1 1 24925 20161004044704
+62.210.152.87 2 2 42189 20161016200741
+201.6.229.222 8 100 2689140 20161028140550
+37.229.45.1 1 1 25444 20161027021230
+177.148.254.0 1 1 25207 20161027224839
+187.38.181.186 2 2 39873 20161029192407
+66.102.7.147 0 12 186846 
+200.162.176.5 12 12 271224 20161018181759
+201.52.90.164 0 1 140991 
+95.221.250.51 1 44 1587186 20161016191133
+191.181.208.197 1 44 1581894 20161022100738
+201.6.128.242 4 54 1255273 20161018001642
+201.4.76.175 0 1 148706 
+189.4.176.51 1 1 13095 20161030184250
+46.166.169.71 1 1 25628 20161023035445
+93.80.145.250 1 24 377023 20161006173250
+66.220.152.38 1 1 9917 20161027104821
+66.220.146.182 1 1 5221 20161027104819
+66.249.85.26 1 3 38809 20161021161535
+179.177.29.209 0 1 148706 
+66.102.8.221 1 11 268085 20161001030956
+128.68.36.132 1 1 643 20161016024607
+66.102.7.145 0 13 422257 
+152.250.143.225 6 62 2108611 20161014170303
+189.79.118.58 1 44 1582135 20161025173131
+94.180.144.142 3 26 406144 20161007174321
+177.79.27.238 1 1 25444 20161026155512
+187.75.85.210 4 4 55771 20161031015530
+189.120.50.96 1 1 13095 20161030185750
+23.94.252.68 1 1 25627 20161021140835
+177.45.200.131 3 64 2539407 20161022194212
+191.205.187.201 1 1 26678 20161031014157
+66.220.152.34 1 1 5222 20161027104819
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20161001 3 74 896977 3
+20161002 1 11 206621 1
+20161003 17 188 23303222 4
+20161004 30 191 20638926 10
+20161005 24 253 15454175 2
+20161006 22 235 88986284 7
+20161007 81 406 57076589 8
+20161008 20 140 1321453 5
+20161010 67 415 200017605 7
+20161011 38 248 211091206 7
+20161012 72 361 47935995 15
+20161013 572 1681 192581775 8
+20161014 444 1328 70617905 10
+20161015 224 541 14802286 4
+20161016 104 285 5140393 6
+20161017 339 1016 24673406 10
+20161018 81 457 18365946 11
+20161019 82 479 12867398 8
+20161020 116 562 17520461 6
+20161021 52 687 20035740 14
+20161022 273 1271 31925384 15
+20161023 292 713 20197709 12
+20161024 309 1296 26144472 9
+20161025 210 852 19815195 13
+20161026 104 360 7219519 12
+20161027 206 739 14009555 28
+20161028 359 1063 28347942 21
+20161029 141 616 14003998 26
+20161030 132 518 8374382 21
+20161031 329 1646 31486224 28
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 27
+2mn-5mn 10
+30s-2mn 19
+0s-30s 196
+5mn-15mn 17
+15mn-30mn 25
+1h+ 37
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 149
+/videos/optimizer.php 1065 31300205 1 26
+/ 684 16610167 174 122
+/videos/rvsindex.php 553 2708457 11 5
+/optimizer.php 233 5314443 0 6
+/videos/Faze-3.php 169 4375900 4 4
+/face/wp-admin/admin-ajax.php 160 1364825 0 0
+/Curso.php 134 1869360 2 6
+/rvsindex.php 119 598221 16 2
+/segmod/optimizer.php 111 2662657 0 1
+/email 84 54012 19 24
+/videos/themes/default/css/installer.php 77 678755 9 0
+/videos/rvssetup.php 77 4296215 1 0
+/videos/ 69 1728292 6 1
+/videos/Curso.php 63 963019 0 1
+/1%C2%BA-M%C3%B3dulo.php 56 1905364 1 5
+/segmod/rvsindex.php 56 282697 0 1
+/videos/Copied-Comprove-o-teste.php 50 1052646 1 3
+/wp-admin/admin-ajax.php 43 11204 0 0
+/Flayer-face.php 43 585288 13 13
+/In%C3%ADcio.php 36 862052 0 1
+/videos/teste.php 35 621214 3 10
+/videos/Modelo-coaching.php 35 1270000 5 7
+/MKT/MKT.php 34 429073 11 9
+/videos/Copied-In%C3%ADcio.php 32 877348 3 2
+/videos/Comprove-o-teste.php 27 409094 0 1
+/rvthankform_eda469ef62ed75d0228bb92c564cd6e0.php 3 35017 0 1
+/Galeria-de-fotos.php 11 147708 4 4
+/videos/Copied-1%C2%BA---Modelo-coaching.php 17 483646 0 2
+/videos/Faze-2.php 12 308877 0 0
+/Copied-Suporte.php 7 188693 0 1
+/wp-admin/post.php 3 372153 0 0
+/face/wp-admin/ 2 105829 0 0
+/face/wp-admin/load-styles.php 5 640292 0 0
+/Suporte.php 1 23681 1 1
+/imagens-face.php 13 171548 3 3
+/videos/media/player.swf 23 909370 1 3
+/teste--inicio.php 14 271344 0 0
+/Sobre-n%C3%B3s.php 14 183862 0 3
+/media/ 1 223 0 0
+/MEC.php 2 26556 0 0
+/Processo-de-cria%C3%A7%C3%A3o.php 5 89653 0 2
+/segmod/ 5 121183 0 0
+/videos/Teste.php 6 93000 0 1
+/softtest_tfnpxqrk/soft 1 20 0 0
+/Not%C3%ADcias--and--Eventos.php 2 34234 2 2
+/wp-content/themes/ares/inc/fonts/fontawesome-webfont.woff 2 167520 0 0
+/videos/4-Vermelho.php 2 37576 0 0
+/face/wp-admin/options-general.php 1 23776 0 0
+/videos/2%C2%BA---Modelo-coaching-Perdas-e-Ganhos.php 8 240876 0 1
+/face/wp-content/themes/ares/inc/fonts/fontawesome-webfont.woff 2 167520 0 0
+/face/wp-admin/update.php 1 22198 0 0
+/segmod/media/player.swf 17 578690 0 0
+/vendas/index.php/sucesso 3 11547 0 0
+/curso/media/player.swf 2 82670 0 1
+/face/wp-admin/plugin-install.php 18 3086141 0 0
+/wp-admin/load-scripts.php 19 1817835 0 0
+/videos/Copied-1%C2%BA---Modelo-coaching2.php 4 118878 0 0
+/curso/rvsindex.php 2 10067 0 0
+/MKT/index.php 2 24524 0 0
+/Fun%C3%A7%C3%A3o-dos-olhos.php 3 39386 0 0
+/curso/Faze-1.php 2 33374 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 2 340794 0 0
+/videos/2-Amarelo.php 3 56691 0 0
+/Copied-contatos.php 13 269096 0 1
+/Noticias.php 17 261882 8 9
+/videos/6-Azul.php 1 19028 0 0
+/testehomehost/teste.html 5 2910 0 1
+/face/wp-admin/plugins.php 4 177320 0 0
+/videos/Fun%C3%A7%C3%A3o-dos-olhos.php 17 260110 0 0
+/Loja/ 1 16118 0 0
+/videos/5-Violeta.php 2 37472 0 0
+/videos/1.php 4 83342 0 0
+/face/wp-cron.php 4 0 1 2
+/face/wp-includes/js/tinymce/wp-tinymce.php 1 170397 0 0
+/MKT/ 13 163823 2 2
+/Loja/index.php/admin123 1 3748 0 0
+/videos/7-Verde.php 4 75352 0 0
+/vendas/index.php/sucesso/dashboard/productsViewed/key/046714fbc9d8d6e54f9e5e14e9ab4e89/ 1 1211 0 0
+/vendas/index.php/sucesso/process/list/key/9ffd0683f969194d2a6dde2cf7e2a02c/ 1 68645 0 0
+/Flayer-facebook.php 23 333964 10 8
+/vendas/index.php/sucesso/dashboard/customersMost/key/c983d22854a68212a4eda95d4ebb9366/ 1 1349 0 0
+/face/wp-admin/load-scripts.php 10 809026 0 0
+/teste.php 2 25224 0 0
+/face/ 3 46085 0 0
+/videos/Depoimentos-2015.php 2 34816 0 0
+/softtest_eztwmt7a/soft 1 20 0 0
+/videos/3-Curso.php 4 48916 0 0
+/wp-admin/users.php 1 33554 0 0
+/videos/Depoimentos.php 19 295895 0 2
+/videos/media/ 1 223 0 0
+/teste/ 1 25952 1 0
+/segmod/Faze-2.php 18 417784 0 0
+/Copied-In%C3%ADcio.php 3 90269 0 0
+/face/wp-login.php 1 2518 0 0
+/videos/3-Laranja.php 1 18947 0 0
+/curso.php 3 52175 0 0
+/videos/Pag-seguro.php 2 36642 0 0
+/index.php 6 136770 0 1
+/MKT/face.php 19 238346 4 4
+/segmod/Teste.php 7 102761 0 2
+/vendas/index.php/sucesso/dashboard/customersNewest/key/2ac20ebb5de31721a2562b7a8e1e4ed8/ 1 1361 0 0
+/lermelhor-com-br/ 1 17750 0 0
+/videos/1-A.php 1 20454 0 0
+/segmod/rvssetup.php 9 902894 0 0
+/Imface.php 9 132121 0 0
+/wp-admin/load-styles.php 7 1028486 0 0
+/media/player.swf 27 702695 0 3
+/wp-admin/ 2 105693 0 0
+/rvssetup.php 11 1414154 1 0
+/videos/rvthankform_551ce939e1833fadd37e7d85800d0b40.php 2 30402 0 2
+/videos/rvthankform_60a4b2365667a39e994d2519ac05ad75.php 1 14872 0 0
+/face/wp-admin/themes.php 2 54298 0 0
+/videos/1%C2%BA---Modelo-coaching.php 3 128026 0 1
+/wp-admin/index.php 1 52690 0 0
+/wp-cron.php 5 0 0 2
+/curso/rvssetup.php 1 55789 0 0
+/face/check_charset.php 1 73 1 0
+/segmod/Modelo-coaching.php 1 27727 0 0
+/wp-admin/plugin-install.php 2 137636 0 0
+/curso/optimizer.php 15 403009 0 0
+/vendas/ 1 16234 0 0
+/galeria.php 4 55435 0 0
+/videos/Depoimentos-2013.php 5 159321 0 0
+/In\xc3\xadcio.php 1 26291 0 0
+/wp-admin/customize.php 1 217411 0 0
+/modelo-de-coaching.php 20 485455 0 1
+/videos/Copied-Fechamento-do-1%C2%BA-Modelo-coaching.php 1 29800 0 0
+/videos/Depoimentos-2016.php 3 81473 0 0
+/contato.php 12 270543 0 0
+/wp-admin/post-new.php 2 242227 0 0
+/Loja/index.php/admin123/dashboard/index/key/82a9ea9608d09a6d0762ffcdc8b3aef8/ 1 61776 0 0
+/videos/rvthankform_f3b1a06b30f17a447d2eb692d335905f.php 2 29744 0 1
+/curso/themes/default/css/installer.php 1 8814 0 0
+/curso/ 1 26568 0 0
+/Galeria-facebook.php 6 83166 0 1
+/videos/Portf%C3%B3lio.php 2 106288 2 2
+/check_charset.php 2 146 2 0
+/vendas/index.php/sucesso/process/edit/process/1/key/86df4d1a141530447b587522ca43f6f8/ 1 47425 0 1
+/MKT/IMAGENS.php 7 89337 0 1
+/testehomehost/ 1 358 0 0
+/face/softtest_yoyd6jxb/soft 1 20 0 0
+/wp-admin/edit.php 3 130342 0 0
+/vendas/index.php/sucesso/dashboard/index/key/be0e7f1997d8acda0f84609567064d6b/ 1 61973 0 0
+/videos/Brainstorming.php 19 432188 0 1
+/themes/default/css/installer.php 10 88080 0 0
+/segmod/themes/default/css/installer.php 9 79335 0 0
+/curso/Depoimentos-2013.php 1 32191 0 0
+/face/wp-admin/post-new.php 1 127657 0 0
+/imagens.php 21 273245 8 8
+END_SIDER

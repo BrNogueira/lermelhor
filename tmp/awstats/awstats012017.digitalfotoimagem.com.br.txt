@@ -1,0 +1,548 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201701 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2684                
+POS_VISITOR 12128               
+POS_DAY 13856               
+POS_DOMAIN 3404                
+POS_LOGIN 3768                
+POS_ROBOT 3923                
+POS_WORMS 4344                
+POS_EMAILSENDER 4475                
+POS_EMAILRECEIVER 4618                
+POS_SESSION 14520               
+POS_SIDER 14716               
+POS_FILETYPES 4753                
+POS_DOWNLOADS 5017                
+POS_OS 5202                
+POS_BROWSER 5380                
+POS_SCREENSIZE 5950                
+POS_UNKNOWNREFERER 6024                
+POS_UNKNOWNREFERERBROWSER 6469                
+POS_ORIGIN 6879                
+POS_SEREFERRALS 7019                
+POS_PAGEREFS 7163                
+POS_SEARCHWORDS 7475                
+POS_KEYWORDS 7627                
+POS_MISC 2348                
+POS_ERRORS 7686                
+POS_CLUSTER 3624                
+POS_SIDER_404 7801                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170201003844 15 2786 9949747316892
+FirstTime 0
+LastTime 20170131232332
+LastUpdate 20170201102628 15 0 14 0 0
+TotalVisits 88                  
+TotalUnique 42                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 43                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 13 13 38853 19 45 85515
+1 5 5 11046 10 27 51270
+2 2 2 9117 11 28 16948
+3 0 0 0 21 43 95957
+4 6 12 25932 25 51 99616
+5 1 4 8633 12 28 95122
+6 2 2 16948 14 23 32147
+7 3 3 17591 14 26 54776
+8 1 1 8474 4 14 24287
+9 2 2 9117 8 18 13656
+10 8 8 20806 7 16 34406
+11 17 17 48195 2 8 10058
+12 11 11 45398 12 27 51431
+13 1 1 643 3 9 16948
+14 9 37 482951 58 74 137158
+15 54 142 6080120 20 37 79126
+16 90 94 5343902 20 35 32951
+17 7 7 20163 8 19 34781
+18 5 5 18877 6 17 31173
+19 9 59 716071 20 34 109774
+20 7 7 20163 19 32 52497
+21 4 4 26065 3 9 16948
+22 4 4 26065 7 94 45862
+23 13 40 397905 12 27 72374
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+br 183 380 12889919
+us 58 58 280746
+de 13 19 52731
+ua 4 4 33896
+fr 4 4 33896
+se 3 3 25422
+nl 3 3 25422
+ca 3 3 25422
+lu 1 1 8474
+cn 1 1 8474
+gb 1 4 8633
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+bot[\s_+:,\.\;\/\\-] 125 469991 20170130234357 0
+googlebot 83 408360 20170129235727 0
+slurp 30 13735 20170126063304 0
+spider 27 228798 20170129162244 0
+netcraft 13 110162 20170125002237 0
+no_user_agent 6 42374 20170131153854 0
+checker 1 8474 20170124220800 0
+robot 1 4167 20170104233754 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+php 118 6525361 0 0
+txt 9 477 0 0
+woff 1 44432 0 0
+jpg 146 2683403 0 0
+css 16 200091 0 0
+eot 1 22449 0 0
+png 6 1872272 0 0
+gif 12 24176 0 0
+html 100 1064964 0 0
+Unknown 54 32362 0 0
+js 17 923048 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/01E7353556C28D22EE180BBCF0858D98.txt 6 0 318
+/1C856BDF0CE47E7BB9AEE72F233791B4.txt 2 0 106
+/D9B31F9F388B93E3A71E4E0C9D4459AE.txt 1 0 53
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+win7 377 208
+winnt 2 2
+macosx9 14 14
+linux 12 12
+win8.1 45 17
+Unknown 24 15
+java 1 1
+linuxandroid 1 1
+macosx 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 26
+chrome34.0.1847.131 8 8
+chrome49.0.2623.75 2 2
+chrome45.0.2454.94 1 1
+firefox28.0 3 3
+chrome37.0.2062.120 10 10
+msie10.0 1 1
+chrome34.0.1847.137 4 4
+Unknown 23 14
+msie9.0 3 3
+chrome51.0.2704.103 1 1
+mozilla 2 2
+firefox50.0 334 165
+chrome35.0.1916.114 3 3
+chrome55.0.2883.95 4 4
+chrome44.0.2403.125 1 1
+firefox21.0 2 2
+safari7.0.3 3 3
+chrome41.0.2228.0 1 1
+firefox48.0 2 2
+chrome40.0.2214.115 3 3
+firefox31.0 11 11
+chrome10.0.648.204 1 1
+chrome55.0.2883.87 31 3
+chrome51.0.2681.0 10 10
+firefox29.0 11 11
+firefox51.0 5 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20170127211914
+Softaculous 20170109141850
+WordPress/4.7.1;_http://digitalfotoimagem.com.br/teste 20170131232332
+COMODO_DCV 20170124054834
+Cpanel-HTTP-Client/1.0 20170124043119
+WordPress/4.7;_http://digitalfotoimagem.com.br/teste 20170122235222
+WordPress/4.7.2;_http://digitalfotoimagem.com.br/teste 20170131232352
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+WordPress/4.7.2;_http://digitalfotoimagem.com.br/teste 20170131232352
+WordPress/4.7.1;_http://digitalfotoimagem.com.br/teste 20170131232332
+Softaculous 20170109141850
+WordPress/4.7;_http://digitalfotoimagem.com.br/teste 20170122235222
+Java/1.8.0_65 20170105122359
+COMODO_DCV 20170124054834
+Cpanel-HTTP-Client/1.0 20170124043119
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 106 115
+From1 0 0
+From2 0 0
+From3 11 11
+From4 157 354
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://burger-imperia.com 6 6
+http://pizza-tycoon.com 1 1
+https://www.facebook.com 1 1
+http://hundejo.com 1 1
+http://hvd-store.com 1 1
+http://pizza-imperia.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 5 0
+206 1 8474
+404 373 0
+301 2 246
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 131
+/cielo/logs/log.log 1 -
+/escola/27.jpg 4 -
+/escola/15.jpg 2 -
+/logs/pagamento.log 1 -
+/logs/xml.log 1 -
+/loja/error.log 1 -
+/log/librepag.log 1 -
+/payment/cielo/xml.log 1 -
+/logs/transacao.log 1 -
+/plugins/uploadify/uploadify.swf 1 http://digitalfotoimagem.com.br/plugins/uploadify/uploadify.swf
+/admin/uploadify/uploadify.swf 1 http://digitalfotoimagem.com.br/admin/uploadify/uploadify.swf
+/loja/logs/transacao.log 1 -
+/pages/cielo/logs/xml.log 1 -
+/logs/log.log 1 -
+/escola/13.jpg 3 -
+/cielo.log 1 -
+/loja/logs/error.log 1 -
+/cielo/logs/autorizacao.log 1 -
+/sitemap.xml 1 -
+/escola/16a.jpg 1 -
+/wp-admin/xml.log 1 -
+/uploadify/uploadify.swf 1 http://digitalfotoimagem.com.br/uploadify/uploadify.swf
+/escola/6.jpg 2 -
+/inc/uploadify/uploadify.swf 1 http://digitalfotoimagem.com.br/inc/uploadify/uploadify.swf
+/.well-known/assetlinks.json 9 -
+/loja/logs/cielo.log 1 -
+/loja/log.log 1 -
+/CIELO/logs/xml.log 1 -
+/wp-admin/pagamento.log 1 -
+/payment/cielo_lib/logs/xml.log 1 -
+/blog/robots.txt 2 -
+/logs/cielo/xml.log 1 -
+/controller/payment/cielo_lib/logs/log.log 1 -
+/xmlrpc.php 2 -
+/cielo/pages/log.log 1 -
+/update.php 1 -
+/escola/20a.jpg 1 -
+/wp-admin/transacao.log 1 -
+/escola/24.jpg 2 -
+/payment/cielo_lib/logs/log.log 1 -
+/blog/ 2 -
+/index.swf 15 -
+/cielo/pages/pagamento.log 1 -
+/var/log/xml.log 1 -
+/loja/cielo.log 1 -
+/escola/14a.jpg 1 -
+/wp-content/plugins/wpstore/includes/functions/payment/Cielo/logs/log.log 1 -
+/cielo/logs/requisicao.log 1 -
+/loja/transacao.log 1 -
+/loja/cielo/logs/xml.log 1 -
+/var/log/ 1 -
+/images/logo_img.php 1 http://digitalfotoimagem.com.br/images/logo_img.php
+/cielo/logs/error.log 1 -
+/loja/autorizacao.log 1 -
+/includes/uploadify/uploadify.swf 1 http://digitalfotoimagem.com.br/includes/uploadify/uploadify.swf
+/escola/8.jpg 1 -
+/cielo_lib/logs/xml.log 1 -
+/escola/26.jpg 2 -
+/cielo/logs/cielo.log 1 -
+/robots.txt 186 -
+/paginas/logs/xml.log 1 -
+/cielo/pages/autorizacao.log 1 -
+/cielo/pages/error.log 1 -
+/pagamento/xml.log 1 -
+/logs/cielo.log 1 -
+/wp-admin/cielo.log 1 -
+/cielo/pages/xml.log 1 -
+/cielo/pages/transacao.log 1 -
+/../../logs/xml.log 1 -
+/var/log/librepag.log 1 -
+/wordpress/wp-admin/xml.log 1 -
+/images/wel1.jpg 1 -
+/Fundo2.png 1 http://digitalfotoimagem.com.br/email.html
+/js/uploadify/uploadify.swf 1 http://digitalfotoimagem.com.br/js/uploadify/uploadify.swf
+/catalog/controller/payment/cielo/logs/xml.log 1 -
+/includes/logo_img.php 1 http://digitalfotoimagem.com.br/includes/logo_img.php
+/cielo/includes/xml.log 1 -
+/apple-app-site-association 9 -
+/logs/requisicao.log 1 -
+/wp-admin/autorizacao.log 1 -
+/images/about.jpg 1 -
+/wp-admin/error.log 1 -
+/loja/requisicao.log 1 -
+/loja/logs/requisicao.log 1 -
+/xml.log 1 -
+/escola/17a.jpg 1 -
+/casamento/88a.jpg 1 -
+/escola/12.jpg 3 -
+/cielo/logs/xml.log 1 -
+/images/m6.jpg 1 -
+/logs/error.log 1 -
+/libraries/sfn.php 1 -
+/images/m3.jpg 3 -
+/cielo/pages/requisicao.log 1 -
+/cms/uploadify/uploadify.swf 1 http://digitalfotoimagem.com.br/cms/uploadify/uploadify.swf
+/cielo/xml.log 1 -
+/site/cielo/logs/xml.log 1 -
+/cielo/logs/pagamento.log 1 -
+/loja/logs/xml.log 1 -
+/../../../logs/xml.log 1 -
+/loja/catalog/controller/payment/cielo_lib/logs/xml.log 1 -
+/escola/18a.jpg 1 -
+/images/1eucaristia.jpg 1 -
+/images/m1.jpg 1 -
+/logs/autorizacao.log 1 -
+/loja/pagamento/xml.log 1 -
+/bin/logo_img.php 1 http://digitalfotoimagem.com.br/bin/logo_img.php
+/escola/25.jpg 3 -
+/.well-known/apple-app-site-association 8 -
+/../logs/xml.log 1 -
+/images/contact.jpg 1 -
+/cielo/logs/transacao.log 1 -
+/wp-admin/log.log 1 -
+/images/m2.jpg 1 -
+/escola/7.jpg 1 -
+/pagamento/pages/xml.log 1 -
+/wordpress/ 2 -
+/wp-admin/requisicao.log 1 -
+/loja/logs/pagamento.log 1 -
+/lib/uploadify/uploadify.swf 1 http://digitalfotoimagem.com.br/lib/uploadify/uploadify.swf
+/images/m5.jpg 1 -
+/loja/pagamento.log 1 -
+/loja/logs/autorizacao.log 1 -
+/logo_img.php 1 http://digitalfotoimagem.com.br/logo_img.php
+/loja/xml.log 1 -
+/loja/logs/log.log 1 -
+/wp/ 2 -
+/escola/23.jpg 1 -
+/cielo/pages/cielo.log 1 -
+/images/wel2.jpg 1 -
+/moduloCielo/logs/log.log 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 43
+201.6.230.62 176 345 12473563 20170129015257
+93.104.215.69 13 19 52731 20170131232352
+208.90.57.196 11 11 36506 20170126194037
+45.55.131.62 6 6 18690 20170120005124
+138.197.111.210 6 6 18690 20170127124456
+138.197.111.235 6 6 18690 20170129152026
+138.197.69.244 6 6 18690 20170131153912
+201.6.229.12 5 5 3215 20170131072417
+167.114.209.28 3 3 25422 20170127211915
+35.166.240.211 3 3 0 20170131232330
+179.208.250.45 2 30 413141 20170104145644
+192.36.27.4 2 2 16948 20170126064015
+195.154.232.138 2 2 16948 20170119180408
+52.205.219.245 2 2 16948 20170123000526
+78.109.24.109 2 2 16948 20170115020122
+45.32.131.61 2 2 16948 20170128083638
+178.137.87.242 2 2 16948 20170114124439
+66.102.6.140 1 1 8474 20170122045855
+5.2.75.199 1 1 8474 20170113141225
+138.197.96.207 1 1 8474 20170127115556
+45.55.134.15 1 1 8474 20170121235725
+138.197.96.201 1 1 8474 20170125234943
+138.197.111.63 1 1 8474 20170131114921
+159.203.169.43 1 1 8474 20170123203010
+95.211.138.129 1 1 8474 20170111174624
+138.197.111.124 1 1 8474 20170130053244
+51.15.36.187 1 1 8474 20170114002013
+46.166.148.152 1 1 8474 20170113194725
+184.73.108.58 1 1 8474 20170125074042
+104.236.8.231 1 1 8474 20170125045058
+62.210.162.42 1 1 8474 20170103175207
+104.236.225.99 1 1 8474 20170122120759
+54.224.149.87 1 1 8474 20170124060142
+66.102.6.138 1 1 8474 20170122045855
+218.79.243.18 1 1 8474 20170113140712
+104.156.231.254 1 1 8474 20170112222137
+138.197.11.151 1 1 8474 20170120010348
+178.32.24.196 1 1 8474 20170113150235
+216.19.219.181 1 1 8474 20170107103529
+192.36.27.7 1 1 8474 20170113150229
+94.242.246.24 1 1 8474 20170104105635
+91.199.212.132 0 3 159 
+138.197.111.9 1 1 8474 20170128222639
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20170103 2 2 16948 2
+20170104 5 33 422901 4
+20170105 2 2 16948 2
+20170106 1 1 643 1
+20170107 3 3 9760 3
+20170108 3 30 380955 2
+20170109 134 203 11106317 5
+20170110 3 26 317525 2
+20170111 5 28 326642 3
+20170112 2 2 9117 2
+20170113 7 7 51487 7
+20170114 2 2 16948 2
+20170115 2 2 9117 2
+20170116 2 2 9117 2
+20170117 1 1 643 1
+20170119 2 2 16948 1
+20170120 12 39 409405 5
+20170121 6 6 11689 3
+20170122 6 6 25423 5
+20170123 14 14 44980 5
+20170124 8 17 11715 4
+20170125 3 3 25422 3
+20170126 10 10 22092 5
+20170127 11 11 53229 4
+20170128 5 5 18877 4
+20170129 7 7 19333 2
+20170130 5 5 11046 2
+20170131 11 11 27808 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30s-2mn 4
+1h+ 2
+30mn-1h 1
+0s-30s 78
+5mn-15mn 1
+15mn-30mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 31
+/teste/wp-admin/admin-ajax.php 75 2301101 0 1
+/ 53 449122 47 38
+/email 50 32150 31 34
+/teste/ 16 337051 3 4
+/teste/wp-admin/load-scripts.php 15 1888856 0 0
+/email.html 6 31746 0 1
+/teste/wp-admin/load-styles.php 5 669302 0 0
+/teste/wp-cron.php 5 0 4 2
+/igreja/1.html 5 2830 0 1
+/teste/wp-admin/customize.php 5 1044575 0 0
+/escola/1.html 5 3635 0 1
+/aniversario/aniversario.html 4 6336 0 1
+/teste/wp-admin/theme-install.php 4 224434 0 0
+/casamento/paginacasamento.html 4 8192 0 1
+/teste/wp-admin/themes.php 4 301252 0 0
+/teste/wp-admin/ 2 221552 1 0
+/teste/wp-admin/upgrade.php 2 2 0 2
+/teste/wp-admin/async-upload.php 1 1599 0 0
+/teste/softtest_hnqw6db3/soft 1 20 0 0
+/teste/wp-includes/fonts/dashicons.eot 1 22449 0 0
+/322663.BIN_AUTOSSL_CHECK_PL__.88l3qAqk.cpaneldcv 1 64 1 0
+/igreja/2.html 1 502 0 0
+/322663.BIN_AUTOSSL_CHECK_PL__.BgdpwaFH.cpaneldcv 1 64 0 0
+/teste/wp-admin/profile.php 1 94167 0 0
+/escola/mae.html 1 1645 0 1
+/igreja/3ok.html 1 533 0 0
+/escola/pai.html 1 1354 0 0
+/teste/check_charset.php 1 73 1 0
+/igreja/5.html 1 466 0 0
+/322663.BIN_AUTOSSL_CHECK_PL__.6lA2afyD.cpaneldcv 1 64 0 1
+/teste/wp-content/themes/wpex-blogger/font/fontawesome-webfont.woff 1 44432 0 0
+END_SIDER

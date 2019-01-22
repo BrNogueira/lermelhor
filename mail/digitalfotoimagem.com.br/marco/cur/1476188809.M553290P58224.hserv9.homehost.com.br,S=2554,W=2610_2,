@@ -1,0 +1,56 @@
+Return-Path: <suporte@homehost.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id wRl1H4na/Fdw4wAAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Tue, 11 Oct 2016 09:26:49 -0300
+Return-path: <suporte@homehost.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 11 Oct 2016 09:26:49 -0300
+Received: from mailalt.homehost.com.br ([177.85.98.241]:41406)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <suporte@homehost.com.br>)
+	id 1btw8v-000IeE-Cm
+	for marco@digitalfotoimagem.com.br; Tue, 11 Oct 2016 09:26:49 -0300
+Received: from homehost-admin2 (www.homehost.com.br [177.184.2.204])
+	(using TLSv1.2 with cipher DHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by mailalt.homehost.com.br (Postfix) with ESMTPS id 0309F54469CA
+	for <marco@digitalfotoimagem.com.br>; Tue, 11 Oct 2016 09:23:28 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=homehost.com.br;
+	s=defaultkey; t=1476188609;
+	bh=yDFcpCbYlUqDx92MOIX0Z1AAW5Z1tmJ+jVRn2ey2l2Y=;
+	h=Date:To:From:Subject;
+	b=fXQSzJnByBBLrcd3m7MvBRMNjaKLbCL4SP6ew6/XLx7UdXDgoovfVPlFNrHdLaB8K
+	 U6cmV42xXhSgeABnK9WkhmrQO0C10eQVO32C6Xz9ELJfvyrFV9I0hqD8qu2HC2/DR+
+	 6rSgWi+gnnyAXB1A3YYU5Dz8HnXVvPRVTBilqJAc=
+Date: Tue, 11 Oct 2016 09:26:43 -0300
+To: marco@digitalfotoimagem.com.br
+From: Homehost <suporte@homehost.com.br>
+Subject: =?windows-1250?Q?Re:_[#1535236]_Bom_dia_dominio:_digitalfotoimagem.com.br?=
+ =?windows-1250?Q?os_videos_n=C3=A3o_est=C3=A3o_sendo_publicados_esta_dand?=
+ =?windows-1250?Q?o_erro?=
+Message-ID: <2d9db9a20620d13b33e5e93405fe064c@homehost-admin2>
+X-Mailer: PHPMailer 5.2.15 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=windows-1250
+Content-Transfer-Encoding: 8bit
+
+Bom dia Marco,
+
+Conforme testes realizados via chat, verificamos que parece ser uma limitação do Rvsitebuilder para vídeos FLV de tamanho grande. Realizamos testes utilizando outros players e pudemos exibir os vídeos sem problemas, logo, será necessário utilizar outra forma de mostrar os vídeos, diminuí-los, ou aguardar uma futura atualização do Rvsitebuilder que possa resolver o problema.
+
+
+
+Por favor me informe caso reste qualquer duvida.
+
+
+---
+Atenciosamente,
+Zair Henrique
+Suporte Técnico Homehost
+
+
+Consulte sempre nosso base de tutoriais de ajuda em https://www.homehost.com.br/suporte#faqSec
+Disponibilizamos diversos artigos e guias em nosso Blog.
+

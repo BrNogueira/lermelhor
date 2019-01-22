@@ -1,0 +1,310 @@
+Return-Path: <mailer@infusionmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id cVUkG9HO5ljOcQQAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Thu, 06 Apr 2017 20:27:13 -0300
+Return-path: <mailer@infusionmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 06 Apr 2017 20:27:13 -0300
+Received: from mta-c-24-58.infusionmail.com ([208.76.24.58]:58271)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <mailer@infusionmail.com>)
+	id 1cwGo4-001EJa-Vo
+	for marco@digitalfotoimagem.com.br; Thu, 06 Apr 2017 20:27:13 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=joaopaulopereira.com.br; s=dfe90749-152e-4612-a458-816e7e1cfef0;
+	t=1491521182; i=@joaopaulopereira.com.br;
+	bh=bluJRRR8QPNUm+FPvojiFn07jZs=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	b=aGnN0opK1EBQaFabEQXfXLvIIVdo2rsgeXNosYaDaAzaX4WPjnVBBE7NQd3+tXHXA
+	 bE4wRc3ojia6SZTIqj1d8Cbai3muNekrhWGVQToOQQkULPOq6aBnxVv/0z5Z+yOlFG
+	 9ssc/vIwp6iVO2MZZteWsWIc19MzsPTMMz92UIBE=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=infusionmail.com;
+	s=dkim1024; t=1491521182; i=@infusionmail.com;
+	bh=bluJRRR8QPNUm+FPvojiFn07jZs=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	b=R2Sn2xSEyb8AKreD5RMX1fsE0SXveTjVJ91ph+6KN7M5dD96kn6JlVyAtVRhQH4bX
+	 PMq1gR0j5xXCo5D/M3Ss7QUvXeC1yu712wYIOd3lmEa7nihPqJFxrN46+L37K0x+2K
+	 DMJWE38OyP+YvwoRNxJ3JOQsChW+MhL1mfqDMI28=
+Received: from [10.0.0.229] ([10.0.0.229:34268] helo=chase)
+	by phxme3 (envelope-from <mailer@infusionmail.com>)
+	(ecelerity 3.6.12.50134 r(Core:3.6.12.0)) with ESMTP
+	id 2E/49-53928-E9EC6E85; Thu, 06 Apr 2017 19:26:22 -0400
+Date: Thu, 6 Apr 2017 19:26:21 -0400 (EDT)
+From: =?utf-8?Q?Jo=C3=A3o_Paulo_Pereira?= <suporte@joaopaulopereira.com.br>
+To: marco@digitalfotoimagem.com.br
+Message-ID: <1805202471.15552281491521181818.JavaMail.tomcat@chase>
+Subject: =?utf-8?Q?[Voltamos]_Problemas_t=C3=A9cnicos_resolvidos...?=
+Errors-To: mailer@infusionmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1556482_354149486.1491521181817"
+X-MailSentId: 96644
+X-campaignid: infusion_fz25396644
+Feedback-ID: fz253:fz253_18878:primer
+X-BatchId: 18878
+X-InfApp: fz253
+X-InfContact: 253144
+X-InfSent: 6850590
+X-inf-QETT: 0
+X-inf-package: primer
+X-inf-uflags: UE
+X-inf-iflags: UE
+List-Unsubscribe: <https://fz253.infusionsoft.com/app/optOut/noConfirm/6850590/902b59f7fda6039f>
+X-inf-dkimSelector: dfe90749-152e-4612-a458-816e7e1cfef0
+Pool-Version: 2
+Pool-Name: default_primer
+X-Message-Id: 2E/49-53928-E9EC6E85
+
+------=_Part_1556482_354149486.1491521181817
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+This email was sent as HTML-only. To view it, please visit:
+https://fz253.infusionsoft.com/app/hostedEmail/6850590/902b59f7fda6039f
+------=_Part_1556482_354149486.1491521181817
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--><title></title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700italic,700|Open+Sans:400,400italic,700,700italic|Lato:400,400italic,700,700italic);
+</style>
+<style type="text/css">
+#outlook a {padding: 0;}
+.ReadMsgBody, .ExternalClass {width: 100%;}
+.ExternalClass * {line-height: 100%;}
+body { background-color: #ffffff; margin: 0; padding: 0;
+-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+table, td { border-collapse:collapse;
+mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+img { border: 0; height: auto; line-height: 100%;
+outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; }
+.column {display: inline-block; width: 100%;
+text-align: left; vertical-align: top; }
+@media only screen and (min-width:480px) {
+.column-100, * [aria-labelledby='column-100'] {
+width: 100% !important; display: inline-block;
+text-align: left; vertical-align: top; }
+.column-50, * [aria-labelledby='column-50'] {
+width: 50% !important; display: inline-block;
+text-align: left; vertical-align: top; }
+.column-33, * [aria-labelledby='column-33'] {
+width: 33% !important; display: inline-block;
+text-align: left; vertical-align: top; }}
+@media only screen and (max-width:479px) {
+.socialBlock, td.imageBlock, .buttonBlock,
+.alignmentContainer { text-align: center !important }
+.alignmentContainer table { margin-right: auto;
+margin-left: auto;}}
+</style>
+</head>
+<body style="background:#ffffff">
+<div style="background:#ffffff">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" align="center" border="0">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+Olá! João Paulo Pereira aqui! 
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Email rápido para avisar que já resolvemos os <em>problemas técnicos</em>, <em>então</em> clica no link abaixo e vem pra sala de aula...
+<br />
+</p>
+<h2 class="bard-text-block style-scope" style="color: rgb(56, 56, 56); font-family: Helvetica,Arial,sans-serif; font-size: 18px; padding: 0px; margin: 15px 0px 0px; line-height: 1.6; font-weight: bold;">
+<a href="https://fz253.infusionsoft.com/app/linkClick/14752/bb31eaf0ab5df936/6850590/902b59f7fda6039f" class="bard-text-block style-scope" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;" target="_blank">&gt;&gt;&gt; Clique aqui para voltar para sala &lt;&lt;&lt;</a>
+<br />
+</h2>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" align="center" border="0">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+Um grande abraço,
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+João Paulo Pereira 
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+www.joaopaulopereira.com.br
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px 0px; line-height: 1.6;">
+<br />
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" align="center" border="0">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 15px; text-align: left;" class="alignmentContainer">
+<div class="socialBlock" style="margin-right: auto;">
+<a href="https://www.facebook.com/joaopaulopereiraestevao/" target="_blank" style="border: 3.5px solid rgb(255, 255, 255);" border="3.5"><img src="https://javascript_library.s3.amazonaws.com/bard/ic-facebook.png" alt="Facebook" width="40" height="40" /></a><span style=""><!--[if mso]><v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" stroked="false" filled="f" style="width:1;height:1"></v:rect><![endif]--> </span><a href="https://www.youtube.com/user/jppejppe/?sub_confirmation=1" target="_blank" style="border: 3.5px solid rgb(255, 255, 255);" border="3.5"><img src="https://javascript_library.s3.amazonaws.com/bard/ic-youtube.png" alt="YouTube" width="40" height="40" /></a><span style=""><!--[if mso]><v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" stroked="false" filled="f" style="width:1;height:1"></v:rect><![endif]--> </span><a href="https://www.instagram.com/joaopaulo.pereiraoficial/" target
+="_blank" style="border: 3.5px solid rgb(255, 255, 255);" border="3.5"><img src="https://javascript_library.s3.amazonaws.com/bard/ic-instagram-2.png" alt="Instagram" width="40" height="40" /></a>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]-->
+<div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" align="center" border="0">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]-->
+<div class="column column-100" aria-labelledby="column-100">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 15px; text-align: left;" class="alignmentContainer">
+<div style="margin-left: auto; margin-right: auto;">
+<p style="font-family: 'Trebuchet MS',Helvetica,sans-serif; padding: 0px; margin: 0px 0px 13px; line-height: 1.6; color: rgb(153, 153, 153); font-size: 11px;">
+<a href="https://fz253.infusionsoft.com/app/linkClick/14750/aa1cd92acfc615d1/6850590/902b59f7fda6039f" target="_blank" style="text-decoration: underline; padding: 0px; margin: 0px; line-height: 1.6; color: rgb(153, 153, 153);">Sair da Lista</a>
+</p>
+<p style="font-family: 'Trebuchet MS',Helvetica,sans-serif; padding: 0px; margin: 13px 0px 0px; line-height: 1.6; color: rgb(153, 153, 153); font-size: 11px;">
+João Paulo Pereira Rua Benedito Valadares Pará de Minas, Minas Gerais 35660000 Brazil
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]-->
+</div>
+<img height="1" width="1" style="display: block;" src="https://fz253.infusionsoft.com/app/emailOpened/6850590/18878"></body>
+</html>
+------=_Part_1556482_354149486.1491521181817--
+

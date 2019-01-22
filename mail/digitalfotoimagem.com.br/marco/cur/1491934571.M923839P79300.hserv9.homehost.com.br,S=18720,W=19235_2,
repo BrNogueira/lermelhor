@@ -1,0 +1,515 @@
+Return-Path: <585-GGD-959.0.10655.0.0.8171.9.5170223@em-sj-77.mktomail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id ATY2NGsd7VjENQEAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Tue, 11 Apr 2017 15:16:11 -0300
+Return-path: <585-GGD-959.0.10655.0.0.8171.9.5170223@em-sj-77.mktomail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 11 Apr 2017 15:16:11 -0300
+Received: from delapparentia.mktdns.com ([192.28.146.180]:34013)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <585-GGD-959.0.10655.0.0.8171.9.5170223@em-sj-77.mktomail.com>)
+	id 1cy0Ko-000M91-Mz
+	for marco@digitalfotoimagem.com.br; Tue, 11 Apr 2017 15:16:11 -0300
+X-MSFBL: bWFyY29AZGlnaXRhbGZvdG9pbWFnZW0uY29tLmJyQGR2cC0xOTItMjgtMTQ2LTE4
+	MEBiZy1zamQtMjg5QDU4NS1HR0QtOTU5OjQwNjc6NzQyNToyODg0NzowOjgxNzE6
+	OToxMDY1NTo1MTcwMjIz
+Received: from [10.0.87.249] ([10.0.87.249:52625] helo=sjmas01.marketo.org)
+	by sjmta03.marketo.org (envelope-from <messages@magento.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTP
+	id 9D/E7-07917-C3D1DE85; Tue, 11 Apr 2017 13:15:24 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1491934524;
+	s=m1; d=magento.com; i=@magento.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=rgjhMdNcf11aQ5FR2olSxoD3aLLzzWRzLUAVN+ebPpk=;
+	b=Gq/6XtlxdxjdMlewIQUFpoqXSAdfIsbuWNCYnbY9rbnOs5a23jc/2Z9MebSgBXL4
+	P9F/dkmxwoHJNk2IV1r/oBn4NvLLMIzNkqUnX3f4Bsb1ZBuuez2LBf5b281m+O0OXxj
+	RZjtvFgzzDP/ah2WjfWnBZJK1y8j549Px0y9i3Po=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1491934524;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=rgjhMdNcf11aQ5FR2olSxoD3aLLzzWRzLUAVN+ebPpk=;
+	b=kZolCcFcbaefYczBaAFSYq9paNxCc2PKh3TT48+e/vOwwLLEksN2Jprov5HzUBZo
+	2l3WZ5UwQswTwRklDj4179lDQAZzOjHprJ4SwxKUDqjFPjgaERxBUOaHBppLxHB1ufm
+	NK7A2Eb2stF+63zw0uGTn3nvYpqPnHbmSRZLnYgM=
+Date: Tue, 11 Apr 2017 13:15:24 -0500 (CDT)
+From: Magento <messages@magento.com>
+Reply-To: messages@magento.com
+To: marco@digitalfotoimagem.com.br
+Message-ID: <442889743.-452312826.1491934524606.JavaMail.root@sjmas01.marketo.org>
+Subject: Community Edition 2.1 Performance Update Is Now Available
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_-452312828_988507036.1491934524605"
+X-Binding: bg-sjd-289
+X-MarketoID: 585-GGD-959:4067:7425:28847:0:8171:9:10655:5170223
+X-MktArchive: false
+List-Unsubscribe: <mailto:GFLESNCONZZGOWKPGY3U43TDGRUWUTTTG5AT2PI.10655.8171.9@unsub-sj.mktomail.com>
+X-Mailfrom: 585-GGD-959.0.10655.0.0.8171.9.5170223@em-sj-77.mktomail.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+
+------=_Part_-452312828_988507036.1491934524605
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+2.1.6 Product Release
+Release Accelerates Site Performance
+
+Building on recent product quality updates, we are pleased to announce that=
+ several exciting performance enhancements are now available in Community E=
+dition 2.1.6. The new release includes:
+=20
+
+
+
+
+=E2=80=A2
+Quicker category page performance: Loading configurable products is up to 5=
+x faster, stock validations are 20% faster, and price calculations are 3-5%=
+ faster.
+
+
+=E2=80=A2
+Optimized image resizing: Reductions in the number of images requested impr=
+ove image resizing performance by 30%. Effective caching of image metadata =
+accelerates page loading by up to 50%.
+
+
+=E2=80=A2
+Improved layered navigation performance: Caching attribute options improves=
+ performance by 3%.
+
+
+
+
+Detailed release notes are posted online <http://email2.magento.com/V0GK000=
+si70D200GXlHHMq0> and the new software is available on the Community Editio=
+n Download Page <http://email2.magento.com/SG0D2s00X0l0qGH0700iHLN> and via=
+ Composer. As a best practice, be sure to install and test the release in a=
+ development environment before releasing into production to avoid any disr=
+uption to your store.=20
+=20
+ These performance updates augment new payment and admin usability features=
+ available in Community Edition 2.1. Upgrade today for an enhanced Magento =
+experience.
+=20
+ Best regards,
+ The Magento Team
+=C2=A9 Magento 2017
+
+-
+
+------=_Part_-452312828_988507036.1491934524605
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>=20
+<title>Magento</title>=20
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+=20
+<meta name=3D"viewport" content=3D"width=3Ddevice-width; initial-scale=3D1.=
+0; maximum-scale=3D1.0;">     =20
+</head>=20
+<body bgcolor=3D"#FFFFFF" style=3D"margin:0px; padding:0px; ">
+ &nbsp;=20
+<style type=3D"text/css">
+    /* ********** webfont ********** */
+    @font-face {
+        font-family: 'Graphik';
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-R=
+egular.eot');
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-R=
+egular.eot?#iefix') format('embedded-opentype'),  url('https://info2.magent=
+o.com/rs/585-GGD-959/images/Graphik-Regular.woff2') format('woff2'),  url('=
+https://info2.magento.com/rs/585-GGD-959/images/Graphik-Regular.woff') form=
+at('woff'),  url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-R=
+egular.ttf') format('truetype'),  url('https://info2.magento.com/rs/585-GGD=
+-959/images/Graphik-Regular.svg#Graphik-Regular') format('svg');
+        font-weight: normal;
+        font-style: normal;
+    }
+    @font-face {
+        font-family: 'Graphik';
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-B=
+old.eot');
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-B=
+old.eot?#iefix') format('embedded-opentype'),  url('https://info2.magento.c=
+om/rs/585-GGD-959/images/Graphik-Bold.woff2') format('woff2'),  url('https:=
+//info2.magento.com/rs/585-GGD-959/images/Graphik-Bold.woff') format('woff'=
+),  url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Bold.ttf')=
+ format('truetype'),  url('https://info2.magento.com/rs/585-GGD-959/images/=
+Graphik-Bold.svg#Graphik-Bold') format('svg');
+        font-weight: bold;
+        font-style: normal;
+    }
+    @font-face {
+        font-family: 'Graphik';
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-L=
+ight.eot');
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-L=
+ight.eot?#iefix') format('embedded-opentype'),  url('https://info2.magento.=
+com/rs/585-GGD-959/images/Graphik-Light.woff2') format('woff2'),  url('http=
+s://info2.magento.com/rs/585-GGD-959/images/Graphik-Light.woff') format('wo=
+ff'),  url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Light.t=
+tf') format('truetype'),  url('https://info2.magento.com/rs/585-GGD-959/ima=
+ges/Graphik-Light.svg#Graphik-Light') format('svg');
+        font-weight: 300;
+        font-style: normal;
+    }
+    @media {
+        body {
+            font-family: 'Graphik', sans-serif !important;
+            font-weight:300 !important;
+        }
+        * {
+            font-family: 'Graphik', sans-serif !important;
+        }
+    }
+    /* ********** webfont end ********** */
+
+    body {
+        text-align: left;
+        font-family: Arial, Helvetica, sans-serif;
+        -webkit-text-size-adjust: none;
+        font-size: 16px;
+        line-height: 22px;
+        color: #626366;
+    }
+    * {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    img {
+        border: none;
+    }
+
+    a {
+        color:#26a2aa;
+    }
+
+    @media only screen and (max-width: 600px) {
+
+        #emailContainer img {
+            max-width:100%;
+            height:auto;
+        }
+
+        .table100 {
+            width: 100% !important;
+            float: none !important;
+        }
+        .respPad {
+            padding: 0 20px !important;
+        }
+        #altViewContainer {
+            padding: 17px 0 !important;
+        }
+        #logoContainer {
+            padding: 13px 0 !important;
+        }
+        #logo {
+            text-align: center !important;
+        }
+        .headlineCopy {
+            font-size: 24px !important;
+            line-height: 26px !important;
+            padding: 0 20px 0 !important;
+        }
+        #ctaContainer {
+            padding-top: 22px !important;
+        }
+        #cta_leftColPad {
+            padding: 0 !important;
+        }
+        #CTA_copy {
+            font-size: 24px !important;
+            line-height: 30px !important;
+        }
+        #cta_button {
+            width: 100% !important;
+        }
+        #cta_graphic_container {
+            display: none !important;
+        }
+        #ctaBTN {
+            padding: 16px 33px !important;
+        }
+        #footerContainer {
+            padding: 17px 0 !important;
+        }
+        .boxTable { height:50px !important;}
+        .boxContainer {
+            overflow:hidden !important;
+            text-align: left !important;
+            height: 50px !important;
+        }
+        .boxImage { float: left !important; width: 80px !important; text-al=
+ign: center!important; padding: 5px 0 !important;}
+        .boxImage img { max-height: 40px !important; width: auto !important=
+;}
+        .boxCopy { float: left !important; padding: 15px 0 !important;}
+        .boxRespPad {padding-bottom: 35px !important;}
+    }
+</style>=20
+<style type=3D"text/css">
+    @media (max-width:599px){.hide-md {display: none !important;}}
+</style>=20
+<div align=3D"center">=20
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"background:#fff; " class=3D"table100 mktoContainer" id=3D"emailContaine=
+r">
+<tr class=3D"mktoModule" id=3D"logo-module">=20
+<td id=3D"logoContainer" valign=3D"top" style=3D"padding:28px 0; border-top=
+:solid 1px #d8d9da; border-left:solid 1px #d8d9da; border-right:solid 1px #=
+d8d9da; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 34px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td style=3D"text-align:left; " id=3D"logo" class=3D"mktEditable"><img src=
+=3D"https://info2.magento.com/rs/585-GGD-959/images/magento-email-logo.png"=
+ height=3D"42" width=3D"152" alt=3D""></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"hero-module">=20
+<td valign=3D"top" style=3D"padding:0 0; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 0; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td background=3D"https://info2.magento.com/rs/585-GGD-959/images/MGO-2001-=
+hero.jpg" bgcolor=3D"#664888" width=3D"600" height=3D"170" valign=3D"top">=
+=20
+<!--[if gte mso 9]>
+                                        <v:rect xmlns:v=3D"urn:schemas-micr=
+osoft-com:vml" fill=3D"true" stroke=3D"false" style=3D"width:600px;height:1=
+70px;">
+                                            <v:fill size=3D"100%,100%" type=
+=3D"frame" src=3D"https://info2.magento.com/rs/585-GGD-959/images/MGO-2001-=
+hero.jpg" style=3D"width:600px;height:170px;" />
+                                            <v:textbox inset=3D"0,0,0,0">
+                                        <![endif]-->=20
+<div>=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" wi=
+dth=3D"530" height=3D"170" style=3D"width:530px; height:170px;" class=3D"ta=
+ble100">=20
+<tbody>=20
+<tr>=20
+<td class=3D"mktEditable headlineCopy" id=3D"headline" style=3D"color:#ffff=
+ff; font-size:36px; line-height:42px; font-weight:300; text-align:center; p=
+adding:0 20px 0; vertical-align:middle; height:170px;" valign=3D"middle" he=
+ight=3D"170">
+<div>
+2.1.6 Product Release
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</div>=20
+<!--[if gte mso 9]>
+                                        </v:textbox>
+                                        </v:rect>
+                                        <![endif]--> </td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"cta-module">=20
+<td id=3D"ctaContainer" valign=3D"top" style=3D"padding:0 0; border-left:so=
+lid 1px #d8d9da; border-right:solid 1px #d8d9da; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 0; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top">=20
+<!-- column 1 (left) -->=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" widt=
+h=3D"340" class=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:30px 0 0 30px; " id=3D"cta_leftColPad">=
+=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td id=3D"CTA_copy" class=3D"mktEditable" style=3D"font-size:28px; line-hei=
+ght:34px; font-weight:normal; color:#626366; padding-bottom:15px; ">
+<div>
+Release Accelerates Site Performance
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!-- column 2 (right) -->=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"right" wid=
+th=3D"200" class=3D"table100" id=3D"cta_graphic_container">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 17px 0 0; ">=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=20
+<tbody>=20
+<tr>=20
+<td id=3D"CTA_graphic" class=3D"mktEditable" valign=3D"top"><img src=3D"htt=
+ps://info2.magento.com/rs/585-GGD-959/images/MGO-999R-email-CTA_graphic-sho=
+rt.png" height=3D"100" width=3D"200" alt=3D""></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"main-fullWidth-module">=20
+<td valign=3D"top" style=3D"padding:35px 0 0; border-left:solid 1px #d8d9da=
+; border-right:solid 1px #d8d9da;">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 30px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td id=3D"bodyCopy2" class=3D"mktEditable" style=3D"padding:0 0 20px; font-=
+size:16px; line-height:22px; color:#626366; font-weight:300; ">
+<div>
+Building on recent product quality updates, we are pleased to announce that=
+ several exciting performance enhancements are now available in Community E=
+dition 2.1.6. The new release includes:
+<br>=20
+<br>
+</div>=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding: 0 5px 10px 0;">=E2=80=A2</td>=20
+<td style=3D"padding: 0 0 10px;"><strong>Quicker category page performance:=
+</strong> Loading configurable products is up to 5x faster, stock validatio=
+ns are 20% faster, and price calculations are 3-5% faster.</td>=20
+</tr>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding: 0 5px 10px 0;">=E2=80=A2</td>=20
+<td style=3D"padding: 0 0 10px;"><strong>Optimized image resizing:</strong>=
+ Reductions in the number of images requested improve image resizing perfor=
+mance by 30%. Effective caching of image metadata accelerates page loading =
+by up to 50%.</td>=20
+</tr>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding: 0 5px 0 0;">=E2=80=A2</td>=20
+<td style=3D"padding: 0 0 10px;"><strong>Improved layered navigation perfor=
+mance:</strong> Caching attribute options improves performance by 3%.</td>=
+=20
+</tr>=20
+</tbody>=20
+</table>=20
+<div>=20
+<p style=3D"margin-top: 10px;">Detailed release notes are posted <a href=3D
+"http://email2.magento.com/V0GK000si70D200GXlHHMq0" target=3D"_blank" style=
+=3D"color: #26a2aa; font-weight: normal;"
+>online</a> and the new software is available on the Community Edition <a h=
+ref=3D
+"http://email2.magento.com/SG0D2s00X0l0qGH0700iHLN" target=3D"_blank" id=3D=
+"" style=3D"color: #26a2aa; font-weight: normal;"
+>Download Page</a> and via Composer. As a best practice, be sure to install=
+ and test the release in a development environment before releasing into pr=
+oduction to avoid any disruption to your store. <br> <br> These performance=
+ updates augment new payment and admin usability features available in Comm=
+unity Edition 2.1. Upgrade today for an enhanced Magento experience.<br> <b=
+r> Best regards,<br> The Magento Team</p>=20
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"main-body-spacer-module">=20
+<td valign=3D"top" style=3D"padding:20px 0 0; border-left:solid 1px #d8d9da=
+; border-right:solid 1px #d8d9da;"></td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"maindBottomBorder-module">=20
+<td valign=3D"top" style=3D"padding:35px 0 0; border-left:solid 1px #d8d9da=
+; border-right:solid 1px #d8d9da; border-bottom:solid 1px #d8d9da; "></td>=
+=20
+</tr>
+<tr class=3D"mktoModule" id=3D"footer-module">=20
+<td id=3D"footerContainer" valign=3D"top" style=3D"padding:25px 0; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 20px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td id=3D"footer" class=3D"mktEditable" style=3D"text-align:center; font-si=
+ze:13px; color:#aeafb1; ">
+<div>
+=C2=A9 Magento 2017
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>
+</table>=20
+</div>=20
+<img src=3D"http://info.spearmarketing.com/rs/902-DBM-891/images/spacer.png=
+" class=3D"hide-md" border=3D"0" alt=3D"" width=3D"600" height=3D"1" hspace=
+=3D"0" vspace=3D"0" style=3D"width:600px;min-width:600px"> =20
+<a href=3D
+"http://email2.magento.com/DGOl00M0DG000i07Xq2H0sH"
+></a>
+<img src=3D"http://email2.magento.com/trk?t=3D1&mid=3DNTg1LUdHRC05NTk6NDA2N=
+zo3NDI1OjI4ODQ3OjA6ODE3MTo5OjEwNjU1OjUxNzAyMjM6bWFyY29AZGlnaXRhbGZvdG9pbWFn=
+ZW0uY29tLmJy" width=3D"1" height=3D"1" style=3D"display:none !important;" a=
+lt=3D"" />
+
+<br>
+</body>
+</html>
+------=_Part_-452312828_988507036.1491934524605--

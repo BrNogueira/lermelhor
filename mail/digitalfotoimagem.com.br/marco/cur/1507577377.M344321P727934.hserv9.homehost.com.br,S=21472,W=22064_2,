@@ -1,0 +1,592 @@
+Return-Path: <585-GGD-959.0.17747.0.0.9366.9.5170223@em-sj-77.mktomail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br with LMTP id kHGSESHO21l+GwsAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Mon, 09 Oct 2017 16:29:37 -0300
+Return-path: <585-GGD-959.0.17747.0.0.9366.9.5170223@em-sj-77.mktomail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Mon, 09 Oct 2017 16:29:37 -0300
+Received: from delapparentia.mktdns.com ([192.28.146.180]:40059)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <585-GGD-959.0.17747.0.0.9366.9.5170223@em-sj-77.mktomail.com>)
+	id 1e1dk8-0033hk-Tg
+	for marco@digitalfotoimagem.com.br; Mon, 09 Oct 2017 16:29:37 -0300
+X-MSFBL: bWFyY29AZGlnaXRhbGZvdG9pbWFnZW0uY29tLmJyQGR2cC0xOTItMjgtMTQ2LTE4
+	MEBiZy1zamQtMjg5QDU4NS1HR0QtOTU5OjY2MDg6ODM0NTozMzE2NzowOjkzNjY6
+	OToxNzc0Nzo1MTcwMjIz
+Received: from [10.0.87.249] ([10.0.87.249:43465] helo=sjmas01.marketo.org)
+	by sjmta09.marketo.org (envelope-from <info@magento.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTP
+	id 7D/6E-22276-2FDCBD95; Mon, 09 Oct 2017 14:28:50 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1507577330;
+	s=m1; d=magento.com; i=@magento.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=5U2UeJigKFMGYk6r2eO9AA8MxfSFuJqaZ9prGksVmcY=;
+	b=BziEwn4Mv47SyasZHXNsThYgRbOezAiuNZ0l718U9epV4HXswXVbSB1RKCRmFyLN
+	Sdu+9cz7JlCGWbOTBngYexPYA5fxOwvoIafh8USWFxL0jupPnDETZAAafwD0u0fa7Hy
+	TjqeOWq6orJhGfRAWhNxBBoIKO0iOJff0v9TDA90=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1507577330;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=5U2UeJigKFMGYk6r2eO9AA8MxfSFuJqaZ9prGksVmcY=;
+	b=bWTwNzGmjnaXN9LhdrDqNmUfBe9c23/rCS7mEj2YSQF/EN4qa2E9m31obtNWDl2E
+	2DFpqtOlE5dtRes4g6dd4wViJIRbqP7N68gt/R6QumHA494XjiFhVSxzjFOSZEsZH1Q
+	cs+8x/ogECY2IN0ZndgI9gfdlNgZtBp4iMe+ZVq0=
+Date: Mon, 9 Oct 2017 14:28:50 -0500 (CDT)
+From: Magento <info@magento.com>
+Reply-To: info@magento.com
+To: marco@digitalfotoimagem.com.br
+Message-ID: <906432134.1022539026.1507577330384.JavaMail.root@sjmas01.marketo.org>
+Subject: Join Us for a Magento Commerce 2.2 Webinar on October 11, 2017
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1022539025_113772052.1507577330384"
+X-Binding: bg-sjd-289
+X-MarketoID: 585-GGD-959:6608:8345:33167:0:9366:9:17747:5170223
+X-MktArchive: false
+X-Mailfrom: 585-GGD-959.0.17747.0.0.9366.9.5170223@em-sj-77.mktomail.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+
+------=_Part_1022539025_113772052.1507577330384
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0 <http://email2.magento.com/Ba00HG2Dq000l0SG006XHHs>
+New Tools for B2C and B2B Growth
+=C2=A0=C2=A0=C2=A0=C2=A0 Register Now <http://email2.magento.com/g900lqX0H2=
+0aGD0sG000KSH>=C2=A0=C2=A0=C2=A0=C2=A0
+October 11, 2017 at 8 a.m. PDT=20
+=20
+=20
+=20
+ Magento continues to push commerce boundaries with powerful new products a=
+nd capabilities. Our most recent release, Magento Commerce 2.2 is no except=
+ion. It combines rich, built-in B2B functionality with performance and depl=
+oyment enhancements, integrated Signifyd fraud protection, and Magento Soci=
+al marketing tools to deliver the industry=E2=80=99s leading B2C and B2B co=
+mmerce solution.=20
+=20
+Join us for a webinar on October 11, 2017 at 8 a.m. PDT where we will explo=
+re how Magento Commerce 2.2 can transform your customer experiences and spu=
+r new growth. Chris Hedge and Mark Brinton from our Product team will share=
+:=20
+=20
+=20
+=09- Feature highlights
+=20
+=09- In-depth product demo
+=20
+=09- Customer examples
+=20
+=09- Q&A
+=20
+ You don=E2=80=99t want to miss this chance to learn what Magento can do fo=
+r your business and see why we were just named a leader in The Forrester Wa=
+ve=E2=84=A2: B2B Commerce Suites for Midsize Organizations. Register Today!=
+ <http://email2.magento.com/g900lqX0H20aGD0sG000KSH>=20
+=20
+Best Regards,=20
+The Magento Team
+<p style=3D"mso-table-lspace: 0; mso-table-rspace: 0; margin: 0;">This emai=
+l was sent to you because you have agreed to receive information about our =
+services. We will only use your information in accordance with our privacy =
+policy. To unsubscribe from our commercial mailing list, please click <a st=
+yle=3D"text-decoration: none; font-weight: bold; color: #ef672f;" href=3D "=
+http://email2.magento.com/rl0a0D2S0GLX0qGaH00H0s0" >here</a>.<br /> Copyrig=
+ht&copy; 2017 Magento, Inc. All rights reserved. Magento, Inc. is located a=
+t <span class=3D"appleLinksGrey">10451 Jefferson Blvd., Culver City, CA 902=
+32</span></p>
+
+------=_Part_1022539025_113772052.1507577330384
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>=20
+<title>Magento</title>=20
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+=20
+<meta name=3D"viewport" content=3D"width=3Ddevice-width; initial-scale=3D1.=
+0; maximum-scale=3D1.0;">     =20
+</head>=20
+<body bgcolor=3D"#FFFFFF" style=3D"margin:0px; padding:0px; ">
+ &nbsp;=20
+<style type=3D"text/css">
+    /* ********** webfont ********** */
+    @font-face {
+        font-family: 'Graphik';
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-R=
+egular.eot');
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-R=
+egular.eot?#iefix') format('embedded-opentype'),  url('https://info2.magent=
+o.com/rs/585-GGD-959/images/Graphik-Regular.woff2') format('woff2'),  url('=
+https://info2.magento.com/rs/585-GGD-959/images/Graphik-Regular.woff') form=
+at('woff'),  url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-R=
+egular.ttf') format('truetype'),  url('https://info2.magento.com/rs/585-GGD=
+-959/images/Graphik-Regular.svg#Graphik-Regular') format('svg');
+        font-weight: normal;
+        font-style: normal;
+    }
+    @font-face {
+        font-family: 'Graphik';
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-B=
+old.eot');
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-B=
+old.eot?#iefix') format('embedded-opentype'),  url('https://info2.magento.c=
+om/rs/585-GGD-959/images/Graphik-Bold.woff2') format('woff2'),  url('https:=
+//info2.magento.com/rs/585-GGD-959/images/Graphik-Bold.woff') format('woff'=
+),  url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Bold.ttf')=
+ format('truetype'),  url('https://info2.magento.com/rs/585-GGD-959/images/=
+Graphik-Bold.svg#Graphik-Bold') format('svg');
+        font-weight: bold;
+        font-style: normal;
+    }
+    @font-face {
+        font-family: 'Graphik';
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-L=
+ight.eot');
+        src: url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-L=
+ight.eot?#iefix') format('embedded-opentype'),  url('https://info2.magento.=
+com/rs/585-GGD-959/images/Graphik-Light.woff2') format('woff2'),  url('http=
+s://info2.magento.com/rs/585-GGD-959/images/Graphik-Light.woff') format('wo=
+ff'),  url('https://info2.magento.com/rs/585-GGD-959/images/Graphik-Light.t=
+tf') format('truetype'),  url('https://info2.magento.com/rs/585-GGD-959/ima=
+ges/Graphik-Light.svg#Graphik-Light') format('svg');
+        font-weight: 300;
+        font-style: normal;
+    }
+    @media {
+        body {
+            font-family: 'Graphik', sans-serif !important;
+            font-weight:300 !important;
+        }
+        * {
+            font-family: 'Graphik', sans-serif !important;
+        }
+    }
+    /* ********** webfont end ********** */
+
+    body {
+        text-align: left;
+        font-family: Arial, Helvetica, sans-serif;
+        -webkit-text-size-adjust: none;
+        font-size: 16px;
+        line-height: 22px;
+        color: #626366;
+    }
+    * {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    img {
+        border: none;
+    }
+
+    a {
+        color:#26a2aa;
+    }
+
+    @media only screen and (max-width: 600px) {
+
+        #emailContainer img {
+            max-width:100%;
+            height:auto;
+        }
+
+        .table100 {
+            width: 100% !important;
+            float: none !important;
+        }
+        .respPad {
+            padding: 0 20px !important;
+        }
+        #altViewContainer {
+            padding: 17px 0 !important;
+        }
+        #logoContainer {
+            padding: 13px 0 !important;
+        }
+        #logo {
+            text-align: center !important;
+        }
+        .headlineCopy {
+            font-size: 24px !important;
+            line-height: 26px !important;
+            padding: 0 20px 0 !important;
+        }
+        #ctaContainer {
+            padding-top: 22px !important;
+        }
+        #cta_leftColPad {
+            padding: 0 !important;
+        }
+        #CTA_copy {
+            font-size: 24px !important;
+            line-height: 30px !important;
+        }
+        #cta_button {
+            width: 100% !important;
+        }
+        #cta_graphic_container {
+            display: none !important;
+        }
+        #ctaBTN {
+            padding: 16px 33px !important;
+        }
+        #footerContainer {
+            padding: 17px 0 !important;
+        }
+        .boxTable { height:50px !important;}
+        .boxContainer {
+            overflow:hidden !important;
+            text-align: left !important;
+            height: 50px !important;
+        }
+        .boxImage { float: left !important; width: 80px !important; text-al=
+ign: center!important; padding: 5px 0 !important;}
+        .boxImage img { max-height: 40px !important; width: auto !important=
+;}
+        .boxCopy { float: left !important; padding: 15px 0 !important;}
+        .boxRespPad {padding-bottom: 35px !important;}
+    }
+</style>=20
+<style type=3D"text/css">
+    @media (max-width:599px){.hide-md {display: none !important;}}
+</style>=20
+<div align=3D"center">=20
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"background:#fff; " class=3D"table100 mktoContainer" id=3D"emailContaine=
+r">
+<tr class=3D"mktoModule" id=3D"eyebrow-module">=20
+<td id=3D"altViewContainer" valign=3D"top" style=3D"padding:23px 0; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 20px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td id=3D"altViewCopy" class=3D"mktEditable" style=3D"text-align:center; fo=
+nt-size:13px; line-height:17px; color:#26a2aa; ">
+<div>=20
+<a href=3D
+"http://email2.magento.com/Ba00HG2Dq000l0SG006XHHs" style=3D"color: #26a2aa=
+; text-decoration: none;" target=3D"_blank"
+>&nbsp;</a>=20
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"logo-module">=20
+<td id=3D"logoContainer" valign=3D"top" style=3D"padding:28px 0; border-top=
+:solid 1px #d8d9da; border-left:solid 1px #d8d9da; border-right:solid 1px #=
+d8d9da; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 34px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td style=3D"text-align:left; " id=3D"logo" class=3D"mktEditable"><img src=
+=3D"https://info2.magento.com/rs/585-GGD-959/images/magento-email-logo.png"=
+ height=3D"42" width=3D"152" alt=3D""></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"hero-module">=20
+<td valign=3D"top" style=3D"padding:0 0; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 0; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td background=3D"https://info2.magento.com/rs/585-GGD-959/images/MGO-2001-=
+hero.jpg" bgcolor=3D"#664888" width=3D"600" height=3D"170" valign=3D"top">=
+=20
+<!--[if gte mso 9]>
+                                        <v:rect xmlns:v=3D"urn:schemas-micr=
+osoft-com:vml" fill=3D"true" stroke=3D"false" style=3D"width:600px;height:1=
+70px;">
+                                            <v:fill size=3D"100%,100%" type=
+=3D"frame" src=3D"https://info2.magento.com/rs/585-GGD-959/images/MGO-2001-=
+hero.jpg" style=3D"width:600px;height:170px;" />
+                                            <v:textbox inset=3D"0,0,0,0">
+                                        <![endif]-->=20
+<div>=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" wi=
+dth=3D"530" height=3D"170" style=3D"width:530px; height:170px;" class=3D"ta=
+ble100">=20
+<tbody>=20
+<tr>=20
+<td class=3D"mktEditable headlineCopy" id=3D"headline" style=3D"color:#ffff=
+ff; font-size:36px; line-height:42px; font-weight:300; text-align:center; p=
+adding:0 20px 0; vertical-align:middle; height:170px;" valign=3D"middle" he=
+ight=3D"170">
+<div>=20
+<br>=20
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</div>=20
+<!--[if gte mso 9]>
+                                        </v:textbox>
+                                        </v:rect>
+                                        <![endif]--> </td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"cta-module">=20
+<td id=3D"ctaContainer" valign=3D"top" style=3D"padding:0 0; border-left:so=
+lid 1px #d8d9da; border-right:solid 1px #d8d9da; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 0; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top">=20
+<!-- column 1 (left) -->=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" widt=
+h=3D"340" class=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:30px 0 0 30px; " id=3D"cta_leftColPad">=
+=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td id=3D"CTA_copy" class=3D"mktEditable" style=3D"font-size:28px; line-hei=
+ght:34px; font-weight:normal; color:#626366; padding-bottom:15px; ">
+<div>
+ New Tools for B2C and B2B Growth=20
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!-- column 2 (right) -->=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"right" wid=
+th=3D"200" class=3D"table100" id=3D"cta_graphic_container">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 17px 0 0; ">=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=20
+<tbody>=20
+<tr>=20
+<td id=3D"CTA_graphic" class=3D"mktEditable" valign=3D"top"><img src=3D"htt=
+ps://info2.magento.com/rs/585-GGD-959/images/MGO-999R-email-CTA_graphic-sho=
+rt.png" height=3D"100" width=3D"200" alt=3D""></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"button-module">=20
+<td valign=3D"top" style=3D"padding:10px 0 0; border-left:solid 1px #d8d9da=
+; border-right:solid 1px #d8d9da;">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 30px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td id=3D"buttonCopy">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" id=3D"button_module=
+_button">=20
+<tbody>=20
+<tr>=20
+<td style=3D"text-align:center; font-size:14px; line-height:18px; font-weig=
+ht:normal;">=20
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center" bgcolor=3D"#26A2AA" id=3D"BTN" class=3D"mktEditable" h=
+eight=3D"42">
+<div>
+ &nbsp;&nbsp;&nbsp;&nbsp;=20
+<a href=3D
+"http://email2.magento.com/I0a07G00XlHIqs2H0S0GD00" target=3D"_blank" style=
+=3D"padding: 12px 24px; font-size: 16px; font-family: Helvetica, Arial, san=
+s-serif; color: #ffffff; text-decoration: none; display: inline-block; line=
+-height: 16px;"
+>Register Now</a>&nbsp;&nbsp;&nbsp;&nbsp;=20
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"main-fullWidth-module">=20
+<td valign=3D"top" style=3D"padding:35px 0 0; border-left:solid 1px #d8d9da=
+; border-right:solid 1px #d8d9da;">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 30px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">=20
+<tbody>=20
+<tr>=20
+<td id=3D"bodyCopy2" class=3D"mktEditable" style=3D"padding:0 0 20px; font-=
+size:16px; line-height:22px; color:#626366; font-weight:300; ">
+<div>=20
+<strong>October 11, 2017 at 8 a.m. PDT</strong>=20
+<br>=20
+<br>=20
+</div>=20
+<div>
+ Magento continues to push commerce boundaries with powerful new products a=
+nd capabilities. Our most recent release, Magento Commerce 2.2 is no except=
+ion. It combines rich, built-in B2B functionality with performance and depl=
+oyment enhancements, integrated Signifyd fraud protection, and Magento Soci=
+al marketing tools to deliver the industry=E2=80=99s leading B2C and B2B co=
+mmerce solution.=20
+<br>=20
+<br>Join us for a webinar on October 11, 2017 at 8 a.m. PDT where we will e=
+xplore how Magento Commerce 2.2 can transform your customer experiences and=
+ spur new growth. Chris Hedge and Mark Brinton from our Product team will s=
+hare:=20
+<br>=20
+<ul>=20
+<li>Feature highlights<br></li>=20
+<li>In-depth product demo<br></li>=20
+<li>Customer examples<br></li>=20
+<li>Q&amp;A<br></li>=20
+</ul> You don=E2=80=99t want to miss this chance to learn what Magento can =
+do for your business and see why we were just named a leader in The Forrest=
+er Wave=E2=84=A2: B2B Commerce Suites for Midsize Organizations.=20
+<a href=3D
+"http://email2.magento.com/I0a07G00XlHIqs2H0S0GD00" target=3D"_blank" style=
+=3D"color: #26a2aa;"
+>Register Today!</a>=20
+<br>=20
+<br>Best Regards,=20
+<br>The Magento Team=20
+</div>=20
+<div>=20
+<br>=20
+</div></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"main-body-spacer-module">=20
+<td valign=3D"top" style=3D"padding:20px 0 0; border-left:solid 1px #d8d9da=
+; border-right:solid 1px #d8d9da;"></td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"maindBottomBorder-module">=20
+<td valign=3D"top" style=3D"padding:35px 0 0; border-left:solid 1px #d8d9da=
+; border-right:solid 1px #d8d9da; border-bottom:solid 1px #d8d9da; "></td>=
+=20
+</tr>
+<tr class=3D"mktoModule" id=3D"footer-module">=20
+<td id=3D"footerContainer" valign=3D"top" style=3D"padding:25px 0; ">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" style=3D"padding:0 20px; " class=3D"respPad">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" clas=
+s=3D"table100">=20
+<tbody>=20
+<tr>=20
+<td id=3D"footer" class=3D"mktEditable" style=3D"text-align:center; font-si=
+ze:9px; color:#aeafb1; line-height:12px; "><p style=3D"mso-table-lspace: 0;=
+ mso-table-rspace: 0; margin: 0;">This email was sent to you because you ha=
+ve agreed to receive information about our services. We will only use your =
+information in accordance with our privacy policy. To unsubscribe from our =
+commercial mailing list, please click <a style=3D"text-decoration: none; fo=
+nt-weight: bold; color: #ef672f;" href=3D "http://email2.magento.com/rl0a0D=
+2S0GLX0qGaH00H0s0" >here</a>.<br /> Copyright&copy; 2017 Magento, Inc. All =
+rights reserved. Magento, Inc. is located at <span class=3D"appleLinksGrey"=
+>10451 Jefferson Blvd., Culver City, CA 90232</span></p></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>=20
+</tbody>=20
+</table></td>=20
+</tr>
+</table>=20
+</div>=20
+<img src=3D"http://info.spearmarketing.com/rs/902-DBM-891/images/spacer.png=
+" class=3D"hide-md" border=3D"0" alt=3D"" width=3D"600" height=3D"1" hspace=
+=3D"0" vspace=3D"0" style=3D"width:600px;min-width:600px"> =20
+<a href=3D
+"http://email2.magento.com/hXHa8lG00G000HsSq020DJ0"
+></a>
+<img src=3D"http://email2.magento.com/trk?t=3D1&mid=3DNTg1LUdHRC05NTk6NjYwO=
+Do4MzQ1OjMzMTY3OjA6OTM2Njo5OjE3NzQ3OjUxNzAyMjM6bWFyY29AZGlnaXRhbGZvdG9pbWFn=
+ZW0uY29tLmJy" width=3D"1" height=3D"1" style=3D"display:none !important;" a=
+lt=3D"" />
+</body>
+</html>
+------=_Part_1022539025_113772052.1507577330384--

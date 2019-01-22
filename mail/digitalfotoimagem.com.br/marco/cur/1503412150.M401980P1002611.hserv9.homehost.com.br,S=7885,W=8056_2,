@@ -1,0 +1,171 @@
+Return-Path: <enghgomes@gmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id KZOTFbY/nFlzTA8AY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Tue, 22 Aug 2017 11:29:10 -0300
+Return-path: <enghgomes@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 22 Aug 2017 11:29:10 -0300
+Received: from mail-ua0-f194.google.com ([209.85.217.194]:38030)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <enghgomes@gmail.com>)
+	id 1dkAB4-004DlV-6Z
+	for marco@digitalfotoimagem.com.br; Tue, 22 Aug 2017 11:29:10 -0300
+Received: by mail-ua0-f194.google.com with SMTP id d12so1881798uag.5
+        for <marco@digitalfotoimagem.com.br>; Tue, 22 Aug 2017 07:28:47 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc;
+        bh=LAd+PCpWisaq8mR1r0bs/rGcCSei9WP8LjmDgaSlcoM=;
+        b=bFmojDNPebySNU/JHs4VGBOTe5sipLH4SM+ktQoTWxyHbPe2k1DHWgPP3xA6ZKUSaN
+         muLem944Q2osh2zfH68n8UeL8YAD+u8bDGxVAKXZ/dwSVrT2IOC/M210C7lteRv+1P7R
+         +D7SsOsDg2auvW6Ws2Urh3lhsO1x6Ezl4aJHMzHhT7V2uPrF0lQsAkqAYtNxWq1fEOul
+         1zp/IRsLpkQSCHSmL8UWe8pKWVwmYM4aKzKZLeDSgsRyepBPHAZCOF4PePUcyQNkvm8l
+         W6qRKEh70MlUM7NHDnNCL43mf/5WvBH2XIrxN1hxGHPreWotCBHox6RqWm5CILlUs9vQ
+         vtBg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:cc;
+        bh=LAd+PCpWisaq8mR1r0bs/rGcCSei9WP8LjmDgaSlcoM=;
+        b=tYV5DaewGU16U6rd12iu/e1cKxKT4UeURuvqaaEIU+UEV/w9ZBvrBvFWQ96GggX28h
+         OPRZx4uMNwMLuLMHhHG6snQfEXDlHJ3rgZuLRkTyPqaI40WKrxoD3lEGfkICNihCJti+
+         Ws+cXfY2pPXc5hVckG//WnY+pZ7ro9QTHteg6r8zEHjuIyaW3pmp89MNTKCxx0ikWvEP
+         yfE+mF7EWwwhGf3HHy+RvgSvCGVX0XuklRCSjbCLbYIY0bnZ+i30OEoruA/6dUMQ2vLB
+         ihmaHcUabEpyMgTgnaihDBHtRHeWir7FpgBLeyJVCheq6GDnmSyjiSUOXUjofU8Epnt4
+         TcJg==
+X-Gm-Message-State: AHYfb5iIuWaF5USxxO/Z20khvUIONIKy7Ro07zlTOPvDaa8sQH195u3g
+	xfAnpO6BYf0JVOIvOC6EFOjG+0Wycg==
+X-Received: by 10.176.64.166 with SMTP id i35mr580992uad.42.1503412105187;
+ Tue, 22 Aug 2017 07:28:25 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.159.48.131 with HTTP; Tue, 22 Aug 2017 07:28:24 -0700 (PDT)
+In-Reply-To: <05e001d31b4c$e02f7f70$a08e7e50$@com.br>
+References: <005501d30c0a$390dac40$ab2904c0$@com.br> <048901d31449$8cf3ea80$a6dbbf80$@com.br>
+ <05e001d31b4c$e02f7f70$a08e7e50$@com.br>
+From: hideraldo <enghgomes@gmail.com>
+Date: Tue, 22 Aug 2017 11:28:24 -0300
+Message-ID: <CAOYwM3MynAhWXcmhWG=3qUAbbGucc-BuBv8YwQW3=3oUL1vBjA@mail.gmail.com>
+Subject: =?UTF-8?B?UmU6IFBhcmFiw6lucyDDoCBWb2PDqiwgV2FuZGVybGV5ISEh?=
+To: Egoshi da CTT3843 <ctt3843@egoshi.com.br>
+Cc: Wanderley Santana dos Santos <wanderleyssamtos@gmail.com>, 
+	Andre Luis Pereira de Godoi <andrelpgodoi@gmail.com>, Antonio Finardi <ma.finardi@hotmail.com>, 
+	Antonio Celso Tessari <celsotessari@gmail.com>, Antonio Kossei Takara <takar2@terra.com.br>, 
+	=?UTF-8?Q?Benedito_Carlos_Flam=C3=ADnio?= <carlos.flaminio@gmail.com>, 
+	Carlos Mave de Campos Assis <cmave96@gmail.com>, =?UTF-8?Q?Carlos_Rosseti_=28Kak=C3=A1=29?= <carlos.rossetti@uol.com.br>, 
+	=?UTF-8?Q?Dem=C3=A9trio_Muniz_Pendek?= <demetriopendek@hotmail.com>, 
+	Eduardo Camacho <eduardocamacho@uol.com.br>, Eduardo Lopes <ebernardinolopes@uol.com.br>, 
+	Ernani Flausino <ernani.flausino@terra.com.br>, 
+	Everth Alves Bonavolonta <everth@mixlav.com.br>, =?UTF-8?Q?F=C3=A1bio_Roberto_Faria?= <szfaria@gmail.com>, 
+	Fernando Ziesmann Fortes <fernandozf@hotmail.com>, Gilberto Campos <gdcampos@uol.com.br>, 
+	=?UTF-8?Q?H=C3=A9lio_Alvarez_Felix?= <helioamandara@uol.com.br>, 
+	Humberto de Oliveira Serrano <humberto.serrano@hotmail.com>, Jair Airton Felix <j.felix10@bol.com.br>, 
+	Johannes Kozlowski <jkozlowski@uol.com.br>, =?UTF-8?Q?Jos=C3=A9_Carlos_de_Lima?= <jcl@tech-air.com.br>, 
+	=?UTF-8?Q?J=C3=BAlio_Cesar_Mattos_de_Faria?= <mattosfaria@terra.com.br>, 
+	Marcilio Marques Testa <mmtesta43@gmail.com>, Marco Antonio Patriniani <marckopat@live.com>, 
+	=?UTF-8?Q?Marco_Ant=C3=B4nio_Pedrosa_Parise?= <marco@digitalfotoimagem.com.br>, 
+	Marcus Welbi <marcuswelbi@crivodarazao.org.br>, Natanael Costa <ncosta@usa.com>, 
+	Nelson Pendek <nelpendek@hotmail.com>, 
+	"Ricardo C. A. Carvalho" <ricardocarvalho930@gmail.com>, 
+	=?UTF-8?Q?Sebasti=C3=A3o_Rubens_Costa?= <rubens@linart.com.br>, 
+	=?UTF-8?Q?S=C3=A9rgio_Fosque?= <sergio@aresultado.adm.br>, 
+	Silvio Verdiani <sverdiani@terra.com.br>, Sylvio Quintino Junior <squintinoj@gmail.com>, 
+	Wladimir Viveiro <wviveiro@live.com>, Wellington Alfano Rodrigues Silva <alfanohi@gmail.com>, 
+	Marcelo Eloy Fernandes <marceloeloyfernandes@gmail.com>
+Content-Type: multipart/alternative; boundary="94eb2c1243b27b17e30557586861"
+
+--94eb2c1243b27b17e30557586861
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Parab=C3=A9ns , Felicidades muitas alegrias, que seus dias sejam concebidos=
+ de
+muita luz e sabedoria proporcionado por toda espiritualidade e GADU o
+proteja
+
+
+
+
+*Eng. Hideraldo R. GomesF: **(11) 994389244*
+
+
+
+
+Em 22 de agosto de 2017 10:45, Egoshi da CTT3843 <ctt3843@egoshi.com.br>
+escreveu:
+
+> Parab=C3=A9ns por Tr=C3=AAs Vezes pelo seu anivers=C3=A1rio, Querido Ir\W=
+anderley!!!
+>
+>
+>
+> =C3=80 voc=C3=AA Querido Ir\ Wanderley e =C3=A0 toda sua fam=C3=ADlia, en=
+sejamos nossos mais
+> sinceros votos de felicidade e sucesso na vida em fam=C3=ADlia!!!
+>
+>
+>
+> Fraternalmente
+>
+>
+>
+>
+>
+>
+>
+> ---
+> Este email foi escaneado pelo Avast antiv=C3=ADrus.
+> https://www.avast.com/antivirus
+>
+
+--94eb2c1243b27b17e30557586861
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Parab=C3=A9ns , Felicidades muitas alegrias, que seus dias=
+ sejam concebidos de muita luz e sabedoria proporcionado por toda espiritua=
+lidade e GADU o proteja</div><div class=3D"gmail_extra"><br clear=3D"all"><=
+div><div class=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div =
+dir=3D"ltr"><div><span></span><span></span><font color=3D"#006600"><em><fon=
+t face=3D"times new roman,serif"><font style=3D"background-color:rgb(255,25=
+5,255)"><b>Eng. Hideraldo R. Gomes</b><br><br><br>F: </font></font></em><sp=
+an style=3D"color:rgb(0,102,0)"><font face=3D"times new roman,serif" style=
+=3D"background-color:rgb(255,255,255)"><em>(11)=C2=A0994389244</em></font><=
+/span></font></div>
+<blockquote style=3D"margin-right:0px" dir=3D"ltr"><div><font color=3D"#006=
+600" face=3D"times new roman,serif" style=3D"background-color:rgb(255,255,2=
+55)"><blockquote style=3D"margin:0px 0px 0px 0.8ex;padding-left:1ex;border-=
+left-color:rgb(204,204,204);border-left-width:1px;border-left-style:solid">=
+=C2=A0</blockquote></font></div></blockquote></div></div></div>
+<br><div class=3D"gmail_quote">Em 22 de agosto de 2017 10:45, Egoshi da CTT=
+3843 <span dir=3D"ltr">&lt;<a href=3D"mailto:ctt3843@egoshi.com.br" target=
+=3D"_blank">ctt3843@egoshi.com.br</a>&gt;</span> escreveu:<br><blockquote c=
+lass=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;=
+padding-left:1ex">Parab=C3=A9ns por Tr=C3=AAs Vezes pelo seu anivers=C3=A1r=
+io, Querido Ir\Wanderley!!!<br>
+<br>
+<br>
+<br>
+=C3=80 voc=C3=AA Querido Ir\ Wanderley e =C3=A0 toda sua fam=C3=ADlia, ense=
+jamos nossos mais<br>
+sinceros votos de felicidade e sucesso na vida em fam=C3=ADlia!!!<br>
+<br>
+<br>
+<br>
+Fraternalmente<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+---<br>
+Este email foi escaneado pelo Avast antiv=C3=ADrus.<br>
+<a href=3D"https://www.avast.com/antivirus" rel=3D"noreferrer" target=3D"_b=
+lank">https://www.avast.com/<wbr>antivirus</a><br>
+</blockquote></div><br></div>
+
+--94eb2c1243b27b17e30557586861--

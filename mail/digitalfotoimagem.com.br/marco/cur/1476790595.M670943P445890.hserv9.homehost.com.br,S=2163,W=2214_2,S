@@ -1,0 +1,51 @@
+Return-Path: <helpdesk@homehost.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id iBJ8J0MJBljCzQYAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Tue, 18 Oct 2016 09:36:35 -0200
+Return-path: <helpdesk@homehost.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 18 Oct 2016 09:36:35 -0200
+Received: from mailalt.homehost.com.br ([177.85.98.241]:39405)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <helpdesk@homehost.com.br>)
+	id 1bwSh9-001rvK-F1
+	for marco@digitalfotoimagem.com.br; Tue, 18 Oct 2016 09:36:35 -0200
+Received: from homehost-admin2 (www.homehost.com.br [177.184.2.204])
+	(using TLSv1.2 with cipher DHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by mailalt.homehost.com.br (Postfix) with ESMTPS id 97123544496C
+	for <marco@digitalfotoimagem.com.br>; Tue, 18 Oct 2016 09:33:03 -0200 (BRST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=homehost.com.br;
+	s=defaultkey; t=1476790384;
+	bh=84KQ5jnT3TOrFK8uaqIMdr/tpJFdfxT0la5z2V07GTw=;
+	h=Date:To:From:Subject;
+	b=25mu0MRQnYbK2groRQkNABVcvLT6ba/7JfWxT39YjhsAw0gLlUmLUWO2Ka9PJvRj/
+	 7i2AIts9CSfZSq4k2g9SBkJhqze+h60a8tIRP7J+Vmyr9As5svx51EoSIrt3yfj4zo
+	 rMQgvZmU6fyC/JR9jv1iev7sD/c10xwkAtNmpTWI=
+Date: Tue, 18 Oct 2016 09:36:24 -0200
+To: marco@digitalfotoimagem.com.br
+From: Homehost <helpdesk@homehost.com.br>
+Subject: =?windows-1250?Q?Em_tratamento_[#1542685]_-_Bom_dia,_meu_dominio_=C3=A9_d?=
+ =?windows-1250?Q?igitalfotoimagem.com.br?=
+Message-ID: <b55514b9f42d83e69f5a73e980b0585c@homehost-admin2>
+X-Mailer: PHPMailer 5.2.15 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=windows-1250
+Content-Transfer-Encoding: 8bit
+
+ATENCAO: NAO RESPONDA A ESTE EMAIL.
+
+Seu chamado #1542685 esta em tratamento! Um de nossos analistas ja esta trabalhando nele.
+
+Em breve lhe responderemos por e-mail com uma solucao.
+
+O prazo de resposta varia de acordo com a complexidade do pedido e tambem com a fila de atendimentos.
+
+
+
+Atenciosamente,
+Helpdesk Homehost
+
+

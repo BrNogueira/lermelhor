@@ -1,0 +1,32 @@
+<?php
+$aLang['The form was not submitted for the following reasons:'] = 'Η φόρμα αυτή δεν στάλθηκε για τους ακόλουθους λόγους:';
+$aLang['Please click'] = 'Παρακαλω πατήστε';
+$aLang['here'] = 'εδώ';
+$aLang['to return to the form and try again.'] = 'για να επιστρέψετε στη φορμα και να δοκιμάσετε ξανά.';
+$aLang['Missing:'] = 'Ελειπείς:';
+$aLang['Could not find online form configuration file ID='] = 'Δεν μπορουν να βρεθουν online οι ρυθμίσεις για την φορμα με ID αρχείου=';
+$aLang[' for RV SiteBuilder formmail.'] = ' για RV SiteBuilder φορμα εμαιλ.';
+$aLang['I NEED VALID RECIPIENT EMAIL ADDRESS'] = 'ΧΡΕΙΑΖΕΤΑΙ ΜΙΑ ΕΓΚΡΥΡΗ ΔΙΕΥΘΥΝΣΗ EMAIL ΠΑΡΑΛΗΠΤΗ';
+$aLang['TO CONTINUE</b>'] = 'ΓΙΑ ΣΥΝΕΧΕΙΑ</b>';
+$aLang['your <b>email address'] = 'το δικο σας <b>email';
+$aLang['</b> is invalid.'] = '</b> ειναι μη εγκυρο.';
+$aLang['your <b>zip/postal code</b> is invalid'] = 'ο δικος σας <b>ΤΚ</b> δεν ειναι εγκυρος';
+$aLang['your <b>phone number</b> is invalid'] = 'το δικο σας <b>τηλέφωνικο νούμερο</b> δεν ειναι εγκυρο';
+$aLang['your <b>fax number</b> is invalid'] = 'το δικο σας <b>τηλεφωνικο fax</b> δεν ειναι εγκυρο';
+$aLang['Thank you for submitting your enquiry'] = 'Ευχαριστούμε για την προσθήκη των παρατηρησεων σας, θα επικοινωνησουμε μαζί σας το συντομότερο.';
+$aLang['This form is powered by '] = 'Η φορμα αυτή ειναι στηριζόμενη από ';
+$aLang['Please use your browser back button to return to the form and try again.'] = 'Παρακαλω χρησιμοποιειστε το πληκτρο ΠΙΣΩ στον φυλλομετρητη σας για να επιστρεψετε στη φορμα και να δοκιμασετε ξανα.';
+$aLang['This form is powered by'] = 'Η φορμα αυτή ειναι στηριζόμενη από';
+$aLang['You are using from a <b>banned email address.</b>'] = 'Εσεις χρησιμοποιειτε ενα <b>μπλοκαρισμενο email.</b>';
+$aLang['You are coming from an'] = 'Εσεις προερχεστε απο ενα';
+$aLang['You are coming from an <b>unauthorized domain.</b>'] = 'Εσεις ερχοσαστε απο ενα <b>μη εξουσιοδοτημενο domain.</b>';
+$aLang['Spam mail detected.'] = 'Εντοπιστηκε Spam mail.';
+$aLang['Your message never be sent.'] = 'Το μηνυμα σας δεν θα σταλει ποτε.';
+$aLang['If you accidentally get this error, please contact us for the resolution.'] = 'Εαν εσεις νομιζετε οτι εγινε καποιο λαθος επικοινωνηστε μαζι μας για να βρεθει λύση.';
+$aLang['This was an INVALID submission. You have acted like a spambot!'] = 'Αυτη ειναι μια ΜΗ ΕΓΚΡΥΡΗ προσθηκη. Εσεις μιάζετε με ενα spambot!';
+$aLang['Cannot connect to sendmail server'] = 'Αδυναμια συνδεσης με τον sendmail server.';
+$aLang['Sending email from'] = 'Αποστολη email από';
+$aLang['to'] = 'το';
+$aLang['failed'] = 'αποτυχές';
+$aLang['Sorry, your admin disable send mail.'] = 'Sorry, your admin disable send mail.';
+?>

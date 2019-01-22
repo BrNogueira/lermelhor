@@ -1,0 +1,335 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201212 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2017                
+POS_TIME 2677                
+POS_VISITOR 7280                
+POS_DAY 8117                
+POS_DOMAIN 3346                
+POS_LOGIN 3603                
+POS_ROBOT 3758                
+POS_WORMS 4018                
+POS_EMAILSENDER 4149                
+POS_EMAILRECEIVER 4292                
+POS_SESSION 8647                
+POS_SIDER 8853                
+POS_FILETYPES 4427                
+POS_DOWNLOADS 4592                
+POS_OS 4640                
+POS_BROWSER 4715                
+POS_SCREENSIZE 4894                
+POS_UNKNOWNREFERER 4968                
+POS_UNKNOWNREFERERBROWSER 5055                
+POS_ORIGIN 5137                
+POS_SEREFERRALS 5272                
+POS_PAGEREFS 5436                
+POS_SEARCHWORDS 5584                
+POS_KEYWORDS 5807                
+POS_MISC 2341                
+POS_ERRORS 5930                
+POS_CLUSTER 3459                
+POS_SIDER_404 6028                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130101092333 5 575 9928372883868
+FirstTime 0
+LastTime 20121230213921
+LastUpdate 20130101102754 5 0 4 0 0
+TotalVisits 55                  
+TotalUnique 20                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 20                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 9 59 49167
+1 1 1 0 4 37 36540
+2 0 0 0 2 33 20782
+3 0 0 0 6 34 135013
+4 0 0 0 4 9 32429
+5 0 0 0 2 6 28481
+6 0 0 0 5 20 158810
+7 3 3 5291 11 34 147172
+8 4 4 1292 8 37 175323
+9 3 3 1292 6 49 72278
+10 1 1 646 7 39 45369
+11 4 4 5937 6 44 67420
+12 7 7 1292 12 109 77234
+13 5 5 1292 6 53 78768
+14 5 5 646 13 77 94128
+15 4 4 0 14 142 83373
+16 11 66 1699890 4 74 1248
+17 3 3 8474 10 62 2735
+18 3 30 380315 5 53 48941
+19 4 4 1938 10 57 83804
+20 12 85 729053 6 107 242307
+21 4 29 380310 10 137 77573
+22 4 4 1292 8 80 117923
+23 4 4 0 7 93 186256
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+br 77 232 2820886
+cn 3 3 11228
+us 2 27 386846
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+googlebot 156 144273 20121230193920 0
+msnbot\-media 90 1795907 20121231205852 0
+bot[\s_+:,\.\;\/\\-] 43 108228 20121231005559 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 14 29260 0 0
+php 5 89414 0 0
+html 77 96140 0 0
+jpg 152 2986652 0 0
+js 5 16148 0 0
+gif 9 1346 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 4
+winlong 4
+winxp 165
+j2me 26
+win7 67
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 8
+msie8.0 41
+chrome13.0.782.107 1
+firefox10.0 1
+firefox16.0 51
+msie9.0 65
+chrome23.0.1271.97 10
+opera9.80 26
+chrome23.0.1271.95 67
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 64 64
+From1 0 0
+From2 4 4
+From3 0 0
+From4 14 194
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 1 1
+bing 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+fo+email+loc+br 2
+image+email+loc+br 1
+digitalfotoimagem.com.bremail 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 6
+email 3
+br 3
+loc 3
+fo 2
+digitalfotoimagem.com.bremail 1
+image 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+301 59 14666
+404 183 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 14
+/dou2/images/bullet01.gif 3 http://www.digitalfotoimagem.com.br/dou2/Filosofia-da-empresa.php
+/robots.txt 152 -
+/3rdparty/rvsitebuilder/themes/default/sitebuilder/images/line.gif 3 http://www.digitalfotoimagem.com.br/dou2/Filosofia-da-empresa.php
+/3rdparty/rvsitebuilder/themes/default/sitebuilder/images/bghead.gif 3 http://www.digitalfotoimagem.com.br/dou2/Filosofia-da-empresa.php
+/ESCOLA/1.HTML 1 -
+/IGREJA/1.HTML 1 -
+/dou2/images/bullet03.gif 3 http://www.digitalfotoimagem.com.br/dou2/Filosofia-da-empresa.php
+/index.swf 7 http://www.digitalfotoimagem.com.br/
+/EMAIL.HTML 1 -
+/Fundo2.png 1 http://digitalfotoimagem.com.br/email.html
+/ANIVERSARIO/ANIVERSARIO.HTML 1 -
+/dou2/images/bullet02.gif 3 http://www.digitalfotoimagem.com.br/dou2/Filosofia-da-empresa.php
+/CASAMENTO/PAGINACASAMENTO.HTML 1 -
+/3rdparty/rvsitebuilder/themes/default/sitebuilder/images/bghead02.gif 3 http://www.digitalfotoimagem.com.br/dou2/Filosofia-da-empresa.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 20
+187.38.240.112 17 17 1292 20121218223657
+187.9.235.167 10 38 813659 20121218083656
+201.55.31.107 10 65 797332 20121217204846
+187.9.235.165 8 21 598516 20121221125007
+187.38.240.136 7 7 646 20121207010006
+177.176.11.218 6 51 313974 20121215203031
+187.38.227.154 5 5 0 20121220164719
+187.38.224.207 3 3 646 20121222114913
+187.37.5.159 3 3 646 20121227220721
+187.9.235.166 3 17 292883 20121210093656
+183.12.143.42 1 1 5291 20121211074221
+141.0.10.223 1 26 378372 20121230213921
+201.6.74.79 1 1 646 20121202210715
+187.38.197.179 1 1 0 20121201140419
+183.13.151.123 1 1 646 20121216133334
+201.55.31.66 1 1 646 20121211194339
+187.37.6.171 1 1 0 20121207225915
+187.38.243.251 1 1 0 20121224123017
+219.134.150.5 1 1 5291 20121216112944
+23.21.25.99 1 1 8474 20121220174249
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20121201 1 1 0 1
+20121202 1 1 646 1
+20121203 5 5 646 2
+20121204 11 66 1700536 4
+20121205 1 1 646 1
+20121206 2 2 0 2
+20121207 7 35 415079 5
+20121210 1 1 646 1
+20121211 3 3 6583 3
+20121212 3 30 380961 2
+20121213 8 8 646 3
+20121214 4 4 1292 4
+20121215 7 52 314620 2
+20121216 2 2 5937 2
+20121217 6 6 646 4
+20121218 5 5 1292 4
+20121219 2 2 0 2
+20121220 4 4 8474 4
+20121221 2 2 646 2
+20121222 2 2 646 1
+20121224 1 1 0 1
+20121226 2 2 0 2
+20121227 1 1 646 1
+20121230 1 26 378372 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+5mn-15mn 1
+0s-30s 46
+15mn-30mn 1
+2mn-5mn 2
+30s-2mn 1
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 16
+/email/ 59 14858 45 47
+/ 5 42370 5 2
+/email.html 3 15873 2 2
+/dou2/Filosofia-da-empresa.php 2 45918 0 0
+/dou2/Eventos.php 2 22726 0 1
+/casamento/paginafoto14.html 1 438 0 1
+/dou2/ 1 17276 1 0
+/casamento/paginacasamento.html 1 2048 0 0
+/casamento/paginafoto1a.html 1 449 1 1
+/casamento/paginafoto1.html 1 449 1 0
+/casamento/paginafoto5.html 1 597 0 0
+/casamento/paginafoto9.html 1 449 0 0
+/casamento/paginafoto8.html 1 440 0 0
+/casamento/paginafoto3a.html 1 443 0 0
+/dou2/Servi%C3%A7os.php 1 20770 0 0
+/casamento/paginafoto12.html 1 450 0 1
+END_SIDER

@@ -1,0 +1,243 @@
+Return-Path: <humberto.serrano@hotmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id 4cwyFq7oh1ng0QgAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Mon, 07 Aug 2017 01:12:30 -0300
+Return-path: <humberto.serrano@hotmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Mon, 07 Aug 2017 01:12:30 -0300
+Received: from mail-oln040092014074.outbound.protection.outlook.com ([40.92.14.74]:14670 helo=NAM05-DM3-obe.outbound.protection.outlook.com)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <humberto.serrano@hotmail.com>)
+	id 1deZP4-002R4E-05
+	for marco@digitalfotoimagem.com.br; Mon, 07 Aug 2017 01:12:30 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=T6ZTLUnYDSvXQnOUP48dyzz+AmZwnxqaqgIZjItKC9o=;
+ b=U1Yc9vNTpEB3oKfSxDcMDWnvuNSog9oI+j3CZdLv4mVmPh3FafEnC66MXbkMtsKTp8EmyssQKIkFu2d5yQWptnj6Mn6jEp0cYzsVDJ2WWwuarUZUikhSgq73YGAWbME6UjPaKbBofouNcxzjG/Aln1ecBlCtLIRIMlDi+0QCEXsMmJjLs2IPoEwIMYVud2AxTyECx91iIcUqCgWaNMEyESlMjAxWKtxxxAKqAsI9XQhRVT3jNYvt7QO7+TwyS0BdZCJN8zQPuyev8KSHdBlMtc/kvG1YWmSpe7eTosBAdFDmWjlKe81sDmuN+EnS/yws0rE0h3vPqYyFSSC1EThkvA==
+Received: from BY2NAM05FT030.eop-nam05.prod.protection.outlook.com
+ (10.152.100.56) by BY2NAM05HT236.eop-nam05.prod.protection.outlook.com
+ (10.152.101.181) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.1304.16; Mon, 7
+ Aug 2017 04:11:39 +0000
+Received: from DM5PR19MB1180.namprd19.prod.outlook.com (10.152.100.59) by
+ BY2NAM05FT030.mail.protection.outlook.com (10.152.100.167) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id 15.1.1304.16 via
+ Frontend Transport; Mon, 7 Aug 2017 04:11:38 +0000
+Received: from DM5PR19MB1180.namprd19.prod.outlook.com ([10.173.214.144]) by
+ DM5PR19MB1180.namprd19.prod.outlook.com ([10.173.214.144]) with mapi id
+ 15.01.1320.017; Mon, 7 Aug 2017 04:11:38 +0000
+From: Serrano HO <humberto.serrano@hotmail.com>
+To: "Wanderley Samtos .'." <wanderleyssamtos@gmail.com>
+CC: Andre Luis Pereira de Godoi <andrelpgodoi@gmail.com>, "celso@gmail.com"
+	<celso@gmail.com>, marcelo finardi <ma.finardi@hotmail.com>, "Antonio Kossei
+ Takara" <takar2@terra.com.br>, =?iso-8859-1?Q?Ben=EA?=
+	<carlos.flaminio@gmail.com>, Carlos Mave <cmave96@gmail.com>,
+	"carlos.rossetti@uol.com.br" <carlos.rossetti@uol.com.br>,
+	=?iso-8859-1?Q?DEM=C9TRIO?= <demetriopendek@hotmail.com>,
+	"eduardocamacho@uol.com.br" <eduardocamacho@uol.com.br>,
+	"ebernardinolopes@uol.com.br" <ebernardinolopes@uol.com.br>,
+	"ernani.flausino@terra.com.br" <ernani.flausino@terra.com.br>, EVERTH
+	<everth@mixlav.com.br>, =?iso-8859-1?Q?F=E1bio_Faria?= <szfaria@gmail.com>,
+	"fernandozf@hotmail.com" <fernandozf@hotmail.com>, GILBERTO CAMPOS
+	<gdcampos@uol.com.br>, =?iso-8859-1?Q?H=E9lio_Alvarez_Felix?=
+	<helioamandara@uol.com.br>, hideraldo gomes <enghgomes@gmail.com>,
+	"j.felix10@bol.com.br" <j.felix10@bol.com.br>, Johannes Kozlowski
+	<jkozlowski@uol.com.br>, "jcl@tech-air.com.br" <jcl@tech-air.com.br>,
+	=?iso-8859-1?Q?J=FAlio_Cesar_Mattos_de_Faria?= <mattosfaria@terra.com.br>,
+	Egoshi da CTT3843 <ctt3843@egoshi.com.br>, Marcelo Eloy
+	<marceloeloyfernandes@gmail.com>, Marcilio Testa <mmtesta43@gmail.com>,
+	=?iso-8859-1?Q?Marco_Ant=F4nio_Pedrosa_Parise?=
+	<marco@digitalfotoimagem.com.br>, "agenda@coachingpravoce.com.br"
+	<agenda@coachingpravoce.com.br>, Marco Ppatriniani <marckopat@live.com>,
+	Marcus Welbi <marcuswelbi@crivodarazao.org.br>, "ncosta@usa.com"
+	<ncosta@usa.com>, "nelpendek@hotmail.com" <nelpendek@hotmail.com>, "RICARDO C
+ A CARVALHO" <ricardocarvalho930@gmail.com>, "rubens@linart.com.br"
+	<rubens@linart.com.br>, =?iso-8859-1?Q?A=E7=E3o_e_Resultado?=
+	<sergio@aresultado.adm.br>, "squintinoj@gmail.com" <squintinoj@gmail.com>,
+	Silvio Verdiani <sverdiani@terra.com.br>, Wellington Alfano Rodrigues Silva
+	<alfanohi@gmail.com>, ". '. Wladimir Viveiro" <wviveiro@live.com>
+Subject: =?iso-8859-1?Q?Re:_ANIVERS=C1RIO_9_ANOS_TEMPL=C1RIOS_DA_PAZ?=
+Thread-Topic: =?iso-8859-1?Q?ANIVERS=C1RIO_9_ANOS_TEMPL=C1RIOS_DA_PAZ?=
+Thread-Index: AQHTDtobqdzO/bbfvEyo75rmCVaLDKJ4RwIo
+Date: Mon, 7 Aug 2017 04:11:38 +0000
+Message-ID: <DM5PR19MB1180D1B8D49904F95C00745D89B50@DM5PR19MB1180.namprd19.prod.outlook.com>
+References: <CAD5DfqBsFuud4XrYrUuXN0FvdJcWitBQFHG4beN7EEskuzxM2w@mail.gmail.com>
+In-Reply-To: <CAD5DfqBsFuud4XrYrUuXN0FvdJcWitBQFHG4beN7EEskuzxM2w@mail.gmail.com>
+Accept-Language: pt-BR, en-US
+Content-Language: pt-BR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: gmail.com; dkim=none (message not signed)
+ header.d=none;gmail.com; dmarc=none action=none header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:CFE7295A9CED389434320B2F31BDB9F6C7AC6E0B2A61AFE9D0E8520A5198648F;UpperCasedChecksum:0C25F5B1E0B7B1ED3942E30F6682A2AA480F9AD4D2EEA5C874ECDF14AEA56B98;SizeAsReceived:9223;Count:47
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [h0fhr4mUWsNdzm2oD5+8yGp8n7LE5SAS]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;BY2NAM05HT236;7:I8vsE4mbcudRucFVZ61HZ7gQvZB5abIMx3TbTBvFdqhlWxe5FizbkFe/fBB6FZg+E6nqQfxoQ3jeyi5NxPDsZQYhlLsU4q3D/qzlzaRdjZ3S8ph8MPKL1dPo2CyxtVAKWeyeEsI0w4/s3SABWjWTNs5Mjf71Eo7OSaljhiWCk9SSYQiGrW5r3cZbiEvEPfCSZ6aj5eIwVMIz5bolco2ZVh8o5csvdAGsg3Nmwp37WxJKYtQVhfFLWy2q5vNsMg2EYK+ctyw+Rolux1R88BReVNGkTU9O+nRhNbnzOlx01B3TnFqRzY/L+y6qRohqdNM0r5Jy9rPD0423u+DQ8Q+dWaekaRe4mwdlZ7zC2Jpnr0yssxQriCy8pqdTXNhjGnsWIAaPRSnhGdcEXoymk9zYBYtM7m1vcF+oQPnlO7GlTZjk3IuixBDN1LK/OVhryZemHKPwgHspjr+0VKEzfgPTpV85jhnLQcMI9bymDZ4biWEzA6TFz1QNufsj0UdkXVsjj7BnGoTVCbPjGK8EZNGBDzpN7d86R+DNL0ldOo8BQZ4wfmGjccq+lZ5DExbQd3a+rM/kUXoqKRDwfM3dVaS9byJWPyA6aRAeG3t+9lL6LErKHz+x/LXCQPCsCEAchFK7aQPXxrO6Hi+hyQsqr+M16PuyaV58U3pJIYobU/kNPZJFRtmyVLzqYIO7gs+wxHOPfAJs6hYXyUUcbhXEX/1TelywTlwVITZcJG3cvwh+U7h4H2RKnWP70jtVj0Nppy1vq478g+LSPFSr3IAI3R6DIw==
+x-incomingheadercount: 47
+x-eopattributedmessage: 0
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:BY2NAM05HT236;H:DM5PR19MB1180.namprd19.prod.outlook.com;FPR:;SPF:None;LANG:;
+x-ms-office365-filtering-correlation-id: ea42fb68-77f1-4986-ac82-08d4dd4a66c7
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(300000500095)(300135000095)(300000501095)(300135300095)(22001)(300000502095)(300135100095)(300000503095)(300135400095)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(201702181274)(2017031322377)(1601125374)(1603101448)(1701031045)(300000504095)(300135200095)(300000505095)(300135600095)(300000506095)(300135500095);SRVR:BY2NAM05HT236;
+x-ms-exchange-slblob-mailprops: wSipExTYQ2iaXWZLnvvnlb6WyIJulPhsQOQgYTiC+kI+AoBawSMoM18aBa0ndXPneZQT8tKP6F9O6r6tuZzmVGXqWlesy94YzebplQsZfMgRApwPaRoEzU8Zwona/ogPuR9XuGVbISqilof7JzwntEEq9lxz73pYXg8s58mAKzsBPYqZgYxZKlaGh2FP1buM/uqe+ZAu7pb5CXWFtcqnwI6CR2+nM7Ta+Nydh0zb4VvgzTiJub8lR3+T3KtevE7t1VikP6mnjucd6NMzmmImSSbHlJkfLAiYlZGUnKVhMdej5+QxGJOupiaXsYFjxord6DsR67D6kvWzuVwstZC7dnPyddoMdys98DqdCuGlyph4kdUCkjG9QQN0m6SgQ9kcx2a4akCRTlx9w4FhZf1MouoOqSx7Inib42+SGIXr/y7kMCRWRQ1j80Us/duhDksezbiQe3u4ntD1aVIsMX0/p6SZAH9DWDv1YvSKIO5odisyHXgsyMkupx9qC9NOE05yf9iVZe3EfO8l5aLcmAPJsicXWTIaT8Eo29zYUwpkjcJ9ycIusAfwFKqwBpuO1zBF0f16CvVw8FGIzjyMu81NmvAG+osIAr4Uxc3YF5Uvp3OKOa/fH8mTJRSMvAf0P/LGYfEVjxg2Y5G3ILbgIru/WRUkWdZoR9Cv8tVtX6rlIC+GYOPBX/gqsNnX7xzQi5MWt18anImCNj4HyTheUq1+aKxkxi2s6WQrpZW2ct/itfStgMUG+7jUeg==
+x-ms-traffictypediagnostic: BY2NAM05HT236:
+x-exchange-antispam-report-test: UriScan:(133860501914079)(95041927836929)(166494164430575)(194151415913766)(118468524641650);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(444000031);SRVR:BY2NAM05HT236;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:BY2NAM05HT236;
+x-forefront-prvs: 0392679D18
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_DM5PR19MB1180D1B8D49904F95C00745D89B50DM5PR19MB1180namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 07 Aug 2017 04:11:38.6512
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2NAM05HT236
+
+--_000_DM5PR19MB1180D1B8D49904F95C00745D89B50DM5PR19MB1180namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Caro Ir.'. Wanderley, bom dia!
+
+N=F3s =E9 que agradecemos a participa=E7=E3o de voc=EAs, agradecemos tamb=
+=E9m a
+
+colabora=E7=E3o e o esp=EDrito de solidariedade que todos demonstraram.
+
+Foi uma noite em que eu e minha esposa ficamos muito felizes
+
+por poder recepcion=E1-los e desfrutar da agrad=E1vel companhia de
+
+meus IIr.'. e seus familiares que se fizeram presentes.
+
+Nosso melhor fraternal abra=E7o =E0 todos.
+
+Serrano e Ana Tell
+
+________________________________
+De: Wanderley Samtos .'. <wanderleyssamtos@gmail.com>
+Enviado: domingo, 6 de agosto de 2017 14:33:23
+Cc: Andre Luis Pereira de Godoi; celso@gmail.com; marcelo finardi; Antonio =
+Kossei Takara; Ben=EA; Carlos Mave; carlos.rossetti@uol.com.br; DEM=C9TRIO;=
+ eduardocamacho@uol.com.br; ebernardinolopes@uol.com.br; ernani.flausino@te=
+rra.com.br; EVERTH; F=E1bio Faria; fernandozf@hotmail.com; GILBERTO CAMPOS;=
+ H=E9lio Alvarez Felix; hideraldo gomes; humberto.serrano@hotmail.com; j.fe=
+lix10@bol.com.br; Johannes Kozlowski; jcl@tech-air.com.br; J=FAlio Cesar Ma=
+ttos de Faria; Egoshi da CTT3843; Marcelo Eloy; Marcilio Testa; Marco Ant=
+=F4nio Pedrosa Parise; agenda@coachingpravoce.com.br; Marco Ppatriniani; Ma=
+rcus Welbi; ncosta@usa.com; nelpendek@hotmail.com; RICARDO C A CARVALHO; ru=
+bens@linart.com.br; A=E7=E3o e Resultado; squintinoj@gmail.com; Silvio Verd=
+iani; Wanderley Samtos.'.; Wellington Alfano Rodrigues Silva; . '. Wladimir=
+ Viveiro
+Assunto: ANIVERS=C1RIO 9 ANOS TEMPL=C1RIOS DA PAZ
+
+Prezados.'. IIr.'. primeiro lugar muito bom dia um excelente final de seman=
+a na companhia dos seus familiares e agradecer e especialmente ao Ir.'. Ser=
+rano excelente recep=E7=E3o no jantar de anivers=E1rio do TEMPL=C1RIOS DA P=
+AZ, sem esquecer tamb=E9m a gostosa carona do Ir.'. Andr=E9,que se mostrou =
+est=E1 em P.'. e Ord.'.
+TFA.'.
+Wanderley dos Samtos .'.
+accounting expertise
+wanderleyssamtos@gmail.com<mailto:wanderleyssamtos@gmail.com>
+wanderleysamtos.blogspot.com.br<http://wanderleysamtos.blogspot.com.br>
+011-96323.11.10
+O homem de bem exige tudo de si pr=F3prio, o
+med=EDocre espera tudo dos outros(Conf=FAcio)
+
+--_000_DM5PR19MB1180D1B8D49904F95C00745D89B50DM5PR19MB1180namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+</head>
+<body>
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p>Caro Ir.'. Wanderley, bom dia!</p>
+<p>N=F3s =E9 que agradecemos a participa=E7=E3o de voc=EAs, agradecemos tam=
+b=E9m a</p>
+<p>colabora=E7=E3o e o esp=EDrito de solidariedade que todos demonstraram.<=
+/p>
+<p>Foi uma noite em que eu e minha esposa ficamos muito felizes&nbsp;</p>
+<p>por poder recepcion=E1-los e desfrutar da agrad=E1vel companhia de</p>
+<p>meus IIr.'. e seus familiares que se fizeram presentes.</p>
+<p>Nosso melhor fraternal abra=E7o =E0 todos.</p>
+<p>Serrano e Ana Tell</p>
+</div>
+<hr style=3D"display:inline-block;width:98%" tabindex=3D"-1">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" st=
+yle=3D"font-size:11pt" color=3D"#000000"><b>De:</b> Wanderley Samtos .'. &l=
+t;wanderleyssamtos@gmail.com&gt;<br>
+<b>Enviado:</b> domingo, 6 de agosto de 2017 14:33:23<br>
+<b>Cc:</b> Andre Luis Pereira de Godoi; celso@gmail.com; marcelo finardi; A=
+ntonio Kossei Takara; Ben=EA; Carlos Mave; carlos.rossetti@uol.com.br; DEM=
+=C9TRIO; eduardocamacho@uol.com.br; ebernardinolopes@uol.com.br; ernani.fla=
+usino@terra.com.br; EVERTH; F=E1bio Faria;
+ fernandozf@hotmail.com; GILBERTO CAMPOS; H=E9lio Alvarez Felix; hideraldo =
+gomes; humberto.serrano@hotmail.com; j.felix10@bol.com.br; Johannes Kozlows=
+ki; jcl@tech-air.com.br; J=FAlio Cesar Mattos de Faria; Egoshi da CTT3843; =
+Marcelo Eloy; Marcilio Testa; Marco
+ Ant=F4nio Pedrosa Parise; agenda@coachingpravoce.com.br; Marco Ppatriniani=
+; Marcus Welbi; ncosta@usa.com; nelpendek@hotmail.com; RICARDO C A CARVALHO=
+; rubens@linart.com.br; A=E7=E3o e Resultado; squintinoj@gmail.com; Silvio =
+Verdiani; Wanderley Samtos.'.; Wellington
+ Alfano Rodrigues Silva; . '. Wladimir Viveiro<br>
+<b>Assunto:</b> ANIVERS=C1RIO 9 ANOS TEMPL=C1RIOS DA PAZ</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<div dir=3D"ltr"><b><font size=3D"4">Prezados.'. IIr.'. primeiro lugar muit=
+o bom dia um excelente final de semana na companhia dos seus familiares e a=
+gradecer e especialmente ao Ir.'. Serrano excelente recep=E7=E3o no jantar =
+de anivers=E1rio do TEMPL=C1RIOS DA PAZ, sem
+ esquecer tamb=E9m a gostosa carona do Ir.'. Andr=E9,que se mostrou est=E1 =
+em P.'. e Ord.'.</font></b>
+<div><b><font size=3D"4">TFA.'.</font></b> &nbsp;<br clear=3D"all">
+<div>
+<div class=3D"gmail_signature" data-smartmail=3D"gmail_signature">
+<div dir=3D"ltr">
+<div>
+<div dir=3D"ltr">
+<div style=3D"color:rgb(51,51,51);font-family:sans-serif,Arial,Verdana,&quo=
+t;Trebuchet MS&quot;;font-size:13px;line-height:20.8px">
+<em><span style=3D"font-family:&quot;courier new&quot;,courier"><strong>Wan=
+derley dos Samtos .'.</strong></span></em></div>
+<div style=3D"color:rgb(51,51,51);font-family:sans-serif,Arial,Verdana,&quo=
+t;Trebuchet MS&quot;;font-size:13px;line-height:20.8px">
+<em><span style=3D"font-family:&quot;courier new&quot;,courier"><strong>acc=
+ounting expertise</strong></span></em></div>
+<font face=3D"courier new, courier"><span style=3D"font-size:13px;line-heig=
+ht:20.8px"><b><i><a href=3D"mailto:wanderleyssamtos@gmail.com" target=3D"_b=
+lank">wanderleyssamtos@gmail.com</a></i></b></span></font><br>
+<div style=3D"color:rgb(51,51,51);font-family:sans-serif,Arial,Verdana,&quo=
+t;Trebuchet MS&quot;;font-size:13px;line-height:20.8px">
+<em><span style=3D"font-family:&quot;courier new&quot;,courier"><a href=3D"=
+http://wanderleysamtos.blogspot.com.br" target=3D"_blank">wanderleysamtos.b=
+logspot.com.br</a><br>
+<strong>011-96323.11.10<br>
+O homem de bem exige tudo de si pr=F3prio,&nbsp;o<br>
+med=EDocre espera tudo dos outros(Conf=FAcio)</strong></span></em></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_DM5PR19MB1180D1B8D49904F95C00745D89B50DM5PR19MB1180namp_--

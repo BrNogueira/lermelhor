@@ -1,0 +1,315 @@
+Return-Path: <mailer@infusionmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id OQQtMklX71hIKAcAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Thu, 13 Apr 2017 07:47:37 -0300
+Return-path: <mailer@infusionmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 13 Apr 2017 07:47:37 -0300
+Received: from mta-c-24-56.infusionmail.com ([208.76.24.56]:18653)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <mailer@infusionmail.com>)
+	id 1cycHp-001zXR-8N
+	for marco@digitalfotoimagem.com.br; Thu, 13 Apr 2017 07:47:37 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=joaopaulopereira.com.br; s=dfe90749-152e-4612-a458-816e7e1cfef0;
+	t=1492080413; i=@joaopaulopereira.com.br;
+	bh=ZfVMU59hX6D67IvlTt7EQlMO1+w=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	b=Ac8ffkSOP+jd+oKWE40pySTODIu6yiE58vk+OfyDHxDVuRuT4J8Kcty7MF9AipqVx
+	 7DhJ5iiXKmZZdOA6daJHgABrXkXZT00OWtibX6WEQjydjF8ws30Uck9B1HuZ6N9Y3u
+	 66xuQe7oV9oB6o8dg9gfUbzXkLHrF0pDA9I6LTK4=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=infusionmail.com;
+	s=dkim1024; t=1492080413; i=@infusionmail.com;
+	bh=ZfVMU59hX6D67IvlTt7EQlMO1+w=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	b=wE/8zhLXUUlQwXLcd1MzK4kxlZXsJ9YM2Lzpa3NU/WiwYomz9W+Rmfbqz5106cYwI
+	 X3v35KWL7HIyfyM6DLLkbU9dnpYUeymDNknCLUuN55qiEaoHCUbpbBj3D47y7bG/nH
+	 0ov6Qj5Bqc3GU/xu2QgzMZYn7qg0H7xqC80iggCg=
+Received: from [10.0.0.229] ([10.0.0.229:54580] helo=chase)
+	by phxme1 (envelope-from <mailer@infusionmail.com>)
+	(ecelerity 3.6.12.50134 r(Core:3.6.12.0)) with ESMTP
+	id C9/A9-58378-D175FE85; Thu, 13 Apr 2017 06:46:53 -0400
+Date: Thu, 13 Apr 2017 06:46:52 -0400 (EDT)
+From: =?utf-8?Q?Jo=C3=A3o_Paulo_Pereira?= <suporte@joaopaulopereira.com.br>
+To: marco@digitalfotoimagem.com.br
+Message-ID: <852629631.2211121492080412273.JavaMail.tomcat@chase>
+Subject: =?utf-8?Q?Aula_02_+_Planilha_Gr=C3=A1tis...?=
+Errors-To: mailer@infusionmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_221353_471278031.1492080412272"
+X-MailSentId: 101090
+X-campaignid: infusion_fz253101090
+Feedback-ID: fz253:fz253_19048:primer
+X-BatchId: 19048
+X-InfApp: fz253
+X-InfContact: 253144
+X-InfSent: 7056366
+X-inf-QETT: 0
+X-inf-package: primer
+X-inf-uflags: UE
+X-inf-iflags: UE
+List-Unsubscribe: <https://fz253.infusionsoft.com/app/optOut/noConfirm/7056366/e625faf3406f4fe5>
+X-inf-dkimSelector: dfe90749-152e-4612-a458-816e7e1cfef0
+Pool-Version: 2
+Pool-Name: default_primer
+X-Message-Id: C9/A9-58378-D175FE85
+
+------=_Part_221353_471278031.1492080412272
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+This email was sent as HTML-only. To view it, please visit:
+https://fz253.infusionsoft.com/app/hostedEmail/7056366/e625faf3406f4fe5
+------=_Part_221353_471278031.1492080412272
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--><title></title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700italic,700|Open+Sans:400,400italic,700,700italic|Lato:400,400italic,700,700italic);
+</style>
+<style type="text/css">
+#outlook a {padding: 0;}
+.ReadMsgBody, .ExternalClass {width: 100%;}
+.ExternalClass * {line-height: 100%;}
+body { background-color: #ffffff; margin: 0; padding: 0;
+-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+table, td { border-collapse:collapse;
+mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+img { border: 0; height: auto; line-height: 100%;
+outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; }
+.column {display: inline-block; width: 100%;
+text-align: left; vertical-align: top; }
+@media only screen and (min-width:480px) {
+.column-100, * [aria-labelledby='column-100'] {
+width: 100% !important; display: inline-block;
+text-align: left; vertical-align: top; }
+.column-50, * [aria-labelledby='column-50'] {
+width: 50% !important; display: inline-block;
+text-align: left; vertical-align: top; }
+.column-33, * [aria-labelledby='column-33'] {
+width: 33% !important; display: inline-block;
+text-align: left; vertical-align: top; }}
+@media only screen and (max-width:479px) {
+.socialBlock, td.imageBlock, .buttonBlock,
+.alignmentContainer { text-align: center !important }
+.alignmentContainer table { margin-right: auto;
+margin-left: auto;}}
+</style>
+</head><body style="background:#ffffff">
+<div style="background:#ffffff">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]--><div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" align="center" border="0">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]--><div class="column column-100" aria-labelledby="column-100">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif;
+ font-size: 15px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+Ok! O vídeo 02 com a explicação detalhada sobre Como descobrir onde seu público comprador está... 
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<a href="https://fz253.infusionsoft.com/app/linkClick/14804/6735703a581b1ede/7056366/e625faf3406f4fe5" class="bard-text-block style-scope" style="color: rgb(43, 170, 223); padding: 0px; margin: 0px; line-height: 1.6;" target="_blank">http://joaopaulopereira.com.br/lp/aula-como-descobrir-mais-detalhes-do-seu-publico-atraves-do-facebook/</a>
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px 0px; line-height: 1.6;">
+ Nesse vídeo você verá um exemplo prático de como funciona o Audience Insights, uma ferramenta gratuita do Facebook que te ajuda a descobrir onde exatamente o seu público
+ comprador está, e ainda te ajuda a descobrir a forma correta de comunicação com eles. 
+<br />
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]--><div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" align="center" border="0">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]--><div class="column column-100" aria-labelledby="column-100">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px;
+ padding: 0px; text-align: center;" class="alignmentContainer">
+<a href="https://fz253.infusionsoft.com/app/linkClick/14802/85a4ea757572490a/7056366/e625faf3406f4fe5" target="_blank" style="margin-left: auto; margin-right: auto;"><img src="https://d1yoaun8syyxxt.cloudfront.net/fz253-c76a2f6d-1749-427e-98c5-d1465d4344b3-v2" alt="image" style="font-family: 'Helvetica','Arial','sans-serif'; font-size: 20px; width: 91%;" width="546" /></a>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]--><div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" align="center" border="0">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0"
+ cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td style="vertical-align:top;width:600px;">
+<![endif]--><div class="column column-100" aria-labelledby="column-100">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 15px; text-align: left;">
+<div>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 0px 0px 13px; line-height: 1.6;">
+Você irá descobrir também o Principal horário, o que ele gosta e como chegar até seu cliente gastando menos e vendendo mais... 
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+...além de entender o por que o Facebook é a melhor ferramenta para você vender online. 
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52,
+ 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Eu sugiro fortemente que você domine o Facebook e as estratégias para gerar 
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+resultados rápidos e aprenda como fazer isso diariamente. 
+<br />
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Comece a estudar imediatamente o vídeo 02: 
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+<a href="https://fz253.infusionsoft.com/app/linkClick/14800/e9088e449819b844/7056366/e625faf3406f4fe5" class="bard-text-block style-scope" style="color: rgb(43, 170, 223); padding: 0px; margin:
+ 0px; line-height: 1.6;" target="_blank">http://joaopaulopereira.com.br/lp/aula-como-descobrir-mais-detalhes-do-seu-publico-atraves-do-facebook/</a>
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size:
+ 15px; padding: 0px; margin: 13px 0px; line-height: 1.6;">
+Grande abraço,
+</p>
+<p class="bard-text-block style-scope" style="color: rgb(52, 52, 52); font-family: 'Trebuchet MS',Helvetica,sans-serif; font-size: 15px; padding: 0px; margin: 13px 0px 0px; line-height: 1.6;">
+João Paulo Pereira
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]--><!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<![endif]--><div style="max-width: 600px; background: rgb(255, 255, 255) none repeat scroll 0% 0%;">
+<table style="font-size: 0px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%;" cellspacing="0" cellpadding="0" align="center" border="0">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0px;">
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]--><!--[if mso]>
+<td
+ style="vertical-align:top;width:600px;">
+<![endif]--><div class="column column-100" aria-labelledby="column-100">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="overflow-wrap: break-word; font-size: 0px; padding: 15px; text-align: left;" class="alignmentContainer">
+<div style="margin-left: auto; margin-right: auto;">
+<p style="font-family: 'Trebuchet MS',Helvetica,sans-serif; padding: 0px; margin: 0px 0px 13px; line-height: 1.6; color: rgb(153, 153, 153); font-size: 11px;">
+<a href="https://fz253.infusionsoft.com/app/linkClick/14794/c7a806e67d7fc7fc/7056366/e625faf3406f4fe5" target="_blank" style="text-decoration: underline; padding: 0px; margin: 0px; line-height: 1.6; color: rgb(153, 153, 153);">Se você, deseja não receber mais meus emails, clique em: Remover</a>
+</p>
+<p style="font-family: 'Trebuchet MS',Helvetica,sans-serif; padding: 0px; margin: 13px 0px 0px; line-height: 1.6; color: rgb(153, 153, 153); font-size: 11px;">
+João Paulo Pereira Rua Benedito Valadares Pará de Minas, Minas Gerais 35660000 Brazil
+</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td><![endif]--><!--[if
+ mso]>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div><!--[if mso]>
+</td>
+</tr>
+</table><![endif]-->
+</div>
+<img height="1" width="1" style="display: block;" src="https://fz253.infusionsoft.com/app/emailOpened/7056366/19048"></body>
+</html>
+------=_Part_221353_471278031.1492080412272--
+

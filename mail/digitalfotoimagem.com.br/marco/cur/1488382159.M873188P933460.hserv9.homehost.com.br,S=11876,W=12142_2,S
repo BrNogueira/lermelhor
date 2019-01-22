@@ -1,0 +1,266 @@
+Return-Path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id QfnxM8/otlhUPg4AY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Wed, 01 Mar 2017 12:29:19 -0300
+Return-path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Wed, 01 Mar 2017 12:29:19 -0300
+Received: from e.gospmail.org.br ([177.139.181.238]:42325 helo=gospmail.org.br)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>)
+	id 1cj6Br-003v1B-5L
+	for marco@digitalfotoimagem.com.br; Wed, 01 Mar 2017 12:29:19 -0300
+Received: from localhost (e [127.0.0.1])
+	by gospmail.org.br (Postfix) with ESMTP id C29BE1CE0BA5
+	for <marco@digitalfotoimagem.com.br>; Wed,  1 Mar 2017 12:28:33 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at gospmail.org.br
+X-Amavis-Alert: BAD HEADER SECTION, Non-encoded 8-bit data (char E7 hex):
+	List-ID: Educa\347\343o e Cultura
+Received: from gospmail.org.br ([127.0.0.1])
+	by localhost (gospmail.org.br [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 4Qxe2eaVdg7I; Wed,  1 Mar 2017 12:28:33 -0300 (BRT)
+Received: from o3.jiveon.jivesoftware.com (o3.jiveon.jivesoftware.com [167.89.36.126])
+	by gospmail.org.br (Postfix) with ESMTPS id A20941CE1011
+	for <288380@gospmail.org.br>; Wed,  1 Mar 2017 12:28:32 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=jiveon.jivesoftware.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-id; 
+	s=smtpapi; bh=1wfr7ellpBezTaL7xu2ZO8Rmgdo=; b=Wh8zDTwNun53drZwAP
+	S15HOajh648qUbRoqTf8dSwcTx3UQ04gDPvlCRiIsH2go9I1lGLJHSBmLr8GcIOU
+	0ULcvWH1hZF5jAPzmv6M6cbxv0xfwEb+MNMNSGHwimzQscfVid4pANSitCabrgyx
+	ySNP6194dVIsGRkfMaBsEmH0A=
+Received: by filter0346p1las1.sendgrid.net with SMTP id filter0346p1las1-27787-58B6E89A-9A
+        2017-03-01 15:28:26.91007599 +0000 UTC
+Received: from jiveon-mx3-out.phx1.jivehosted.com (jiveon-mail.phx1.jivehosted.com [204.93.64.13])
+	by ismtpd0002p1sjc2.sendgrid.net (SG) with ESMTP id sPekM35bQSSILyYcs_LJww
+	for <288380@gospmail.org.br>; Wed, 01 Mar 2017 15:28:26.760 +0000 (UTC)
+Received: from gosp-x-jc-t-wa02.dynphx1.jivehosted.com (ip53-vlb1-services.phx1.jivehosted.com [10.160.25.53])
+	by jiveon-mx3-out.phx1.jivehosted.com (Postfix) with ESMTP id 81F51250D8
+	for <288380@gospmail.org.br>; Wed,  1 Mar 2017 15:28:26 +0000 (GMT)
+Date: Wed, 01 Mar 2017 12:28:26 -0300
+From: 234458 <gosp-x@jiveon.com>
+Reply-To: jive-1136178504-7qj-2x-xe8@mail.gosp-x.jiveon.com
+To: Marco Parise <288380@gospmail.org.br>
+Message-ID: <2700-39111-3-8732-1488382036587.jive.jivemailuser@https://gosp-x.jiveon.com>
+Subject: =?UTF-8?Q?Coment=C3=A1rio_marcado_como_=C3=BAtil_em_Comparao_de_Ritos.doc?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_49975_1090874441.1488382106528"
+Auto-Submitted: auto-replied
+X-Auto-Response-Suppress: OOF
+List-ID: Educação e Cultura
+Content-Disposition: inline
+X-Jive-Office: jive-1136178504-7qj-2x-xe8@mail.gosp-x.jiveon.com
+X-SG-EID: MC+mAxPPER372lmDFdFHyMxARzYmaHZCEvHbMx1UJ2itTjx04xngx8h+4RXNsZTre5r4S1nsPVXzhc
+ 9YuhBSx8RAI7FQNNolXEHjU6t00r44Qcmf7y3BzEmrIninCAYILzDn5I8G/9fodol/SAyc7mbyZNq6
+ cOF2ENTPLiAY+7Hi2kq0BIFto38EjyP/VvEfudaAf0OZf8PuSWmsZyQJ5Q==
+X-SG-ID: 6Iv2lwEhBxW0L1FeqtuSgBOmISLrKUu9Fa/YMNgnbEH468Pyla8dQZzQztp4ixfGci8/7TRpUp+05v
+ 9IrcpmsSjm8M7cE1Pg31qMW90irNSQ38yQ+934yt1n6dolnNNc
+
+------=_Part_49975_1090874441.1488382106528
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_49974_1111947269.1488382106528"
+
+------=_Part_49974_1111947269.1488382106528
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+Wagner Fancio marcou o pr=C3=B3prio coment=C3=A1rio sobre Comparao de Ritos=
+.doc como =C3=BAtil.
+
+--------------------------------------------------------------
+Marcou como =C3=BAtil:
+Meu resp.=E2=80=99. irm.=E2=80=99. , realmente =C3=A9 uma bela pe=C3=A7a de=
+ arquitetura.....
+Agrade=C3=A7o ao valoroso irm.=E2=80=99. por nos proporcionar uma leitura m=
+aravilhosa e aumentar nossos conhecimentos....
+Obrigado por compartilhar...
+T=E2=88=B4 F=E2=88=B4 A=E2=88=B4
+--------------------------------------------------------------
+
+
+Este e-mail foi enviado pela REDE SOCIAL DO GOSP porque voc=C3=AA =C3=A9 um=
+ usu=C3=A1rio registrado.
+Voc=C3=AA pode cancelar a assinatura agora mesmo em https://gosp-x.jiveon.c=
+om/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0=
+ee232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c ou ajustar a frequ=C3=AA=
+ncia de e-mail nas prefer=C3=AAncias do seu e-mail (https://gosp-x.jiveon.c=
+om/user-preferences!input.jspa).
+
+------=_Part_49974_1111947269.1488382106528
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+=09
+	<title></title>
+	<style type=3D"text/css">
+    * {
+		margin: 0;
+		padding: 0;
+	}
+	a {
+		color: #3778C7 !important;
+	}
+	body {
+		font-family: Helvetica, Arial, sans-serif;
+		-webkit-text-size-adjust: 100%;
+	}
+	/* Webkit */
+	h1, h2, h3, h4, h5, h6, p, hr {
+		-webkit-margin-before: 0;
+		-webkit-margin-after: 0;
+		-webkit-margin-start: 0;
+		-webkit-margin-end: 0;
+	}
+	.button td {
+		background-image: -moz-linear-gradient(top, #75B7E3 0%, #5498D6 50%, #408=
+BD0 51%, #387AC8 100%) !important;
+		background-image: -webkit-gradient(linear, left top, left bottom, color-s=
+top(0%,#75B7E3), color-stop(50%,#5498D6), color-stop(51%,#408BD0), color-st=
+op(100%,#387AC8)) !important;
+		-webkit-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !impo=
+rtant;
+		-moz-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !importa=
+nt;
+	}
+	</style>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+</head>
+<body style=3D"width:100% !important; -webkit-font-smoothing: antialiased; =
+-webkit-text-size-adjust: 100%;">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff=
+" width=3D"100%" style=3D"background-color: #ffffff; margin: 0; padding: 0;=
+">
+		<tbody>
+			<tr>
+				<td style=3D"padding: 20px 20px 20px 20px;">
+<table class=3D"header" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wi=
+dth=3D"100%">
+	<tbody>
+		<tr>
+			<td valign=3D"top" align=3D"left">
+				<h1 style=3D"color: #333333; margin: 0 0 20px 0; font-weight: normal; f=
+ont-size: 24px; font-family: Helvetica, Arial, sans-serif; text-shadow: rgb=
+a(255,255,255,.9) 0 1px 0;">
+					<!-- To have a header image/logo replace the name below with your img =
+tag -->
+					<!-- Email clients will render the images when the message is read so =
+any image -->
+					<!-- must be made available on a public server, so that all recipients=
+ can load the image. -->
+					<a href=3D"https://gosp-x.jiveon.com/?et=3Dwatches.email.outcome" styl=
+e=3D"color:#333333 !important; text-decoration: none;">
+							<font color=3D"#333333" style=3D"color:#333333;">REDE SOCIAL DO GOSP=
+</font>
+					</a>
+				</h1>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class=3D"content" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ff=
+ffff" border=3D"0" width=3D"100%" style=3D"width: 100%; -moz-border-radius:=
+ 8px; -webkit-border-radius: 8px; border-radius: 8px;">
+	<tbody>
+		<tr>
+			<td valign=3D"middle" style=3D"padding-top: 10px; padding-right: 0px; pa=
+dding-bottom: 20px; padding-left: 0px;"><h2 style=3D'color: #666666; margin=
+: 0 0 0 0; font-weight: normal; font-size: 24px; font-family: Helvetica, Ar=
+ial, sans-serif;'>
+    Comparao de Ritos.doc
+</h2>
+<p style=3D'color: #999999; margin-bottom: 20px; font-size: 12px; line-heig=
+ht: 18px; font-family: Helvetica, Arial, sans-serif;'>
+
+					<a href=3D"https://gosp-x.jiveon.com/people/234458?et=3Dwatches.email.=
+outcome">Wagner Fancio</a> marcou o pr=C3=B3prio coment=C3=A1rio sobre <a h=
+ref=3D"https://gosp-x.jiveon.com/docs/DOC-8091-compara=C3=A7=C3=A3o-de-rito=
+sdoc?et=3Dwatches.email.outcome">Comparao de Ritos.doc</a> como =C3=BAtil. =
+<a href=3D"https://gosp-x.jiveon.com/docs/DOC-8091-compara=C3=A7=C3=A3o-de-=
+ritosdoc?commentID=3D43280&et=3Dwatches.email.outcome#comment-43280">Visual=
+izar o coment=C3=A1rio completo</a>
+</p>
+
+<hr style=3D'background-color: #cccccc; height: 1px; margin-bottom: 20px; b=
+order: none;'>
+Marcado como =C3=BAtil:
+<div style=3D'color: #666666; margin-bottom: 20px; font-size: 14px; line-he=
+ight: 20px; font-family: Helvetica, Arial, sans-serif;'>
+<div class=3D"jive-rendered-content"><p style=3D"margin-bottom: .0001pt;"><=
+span style=3D"font-size: 12.0pt;">Meu resp.&#8217;. irm.&#8217;. , realment=
+e &eacute; uma bela pe&#231;a de arquitetura.....</span></p><p style=3D"mar=
+gin-bottom: .0001pt;"><span style=3D"font-size: 12.0pt;">Agrade&#231;o ao v=
+aloroso irm.&#8217;. por nos proporcionar uma leitura maravilhosa e aumenta=
+r nossos conhecimentos....</span></p><p style=3D"margin-bottom: .0001pt;"><=
+span style=3D"font-size: 12.0pt;">Obrigado por compartilhar...</span></p><p=
+ style=3D"margin-bottom: .0001pt;"><span style=3D"font-size: 10.5pt; backgr=
+ound: #FAFAFA;">T</span><span style=3D"font-size: 10.5pt; background: #FAFA=
+FA;">&there4;</span><span style=3D"font-size: 10.5pt; background: #FAFAFA;"=
+> F</span><span style=3D"font-size: 10.5pt; background: #FAFAFA;">&there4;<=
+/span><span style=3D"font-size: 10.5pt; background: #FAFAFA;"> A</span><spa=
+n style=3D"font-size: 10.5pt; background: #FAFAFA;">&there4;</span></p></di=
+v>
+</div>
+
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" bgco=
+lor=3D"#f5f5f5" style=3D'padding: 10px; margin-top: 40px;'>
+	<tbody>
+
+    <tr>
+	<td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-height: =
+20px; font-family: Helvetica, Arial, sans-serif;'>
+	Seguindo <a href=3D"https://gosp-x.jiveon.com/docs/DOC-8091-compara=C3=A7=
+=C3=A3o-de-ritosdoc?et=3Dwatches.email.outcome">Comparao de Ritos.doc</a> n=
+estes fluxos:
+     Caixa de Entrada
+    </td>
+    </tr>
+    </tbody>
+</table>
+                    <p style=3D'color: #666666; margin-top: 20px; font-size=
+: 14px; line-height: 20px; font-family: Helvetica, Arial, sans-serif;'>
+                        Este e-mail foi enviado pela Rede Social do GOSP po=
+rque voc=C3=AA =C3=A9 um usu=C3=A1rio registrado.
+	                        Voc=C3=AA pode <a href=3D"https://gosp-x.jiveon.co=
+m/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0e=
+e232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c">cancelar a assinatura</a=
+> agora mesmo ou ajustar a frequ=C3=AAncia de e-mail nas <a href=3D"https:/=
+/gosp-x.jiveon.com/user-preferences!input.jspa">prefer=C3=AAncias do seu e-=
+mail</a>
+                    </p>
+            </td>
+		</tr>
+	</tbody>
+</table>
+			    </td>
+			</tr>
+		</tbody>
+	</table>
+
+<img src=3D"http://jiveon.jivesoftware.com/wf/open?upn=3DlkDbH7-2FnFH7oeBGC=
+GoMHz9T22eb3DvjuBfkB1ASadAwAtbqNYYkVs4MwAGOqDuR5N49BZM9PLfhYH64a-2FtseS3rEA=
+m-2FPR-2FLABp9z-2FRB1PqRg1ky6n8EMmQHAit22769xCqPbfw7CStW6vKp9HE32gjGXBmy9Ss=
+-2BAqqcSeHDJwpcxZoXIr8YjvTAo45N4w7PtxMfzmrtIrpMJC58enMGu6MNAW57Dg29GyuodYvm=
+hsVjJDXAtQy0mhDoHPVoWznxHsnWzkJwX-2Bd12lDLtTcBHvXqxNuahaMdfQjLBz0t6vMtT-2FE=
+h38idqyGG2NQSdhvN0f3V5gIxXGzSGugRyJEghyw-3D-3D" alt=3D"" width=3D"1" height=
+=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !important;bor=
+der-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;m=
+argin-right:0 !important;margin-left:0 !important;padding-top:0 !important;=
+padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !impo=
+rtant;"/>
+</body>
+</html>
+
+------=_Part_49974_1111947269.1488382106528--
+
+------=_Part_49975_1090874441.1488382106528--
+

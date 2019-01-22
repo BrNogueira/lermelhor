@@ -1,0 +1,31 @@
+<?php
+$aLang['The form was not submitted for the following reasons:'] = 'Skjemaet ble ikke sendt av følgende grunn:';
+$aLang['Please click'] = 'Please click';
+$aLang['here'] = 'here';
+$aLang['to return to the form and try again.'] = 'for å gå tilbake og prøve igjen.';
+$aLang['Missing:'] = 'Missing:';
+$aLang['Could not find online form configuration file ID='] = 'Kunne ikke finne online skjema konfigurasjonsfil ID=';
+$aLang[' for RV SiteBuilder formmail.'] = 'for RVSiteBuilder formmail.';
+$aLang['I NEED VALID RECIPIENT EMAIL ADDRESS'] = '<b>JEG TRENGER GYLDIG MOTTAKER EMAIL ADRESSE';
+$aLang['TO CONTINUE</b>'] = 'FOR Å FORTSETTE</b>';
+$aLang['your <b>email address'] = 'your <b>e-mail address';
+$aLang['</b> is invalid.'] = '</b> is invalid.';
+$aLang['your <b>zip/postal code</b> is invalid'] = 'ditt <b>postnummer</b> er ugyldig';
+$aLang['your <b>phone number</b> is invalid'] = 'ditt <b>telefonnummer</b> er ugyldig';
+$aLang['your <b>fax number</b> is invalid'] = 'ditt <b>faksnummer</b> er ugyldig';
+$aLang['Thank you for your submission'] = 'Thank you for your submission';
+$aLang['This form is powered by '] = 'This form is powered by ';
+$aLang['Please use your browser back button to return to the form and try again.'] = 'Bruk din nettlesers tilbakeknapp for å returnere og prøve igjen.';
+$aLang['This form is powered by'] = 'This form is powered by';
+$aLang['You are using from a <b>banned email address.</b>'] = 'Du bruker en <b>bannlyst email-adresse.</b>';
+$aLang['You are coming from an'] = 'You are coming from an';
+$aLang['You are coming from an <b>unauthorized domain.</b>'] = 'You are coming from an <b>unauthorized domain.</b>';
+$aLang['Spam mail detected.'] = 'Spam mail oppdaget.';
+$aLang['Your message never be sent.'] = 'Din melding er ikke sendt.';
+$aLang['If you accidentally get this error, please contact us for the resolution.'] = 'Om du får denne meldingen, kontakt oss for en løsning.';
+$aLang['This was an INVALID submission. You have acted like a spambot!'] = 'Dette er en UGYLDIG sending. Du blir oppfattet som en spambot!';
+$aLang['Cannot connect to sendmail server'] = 'Kan ikke få  forbindelse med sendmail server.';
+$aLang['Sending email from'] = 'Sending email from';
+$aLang['to'] = 'to';
+$aLang['failed'] = 'failed';
+?>

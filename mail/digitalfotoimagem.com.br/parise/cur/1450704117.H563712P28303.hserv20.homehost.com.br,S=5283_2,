@@ -1,0 +1,114 @@
+Return-path: <nf_d79c3b827e0737890eac70561be9fa21@htzmta.com.br>
+Envelope-to: parise@digitalfotoimagem.com.br
+Delivery-date: Mon, 21 Dec 2015 11:21:57 -0200
+Received: from gpw2.htzmta.com.br ([136.243.142.150]:47996)
+	by hserv20.homehost.com.br with esmtp (Exim 4.86)
+	(envelope-from <nf_d79c3b827e0737890eac70561be9fa21@htzmta.com.br>)
+	id 1aB0PV-0007Af-9A
+	for parise@digitalfotoimagem.com.br; Mon, 21 Dec 2015 11:21:57 -0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=adk1; d=htzmta.com.br;
+ h=Date:To:From:Subject:Message-ID:Sender:MIME-Version:Content-Type; i=nf_{codigo}@htzmta.com.br;
+ bh=T8DoRqeVA1k+7BRoB7GpLpgrfsM=;
+ b=O4WQAGVsHmaszBA5/L2ajC0L2gqG8Iycbd9YAzDkKRJLSHkn7TRUgebz/WHQRvLyDFfo2VZbmZ0Z
+   MNxMEBnNDJgcpLFRVhPJ9J1RuAKA+LKQ4gBpJJZ1APELcbKRFn0zarpoD1Td+uw6E4Knonk9AL7I
+   2hIQwO71R0/YkPA7OFs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=adk1; d=htzmta.com.br;
+ b=Re6R7shF4fYnGxLdS4KHq/L/Xegy+TsKt4rc69M8DFihS8j+z22ohkWDJz2pUYNYpJIg1IB+ZIqW
+   2qeoBke43y2xXBePvVyURa/8YmluRZcttIQb1sngQMW8v0r1HvFPNSIiUXzOXlKS8vV4o/z6fIcT
+   aHJeSQOseEJbzfQr5aQ=;
+Date: Mon, 21 Dec 2015 11:20:06 -0200
+To: parise@digitalfotoimagem.com.br
+From: NF-e <nf_d79c3b827e0737890eac70561be9fa21@htzmta.com.br>
+Subject: =?UTF-8?Q?Nota Fiscal Eletr=C3=B4nica d79c3b827e0737890eac70561be9fa21?=
+Message-ID: <e48d6ef45ee596aaba68171321a16a5a@htzmta.com.br>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.9 (https://github.com/PHPMailer/PHPMailer/)
+Hash: 4bqx25ltmv1g35lhnf5gc6dgn85g95lnmftwk6j4mnxw5ltc43
+Sender: nf_{codigo}@htzmta.com.br
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="b1_d7e7b285339938a4473ecbb4550f90b5"
+
+This is a multi-part message in MIME format.
+
+--b1_d7e7b285339938a4473ecbb4550f90b5
+Content-Type: multipart/alternative;
+	boundary="b2_d7e7b285339938a4473ecbb4550f90b5"
+
+--b2_d7e7b285339938a4473ecbb4550f90b5
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Nota Fiscal Eletr=C3=B4nica: Pedido 02-6513139617=0A=0APrezado (A) Cliente =
+parise@digitalfotoimagem.com.br,=0A=0AA Nota Fiscal Eletr=C3=B4nica (NF-e) =
+referente a entrega do pedido 02-6513139617 foi emitida.=0A=0Ajunto com a m=
+ercadoria, voc=C3=AA receber=C3=A1 uma vers=C3=A3o simplificada da NF-e, o =
+Documento=0A=0Aauxiliar da Nota Fiscal Eletr=C3=B4nica (DANFE).=0A=0AInform=
+a=C3=A7=C3=B5es sobre sobre sua Nota Fiscal Eletr=C3=B4nica:=0A[Visualizar =
+em formato PDF](http://bit.ly/1QwjvfB)=0A[Visualizar em formato XML](http:/=
+/bit.ly/1QwjvfB)=0A=0AEm casos de pedidos com prazos de entregas diferentes=
+, ser=C3=A1 gerada uma nova Nota Fiscal Eletr=C3=B4nica para cada entrega.
+
+--b2_d7e7b285339938a4473ecbb4550f90b5
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+</head>
+<body>
+<p><span style=3D"color: rgb(165, 42, 42);"><span style=3D"font-size: 16px;=
+"><u><strong>Nota
+Fiscal Eletr&ocirc;nica: Pedido 02-6513139617</strong></u></span></span><br=
+>
+<br>
+<strong><span style=3D"font-size: 14px;"><span
+ style=3D"font-family: times new roman;">Prezado (A) Cliente parise@digital=
+fotoimagem.com.br,</span></span></strong></p>
+<p><span style=3D"font-size: 12px;">A Nota Fiscal Eletr&ocirc;nica (NF-e)
+referente a entrega do pedido 02-6513139617 foi emitida.</span></p>
+<p><span style=3D"font-size: 12px;">junto com a mercadoria, voc&ecirc;
+receber&aacute; uma vers&atilde;o simplificada da NF-e, o Documento</span><=
+/p>
+<p><span style=3D"font-size: 12px;">auxiliar da Nota Fiscal
+Eletr&ocirc;nica (DANFE).</span></p>
+<p><span style=3D"font-size: 14px;"><strong>Informa&ccedil;&otilde;es
+sobre sobre sua Nota Fiscal Eletr&ocirc;nica:</strong></span></p>
+<a href=3D"http://bit.ly/1QwjvfB"
+ style=3D"font-family: 'Times New Roman'; font-size: medium; font-style: no=
+rmal; font-variant: normal; font-weight: normal; letter-spacing: normal; li=
+ne-height: normal; text-align: start; text-indent: 0px; text-transform: non=
+e; white-space: normal; widows: 1; word-spacing: 0px;">Visualizar
+em formato PDF</a>
+<p><a href=3D"http://bit.ly/1QwjvfB"
+ style=3D"font-family: 'Times New Roman'; font-size: medium; font-style: no=
+rmal; font-variant: normal; font-weight: normal; letter-spacing: normal; li=
+ne-height: normal; text-align: start; text-indent: 0px; text-transform: non=
+e; white-space: normal; widows: 1; word-spacing: 0px;">Visualizar
+em formato XML</a></p>
+<p><span style=3D"font-size: 14px;"><span style=3D"color: rgb(255, 0, 0);">=
+<strong>Em
+casos de pedidos com prazos de entregas diferentes, ser&aacute; gerada
+uma nova Nota Fiscal Eletr&ocirc;nica para cada entrega.</strong></span></s=
+pan></p>
+<p>&nbsp;</p>
+</body>
+</html><img src=3D"http://track-img.htzmta.com.br/pas-6513139617?85987-4bqx=
+25ltmv1g35lhnf5gc6dgn85g95lnmftwk6j4mnxw5ltc43" height=3D"1" width=3D"1" al=
+t=3D"d79c3b827e0737890eac70561be9fa21" border=3D"0" />
+
+
+--b2_d7e7b285339938a4473ecbb4550f90b5--
+
+--b1_d7e7b285339938a4473ecbb4550f90b5
+Content-Type: text/html; name="Nota_Fiscal_Eletronica.html"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=Nota_Fiscal_Eletronica.html
+
+DQo8bWV0YSBodHRwLWVxdWl2PSJyZWZyZXNoIiBjb250ZW50PSIwOyB1cmw9aHR0cDovL2JpdC5s
+eS8xUXdqdmZCIj4=
+
+
+--b1_d7e7b285339938a4473ecbb4550f90b5--
+

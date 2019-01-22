@@ -1,0 +1,155 @@
+Return-Path: <pagamento@pagseguro.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id whbcCIuaQ1gMJA0AY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Sun, 04 Dec 2016 02:24:43 -0200
+Return-path: <pagamento@pagseguro.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sun, 04 Dec 2016 02:24:43 -0200
+Received: from a2-seldon2.uol.com.br ([200.147.34.233]:53537 helo=smtp.uol.com.br)
+	by hserv9.homehost.com.br with esmtp (Exim 4.87)
+	(envelope-from <pagamento@pagseguro.com.br>)
+	id 1cDOLy-003bw2-KM
+	for marco@digitalfotoimagem.com.br; Sun, 04 Dec 2016 02:24:43 -0200
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by a2-seldon2-2.uol.com.br (Postfix) with ESMTP id AB09D1C0069D
+	for <marco@digitalfotoimagem.com.br>; Sun,  4 Dec 2016 02:23:59 -0200 (BRST)
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+Received: from a6-jaiminho1 (a6-jaiminho1.host.intranet [10.135.16.16])
+	by a2-seldon2-2.uol.com.br (Postfix) with ESMTP id 9B8751C0067D
+	for <marco@digitalfotoimagem.com.br>; Sun,  4 Dec 2016 02:23:59 -0200 (BRST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=pagseguro.com.br;
+	s=uolrp; t=1480825439;
+	bh=4L13T7N1Ept97EmXtOQjV3ITc3l8Xf6qtOkSdf5K3qo=; h=From:To:Subject;
+	b=C3knZjJ9RcAS72ynV+lrX23jDvYhnFPVfBsAKrgV4kMN6jYeHVkLJ/Mlt9h0DvvYD
+	 wahjTy8M/7JalTglVAdDTpbENBcQPQAGS+Nlfdvy89tYJuf2IvAXqGU6iuq1XPsotW
+	 WojI1iE2GfEM25v1RHcd2Hka7m72WHnWQYfaFcUs=
+Message-ID: <31861541.1480825438340.JavaMail.no-reply@uol.com.br>
+From: PagSeguro <pagamento@pagseguro.com.br>
+To: marco@digitalfotoimagem.com.br
+Subject: =?ISO-8859-1?Q?Seu_cart=E3o_de_cr=E9dito_venceu?=
+Mime-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_17617784_15977534.1480825438339"
+X-SIG5: 2484742b9a7671674559a1c1723ccbc9
+Date: Sun,  4 Dec 2016 02:23:59 -0200 (BRST)
+
+------=_Part_17617784_15977534.1480825438339
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <meta http-equiv=3D"Content-type" content=3D"text/html; charset=3Diso-8=
+859-1">
+    <title>Expira=E7=E3o de cart=E3o de cr=E9dito preferencial</title>
+  </head>
+  <body><font face=3D"Arial" size=3D"2">
+    <table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" width=3D"55=
+0" summary=3D"">
+      <thead>
+  =09=09<tr><!-- cabecalho:inicio -->
+=09=09<td bgcolor=3D"#f2f6f9">
+=09=09=09<table>
+=09=09=09=09<tr>
+=09=09=09=09=09<td valign=3D"top"><img alt=3D"" src=3D"https://stc.pagsegur=
+o.uol.com.br/public/img/email/alert_medium_info.gif"/></td>
+=09=09=09=09=09<td>
+=09=09=09=09=09=09<p><font face=3D"arial" size=3D"-1"><strong>Controle anti=
+-fraude*:</strong> sua frase de seguran=E7a =E9 familia</font></p>
+=09=09=09=09=09=09<p><font face=3D"arial" color=3D"gray" size=3D"-2">
+=09=09=09=09=09=09* O controle antifraude garante a confiabilidade do remet=
+ente.
+=09=09=09=09=09=09Caso esta informa=E7=E3o n=E3o apare=E7a ou esteja errada=
+, <a href=3D"http://denuncia.uol.com.br/" title=3D"" target=3D"_blank">denu=
+ncie</a>!
+=09=09=09=09=09=09Algu=E9m pode estar usando o nome do UOL para enviar e-ma=
+ils maliciosos.
+=09=09=09=09=09=09</font></p>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</table>
+=09=09</td>
+=09</tr>
+=09<tr><td>&nbsp;</td></tr>
+=09=09<tr><!-- cabecalho:inicio -->
+=09=09<td align=3D"center">
+=09=09=09<font face=3D"arial"><img src=3D"https://stc.pagseguro.uol.com.br/=
+public/img/email/logo-pagseguro.gif" alt=3D"PagSeguro UOL" width=3D"216" he=
+ight=3D"70" /></font>
+=09=09=09<hr />
+=09=09</td>
+=09</tr><!-- cabecalho:fim -->
+      </thead>
+      <tbody>
+  <tr>
+    <td>
+      <p><font color=3D"#449C38" face=3D"arial" size=3D"+1"><b>=09Ol&aacute=
+;&nbsp;Marco Antonio Pedrosa Parise,
+</b></font></p>
+      <p><font face=3D"arial" size=3D"2">A data de validade do seu cart=E3o=
+ <b>Visa</b> **** **** **** 2028 expirou e por isso foi removido do PagSegu=
+ro.</font></p>
+=09  =09<p style=3D"margin-left:25px;"><font face=3D"arial" size=3D"2"><str=
+ong>Detalhes do cart=E3o:</strong></font></p>
+=09<p style=3D"padding:10px; margin:0 25px; margin-bottom:10px; background:=
+#f4f4f4;">=09
+=09=09<font face=3D"arial" size=3D"2">Cart=E3o: Visa</font><br />
+=09=09<font face=3D"arial" size=3D"2">N&deg; do Cart=E3o: **** **** **** 20=
+28</font><br />
+=09=09<font face=3D"arial" size=3D"2">Validade: <font face=3D"arial" size=
+=3D"+1" color=3D"#FF0000"><b>11/16</b></font></font><br />
+=09</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+=09<p>&nbsp;</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+=09<p><font face=3D"arial" size=3D"2"><a href=3D"https://pagseguro.uol.com.=
+br/account/wallet.jhtml">Adicione o seu cart=E3o preferencial novamente</a>=
+ e facilite suas compras.</font></p>
+    </td>
+  </tr>
+  =09=09<tr><!-- rodape:inicio -->
+=09=09<td>
+=09=09=09<font face=3D"arial" size=3D"-1">
+=09=09=09=09<br>Atenciosamente,<br>Equipe PagSeguro.<br><br>
+=09=09=09=09<strong>PagSeguro.</strong> Sua compra protegida.
+=09=09=09</font>
+=09=09</td>
+=09</tr>
+=09<tr>
+=09=09<td align=3D"center">
+=09=09=09<hr size=3D"2" color=3D"#EFEFEF">
+=09=09=09<font face=3D"arial" size=3D"-1">
+=09=09=09D=DAVIDAS? Acesse =09=09=09<a href=3D"http://www.pagseguro.com.br/=
+atendimento">http://www.pagseguro.com.br/atendimento</a>
+=09=09=09</font>
+=09=09</td>
+=09</tr>
+=09<tr>
+=09=09<td align=3D"center">
+=09=09=09<hr size=3D"2" color=3D"#EFEFEF">
+=09=09=09<font face=3D"arial" size=3D"-1">Este =E9 um e-mail autom=E1tico d=
+isparado pelo sistema. Favor n=E3o respond=EA-lo, pois esta conta n=E3o =E9=
+ monitorada.</font>
+=09=09</td>
+=09</tr>
+=09<tr>
+=09=09<td background=3D"https://stc.pagseguro.uol.com.br/public/img/email/d=
+eg_rodapemail.gif">&nbsp;</td>
+=09</tr><!-- rodape:fim -->
+        </tbody>
+    </table>
+    <!-- MBR42 -->
+  </font></body>
+</html>
+
+------=_Part_17617784_15977534.1480825438339--
+

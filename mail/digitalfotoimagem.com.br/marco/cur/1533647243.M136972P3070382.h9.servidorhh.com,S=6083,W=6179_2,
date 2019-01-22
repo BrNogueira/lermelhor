@@ -1,0 +1,96 @@
+Return-Path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.solbiz.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from h9.servidorhh.com
+	by h9.servidorhh.com with LMTP id sGDbBIuZaVuu2S4ArjWGVg
+	for <marco@digitalfotoimagem.com.br>; Tue, 07 Aug 2018 10:07:23 -0300
+Return-path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.solbiz.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 07 Aug 2018 10:07:23 -0300
+Received: from o213.mailsg.leadlovers.com ([167.89.95.233]:25400)
+	by h9.servidorhh.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.solbiz.com.br>)
+	id 1fn1hq-00D2NS-Qr
+	for marco@digitalfotoimagem.com.br; Tue, 07 Aug 2018 10:07:23 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=solbiz.com.br; 
+	h=content-type:from:mime-version:subject:to:list-unsubscribe; 
+	s=m1; bh=ldNr4bjUtOKGoGZIGwIkSXqLnGQ=; b=Jn49h2yQuE3RpqEpwTdZhJd
+	GuJNHmy5Gwd2M8tRmpp8n2e9KO50JhEsNjU664Tv3FeRNda+/QJLmHqL7KyAbup4
+	1TqHpEbAOezCUwUqrW/ALql1GjnqbBkTMrJ7ZYcOlDvhpPWNHIsVJbCnW/g9OxRf
+	uF05xbyuSsFnCUOjDKtw=
+Received: by filter0039p3las1.sendgrid.net with SMTP id filter0039p3las1-3303-5B69991E-5B
+        2018-08-07 13:05:35.670373884 +0000 UTC m=+579490.285493717
+Received: from MjM4NDgwOQ (m3640.contabo.host [5.189.178.140])
+	by ismtpd0007p1lon1.sendgrid.net (SG) with HTTP id Azu4rTHhSpeS6lsRomoVcw
+	Tue, 07 Aug 2018 13:05:34.749 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=ad04bece4e5aa789dc83acaa58e2fa925b830a90852c203b51f09ef49a3b
+Date: Tue, 07 Aug 2018 13:06:35 +0000 (UTC)
+From: "Paulo Gerhardt" <paulo.gerhardt@solbiz.com.br>
+Mime-Version: 1.0
+Subject: =?UTF-8?B?U2Ugdm9jw6ogbW9yYSBuYSBTZXJyYSBHYcO6Y2hhLCBlc3RlIGUtbWFpbCDDqSBwYXJhIHZvY8OqLg==?=
+To: <marco@digitalfotoimagem.com.br>
+Message-ID: <Azu4rTHhSpeS6lsRomoVcw@ismtpd0007p1lon1.sendgrid.net>
+List-Unsubscribe: <mailto:unsubscribe@mailsg.solbiz.com.br?subject=https://u2384809.ct.sendgrid.net/wf/unsubscribe*q*upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiNL5UQMZXcoi6mKHrHRQ0FMz8LtjdZXe10h9D6F9nSB-2FN976qsQm-2Fe6heToficae68eAMNoDvzobZ7eFQonEhhaU5S8RYWEKbD2SdHLaNP48ZWk7t6RMlPt6az1Ht7ld2yWFIFjW5H1tljRr0pEy425p9bHGj05nSiZOG-2BmlZPdR4VkVjxaL-2FEnAzkdyTKFh4Q-2FEL-2FDJPVJBbWe3BmKOEfLWS4T4FNj6o8xCEEz6LuGVRZQ97-2Fdpc-2Bau2vuUdlfI08pH26qv-2Bg79JAWlb0pd-2FSaKwyQuE3LzFHaLgF9z7mb4pRsAfj2EGA-2FNky1xJP8Q36lkpM4aULG1X2jJHrKpD45O6WrBAcPICUwUA32mj062pdqMF9OeiMua-2FWQiipD6-2F>
+X-SG-EID: Hch+2AQw5UfQtHqV+P/3h94kWa/z3uc7aT9t1ffNJX6ejfdpfjs1c7IIdtNthFh9rwa3P+S62KSqZ5
+ P0aNBFr/JYCowu6cqEDXoiWh6bwGN4tksTan1f0+UbO+JCZl4fKhBnkXUDT8wVFbPJS6a5dz151sqQ
+ 7bxjGUinMa9GO7XNGte6JTpUjtsXRa72Vdl79j1LPgYa6XAlOhUUs2xTJVQqGupDSNIkGhi0XMkggV
+ 0odWdn5zkR4JZ2ySu/BjXk
+X-SG-ID: lkbpAUns11GO9BdGkh+MdAj9XRfhrTMuu2GWF6w58UCokHn5p3gsrGasnGdFXFRV30PXbjPsmpf/7b
+ h2iorRs5ttVnu6SADDTouGZ6PWNq9EuiwWnn1ycKpPdOCtJwoYG+JtHBn39JeDyThYG+MnncMdMkvv
+ 1b+YlN4bOFZHRu2lIPNcsBJU97eXJw1xAXbIb7QlzUBzAMa0Gy+k3/pEM4Mpqh/uvL2BkvEWeiGVuA
+ E=
+
+--ad04bece4e5aa789dc83acaa58e2fa925b830a90852c203b51f09ef49a3b
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+=0D=0DOl=C3=A1 Marco! =0D=0DEst=C3=A1 dif=C3=ADcil tocar seu neg=C3=B3cio? =
+N=C3=A3o consegue ver sa=C3=ADda para sua empresa? E a cada dia esta venden=
+do menos? =0D=0DAqui =C3=A9 o professor Paulo Gerhardt e quero te convidar =
+para uma  palestra totalmente gratuita que estarei ministrando em Bento Gon=
+=C3=A7alves =0D=0DLOCAL: CIC  Bento Gon=C3=A7alves  Endere=C3=A7o: Alameda =
+Fenavinho, 481  FENAVINHO, BENTO GON=C3=A7ALVES =0D=0DDATA: 13/08/2018 =0D=
+=0DHOR=C3=A1RIO: 19h30 =0D=0DS=C3=B3 responde este e-mail com teu nome e e-=
+mail vamos te cadastrar =0D=0DS=C3=B3 quero te lembrar QUE TEM MUITO EMPRES=
+=C3=A1RIO GANHANDO DINHEIRO e  fazendo crescer seu neg=C3=B3cio !Mas ent=C3=
+=A3o o que est=C3=A1 acontecendo com voc=C3=AA? =0D=0DVOC=C3=AA TEM QUE MUD=
+AR SUA MENTALIDADE EMPRESARIAL! Estou te aguardando! =0D=0DAbra=C3=A7os, Pa=
+ulo GerhardtClique aqui para n=C3=A3o receber mais e-mails dessa lista (Uns=
+ubscribe).
+
+--ad04bece4e5aa789dc83acaa58e2fa925b830a90852c203b51f09ef49a3b
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE><p>Ol&aacute; Marco!</p>
+<p>Est&aacute; dif&iacute;cil tocar seu neg&oacute;cio? N&atilde;o consegue=
+ ver sa&iacute;da para sua empresa?<br /> E a cada dia esta vendendo menos?=
+</p>
+<p>Aqui &eacute; o professor Paulo Gerhardt e quero te convidar para uma <b=
+r /> palestra totalmente <strong><em>gratuita</em></strong> que estarei min=
+istrando em <strong><em>Bento Gon&ccedil;alves</em></strong></p>
+<p><strong>LOCAL</strong>: CIC &ndash; Bento Gon&ccedil;alves &ndash; Ender=
+e&ccedil;o: Alameda Fenavinho, 481 &ndash; FENAVINHO, BENTO GON&Ccedil;ALVE=
+S</p>
+<p><strong>DATA:</strong> 13/08/2018</p>
+<p><strong>HOR&Aacute;RIO</strong>: 19h30</p>
+<p>S&oacute; responde este e-mail com teu nome e e-mail vamos te cadastrar<=
+/p>
+<p>S&oacute; quero te lembrar <strong><em>QUE TEM MUITO EMPRES&Aacute;RIO G=
+ANHANDO DINHEIRO</em></strong> e <br /> fazendo crescer seu neg&oacute;cio =
+!Mas ent&atilde;o o que est&aacute; acontecendo com<br /> voc&ecirc;?</p>
+<p>VOC&Ecirc; TEM QUE MUDAR SUA MENTALIDADE EMPRESARIAL!<br /> Estou te agu=
+ardando!</p>
+<p>Abra&ccedil;os,<br /> Paulo Gerhardt</p><a href=3D"http://click.pagina.s=
+ervices/redirect/redirect.aspx?A=3DU&u=3D1EE20BAB-26DD-4687-B3E3-EF8AB29E44=
+A2&I=3DBR" target=3D"_blank">Clique aqui para n&atilde;o receber mais e-mai=
+ls dessa lista (Unsubscribe).</a><br /><img alt=3D"" src=3D"http://click.pa=
+gina.services/redirect/redirect.aspx?A=3DU&u=3D1EE20BAB-26DD-4687-B3E3-EF8A=
+B29E44A2&I=3DBR&IMG=3Dhttps://leadlovers.com/content/images/1px.png" /><img=
+ alt=3D'' src=3D'http://click.pagina.services/redirect/redirect.aspx?A=3DV&=
+u=3D1EE20BAB-26DD-4687-B3E3-EF8AB29E44A2&IMG=3D1EE20BAB-26DD-4687-B3E3-EF8A=
+B29E44A2.png' />
+
+--ad04bece4e5aa789dc83acaa58e2fa925b830a90852c203b51f09ef49a3b--

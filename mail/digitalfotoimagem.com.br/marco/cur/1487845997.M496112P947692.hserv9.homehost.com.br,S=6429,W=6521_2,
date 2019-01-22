@@ -1,0 +1,92 @@
+Return-Path: <bounces+2861358-cb25-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id MQIDG226rljsdQ4AY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Thu, 23 Feb 2017 07:33:17 -0300
+Return-path: <bounces+2861358-cb25-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 23 Feb 2017 07:33:17 -0300
+Received: from o4.mailsg.leadlovers.com ([167.89.66.87]:41154)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <bounces+2861358-cb25-marco=digitalfotoimagem.com.br@mailsg.leadlovers.com.br>)
+	id 1cgqi5-003xvq-2H
+	for marco@digitalfotoimagem.com.br; Thu, 23 Feb 2017 07:33:17 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=leadlovers.com.br; 
+	h=content-type:from:mime-version:subject:to:list-unsubscribe; 
+	s=m1; bh=A6FitoUJxgv2vn/9zd2AakQufJ8=; b=c1tIAWGHAah4DToGT+0GMCU
+	GxBMQ99Izu/S51yWNXwvhKaHXhohs6X51u7wp8SC7DtkqmWpJHZY8WrlYp/mwW1L
+	4t/792FSfmqoKHF6uoB/Gx5ZvNcwQbHc79tf2fT+j5wLfco/YhSGFasY0vyYdCjV
+	FAigH/hNW8QnQWApSLxo=
+Received: by filter0433p1mdw1.sendgrid.net with SMTP id filter0433p1mdw1-13296-58AEBA33-51
+        2017-02-23 10:32:20.084526966 +0000 UTC
+Received: from Mjg2MTM1OA (m3640.contabo.host [5.189.178.140])
+	by ismtpd0001p1lon1.sendgrid.net (SG) with HTTP id rBz08eGPSfWwMnGS66Bdcw
+	Thu, 23 Feb 2017 10:32:19.805 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=878e1a2bb9ee7cd410fff41d1d739f4db55c384236e29cc97609c1d26e20
+Date: Thu, 23 Feb 2017 10:32:19 +0000
+From: "Otavio Castanho" <contato@coachsemlimites.com.br>
+Mime-Version: 1.0
+Subject: =?UTF-8?B?UXVlIHRhbCB1bSBjYWbDqSBkYSBtYW5ow6M/?=
+To: <marco@digitalfotoimagem.com.br>
+Message-ID: <rBz08eGPSfWwMnGS66Bdcw@ismtpd0001p1lon1.sendgrid.net>
+List-Unsubscribe: <https://u2861358.ct.sendgrid.net/wf/unsubscribe?upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiWoKQFOF-2FXBopiL-2BYaC-2B-2BVpzFj-2Fk5ofqCyi9xEcRg5UXRSnRSgbJhx6W-2B4JwcnOR5RwIUneyiW1e3xrd-2FoRiyPv1RvT2dxaJZ8POGFtnD-2Fzo38mgVEEcWhJetejxmFQrgHL3xPjpz9VUySrjcExuBMsbBQ7EAb-2F2uC7vkv4lFFcDNAdnNAdUx1rrU6pCba1vqUrVwitojHw3PwYMTBtuGLsqXmW5NGsSBgMk6HkkNhK8-3D>, <mailto:unsubscribe@mailsg.leadlovers.com.br?subject=https://u2861358.ct.sendgrid.net/wf/unsubscribe*q*upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiWoKQFOF-2FXBopiL-2BYaC-2B-2BVpzFj-2Fk5ofqCyi9xEcRg5UXRSnRSgbJhx6W-2B4JwcnOR5RwIUneyiW1e3xrd-2FoRiyPv1RvT2dxaJZ8POGFtnD-2Fzo38mgVEEcWhJetejxmFQrgHL3xPjpz9VUySrjcExuBMsbBQ7EAb-2F2uC7vkv4lFFcDNAdnNAdUx1rrU6pCba1vqUrVwitojHw3PwYMTBtuGLsqXmW5NGsSBgMk6HkkNhK8-3D>
+X-SG-EID: Hch+2AQw5UfQtHqV+P/3h94kWa/z3uc7aT9t1ffNJX6ejfdpfjs1c7IIdtNthFh9dqZ3471jeyPCTv
+ IaD1LCnItZYCjsuBipDNRYAZbEvk5wHSMtNHa3g/wpespWyO6JpaeSbA/ANMtdpTUf+4R8PO93pYF6
+ KE/JzfN0lAXNBYAvhQhU8mNoc7CNLdGM578xLl1GGrVzrRMkgfmD9r7HUJNZ95eA48TBKmIWbTO/yh
+ 2AX8MiV01ei8/tPR/kLNtggd23SwCpkXK9LgkGEPsaAw==
+X-SG-ID: YDTqBOjidbCUo/ar1oAtZhS418uEgNsT7sZobYAPXRUjNpEKMuiyGlNTYKYh+o2x
+
+--878e1a2bb9ee7cd410fff41d1d739f4db55c384236e29cc97609c1d26e20
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+Opaaa...Calma a=C3=AD que n=C3=A3o =C3=A9 nenhuma proposta indecente.Amanh=
+=C3=A3, sexta, dia 24/02/17 as 9h da manh=C3=A3 euestarei tomando caf=C3=A9=
+ com v=C3=A1rios amigos daAssocia=C3=A7=C3=A3o Brasileira dos Profissionais=
+ de Coaching,alguns alunos, parceiros e amigos.. tudo DE GRA=C3=A7A.Isso me=
+smo... caf=C3=A9 da manh=C3=A3 falando de coaching eainda por cima tudinho =
+por conta.=C3=A9 s=C3=B3 chegar no Shopping West Plaza em S=C3=A3o Paulo,Ca=
+pital, e ir at=C3=A9 aFappes Campus West Plaza que agalera toda estar=C3=A1=
+ l=C3=A1 falando de coaching, cursosgratuitos e muita coisa bacana.=C3=A9 s=
+=C3=B3 chegar e entrar que eu estarei l=C3=A1 esperando por voc=C3=AA.Traga=
+ id=C3=A9ias e um bom papo sobre coaching e PNLpra gente passar a manh=C3=
+=A3 falando de nossas paix=C3=B5es!Te espero l=C3=A1.Grande Abra=C3=A7oOtav=
+io CastanhoRua Ambrosina de Macedo, 123 - S=C3=A3o Paulo - SP - 04013030Cas=
+o n=C3=A3o queira mais receber meus e-mails, acesse esse link. (Unsubscribe=
+).Clique aqui e conhe=C3=A7a o Lead Lovers
+
+--878e1a2bb9ee7cd410fff41d1d739f4db55c384236e29cc97609c1d26e20
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE>Opaaa...<br />Calma a&iacute; que n&atilde;o &eacute; nenhuma pro=
+posta indecente.<br /><br />Amanh&atilde;, sexta,<strong> dia 24/02/17 as 9=
+h da manh&atilde;</strong> eu<br />estarei tomando caf&eacute; com v&aacute=
+;rios amigos da<br />Associa&ccedil;&atilde;o Brasileira dos Profissionais =
+de Coaching,<br />alguns alunos, parceiros e amigos..<strong> tudo DE GRA&C=
+cedil;A</strong>.<br /><br />Isso mesmo... caf&eacute; da manh&atilde; fala=
+ndo de coaching e<br />ainda por cima tudinho por conta.<br /><br />&Eacute=
+; s&oacute; chegar no Shopping West Plaza em S&atilde;o Paulo,<br />Capital=
+, e ir at&eacute; a&nbsp;<strong>Fappes Campus West Plaza</strong> que a<br=
+ />galera toda estar&aacute; l&aacute; falando de coaching, cursos<br />gra=
+tuitos e muita coisa bacana.<br /><br />&Eacute; s&oacute; chegar e entrar =
+que eu estarei l&aacute; esperando por voc&ecirc;.<br /><br />Traga id&eacu=
+te;ias e um bom papo sobre coaching e PNL<br />pra gente passar a manh&atil=
+de; falando de nossas paix&otilde;es!<br /><br />Te espero l&aacute;.<br />=
+Grande Abra&ccedil;o<br />Otavio Castanho<br /><br /><hr /><br /><br />Rua =
+Ambrosina de Macedo, 123 - S=C3=A3o Paulo - SP - 04013030<br />Caso n&atild=
+e;o queira mais receber meus e-mails, <a href=3D"http://leadloversclick08.c=
+om/redirect/redirect.aspx?A=3DU&u=3D98f114f5-925e-4c98-adf8-70713fbbb558" t=
+arget=3D"_blank">acesse esse link. (Unsubscribe)</a>.<br /><br /><img alt=
+=3D"" src=3D"http://leadloversclick08.com/redirect/redirect.aspx?A=3DV&u=3D=
+98f114f5-925e-4c98-adf8-70713fbbb558&IMG=3D98f114f5-925e-4c98-adf8-70713fbb=
+b558.png" style=3D"width:100%;height:5px;max-height:5px;"><br />Clique aqui=
+ e conhe=C3=A7a o <a href=3D"http://leadloversclick08.com/redirect/redirect=
+.aspx?A=3DR&l=3D66E5D504-4714-4168-8490-FD0933B77AC8&u=3D98f114f5-925e-4c98=
+-adf8-70713fbbb558" >Lead Lovers</a>
+
+--878e1a2bb9ee7cd410fff41d1d739f4db55c384236e29cc97609c1d26e20--

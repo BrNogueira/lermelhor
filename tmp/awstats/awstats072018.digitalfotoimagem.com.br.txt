@@ -1,0 +1,626 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201807 will be lost/reset.
+# Last config file used to build this data file was /home/gfotobr/tmp/awstats/awstats.digitalfotoimagem.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2697                
+POS_VISITOR 15153               
+POS_DAY 16945               
+POS_DOMAIN 3428                
+POS_LOGIN 3788                
+POS_ROBOT 3943                
+POS_WORMS 4557                
+POS_EMAILSENDER 4688                
+POS_EMAILRECEIVER 4831                
+POS_SESSION 17551               
+POS_SIDER 17714               
+POS_FILETYPES 4966                
+POS_DOWNLOADS 5097                
+POS_OS 5145                
+POS_BROWSER 5352                
+POS_SCREENSIZE 5927                
+POS_UNKNOWNREFERER 6001                
+POS_UNKNOWNREFERERBROWSER 6293                
+POS_ORIGIN 6492                
+POS_SEREFERRALS 6628                
+POS_PAGEREFS 6772                
+POS_SEARCHWORDS 6950                
+POS_KEYWORDS 7102                
+POS_MISC 2361                
+POS_ERRORS 7161                
+POS_CLUSTER 3644                
+POS_SIDER_404 7247                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180801000701 31 5191 9231090882495
+FirstTime 20180701023033
+LastTime 20180731213515
+LastUpdate 20180801095444 31 0 30 0 0
+TotalVisits 77                  
+TotalUnique 44                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 44                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 7 51278 19 32 63937
+1 8 9 31766 18 34 72292
+2 9 10 40240 25 45 110662
+3 4 4 25856 9 18 29718
+4 8 9 31765 25 38 100592
+5 4 4 25857 22 37 25490
+6 4 4 25872 37 51 92044
+7 2 2 9473 37 55 64236
+8 4 4 25857 18 27 69452
+9 2 2 8924 190 210 166659
+10 4 4 25856 19 36 59464
+11 12 13 62494 21 39 126644
+12 1 1 435 20 37 105936
+13 7 7 37276 31 59 160997
+14 7 34 414448 14 24 50444
+15 3 3 9351 132 137 42370
+16 5 5 26300 24 38 101474
+17 8 9 31774 13 24 44108
+18 4 4 17825 14 21 46317
+19 4 4 25865 20 37 51389
+20 8 9 31774 26 39 91116
+21 54 54 101663 27 48 60036
+22 2 2 10119 17 32 73373
+23 3 3 17398 39 67 102656
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+us 144 150 464051
+ro 5 5 42370
+ua 5 5 42370
+ru 5 5 42370
+ca 3 3 25422
+br 3 30 396617
+gb 3 3 25422
+cn 2 2 16948
+cl 2 2 16948
+fr 1 1 8474
+nl 1 1 8474
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+Googlebot/ 138 735275 20180731215521 0
+BDCbot/ 136 49407 20180706093022 0
+SemrushBot/ 114 105403 20180731232754 0
+YandexBot/ 70 579007 20180731132149 0
+DotBot/ 50 38140 20180720113933 0
+Baiduspider/ 26 220324 20180730103607 0
+MJ12bot/ 18 33252 20180731014254 0
+bingbot/ 15 64104 20180726021746 0
+(firefox/)([0-9]\.|[0-1][0]\.) 7 27164 20180715074357 0
+AhrefsBot/ 5 42370 20180728193439 0
+no_user_agent 4 8486 20180729193146 0
+netEstate[\x20]NE[\x20]Crawler 1 8474 20180716082447 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+gif 1 43 0 0
+html 174 693269 0 0
+css 7 29169 0 0
+jpg 25 366985 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+macosx 1 1
+win10 40 40
+macosx11 1 1
+macosx7 1 1
+win7 37 10
+win8.1 2 2
+macosx10 2 2
+linux 54 48
+macosx12 40 40
+linuxandroid 1 1
+Unknown 28 28
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 26
+opera36.0.2130.32 1 1
+firefox61.0 4 4
+msie11.0 5 5
+firefox60.0 1 1
+Unknown 2 2
+chrome67.0.3396.99 29 2
+firefox59.0 2 2
+chrome16.0.912.77 1 1
+firefox53.0 1 1
+chrome45.0.2454.94 1 1
+chrome61.0.3163.100 13 13
+chrome37.0.2062.120 1 1
+chrome12.0.742.100 1 1
+chrome57.0.2987.133 2 2
+chrome63.0.3239.132 2 2
+chrome67.0.3396.87 1 1
+mozilla 3 3
+chrome60.0.3112.101 3 3
+firefox54.0 2 2
+chrome58.0.3029.110 27 27
+chrome62.0.3202.94 1 1
+firefox33.0 1 1
+chrome47.0.2526.106 31 31
+netscape 24 24
+firefox47.0 1 1
+chrome65.0.3325.181 47 41
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla 20180719211451
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20180704024832
+python-requests/2.14.2 20180711003317
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180721052940
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+python-requests/2.6.0_CPython/2.6.6_Linux/2.6.32-573.el6.x86_64 20180707135812
+python-requests/2.14.2 20180711003317
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 110 116
+From1 0 0
+From2 0 0
+From3 1 1
+From4 63 90
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://burger-imperia.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 581 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 215
+/en/upload.php 1 -
+/chat55/temp/87c70.php 1 -
+/Association/wp-content/plugins/simple-forum/editors/tinymce/plugins/tinybrowser/upload.php 1 -
+/media/system/js/calendar-setup.js 1 digitalfotoimagem.com.br
+/chat-sem-registo/temp/87c70.php 1 -
+/Chat/upload.php 1 -
+/wp-register.php 1 -
+/islamski-chat/upload.php 1 -
+/wp-content/plugins/wp-easycart/products/banners/4573f_1.php 1 -
+/admin/lib/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/index.action 1 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/php/tinybrowser/upload.php 1 -
+/blog-chat/upload.php 1 -
+/uploadify/uploadify.php 1 http://digitalfotoimagem.com.br/wp-admin/
+/wp-admin/admin-ajax.php 2 -
+/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/search/temp/87c70.php 1 -
+/chat-stjepkovica/temp/87c70.php 1 -
+/forums/chat/upload.php 1 -
+/shbt/temp/87c70.php 1 -
+/public/chat/upload.php 1 -
+/tutaf/upload.php 1 -
+/how-to-install-flashchat-free/upload.php 1 -
+/exploit/description/upload.php 1 -
+/cat-bin/tools/login/lib/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/m/video/upload.php 1 -
+/mp3/list/upload.php 1 -
+/admin/images/cal_date_over.gif 1 -
+/chat/upload.php 1 -
+/wp-login.php 19 -
+/consystem.php 1 -
+/wp-content/uploads/assets/temp/21652.php 1 -
+/flashchat/chat/upload.php 1 -
+/8337d.php 1 -
+/administrator/index.php 1 -
+/wordpress//wp-login.php 3 -
+/upload.php 1 -
+/chat-bebica/temp/87c70.php 1 -
+/flikQ/rocketeercms/blob/master/themes/admin/assets/js/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/music-search/upload.php 1 -
+/flashchat-2/upload.php 1 -
+//wp-login.php 3 -
+/FlashChat_v608/chat/temp/87c70.php 1 -
+/Tchate/flashchat/temp/87c70.php 1 -
+/e107_plugins/onlineinfo_menutemp/87c70.php 1 -
+/deface_flashchat/temp/87c70.php 1 -
+/page/video/temp/87c70.php 1 -
+/topic/page/temp/87c70.php 1 -
+/cache.php 1 -
+/chat-bebica/upload.php 1 -
+/Chat/temp/87c70.php 1 -
+/wp-content/plugins/formcraft/file-upload/server/content/upload.php 1 -
+/e-dinar-chat/upload.php 1 -
+/public/js/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/bd/search 1 -
+/Chat/Chat/upload.php 1 -
+/config.php 1 -
+/images/m5.jpg 1 -
+/websci/radio/radiochat/upload.php 1 -
+/scripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/radiopoljubac/posts/temp/87c70.php 1 -
+/admin 2 -
+/blog-chat/temp/87c70.php 1 -
+/blog/xmlrpc.php 1 -
+/e-dinar-chat/temp/87c70.php 1 -
+/forum/chat/upload.php 1 -
+/xmlrpc.php 2 -
+/dbs.php 2 -
+/FlashChat_v6.0.8_/chat/temp/87c70.php 1 -
+/blog/ 1 -
+/chat/temp/87c70.php 1 -
+/search/upload.php 1 -
+/radio/radiochat/temp/87c70.php 1 -
+/en/temp/87c70.php 1 -
+/wp-includes/js/wpdialog.js 1 digitalfotoimagem.com.br
+/chat-stjepkovica/upload.php 1 -
+/community/chat/upload.php 1 -
+/js/tinymce/plugins/tinybrowser/upload.php 1 -
+/e107_plugins/onlineinfo_menuupload.php 1 -
+/forums/chat/temp/87c70.php 1 -
+/cchat/chat/temp/87c70.php 1 -
+/chat/chat/temp/87c70.php 1 -
+/chat55/upload.php 1 -
+/how-to-install-flashchat-free/temp/87c70.php 1 -
+/yt.php 1 -
+/content-post.php 1 -
+/license.php 1 http://digitalfotoimagem.com.br/wp-admin/
+/index.php 1 digitalfotoimagem.com.br
+/baixar/upload.php 1 -
+/aniversario/2.jpg 1 -
+/admin/login.php 1 -
+/assets/components/gallery/connector.php 1 digitalfotoimagem.com.br
+/js/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/static/js/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/templates/system/css/system.css 1 -
+/ads.txt 3 -
+/exploits/28709/upload.php 1 -
+/wp-content/plugins/asset-manager/upload.php 1 -
+/index.swf 2 -
+/haces/upload.php 1 -
+/chatroom/upload.php 1 -
+/assets/modules/evogallery/js/uploadify/uploadify.css 1 http://digitalfotoimagem.com.br/assets/modules/evogallery/js/uploadify/uploadify.css
+/jingyan/temp/87c70.php 1 -
+/wp//wp-login.php 3 -
+/blog-chat/chat/temp/87c70.php 1 -
+/websci/radio/radiochat/temp/87c70.php 1 -
+/page/video/upload.php 1 -
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/chat/FlashChat_v608/chat/temp/87c70.php 1 -
+/blog//wp-login.php 3 -
+/wp-content/plugins/zen-mobile-app-native/server/images.php 1 -
+/baixar/temp/87c70.php 1 -
+/chatroom/temp/87c70.php 1 -
+/wp-content/plugins/wp-easycart/inc/amfphp/administration/banneruploaderscript.php 1 -
+/m/temp/87c70.php 1 -
+/sq52zr.php 1 -
+/community/chat/temp/87c70.php 1 -
+/flashchat-2/temp/87c70.php 1 -
+/radiodalmatino/temp/87c70.php 1 -
+/exploit/description/temp/87c70.php 1 -
+/sitemap.xml 1 -
+/robots.txt 318 -
+/live/chat/upload.php 1 -
+/wp/ 1 -
+/Tchate/flashchat/upload.php 1 -
+/social/temp/87c70.php 1 -
+/projects/bilardII/resources/js/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/Chat/Chat/temp/87c70.php 1 -
+/xfchat/upload.php 1 -
+/images/m8.jpg 1 -
+/tinybrowser/tree/tinybrowser/upload.php 1 -
+/foro/chat/temp/87c70.php 1 -
+/social/upload.php 1 -
+/tinymce_pt/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/FlashChat_v6.0.8_/chat/upload.php 1 -
+/aniversario/4.jpg 1 -
+/wp-content/plugins/wpstorecart/readme.txt 1 http://digitalfotoimagem.com.br/wp-content/plugins/wpstorecart/readme.txt
+/assets/modules/evogallery/js/uploadify/uploadify.php 1 -
+/wp-content/yt.php 1 -
+/sohbet/temp/87c70.php 1 -
+/shbt/upload.php 1 -
+/blog/administrator/index.php 1 -
+/images/m1.jpg 1 -
+/FlashChat/upload.php 1 -
+/music-search/temp/87c70.php 1 -
+/roommate/flash_chat/temp/87c70.php 1 -
+/wordpress/ 1 -
+/chat/chat/upload.php 1 -
+/haces/temp/87c70.php 1 -
+/images/m7.jpg 1 -
+/joomla/robots.txt 1 -
+/~duchen/chat/temp/87c70.php 1 -
+/sohbet/upload.php 1 -
+/o/BhGCe/forums.e-mpire.com/chat/upload.php 1 -
+/connectors/system/phpthumb.php 6 digitalfotoimagem.com.br
+/topic/page/upload.php 1 -
+/board/chat/temp/87c70.php 1 -
+/manager/index.php 2 http://digitalfotoimagem.com.br/manager/index.php
+/m/upload.php 1 -
+/okolice-ilawa/chat/temp/87c70.php 1 -
+/tag/flashchat-v6-0-8/upload.php 1 -
+/public/javascripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/user/register/ 1 -
+/tutaf/temp/87c70.php 1 -
+/m/video/temp/87c70.php 1 -
+/chat/FlashChat_v608/chat/upload.php 1 -
+/flashchat/chat/temp/87c70.php 1 -
+/joomla/administrator/index.php 1 -
+/xfchat/temp/87c70.php 1 -
+/tinybrowser/upload.php 1 -
+/wp-admin/yt.php 1 -
+/tag/flashchat-v6-0-8/temp/87c70.php 1 -
+/board/chat/upload.php 1 -
+/mp3/list/temp/87c70.php 1 -
+/vid/watch/upload.php 1 -
+/wp-content/themes/RightNow/includes/uploadify/upload_settings_image.php 1 -
+/deface_flashchat/upload.php 1 -
+/smf/chat/upload.php 2 -
+/vid/watch/temp/87c70.php 1 -
+/islamski-chat/temp/87c70.php 1 -
+/chat-sem-registo/upload.php 1 -
+/temp/87c70.php 1 -
+/wp-content/plugins/simple-forum/editors/tinymce/plugins/tinybrowser/upload.php 1 -
+/exploits/28709/temp/87c70.php 1 -
+/ 3 -
+/~duchen/chat/upload.php 1 -
+/cms/chat/upload.php 1 -
+/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/blog-chat/chat/upload.php 1 -
+/o/BhGCe/forums.e-mpire.com/chat/temp/87c70.php 1 -
+/jingyan/upload.php 1 -
+/live/chat/temp/87c70.php 1 -
+/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/FlashChat_v608/chat/upload.php 1 -
+/roommate/flash_chat/upload.php 1 -
+/wwwroot/addons/tinymce/plugins/tinybrowser/upload.php 1 -
+/escola/finaldeano.html 2 -
+/foro/chat/upload.php 1 -
+/wp-content/plugins/gravityforms/ 1 http://digitalfotoimagem.com.br/wp-content/plugins/gravityforms/
+/radiopoljubac/posts/upload.php 1 -
+/radiodalmatino/upload.php 1 -
+/cms/chat/temp/87c70.php 1 -
+/radio/radiochat/upload.php 1 -
+/public/chat/temp/87c70.php 1 -
+/wp-content/uploads/c61c8.php 1 -
+/blog/robots.txt 2 -
+/ldp.php 1 -
+/FlashChat/temp/87c70.php 1 -
+/forum/chat/temp/87c70.php 1 -
+/smf/chat/temp/87c70.php 2 -
+/wp-content/uploads/settingsimages/35d1e.php 1 -
+/painel/scripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/okolice-ilawa/chat/upload.php 1 -
+/cchat/chat/upload.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 44
+104.192.74.37 48 48 58566 20180719211451
+66.246.224.10 31 31 22597 20180723181722
+52.53.201.78 13 13 110162 20180730101456
+138.197.104.9 6 7 22857 20180707010211
+159.203.81.33 6 7 22857 20180724114445
+138.197.73.96 6 7 22857 20180712204725
+159.203.109.175 6 7 22857 20180718172130
+104.236.85.45 6 7 22857 20180730040927
+138.197.111.236 6 7 22857 20180701023058
+188.240.208.26 5 5 42370 20180728102058
+195.123.224.112 4 4 33896 20180728190930
+167.114.172.223 3 3 25422 20180721052941
+185.58.206.80 2 2 16948 20180725110421
+163.172.4.153 2 2 16948 20180730213609
+138.197.111.115 1 1 8474 20180708112915
+138.197.111.102 1 1 8474 20180701141536
+34.203.237.162 1 1 8474 20180726213857
+139.81.89.216 1 1 8474 20180726060725
+179.108.6.162 1 1 8474 20180711003317
+191.189.12.176 1 1 8474 20180730134924
+134.249.141.24 1 1 8474 20180723211704
+122.228.10.51 1 1 8474 20180721090525
+80.93.187.145 1 1 8474 20180702101925
+34.255.6.178 1 1 8474 20180723003821
+139.162.228.61 1 1 8474 20180707181022
+181.214.30.237 1 1 8474 20180705030834
+159.203.169.21 1 1 8474 20180715032703
+107.22.139.5 1 1 8474 20180723003352
+216.145.17.190 1 1 8474 20180720142027
+177.33.58.40 1 28 379669 20180719144428
+62.210.196.97 1 1 8474 20180725042539
+163.172.32.18 1 1 8474 20180725222336
+216.158.82.135 1 1 8474 20180724232509
+191.96.82.237 1 1 8474 20180720005502
+54.191.72.126 1 1 8474 20180731161254
+93.179.68.152 1 1 8474 20180730141422
+209.97.157.105 1 1 8474 20180704024832
+138.197.111.100 1 1 8474 20180729114645
+188.243.40.83 1 1 8474 20180731213515
+112.13.176.111 1 1 8474 20180707135812
+34.217.210.32 1 1 8474 20180720062359
+64.246.165.170 1 1 8474 20180702133421
+54.146.77.181 1 1 8474 20180722015223
+138.197.111.84 1 1 8474 20180722023305
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20180701 7 8 31331 2
+20180702 3 3 25422 3
+20180704 2 2 16948 2
+20180705 1 1 8474 1
+20180706 1 1 8474 1
+20180707 8 9 39805 3
+20180708 1 1 8474 1
+20180710 1 1 8474 1
+20180711 1 1 8474 1
+20180712 8 9 39805 3
+20180714 1 1 8474 1
+20180715 2 2 16948 2
+20180717 2 2 16948 2
+20180718 6 7 22857 1
+20180719 50 77 446709 3
+20180720 4 4 33896 4
+20180721 5 5 42370 3
+20180722 15 15 30194 8
+20180723 22 22 43247 12
+20180724 8 9 39805 3
+20180725 5 5 42370 4
+20180726 5 5 42370 5
+20180728 3 3 25422 3
+20180729 1 1 8474 1
+20180730 10 11 56753 5
+20180731 2 2 16948 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+0s-30s 69
+1h+ 5
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 49
+/ 67 567758 63 56
+/aniversario/aniversario.html 9 14256 1 0
+/email.html 9 47619 1 5
+/escola/1.html 9 6543 1 1
+/casamento/paginacasamento.html 8 16384 0 0
+/igreja/1.html 8 4528 0 1
+/aniversario/paginafoto2.html 3 1329 1 1
+/escola/mae.html 3 4935 0 1
+/escola/pai.html 3 4062 0 0
+/casamento/paginafoto3a.html 2 886 0 0
+/casamento/paginafoto2a.html 2 872 0 0
+/casamento/paginafoto3.html 2 884 0 0
+/casamento/paginafoto9.html 2 898 0 0
+/casamento/paginafoto12.html 2 900 0 0
+/casamento/paginafoto88.html 2 900 0 0
+/casamento/paginafoto11.html 2 900 0 0
+/casamento/paginafoto8.html 2 880 0 0
+/casamento/paginafoto1a.html 2 898 0 0
+/casamento/paginafoto1.html 2 898 0 0
+/casamento/paginafoto5.html 2 1194 0 0
+/casamento/paginafoto14.html 2 876 0 0
+/casamento/paginafoto7.html 2 1546 0 0
+/casamento/paginafoto6.html 2 872 0 0
+/casamento/paginafotoalbum.html 2 898 0 0
+/escola/paginafoto16.html 1 435 0 1
+/escola/paginafoto20.html 1 450 1 1
+/escola/paginafoto22a.html 1 434 1 0
+/escola/paginafoto5.html 1 434 0 1
+/escola/paginafoto26a.html 1 435 0 0
+/escola/paginafoto9.html 1 434 1 1
+/escola/paginafoto8.html 1 434 1 1
+/aniversario/paginafoto7.html 1 449 0 0
+/escola/final%20de%20ano.html 1 999 0 0
+/escola/paginafoto6.html 1 434 0 1
+/escola/paginafoto27.html 1 450 1 1
+/escola/paginafoto15.html 1 435 0 0
+/escola/paginafoto24a.html 1 435 0 0
+/escola/paginafoto18.html 1 450 1 0
+/aniversario/paginafoto1.html 1 443 0 1
+/aniversario/paginafoto22.html 1 443 1 0
+/aniversario/paginafoto4.html 1 443 0 1
+/escola/paginafoto23a.html 1 435 0 1
+/aniversario/paginafoto3.html 1 442 0 0
+/aniversario/paginafoto18.html 1 443 0 1
+/aniversario/paginafoto5.html 1 443 0 0
+/escola/paginafoto14.html 1 450 1 0
+/escola/paginafoto22.html 1 435 1 1
+/escola/paginafoto2b.html 1 434 1 0
+/escola/paginafoto3.html 1 434 0 0
+END_SIDER

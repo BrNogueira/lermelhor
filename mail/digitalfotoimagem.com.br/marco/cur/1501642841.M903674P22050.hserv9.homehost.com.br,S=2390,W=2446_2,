@@ -1,0 +1,56 @@
+Return-Path: <comercial@homehost.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id yXo/MllAgVkiVgAAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Wed, 02 Aug 2017 00:00:41 -0300
+Return-path: <comercial@homehost.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Wed, 02 Aug 2017 00:00:41 -0300
+Received: from mailalt.homehost.com.br ([177.85.98.241]:33428)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <comercial@homehost.com.br>)
+	id 1dcjtp-0007M2-Oo
+	for marco@digitalfotoimagem.com.br; Wed, 02 Aug 2017 00:00:41 -0300
+Received: from homehost-admin2 (www.homehost.com.br [177.184.2.204])
+	(using TLSv1.2 with cipher DHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by mailalt.homehost.com.br (Postfix) with ESMTPS id 9E7D5544325C
+	for <marco@digitalfotoimagem.com.br>; Tue,  1 Aug 2017 23:56:09 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=homehost.com.br;
+	s=defaultkey; t=1501642570;
+	bh=oYrV1/d2Yye9/pWPxNAeBBS2l2xfRHuA1eJJS3cqFmg=;
+	h=Date:To:From:Subject;
+	b=s3KQijpY4yQ2r/JY2NkhdxOEtq+LmB0ip4O6CJv9+WrXLc8TEmQloEY1m1DlRZ2gH
+	 MUNXStwt5VAhTzISz/OFAwkHp/M9Gf4+W9j0WpMwtj84mWV4WXjLkmRrYaRPqAOW+7
+	 YJwBLMqGuubJzAgObNEz5E08Rds1dDfYcIvU48eY=
+Date: Wed, 2 Aug 2017 00:00:30 -0300
+To: marco@digitalfotoimagem.com.br
+From: Homehost <comercial@homehost.com.br>
+Subject: Fatura  de hospedagem - DIGITALFOTOIMAGEM.COM.BR
+Message-ID: <38780e8c7def7dca433b5f40f1f6990c@homehost-admin2>
+X-Mailer: PHPMailer 5.2.15 (https://github.com/PHPMailer/PHPMailer)
+Feedback-ID: boleto:16744:Homehost
+MIME-Version: 1.0
+Content-Type: text/plain; charset=windows-1250
+Content-Transfer-Encoding: 8bit
+
+Olá Marco,
+
+Segue a fatura referente a hospedagem do site DIGITALFOTOIMAGEM.COM.BR .
+
+Para gerar o boleto, acesse o link abaixo:
+
+http://www.homehost.com.br/bm.php?p=2565161&u=16744
+
+Obs: caso voce nao consiga visualizar, copie e cole a linha a cima em  navegador.
+
+Obs2: pagavel em qualquer banco ate a data do vencimento. Apos esta data, o pagamento so pode ser realizado nas agencias Itau.
+
+Voce tambem pode gerar uma segunda via desta fatura a qualquer momento atraves de nosso site, na opcao Suporte.
+
+Atenciosamente,
+Homehost - Departamento Comercial
+http://www.homehost.com.br
+
+

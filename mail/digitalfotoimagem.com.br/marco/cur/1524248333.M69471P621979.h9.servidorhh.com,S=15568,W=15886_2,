@@ -1,0 +1,318 @@
+Return-Path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from h9.servidorhh.com
+	by h9.servidorhh.com with LMTP id qIxbAQ0v2lqbfQkArjWGVg
+	for <marco@digitalfotoimagem.com.br>; Fri, 20 Apr 2018 15:18:53 -0300
+Return-path: <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Fri, 20 Apr 2018 15:18:53 -0300
+Received: from e.gospmail.org.br ([177.139.181.238]:58145 helo=gospmail.org.br)
+	by h9.servidorhh.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89_1)
+	(envelope-from <bounces+210748-21f6-288380=gospmail.org.br@jiveon.jivesoftware.com>)
+	id 1f9acW-002bp2-HD
+	for marco@digitalfotoimagem.com.br; Fri, 20 Apr 2018 15:18:52 -0300
+Received: from localhost (e [127.0.0.1])
+	by gospmail.org.br (Postfix) with ESMTP id 130F82E40A87
+	for <marco@digitalfotoimagem.com.br>; Fri, 20 Apr 2018 15:18:06 -0300 (BRT)
+X-Virus-Scanned: amavisd-new at gospmail.org.br
+Received: from gospmail.org.br ([127.0.0.1])
+	by localhost (gospmail.org.br [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id uD13jtnEI-i3; Fri, 20 Apr 2018 15:17:57 -0300 (BRT)
+Received: from o3.jiveon.jivesoftware.com (o3.jiveon.jivesoftware.com [167.89.36.126])
+	by gospmail.org.br (Postfix) with ESMTPS id EE4442E41043
+	for <288380@gospmail.org.br>; Fri, 20 Apr 2018 15:04:56 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=jiveon.jivesoftware.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-id; 
+	s=smtpapi; bh=Z3KXYJQAlzFH7VjRDu8v1dyVoss=; b=uGm+vIwsPlD/ws0Fgg
+	43Nh0EJ+u5Z5qaXv7u4IeKjBTdLzk8YmPtxKBzppB7lHR98lVfo6PPl1a5ET6JeT
+	KJulzy2ovAKTJvzhNAy6MrqntBjgzo5g6IBN06x+QnzMbJli+cdgz0mZHJQCycLE
+	rOEZWNTFEbBQXVByz/SHLaCaM=
+Received: by filter0533p1las1.sendgrid.net with SMTP id filter0533p1las1-8611-5ADA2BA3-4A
+        2018-04-20 18:04:19.933601536 +0000 UTC
+Received: from jiveon-mx3-out.phx1.jivehosted.com (jiveon-mail.phx1.jivehosted.com [204.93.64.13])
+	by ismtpd0007p1sjc2.sendgrid.net (SG) with ESMTP id 0Ju9rvIdSjaXblk2knW0Rw
+	for <288380@gospmail.org.br>; Fri, 20 Apr 2018 18:04:20.257 +0000 (UTC)
+Received: from gosp-x-jc-t-wa02.dynphx1.jivehosted.com (ip50-vlb1-services.phx1.jivehosted.com [10.160.25.50])
+	by jiveon-mx3-out.phx1.jivehosted.com (Postfix) with ESMTP id 0A53C244A8
+	for <288380@gospmail.org.br>; Fri, 20 Apr 2018 18:04:20 +0000 (GMT)
+Date: Fri, 20 Apr 2018 18:04:19 +0000 (UTC)
+From: 279072 <gosp-x@jiveon.com>
+Reply-To: jive-774985992-7qj-2u-bak@mail.gosp-x.jiveon.com
+To: Marco Parise <288380@gospmail.org.br>
+Message-ID: <102-14636-3-3091-1524243397443.jive.jivemailuser@https://gosp-x.jiveon.com>
+Subject: =?UTF-8?Q?[Mural_da_Rede_Social_do_GOSP]_-_Rito_Brasileiro?=
+ =?UTF-8?Q?_ganha_mais_um_Aprendiz_na_ARLS_Lauro_Sodr=C3=A9_4498?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_79751_2070622494.1524247460033"
+Auto-Submitted: auto-replied
+X-Auto-Response-Suppress: OOF
+List-ID: Mural da Rede Social do GOSP
+Content-Disposition: inline
+X-Jive-Office: jive-774985992-7qj-2u-bak@mail.gosp-x.jiveon.com
+X-CSA-Complaints: whitelist-complaints@eco.de
+X-SG-EID: MC+mAxPPER372lmDFdFHyMxARzYmaHZCEvHbMx1UJ2ji3maFv832GJuHXVGy36JHy7HKaZyInGeTqT
+ 5rWx4PRRhMBKC/yFlczApeNKYRlFNGVWJWjo7beh0GyMewoRS6ODpGSVj1bM9aiyBGgJaj6oPlhKvm
+ /R41jkn61LzO4dJe2VrBuW6Qr2kqyIq6gzbnbftm3kuhmVJiKgENM+4Fug==
+X-SG-ID: 6Iv2lwEhBxW0L1FeqtuSgBOmISLrKUu9Fa/YMNgnbEE5EhrW3D7SLFRibDyA+q3lprJkRykUNJDiRA
+ QSs6YZ0ecMjXb/pFXZuoqQqmFuofcMt/WVziWg/mc3H7QY0VK1
+
+------=_Part_79751_2070622494.1524247460033
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_79750_27148888.1524247460033"
+
+------=_Part_79750_27148888.1524247460033
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+Gilv=C3=A9cio Paulo Arruda de Oliveira Junior [https://gosp-x.jiveon.com/pe=
+ople/279072?et=3Dwatches.email.document] criou o documento:
+"Rito Brasileiro ganha mais um Aprendiz na ARLS Lauro Sodr=C3=A9 4498"=20
+
+Para visualizar o documento, visite: https://gosp-x.jiveon.com/docs/DOC-146=
+36-rito-brasileiro-ganha-mais-um-aprendiz-na-arls-lauro-sodr=C3=A9-4498?et=
+=3Dwatches.email.document
+
+--------------------------------------------------------------
+Inicia=C3=A7=C3=A3o do agora Ir.=C2=B4. Evandro Vieira Gon=C3=A7alves na AR=
+LS Lauro Sodr=C3=A9 4498 do Rito Brasileiro na noite de 19 de Abril de 2018.
+Entre as autoridades presentes o Ministro do Tribunal de Contas o Ir.=C2=B4=
+.Jos=C3=A9 Teruo Mizuno, o Coordenador Regional da 18=C2=AA regional a 1=C2=
+=AA Macro o Ir.=C2=B4.=C2=A0Gilv=C3=A9cio Paulo Arruda de Oliveira Junior (=
+https://gosp-x.jiveon.com/people/279072)=C2=A0e o Deputado Estadual de Brag=
+an=C3=A7a Paulista o Ir.=C2=B4. REGIS LEMOS  (https://gosp-x.jiveon.com/peo=
+ple/153740)=E2=80=8C.
+ https://gosp-x.jiveon.com/servlet/JiveServlet/downloadImage/102-14636-1-10=
+8173/WhatsApp+Image+2018-04-19+at+22.56.jpg  (https://gosp-x.jiveon.com/ser=
+vlet/JiveServlet/showImage/102-14636-1-108173/WhatsApp+Image+2018-04-19+at+=
+22.56.jpg) https://gosp-x.jiveon.com/servlet/JiveServlet/downloadImage/102-=
+14636-1-108174/WhatsApp+Image+2018-04-19+at+22.56.25.jpeg  (https://gosp-x.=
+jiveon.com/servlet/JiveServlet/showImage/102-14636-1-108174/WhatsApp+Image+=
+2018-04-19+at+22.56.25.jpeg) https://gosp-x.jiveon.com/servlet/JiveServlet/=
+downloadImage/102-14636-1-108175/WhatsApp+Image+2018-04-19+at+22.56.25+%281=
+%29.jpeg  (https://gosp-x.jiveon.com/servlet/JiveServlet/showImage/102-1463=
+6-1-108175/WhatsApp+Image+2018-04-19+at+22.56.25+%281%29.jpeg)
+--------------------------------------------------------------
+
+Comente respondendo a este e-mail ou v=C3=A1 para o documento em REDE SOCIA=
+L DO GOSP
+[https://gosp-x.jiveon.com/docs/DOC-14636-rito-brasileiro-ganha-mais-um-apr=
+endiz-na-arls-lauro-sodr=C3=A9-4498?et=3Dwatches.email.document]
+
+Crie um novo documento em Mural da Rede Social do GOSP por e-mail
+[documents-community-mural@mail.gosp-x.jiveon.com] ou em REDE SOCIAL DO GOSP
+[https://gosp-x.jiveon.com/choose-container.jspa?contentType=3D102&containe=
+rType=3D14&container=3D2336&et=3Dwatches.email.document]
+
+Este e-mail foi enviado pela REDE SOCIAL DO GOSP porque voc=C3=AA =C3=A9 um=
+ usu=C3=A1rio registrado.
+Voc=C3=AA pode cancelar a assinatura agora mesmo em https://gosp-x.jiveon.c=
+om/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0=
+ee232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c ou ajustar a frequ=C3=AA=
+ncia de e-mail nas prefer=C3=AAncias do seu e-mail (https://gosp-x.jiveon.c=
+om/user-preferences!input.jspa).
+
+------=_Part_79750_27148888.1524247460033
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+=09
+	<title></title>
+	<style type=3D"text/css">
+    * {
+		margin: 0;
+		padding: 0;
+	}
+	a {
+		color: #3778C7 !important;
+	}
+	body {
+		font-family: Helvetica, Arial, sans-serif;
+		-webkit-text-size-adjust: 100%;
+	}
+	/* Webkit */
+	h1, h2, h3, h4, h5, h6, p, hr {
+		-webkit-margin-before: 0;
+		-webkit-margin-after: 0;
+		-webkit-margin-start: 0;
+		-webkit-margin-end: 0;
+	}
+	.button td {
+		background-image: -moz-linear-gradient(top, #75B7E3 0%, #5498D6 50%, #408=
+BD0 51%, #387AC8 100%) !important;
+		background-image: -webkit-gradient(linear, left top, left bottom, color-s=
+top(0%,#75B7E3), color-stop(50%,#5498D6), color-stop(51%,#408BD0), color-st=
+op(100%,#387AC8)) !important;
+		-webkit-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !impo=
+rtant;
+		-moz-box-shadow: inset 0 1px 0 #74b9de, 0 1px 3px rgba(0,0,0,.3) !importa=
+nt;
+	}
+	</style>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+</head>
+<body style=3D"width:100% !important; -webkit-font-smoothing: antialiased; =
+-webkit-text-size-adjust: 100%;">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff=
+" width=3D"100%" style=3D"background-color: #ffffff; margin: 0; padding: 0;=
+">
+		<tbody>
+			<tr>
+				<td style=3D"padding: 20px 20px 20px 20px;">
+<table class=3D"header" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wi=
+dth=3D"100%">
+	<tbody>
+		<tr>
+			<td valign=3D"top" align=3D"left">
+				<h1 style=3D"color: #333333; margin: 0 0 20px 0; font-weight: normal; f=
+ont-size: 24px; font-family: Helvetica, Arial, sans-serif; text-shadow: rgb=
+a(255,255,255,.9) 0 1px 0;">
+					<!-- To have a header image/logo replace the name below with your img =
+tag -->
+					<!-- Email clients will render the images when the message is read so =
+any image -->
+					<!-- must be made available on a public server, so that all recipients=
+ can load the image. -->
+					<a href=3D"https://gosp-x.jiveon.com/?et=3Dwatches.email.document" sty=
+le=3D"color:#333333 !important; text-decoration: none;">
+							<font color=3D"#333333" style=3D"color:#333333;">REDE SOCIAL DO GOSP=
+</font>
+					</a>
+				</h1>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class=3D"content" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ff=
+ffff" border=3D"0" width=3D"100%" style=3D"width: 100%; -moz-border-radius:=
+ 8px; -webkit-border-radius: 8px; border-radius: 8px;">
+	<tbody>
+		<tr>
+			<td valign=3D"middle" style=3D"padding-top: 10px; padding-right: 0px; pa=
+dding-bottom: 20px; padding-left: 0px;"><h2 style=3D'color: #666666; margin=
+: 0 0 0 0; font-weight: normal; font-size: 24px; font-family: Helvetica, Ar=
+ial, sans-serif;'>
+    Rito Brasileiro ganha mais um Aprendiz na ARLS Lauro Sodr=C3=A9 4498
+</h2>
+<p style=3D'color: #999999; margin-bottom: 20px; font-size: 12px; line-heig=
+ht: 18px; font-family: Helvetica, Arial, sans-serif;'>
+criado por <a href=3D"https://gosp-x.jiveon.com/people/279072?et=3Dwatches.=
+email.document">Gilv=C3=A9cio Paulo Arruda de Oliveira Junior</a> em <i>Mur=
+al da Rede Social do GOSP</i> - <a href=3D"https://gosp-x.jiveon.com/docs/D=
+OC-14636-rito-brasileiro-ganha-mais-um-aprendiz-na-arls-lauro-sodr=C3=A9-44=
+98?et=3Dwatches.email.document">Visualize o documento completo</a></p>
+
+<hr style=3D'background-color: #cccccc; height: 1px; margin-bottom: 20px; b=
+order: none;'>
+
+<div style=3D'color: #666666; margin-bottom: 20px; font-size: 14px; line-he=
+ight: 20px; font-family: Helvetica, Arial, sans-serif;'>
+<div class=3D"jive-rendered-content"><p><span style=3D"color: #666666; back=
+ground-color: #ffffff; font-size: 30px;">Inicia&#231;&atilde;o do agora Ir.=
+&acute;. Evandro Vieira Gon&#231;alves na ARLS Lauro Sodr&eacute; 4498 do R=
+ito Brasileiro na noite de 19 de Abril de 2018.<br/>Entre as autoridades pr=
+esentes o Ministro do Tribunal de Contas o Ir.&acute;.Jos&eacute; Teruo Miz=
+uno, o Coordenador Regional da 18&#170; regional a 1&#170; Macro o Ir.&acut=
+e;.&#160;<a class=3D"jive-link-profile-small jiveTT-hover-user" data-contai=
+nerId=3D"-1" data-containerType=3D"-1" data-objectId=3D"3091" data-objectTy=
+pe=3D"3" href=3D"https://gosp-x.jiveon.com/people/279072">Gilv&eacute;cio P=
+aulo Arruda de Oliveira Junior</a>&#160;e o Deputado Estadual de Bragan&#23=
+1;a Paulista o Ir.&acute;. <a class=3D"jive-link-profile-small jiveTT-hover=
+-user" data-containerId=3D"-1" data-containerType=3D"-1" data-objectId=3D"2=
+2017" data-objectType=3D"3" href=3D"https://gosp-x.jiveon.com/people/153740=
+">REGIS LEMOS </a>.</span></p><p><span style=3D"color: #666666; background-=
+color: #ffffff; font-size: 30px;"><a href=3D"https://gosp-x.jiveon.com/serv=
+let/JiveServlet/showImage/102-14636-1-108173/WhatsApp+Image+2018-04-19+at+2=
+2.56.jpg"><span> https://gosp-x.jiveon.com/servlet/JiveServlet/downloadImag=
+e/102-14636-1-108173/WhatsApp+Image+2018-04-19+at+22.56.jpg </span></a><a h=
+ref=3D"https://gosp-x.jiveon.com/servlet/JiveServlet/showImage/102-14636-1-=
+108174/WhatsApp+Image+2018-04-19+at+22.56.25.jpeg"><span> https://gosp-x.ji=
+veon.com/servlet/JiveServlet/downloadImage/102-14636-1-108174/WhatsApp+Imag=
+e+2018-04-19+at+22.56.25.jpeg </span></a><a href=3D"https://gosp-x.jiveon.c=
+om/servlet/JiveServlet/showImage/102-14636-1-108175/WhatsApp+Image+2018-04-=
+19+at+22.56.25+%281%29.jpeg"><span> https://gosp-x.jiveon.com/servlet/JiveS=
+ervlet/downloadImage/102-14636-1-108175/WhatsApp+Image+2018-04-19+at+22.56.=
+25+%281%29.jpeg </span></a></span></p></div>
+</div>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" bgco=
+lor=3D"#f5f5f5" style=3D'padding: 10px; margin-top: 40px;'>
+<tbody>
+    <tr>
+        <td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-h=
+eight: 20px; font-family: Helvetica, Arial, sans-serif;'>
+            Comente respondendo a este e-mail ou <a href=3D"https://gosp-x.=
+jiveon.com/docs/DOC-14636-rito-brasileiro-ganha-mais-um-aprendiz-na-arls-la=
+uro-sodr=C3=A9-4498?et=3Dwatches.email.document" style=3D'color: #3778C7; t=
+ext-decoration: none;'>v=C3=A1 para o documento em REDE SOCIAL DO GOSP</a>
+        </td>
+    </tr>
+
+	<tr>
+		<td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-height:=
+ 20px; font-family: Helvetica, Arial, sans-serif;'>
+		Crie um novo documento em Mural da Rede Social do GOSP por <a href=3D"mai=
+lto:documents-community-mural@mail.gosp-x.jiveon.com">e-mail</a>ou em <a hr=
+ef=3D"https://gosp-x.jiveon.com/choose-container.jspa?contentType=3D102&con=
+tainerType=3D14&container=3D2336&et=3Dwatches.email.document" style=3D'colo=
+r: #3778C7; text-decoration: none;'>REDE SOCIAL DO GOSP</a>
+		</td>=20=20=20=20
+	</tr>
+
+    <tr>
+		<td valign=3D"top" style=3D'color: #666666; font-size: 14px; line-height:=
+ 20px; font-family: Helvetica, Arial, sans-serif;'>
+		Seguindo <a href=3D"https://gosp-x.jiveon.com/community/mural?et=3Dwatche=
+s.email.document" style=3D'color: #3778C7; text-decoration: none;'>Mural da=
+ Rede Social do GOSP</a> nestes fluxos:
+     Novidades no Mural
+    </td>
+    </tr>
+ </tbody>
+</table>
+                    <p style=3D'color: #666666; margin-top: 20px; font-size=
+: 14px; line-height: 20px; font-family: Helvetica, Arial, sans-serif;'>
+                        Este e-mail foi enviado pela Rede Social do GOSP po=
+rque voc=C3=AA =C3=A9 um usu=C3=A1rio registrado.
+	                        Voc=C3=AA pode <a href=3D"https://gosp-x.jiveon.co=
+m/unsubscribe.jspa?email=3D288380%40gospmail.org.br&token=3D0a695d18c524b0e=
+e232edba077c0d737bd9f3c97b3139fb1d2b040d98bf2877c">cancelar a assinatura</a=
+> agora mesmo ou ajustar a frequ=C3=AAncia de e-mail nas <a href=3D"https:/=
+/gosp-x.jiveon.com/user-preferences!input.jspa">prefer=C3=AAncias do seu e-=
+mail</a>
+                    </p>
+            </td>
+		</tr>
+	</tbody>
+</table>
+			    </td>
+			</tr>
+		</tbody>
+	</table>
+
+<img src=3D"http://jiveon.jivesoftware.com/wf/open?upn=3DlkDbH7-2FnFH7oeBGC=
+GoMHz9T22eb3DvjuBfkB1ASadAwAtbqNYYkVs4MwAGOqDuR5N49BZM9PLfhYH64a-2FtseS-2B2=
+0VClIh2pSJu7hrlYHJwiSU23jTWtnpYLDErKJicBda4L2DNBwFgJJSxLKeGfKpiKpAIA519Rkn-=
+2FSGf55P-2FHgxEo-2BHRJfA46-2FAWYoAHuiRXXqy-2FKteCmckmtw2-2BfxEUaO-2FMA-2FwC=
+AT5CNjd29MFvBcwgy5tjp43jVgdeHxrvIbKQejmRv3nDWYCKOFtb7zok-2FZA1M4YlvKskPMNoq=
+eiIMCgN8cMYL6VeTWWPt-2FZwF1ltx-2BS6wGv1lNED6ZvKr5EpQ-3D-3D" alt=3D"" width=
+=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !=
+important;border-width:0 !important;margin-top:0 !important;margin-bottom:0=
+ !important;margin-right:0 !important;margin-left:0 !important;padding-top:=
+0 !important;padding-bottom:0 !important;padding-right:0 !important;padding=
+-left:0 !important;"/>
+</body>
+</html>
+
+------=_Part_79750_27148888.1524247460033--
+
+------=_Part_79751_2070622494.1524247460033--
+

@@ -1,0 +1,126 @@
+Return-Path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.solbiz.com.br>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from h9.servidorhh.com
+	by h9.servidorhh.com with LMTP id 4Lz/F4o5V1sHLwkArjWGVg
+	for <marco@digitalfotoimagem.com.br>; Tue, 24 Jul 2018 11:36:58 -0300
+Return-path: <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.solbiz.com.br>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Tue, 24 Jul 2018 11:36:58 -0300
+Received: from o122.mailsg.leadlovers.com ([167.89.105.255]:57208)
+	by h9.servidorhh.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <bounces+2384809-a20a-marco=digitalfotoimagem.com.br@mailsg.solbiz.com.br>)
+	id 1fhyQs-002b2w-6r
+	for marco@digitalfotoimagem.com.br; Tue, 24 Jul 2018 11:36:58 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=solbiz.com.br; 
+	h=content-type:from:mime-version:subject:to:list-unsubscribe; 
+	s=m1; bh=v1SUmoQ9Xe2bJI55dG8ox/+YcYA=; b=IkNntCc4J38LRtpcbhQQtEv
+	qGRAm5bW9kv7JWWAKVH5Zx/ddIz9i1CByrXDcfhmo6COv1OoKJLEkeBDoFaokTrn
+	7qVWN3L6WptS+2QUNObkqA0CP36XAgFZpR86dT+i54DwMa8heVqdruVYO4PYJADr
+	lzC6ARwuqKY5krJRIgI8=
+Received: by filter0062p3las1.sendgrid.net with SMTP id filter0062p3las1-2432-5B573941-58
+        2018-07-24 14:35:46.69726059 +0000 UTC m=+54019.456281625
+Received: from MjM4NDgwOQ (m3640.contabo.host [5.189.178.140])
+	by ismtpd0004p1lon1.sendgrid.net (SG) with HTTP id UH9BpLNUTwCR-592Dp0xUg
+	Tue, 24 Jul 2018 14:35:45.685 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=89749cfd298722ffecd80d762ea9e94f5ce6e0ed025df2a65b66811c16e8
+Date: Tue, 24 Jul 2018 14:36:13 +0000 (UTC)
+From: "Paulo Gerhardt" <paulo.gerhardt@solbiz.com.br>
+Mime-Version: 1.0
+Subject: =?UTF-8?B?TyBxdWUgaW1wZWRlIHRlciByZXN1bHRhZG9zIHN1cGVyaW9yZXMgbm8gdGV1IG5lZ8OzY2lvPw==?=
+To: <marco@digitalfotoimagem.com.br>
+Message-ID: <UH9BpLNUTwCR-592Dp0xUg@ismtpd0004p1lon1.sendgrid.net>
+List-Unsubscribe: <mailto:unsubscribe@mailsg.solbiz.com.br?subject=https://u2384809.ct.sendgrid.net/wf/unsubscribe*q*upn=LSCheCCiOQ1Sxmnfp3GwDkn4VdUNGq5ltO8idz-2FIzYKfAHKRG9eTU7mmwt9nuMRiNL5UQMZXcoi6mKHrHRQ0FMz8LtjdZXe10h9D6F9nSB-2FN976qsQm-2Fe6heToficae68eAMNoDvzobZ7eFQonEhhaU5S8RYWEKbD2SdHLaNP4-2BBF374Ys5oKVSUIdlrncZ0bfT4AoqMRtRRbl4fw4iGMtKS3Ei7Ns-2Fvl-2FUmSzAmxA-2B-2FhJVF1MmoKav7AHTszHfRNBsg-2BmhR3BK3ejpunKldkMAsIRrtrt1ME2Fmi6u12qRdREty1K3T6VTvm61PZv5cHn7I6PMt-2FqzlarG6C0zacdjUPNIDfMsDu7AxpxKRSfWotXOQDPzLsCqfd2hzfHDXwN3DOU8WeKYZlRh2EDK40iU3rZmFo9-2FseMt4Zhotyy-2FiUXGx9Y2cJndIwZh-2BdLS2>
+X-SG-EID: Hch+2AQw5UfQtHqV+P/3h94kWa/z3uc7aT9t1ffNJX6ejfdpfjs1c7IIdtNthFh94WmpTjs8aYxSIA
+ W6YSvh1Kqu9MRfEJXSvZb74iAyj4xwfLO5eQaeMqa8+wSIsqk7NXXSK1O4LtVnuAOCATu+SBd83Uz5
+ j9/ecUOOVW0y5JYX7WCw2BKplUr7xSU2FAT+SUijw/qnfUndKqbThzJup7wkEe9zm4xfKAkqilrV7I
+ nqdyAplrUTXDh1JSsXiWOa
+X-SG-ID: lkbpAUns11GO9BdGkh+MdAj9XRfhrTMuu2GWF6w58UCokHn5p3gsrGasnGdFXFRV30PXbjPsmpf/7b
+ h2iorRs5ttVnu6SADDTouGZ6PWNq9OUcqX/PVnM40Ct7v+SdCaej53P759IieKifiDEDLErayXrMWb
+ g02CYcYiQbkTKOKyWlkTDSxjhXc2kz1pdHhIcLMiH6MNmMhp0HWt9XYwRPjF0nXITDMlsn/m58MsFb
+ 4=
+
+--89749cfd298722ffecd80d762ea9e94f5ce6e0ed025df2a65b66811c16e8
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+=0D=0DOl=C3=A1, =0D=0DTudo bem? Muito tenho escutado nos =C3=BAltimos tempo=
+s que os neg=C3=B3cios n=C3=A3o v=C3=A3o bem, que as vendas baixaram e que =
+os lucros reduziram. Voc=C3=AA tamb=C3=A9m est=C3=A1 passando por isto? =0D=
+=0DSe est=C3=A1 interessado em resolver isto, leia este email at=C3=A9 o fi=
+nal. =0D=0DA primeira rea=C3=A7=C3=A3o =C3=A9 ficar paralisado esperando qu=
+e o cen=C3=A1rio melhore. Como n=C3=A3o h=C3=A1 melhoria, come=C3=A7a, ent=
+=C3=A3o, uma redu=C3=A7=C3=A3o indiscriminada de despesas com corte de pess=
+oal, investimentos e custos com marketing e vendas O problema =C3=A9 que es=
+ta redu=C3=A7=C3=A3o leva o neg=C3=B3cio a uma situa=C3=A7=C3=A3o insustent=
+=C3=A1vel em pouco tempo, pois entra em um c=C3=ADrculo vicioso, redu=C3=A7=
+=C3=A3o das vendas, redu=C3=A7=C3=A3o dos lucros, redu=C3=A7=C3=A3o dos cus=
+tos, redu=C3=A7=C3=A3o das vendas, redu=C3=A7=C3=A3o dos lucros, redu=C3=A7=
+=C3=A3o dos custos... Isto, geralmente, acaba, com o fechamento do neg=C3=
+=B3cio, deixando um rastro de d=C3=ADvidas e traumas que v=C3=A3o seguir o =
+empreendedor por muito tempo. =0D=0DTemos atendido muitas empresas nesta si=
+tua=C3=A7=C3=A3o e notamos que os problemas s=C3=A3o sempre os mesmos, inde=
+pendente do tamanho ou segmento de neg=C3=B3cio. Quando pergunto para empre=
+s=C3=A1rios e profissionais liberais o que est=C3=A1 acontecendo. A grande =
+maioria p=C3=B5e a culpa no cen=C3=A1rio econ=C3=B4mico do pa=C3=ADs ou na =
+alta do d=C3=B3lar. Isto demonstra uma total impot=C3=AAncia diante da situ=
+a=C3=A7=C3=A3o atual, deixando que fatores externos dirijam seu neg=C3=B3ci=
+o e sua vida. =0D=0DMas ser=C3=A1 que todo mundo est=C3=A1 passando por ist=
+o? Certamente, n=C3=A3o. O interessante =C3=A9 que alguns empreendedores es=
+t=C3=A3o tendo muito sucesso atuando no mesmo cen=C3=A1rio de mercado. Qual=
+ =C3=A9 a diferen=C3=A7a desta minoria de empreendedores? =0D=0DFique atent=
+o que amanh=C3=A3 vou te enviar um novo email te revelando o que estes empr=
+eendedores est=C3=A3o fazendo diferente de voc=C3=AA para alcan=C3=A7ar tan=
+to sucesso. =0D=0DAbra=C3=A7os =0D=0DPaulo Gerhardt  Ajudo Empresas a Alcan=
+=C3=A7ar Resultados SuperioresClique aqui para n=C3=A3o receber mais e-mail=
+s dessa lista (Unsubscribe).
+
+--89749cfd298722ffecd80d762ea9e94f5ce6e0ed025df2a65b66811c16e8
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE><p>Ol&aacute;,</p>
+<p>Tudo bem? Muito tenho escutado nos &uacute;ltimos tempos que os neg&oacu=
+te;cios n&atilde;o v&atilde;o bem, que as vendas baixaram e que os lucros r=
+eduziram. Voc&ecirc; tamb&eacute;m est&aacute; passando por isto?</p>
+<p>Se est&aacute; interessado em resolver isto, leia este email at&eacute; =
+o final.</p>
+<p>A primeira rea&ccedil;&atilde;o &eacute; ficar paralisado esperando que =
+o cen&aacute;rio melhore. Como n&atilde;o h&aacute; melhoria, come&ccedil;a=
+, ent&atilde;o, uma redu&ccedil;&atilde;o indiscriminada de despesas com co=
+rte de pessoal, investimentos e custos com marketing e vendas&nbsp; O probl=
+ema &eacute; que esta redu&ccedil;&atilde;o leva o neg&oacute;cio a uma sit=
+ua&ccedil;&atilde;o insustent&aacute;vel em pouco tempo, pois entra em um c=
+&iacute;rculo vicioso, redu&ccedil;&atilde;o das vendas, redu&ccedil;&atild=
+e;o dos lucros, redu&ccedil;&atilde;o dos custos, redu&ccedil;&atilde;o das=
+ vendas, redu&ccedil;&atilde;o dos lucros, redu&ccedil;&atilde;o dos custos=
+... Isto, geralmente, acaba, com o fechamento do neg&oacute;cio, deixando u=
+m rastro de d&iacute;vidas e traumas que v&atilde;o seguir o empreendedor p=
+or muito tempo.</p>
+<p>Temos atendido muitas empresas nesta situa&ccedil;&atilde;o e notamos qu=
+e os problemas s&atilde;o sempre os mesmos, independente do tamanho ou segm=
+ento de neg&oacute;cio. Quando pergunto para empres&aacute;rios e profissio=
+nais liberais o que est&aacute; acontecendo. A grande maioria p&otilde;e a =
+culpa no cen&aacute;rio econ&ocirc;mico do pa&iacute;s ou na alta do d&oacu=
+te;lar. Isto demonstra uma total impot&ecirc;ncia diante da situa&ccedil;&a=
+tilde;o atual, deixando que fatores externos dirijam seu neg&oacute;cio e s=
+ua vida.</p>
+<p>Mas ser&aacute; que todo mundo est&aacute; passando por isto? Certamente=
+, n&atilde;o. O interessante &eacute; que alguns empreendedores est&atilde;=
+o tendo muito sucesso atuando no mesmo cen&aacute;rio de mercado. Qual &eac=
+ute; a diferen&ccedil;a desta minoria de empreendedores?</p>
+<p>Fique atento que amanh&atilde; vou te enviar um novo email te revelando =
+o que estes empreendedores est&atilde;o fazendo diferente de voc&ecirc; par=
+a alcan&ccedil;ar tanto sucesso.</p>
+<p>Abra&ccedil;os</p>
+<p>Paulo Gerhardt <br /> Ajudo Empresas a Alcan&ccedil;ar Resultados Superi=
+ores</p><a href=3D"http://click.meunegocio.solutions/redirect/redirect.aspx=
+?A=3DU&u=3DA036FFBB-25F6-4BC8-B953-EAB63BFCD3FB" target=3D"_blank">Clique a=
+qui para n&atilde;o receber mais e-mails dessa lista (Unsubscribe).</a><br =
+/><img alt=3D"" src=3D"http://click.meunegocio.solutions/redirect/redirect.=
+aspx?A=3DV&u=3DA036FFBB-25F6-4BC8-B953-EAB63BFCD3FB&IMG=3Dhttps://leadlover=
+s.com/content/images/1px.png" />
+
+--89749cfd298722ffecd80d762ea9e94f5ce6e0ed025df2a65b66811c16e8--

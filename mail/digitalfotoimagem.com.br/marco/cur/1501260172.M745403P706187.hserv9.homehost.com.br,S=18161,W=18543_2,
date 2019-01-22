@@ -1,0 +1,382 @@
+Return-Path: <fernandozf@hotmail.com>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id wSMaIIxpe1mLxgoAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Fri, 28 Jul 2017 13:42:52 -0300
+Return-path: <fernandozf@hotmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Fri, 28 Jul 2017 13:42:52 -0300
+Received: from mail-oln040092006032.outbound.protection.outlook.com ([40.92.6.32]:31494 helo=NAM03-BY2-obe.outbound.protection.outlook.com)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <fernandozf@hotmail.com>)
+	id 1db8Lk-002yFI-48
+	for marco@digitalfotoimagem.com.br; Fri, 28 Jul 2017 13:42:52 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=ImcYucVrlV2CT3QXU7qx7m6iAuY429yHwbDKxtkMqGA=;
+ b=Q1Zu8MzU/U/ggFhTs8ZMsWwZ4khz/4xrFju3qHIXsz2lY3c85Ed3+7v/HUQqnJOkdGjJBzZIC54Z9+n/+tj6GIeImrzJSZYedh8EgR1au4jIUHgZn7snALUVoNyOx8RnGD1YR141/FXwNv4rWmCzVrNKCg4sQgeBlv0n7b07Sb63dZjVWrcpYFHoUIEG1nAUFBOcPYvNXoFsz2+cvu/QtI5Z//E/7RBXRXEm+UrkSDxyDcVwoJTnv4pDrkNFNJnx0rEbD81gn2GcddI+ram/4e11KbOA8ASHLygd305C7bRLULzmcAT05YT6Fes77+6RRe8rZM7MTXJQtKBM11xRmw==
+Received: from DM3NAM03FT042.eop-NAM03.prod.protection.outlook.com
+ (10.152.82.59) by DM3NAM03HT096.eop-NAM03.prod.protection.outlook.com
+ (10.152.83.17) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.1282.16; Fri, 28
+ Jul 2017 16:41:55 +0000
+Received: from BN3PR18MB0610.namprd18.prod.outlook.com (10.152.82.54) by
+ DM3NAM03FT042.mail.protection.outlook.com (10.152.83.174) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.1.1282.16 via Frontend Transport; Fri, 28 Jul 2017 16:41:55 +0000
+Received: from BN3PR18MB0610.namprd18.prod.outlook.com ([10.165.116.140]) by
+ BN3PR18MB0610.namprd18.prod.outlook.com ([10.165.116.140]) with mapi id
+ 15.01.1282.021; Fri, 28 Jul 2017 16:41:55 +0000
+From: Fernando Ziesmann Fortes <fernandozf@hotmail.com>
+To: "andrelpgodoi@gmail.com" <andrelpgodoi@gmail.com>,
+	"celsotessari@gmail.com" <celsotessari@gmail.com>,
+	"carlos.flaminio@gmail.com" <carlos.flaminio@gmail.com>, "cmave96@gmail.com"
+	<cmave96@gmail.com>, "demetriopendek@hotmail.com"
+	<demetriopendek@hotmail.com>, "eduardocamacho@uol.com.br"
+	<eduardocamacho@uol.com.br>, "ebernardinolopes@uol.com.br"
+	<ebernardinolopes@uol.com.br>, "everth@mixlav.com.br" <everth@mixlav.com.br>,
+	"szfaria@gmail.com" <szfaria@gmail.com>, Fernando Ziesmann Fortes
+	<fernandozf@hotmail.com>, "enghgomes@gmail.com" <enghgomes@gmail.com>,
+	"humberto.serrano@hotmail.com" <humberto.serrano@hotmail.com>,
+	"j.felix10@bol.com.br" <j.felix10@bol.com.br>, "jcl@tech-air.com.br"
+	<jcl@tech-air.com.br>, "ctt3843@egoshi.com.br" <ctt3843@egoshi.com.br>,
+	"marceloeloyfernandes@gmail.com" <marceloeloyfernandes@gmail.com>,
+	"parise@lermelhor.com.br" <parise@lermelhor.com.br>,
+	"marco@digitalfotoimagem.com.br" <marco@digitalfotoimagem.com.br>,
+	"marckopat@live.com" <marckopat@live.com>, "ncosta@usa.com" <ncosta@usa.com>,
+	"nelpendek@hotmail.com" <nelpendek@hotmail.com>,
+	"ricardocarvalho930@gmail.com.br" <ricardocarvalho930@gmail.com.br>,
+	"squintinoj@gmail.com" <squintinoj@gmail.com>, "wanderleyssamtos@gmail.com"
+	<wanderleyssamtos@gmail.com>, "alfanohi@gmail.com" <alfanohi@gmail.com>
+Subject: =?Windows-1252?Q?Informe:_Composi=E7=E3o_das_Comiss=F5es_de_Trabalho_da_L?=
+ =?Windows-1252?Q?oja?=
+Thread-Topic: =?Windows-1252?Q?Informe:_Composi=E7=E3o_das_Comiss=F5es_de_Trabalho_da_L?=
+ =?Windows-1252?Q?oja?=
+Thread-Index: AQHTB76uQnpuhhrsh06aotm9e2HFGw==
+Date: Fri, 28 Jul 2017 16:41:54 +0000
+Message-ID: <BN3PR18MB06108B9F16BB911F9F97CE62C8BF0@BN3PR18MB0610.namprd18.prod.outlook.com>
+Accept-Language: pt-BR, en-US
+Content-Language: pt-BR
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker: OriginalChecksum:81FCA0D0FD2901A39F73FD2F6718BDCDC5B500B4B2A27853044AE09902649692;UpperCasedChecksum:695FF885799F73431AC3D91501316259BC2832B23C0372359339EB760597C139;SizeAsReceived:8393;Count:42
+x-tmn: [87kON30zCI9czkv4YJON97Jd5muqkU7d]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;DM3NAM03HT096;7:o2Y8K3/tUXIT9PcI2fsJsGTZsFgIF9v3hWRM7RnucSljLxAIdwcGCK5DqNt0NlJVgTkqouNCcs0YoUfXWRq1um1IaNAf0mCXohT5ZODu8qOWhud9qATi8p4ismlGnAcPfq32mxX5x5ihtvlvM0/8qO4iBkwYaxo/pROt4mhGWWS0G8QDOVUf4y3Ma6+GbV2MRgeNIXw9wCirF5sBk6rYZlKtPW/qkfM91sSSx206E/YoEhPYBANEmgJpLhZcUIb7v0iFjUdF6nYlZWiKzqZfXn62i6ohPkmJmU20ZirFT//iozOMSDP6EGi5fvCrWMuTO2j0J+MYfRkVk6TfZfyB+UpO8RfCq3nYdZ8Nq8kg7JtRGkNZZ2D+4T4SnIssApIvrTAZ6NArbGuMTw5Q6fFS3p1emIjuzbxgLTQ/20tWjWZwHYyIvUhWbkBFJKbqlzGz3xykcomTacs9IFe9ih+Kc2pfpJDX3mheJbxUrn8bEoD+3g0esvWu3D002egj0HVf1NRDpkmyledz1t1zlR29j7HRN9O8RzDEFF31V320k5ECFmWI7wqTI2lLFHfl2mcDoJUE3tR26aPjFVn4X8tztsEGdVFFxfcAIEs+UWkdwuUlz5lXJ95ezbTQWg5l6EjKwtQnymmOJt1WeObeubYNaPBrhZ3KZgQEfiD04W2GijGqFyG1R1NdcR2xdgoEFiubCr/ArdCtMsgU/ur8f4q9GPfJg9yQMRC+2DQpX79tOn9RBugS+Kbw8CB0/vwdCdznlR0uUbSbnmw5ctil4eF3Fg==
+x-incomingheadercount: 42
+x-eopattributedmessage: 0
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:DM3NAM03HT096;H:BN3PR18MB0610.namprd18.prod.outlook.com;FPR:;SPF:None;LANG:pt;
+x-ms-office365-filtering-correlation-id: 0f81b977-add0-48e0-2857-08d4d5d78e7e
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(300000500095)(300135000095)(300000501095)(300135300095)(22001)(300000502095)(300135100095)(300000503095)(300135400095)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(201702181274)(2017031322350)(1601125374)(1603101448)(1701031045)(300000504095)(300135200095)(300000505095)(300135600095)(300000506095)(300135500095);SRVR:DM3NAM03HT096;
+x-ms-exchange-slblob-mailprops: gCTC+H8U5EoNCIZSSugZwXYfqFO6OyndHfLgrRqbvFJg/vJ5daco3q1dIPeQF6ioXkuZa6Rotw/ICfjQ3gup+uMVb6ultxXsPPMlrTMluTzXckm3ggkgrq+E9sCPg0qXeFcHyfIVhUOip8+snGoNaUomo9bAUqc8OMtgz4ud1YRtqwHGKGZLkp9z7pIKKppQ56hEjjYnfF+H0UqdIP+hOYxtaXth49UhRrWsTTI2+fpG4ol6Cz80yw8o8FygJ1LcQOiEaLJ5V62gElK07kvWVM90hRcOM4T3FKRG5mIZB1YijunU43alKN0n2aE79Ij+PzOm0v3vjZVUInhg05pAWy2FcHIQc9ix9kUKf9oCSurIN/2JQaXFHmJCcMXpTSNII0T8hnoqsmP6h9RaEdvjjVkI9rsQ0U9BGV6Tt3b83ieS3mADGsU5ZS77YEHdO58q+i+ryQyBtP3LyjJ2D49PjAbQQo9tEev6vY0K052k4T395qISlNylwT1R2NoAmGMzIfT8ROmpOZGuMCh3tYtBS5tLFNH6ckxwlMKBZyhuFr5CqpVlcJ9JLcg2Ku/V49IQu0g0XZy70XPRAIydvIP4VOfoKI4+JssjTNKtXzZfE5VedcxR55tLFi9Gggm8GGu19mwqM38kbCQ=
+x-ms-traffictypediagnostic: DM3NAM03HT096:
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(444000031);SRVR:DM3NAM03HT096;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:DM3NAM03HT096;
+x-forefront-prvs: 03827AF76E
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BN3PR18MB06108B9F16BB911F9F97CE62C8BF0BN3PR18MB0610namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 28 Jul 2017 16:41:54.9993
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM3NAM03HT096
+
+--_000_BN3PR18MB06108B9F16BB911F9F97CE62C8BF0BN3PR18MB0610namp_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Caros Irm=E3os da CTT,
+
+
+Para ci=EAncia dos irm=E3os, segue a rela=E7=E3o da composi=E7=E3o dos memb=
+ros das Comiss=F5es de Trabalho de nossa Loja, cuja miss=E3o =E9 de ajudar =
+o Ven.=B4.M.=B4. a auxili=E1-lo na administra=E7=E3o da loja, e no cumprime=
+nto das metas de trabalho a serem formuladas em nossas sess=F5es.
+
+Comiss=E3o
+
+Nomes (mestres)
+
+I =96 Finan=E7as
+
+Tessari (presidente), Sylvio, Camacho.
+
+II =96 Admiss=E3o e Graus
+
+Sylvio, Camacho, Serrano (presidente).
+
+III =96 Benefic=EAncia
+
+Z=E9 Carlos, B=EAne (presidente), Tessari.
+
+IV- Eventos
+
+Jair Felix (presidente), Hideraldo, Edu Lopes, Wladimir, Patriniani.
+
+V- Cultura e Tecnologia
+
+Egoshi (presidente), Mave.  Marcelo Eloy.
+
+
+
+Nossa meta imediata =E9 de conversar separadamente com cada comiss=E3o para=
+ estabelecer um conjunto de objetivos de trabalho para o per=EDodo de vig=
+=EAncia de nossa veneralato.
+
+
+Fraternalmente,
+
+
+Ir.=B4. Fortes.
+
+--_000_BN3PR18MB06108B9F16BB911F9F97CE62C8BF0BN3PR18MB0610namp_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p>Caros Irm=E3os da CTT,</p>
+<p><br>
+</p>
+<p>Para ci=EAncia dos irm=E3os, segue a rela=E7=E3o da composi=E7=E3o dos m=
+embros das Comiss=F5es de Trabalho de nossa Loja, cuja miss=E3o =E9 de ajud=
+ar o Ven.=B4.M.=B4. a auxili=E1-lo na administra=E7=E3o da loja, e no cumpr=
+imento das metas de trabalho a serem formuladas em nossas sess=F5es.</p>
+<p><br>
+</p>
+<p>
+<table class=3D"MsoTableGrid" border=3D"1" cellspacing=3D"0" cellpadding=3D=
+"0" style=3D"border-collapse:collapse;border:none;mso-border-alt:solid blac=
+k .5pt;=0A=
+ mso-border-themecolor:text1;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4p=
+t 0cm 5.4pt">
+<tbody>
+<tr>
+<td width=3D"177" valign=3D"top" style=3D"width:133.0pt;border:solid black =
+1.0pt;=0A=
+  mso-border-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-th=
+emecolor:=0A=
+  text1;padding:0cm 5.4pt 0cm 5.4pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0cm;margin-b=
+ottom:.0001pt;=0A=
+  text-align:center;line-height:normal">
+<b><span style=3D"font-family:&quot;Times New Roman&quot;,serif">Comiss=E3o=
+<o:p></o:p></span></b></p>
+</td>
+<td width=3D"435" valign=3D"top" style=3D"width:326.0pt;border:solid black =
+1.0pt;=0A=
+  mso-border-themecolor:text1;border-left:none;mso-border-left-alt:solid bl=
+ack .5pt;=0A=
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-bord=
+er-themecolor:=0A=
+  text1;padding:0cm 5.4pt 0cm 5.4pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0cm;margin-b=
+ottom:.0001pt;=0A=
+  text-align:center;line-height:normal">
+<b><span style=3D"font-family:&quot;Times New Roman&quot;,serif">Nomes (mes=
+tres)<o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr>
+<td width=3D"177" valign=3D"top" style=3D"width:133.0pt;border:solid black =
+1.0pt;=0A=
+  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid blac=
+k .5pt;=0A=
+  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-borde=
+r-themecolor:=0A=
+  text1;padding:0cm 5.4pt 0cm 5.4pt">
+<p class=3D"MsoNormal" style=3D"margin-bottom:0cm;margin-bottom:.0001pt;tex=
+t-align:=0A=
+  justify;line-height:normal">
+<span style=3D"font-size:12.0pt;mso-bidi-font-size:=0A=
+  11.0pt;font-family:&quot;Times New Roman&quot;,serif">I =96 Finan=E7as</s=
+pan><span style=3D"font-family:&quot;Times New Roman&quot;,serif"><o:p></o:=
+p></span></p>
+</td>
+<td width=3D"435" valign=3D"top" style=3D"width:326.0pt;border-top:none;bor=
+der-left:=0A=
+  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;=
+=0A=
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-bord=
+er-top-alt:=0A=
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:soli=
+d black .5pt;=0A=
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-bord=
+er-themecolor:=0A=
+  text1;padding:0cm 5.4pt 0cm 5.4pt">
+<p class=3D"MsoNormal" style=3D"margin-bottom:0cm;margin-bottom:.0001pt;tex=
+t-align:=0A=
+  justify;line-height:normal">
+<span style=3D"font-family:&quot;Times New Roman&quot;,serif">Tessari (pres=
+idente), Sylvio, Camacho.<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td width=3D"177" valign=3D"top" style=3D"width:133.0pt;border:solid black =
+1.0pt;=0A=
+  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid blac=
+k .5pt;=0A=
+  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-borde=
+r-themecolor:=0A=
+  text1;padding:0cm 5.4pt 0cm 5.4pt">
+<p class=3D"MsoNormal" style=3D"margin-bottom:0cm;margin-bottom:.0001pt;tex=
+t-align:=0A=
+  justify;line-height:normal">
+<span style=3D"font-size:12.0pt;mso-bidi-font-size:=0A=
+  11.0pt;font-family:&quot;Times New Roman&quot;,serif">II =96 Admiss=E3o e=
+ Graus</span><span style=3D"font-family:&quot;Times New Roman&quot;,serif">=
+<o:p></o:p></span></p>
+</td>
+<td width=3D"435" valign=3D"top" style=3D"width:326.0pt;border-top:none;bor=
+der-left:=0A=
+  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;=
+=0A=
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-bord=
+er-top-alt:=0A=
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:soli=
+d black .5pt;=0A=
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-bord=
+er-themecolor:=0A=
+  text1;padding:0cm 5.4pt 0cm 5.4pt">
+<p class=3D"MsoNormal" style=3D"margin-bottom:0cm;margin-bottom:.0001pt;tex=
+t-align:=0A=
+  justify;line-height:normal">
+<span style=3D"font-family:&quot;Times New Roman&quot;,serif">Sylvio, Camac=
+ho, Serrano (presidente).<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td width=3D"177" valign=3D"top" style=3D"width:133.0pt;border:solid black =
+1.0pt;=0A=
+  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid blac=
+k .5pt;=0A=
+  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-borde=
+r-themecolor:=0A=
+  text1;padding:0cm 5.4pt 0cm 5.4pt">
+<p class=3D"MsoNormal" style=3D"margin-bottom:0cm;margin-bottom:.0001pt;tex=
+t-align:=0A=
+  justify;line-height:normal">
+<span style=3D"font-size:12.0pt;mso-bidi-font-size:=0A=
+  11.0pt;font-family:&quot;Times New Roman&quot;,serif">III =96 Benefic=EAn=
+cia
+</span><span style=3D"font-family:&quot;Times New Roman&quot;,serif"><o:p><=
+/o:p></span></p>
+</td>
+<td width=3D"435" valign=3D"top" style=3D"width:326.0pt;border-top:none;bor=
+der-left:=0A=
+  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;=
+=0A=
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-bord=
+er-top-alt:=0A=
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:soli=
+d black .5pt;=0A=
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-bord=
+er-themecolor:=0A=
+  text1;padding:0cm 5.4pt 0cm 5.4pt">
+<p class=3D"MsoNormal" style=3D"margin-bottom:0cm;margin-bottom:.0001pt;tex=
+t-align:=0A=
+  justify;line-height:normal">
+<span style=3D"font-family:&quot;Times New Roman&quot;,serif">Z=E9 Carlos, =
+B=EAne (presidente), Tessari.
+<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td width=3D"177" valign=3D"top" style=3D"width:133.0pt;border:solid black =
+1.0pt;=0A=
+  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid blac=
+k .5pt;=0A=
+  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-borde=
+r-themecolor:=0A=
+  text1;padding:0cm 5.4pt 0cm 5.4pt">
+<p class=3D"MsoNormal" style=3D"margin-bottom:0cm;margin-bottom:.0001pt;tex=
+t-align:=0A=
+  justify;line-height:normal">
+<span style=3D"font-size:12.0pt;mso-bidi-font-size:=0A=
+  11.0pt;font-family:&quot;Times New Roman&quot;,serif">IV- Eventos<o:p></o=
+:p></span></p>
+</td>
+<td width=3D"435" valign=3D"top" style=3D"width:326.0pt;border-top:none;bor=
+der-left:=0A=
+  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;=
+=0A=
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-bord=
+er-top-alt:=0A=
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:soli=
+d black .5pt;=0A=
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-bord=
+er-themecolor:=0A=
+  text1;padding:0cm 5.4pt 0cm 5.4pt">
+<p class=3D"MsoNormal" style=3D"margin-bottom:0cm;margin-bottom:.0001pt;tex=
+t-align:=0A=
+  justify;line-height:normal">
+<span style=3D"font-family:&quot;Times New Roman&quot;,serif">Jair Felix (p=
+residente), Hideraldo, Edu Lopes, Wladimir, Patriniani.<o:p></o:p></span></=
+p>
+</td>
+</tr>
+<tr>
+<td width=3D"177" valign=3D"top" style=3D"width:133.0pt;border:solid black =
+1.0pt;=0A=
+  mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid blac=
+k .5pt;=0A=
+  mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-borde=
+r-themecolor:=0A=
+  text1;padding:0cm 5.4pt 0cm 5.4pt">
+<p class=3D"MsoNormal" style=3D"margin-bottom:0cm;margin-bottom:.0001pt;tex=
+t-align:=0A=
+  justify;line-height:normal">
+<span style=3D"font-size:12.0pt;mso-bidi-font-size:=0A=
+  11.0pt;font-family:&quot;Times New Roman&quot;,serif">V- Cultura e Tecnol=
+ogia<o:p></o:p></span></p>
+</td>
+<td width=3D"435" valign=3D"top" style=3D"width:326.0pt;border-top:none;bor=
+der-left:=0A=
+  none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;=
+=0A=
+  border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-bord=
+er-top-alt:=0A=
+  solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:soli=
+d black .5pt;=0A=
+  mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-bord=
+er-themecolor:=0A=
+  text1;padding:0cm 5.4pt 0cm 5.4pt">
+<p class=3D"MsoNormal" style=3D"margin-bottom:0cm;margin-bottom:.0001pt;tex=
+t-align:=0A=
+  justify;line-height:normal">
+<span style=3D"font-family:&quot;Times New Roman&quot;,serif">Egoshi (presi=
+dente), Mave.&nbsp; Marcelo Eloy.<o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</p>
+<p><br>
+</p>
+<p>Nossa meta imediata =E9 de conversar separadamente com cada comiss=E3o p=
+ara estabelecer um conjunto de objetivos de trabalho para o per=EDodo de vi=
+g=EAncia de nossa veneralato.&nbsp;</p>
+<p><br>
+</p>
+<p>Fraternalmente,</p>
+<p><br>
+</p>
+<p>Ir.=B4. Fortes.</p>
+</div>
+</body>
+</html>
+
+--_000_BN3PR18MB06108B9F16BB911F9F97CE62C8BF0BN3PR18MB0610namp_--

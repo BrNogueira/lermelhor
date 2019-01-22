@@ -1,0 +1,233 @@
+Return-Path: <bounce+67409-4-cd7b189095+marco=digitalfotoimagem.com.br@com.mapamental.org>
+Delivered-To: marco@digitalfotoimagem.com.br
+Received: from hserv9.homehost.com.br
+	by hserv9.homehost.com.br (Dovecot) with LMTP id GRtQGFPsiVijVwMAY7g2cw
+	for <marco@digitalfotoimagem.com.br>; Thu, 26 Jan 2017 10:32:19 -0200
+Return-path: <bounce+67409-4-cd7b189095+marco=digitalfotoimagem.com.br@com.mapamental.org>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Thu, 26 Jan 2017 10:32:19 -0200
+Received: from smtp163-2.1-hostingservice.com ([94.46.142.163]:53949)
+	by hserv9.homehost.com.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <bounce+67409-4-cd7b189095+marco=digitalfotoimagem.com.br@com.mapamental.org>)
+	id 1cWjDv-000ve6-8u
+	for marco@digitalfotoimagem.com.br; Thu, 26 Jan 2017 10:32:19 -0200
+Received: from smtp163.1-hostingservice.com (smtp163.1-hostingservice.com [94.46.251.163])
+	by smtp163.1-hostingservice.com (Postfix) with ESMTPS id 9E7CF1161F5
+	for <marco@digitalfotoimagem.com.br>; Thu, 26 Jan 2017 12:31:33 +0000 (WET)
+DKIM-Filter: OpenDKIM Filter v2.10.3 smtp163.1-hostingservice.com 9E7CF1161F5
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mapamental.org;
+	s=egoi; t=1485433893;
+	bh=4FffMuYcE+TWc4/4HcrWua46KJ/f+egJFTGZCA3DKBc=;
+	h=Date:To:From:Reply-To:Subject:List-Subscribe:List-Unsubscribe:
+	 From:Subject:To;
+	b=smVnqVhpfgjKCe0zalvn1BpG8cQFitPemaqVZV/XdxzIOUEWJrfB7yKuvZT9qLcx9
+	 b95Iq8fHULXJFD6sEMQxvs1BXOeapX2H++hl04+9GsOR6kbPLvmpplHe5V/NIsc5F6
+	 g2ysqNFdHwjz60GKSVpuXTz9boQRvYZ4+om2moX8=
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=1-hostingservice.com;
+	s=email; t=1485433893;
+	bh=4FffMuYcE+TWc4/4HcrWua46KJ/f+egJFTGZCA3DKBc=;
+	h=Date:To:From:Reply-To:Subject:List-Subscribe:List-Unsubscribe:
+	 From:Subject:To;
+	b=rjth0wmuHfffyEf4BE+5UP0ZTZbf7FZyKE8tGax+0CfkmQp1shJ9OyobfP0KK3taj
+	 7ingRPaW3+cFnwlJBvONXAhLTc6uVHi0CCmTKNRNCa5xTuLLj3thmPqJuVYKwaIIfl
+	 vEkPqEshAwSNeitqBlmF1ZKQ1CbGaGrNAXR1ZBpQ=
+Date: Thu, 26 Jan 2017 12:31:01 +0000
+To: marco@digitalfotoimagem.com.br
+From: "Filipe - MapaMental.org" <contato@mapamental.org>
+Reply-To: "Filipe - MapaMental.org" <contato@mapamental.org>
+Subject: =?utf-8?Q?[Aula]_Como_Lidar_com_o_Excesso_de_Informa=C3=A7=C3=A3o_Utiliza?=
+ =?utf-8?Q?ndo_Mapas_Mentais?=
+Message-ID: <7a26aef16fec11e4b43634bca7cfb3c6@smtp163.1-hostingservice.com>
+X-Priority: 3
+X-Mailer: E-goi 2.6
+X-Client: 67409
+X-List: 4
+X-Campaign: 414e9536a749c47d7ecb2ba25492ad16
+List-Subscribe: 2016-11-05
+List-Unsubscribe: <mailto:unsubscribe+4-67409-414e9536a749c47d7ecb2ba25492ad16-cd7b189095-com.mapamental.org@com.mapamental.org?subject=unsubscribe>, <http://com.mapamental.org/rm.php?dodel=dodel&u=cd7b189095&l=4&c=67409&e=414e9536a749c47d7ecb2ba25492ad16>
+X-Report-Abuse: Please report abuse for this campaign here: http://com.mapamental.org/abuse.php?u=cd7b189095&l=4&c=67409&e=414e9536a749c47d7ecb2ba25492ad16
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_7a26aef16fec11e4b43634bca7cfb3c6"
+
+This is a multi-part message in MIME format.
+
+--b1_7a26aef16fec11e4b43634bca7cfb3c6
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+ Bom dia, tudo bem? Sabe aquela sensacao de que nao damos conta da avalanch=
+e de informacao que temos no dia a dia... Aquele livro que voce leu e nao l=
+embra do conteudo? Ou entao aquela palestra que participou e o conteudo se =
+dissipou em sua mente? Se=0A=0A=0A=0A=0A   Bom dia, tudo bem?=0A   Sabe aqu=
+ela sensacao de que nao damos conta da avalanche de informacao=0A   que tem=
+os no dia a dia...=0A   Aquele livro que voce leu e nao lembra do conteudo?=
+ Ou entao aquela=0A   palestra que participou e o conteudo se dissipou em s=
+ua mente? Sem=0A   falar daquele projeto que voce nao consegue tirar do pap=
+el....=0A   E sobre isso que quero falar com voce: Como Lidar com o Excesso=
+ de=0A   Informacao [1]Utilizando os Mapas Mentais!=0A   Gravei uma aula on=
+de mostro COMO e possivel utilizar os mapas mentais=0A   para nos ajudar a =
+transformar pura informacao em CONHECIMENTO.=0A   Espero que seja util para=
+ voce, assista agora:=0A   [2]>>> Clique Aqui Para Assistir a Aula <<<=0A  =
+ Um grande abraco,=0A   Filipe - MapaMental.org=0A=0AReferences=0A=0A   1. =
+"http://com.mapamental.org/go/f3615dc5e414-9536a749c47d7-cb2ba25492ad16ecd7=
+b189095e4ejJuedK8se4WebyQn"=0A   2. "http://com.mapamental.org/go/f3615dc5e=
+414-9536a749c47d7-cb2ba25492ad16ecd7b189095e4ejJuedK8se4WebyQn"=0A=0A=0ARem=
+over-me da lista=0Ahttp://com.mapamental.org/del/f3615dc5e414-9536a749c47d7=
+-cb2ba25492ad16e4WedK8sejJue4ecd7b189095=0A
+
+--b1_7a26aef16fec11e4b43634bca7cfb3c6
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><style type=3D"te=
+xt/css">body{width:100% !important; -webkit-text-size-adjust:100%; -ms-text=
+-size-adjust:100%; margin:0; padding:0;} .moz-forward-container .original-o=
+nly, blockquote .original-only, .WordSection1 .original-only {width: 0px; h=
+eight: 0px; overflow: hidden; display: none !important;}#outlook a{padding:=
+0;} p {margin: 0px;} p {margin-bottom:0; margin:0;} .ExternalClass {width:1=
+00%;} .ExternalClass p {margin:0px} .ExternalClass, .ExternalClass p, .Exte=
+rnalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div =
+{line-height: 100%;} table td {border-collapse:collapse; table td {border-c=
+ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;} a {word-wrap=
+:break-word;} .easygoi-rss img {height: auto; width: 100%;}</style></head><=
+body><!-- Gmail hack -->=0A<div style=3D"display:none; white-space:nowrap; =
+font:15px courier; color:#ffffff; line-height:0; width:600px !important; mi=
+n-width:600px !important; max-width:600px !important;">&nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>=0A<!-- /Gmail hack --><span s=
+tyle=3D"visibility: hidden; display: none !important; display: none;"> Bom =
+dia, tudo bem? Sabe aquela sensacao de que nao damos conta da avalanche de =
+informacao que temos no dia a dia... Aquele livro que voce leu e nao lembra=
+ do conteudo? Ou entao aquela palestra que participou e o conteudo se dissi=
+pou em sua mente? Se</span><img border=3D"0" src=3D"http://com.mapamental.o=
+rg/stats.php?l=3D414e9536a749c47d7ecb2ba25492ad16&u=3Dcd7b189095&ca_id=3D29=
+6&cl_id=3D67409&l_id=3D4&m_id=3D2966907&hf=3D21&i=3D1" style=3D"width: 3px =
+!important; height: 2px !important; overflow: hidden; border:0px solid tran=
+sparent; margin: 0;" width=3D"3" height=3D"2" align=3D"middle" border=3D"0"=
+ alt=3D""><div class=3D"eggmhk" style=3D"display: none; white-space: nowrap=
+; color: rgb(255, 255, 255); line-height: 0; max-width: 500px; min-width: 5=
+00px; width: 500px;">=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0</div>=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tabl=
+e border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0"><tr><td w=
+idth=3D"50%" valign=3D"top" >=C2=A0</td><td valign=3D"top" ><table width=3D=
+"500" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" ><tr><td style=3D"wi=
+dth: 580px;"><!--[if !mso]><!-- --><table cellspacing=3D"0" cellpadding=3D"=
+0" border=3D"0" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;ms=
+o-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 10=
+0%; mso-hide:all;"><tr><td valign=3D"top" style=3D"color: rgb(0, 0, 0); tex=
+t-size-adjust: 100%; width: 500px; display: block; mso-table-lspace: 0pt;ms=
+o-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 10=
+0%;mso-line-height-rule:exactly; mso-hide:all;"><span style=3D"font-family:=
+arial,helvetica,sans-serif;"><span style=3D"font-size:14px;"><span style=3D=
+"font-weight: normal; margin: 0px; color: rgb(0, 0, 0);">Bom dia, tudo bem?=
+<br><br>Sabe aquela sensa=C3=A7=C3=A3o de que n=C3=A3o damos conta da avala=
+nche de informa=C3=A7=C3=A3o que temos no dia a dia...<br><br>Aquele livro =
+que voc=C3=AA leu e n=C3=A3o lembra do conte=C3=BAdo? Ou ent=C3=A3o aquela =
+palestra que participou e o conte=C3=BAdo se dissipou em sua mente? Sem fal=
+ar daquele projeto que voc=C3=AA n=C3=A3o consegue tirar do papel....<br><b=
+r>=C3=89 sobre isso que quero falar com voc=C3=AA: <strong>Como Lidar com o=
+ Excesso de Informa=C3=A7=C3=A3o <a href=3D"http://com.mapamental.org/go/f3=
+615dc5e414-9536a749c47d7-cb2ba25492ad16ecd7b189095e4ejJuedK8se4WebyQn" styl=
+e=3D"text-size-adjust: 100%;">Utilizando os Mapas Mentais</a>!</strong><br>=
+<br>Gravei uma aula onde mostro <strong>COMO</strong> =C3=A9 poss=C3=ADvel =
+utilizar os mapas mentais para nos ajudar a <strong>transformar pura inform=
+a=C3=A7=C3=A3o em CONHECIMENTO.</strong><br><br>Espero que seja =C3=BAtil p=
+ara voc=C3=AA, assista agora:<br><br><span style=3D"font-size:16px;"><a hre=
+f=3D"http://com.mapamental.org/go/f3615dc5e414-9536a749c47d7-cb2ba25492ad16=
+ecd7b189095e4ejJuedK8se4WebyQn" style=3D"text-size-adjust: 100%;">>>> Cliqu=
+e Aqui Para Assistir a Aula <<<</a></span><br><br>Um grande abra=C3=A7o,<br=
+><br>Filipe - MapaMental.org</span></span></span><br>=C2=A0</td></tr></tabl=
+e><!--<![endif]--><!--[if gte mso 12]><table cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0" style=3D"border-collapse: collapse;mso-table-lspace: 0p=
+t;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;"><tr><td valign=3D"top" style=3D"color: rgb(0, 0, 0); text-size-adj=
+ust: 100%; width: 500px; display: block; mso-table-lspace: 0pt;mso-table-rs=
+pace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-lin=
+e-height-rule:exactly;"><span style=3D"font-family:arial,helvetica,sans-ser=
+if;"><span style=3D"font-size:14px;"><span style=3D"font-weight: normal; ma=
+rgin: 0px; color: rgb(0, 0, 0);">Bom dia, tudo bem?<br><br>Sabe aquela sens=
+a=C3=A7=C3=A3o de que n=C3=A3o damos conta da avalanche de informa=C3=A7=C3=
+=A3o que temos no dia a dia...<br><br>Aquele livro que voc=C3=AA leu e n=C3=
+=A3o lembra do conte=C3=BAdo? Ou ent=C3=A3o aquela palestra que participou =
+e o conte=C3=BAdo se dissipou em sua mente? Sem falar daquele projeto que v=
+oc=C3=AA n=C3=A3o consegue tirar do papel....<br><br>=C3=89 sobre isso que =
+quero falar com voc=C3=AA: <strong>Como Lidar com o Excesso de Informa=C3=
+=A7=C3=A3o <a href=3D"http://com.mapamental.org/go/f3615dc5e414-9536a749c47=
+d7-cb2ba25492ad16ecd7b189095e4ejJuedK8se4WebyQn" style=3D"text-size-adjust:=
+ 100%;">Utilizando os Mapas Mentais</a>!</strong><br><br>Gravei uma aula on=
+de mostro <strong>COMO</strong> =C3=A9 poss=C3=ADvel utilizar os mapas ment=
+ais para nos ajudar a <strong>transformar pura informa=C3=A7=C3=A3o em CONH=
+ECIMENTO.</strong><br><br>Espero que seja =C3=BAtil para voc=C3=AA, assista=
+ agora:<br><br><span style=3D"font-size:16px;"><a href=3D"http://com.mapame=
+ntal.org/go/f3615dc5e414-9536a749c47d7-cb2ba25492ad16ecd7b189095e4ejJuedK8s=
+e4WebyQn" style=3D"text-size-adjust: 100%;">>>> Clique Aqui Para Assistir a=
+ Aula <<<</a></span><br><br>Um grande abra=C3=A7o,<br><br>Filipe - MapaMent=
+al.org</span></span></span><br>=C2=A0</td></tr></table><![endif]--></td></t=
+r></table></td><td width=3D"50%" valign=3D"top" >=C2=A0</td></tr></table><d=
+iv style=3D"clear:both !important; height: 0 !important;"></div><table bord=
+er=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" style=3D"backgr=
+ound-color: #FFFFFF; display:table !important;">
+    <tr style=3D"display:table-row !important;">
+        <td width=3D"100%" style=3D"background-color: #FFFFFF; display:tabl=
+e-cell !important;" align=3D"center" colspan=3D"3">
+            <table width=3D"100%" cellpadding=3D"5" cellspacing=3D"0" style=
+=3D"max-width: 600px; display:table !important;">              =20
+
+               <tr style=3D"display:table-row !important;">
+                    <td style=3D"text-align: center;; display:table-cell !i=
+mportant;">
+                        <table width=3D"100%" id=3D"table1" style=3D"displa=
+y:table !important;">
+                            <tr style=3D"display:table-row !important;">
+                                <td width=3D"85%" style=3D"font-style: norm=
+al;font-family: Arial, Helvetica, sans-serif; text-align: left; font-size: =
+13px; color:#999999;; display:table-cell !important;">Esta mensagem foi env=
+iada para <b>marco@digitalfotoimagem.com.br</b> por <b>contato@mapamental.o=
+rg</b><br>Rua Seis 13500190 Rio Claro Brasil SP Brasil<br><br><span style=
+=3D"font-style: normal;font-family: Arial, Helvetica, sans-serif; text-alig=
+n: left; font-size: 13px; font-weight:bold; color:#666666;"><span class=3D"=
+original-only"><a style=3D"color: #666666; text-decoration: underline; font=
+-family: Arial, Helvetica, sans-serif; font-size:13px; font-weight: bold;" =
+href=3D"http://com.mapamental.org/del/f3615dc5e414-9536a749c47d7-cb2ba25492=
+ad16e4WedK8sejJue4ecd7b189095" >Remover</a></span>=0A</span></td>
+                                <td width=3D"15%" style=3D"font-style: norm=
+al;font-family: Arial, Helvetica, sans-serif; text-align: right; font-size:=
+ 13px; color:#999999;; display:table-cell !important;" valign=3D"top"> <a t=
+arget=3D"_blank" href=3D"http://com.mapamental.org/certifiedby_br/?campaign=
+_id=3D414e9536a749c47d7ecb2ba25492ad16&email=3Dmarco@digitalfotoimagem.com.=
+br&f=3DdK8sejJue4W&aff=3Da5c2760a03"><img border=3D"0" src=3D"http://com.ma=
+pamental.org/recursos/33189867a03c515c57d3e24a81304e46/egoi_certified.png" =
+width=3D"70" height=3D"80" align=3D"middle" border=3D"0" alt=3D""></a></td>
+                            </tr>
+                        </table>
+                        </td>
+                </tr>
+                <tr style=3D"display:table-row !important;">
+                    <td width=3D"100%" style=3D"font-style: normal;font-fam=
+ily: Arial, Helvetica, sans-serif; text-align: left; color:#999999; font-si=
+ze: 13px; height:40px; vertical-align:top; display:table-cell !important;">=
+</td>
+                </tr>
+
+            </table>
+        </td>
+    </tr>
+
+<!-- ////// linha necess=C3=A1ria para n=C3=A3o quebrar o footer no Mac Mai=
+l //// -->    =20
+    <tr style=3D"display:table-row !important;">
+      <td colspan=3D"3" width=3D"100%" style=3D"display:table-cell !importa=
+nt;"></td>
+    </tr>       =20
+<!-- ///////////// -->=20
+</table></body></html>
+
+
+--b1_7a26aef16fec11e4b43634bca7cfb3c6--
+

@@ -1,0 +1,81 @@
+Return-path: <daniellamir@gmail.com>
+Envelope-to: marco@digitalfotoimagem.com.br
+Delivery-date: Sat, 21 Feb 2015 02:48:26 -0200
+Received: from mail-wi0-f171.google.com ([209.85.212.171]:40111)
+	by hserv20.homehost.com.br with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.80.1)
+	(envelope-from <daniellamir@gmail.com>)
+	id 1YP1zG-0006A0-MM
+	for marco@digitalfotoimagem.com.br; Sat, 21 Feb 2015 02:48:25 -0200
+Received: by mail-wi0-f171.google.com with SMTP id hi2so6852278wib.4
+        for <marco@digitalfotoimagem.com.br>; Fri, 20 Feb 2015 20:48:11 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=date:subject:message-id:from:to:mime-version:content-type
+         :content-transfer-encoding;
+        bh=nrUd1c5ClC3Wxt8bMn6F9ppG8NBjwK9cbDUaex6pO5M=;
+        b=aupjildyLBJd+KIw1B4PBoqpFeXqi3WvcXLwZa5099EK8eoER5Q3a/wpI+IR3gSWUN
+         Ffsjh4hVUv7A8eTGBhca1+JKGu9a6eFgsRkKsQorN+6NzKI3UgTPsOAEuu35cemok9P/
+         TCV6V27eI7aUKTuR8POaRLig2OwszHQfaud68xCwKj/1zXQsr1t4b8uk+sbEqY6ywWdA
+         syyjlkGaAiBXAvPF/v9sF5VB1pJfvwS/Ssmf692CyrbyVuXPSAvZ5bM8Q5Yi9SUDHVri
+         wUdIPiMAjA7+KLk2HIRgODO8Umz+lArKXINKU5pSke3YpcXGRaQ2rGVESj+dKm0lKcuB
+         954Q==
+X-Received: by 10.194.220.7 with SMTP id ps7mr1712750wjc.84.1424494091405;
+        Fri, 20 Feb 2015 20:48:11 -0800 (PST)
+Received: from [172.16.1.107] (LRouen-151-71-119-147.w193-253.abo.wanadoo.fr. [193.253.237.147])
+        by mx.google.com with ESMTPSA id ee10sm9775425wib.0.2015.02.20.20.48.09
+        for <marco@digitalfotoimagem.com.br>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Fri, 20 Feb 2015 20:48:10 -0800 (PST)
+Date: Sat, 21 Feb 2015 05:43:12 +0100
+Subject: =?US-ASCII?Q?Bom_dia_.....Marcos_voce_?=
+ =?US-ASCII?Q?definiu_valores=3F=0APreciso_qu?=
+ =?US-ASCII?Q?e_voce_separe_xerox_do_rg_e_cpf_,_comprovante_de_ender?=
+ =?US-ASCII?Q?eco_atualizado__e_o_ultimo_holerite_pode_escanear_ou_?=
+ =?US-ASCII?Q?entregar_na_av_sao_miguel_o_que_for_melhor_para_voce_=3F_?=
+Message-ID: <2pfweowtn6pt4lilp14ufxa5.1424493792748@email.android.com>
+From: daniellamir <daniellamir@gmail.com>
+To: marco@digitalfotoimagem.com.br
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+X-Spam-Status: No, score=-2.0
+X-Spam-Score: -19
+X-Spam-Bar: --
+X-Ham-Report: Spam detection software, running on the system "hserv20.homehost.com.br", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Voce ja achou o carro? Enviado pelo meu BLU Android Smartphone
+    [...] 
+ 
+ Content analysis details:   (-2.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: digitalfotoimagem.com.br]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (daniellamir[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0000]
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+X-Spam-Flag: NO
+
+Vm9jZSBqYSBhY2hvdSBvIGNhcnJvPyAKCgoKCgpFbnZpYWRvIHBlbG8gbWV1IEJMVSBBbmRyb2lk
+IFNtYXJ0cGhvbmUKCm1hcmNvQGRpZ2l0YWxmb3RvaW1hZ2VtLmNvbS5iciBlc2NyZXZldToKCj5C
+b20gZGlhIGNvbmZvcm1lIGNvbnZlcnNhbW9zICBnb3N0YXJpYSBkZSBmYXplciBvIGVtcHLDqXN0
+aW1vLiBNZXUgbm9tZSAKPsOpIE1hcmNvIEEuIFAuIFBhcmlzZS4gIFByby4gRG8gRXN0YWRvIGUg
+cHJlZmVpdHVyYS4gIFZjcyBqw6EgZml6ZXJhbSBhIAo+c2ltdWxhZG8uIFBvciBmYXZvciBlbnRy
+ZSBlbSBjb250YXRvLiBDZWwuICBUaW0gOTgzOTg0MzQ2LiAgICAgQ2VsIHdhdHMgCj45ODk1MDAz
+MDMK
+
