@@ -169,11 +169,11 @@ echo 'llorix-one-lite-top-margin-5px'; }
 					</div>
 				</div>
 
-				<div class="row button-col-roda">
-					<button id="print-btn">
-						<a href="javascript:window.print();">Imprimir</a>
+				<div class="row button-col">
+					<button id="print-btn" onclick="printPage()">
+					Imprimir
 					</button>
-					</div>
+				</div>
 
 				<?php
 			wp_link_pages(
@@ -186,62 +186,16 @@ echo 'llorix-one-lite-top-margin-5px'; }
 			</div><!-- .entry-content -->
 
 			<footer class="entry-footer">
-				<?php edit_post_link( esc_html__( 'Edit', 'llorix-one-lite' ), '<span class="edit-link">', '</span>' ); ?>
+
+			<script>
+				function printPage() {
+				window.print();
+				}
+			</script>
 			</footer><!-- .fentry-footer -->
 		</article><!-- #post-## -->
 
-		<script type="text/javascript">
-			(function ($) {
-				$(function () {
-					var graus = 36;
-					for (var x = 1; x < 10; x++) {
-						var clone = $(".svge:eq(0)").clone(true, true);
-						clone.css({
-							transform: "rotate(" + graus + "deg)"
-						});
-						$(".dive").append(clone);
-						graus += 36;
-					}
-					$("path").on("click", function () {
-						var pathID = $(this).attr('id');
-						pathID = pathID.replace('slice', '');
-						var pathCount = 10;
-						for (i = 1; i <= pathCount; i++) {
-							if (i > pathID) {
-								$(this).siblings("#slice" + i).css("fill", "white");
-							} else if (i < pathID) {
-								$(this).siblings("#slice" + i).css("fill", "gray");
-							} else {
-								$(this).css("fill", "black");
-							}
-
-							console.log('objeto de id = ' + pathID);
-							console.log('contador = ' + i);
-						}
-						pathID = pathID.replace('slice', '');
-
-					});
-				});
-			})(jQuery);
-		</script>
-		<script>
-			document.getElementById('print-btn').onclick = function() {
-				var content = document.getElementById('content').innetrHTML, 
-				tela_impressão = window.open());
-				tela_impressao.document.write('content');
-
-				tela_impressao.document.write(content);
-				tela_impressao.window.print(content);
-				tela_impressao.window.close();
-				};	
-			</script>
-		<!-- <script>
-			function print_button_shortcode($atts) {
-				return '<a class="print-link" href="javascript:window.print()">Print This Page</a>';
-			}
-			add_shortcode('print_button', 'print_button_shortcode');
-		</script> -->
-		<?php }
+	<?php }
 		echo '</main>';
 		echo '</div>';
 

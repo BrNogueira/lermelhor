@@ -53,42 +53,54 @@ echo 'llorix-one-lite-top-margin-5px'; }
 ?>
 "
 			 itemprop="text">
-				<img class="size-large wp-image-951" src="https://lermelhor.com.br/wp-content/uploads/2018/12/blur-close-up-focus-574285-1024x683.jpg"
-				 alt="Menina estudando" width="730px" height="487">
-				 <button class="btn">
-						<a href="https://lermelhor.com.br/modulo-kids/" target="_blank" >Modulo Kids</a>
-					</button>
-				 <br>
-				 <p>Foto por Tirachard Kumtanom do Pexels</p>
-					<br>
-
-				<br>
-				<h2>1ª Sessão de Coaching:</h2>
-				<p>Auto avaliação do seu aprendizado no momento atual.</p>
-
-				<h2 style="">Fechamento da 1ª Sessão:</h2>
-
-				<ul style="">
-					<li>O que aprendeu</li>
-					<li>Quais mudanças necessárias</li>
-					<li>Qual o sentido do aprendizado</li>
-				</ul>
-				<h2 style="">Sessão de Neurociências</h2>
-
-
-				<p style="">Empoderamento</p>
-
-				<ul style="">
-					<li>Ensaio mental</li>
-					<li>Como aumentar o desempenho mental</li>
-				</ul>
-
-				<h2>Relaxamento</h2>
-				<p>3 Cromoterapia</p>
-
-				<h2>Leitura Dinâmica</h2>
-				<p>3 exercícios</P>
+			
+				<h2>Primeira sessão / Neurociências</h2>
 				
+				<h3>Clique na imagem para prosseguir!</h3>
+				<a href="https://lermelhor.com.br/coaching-de-aprendizado/" target="_blank"><img src="https://lermelhor.com.br/wp-content/uploads/2019/01/Brandsorm-lermelhor-ok.jpg"
+					 alt="BrandStorm" width="600" height="487"></a>
+
+				<h2>Segunda sessão / Neurociências</h2>
+				
+				<h3>Clique na imagem para prosseguir!</h3>
+				<a href="https://lermelhor.com.br/coaching-de-aprendizado-gear/" target="_blank"><img src="https://lermelhor.com.br/wp-content/uploads/2019/01/coaching-de-aprendizagem.jpeg"
+					 alt="Gear Brain" width="600" height="487"></a>
+
+					 <h2><label> Roda de Aprendizagem</label></h2><br>
+					 <h3>Clique na imagem para prosseguir!</h3>
+
+<a target="_blank" href="https://lermelhor.com.br/roda/"><img class="alignnone size-large wp-image-960" src="https://lermelhor.com.br/wp-content/uploads/2018/12/Rodadeaprendizagem.jpg" alt="" width="730" height="478"></a>
+
+<?php echo do_shortcode(' [contact-form-7 id="972" title="Formulário Módulo - 3 Com - Primeiro Formulário"] ') ?>
+<br>
+<br>
+<br>
+<br>
+<br>
+<iframe class="vimeo-video" src="https://player.vimeo.com/video/189995490" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="640" height="480" frameborder="0"></iframe>
+<iframe class="vimeo-video" src="https://player.vimeo.com/video/188327982" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="640" height="480" frameborder="0"></iframe>
+<img src="https://lermelhor.com.br/wp-content/uploads/2018/12/Sinapse.jpg" alt="" class="alignnone size-full wp-image-1066" width="496" height="268">
+<br>
+<h4 class="text">Para que as novas sinapses sejam realizadas entre os neurônios é essencial que fale as palavras em voz alta durante esta atividade com áudio.</h4>
+<div align="center"></div>
+<div align="center">Atividade para potencializar o seu desempenho</div>
+<iframe class="vimeo-video" src="https://player.vimeo.com/video/224708292" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="640" height="480" frameborder="0"></iframe>
+<iframe class="vimeo-video" src="https://player.vimeo.com/video/240504733" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="640" height="480" frameborder="0"></iframe>
+<iframe class="vimeo-video" src="https://player.vimeo.com/video/188313814" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="640" height="480" frameborder="0"></iframe>
+<iframe class="vimeo-video" src="https://player.vimeo.com/video/188831735" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="640" height="480" frameborder="0"></iframe>
+<div align="center"><br>Fechamento da primeira sessão do Modelo de Coaching</div>
+
+
+<?php echo do_shortcode('[contact-form-7 id="1021" title="Formulario Modulo 3 - Segundo Formulário"]') ?>
+
+<h2>Essa é uma sessão de "ROADMAP" ( Roteiro) </h2>
+	
+<p>Iremos ajudar organizar o seu roteiro de um Objetivo ou Sonho.<p>
+<p>Planejar a rota do final para o começo.<p>
+
+<h3>Clique na imagem para prosseguir!</h3>
+<h2><a href="https://lermelhor.com.br/roadmap-teste/" target="_blank">
+<img class="alignnone size-large wp-image-960" src="https://lermelhor.com.br/wp-content/uploads/2018/12/SETA-RODMAP.jpg" alt="" width="500" height="478"></a></h2>
 				<?php
 			wp_link_pages(
 				array(

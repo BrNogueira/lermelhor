@@ -53,39 +53,24 @@ echo 'llorix-one-lite-top-margin-5px'; }
 ?>
 "
 			 itemprop="text">
-			 <h2><img class="alignnone size-large wp-image-954" src="https://lermelhor.com.br/wp-content/uploads/2018/12/blur-brainstorming-business-269448-1024x683.jpg" alt="" width="730" height="487"></h2>
-				<h2>1ª Sessão de Coaching</h2>
-				Auto avaliação do seu aprendizado no momento atual.
-				<h2>*Fechamento da 1ª sessão:</h2>
-				<ul>
-					<li>O que aprendeu</li>
-					<li>Quais mudanças necessárias</li>
-					<li>Qual o sentido do aprendizado</li>
-				</ul>
-				<h2>2ª Sessão de Coaching</h2>
-				<ul>
-					<li>Perdas e Ganhos</li>
-					<li>&nbsp;O que ganha se realizar</li>
-					<li>&nbsp;O que perde se realizar</li>
-					<li>&nbsp;O que ganha se não realizar</li>
-					<li>O que perde se não realizar</li>
-				</ul>
-				<h2>1 Sessão de Neurociências</h2>
-				Empoderamento
-				<ul>
-					<li>Ensaio Mental</li>
-					<li>Como aumentar o desempenho mental</li>
-				</ul>
-				<h2>2 Sessões de Programação Neurolinguistica:</h2>
-				Lista de Sonhos e crenças
-				<ul>
-					<li>Identificação de valores</li>
-					<li>Tempestades de ideias</li>
-				</ul>
-				<h2>Relaxamento</h2>
-				- 5 Cromoterapia
-				<h2>Leitura Dinâmica</h2>
-				- 5 Exercícios
+			 <?php echo do_shortcode('[contact-form-7 id="1109" title="ROTEIRO PARA IDENTIFICAR CRENÇAS"]') ?>
+
+			 
+
+<iframe src="https://player.vimeo.com/video/188313818" allowfullscreen="" width="640" height="480" frameborder="0"></iframe>
+
+ATIVIDADE DE ANCORA E EMOÇÕES
+Essa atividade ajudará você compreender a importância das conquista e fortalecer os sentimentos bons que te motivam para as novas conquistas.
+
+Vamos ancorar as emoções e sentimentos de realização. Escreva cinco conquistas que você já teve em sua vida e gerou esse sentimento de satisfação e realização.
+<?php echo do_shortcode('[contact-form-7 id="1479" title="Formulário Modulo 3 Ancoras e Emoções"]') ?>
+
+
+
+<iframe src="https://player.vimeo.com/video/188831940" allowfullscreen="" width="640" height="480" frameborder="0"></iframe>
+
+AVALIAÇÃO DE APRENDIZADO CONTINUO
+<?php echo do_shortcode(' [contact-form-7 id="1480" title="Formulário Modulo 3 AVALIAÇÃO DE APRENDIZADO CONTINUO"] ') ?>
 
 				<?php
 			wp_link_pages(

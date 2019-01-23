@@ -53,6 +53,17 @@ echo 'llorix-one-lite-top-margin-5px'; }
 ?>
 "
 			 itemprop="text">
+			 <h2><img class="alignnone size-large wp-image-960" src="https://lermelhor.com.br/wp-content/uploads/2018/12/achievement-agreement-arms-1068523-1024x670.jpg" alt="" width="730" height="478"></h2>
+			 <button class="btn">
+				<a href="https://lermelhor.com.br/modulo1/" target="_blank" >Modulo 1</a>
+			</button>
+			<button class="btn">
+				<a href="https://lermelhor.com.br/modulo2/" target="_blank" >Modulo 2</a>
+			</button>
+			<button class="btn">
+				<a href="https://lermelhor.com.br/modulo3/" target="_blank" >Modulo 3</a>
+			</button>
+
 			 <?php echo do_shortcode('[contact-form-7 id="1021" title="Formulario Modulo 3 parte 2"]') ?>
 
 <iframe src="https://player.vimeo.com/video/188313816" allowfullscreen="" width="640" height="480" frameborder="0"></iframe>

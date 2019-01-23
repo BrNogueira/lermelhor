@@ -53,29 +53,48 @@ echo 'llorix-one-lite-top-margin-5px'; }
 ?>
 "
 			 itemprop="text">
-				<div class="row roadmap col-md-12">
-					<img width="500" height="300" src="https://lermelhor.com.br/wp-content/uploads/2018/12/SETAROADMAP-295x300.jpg"
-					 class="attachment-medium size-medium" alt="" srcset="https://lermelhor.com.br/wp-content/uploads/2018/12/SETAROADMAP-295x300.jpg 295w, https://lermelhor.com.br/wp-content/uploads/2018/12/SETAROADMAP.jpg 698w"
-					 sizes="(max-width: 400px) 100vw, 400px">
+			 <h2><img class="alignnone size-large wp-image-954" src="https://lermelhor.com.br/wp-content/uploads/2018/12/blur-brainstorming-business-269448-1024x683.jpg" alt="" width="730" height="487"></h2>
+				
+			<button class="btn">
+				<a href="https://lermelhor.com.br/modulo1/" target="_blank" >Modulo 1</a>
+			</button>
+			<button class="btn">
+				<a href="https://lermelhor.com.br/modulo2/" target="_blank" >Modulo 2</a>
+			</button>
+			 
+			 <h2>1ª Sessão de Coaching</h2>
+				Auto avaliação do seu aprendizado no momento atual.
+				<h2>*Fechamento da 1ª sessão:</h2>
+				<ul>
+					<li>O que aprendeu</li>
+					<li>Quais mudanças necessárias</li>
+					<li>Qual o sentido do aprendizado</li>
+				</ul>
+				<h2>2ª Sessão de Coaching</h2>
+				<ul>
+					<li>Perdas e Ganhos</li>
+					<li>&nbsp;O que ganha se realizar</li>
+					<li>&nbsp;O que perde se realizar</li>
+					<li>&nbsp;O que ganha se não realizar</li>
+					<li>O que perde se não realizar</li>
+				</ul>
+				<h2>1 Sessão de Neurociências</h2>
+				Empoderamento
+				<ul>
+					<li>Ensaio Mental</li>
+					<li>Como aumentar o desempenho mental</li>
+				</ul>
+				<h2>2 Sessões de Programação Neurolinguistica:</h2>
+				Lista de Sonhos e crenças
+				<ul>
+					<li>Identificação de valores</li>
+					<li>Tempestades de ideias</li>
+				</ul>
+				<h2>Relaxamento</h2>
+				- 5 Cromoterapia
+				<h2>Leitura Dinâmica</h2>
+				- 5 Exercícios
 
-					<form>
-						<input class="first-box-text" type="text" placeholder="Digite aqui">
-						<input class="sec-box-text" type="text" placeholder="Digite aqui">
-						<input class="tr-box-text" type="text" placeholder="Digite aqui">
-						<input class="fort-box-text" type="text" placeholder="Digite aqui">
-						<input class="fiv-box-text" type="text" placeholder="Digite aqui">
-						<input class="six-box-text" type="text" placeholder="Digite aqui">
-						<input class="sev-box-text" type="text" placeholder="Digite aqui">
-						<input class="eig-box-text" type="text" placeholder="Digite aqui">
-					</form>
-
-				</div>
-				<script src="./assets/css/bootstrap/bootstrap.min.css"></script>
-				<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-				<div class="row button-col">
-					<button id="print-btn">
-						<a href="javascript:window.print()">Imprimir</a>
-					</button></div>
 				<?php
 			wp_link_pages(
 				array(
@@ -90,18 +109,6 @@ echo 'llorix-one-lite-top-margin-5px'; }
 				<?php edit_post_link( esc_html__( 'Edit', 'llorix-one-lite' ), '<span class="edit-link">', '</span>' ); ?>
 			</footer><!-- .fentry-footer -->
 		</article><!-- #post-## -->
-
-		<script>
-			document.getElementById('print-btn').onclick = function () {
-				var content = document.getElementById('content').innetrHTML,
-					tela_impressão = window.open());
-			tela_impressao.document.write('content');
-
-			tela_impressao.document.write(content);
-			tela_impressao.window.print(content);
-			tela_impressao.window.close();
-			};
-		</script>
 
 		<?php }
 		echo '</main>';

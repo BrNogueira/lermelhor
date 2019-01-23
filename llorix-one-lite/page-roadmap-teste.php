@@ -30,7 +30,7 @@
 			echo 'col-md-12';
 		}
 		echo '">';
-		echo '<main  itemtype="http://schema.org/WebPageElement" itemprop="mainContentOfPage" id="main" class="site-main" role="main">';
+		echo '<main itemscope itemtype="http://schema.org/WebPageElement" itemprop="mainContentOfPage" id="main" class="site-main" role="main">';
 		while ( have_posts() ) {
 			the_post(); ?>
 		<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
@@ -53,45 +53,29 @@ echo 'llorix-one-lite-top-margin-5px'; }
 ?>
 "
 			 itemprop="text">
-				<img class="size-large wp-image-951" src="https://lermelhor.com.br/wp-content/uploads/2018/12/blur-close-up-focus-574285-1024x683.jpg"
-				 alt="Menina estudando" width="730px" height="487">
-				 <br>
-				 <div  class="text-img">
-					 <p>Foto por Tirachard Kumtanom do Pexels</p>
+				<div class="row roadmap col-md-12">
+					<img width="500" height="300" src="https://lermelhor.com.br/wp-content/uploads/2018/12/SETAROADMAP-295x300.jpg"
+					 class="attachment-medium size-medium" alt="" srcset="https://lermelhor.com.br/wp-content/uploads/2018/12/SETAROADMAP-295x300.jpg 295w, https://lermelhor.com.br/wp-content/uploads/2018/12/SETAROADMAP.jpg 698w"
+					 sizes="(max-width: 400px) 100vw, 400px">
+
+					<form>
+						<input class="first-box-text" type="text" placeholder="Digite aqui">
+						<input class="sec-box-text" type="text" placeholder="Digite aqui">
+						<input class="tr-box-text" type="text" placeholder="Digite aqui">
+						<input class="fort-box-text" type="text" placeholder="Digite aqui">
+						<input class="fiv-box-text" type="text" placeholder="Digite aqui">
+						<input class="six-box-text" type="text" placeholder="Digite aqui">
+						<input class="sev-box-text" type="text" placeholder="Digite aqui">
+						<input class="eig-box-text" type="text" placeholder="Digite aqui">
+					</form>
+
 				</div>
-				 <br>
-					<button class="btn">
-						<a href="https://lermelhor.com.br/modulo1/" target="_blank" >Modulo 1</a>
-						</button>
-						<br>
-						<br>
-						<br>
-						<br>
-				<h2>Segunda sessão / Neurociências</h2>
-				<h2>1ª Sessão de Coaching:</h2>
-				<p>Auto avaliação do seu aprendizado no momento atual.</p>
-
-				<h2 style="">Fechamento da 1ª Sessão:</h2>
-
-				<ul style="">
-					<li>O que aprendeu</li>
-					<li>Quais mudanças necessárias</li>
-					<li>Qual o sentido do aprendizado</li>
-				</ul>
-				<h2 style="">1 Sessão de Programação Neurolinguistica</h2>
-
-				<ul style="">
-				<li>Empoderamento</li>
-				<li>Ensaio mental</li>
-				<li>Como aumentar o desempenho mental</li>
-				</ul>
-
-				<h2>Relaxamento</h2>
-				<p>3 Cromoterapia</p>
-
-				<h2>Leitura Dinâmica</h2>
-				<p>3 exercícios</P>
-				
+				<script src="./assets/css/bootstrap/bootstrap.min.css"></script>
+				<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+				<div class="row button-col">
+					<button id="print-btn" onclick="printPage()">
+					Imprimir
+					</button></div>
 				<?php
 			wp_link_pages(
 				array(
@@ -103,7 +87,11 @@ echo 'llorix-one-lite-top-margin-5px'; }
 			</div><!-- .entry-content -->
 
 			<footer class="entry-footer">
-				<?php edit_post_link( esc_html__( 'Edit', 'llorix-one-lite' ), '<span class="edit-link">', '</span>' ); ?>
+				<script>
+					function printPage() {
+					window.print();
+					}
+				</script>
 			</footer><!-- .fentry-footer -->
 		</article><!-- #post-## -->
 

@@ -80,12 +80,10 @@
 				</div>
 
 				<div class="row button-col">
-					<button id="print-btn">
-						<a href="javascript:window.print()">Imprimir</a>
+					<button id="print-btn" onclick="printPage()">
+					Imprimir
 					</button>
-				</div> 
-				<script src="./assets/css/bootstrap/bootstrap.min.css"></script>
-				<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+				</div>
 			<?php
 				wp_link_pages(
 					array(
@@ -98,7 +96,11 @@
 			</div><!-- .entry-content -->
 
 			<footer class="entry-footer">
-				<?php edit_post_link( esc_html__( 'Edit', 'llorix-one-lite' ), '<span class="edit-link">', '</span>' ); ?>
+			<script>
+				function printPage() {
+				window.print();
+				}
+			</script>
 			</footer><!-- .fentry-footer -->
 	
 			</article><!-- #post-## -->

@@ -32,5 +32,12 @@
     text-decoration: none;
   
   }
-  
-  
+  h4.text {
+    color: #666 !important;
+    text-align: center !important;
+  }
+
+  iframe.vimeo-video {
+    padding: 20px !important;
+
+  }

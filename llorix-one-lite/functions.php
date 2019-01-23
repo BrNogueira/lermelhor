@@ -483,6 +483,8 @@ function new_scripts() { // INICIA A FUNÇÂO
 	wp_enqueue_style( 'modulo1', $template_url . '/css/modulo1.css', array(), null, false); // ADD CSS
 	//Main Style
 	wp_enqueue_style( 'modulo-kids', $template_url . '/css/modulo-kids.css', array(), null, false); // ADD CSS
+	//Main Style
+	wp_enqueue_style( 'modulo-teens', $template_url . '/css/modulo-teens.css', array(), null, false); // ADD CSS
 
 	}
 
